@@ -216,14 +216,135 @@ This module will handle:
 
 ### Agent Tools (`src/moffitt_rag/tools/`)
 
-*(Not yet implemented)*
+#### `researcher_search.py`
+**Purpose**: Implements a tool for searching researchers by expertise, interests, or background.
 
-This module will implement specialized tools:
-- ResearcherSearchTool
-- DepartmentFilterTool
-- ProgramFilterTool
-- InterestMatchTool
-- CollaborationTool
+**Key Components**:
+- Semantic search using hybrid search functionality
+- Relevant snippet extraction from search results
+- Formatted results with researcher details
+
+**Key Functions**:
+- `extract_relevant_snippet(text, query)`: Extracts relevant snippets from text
+- `ResearcherSearchTool._run(query)`: Performs the search and formats results
+
+**Usage**:
+```python
+from moffitt_rag.tools import ResearcherSearchTool
+
+# Create the tool
+tool = ResearcherSearchTool()
+
+# Use the tool
+results = tool.run("cancer immunotherapy resistance mechanisms")
+```
+
+#### `department_filter.py`
+**Purpose**: Filters researchers by their academic department.
+
+**Key Components**:
+- Department-based filtering using metadata
+- Department listing functionality
+- Flexible matching for partial department names
+
+**Key Functions**:
+- `DepartmentFilterTool._run(department)`: Filters researchers by department
+- `DepartmentFilterTool._list_departments()`: Lists all available departments
+
+**Usage**:
+```python
+from moffitt_rag.tools import DepartmentFilterTool
+
+# Create the tool
+tool = DepartmentFilterTool()
+
+# List all departments
+departments = tool.run("list")
+
+# Filter by department
+immunology_researchers = tool.run("Immunology")
+```
+
+#### `program_filter.py`
+**Purpose**: Filters researchers by their research program.
+
+**Key Components**:
+- Program-based filtering using metadata
+- Program listing functionality
+- Combines exact matches with semantic search
+
+**Key Functions**:
+- `ProgramFilterTool._run(program)`: Filters researchers by program
+- `ProgramFilterTool._list_programs()`: Lists all available programs
+
+**Usage**:
+```python
+from moffitt_rag.tools import ProgramFilterTool
+
+# Create the tool
+tool = ProgramFilterTool()
+
+# List all programs
+programs = tool.run("list")
+
+# Filter by program
+bioengineering_researchers = tool.run("BioEngineering")
+```
+
+#### `interest_match.py`
+**Purpose**: Finds researchers with similar research interests.
+
+**Key Components**:
+- Similar researcher discovery
+- Interest-based matching
+- Relevant interest and snippet extraction
+
+**Key Functions**:
+- `InterestMatchTool._find_similar_researchers(researcher_name)`: Finds similar researchers
+- `InterestMatchTool._find_matching_interests(query)`: Finds researchers by interests
+- `InterestMatchTool._find_relevant_interests(interests, query)`: Finds relevant interests
+
+**Usage**:
+```python
+from moffitt_rag.tools import InterestMatchTool
+
+# Create the tool
+tool = InterestMatchTool()
+
+# Find researchers similar to a named researcher
+similar_researchers = tool.run("similar to John Cleveland")
+
+# Find researchers with specific interests
+cancer_evolution_researchers = tool.run("cancer evolution")
+```
+
+#### `collaboration.py`
+**Purpose**: Discovers potential collaborations between researchers or departments.
+
+**Key Components**:
+- Interdepartmental collaboration discovery
+- Researcher-specific collaboration suggestions
+- Common research interest detection
+
+**Key Functions**:
+- `CollaborationTool._find_interdepartmental_collaborations(query)`: Finds collaborations between departments
+- `CollaborationTool._find_researcher_collaborations(query)`: Finds collaborators for a researcher
+- `CollaborationTool._find_collaborations_between_groups(group1, group2)`: Finds collaborations between groups
+- `CollaborationTool._find_common_interests(r1, r2)`: Finds common interests between researchers
+
+**Usage**:
+```python
+from moffitt_rag.tools import CollaborationTool
+
+# Create the tool
+tool = CollaborationTool()
+
+# Find interdepartmental collaborations
+dept_collaborations = tool.run("between Biostatistics and Cancer Epidemiology")
+
+# Find collaborators for a researcher
+researcher_collaborations = tool.run("for John Cleveland")
+```
 
 ### API (`src/moffitt_rag/api/`)
 
