@@ -3,5 +3,6 @@ Tools for the agent to interact with researcher data.
 """
 
 from .researcher_search import ResearcherSearchTool
+from .department_filter import DepartmentFilterTool
 
-__all__ = ["ResearcherSearchTool"]
+__all__ = ["ResearcherSearchTool", "DepartmentFilterTool"]
