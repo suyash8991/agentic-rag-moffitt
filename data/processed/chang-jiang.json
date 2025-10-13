@@ -1,0 +1,116 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/chang-jiang",
+  "last_updated": "2025-10-13T21:42:36.649499",
+  "researcher_id": "unknown",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Molecular Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Our lab's research sits at the interface of redox biology, metabolism, and signaling and focuses on understanding the role of antioxidant systems in oxidative stress response and cancer therapy resistance. To address these questions, we combine frontier molecular, genomic, metabolomic, and proteomic approaches.",
+  "research_interests": [
+    "We are interested in the following areas: (1) Role and regulation of mitochondrial antioxidant system in cancer cells. (2) Mitochondria and redox signaling crosstalk in cancer cells. (3) Redox vulnerabilities of human malignancies, focusing on selenoproteins. (4) The impact of onco-viral infection (EBV, HBV and HPV) on the redox status of cancer cells.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "BioEngineering",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L, Duckett DR, Teng M. An Epigenomic fingerprint of human cancers by landscape interrogation of super enhancers at the constituent level. PLoS Comput Biol",
+      "pubmed_id": "38335222",
+      "pmc_id": "PMC10883583",
+      "year": "2024",
+      "journal": "20(2):e1011873",
+      "authors": ""
+    },
+    {
+      "title": "Wang C, Liu X, Liang J, Narita Y, Ding W, Li D, Zhang L, Wang H, Leong MML, Hou I, Gerdt C, Jiang C, Zhong Q, Tang Z, Forney C, Kottyan L, Weirauch MT, Gewurz BE, Zeng MS, Jiang S, Teng M, Zhao B. A DNA tumor virus globally reprograms host 3D genome architecture to achieve immortal growth. Nat Commun",
+      "pubmed_id": "36949074",
+      "pmc_id": "PMC10033825",
+      "year": "2023",
+      "journal": "14(1):1598",
+      "authors": ""
+    },
+    {
+      "title": "Guo R, Zhang Y, Teng M, Jiang C, Schineller M, Zhao B, Doench JG, O'Reilly RJ, Cesarman E, Giulino-Roth L, Gewurz BE. Author Correction: DNA methylation enzymes and PRC1 restrict B-cell Epstein-Barr virus oncoprotein expression. Nat Microbiol",
+      "pubmed_id": "35505195",
+      "year": "2022",
+      "journal": "7(6):928",
+      "authors": ""
+    },
+    {
+      "title": "Jiang C, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM. A CRISPR screen identifies redox vulnerabilities for KEAP1/NRF2 mutant non-small cell lung cancer. Redox Biol",
+      "pubmed_id": "35667246",
+      "pmc_id": "PMC9168196",
+      "year": "2022",
+      "journal": "54:102358",
+      "authors": ""
+    },
+    {
+      "title": "Jiang C, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM. Corrigendum to \"A CRISPR screen identifies redox vulnerabilities for KEAP1/NRF2 mutant non-small cell lung cancer\" [Redox Biol. 54 (2022) 102358]. Redox Biol",
+      "pubmed_id": "35794066",
+      "pmc_id": "PMC9287741",
+      "year": "2022",
+      "journal": "54:102393",
+      "authors": ""
+    },
+    {
+      "title": "Kang YP, Mockabee-Macias A, Jiang C, Falzone A, Prieto-Farigua N, Stone E, Harris IS, DeNicola GM. Non-canonical Glutamate-Cysteine Ligase Activity Protects against Ferroptosis. Cell Metab",
+      "pubmed_id": "33357455",
+      "pmc_id": "PMC7839835",
+      "year": "2021",
+      "journal": "33(1):174-189",
+      "authors": ""
+    },
+    {
+      "title": "Wang Z, Guo R, Trudeau SJ, Wolinsky E, Ast T, Liang JH, Jiang C, Ma Y, Teng M, Mootha V, Gewurz B. CYB561A3 is the key lysosomal iron reductase required for Burkitt B-cell growth and survival. Blood",
+      "pubmed_id": "34232987",
+      "pmc_id": "PMC8641094",
+      "year": "2021",
+      "journal": "138(22):2216-2230",
+      "authors": ""
+    },
+    {
+      "title": "Zhang Y, Jiang C, Trudeau SJ, Narita Y, Zhao B, Teng M, Guo R, Gewurz BE. Histone Loaders CAF1 and HIRA Restrict Epstein-Barr Virus B-Cell Lytic Reactivation. MBio",
+      "pubmed_id": "33109754",
+      "pmc_id": "PMC7593962",
+      "year": "2020",
+      "journal": "11(5)",
+      "authors": ""
+    },
+    {
+      "title": "Guo R, Jiang C, Zhang Y, Govande A, Trudeau SJ, Chen F, Fry CJ, Puri R, Wolinsky E, Schineller M, Frost TC, Gebre M, Zhao B, Giulino-Roth L, Doench JG, Teng M, Gewurz BE. MYC Controls the Epstein-Barr Virus Lytic Switch. Mol Cell",
+      "pubmed_id": "32315601",
+      "pmc_id": "PMC7245572",
+      "year": "2020",
+      "journal": "78(4):653-669",
+      "authors": ""
+    },
+    {
+      "title": "Guo R, Zhang Y, Teng M, Jiang C, Schineller M, Zhao B, Doench JG, O'Reilly RJ, Cesarman E, Giulino-Roth L, Gewurz BE. DNA methylation enzymes and PRC1 restrict B-cell Epstein-Barr virus oncoprotein expression. Nat Microbiol",
+      "pubmed_id": "32424339",
+      "pmc_id": "PMC7462085",
+      "year": "2020",
+      "journal": "5(8):1051-1063",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Defining the age-induced metabolic liabilities of lung adenocarcinoma  \nAward Number:   \nSponsor: Support Accounts-Oper  \nDa S. (PD/PI), Jiang, C. (PD/PI)"
+    },
+    {
+      "description": "Title: Targeting antioxidant vulnerabilities in KEAP1/NRF2 mutant NSCLC  \nAward Number: 5R00CA270423-03  \nSponsor: National Cancer Institute (NCI)  \nJiang, C. (PD/PI)",
+      "source": "NCI",
+      "period": "0423-03"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JiangChang_23086.jpg",
+  "contact": {},
+  "content_hash": "8ee7dcb02f499cce5ddda93f3ea42c83a9a893a71019bd3307f845857efc31c5"
+}

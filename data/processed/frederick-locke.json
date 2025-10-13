@@ -1,0 +1,157 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/frederick-locke",
+  "last_updated": "2025-10-13T21:47:26.757176",
+  "researcher_id": "7878",
+  "name": "",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Blood and Marrow Transplant and Cellular Immunotherapy",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "Dr. Locke is focused on developing strategies to promote T cell responses against tumor associated antigens for patients with cancer.",
+  "research_interests": [
+    "Dr. Locke is a physician and translational investigator specializing in the treatment of lymphoma and multiple myeloma in the Department of Blood and Marrow Transplantation at Moffitt. He is focused on developing strategies to promote T cell responses against tumor associated antigens for patients with these diseases and is the principal investigator for multiple cellular immunotherapy trials. He is a lead investigator for two national multi-center phase I/II studies treating aggressive lymphoma patients with anti-CD19 CAR T cells and the site PI of a randomized multi-center trial testing infusion of tumor (marrow) infiltrating lymphocytes for multiple myeloma. Dr. Locke\u2019s translational research evaluates T cell responses against tumor associated antigens and neoantigens in myeloma patients. His findings justified a trial evaluating the biological activity of a unique Moffitt-created survivin dendritic cell vaccine using a novel schedule in conjunction with autologous transplant. Dr. Locke is the Chair of the Moffitt Cellular Therapy Advisory Committee and the Chair of the Moffitt Immunotherapy Working Group. In addition he is the Service Chief of the Moffitt Immune and Cellular Therapy (ICE-T) service, which was created to provide specialized clinical care for patients undergoing cellular immunotherapy treatments.\n  *"
+  ],
+  "associations": [
+    "Blood and Marrow Transplant and Cellular Immunotherapy",
+    "Immunology",
+    "BioEngineering",
+    "Immuno-Oncology Program",
+    "Experimental Therapeutics Program",
+    "Center of Excellence for Evolutionary Therapy"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Wayne State University",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Wayne State University/Detroit Medical Center",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Chicago Medical Center",
+      "specialty": "Hematology/Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Diamond B, Chahar D, Jain MD, Poos AM, Durante MA, Ziccheddu B, Kaddoura M, Papadimitriou M, Maclachlan KH, Jelinek T, Davies FE, Figura NB, Morgan GJ, Mai EK, Weisel K, Fenk R, Raab MS, Usmani S, Landgren O, Locke FL, Goldschmidt H, Schatz JH, Weinhold N, Maura F. Mutagenic Impact and Evolutionary Influence of Chemoradiotherapy in Hematologic Malignancies. Blood Cancer Discov",
+      "pubmed_id": "40402512",
+      "pmc_id": "PMC12405863",
+      "year": "2025",
+      "journal": "6(5):450-463",
+      "authors": ""
+    },
+    {
+      "title": "Locke FL, Le Gall JB, Fisher PW, Neelapu SS. Reply to: Optimizing Allogeneic Chimeric Antigen Receptor T-Cell Persistence in Relapsed/Refractory Large B-Cell Lymphoma: The Role of KIR Matching. J Clin Oncol",
+      "pubmed_id": "40549998",
+      "year": "2025",
+      "journal": "43(25):2834-2835",
+      "authors": ""
+    },
+    {
+      "title": "Hijazi A, Locke FL, Scholler N, Mattie M, Filosto S, Bedognetti D, Galon J. Facts and Hopes: CAR T-Cell Therapy and Immune Contexture in Non-Hodgkin Lymphoma. Clin Cancer Res",
+      "pubmed_id": "40622821",
+      "pmc_id": "PMC12434396",
+      "year": "2025",
+      "journal": "31(18):3834-3843",
+      "authors": ""
+    },
+    {
+      "title": "Balagurunathan Y, Choi JW, Thompson Z, Jain M, Locke FL. Radiomic Features Prognosticate Treatment Response in CAR-T Cell Therapy. Cancers (Basel)",
+      "pubmed_id": "40507312",
+      "pmc_id": "PMC12153729",
+      "year": "2025",
+      "journal": "17(11)",
+      "authors": ""
+    },
+    {
+      "title": "Hansen DK, Peres LC, Dima D, Richards A, Shune L, Afrough A, Midha S, Dhakal B, Kocoglu MH, Atrash S, Ferreri C, Castaneda O, Davis JA, Bhurtel E, McGuirk J, Wagner C, Bansal R, Costello P, Smith K, Lieberman-Cribbin A, De Avila G, Purvey S, Hosoya H, Mikkilineni L, Oswald LB, Kaur G, Pasvolsky O, Gaballa M, Herr MM, Forsberg P, Janakiram M, Htut M, Asoori Maringanti S, Kalariya N, Hashmi H, Reshef R, Sborov DW, Nadeem O, Anwer F, Khouri J, Raza S, Atanackovic D, Alsina M, Freeman CL, Locke FL, Voorhees P, Anderson LD, Richard S, Martin T, Lin Y, Patel KK, Sidana S. Comparison of Standard-of-Care Idecabtagene Vicleucel and Ciltacabtagene Autoleucel in Relapsed/Refractory Multiple Myeloma. J Clin Oncol",
+      "pubmed_id": "39965175",
+      "pmc_id": "PMC12037312",
+      "year": "2025",
+      "journal": "43(13):1597-1609",
+      "authors": ""
+    },
+    {
+      "title": "Banerjee R, Richards A, Midha S, Afrough A, Anwer F, Atanackovic D, Atrash S, Bachanova V, Beitinjaneh AM, Ouchveridze E, Castaneda Puglianini O, Chhabra S, Cicero KI, Davis JA, Dhakal B, Dima D, Ferreri CJ, Forsberg PA, Freeman CL, Herr MM, Jain T, Janakiram M, Khouri J, Kocoglu MH, Kumar AD, Liu Y, Locke FL, McGuirk JP, Mikkilineni L, Nadeem O, Parrondo RD, Pasvolsky O, Peres LC, Purvey S, Raza S, Reshef R, Richard S, Rossi AC, Sborov DW, Shune L, Wagner CB, Zanwar SS, Sidana S, Patel KK, Hansen DK, Kumar SK, Lin Y, Martin TG, Voorhees PM, Anderson LD, Cowan AJ, Kaur G. Universal driving restrictions beyond 4 weeks appear unnecessary following CAR-T therapy in multiple myeloma. Blood Adv",
+      "pubmed_id": "40088469",
+      "pmc_id": "PMC12127628",
+      "year": "2025",
+      "journal": "9(9):2336-2340",
+      "authors": ""
+    },
+    {
+      "title": "Locke FL, Munoz JL, Tees MT, Lekakis LJ, de Vos S, Nath R, Stevens DA, Malik SA, Shouse GP, Hamadani M, Oluwole OO, Perales MA, Miklos DB, Fisher PW, Feng A, Navale L, Le Gall JB, Neelapu SS. Allogeneic Chimeric Antigen Receptor T-Cell Products Cemacabtagene Ansegedleucel/ALLO-501 in Relapsed/Refractory Large B-Cell Lymphoma: Phase I Experience From the ALPHA2/ALPHA Clinical Studies. J Clin Oncol",
+      "pubmed_id": "39946666",
+      "pmc_id": "PMC12058369",
+      "year": "2025",
+      "journal": "43(14):1695-1705",
+      "authors": ""
+    },
+    {
+      "title": "Locke FL, Ball G, Ray MD, Li T, Limbrick-Oldfield EH, Popoff E, Kanters S. Efficacy of Axicabtagene Ciloleucel Compared to Historical Treatments for Relapsed/Refractory Diffuse Large B-Cell Lymphoma of Asian Descent: A Matching Adjusted Indirect Comparison of ZUMA-1 vs REAL-TREND. Hematol Oncol",
+      "pubmed_id": "40347097",
+      "pmc_id": "PMC12065393",
+      "year": "2025",
+      "journal": "43(3):e70100",
+      "authors": ""
+    },
+    {
+      "title": "Kharfan-Dabaja MA, Mohty R, Easwar N, Johnston P, Iqbal M, Epperla N, Yared J, Ahmed N, Hamadani M, Beitinjaneh A, Narkhede M, Jagadeesh D, Ramakrishnan Geethakumari P, Dholaria B, Gergis U, Munoz J, Sandoval-Sus J, Locke FL, Fein J, Khurana A, Ayala E, Annunzio K, Rapoport AP, Lutfi F, Akhtar OS, Lekakis L, Mehta A, Oluwole OO, Logue J, Jain MD, Shore T, Durani U, Alhaj Moustafa M, McGuirk J, Lin Y, Yamshon S, Chavez JC. Chimeric antigen receptor T cell therapy in octogenarians with B cell lymphoma: a real-world US multicenter collaborative study. Bone Marrow Transplant",
+      "pubmed_id": "40025178",
+      "year": "2025",
+      "journal": "60(5):632-639",
+      "authors": ""
+    },
+    {
+      "title": "Faramand RG, Locke FL. Intermediate-affinity CD19-directed CAR T cell product obecabtagene autoleucel demonstrates favourable safety and efficacy in R/R B-ALL. Nat Rev Clin Oncol",
+      "pubmed_id": "39930262",
+      "year": "2025",
+      "journal": "22(3):161-162",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Neurocognitive and Patient-Reported Outcomes after Chimeric Antigen Receptor T-Cell Therapy: A Controlled Comparison  \nAward Number: 5R01CA244328-04  \nSponsor: National Cancer Institute (NCI)  \nJim, H. (PD/PI), Locke, F. (PD/PI)",
+      "source": "NCI",
+      "period": "4328-04"
+    },
+    {
+      "description": "Title: Accelerated Aging After Chimeric Antigen Receptor T-Cell Therapy (CART): Leveraging a Novel Population of Cancer Survivors to Elucidate Mechanisms of Dementia  \nAward Number: 3R01CA244328-01A1S1  \nSponsor: National Cancer Institute (NCI)  \nJim, H. (PD/PI), Locke, F. (PD/PI)",
+      "source": "NCI",
+      "period": "4328-01"
+    },
+    {
+      "description": "Title: Clinical investigation to improve efficacy of CAR-T Cell Therapy for Large B Cell Lymphoma  \nAward Number: 2334-21  \nSponsor: Blood Cancer United  \nLocke, F. (PD/PI)",
+      "period": "2334-21"
+    },
+    {
+      "description": "Title: Kite Collaboration Master Agreement  \nAward Number: 18-0500  \nSponsor: Kite Pharma  \nLocke, F. (PD/PI)"
+    },
+    {
+      "description": "Title: Axi-cel product mitochondrial membrane potential, reactive oxygen species, and cellular metabolic function and their association with clinical outcomes  \nAward Number: 18VA031-S10  \nSponsor: Kite Pharma  \nLocke, F. (PD/PI)"
+    },
+    {
+      "description": "Title: Immunoglobulin Replacement Therapy and Infectious Complications After CD19-Targeted CAR-T-C  \nAward Number: 1 R01 CA276040-01A1  \nSponsor: National Cancer Institute (NCI)  \nLocke, F. (PD/PI)",
+      "id": "R01 CA276040",
+      "source": "NCI",
+      "period": "6040-01"
+    },
+    {
+      "description": "Title: Optimizing single cell sequencing to elucidate the relationship between response to brexucabtagene autoleucel (brexu-cel)and cellular determinants of exhaustion  \nAward Number: 18VA031 SOW#2  \nSponsor: Kite Pharma  \nShah, B. (PD/PI), Locke, F. (Co-PD/PI), Yu, X. (Co-PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LockeFrederick_7878.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7878"
+  },
+  "content_hash": "bda1cb8f1b7a4c50b2ddb36e3a2379ae82abf762297a4c0de34269ce0caa35d1"
+}

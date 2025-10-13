@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/brian-czerniecki",
+  "last_updated": "2025-10-13T21:47:40.262901",
+  "researcher_id": "17054",
+  "name": "",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Breast Oncology",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "Dr. Czerniecki\u2019s research goal is the development of vaccines for the prevention of breast and other solid-tumor cancers.",
+  "research_interests": [
+    "Dr. Brian Czerniecki's research interests focus on dendritic cell biology and interactions with T cells. He has developed dendritic cell vaccines for the treatment of cancer. He is involved with several clinical trials for treating patients with early breast cancer with dendritic cell vaccines. Dr. Czerniecki\u2019s research goal is the development of vaccines for the prevention of breast and other solid-tumor cancers. Toward that end, he is working on identifying molecular targets in early breast cancer that can be used to prevent invasion and metastasis. Dr. Czerniecki has more than 100 publications and is recognized nationally for his contribution to the development of sentinel lymph node mapping, a procedure for determining the spread of cancer into lymph nodes that is less invasive than diagnostic surgery.\n  *"
+  ],
+  "associations": [
+    "Breast Oncology",
+    "Immunology",
+    "Immuno-Oncology Program",
+    "Center of Excellence for Evolutionary Therapy"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Rutgers University, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "University of Medicine and Dentistry of New Jersey",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Ohio State University Hospital",
+      "position": "Intern",
+      "specialty": "Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "Ohio State University Hospital",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "National Cancer Institute",
+      "specialty": "Surgical Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Surgery",
+      "certification": "General Surgery"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Weinfurtner RJ, Ataya D, Funaro K, Bhatt A, Abdalah M, Stringfield O, Raghunand N, Thompson Z, Lee MC, Czerniecki B, Muller AS, Soliman H, Han H. Quantitative habitat concentration analysis of triple negative breast cancer on MRI correlates with pathologic response to combination neoadjuvant immuno/chemotherapy. Clin Imaging",
+      "pubmed_id": "40945432",
+      "year": "2025",
+      "journal": "127:110618",
+      "authors": ""
+    },
+    {
+      "title": "Ramamoorthi G, Lee MC, Farrell CM, Snyder C, Garg SK, Aldrich AL, Lok V, Dominguez-Viqueira W, Olson-Mcpeek SK, Rosa M, Gautam N, Pilon-Thomas S, Cen L, Kodumudi KN, Wiener D, Oskarsson T, Gomes AP, Gatenby RA, Czerniecki BJ. Antitumor CD4+ T Helper 1 Cells Target and Control the Outgrowth of Disseminated Cancer Cells. Cancer Immunol Res",
+      "pubmed_id": "40249209",
+      "pmc_id": "PMC12046335",
+      "year": "2025",
+      "journal": "13(5):729-748",
+      "authors": ""
+    },
+    {
+      "title": "Soliman H, Aldrich A, Abdo N, Han H, Soyano A, Costa R, Armaghani A, Kiluk J, Khakpour N, Lee MC, Hoover S, Laronga C, Niell B, Mooney B, Weinfurtner RJ, Rosa M, Czerniecki B. A pilot study incorporating HER2-directed dendritic cells into neoadjuvant therapy of early stage HER2+ER- breast cancer. NPJ Breast Cancer",
+      "pubmed_id": "40097486",
+      "pmc_id": "PMC11914126",
+      "year": "2025",
+      "journal": "11(1):29",
+      "authors": ""
+    },
+    {
+      "title": "Shah C, Vicini FA, Connolly EP, Rabinovitch RA, Czerniecki B, Mann GB, Whitworth PW, Mittal K, Shivers S, Bremer T. CLO25-061: 7-Gene Biosignature Reclassified Women With DCIS Meeting NCCN Guideline (RTOG 9804-Like) Low-Risk Criteria as Molecular High Risk. J Natl Compr Canc Ne",
+      "pubmed_id": "40154423",
+      "year": "2025",
+      "journal": "23(3",
+      "authors": ""
+    },
+    {
+      "title": "Ahmed KA, Kim Y, Armaghani AJ, Arrington JA, Costa RL, Czerniecki BJ, Diaz R, Dowell RA, Extermann M, Forsyth PA, Lee KT, Loftus L, Mills MN, Phuoc VH, Rosa M, Soliman HH, Sam CS, Washington IR, Soyano AE, Han HS. Phase II trial of brain MRI surveillance in stage IV breast cancer. Neurooncol",
+      "pubmed_id": "39851040",
+      "pmc_id": "PMC12309701",
+      "year": "2025",
+      "journal": "27(6):1550-1558",
+      "authors": ""
+    },
+    {
+      "title": "Vicini F, Shah C, Mittal K, Weinmann S, Leo M, Mann GB, Warnberg F, Rabinovitch R, Czerniecki B, Meattini I, Khan AJ, Jhawar S, Gerber N, Willey SC, Borgen P, AlHilli Z, Kruse M, Dabbs D, Shivers SC, Daily A, Whitworth P, Alvarado M, Mouabbi JA, Moran M, Rugo H, O'Shaughnessy JA, Bremer T. Limitations in the Application of Clinicopathologic Factors Alone in Predicting Radiation Benefit for Women With Low-Risk Ductal Carcinoma In Situ After Breast Conserving Surgery: The Impact of a 7-Gene Biosignature Based on 10-Year Ipsilateral Breast Rec. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "40685017",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Han HS, Aldrich AL, Garg SK, Weinfurtner RJ, Nguyen JV, Mo Q, Whiting J, Childress J, Soliman H, Costa R, Armaghani A, Soyano A, Kiluk J, Hoover S, Lee MC, Khakpour N, Shenoi N, Jameel Z, Koski GK, Czerniecki BJ. Alteration of the Tumor Microenvironment With Intratumoral Dendritic Cells Before Chemotherapy in ERBB2 Breast Cancer: A Nonrandomized Clinical Trial. JAMA Oncol",
+      "pubmed_id": "39636623",
+      "pmc_id": "PMC11622104",
+      "year": "2025",
+      "journal": "11(2):119-127",
+      "authors": ""
+    },
+    {
+      "title": "Vicini F, Shah C, Mittal K, Abraham J, Kruse M, Weinmann S, Leo M, Rabinovitch R, W\u00e4rnberg F, Whitworth PW, Czerniecki BJ, Shivers SC, Bremer T. A 7-Gene Biosignature for Ductal Carcinoma in situ of the Breast Identifies Subpopulations of HER2-positive Patients With Distinct Recurrence Rates After Breast-Conserving Surgery and Radiation Therapy. Clin Breast Cancer",
+      "pubmed_id": "39353799",
+      "year": "2025",
+      "journal": "25(2):e152-e158",
+      "authors": ""
+    },
+    {
+      "title": "Burgos E, Aiello P, Aldrich A, Weinfurtner R, Czerniecki BJ, Soyano AE. Dendritic Cell Immunotherapy for De Novo HER2+ Metastatic Breast Cancer. Ann Case Rep",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Basta A, Lien K, Sun W, Whiting J, Armitage M, Soyano AE, Armaghani A, Loftus L, O Apos Connor T, Dvir K, Han HS, Soliman H, Czerniecki BJ, Costa RLB. A Real-World Single-Center Cohort Study on the Tolerability of Trastuzumab Deruxtecan for HER2+ Metastatic Breast Cancer. Oncology-Basel",
+      "pubmed_id": "40759100",
+      "year": "2025",
+      "journal": "1-10",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Immunologic Targeting Of The Native And Mutated ESR1 Receptor For Treatment And Prevention Of Hormone Receptor Expressing Breast Cancer  \nAward Number: D2023-014  \nSponsor: V FOUNDATION  \nCzerniecki, B. (PD/PI), Soyano M. (Co-PD/PI)",
+      "period": "2023-01"
+    },
+    {
+      "description": "Title: Targeting ER positive Breast Cancer using Immunotherapy  \nAward Number: GC2025-010  \nSponsor: V FOUNDATION  \nCzerniecki, B. (PD/PI), Soyano M. (Co-PD/PI)",
+      "period": "2025-01"
+    },
+    {
+      "description": "Title: ImmuneHERGAL for Breast Cancer Prevention  \nAward Number: GC2025-010  \nSponsor: V FOUNDATION  \nCzerniecki, B. (PD/PI)",
+      "period": "2025-01"
+    },
+    {
+      "description": "Title: Novel Immunotherapy for Brain-Metastatic Breast Cancer  \nAward Number: W81XWH1910675  \nSponsor: Department of Defense (DOD)  \nCzerniecki, B. (PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": "Title: Overcoming Resistance in HER2 Breast Cancer through a Novel Immunotherapy Approach  \nAward Number: 21B02  \nSponsor: Florida Department of Health  \nCzerniecki, B. (PD/PI)"
+    },
+    {
+      "description": "Title: Modulating dendritic cell (DC) polarization and biology with L-fucose to enhance DC vaccine efficacy  \nAward Number: 23B11  \nSponsor: Florida Department of Health  \nCzerniecki, B. (PD/PI)"
+    },
+    {
+      "description": "Title: Remodeling the Immune Landscape in Breast Cancer Leptomeningeal Disease Using Dendritic Cell Therapy is an Effective Treatment and Protects Against Disease Recurrence  \nAward Number: 1R01CA289387-01A1  \nSponsor: National Cancer Institute (NCI)  \nCzerniecki, B. (PD/PI), Forsyth, P. (PD/PI)",
+      "source": "NCI",
+      "period": "9387-01"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/CzernieckiBrian_17054.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17054"
+  },
+  "content_hash": "f7409d9ebe0181e2f7f75f89cb768742877704a89c5c3743b45ac596089e9c2a"
+}

@@ -1,0 +1,151 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/pei-ling-chen",
+  "last_updated": "2025-10-13T21:48:11.114092",
+  "researcher_id": "unknown",
+  "name": "",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Pathology",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "I am a board-certified dermatopathologist with clinical expertise in melanoma and cutaneous lymphoma. I am also a translational researcher with extensive experience in skin cancer genomics, single-cell biology and spatial multi-omics. The overarching goal of my research program is to elucidate the spatial molecular predictors of response/resistance to neoadjuvant immunotherapies in metastatic melanoma and identify novel therapeutic vulnerabilities in the melanoma tumor microenvironment at disease progression. My recent research work has focused on characterizing the molecular features of melanoma and cutaneous lymphoma tumor microenvironment by leveraging cutting-edge spatial transcriptomics, computational pathology and 3D imaging approaches with generative AI.",
+  "research_interests": [
+    "https://marcene.moffitt.org/marcene/enrollment/ccsg_submission/detail/5772/34793/192848/#My research interest is on applying computational pathology, spatial transcriptomics and single-cell profiling using machine learning approaches in skin cancer multiomics datasets.\n  *"
+  ],
+  "associations": [
+    "Pathology",
+    "Machine Learning",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Brown University, Fellow"
+    },
+    {
+      "type": "Medical School",
+      "institution": "The Warren Albert Medical School of Brown University",
+      "degree": "MD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Stanford University",
+      "degree": "PhD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Washington University in St. Louis/Barnes-Jewish Hospital",
+      "specialty": "Anatomic Pathology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The University of Texas MD Anderson Cancer Center",
+      "specialty": "Surgical Pathology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The University of Texas MD Anderson Cancer Center",
+      "position": "Fellow",
+      "specialty": "ship, Genomic Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The University of Texas MD Anderson Cancer Center",
+      "specialty": "Dermatopathology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Kuilman T, Schrikkema DS, Gadiot J, Gomez-Eerland R, Bies L, Walker J, Spaapen RM, Kok H, Houg D, Viyacheva M, Claassen YB, Saornil M, Krijgsman O, Stringer B, Ding H, Geleijnse A, Meinema AC, Weissbrich B, Lancee M, Engele CG, Sabatino M, Chen PL, Tsai KY, Mul\u00e9 JJ, Sondak VK, van den Bulk J, de Miranda NF, Jedema I, Haanen JG, van Heijst JWJ, Schumacher TN, Linnemann C, Bendle GM. Enabling next-generation engineered TCR-T therapies based on high-throughput TCR discovery from diagnostic tumor biopsies. Nat Commun",
+      "pubmed_id": "39809767",
+      "pmc_id": "PMC11733228",
+      "year": "2025",
+      "journal": "16(1):649",
+      "authors": ""
+    },
+    {
+      "title": "Bordeaux J, Blitzblau R, Aasi SZ, Alam M, Amini A, Bibee K, Bolotin D, Chen PL, Contreras CM, DiMaio D, Donigan JM, Farma JM, Ghosh K, Harms K, LeBoeuf N, Lukens JN, Manber S, Mark L, Medina T, Nehal KS, Nghiem P, Olino K, Paragh G, Park S, Patel T, Rich J, Shaha AR, Sharma B, Sokumbi Y, Srivastava D, Thomas V, Tomblinson C, Venkat P, Xu YG, Yu S, Yusuf M, McCullough B, Espinosa S. Dermatofibrosarcoma Protuberans, Version 1.2025, NCCN Clinical Practice Guidelines In Oncology. J Natl Compr Canc Ne",
+      "pubmed_id": "39819674",
+      "year": "2025",
+      "journal": "23(1)",
+      "authors": ""
+    },
+    {
+      "title": "Xu YG, Lim Y, Bordeaux JS, Aasi SZ, Alam M, Chen PL, Contreras CM, DiMaio D, Donigan JM, Farma JM, Grekin RC, Mark L, Nehal KS, Nghiem P, Olino K, Patel T, Scott J, Shaha AR, Srivastava D, Schmults CD. Achieving Adherence With NCCN Guidelines for Nonmelanoma Skin Cancer Regarding Peripheral and Deep En Face Margin Assessment (PDEMA). J Natl Compr Canc Ne",
+      "pubmed_id": "39536442",
+      "year": "2024",
+      "journal": "22(9)",
+      "authors": ""
+    },
+    {
+      "title": "Schmults CD, Blitzblau R, Aasi SZ, Alam M, Amini A, Bibee K, Bolotin D, Bordeaux J, Chen PL, Contreras CM, DiMaio D, Donigan JM, Farma JM, Ghosh K, Harms K, Ho AL, Lukens JN, Manber S, Mark L, Medina T, Nehal KS, Nghiem P, Olino K, Park S, Patel T, Puzanov I, Rich J, Sekulic A, Shaha AR, Srivastava D, Thomas V, Tomblinson C, Venkat P, Xu YG, Yu S, Yusuf M, McCullough B, Espinosa S. NCCN Guidelines\u00ae Insights: Merkel Cell Carcinoma, Version 1.2024. J Natl Compr Canc Ne",
+      "pubmed_id": "38244274",
+      "year": "2024",
+      "journal": "22(1D):e240002",
+      "authors": ""
+    },
+    {
+      "title": "Tarhini AA, Eroglu Z, Eljilany I, Zager JS, Gonzalez RJ, Sarnaik AA, Cruse CW, Khushalani NI, De Aquino DB, Abraham E, Acevedo DM, Richards A, Schell MJ, Kalos D, Chen PL, Messina JL, Canton DA, Sondak VK. Neoadjuvant Intratumoral Plasmid IL-12 Electro-Gene-Transfer and Nivolumab in Patients with Operable, Locoregionally Advanced Melanoma. Clin Cancer Res",
+      "pubmed_id": "39417680",
+      "pmc_id": "PMC11611651",
+      "year": "2024",
+      "journal": "30(23):5333-5341",
+      "authors": ""
+    },
+    {
+      "title": "Markowitz J, Shamblott M, Brohl AS, Sarnaik AA, Eroglu Z, Khushalani NI, Dukes CW, Chamizo A, Bastawrous M, Garcia ET, Delhawi A, Chen PL, De Aquino DB, Sondak VK, Tarhini AA, Kim Y, Lawman P, Pilon-Thomas S. First-in-Human Stage III/IV Melanoma Clinical Trial of Immune Priming Agent IFx-Hu2.0. Mol Cancer Ther",
+      "pubmed_id": "38657233",
+      "pmc_id": "PMC11292317",
+      "year": "2024",
+      "journal": "23(8):1139-1143",
+      "authors": ""
+    },
+    {
+      "title": "Harro CM, Sprenger KB, Chaurio RA, Powers JJ, Innamarato P, Anadon CM, Zhang Y, Biswas S, Mandal G, Mine JA, Cortina C, Nagy MZ, Martin AL, Handley KF, Borjas GJ, Chen PL, Pinilla-Ibarz J, Sokol L, Yu X, Conejo-Garcia JR. S\u00e9zary syndrome originates from heavily mutated hematopoietic progenitors. Blood Adv",
+      "pubmed_id": "37531660",
+      "pmc_id": "PMC10514084",
+      "year": "2023",
+      "journal": "7(18):5586-5602",
+      "authors": ""
+    },
+    {
+      "title": "Schmults CD, Blitzblau R, Aasi SZ, Alam M, Amini A, Bibee K, Bordeaux J, Chen PL, Contreras CM, DiMaio D, Donigan JM, Farma JM, Ghosh K, Harms K, Ho AL, Lukens JN, Mark L, Medina T, Nehal KS, Nghiem P, Olino K, Park S, Patel T, Puzanov I, Rich J, Sekulic A, Shaha AR, Srivastava D, Thomas V, Tomblinson C, Venkat P, Xu YG, Yu S, Yusuf M, McCullough B, Espinosa S. Basal Cell Skin Cancer, Version 2.2024, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Ne",
+      "pubmed_id": "37935106",
+      "year": "2023",
+      "journal": "21(11):1181-1203",
+      "authors": ""
+    },
+    {
+      "title": "Abraham J, Wei G, Desai SR, Chen PL, Seminario-Vidal L. Perspectives on and Quality of Life in Skin of Color Patients With Mycosis Fungoides/S\u00e9zary Syndrome: A Qualitative Analysis. Cureus",
+      "pubmed_id": "36824562",
+      "pmc_id": "PMC9941020",
+      "year": "2023",
+      "journal": "15(1):e34054",
+      "authors": ""
+    },
+    {
+      "title": "Lester DK, Burton C, Gardner A, Innamarato P, Kodumudi K, Liu Q, Adhikari E, Ming Q, Williamson DB, Frederick DT, Sharova T, White MG, Markowitz J, Cao B, Nguyen J, Johnson J, Beatty M, Mockabee-Macias A, Mercurio M, Watson G, Chen PL, McCarthy S, MoranSegura C, Messina J, Thomas KL, Darville L, Izumi V, Koomen JM, Pilon-Thomas SA, Ruffell B, Luca VC, Haltiwanger RS, Wang X, Wargo JA, Boland GM, Lau EK. Fucosylation of HLA-DRB1 regulates CD4+ T cell-mediated anti-melanoma immunity and enhances immunotherapy efficacy. Nat Cancer",
+      "pubmed_id": "36690875",
+      "pmc_id": "PMC9970875",
+      "year": "2023",
+      "journal": "4(2):222-239",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Dissecting the spatial molecular architecture of the transformed cutaneous T-cell lymphoma tumor microenvironment to target novel therapeutic vulnerabilities  \nAward Number: HT9425-23-1-0947  \nSponsor: Department of Defense (DOD)  \nChen, P. (PD/PI)",
+      "source": "DOD",
+      "period": "9425-23"
+    },
+    {
+      "description": "Title: Defining the Spatiogenomic Landscape of Tumor-Infiltrating B Cells (TIL-B) in Response to Neoadjuvant Immune Checkpoint Blockade (ICB) Therapies in Metastatic Melanoma  \nAward Number:   \nSponsor: Florida Department of Health  \nChen, P. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChenPei-Ling_18684.jpg",
+  "contact": {},
+  "content_hash": "3155029c9459f22af09e01a1e249d2eb382bf140871ab2eeebcb567f8fad81e4"
+}

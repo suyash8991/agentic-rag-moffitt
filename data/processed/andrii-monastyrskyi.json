@@ -1,0 +1,139 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/andrii-monastyrskyi",
+  "last_updated": "2025-10-13T21:45:21.843930",
+  "researcher_id": "24126",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Drug Discovery",
+  "research_program": "Molecular Medicine Program",
+  "overview": "The Monastyrskyi lab harnesses the power of organic chemistry and chemical biology to develop new tools for studying the function and therapeutic potential of cancer targets.",
+  "research_interests": [
+    "In the Monastyrskyi laboratory, we harness the synergies between synthetic organic chemistry, medicinal chemistry, and chemical biology to innovate small molecules that both elucidate and modulate therapeutically relevant targets in cancer. Our approach is deeply rooted in a hypothesis- driven, mechanistic framework that emphasizes the pivotal role of molecular markers for precise patient selection and the development of pharmacodynamic biomarkers, interconnecting the drug's mechanism of action and its therapeutic efficacy. Our current research is particularly focused on drugging kinases such as CDK11, CDK12/13, and ULK1, chemoproteomics-enabled fragment-based drug discovery, and advancing targeted protein degradation strategies.\n  *"
+  ],
+  "associations": [
+    "Drug Discovery",
+    "Breast Oncology",
+    "Neuro-Oncology",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The Scripps Research Institute",
+      "specialty": "Chemistry"
+    }
+  ],
+  "publications": [
+    {
+      "title": "McKenna SM, Borsari C, Chin Chan S, Donckele EJ, Faucher FF, Grenier-Davies MC, Haranahalli K, Matagne B, Monastyrskyi A, Petracca R. Highlights from the Lowlands: Early Career Researchers Shine at Medicinal Chemistry Frontiers 2024. Chemmedchem",
+      "pubmed_id": "39571174",
+      "year": "2025",
+      "journal": "20(4):e202400853",
+      "authors": ""
+    },
+    {
+      "title": "Karolak A, Urbaniak K, Monastyrskyi A, Duckett DR, Branciamore S, Stewart PA. Structure-independent machine-learning predictions of the CDK12 interactome. Biophys J",
+      "pubmed_id": "38762754",
+      "pmc_id": "PMC11393676",
+      "year": "2024",
+      "journal": "123(17):2910-2920",
+      "authors": ""
+    },
+    {
+      "title": "Ghosh P, Schmitz M, Pandurangan T, Zeleke ST, Chan SC, Mosior J, Sun L, Palve V, Grassie D, Anand K, Frydman S, Roush WR, Sch\u00f6nbrunn E, Geyer M, Duckett D, Monastyrskyi A. Discovery and design of molecular glue enhancers of CDK12-DDB1 interactions for targeted degradation of cyclin K. RSC Chem Biol",
+      "pubmed_id": "39450271",
+      "pmc_id": "PMC11494886",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Schmitz M, Kaltheuner IH, Anand K, D\u00fcster R, Moecking J, Monastyrskyi A, Duckett DR, Roush WR, Geyer M. The reversible inhibitor SR-4835 binds Cdk12/cyclin K in a noncanonical G-loop conformation. J Biol Chem",
+      "pubmed_id": "38016516",
+      "pmc_id": "PMC10767194",
+      "year": "2024",
+      "journal": "300(1):105501",
+      "authors": ""
+    },
+    {
+      "title": "Morozova A, Chan SC, Bayle S, Sun L, Grassie D, Iermolaieva A, Kalaga MN, Frydman S, Sansil S, Sch\u00f6nbrunn E, Duckett D, Monastyrskyi A. Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties. Eur J Med Chem",
+      "pubmed_id": "38232465",
+      "year": "2024",
+      "journal": "266:116101",
+      "authors": ""
+    },
+    {
+      "title": "Liao Y, Remsing Rix LL, Li X, Fang B, Izumi V, Welsh EA, Monastyrskyi A, Haura EB, Koomen JM, Doebele RC, Rix U. Differential network analysis of ROS1 inhibitors reveals lorlatinib polypharmacology through co-targeting PYK2. Cell Chem Biol",
+      "pubmed_id": "37848034",
+      "pmc_id": "PMC10922442",
+      "year": "2024",
+      "journal": "31(2):284-297",
+      "authors": ""
+    },
+    {
+      "title": "Liao Y, Chin Chan S, Welsh EA, Fang B, Sun L, Sch\u00f6nbrunn E, Koomen JM, Duckett DR, Haura EB, Monastyrskyi A, Rix U. Chemical Proteomics with Novel Fully Functionalized Fragments and Stringent Target Prioritization Identifies the Glutathione-Dependent Isomerase GSTZ1 as a Lung Cancer Target. Acs Chem Biol",
+      "pubmed_id": "36630201",
+      "year": "2023",
+      "journal": "18(2):251-264",
+      "authors": ""
+    },
+    {
+      "title": "Burger KL, Fernandez MR, Meads MB, Sudalagunta PR, Oliveira PS, Renatino Canevarolo R, Alugubelli RR, Tungsevik A, De Avila G, Silva M, Graeter AI, Dai H, Vincelette ND, Prabhu A, Magaletti D, Yang C, Li W, Kulkarni A, Hampton OA, Koomen JM, Roush WR, Monastyrskyi A, Berglund AE, Silva AS, Cleveland JL, Shain KH. CK1\u03b4 and CK1\u03b5 Signaling Sustains Mitochondrial Metabolism and Cell Survival in Multiple Myeloma. Cancer Res",
+      "pubmed_id": "37702657",
+      "pmc_id": "PMC10690099",
+      "year": "2023",
+      "journal": "83(23):3901-3919",
+      "authors": ""
+    },
+    {
+      "title": "Nacheva K, Kulkarni SS, Kassu M, Flanigan D, Monastyrskyi A, Iyamu ID, Doi K, Barber M, Namelikonda N, Tipton JD, Parvatkar P, Wang HG, Manetsch R. Going beyond Binary: Rapid Identification of Protein-Protein Interaction Modulators Using a Multifragment Kinetic Target-Guided Synthesis Approach. J Med Chem",
+      "pubmed_id": "37000900",
+      "year": "2023",
+      "journal": "66(7):5196-5207",
+      "authors": ""
+    },
+    {
+      "title": "Monastyrskyi A, Brockmeyer F, LaCrue AN, Zhao Y, Maher SP, Maignan JR, Padin-Irizarry V, Sakhno YI, Parvatkar PT, Asakawa AH, Huang L, Casandra D, Mashkouri S, Kyle DE, Manetsch R. Aminoalkoxycarbonyloxymethyl Ether Prodrugs with a pH-Triggered Release Mechanism: A Case Study Improving the Solubility, Bioavailability, and Efficacy of Antimalarial 4(1H)-Quinolones with Single Dose Cures. J Med Chem",
+      "pubmed_id": "33979164",
+      "pmc_id": "PMC8904075",
+      "year": "2021",
+      "journal": "64(10):6581-6595",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers  \nAward Number: 5R01CA262530-04  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI), Haura, E. (PD/PI), Monastyrskyi, A. (PD/PI)",
+      "source": "NCI",
+      "period": "2530-04"
+    },
+    {
+      "description": "Title: Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers supplement  \nAward Number: 3R01CA262530-02S1  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI), Monastyrskyi, A. (PD/PI)",
+      "source": "NCI",
+      "period": "2530-02"
+    },
+    {
+      "description": "Title: Harnessing CDK12 inhibition for the treatment of HER2+ brain metastatic breast cancers  \nAward Number: W81XWH-22-1-0026  \nSponsor: Department of Defense (DOD)  \nMonastyrskyi, A. (PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": "Title: Development of EWS/FLI targeted therapies for Ewing sarcoma  \nAward Number: 24L02  \nSponsor: Florida Department of Health  \nMonastyrskyi, A. (PD/PI)"
+    },
+    {
+      "description": "Title: Integrated Fragment-Based Phenotypic Screening and Chemoproteomics for Identification of Novel Small Cell Lung Cancer-Specific Targets  \nAward Number: 1R21CA277288-01  \nSponsor: National Cancer Institute (NCI)  \nMonastyrskyi, A. (PD/PI), Rix, U. (PD/PI)",
+      "source": "NCI",
+      "period": "7288-01"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MonastyrskyiAndrii_24126.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24126"
+  },
+  "content_hash": "a2125818f00a20b7f4b6627365ef5ac149ea1d7e49f74ec6f752ca5cedae6e5e"
+}

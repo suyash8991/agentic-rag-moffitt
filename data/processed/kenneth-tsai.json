@@ -1,0 +1,147 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kenneth-tsai",
+  "last_updated": "2025-10-13T21:43:08.850101",
+  "researcher_id": "16980",
+  "name": "",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "Chair",
+  "primary_program": "Pathology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "The Tsai Lab has the collective goals of identifying, testing, and validating novel targets for the targeted chemoprevention and treatment of skin cancer.",
+  "research_interests": [
+    "The focus of Dr. Tsai\u2019s laboratory is the identification and validation of new molecularly-targeted approaches for skin cancer prevention and treatment. In contrast to melanoma, which has 27 FDA-approved therapies, the non-melanoma skin cancers, which include basal cell, squamous cell, and Merkel cell carcinomas have but two (as of early 2017), highlighting vast differences in the fundamental molecular understanding of these diseases. Following Dr. Tsai\u2019s clinical training, he started his laboratory at MD Anderson Cancer Center, where he refined his focus on cutaneous squamous cell carcinoma (cuSCC) development. His work is centered on (1) developing an integrated genomic characterization of cuSCC development using next generation sequencing and UV-driven mouse models to identify and validate chemoprevention and therapeutic targets; (2) characterizing the roles of JNK signaling and validating JNK2 as a target in skin cancers (cuSCC and melanoma); (3) developing novel technologies to assess skin cancer risk and measure skin-based surrogate pharmacodynamic endpoints in cancer therapy. In this last area of technology development, he collaborates extensively on extramurally-funded projects with Samir Mitragotri, Ph.D. (UCSB) and Kevin Dalby, Ph.D. (UT Austin) to develop novel technologies to non-invasively sample skin for biomarker discovery and to validate additional kinase targets for cancer therapy. Dr. Tsai\u2019s work has been internationally recognized and he was an active member of the international melanoma TCGA Analysis Working Group. He has served as a mentor and thesis advisor to several MD/PhD and PhD graduate students, residents, and postdoctoral fellows. Most recently, he assumed the role of Section Head, Non-Melanoma Skin Cancer Research and Treatment within the Moffitt Cancer Center Donald A. Adam Melanoma and Skin Cancer Center of Excellence, where his mission is to develop and lead a premier translational research and clinical trial program for high-risk squamous cell and Merkel cell carcinomas.\n  *"
+  ],
+  "associations": [
+    "Pathology",
+    "Tumor Microenvironment and Metastasis",
+    "Cancer Biology & Evolution Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Massachusetts Institute of Technology, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Harvard Medical School",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Harvard Medical School",
+      "position": "Intern",
+      "specialty": "Internal Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "Harvard Medical School",
+      "specialty": "Massachusetts General Hospital - Dermatology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Harvard Medical School",
+      "specialty": "Beth Israel Deaconess Hospital - Dermatopathology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Shepard A, Lester DK, Troutman S, Hoxha S, Khaled WT, Smith ESJ, Park TJ, Buffenstein R, Du D, Teng M, Dengler-Crish CM, Tsai KY, Flores ER, Ventura A, Kissil JL. An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat. Cancer Discov",
+      "pubmed_id": "40920097",
+      "pmc_id": "PMC12486303",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Parker LM, Beekman KE, Thomley ME, Mhaskar R, Tsai K, Correa-Selm LM. PD-1 inhibitor use for skin malignancies in patients with solid organ and bone marrow transplants: Graft rejection, treatment responses, and survival. Transpl Immunol",
+      "pubmed_id": "40939748",
+      "year": "2025",
+      "journal": "93:102287",
+      "authors": ""
+    },
+    {
+      "title": "Baruch EN, Gleber-Netto FO, Nagarajan P, Rao X, Akhter S, Eichwald T, Xie T, Balood M, Adewale A, Naara S, Sathishkumar HN, Islam S, McCarthy W, Mattson BJ, Ferrarotto R, Wong MK, Davies MA, Jindal S, Basu S, Roversi K, Nikpoor AR, Ahmadi M, Ahmadi A, Harwood C, Leigh I, Gong D, Tall\u00f3n de Lara P, Tao DL, Davidson TM, Ajami NJ, Futreal A, Rai K, Kochat V, Castillo M, Gunaratne P, Goepfert RP, Hernandez SD, Khushalani NI, Wang J, Watowich SS, Calin GA, Migden MR, Yuan M, Liu N, Ye Y, Hwang WL, Vermeer PD, D'Silva NJ, Bunimovich YL, Yaniv D, Burks JK, Gomez J, Dougherty PM, Tsai KY, Allison JP, Sharma P, Wargo JA, Myers JN, Talbot S, Gross ND, Amit M. Cancer-induced nerve injury promotes resistance to anti-PD-1 therapy. Nature",
+      "pubmed_id": "40836096",
+      "pmc_id": "PMC12406299",
+      "year": "2025",
+      "journal": "646(8084):462-473",
+      "authors": ""
+    },
+    {
+      "title": "Gatenby RA, Teer JK, Tsai KY, Brown JS. Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas. Commun Biol",
+      "pubmed_id": "40399443",
+      "pmc_id": "PMC12095661",
+      "year": "2025",
+      "journal": "8(1):775",
+      "authors": ""
+    },
+    {
+      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL. spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis. Cancer Res",
+      "pubmed_id": "39636739",
+      "pmc_id": "PMC11873723",
+      "year": "2025",
+      "journal": "85(5):848-858",
+      "authors": ""
+    },
+    {
+      "title": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S. Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors. Cancer Res",
+      "pubmed_id": "40287947",
+      "pmc_id": "PMC12167936",
+      "year": "2025",
+      "journal": "85(12):2268-2287",
+      "authors": ""
+    },
+    {
+      "title": "Dugan MM, Shannon AB, DePalo DK, Tsai KY, Farma JM, Gonzalez RJ, Zager JS. Current management of nonmelanoma skin cancers. Curr Probl Surg",
+      "pubmed_id": "39753321",
+      "year": "2025",
+      "journal": "62:101565",
+      "authors": ""
+    },
+    {
+      "title": "Kuilman T, Schrikkema DS, Gadiot J, Gomez-Eerland R, Bies L, Walker J, Spaapen RM, Kok H, Houg D, Viyacheva M, Claassen YB, Saornil M, Krijgsman O, Stringer B, Ding H, Geleijnse A, Meinema AC, Weissbrich B, Lancee M, Engele CG, Sabatino M, Chen PL, Tsai KY, Mul\u00e9 JJ, Sondak VK, van den Bulk J, de Miranda NF, Jedema I, Haanen JG, van Heijst JWJ, Schumacher TN, Linnemann C, Bendle GM. Enabling next-generation engineered TCR-T therapies based on high-throughput TCR discovery from diagnostic tumor biopsies. Nat Commun",
+      "pubmed_id": "39809767",
+      "pmc_id": "PMC11733228",
+      "year": "2025",
+      "journal": "16(1):649",
+      "authors": ""
+    },
+    {
+      "title": "Jasani N, Xu X, Posorske B, Kim Y, Wang K, Vera O, Tsai KY, DeNicola GM, Karreth FA. PHGDH Induction by MAPK Is Essential for Melanoma Formation and Creates an Actionable Metabolic Vulnerability. Cancer Res",
+      "pubmed_id": "39495254",
+      "pmc_id": "PMC11735329",
+      "year": "2025",
+      "journal": "85(2):314-328",
+      "authors": ""
+    },
+    {
+      "title": "Dugan MM, Shannon AB, DePalo DK, Tsai KY, Farma JM, Gonzalez RJ, Zager JS. In Brief. Curr Probl Surg",
+      "pubmed_id": "39922627",
+      "year": "2025",
+      "journal": "63:101564",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Treatment of Advanced Cutaneous Squamous Cell Carcinoma with Combination Immunotherapy  \nAward Number: 22VA086, Research Study 001  \nSponsor: INCYTE, INC.  \nTsai, K. (PD/PI)"
+    },
+    {
+      "description": "Title: Eco-Evolutionary Drivers of Clonal Dynamics During UV-Induced Skin Carcinogenesis (PQ3)  \nAward Number: 5R01CA258089-05  \nSponsor: National Cancer Institute (NCI)  \nBrown, J. (PD/PI), Tsai, K. (PD/PI)",
+      "source": "NCI",
+      "period": "8089-05"
+    },
+    {
+      "description": "Title: Deploying a Novel Model of Merkel Cell Carcinoma for Development of Novel Therapeutic Approaches  \nAward Number: W81XWH-22-1-0921  \nSponsor: Department of Defense (DOD)  \nTsai, K. (PD/PI)",
+      "source": "DOD"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TsaiKenneth_16980.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16980"
+  },
+  "content_hash": "5ea06c940734d4bb6fc5cb51867ad5b0d27cb7a25a23f0ce5514c7ba5fe6f9f9"
+}

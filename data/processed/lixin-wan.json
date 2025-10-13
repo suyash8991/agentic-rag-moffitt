@@ -1,0 +1,130 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lixin-wan",
+  "last_updated": "2025-10-13T21:46:07.209619",
+  "researcher_id": "16495",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Molecular Oncology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "The Wan lab is focused on the regulation and role of Anaphase-Promoting Complexes (APC) in directing the destruction of key proteins that control transit through the cell cycle, and in shaping proteomic networks in normal versus cancer cells. The lab is now investigating how APC complexes are rewired in cancer cells, and during the acquisition of resistance to targeted and conventional therapeutics. The long term goal of the lab is to define vulnerabilities in these circuits to develop novel anti-cancer therapies.",
+  "research_interests": [
+    "The research in Dr. Wan\u2019s lab is focused on protein post-translational modifications. We are interested in understanding how these modifications are misregulated in tumor cells, tumor-infiltrating immune cells, and tumor-interacting stroma cells. We are also interested in developing next-generation techniques to characterize these modifications. Our current projects include the multifaceted roles of ITCH in melanoma and the melanoma immune microenvironment, the context-dependent functions of master cell cycle regulator APC/C in breast cancer and ovarian cancer, the crosstalk between tumor cell aneuploidy and innate immunity, and several others. The lab uses a wide range of approaches in our projects: molecular biology, protein biochemistry, in vitro cell culture models, xenograft and syngeneic mouse models, genetically engineered mouse models, various CRISPR-based techniques, and genomic/transcriptomic/proteomic omics techniques. Our recent representative publications: Qing et al, Nature Communications 2019; Han et al. Nature Communications 2019; Dai et al. Cell Reports 2022. Others can be found on Dr. Wan\u2019s Google Scholar page: https://scholar.google.com/citations?user=VKWLR3MAAAAJ \n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "Cutaneous Oncology",
+    "Molecular Medicine Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Chinese Academy of Sciences, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Beth Israel Deaconess Medical Center Harvard Medical School",
+      "specialty": "Pathology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Gao Y, Yin Q, Gamallat Y, Grant MG, Snell AH, Shi X, Ulstad LN, Singh A, Chen T, Johnson JO, Avram D, Wan L. Linear ubiquitination of p31comet by HOIP couples cytokine response with mitotic regulation. Cell Biosci",
+      "pubmed_id": "40462232",
+      "pmc_id": "PMC12135451",
+      "year": "2025",
+      "journal": "15(1):75",
+      "authors": ""
+    },
+    {
+      "title": "Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L, Duckett DR, Teng M. An Epigenomic fingerprint of human cancers by landscape interrogation of super enhancers at the constituent level. PLoS Comput Biol",
+      "pubmed_id": "38335222",
+      "pmc_id": "PMC10883583",
+      "year": "2024",
+      "journal": "20(2):e1011873",
+      "authors": ""
+    },
+    {
+      "title": "Yin T, Wang G, Wang L, Mudgal P, Wang E, Pan CC, Alexander PB, Wu H, Cao C, Liang Y, Tan L, Huang D, Chong M, Chen R, Lim BJW, Xiang K, Xue W, Wan L, Hu H, Loh YH, Wang XF, Li QJ. Breaking NGF-TrkA immunosuppression in melanoma sensitizes immunotherapy for durable memory T cell protection. Nat Immunol",
+      "pubmed_id": "38195702",
+      "year": "2024",
+      "journal": "25(2):268-281",
+      "authors": ""
+    },
+    {
+      "title": "Riley AK, Grant M, Snell A, Cromwell E, Vichas A, Moorthi S, Rominger C, Modukuri SP, Urisman A, Castel P, Wan L, Berger AH. The deubiquitinase USP9X regulates RIT1 protein abundance and oncogenic phenotypes. iScience",
+      "pubmed_id": "39161959",
+      "pmc_id": "PMC11332844",
+      "year": "2024",
+      "journal": "27(8):110499",
+      "authors": ""
+    },
+    {
+      "title": "Riley AK, Grant M, Snell A, Vichas A, Moorthi S, Urisman A, Castel P, Wan L, Berger AH. The deubiquitinase USP9X regulates RIT1 protein abundance and oncogenic phenotypes. bioRxiv",
+      "pubmed_id": "38077017",
+      "pmc_id": "PMC10705424",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "Ullah R, Yin Q, Snell AH, Wan L. RAF-MEK-ERK pathway in cancer evolution and treatment. Semin Cancer Biol",
+      "pubmed_id": "33992782",
+      "year": "2022",
+      "journal": "85:123-154",
+      "authors": ""
+    },
+    {
+      "title": "Liu CH, Rao Y, Gao D, Wan L, Zhang L. Editorial: Ubiquitin Code: From Cell Biology to Translational Medicine. Front Cell Dev Biol",
+      "pubmed_id": "34778279",
+      "pmc_id": "PMC8581446",
+      "year": "2021",
+      "journal": "9:791967",
+      "authors": ""
+    },
+    {
+      "title": "Dai X, Bu X, Gao Y, Guo J, Hu J, Jiang C, Zhang Z, Xu K, Duan J, He S, Zhang J, Wan L, Liu T, Zhou X, Hung MC, Freeman GJ, Wei W. Energy status dictates PD-L1 protein abundance and anti-tumor immunity to enable checkpoint blockade. Mol Cell",
+      "pubmed_id": "33909988",
+      "pmc_id": "PMC8178223",
+      "year": "2021",
+      "journal": "81(11):2317-2331",
+      "authors": ""
+    },
+    {
+      "title": "Liu J, Peng Y, Shi L, Wan L, Inuzuka H, Long J, Guo J, Zhang J, Yuan M, Zhang S, Wang X, Gao J, Dai X, Furumoto S, Jia L, Pandolfi PP, Asara JM, Kaelin WG, Liu J, Wei W. Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle. Cell Res",
+      "pubmed_id": "32669607",
+      "pmc_id": "PMC7852548",
+      "year": "2021",
+      "journal": "31(1):80-93",
+      "authors": ""
+    },
+    {
+      "title": "Liu J, Peng Y, Shi L, Wan L, Inuzuka H, Long J, Guo J, Zhang J, Yuan M, Zhang S, Wang X, Gao J, Dai X, Furumoto S, Jia L, Pandolfi PP, Asara JM, Kaelin WG, Liu J, Wei W. Author Correction: Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle. Cell Res",
+      "pubmed_id": "32859994",
+      "pmc_id": "PMC7852582",
+      "year": "2021",
+      "journal": "31(1):104",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Characterizing oncogenic function of ITCH in melanoma  \nAward Number: 5R01CA255398  \nSponsor: National Cancer Institute (NCI)  \nWan, L. (PD/PI)",
+      "source": "NCI"
+    },
+    {
+      "description": "Title: Restoring FZR1 Tumor Suppressor Function in Human Cancers  \nAward Number: 23B10  \nSponsor: Florida Department of Health  \nWan, L. (PD/PI)"
+    },
+    {
+      "description": "Title: Ubiquitination-dependent Regulation of BRAF Function in Melanoma  \nAward Number: 132173-RSG-19-226-01-TBE  \nSponsor: American Cancer Society, Inc. (ACS)  \nWan, L. (PD/PI)",
+      "source": "American Cancer Society"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WanLixin_16495.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16495"
+  },
+  "content_hash": "96172e39cca57f365589c94c370e062a98a5ed118d1b9f1f9884ee16f7a0b78f"
+}

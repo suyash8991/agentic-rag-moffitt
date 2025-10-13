@@ -1,0 +1,153 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jessica-islam",
+  "last_updated": "2025-10-13T21:43:56.008556",
+  "researcher_id": "28432",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Cancer Epidemiology",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Dr. Islam's research focuses on improving cancer care quality across the care continuum, at the intersection of infections and cancer. Through her research program, Dr. Islam aims to improve cancer outcomes among vulnerable populations, such as people living with HIV, using multi-level approaches, epidemiological methods, and an equity-focused lens to ensure high-quality cancer care for all.",
+  "research_interests": [
+    "Dr. Jessica Islam, PhD, MPH is formally trained as a cancer epidemiologist, with additional training in implementation science and health services research. She is a population health scientist focused on evaluating cancer care quality across the continuum, specifically at the intersection of infections and cancer. Her research foci include: the prevention of cancers caused by infection, and quality of cancer care delivery to people with HIV (PWH) both in the US and globally. Her early work, focused on identifying novel and effective methods for the detection and service delivery of cervical cancer screening to women living with and without HIV in low-resource settings globally. Her research continues to focus more broadly on infection-associated cancers, including evaluating the use of home-based methods to test for high-risk HPV and optimal strategies for triage after a positive screen. Dr. Islam is dedicated to improving cancer care delivery to PWH by identifying and intervening on poor care quality they may experience starting from cancer prevention through survivorship. To conduct this research, Dr. Islam leverages \u2018big data\u2019 resources, including state-level novel data linkages and multi-payer insurance claims. Using these data sources, Dr. Islam's lab leverages machine learning, natural language processing, and causal inference methods to identify mechanisms leading to poor cancer quality to guide intervention development. She prioritizes community voices and also integrates mixed methods approaches to integrate qualitative findings to contextualize results from her epidemiological studies. Dr. Islam is developing an active research portfolio focused on cancer prevention care delivery to PWH to reduce the incidence of cancer diagnoses at advanced stages among PWH and reduce the burden of preventable cancer deaths in Florida, a region with HIV incidence and poor cancer outcomes. She has published over 100 manuscripts in peer-reviewed journals and received multiple NIH/NCI grants as PI and Co-Investigator. To inform her research on improving cancer care delivery to PWH, she has undergone training in implementation science as a fellow of the HIV Implementation Science Program developed by the Center for AIDS Research at Johns Hopkins (2021-2022). Currently, she is a fellow of the HIV, Infectious Disease and Global Health Implementation Research Institute (HIGH IRI) at Washington University in St. Louis. Overall, Dr. Islam's career goal is to become an independent, interdisciplinary investigator of cancer care quality, with research specifically aimed at the intersection of infections and cancer, both in the United States and globally. \n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Gillings School of Global Public Health, University of North Carolina, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Vanderbilt University School of Medicine, MPH"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "UNC Lineberger Comprehensive Cancer Center-T32 cancer Care Quality Training Program (CCQTP)",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Yang S, Li Y, Wheldon CW, Islam JY, Prosperi M, George TJ, Shenkman EA, Wang F, Bian J, Guo Y. The Burden of Cancer and Precancerous Conditions Among Transgender Individuals in a Large Health Care Network: Retrospective Cohort Study. JMIR Cancer",
+      "pubmed_id": "40921087",
+      "pmc_id": "PMC12416876",
+      "year": "2025",
+      "journal": "11:e73843",
+      "authors": ""
+    },
+    {
+      "title": "Lin YC, Turner K, Rajasekhara S, Kim DW, de Castria TB, Nguyen OT, Hume E, Sprow O, Santiago C, Milano J, Riccardi D, Nardella N, Al-Jumayli M, Permuth JB, Hoffe S, Hembree T, Hong YR, Islam JY, Tabriz AA, Hodul PJ. Early Supportive and Nutritional Care For Adults With Pancreatic Cancer: A Pilot Study. J Pain Symptom Manag",
+      "pubmed_id": "40816695",
+      "year": "2025",
+      "journal": "70(5):490-502",
+      "authors": ""
+    },
+    {
+      "title": "Islam JY, Suneja G, Lin YC, McGee-Avila JK, Turner K, Alishahi Tabriz A, Vadaparampil ST, D'Souza G, Friedman MR, Guo Y, Camacho-Rivera M. Investigating structural inequities in area-level socioeconomic and health care access measures among people with HIV and cancer (2004-2020). Cancer",
+      "pubmed_id": "40305646",
+      "year": "2025",
+      "journal": "131(9):e35881",
+      "authors": ""
+    },
+    {
+      "title": "Islam JY, Guo Y, McGee-Avila JK, Turner K, Tabriz AA, Lin YC, Vadaparampil ST, Coghill AE, Camacho-Rivera M, Suneja G. Inequities by race and ethnicity in cancer treatment receipt among people living with HIV and cancer in the U.S. (2004-2020). BMC Cancer",
+      "pubmed_id": "40394520",
+      "pmc_id": "PMC12090492",
+      "year": "2025",
+      "journal": "25(1):897",
+      "authors": ""
+    },
+    {
+      "title": "Islam JY, Zhou X, Baggett C, Jamjian C, Coghill A, Suneja G, Lund JL. Potential drug-drug interactions between cancer therapies and active antiretroviral treatments among Medicare-enrolled patients with cancer and HIV. Geriatr Oncol",
+      "pubmed_id": "39592281",
+      "year": "2025",
+      "journal": "16(2):102158",
+      "authors": ""
+    },
+    {
+      "title": "Ashrafi A, Lin Y, Fong AJ, Islam JY, Anderson TCT, Ganesan S, Heckman CJ, Llanos AAM. Differences in COVID-19-Related Hospitalization, Treatment, Complications, and Death by Race and Ethnicity and Area-Level Measures Among Individuals with Cancer in the ASCO Registry. Cancers (Basel)",
+      "pubmed_id": "40075704",
+      "pmc_id": "PMC11898501",
+      "year": "2025",
+      "journal": "17(5)",
+      "authors": ""
+    },
+    {
+      "title": "Islam JY, Guo Y, Turner K, Tabriz AA, Lin YC, Vidot DC, Vadaparampil ST, Coghill AE, ScD MC, Suneja G. Inequities in palliative care delivery to patients with HIV and stage IV cancers in the United States (2004-2020). JNCI Cancer Spectr",
+      "pubmed_id": "39579085",
+      "pmc_id": "PMC11897894",
+      "year": "2025",
+      "journal": "9(2)",
+      "authors": ""
+    },
+    {
+      "title": "Baral A, Diggs BA, Greengold J, Foronda C, Anglade D, Camacho-Rivera M, Islam JY, Vidot DC. State of the Science: Health Care Provider Communication of Cannabis Use Among Adults Living with Cancer. J Cancer Educ",
+      "pubmed_id": "39160419",
+      "pmc_id": "PMC12177019",
+      "year": "2025",
+      "journal": "40(3):329-347",
+      "authors": ""
+    },
+    {
+      "title": "Lee F, Islam JY, Mutua MM, Kabare E, Manguro G, Waweru W, Mandaliya KN, Shafi J, McClelland RS, Smith JS. Self-collection for high-risk HPV-RNA detection among HIV-seropositive and HIV-seronegative women engaged in sex work in Kenya. Sex Transm Infect",
+      "pubmed_id": "40169350",
+      "year": "2025",
+      "journal": "101(5):301-306",
+      "authors": ""
+    },
+    {
+      "title": "Hurwitz E, Varley CD, Anzolone AJ, Madhira V, Olex AL, Sun J, Vaidya D, Fadul N, Islam JY, Jackson LE, Wilkins KJ, Butzin-Dozier Z, Li D, Safo SE, McMurry JA, Maheria P, Williams T, Hassan SA, Haendel MA, Patel RC. Identifying People Living With or Those at Risk for HIV in a Nationally Sampled Electronic Health Record Repository Called the National Clinical Cohort Collaborative: Computational Phenotyping Study. JMIR Med Inform",
+      "pubmed_id": "40644699",
+      "pmc_id": "PMC12299939",
+      "year": "2025",
+      "journal": "13:e68143",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Investigating the Associations of SDOH and Cardiometabolic Characteristics with Disparities in Treatment Outcomes and Survivorship Among Colorectal Cancer Patients  \nAward Number:   \nSponsor: Support Accounts-Oper  \nByrd, D. (PD/PI), Islam, J. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Harnessing Big Data to Understand the Confluence of HIV and Cancer Stigma in the US Southeast  \nAward Number: 1R01CA305812-01  \nSponsor: National Cancer Institute (NCI)  \nIslam, J. (PD/PI)",
+      "source": "NCI",
+      "period": "5812-01"
+    },
+    {
+      "description": "Title: Evaluating the role of structural racism on cancer outcomes among People Living with HIV and Cancer  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nIslam, J. (PD/PI), Coghill, A. (Co-PD/PI)",
+      "source": "Foundation"
+    },
+    {
+      "description": "Title: Trends and outcomes of lung cancer screening among people with and without HIV in the US  \nAward Number: 1R01CA302303-01  \nSponsor: National Cancer Institute (NCI)  \nIslam, J. (PD/PI)",
+      "source": "NCI",
+      "period": "2303-01"
+    },
+    {
+      "description": "Title: Health-Related Quality of Life and Patient Reported Outcomes Among People Living with HIV and Cancer  \nAward Number: 1R03CA278603-01A1  \nSponsor: DRAWDOWN CUSTOMER-00A2P  \nIslam, J. (PD/PI)",
+      "period": "8603-01"
+    },
+    {
+      "description": "Title: The Tale of Two Pandemics: Insights from the Collision of the HIV and COVID-19 Epidemics in the U.S.  \nAward Number: 5R01MH131542-05  \nSponsor: National Cancer Institute (NCI)  \nIslam, J. (PD/PI)",
+      "source": "NCI",
+      "period": "1542-05"
+    },
+    {
+      "description": "Title: Characterizing inequities in cancer treatment uptake and outcomes among patients with HIV and cancer in the US  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nIslam, J. (PD/PI)",
+      "source": "American Cancer Society"
+    },
+    {
+      "description": "Title: Leveraging Electronic Health Record Clinical Notes to Understand Cancer Care Equity Among People with HIV and Cancer at Moffitt Cancer Center  \nAward Number:   \nSponsor: Support Accounts-Oper  \nRasool, G. (PD/PI), Coghill, A. (Co-PD/PI), Islam, J. (Co-PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/IslamJessica_28432.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28432"
+  },
+  "content_hash": "bd0170c98632f2b8289348773893c30f1eea614fd20a711ef30db47e44412fef"
+}

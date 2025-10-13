@@ -1,0 +1,124 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jennifer-binning",
+  "last_updated": "2025-10-13T21:42:11.682764",
+  "researcher_id": "24244",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Molecular Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "At Moffitt, The Binning Lab will apply cutting-edge biochemical and structural techniques to identify new pathogenic mechanisms employed by oncogenic human papilloma viruses (HPV) that are drivers of cervical and head and neck cancers. The fundamental work that will be pursued in Dr. Binning\u2019s laboratory will inform the development of diagnostics and therapeutics for these cancers.",
+  "research_interests": [
+    "The Binning lab studies how viruses such as Human Papillomavirus (HPV) re-wire host ubiquitin machinery to support viral replication and drive tumorigenesis. By exploring the link between human disease states and dysregulation of ubiquitin pathways, we aim to identify new pathogenic mechanisms that will guide the development of diagnostics and therapeutics. \n  *"
+  ],
+  "associations": [
+    "Gynecologic Oncology",
+    "Molecular Oncology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Iowa State University, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Matlack JK, Miner RE, Lokhandwala J, Binning JM. Ancestral protein reconstruction reveals the mechanism of substrate specificity in FN3K-mediated deglycation. bioRxiv",
+      "pubmed_id": "40766467",
+      "pmc_id": "PMC12324494",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Smalley TB, Nicolaci AA, Tran KC, Lokhandwala J, Obertopp N, Matlack JK, Miner RE, Teng MN, Pilon-Thomas S, Binning JM. Targeted degradation of the HPV oncoprotein E6 reduces tumor burden in cervical cancer. Mol Ther",
+      "pubmed_id": "40873032",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Smalley TB, Nicolaci A, Tran KC, Lokhandwala J, Obertopp N, Matlack JK, Miner RE, Teng MN, Pilon-Thomas S, Binning JM. Targeted degradation of the HPV oncoprotein E6 reduces tumor burden in cervical cancer. bioRxiv",
+      "pubmed_id": "39464070",
+      "pmc_id": "PMC11507957",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Lokhandwala J, Matlack JK, Smalley TB, Miner RE, Tran TH, Binning JM. Structural basis for FN3K-mediated protein deglycation. Structure",
+      "pubmed_id": "39173621",
+      "pmc_id": "PMC11455621",
+      "year": "2024",
+      "journal": "32(10):1711-1724",
+      "authors": ""
+    },
+    {
+      "title": "Welsch JT, Smalley TB, Matlack JK, Avalon NE, Binning JM, Johnson MP, Allcock AL, Baker BJ. Tuaimenals B-H, Merosesquiterpenes from the Irish Deep-Sea Soft Coral Duva florida with Bioactivity against Cervical Cancer Cell Lines. J Nat Prod",
+      "pubmed_id": "36580354",
+      "pmc_id": "PMC9887596",
+      "year": "2023",
+      "journal": "86(1):182-190",
+      "authors": ""
+    },
+    {
+      "title": "Avalon NE, Nafie J, De Marco Verissimo C, Warrensford LC, Dietrick SG, Pittman AR, Young RM, Kearns FL, Smalley T, Binning JM, Dalton JP, Johnson MP, Woodcock HL, Allcock AL, Baker BJ. Tuaimenal A, a Meroterpene from the Irish Deep-Sea Soft Coral Duva florida, Displays Inhibition of the SARS-CoV-2 3CLpro Enzyme. J Nat Prod",
+      "pubmed_id": "35549259",
+      "pmc_id": "PMC9127705",
+      "year": "2022",
+      "journal": "85(5):1315-1323",
+      "authors": ""
+    },
+    {
+      "title": "Wang Y, Binning JM, Pintilie GD, Chiu W, Amarasinghe GK, Leung DW, Su Z. Cryo-EM analysis of Ebola virus nucleocapsid-like assembly. STAR Protoc",
+      "pubmed_id": "34977676",
+      "pmc_id": "PMC8689349",
+      "year": "2022",
+      "journal": "3(1):101030",
+      "authors": ""
+    },
+    {
+      "title": "Bekker RA, Zahid MU, Binning JM, Spring BQ, Hwu P, Pilon-Thomas S, Enderling H. Rethinking the immunotherapy numbers game. J Immunother Cancer",
+      "pubmed_id": "35793871",
+      "pmc_id": "PMC9260835",
+      "year": "2022",
+      "journal": "10(7)",
+      "authors": ""
+    },
+    {
+      "title": "Binning JM, Chesarino NM, Emerman M, Gross JD. Structural Basis for a Species-Specific Determinant of an SIV Vif Protein toward Hominid APOBEC3G Antagonism. Cell Host Microbe",
+      "pubmed_id": "31830442",
+      "pmc_id": "PMC6913891",
+      "year": "2019",
+      "journal": "26(6):739-747",
+      "authors": ""
+    },
+    {
+      "title": "Ball KA, Chan LM, Stanley DJ, Tierney E, Thapa S, Ta HM, Burton L, Binning JM, Jacobson MP, Gross JD. Conformational Dynamics of the HIV-Vif Protein Complex. Biophys J",
+      "pubmed_id": "30961890",
+      "pmc_id": "PMC6486493",
+      "year": "2019",
+      "journal": "116(8):1432-1445",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Biophysical basis for enzyme mediated deglycation in protein repair  \nAward Number: 5R35GM143004-03  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nBinning, J. (PD/PI)",
+      "period": "3004-03"
+    },
+    {
+      "description": "Title: The role of HPV E1 in regulating the NRF2-KEAP1 pathway  \nAward Number: 1R03AI175796-01  \nSponsor: National Institute of Allergy and Infectious Diseases (NIAID)  \nBinning, J. (PD/PI)",
+      "period": "5796-01"
+    },
+    {
+      "description": "Title: Development of a novel, non-BCMA targeting CAR-T cell therapy for the treatment of multiple myeloma  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nBinning, J. (PD/PI), Freeman, C. (PD/PI)",
+      "source": "Foundation"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BinningJennifer_24244.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24244"
+  },
+  "content_hash": "cab07ae439635f6820b33d80d4f73c9ceedbaf52abafcd6e17f9112bab96fb66"
+}

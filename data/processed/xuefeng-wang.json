@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/xuefeng-wang",
+  "last_updated": "2025-10-13T21:47:17.754724",
+  "researcher_id": "17269",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "Biomarker Discover; Computational Immuno-oncology; Translational Bioinformatics; Machine learning; Statistical genomics",
+  "research_interests": [
+    "Dr. Wang\u2019s research interests include Biostatistics, statistical genomics, and computational biology.His group develops efficient machine learning methods, such as kernel learning and probabilistic learning, for analyzing data in genomics, drug development and personalized medicine. Dr. Wang is currently involved in multiple collaborative research projects in cancer immunology and cancer epidemiology at Moffitt Cancer Center. Dr. Wang also holds adjunct faculty positions at Stony Brook University and Yale University. He was a Merck Quantitative Science Fellow (with Robert Elston) at Case Western Reserve University and a postdoctoral fellow at Harvard University.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Immuno-Oncology Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Case Western Reserve University, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Harvard School of Public Health",
+      "specialty": "Biostatistics"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Merck Foundation",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "pubmed_id": "40553455",
+      "year": "2025",
+      "journal": "34(9):1609-1617",
+      "authors": ""
+    },
+    {
+      "title": "Song X, Yu X, Moran-Segura CM, Xu H, Li T, Davis JT, Vosoughi A, Grass GD, Li R, Wang X. ROICellTrack: a deep learning framework for integrating cellular imaging modalities in subcellular spatial transcriptomic profiling of tumor tissues. Bioinformatics",
+      "pubmed_id": "40199763",
+      "pmc_id": "PMC12085996",
+      "year": "2025",
+      "journal": "41(5)",
+      "authors": ""
+    },
+    {
+      "title": "Rajagopal PS, Reid S, Fan R, Venton L, Weidner A, Roberson ML, Vadaparampil S, Wang X, Yoder S, Rosa M, Sanders M, Gonzalez-Ericsson P, Hirbo J, Whisenant JG, Pietenpol J, Ye F, Pal T, Lehmann BD. Population-specific patterns in assessing molecular subtypes of young black females with triple-negative breast cancer. NPJ Breast Cancer",
+      "pubmed_id": "40069179",
+      "pmc_id": "PMC11897140",
+      "year": "2025",
+      "journal": "11(1):28",
+      "authors": ""
+    },
+    {
+      "title": "Miyagi H, Yu X, Peak T, Dhillon J, Le C, Wang X, Yoder S, Marchion D, Lu X, Pettaway C, Moran Segura C, Zhang C, Roman Souza G, Yu A, Zemp L, Spiess P, Chahoud J. Progressive T cell exhaustion and predominance of aging tissue associated macrophages with advancing disease stage in penile squamous cell carcinoma. Sci Rep",
+      "pubmed_id": "40044748",
+      "pmc_id": "PMC11882776",
+      "year": "2025",
+      "journal": "15(1):7703",
+      "authors": ""
+    },
+    {
+      "title": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J. CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma. Res Sq",
+      "pubmed_id": "40235478",
+      "pmc_id": "PMC11998770",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Wang X, Li T, Slebos RJC, Chaudhary R, Guevara-Patino JA, Bonomi M, Saba NF, Chung CH. Clinical significance of peripheral T-cell repertoire in head and neck squamous cell carcinoma treated with cetuximab and nivolumab. Cancer Immunol Immun",
+      "pubmed_id": "40056190",
+      "pmc_id": "PMC11890688",
+      "year": "2025",
+      "journal": "74(4):142",
+      "authors": ""
+    },
+    {
+      "title": "Doerfler R, Chen J, Kim C, Smith JD, Harris M, Singh KB, Isett B, Dadey RE, Brown DD, Lee AV, Wang X, Spector ME, Kim S, Sridharan S, Contrera K, Smith K, Reeder C, Lyons M, Luo J, Liu S, Zandberg DP, Skinner HD, Zervantonakis IK, Vujanovi\u0107 L, Ferris RL, Seethala RR, Zevallos JP, Luke JJ, Bao R. Integrating Artificial Intelligence-Driven Digital Pathology and Genomics to Establish Patient-Derived Organoids as a Novel Alternative Model for Drug Response in Head and Neck Cancer. bioRxiv",
+      "pubmed_id": "40667087",
+      "pmc_id": "PMC12262215",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Yu X, Jain MD, Menges MA, Cen L, Noble JD, Atkins R, Mohammad TJ, Bachmeier CA, Naderinezhad S, Reid K, Corallo S, Yoder SJ, Zhang C, Zhang L, Miranda JA, Shah B, Chavez JC, Hesterberg RS, Delgado LC, Savid-Frontera C, Rodriguez PC, Cleveland JL, Wang X, Davila ML, Locke FL. Comparison of axicabtagene ciloleucel and tisagenlecleucel patient CAR-T cell products by single-cell RNA sequencing. J Immunother Cancer",
+      "pubmed_id": "40730421",
+      "pmc_id": "PMC12306477",
+      "year": "2025",
+      "journal": "13(7)",
+      "authors": ""
+    },
+    {
+      "title": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR. Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial. Nat Med",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "journal": "31(1):176-188",
+      "authors": ""
+    },
+    {
+      "title": "Lazure F, Drapela S, Liu X, Lockhart JH, Kashfi H, Sarigul N, Ilter D, Flores ER, Wang X, Smalley I, Jaeger A, Yu X, Gomes AP. Aging directs the differential evolution of KRAS-driven lung adenocarcinoma. bioRxiv",
+      "pubmed_id": "39896625",
+      "pmc_id": "PMC11785146",
+      "year": "2025",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Cancer and Non-Cancer Pleiotropic Effects of a Melanoma Polygenic Risk Score  \nAward Number: NA  \nSponsor: Moffitt Cancer Center  \nKanetsky, P. (PD/PI), Wang, X. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Next-Generation Biomedical Big Data Platform for Cancer Research and Collaboration Across Florida  \nAward Number: 23B16  \nSponsor: Florida Department of Health  \nWang, X. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WangXuefeng_17269.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17269"
+  },
+  "content_hash": "a9852b8682e0872d3d71dc588fa3b8d715bec644355d48598cdbcccca020c41a"
+}

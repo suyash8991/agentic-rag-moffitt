@@ -1,0 +1,147 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/fabiana-perna",
+  "last_updated": "2025-10-13T21:47:02.410415",
+  "researcher_id": "35899",
+  "name": "",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Blood and Marrow Transplant and Cellular Immunotherapy",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "The Perna lab seeks to understand how genetic or molecular abnormalities impact the cancer surface proteome and rationally design new therapies, especially immune-based therapeutic interventions such as CAR T-cell therapy targeting cell surface proteins.",
+  "research_interests": [
+    "The Perna lab contributed to technological advancements for the comprehensive and accurate analysis of the cancer surface proteome, allowing for enhanced characterization and immunotherapy target discovery in cancer, especially hematologic malignancies. By integrating mass-spectrometry and RNA-seq analyses we generate pools of candidate targets that we investigate biologically and therapeutically and extensively validate in primary malignant and normal tissues. We also run antibody discovery campaigns to generate novel binders for the pre-clinical developments of novel CAR T cells. Dr. Perna is the PI of two research grants from the National Cancer Institute: NIH/NCI R37CA276939-01A1 and NIH/NCI R21CA280367-01. She also received research grants from the Leukemia Research Foundation grant and industry to develop novel CAR T cells recognizing novel target antigens that her own lab identified. \n  *"
+  ],
+  "associations": [
+    "Blood and Marrow Transplant and Cellular Immunotherapy",
+    "Immunology",
+    "BioEngineering",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Memorial Sloan Kettering Cancer Center, New York, NY, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Federico II University, Naples, Italy",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Federico II University, Naples, Italy",
+      "specialty": ""
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Memorial Sloan Kettering Cancer Center, New York, NY",
+      "specialty": ""
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Memorial Sloan Kettering Cancer Center, New York, NY",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Elmariah H, Kim J, Gonzalez R, DiMaggio E, Sansil S, Mishra A, Faramand R, Perez L, Lazaryan A, Mirza AS, Khimani F, Liu H, Ochoa-Bayona JL, Nieder M, Perna F, Figura N, Robinson TJ, Nishihori T, Anasetti C, Pidala JA, Bejanyan N. Phase II Trial of Reduced-Intensity Fludarabine, Melphalan, and Total Body Irradiation Conditioning With Haploidentical Donor Peripheral Blood Stem Cell Transplant. Am J Hematol",
+      "pubmed_id": "40492500",
+      "year": "2025",
+      "journal": "100(9):1665-1669",
+      "authors": ""
+    },
+    {
+      "title": "Jhaveri K, Thapa R, Ercan D, Saha A, Noble J, Singh P, Fahrmann J, Saini N, Wu R, Dennison JB, Hanash S, Jenq RR, Modi K, Figura N, Chavez J, Shah B, Nishihori T, Lazaryan A, Khimani F, Bachmeier C, Gage K, Mishra A, Perna F, Davila ML, Spiegel J, Rejeski K, Subklewe M, Locke FL, Freeman C, Parker N, Jain MD. Sarcopenia and Skeletal Muscle Loss after CAR T-cell Therapy in Diffuse Large B-cell Lymphoma. Clin Cancer Res",
+      "pubmed_id": "40238583",
+      "pmc_id": "PMC12213223",
+      "year": "2025",
+      "journal": "31(13):2756-2766",
+      "authors": ""
+    },
+    {
+      "title": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK. Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma. Haematologica",
+      "pubmed_id": "40637727",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "DaCosta-Clark T, Kale B, Perna F. On the Road to Safer CAR Therapy for B-Cell Lymphoma: Real-World Evidence. Transplant Cell Ther",
+      "pubmed_id": "40617680",
+      "year": "2025",
+      "journal": "31(7):401-404",
+      "authors": ""
+    },
+    {
+      "title": "Taibi T, Cheon S, Perna F, Vu LP. mRNA-based therapeutic strategies for cancer treatment. Mol Ther",
+      "pubmed_id": "38702886",
+      "pmc_id": "PMC11403232",
+      "year": "2024",
+      "journal": "32(9):2819-2834",
+      "authors": ""
+    },
+    {
+      "title": "Di Meo F, Kale B, Koomen JM, Perna F. Mapping the cancer surface proteome in search of target antigens for immunotherapy. Mol Ther",
+      "pubmed_id": "39068512",
+      "pmc_id": "PMC11403220",
+      "year": "2024",
+      "journal": "32(9):2892-2904",
+      "authors": ""
+    },
+    {
+      "title": "Bricker-Anthony R, Koeberl DD, Lipshutz GS, Perna F. Staying on target in gene and cell therapy. Mol Ther",
+      "pubmed_id": "39178850",
+      "pmc_id": "PMC11403208",
+      "year": "2024",
+      "journal": "32(9):2801-2802",
+      "authors": ""
+    },
+    {
+      "title": "Handley G, Yepes A, Eliassen E, Dominguez G, Pasikhova Y, Klinkova O, Baluch A, Febres-Aldana AJ, Alsina M, Elmariah H, Khimani F, Hansen DK, Freeman CL, Jain MD, Locke F, Lazaryan A, Liu HD, Mishra A, Mirza AS, Nishihori T, Ochoa L, Perez L, Pidala J, Puglianini OC, Nieder M, Perna F, Kim J, Bejanyan N, Faramand R. Outcomes of Haploidentical Stem Cell Transplant Recipients With HHV-6B Reactivation. Open Forum Infect Dis",
+      "pubmed_id": "39411216",
+      "pmc_id": "PMC11475747",
+      "year": "2024",
+      "journal": "11(10):ofae564",
+      "authors": ""
+    },
+    {
+      "title": "Luo Y, Chen Y, Ai C, Huang X, Perna F, Kale BJ, Lim SM, Gu M, Gao P, Rong C, Zhou Z, Weng Y, Jiang Y, Yang F, Xia Y. PARP1 promotes tumor proliferation in lenalidomide-resistant multiple myeloma via the downregulation of microRNA-192-5p-AKT signaling. Transl Cancer Res",
+      "pubmed_id": "39697751",
+      "pmc_id": "PMC11651790",
+      "year": "2024",
+      "journal": "13(11):6273-6281",
+      "authors": ""
+    },
+    {
+      "title": "Marino S, Petrusca DN, Bishop RT, Anderson JL, Sabol HM, Ashby C, Layer JH, Cesarano A, Dav\u00e9 UP, Perna F, Delgado-Calle J, Chirgwin JM, Roodman GD. Pharmacologic targeting of the p62 ZZ domain enhances both anti-tumor and bone-anabolic effects of bortezomib in multiple myeloma. Haematologica",
+      "pubmed_id": "37981834",
+      "pmc_id": "PMC11063840",
+      "year": "2024",
+      "journal": "109(5):1501-1513",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Investigations into the role of the bone marrow microenvironment on CAR therapy efficacy and toxicity  \nAward Number: 0240002519  \nSponsor: Moffitt Cancer Center  \nPerna, F. (PD/PI)"
+    },
+    {
+      "description": "Title: Alternatively spliced cell surface proteins as drivers of leukemogenesis and targets for immunotherapy  \nAward Number: 5R21CA280367-02  \nSponsor: National Cancer Institute (NCI)  \nPerna, F. (PD/PI)",
+      "source": "NCI",
+      "period": "0367-02"
+    },
+    {
+      "description": "Title: Identifying cell surface targets for innovative immunotherapy of Multiple Myeloma  \nAward Number: R37CA276939-02  \nSponsor: National Cancer Institute (NCI)  \nPerna, F. (PD/PI)",
+      "source": "NCI",
+      "period": "6939-02"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/PernaFabiana_35899.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35899"
+  },
+  "content_hash": "11594524a6c9e9f569cce0f0f52254966fc3b8ca7a1560bce5e15741018c562f"
+}

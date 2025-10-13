@@ -1,0 +1,45 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/gilmer-valdes",
+  "last_updated": "2025-10-13T21:44:15.262396",
+  "researcher_id": "unknown",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Machine Learning",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "",
+  "research_interests": [
+    "Radiation Oncology",
+    "Machine Learning",
+    "Cancer Epidemiology Program"
+  ],
+  "associations": [
+    "Radiation Oncology",
+    "Machine Learning",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y. Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data. JNCI Cancer Spectr",
+      "pubmed_id": "40111867",
+      "pmc_id": "PMC11986816",
+      "year": "2025",
+      "journal": "9(2)",
+      "authors": ""
+    },
+    {
+      "title": "Chow R, Hasan S, Zheng A, Gao C, Valdes G, Yu F, Chhabra A, Raman S, Choi JI, Lin H, Simone CB. The Accuracy of Artificial Intelligence ChatGPT in Oncology Examination Questions. J Am Coll Radiol",
+      "pubmed_id": "39098369",
+      "year": "2024",
+      "journal": "21(11):1800-1804",
+      "authors": ""
+    }
+  ],
+  "grants": [],
+  "photo_url": "",
+  "contact": {},
+  "content_hash": "bc4e0a4590caaa09e95133306c147d2c5f97ca4b030ad4fd531acc99567ce260"
+}

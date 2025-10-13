@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/john-heine",
+  "last_updated": "2025-10-13T21:43:47.885807",
+  "researcher_id": "1000",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Cancer Epidemiology",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Traditional breast cancer risk factors and subject history merged with risk factors derived from mammograms may result in better treatment decisions.",
+  "research_interests": [
+    "Dr. Heine\u2019s current research blends imaging physics with statistical learning methods to address unresolved issues in epidemiology with an emphasis on breast cancer risk assessments. Mammographic breast density is a significant breast cancer risk factor, not used clinically due to measurement difficulties. Dr. Heine has made significant inroads into developing methods of calibrating mammograms to adjust for the acquisition technique differences and developing automated measures of breast density that show strong association with breast cancer. In parallel, Dr Heine is developing novel methods of incorporating statistical learning techniques into epidemiology for improved risk modeling. The near term objective of this discipline fusion research is to develop an automated system for data collection and analysis to enable both population and individual level risk assessments at the breast clinics within Moffitt Cancer Center.\n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Cancer Chemoprevention Research Interest Group",
+    "Cancer Epidemiology Program",
+    "Cancer Imaging & Technology Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Azam S, Peng C, Rosner BA, Goncalves MD, Phillips E, Eliassen H, Heine J, Hankinson SE, Tamimi RM. Plasma C-peptide mammographic features and risk of breast cancer. NPJ Breast Cancer",
+      "pubmed_id": "39420200",
+      "pmc_id": "PMC11487244",
+      "year": "2024",
+      "journal": "10(1):91",
+      "authors": ""
+    },
+    {
+      "title": "Azam S, Asad S, Chitnis SD, Collier KA, Kensler KH, Sudheendra P, Pariser A, Romanos-Nanclares A, Eliassen AH, Sardesai S, Heine J, Tabung FK, Tamimi RM, Stover DG. Association between Inflammatory Dietary Pattern and Mammographic Features. J Nutr",
+      "pubmed_id": "39277115",
+      "pmc_id": "PMC11600110",
+      "year": "2024",
+      "journal": "154(11):3437-3445",
+      "authors": ""
+    },
+    {
+      "title": "Yaghjyan L, Wang Z, Warner ET, Rosner B, Heine J, Tamimi RM. Reproductive Factors Related to Childbearing and a Novel Automated Mammographic Measure, V. Cancer Epidemiol Biomarkers Prev",
+      "pubmed_id": "38497795",
+      "pmc_id": "PMC11147729",
+      "year": "2024",
+      "journal": "33(6):804-811",
+      "authors": ""
+    },
+    {
+      "title": "Heine J, Fowler E, Schabath MB. Fourier analysis of signal dependent noise images. Sci Rep",
+      "pubmed_id": "39730404",
+      "pmc_id": "PMC11681241",
+      "year": "2024",
+      "journal": "14(1):30686",
+      "authors": ""
+    },
+    {
+      "title": "Barnard ME, DuPr\u00e9 NC, Heine JJ, Fowler EE, Murthy DJ, Nelleke RL, Chan A, Warner ET, Tamimi RM. Reproductive risk factors for breast cancer and association with novel breast density measurements among Hispanic, Black, and White women. Breast Cancer Res Treat",
+      "pubmed_id": "38095811",
+      "pmc_id": "PMC10948301",
+      "year": "2024",
+      "journal": "204(2):309-325",
+      "authors": ""
+    },
+    {
+      "title": "Heine J, Fowler EEE, Weinfurtner RJ, Hume E, Tworoger SS. Breast density analysis of digital breast tomosynthesis. Sci Rep",
+      "pubmed_id": "37907569",
+      "pmc_id": "PMC10618274",
+      "year": "2023",
+      "journal": "13(1):18760",
+      "authors": ""
+    },
+    {
+      "title": "Heine J, Fowler EEE, Berglund A, Schell MJ, Eschrich S. Techniques to produce and evaluate realistic multivariate synthetic data. Sci Rep",
+      "pubmed_id": "37507387",
+      "pmc_id": "PMC10382509",
+      "year": "2023",
+      "journal": "13(1):12266",
+      "authors": ""
+    },
+    {
+      "title": "Heine J, Fowler EEE, Weinfurtner RJ, Hume E, Tworoger SS. Breast Density Analysis Using Digital Breast Tomosynthesis. bioRxiv",
+      "pubmed_id": "36824710",
+      "pmc_id": "PMC9948963",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "Liu Y, Chen H, Heine J, Lindstrom S, Turman C, Warner ET, Winham SJ, Vachon CM, Tamimi RM, Kraft P, Jiang X. A genome-wide association study of mammographic texture variation. Breast Cancer Res",
+      "pubmed_id": "36344993",
+      "pmc_id": "PMC9639267",
+      "year": "2022",
+      "journal": "24(1):76",
+      "authors": ""
+    },
+    {
+      "title": "Yaghjyan L, Smotherman C, Heine J, Colditz GA, Rosner B, Tamimi RM. Associations of Oral Contraceptives with Mammographic Breast Density in Premenopausal Women. Cancer Epidemiol Biomarkers Prev",
+      "pubmed_id": "34862209",
+      "pmc_id": "PMC8825703",
+      "year": "2022",
+      "journal": "31(2):436-442",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Quantitative Imaging Clinical Validation Center at Moffitt Cancer Center  \nAward Number: 5U01CA200464-08  \nSponsor: National Cancer Institute (NCI)  \nHeine, J. (PD/PI), Schabath, M. (PD/PI)",
+      "source": "NCI",
+      "period": "0464-08"
+    },
+    {
+      "description": "Title: Stromal Contributions to Breast Carcinogenesis  \nAward Number: 5R01CA277817-03  \nSponsor: National Cancer Institute (NCI)  \nHeine, J. (PD/PI)",
+      "source": "NCI",
+      "period": "7817-03"
+    },
+    {
+      "description": "Title: Environmental and Social Determinants of Mammographic Features  \nAward Number: 1R01ES035736-01A1  \nSponsor: National Cancer Institute (NCI)  \nHeine, J. (PD/PI)",
+      "source": "NCI",
+      "period": "5736-01"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HeineJohn_1000.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1000"
+  },
+  "content_hash": "7750f2df5b2e1754f9e98c5786a77d49f7b07644c14f0247a4b8fb73b40368c0"
+}

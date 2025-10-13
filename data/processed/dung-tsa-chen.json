@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/dung-tsa-chen",
+  "last_updated": "2025-10-13T21:44:29.194447",
+  "researcher_id": "3829",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Statistical application in clinical trial data analysis, such as development of adverse event as valuable biomarker in predicting clinical outcomes.",
+  "research_interests": [
+    "Dr. Chen has been on numerous NCI grants as a co-investigator involving in the design, conduct, and analysis of research projects in cancer and has over 100 peer-reviewed publications. His key areas of expertise include microarray data analysis, mixed models, survival data analysis, biomarker analysis and clinical trials.His work involves the identification of novel biomarker strategies using genomics and other emerging technologies to guide clinical decision making. He has developed a statistical outlier approach to derive a malignancy-risk gene signature in breast cancer. This statistical outlier method has potential unique applications in cancer research, such as improved prediction of cancer risk, thereby providing better individualized therapy. Statistical outlier methods could be useful tools to help identify subgroups of individuals who may have high risk of cancer development and need special chemopreventive treatments. For example, an outlier gene signature to identifying high-risk normal breast tissue could improve the potential for breast biopsy to identify at-risk patients and refine the current practice of intraoperative assessment of the margins of the resected breast tissues based on histology alone, and may prove useful in guiding treatment choices after lumpectomy.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Thoracic Oncology",
+    "Gastrointestinal Oncology",
+    "Pentecost Family Myeloma Research Center",
+    "Molecular Medicine Program",
+    "Lung Cancer Center of Excellence",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Texas at Houston, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of California, MA"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "pubmed_id": "40553455",
+      "year": "2025",
+      "journal": "34(9):1609-1617",
+      "authors": ""
+    },
+    {
+      "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
+      "pubmed_id": "40341231",
+      "year": "2025",
+      "journal": "6(5):801-819",
+      "authors": ""
+    },
+    {
+      "title": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD. Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida. Cancer Res Commun",
+      "pubmed_id": "40309949",
+      "pmc_id": "PMC12082392",
+      "year": "2025",
+      "journal": "5(5):804-813",
+      "authors": ""
+    },
+    {
+      "title": "Glazar DJ, Sahebjam S, Yu HM, Chen DT, Bhandari M, Enderling H. A sample size analysis of a mathematical model of longitudinal tumor volume and progression-free survival for Bayesian individual dynamic predictions in recurrent high-grade glioma. CPT Pharmacometrics Syst Pharmacol",
+      "pubmed_id": "39737733",
+      "pmc_id": "PMC11919271",
+      "year": "2025",
+      "journal": "14(3):495-509",
+      "authors": ""
+    },
+    {
+      "title": "Tanvetyanon T, Joshi U, Chen DT, Gray JE. Timeliness of Newer Targeted Therapy and Survival in Lung Cancer: A Population-Based Analysis. JCO Oncol Pract",
+      "pubmed_id": "40472300",
+      "year": "2025",
+      "journal": "OP2400936",
+      "authors": ""
+    },
+    {
+      "title": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq",
+      "pubmed_id": "39989973",
+      "pmc_id": "PMC11844656",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Sahebjam S, Raval RR, Forsyth PA, Enderling H, Tran ND, Arrington JA, Macaulay R, Perlow HK, Palmer JD, Ghose J, Rajappa P, Giglio P, Li Z, Etame AB, Mokhtari S, Cruz-Chamorro RJ, Bhandari M, Thapa R, Robinson TJ, Chen DT, Yu HM. Phase 1 trial of hypofractionated stereotactic re-irradiation in combination with nivolumab, ipilimumab, and bevacizumab for recurrent high-grade gliomas. Neurooncol Adv",
+      "pubmed_id": "40134851",
+      "pmc_id": "PMC11934552",
+      "year": "2025",
+      "journal": "7(1):vdaf033",
+      "authors": ""
+    },
+    {
+      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "pubmed_id": "40799741",
+      "pmc_id": "PMC12340904",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Tarhini AA, Obermayer A, Lee SJ, LaFramboise WA, Hodi FS, Karunamurthy AD, Eljilany I, Chen DT, Hwu P, El Naqa IM, Streicher H, Sondak VK, Storkus WJ, Butterfield LH, Shaw TI, Kirkwood JM. Integrative Immune Signature of Complementary Circulating and Tumoral Biomarkers Maximizes the Predictive Power of Adjuvant Immunotherapeutic Benefits in High-risk Melanoma. Clin Cancer Res",
+      "pubmed_id": "40392969",
+      "pmc_id": "PMC12316551",
+      "year": "2025",
+      "journal": "31(15):3249-3258",
+      "authors": ""
+    },
+    {
+      "title": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA. Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma. J Immunol",
+      "pubmed_id": "39120462",
+      "pmc_id": "PMC11404669",
+      "year": "2024",
+      "journal": "213(7):1033-1041",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Development of Adverse Event (AE) Derived Biomarkers for Predicting Clinical Outcomes in Lung Cancer  \nAward Number: 1R21CA286417-01  \nSponsor: National Cancer Institute (NCI)  \nChen, D. (PD/PI)",
+      "source": "NCI",
+      "period": "6417-01"
+    },
+    {
+      "description": "Title: Modernize Adverse Event (AE) Data to Develop Predictive AE Biomarkers for Fulfilling Oncological Precision Medicine  \nAward Number: MOAAX  \nSponsor: Florida Department of Health  \nChen, D. (PD/PI), Gray, J. (Co-PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChenDung-Tsa_3829.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3829"
+  },
+  "content_hash": "036e9a5f524d13fceb48e951f8a543199368d0aa2841f8776a54948d876e622f"
+}

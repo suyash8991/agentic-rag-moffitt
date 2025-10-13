@@ -1,0 +1,134 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/erin-george",
+  "last_updated": "2025-10-13T21:44:54.143899",
+  "researcher_id": "34700",
+  "name": "",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Gynecologic Oncology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "The overarching goal of the George lab is to identify novel targets and strategies to overcome drug resistance in gynecologic cancers, with a particular focus on ovarian cancer. Ovarian cancer remains the most lethal gynecologic malignancy. Its distinct molecular landscape and tumor microenvironment contribute to its aggressive behavior and early metastatic spread. The disease is typically characterized by widespread peritoneal dissemination and the development of ascites\u2014fluid that is rich in tumor cells, spheroids, inflammatory cells, cytokines, proteins, metabolites, and other factors that together create a tumor-promoting, immune-evasive environment. Although most patients initially respond well to frontline surgery and chemotherapy, the majority eventually experience disease recurrence, develop treatment resistance, and ultimately succumb to their disease. One of the major barriers to research progress is the lack of accurate preclinical models that faithfully recapitulate the complex biology of ovarian cancer. At Moffitt, in collaboration with the Department of BioEngineering, we are pioneering a novel approach to overcome this limitation. We culture patient-derived microtumors\u2014or \"avatars\"\u2014in a 3D perfusion-enabled culture system. This innovative platform enables us to more faithfully model the tumor\u2019s behavior and microenvironment. It provides a transformative tool for studying ovarian cancer biology and drug response, with the potential to identify new therapeutic targets and strategies to overcome drug resistance. Tumor samples are collected at the time of surgery, biopsy, or paracentesis, then fragmented and either cultured in the 3D perfusion system or used to generate patient-derived xenograft (PDX) models. The George Lab uses this system as a core component of a collaborative network that integrates diverse scientific and clinical expertise. Together, we aim to develop groundbreaking, paradigm-shifting treatment strategies that improve outcomes and increase the chances of long-term survival and cure for patients with ovarian cancer.",
+  "research_interests": [
+    "My goal is to bring novel targeted therapies and combination treatment strategies to gynecologic oncology patients via phase I/II clinical trials. In order to achieve those goals, I have established a translational lab that utilizes the capabilities of patient-derived model systems. My active tissue collection protocols in ovarian and endometrial cancer allow for the collection of patient tumor and/or ascites at the time of surgery, biopsies, and / or paracentesis. These patient samples are used to generate patient-derived microtumor explants in a novel perfusion system in collaboration with Dr. Gregory Sawyer in BioEngineering and patient-derived xenograft models (PDXs) in collaboration with Dr. Elsa Flores. I also work closely with my primary research mentor, Dr. Uwe Rix, in Drug Discovery, in order to identify novel targeted combination treatment options for different molecular subsets of ovarian and endometrial cancer using compounds that are clinically available in order to facilitate rapid translation to the clinic. Potential targeted combinations are validated, and mechanisms interrogated in available established cell lines and primary patient-derived 2D and 3D cultures. The microtumor explants and PDX models are used to confirm in vitro findings. Based on our preclinical studies, my goal is to propose investigator-initiated trials, which will utilize the microtumor explant culture system as a BioEngineering tool to help improve translational endpoints. Beyond the aforementioned research interests, I collaborate extensively with investigators across multiple departments at Moffitt, including faculty in BioEngineering, Immunology, Integrated Mathematical Oncology, Drug Discovery, Molecular Oncology, and Internal Medicine. By integrating this diverse expertise, my goal is to develop innovative and targeted therapeutic approaches that challenge and ultimately shift current treatment paradigms. Through these collaborative efforts, I aim to expand the possibilities for effective, personalized care and offer more patients a meaningful change at long term survival or cure for their ovarian cancer. \n  *"
+  ],
+  "associations": [
+    "Drug Discovery",
+    "Gynecologic Oncology",
+    "BioEngineering",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Columbia University College of Physicians and Surgeons",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "New York Presbyterian Hospital \u2013 Columbia University",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Hospital of the University of Pennsylvania",
+      "specialty": "Gynecologic Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Gallagher K, Sousa RS, Gatenbee C, Schenck R, Chen P, Citak T, Leither S, Mazzacurati L, Xella A, Zhou Z, Lemanne D, Rodriguez P, George E, Strobl MAR. Controlling treatment toxicity in ovarian cancer to prime the patient for tumor extinction therapy. bioRxiv",
+      "pubmed_id": "40791474",
+      "pmc_id": "PMC12338546",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Xu H, George E, Gallo D, Medvedev S, Wang X, Datta A, Kryczka R, Hyer ML, Fourtounis J, Stocco R, Aguado-Fraile E, Petrone A, Yin SY, Shiwram A, Liu F, Anderson M, Kim H, Greenberg RA, Marshall CG, Simpkins F. Targeting CCNE1 amplified ovarian and endometrial cancers by combined inhibition of PKMYT1 and ATR. Nat Commun",
+      "pubmed_id": "40169546",
+      "pmc_id": "PMC11962063",
+      "year": "2025",
+      "journal": "16(1):3112",
+      "authors": ""
+    },
+    {
+      "title": "Xu H, George E, Gallo D, Medvedev S, Wang X, Kryczka R, Hyer ML, Fourtounis J, Stocco R, Aguado-Fraile E, Petrone A, Yin SY, Shiwram A, Anderson M, Kim H, Liu F, Marshall CG, Simpkins F. Targeting CCNE1 amplified ovarian and endometrial cancers by combined inhibition of PKMYT1 and ATR. Res Sq",
+      "pubmed_id": "38410486",
+      "pmc_id": "PMC10896384",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Cutri-French C, Nasioudis D, George E, Tanyi JL. CAR-T Cell Therapy in Ovarian Cancer: Where Are We Now?. Diagnostics (Basel)",
+      "pubmed_id": "38667465",
+      "pmc_id": "PMC11049291",
+      "year": "2024",
+      "journal": "14(8)",
+      "authors": ""
+    },
+    {
+      "title": "Kinose Y, Xu H, Kim H, Kumar S, Shan X, George E, Wang X, Medvedev S, Ferman B, Gitto SB, Whicker M, D'Andrea K, Wubbenhorst B, Hallberg D, O'Connor M, Schwartz LE, Hwang WT, Nathanson KL, Mills GB, Velculescu VE, Wang TL, Brown EJ, Drapkin R, Simpkins F. Dual blockade of BRD4 and ATR/WEE1 pathways exploits ARID1A loss in clear cell ovarian cancer. Res Sq",
+      "pubmed_id": "37841875",
+      "pmc_id": "PMC10571599",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "Gitto SB, George E, Medvedev S, Simpkins F, Powell DJ. Humanized Patient-Derived Xenograft Models of Ovarian Cancer. Methods Mol Biol",
+      "pubmed_id": "34918300",
+      "year": "2022",
+      "journal": "2424:255-274",
+      "authors": ""
+    },
+    {
+      "title": "Xu H, George E, Kinose Y, Kim H, Shah JB, Peake JD, Ferman B, Medvedev S, Murtha T, Barger CJ, Devins KM, D'Andrea K, Wubbenhorst B, Schwartz LE, Hwang WT, Mills GB, Nathanson KL, Karpf AR, Drapkin R, Brown EJ, Simpkins F. CCNE1 copy number is a biomarker for response to combination WEE1-ATR inhibition in ovarian and endometrial cancer models. Cell Rep Med",
+      "pubmed_id": "34622231",
+      "pmc_id": "PMC8484689",
+      "year": "2021",
+      "journal": "2(9):100394",
+      "authors": ""
+    },
+    {
+      "title": "K\u00f3der G, Olasz J, Tanyi JL, George E, T\u00f3th L, Antal-Szalm\u00e1s P, Nagy B, Bub\u00e1n T, Andr\u00e1s C, Urbancsek H, Laczik M, Csuka O, Damjanovich L, Tanyi M. Identification of Novel Pathogenic Sequence Variants of the Mismatch Repair Genes During Screening for Lynch Syndrome in a Single Centre of Eastern Hungary. J Gastrointest Cancer",
+      "pubmed_id": "31939059",
+      "pmc_id": "PMC7399673",
+      "year": "2020",
+      "journal": "51(3):1007-1015",
+      "authors": ""
+    },
+    {
+      "title": "Kim H, Xu H, George E, Hallberg D, Kumar S, Jagannathan V, Medvedev S, Kinose Y, Devins K, Verma P, Ly K, Wang Y, Greenberg RA, Schwartz L, Johnson N, Scharpf RB, Mills GB, Zhang R, Velculescu VE, Brown EJ, Simpkins F. Combining PARP with ATR inhibition overcomes PARP inhibitor and platinum resistance in ovarian cancer models. Nat Commun",
+      "pubmed_id": "32709856",
+      "pmc_id": "PMC7381609",
+      "year": "2020",
+      "journal": "11(1):3726",
+      "authors": ""
+    },
+    {
+      "title": "Tanyi JL, George E. Personalized vaccination against ovarian cancer: what are the possibilities?. Expert Rev Vaccines",
+      "pubmed_id": "30362844",
+      "pmc_id": "PMC6592278",
+      "year": "2018",
+      "journal": "17(11):955-958",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Evolutionarily informed therapies in recurrent ovarian cancer  \nAward Number: ECIG-2025-3-1874  \nSponsor: Ovarian Cancer Research Alliance (OCRA)  \nGeorge, E. (PD/PI)"
+    },
+    {
+      "description": "Title: Patient derived 3D microtumor explant culture in ovarian cancer to inform therapeutic approaches  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nGeorge, E. (PD/PI)",
+      "source": "American Cancer Society"
+    },
+    {
+      "description": "Title: Lab Studies Using in Vitro 3D Model  \nAward Number: 23VA012  \nSponsor: MERCK & CO., INC.  \nSawyer, W. (PD/PI), George, E. (Co-PD/PI), Nguyen, D. (Co-PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GeorgeErin_34700.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=34700"
+  },
+  "content_hash": "d39d348cbad1e6552ef62c9a558322fe31c29a93a60cf3571b1c097647310bb9"
+}

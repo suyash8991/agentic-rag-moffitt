@@ -1,0 +1,128 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/gina-denicola",
+  "last_updated": "2025-10-13T21:41:06.294428",
+  "researcher_id": "17020",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Metabolism and Physiology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "The DeNicola laboratory also focuses on how the microenvironment affects metabolic dependencies. Much of the understanding of tumor metabolism comes from cell culture experiments in which other cell types typically found in tumors, such as fibroblasts and immune cells, are absent. However, these cells have the potential to significantly affect tumor metabolism in vivo by both providing and/or competing for metabolites that the tumor cells require. Her laboratory is examining how the metabolic interaction between epithelial tumor cells with fibroblasts and immune cells affects the metabolism and growth of these compartments.",
+  "research_interests": [
+    "Cells have energetic and anabolic needs for growth and proliferation. Dr. DeNicola's research is focused on understanding how cells meet these needs and the mechanisms governing the regulation of tumor metabolism in vivo. While cell culture systems are useful for querying the activity of metabolic pathways, many factors in vivo likely play a major role in the regulation of cellular metabolism, including tumor/stroma interactions, contact with the extracellular matrix, local hypoxia and nutrient availability and nutrient intake by the host. The DeNicola laboratory investigates the influence of both genomic alterations and the microenvironment on cellular metabolism in vivo. Mutations in KEAP1 and NRF2, which lead to NRF2 hyperactivation, are commonly found in cancers and lead to metabolic deregulation. Despite the identification of the first KEAP1 mutations in 2006, the precise mechanisms by which NRF2 promotes tumorigenesis are unclear owing to the lack of genetically engineered KEAP1 and NRF2 mutant mouse models that recapitulate the human disease. Dr. DeNicola and others, have identified that NRF2 activation leads to profound deregulation of cellular metabolism, including the promotion of serine biosynthesis, which is critical for the proliferation of KEAP1 and NRF2 mutant cells. However, the activity of these pathways in KEAP1/NRF2 mutant lung tumors in vivo is not established. A major research focus of her lab is investigating how NRF2 promotes tumorigenesis and metabolic deregulation in vivo using genetically engineered mouse model systems. The DeNicola laboratory also focuses on how the microenvironment affects metabolic dependencies. Much of the understanding of tumor metabolism comes from cell culture experiments in which other cell types typically found in tumors, such as fibroblasts and immune cells, are absent. However, these cells have the potential to significantly affect tumor metabolism in vivo by both providing and/or competing for metabolites that the tumor cells require. Her laboratory is examining how the metabolic interaction between epithelial tumor cells with fibroblasts and immune cells affects the metabolism and growth of these compartments.\n  *"
+  ],
+  "associations": [
+    "Thoracic Oncology",
+    "Metabolism and Physiology",
+    "Cancer Biology & Evolution Program",
+    "Lung Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Pennsylvania & Cancer Research UK Cambridge, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Beth Israel Deaconess Medical Center & Weill Cornell Medical Collage",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Sherwood AM, Yasseen BA, DeBlasi JM, Caldwell S, DeNicola GM. Distinct roles for the thioredoxin and glutathione antioxidant systems in Nrf2-Mediated lung tumor initiation and progression. Redox Biol",
+      "pubmed_id": "40334547",
+      "pmc_id": "PMC12133717",
+      "year": "2025",
+      "journal": "83:103653",
+      "authors": ""
+    },
+    {
+      "title": "Andreani C, Bartolacci C, Melegari M, Sargentoni N, Luciani L, Marucci A, Galeazzi R, DeNicola GM, Kilgore J, Williams N, Berto S, Gaetani M, Pattabhi P, Osman SS, Mansour AT, Pucciarelli S, Galassi R, Scaglioni PP. Thioredoxin Reductase 1 inhibition triggers ferroptosis in KRAS-independent lung cancers. bioRxiv",
+      "pubmed_id": "40766571",
+      "pmc_id": "PMC12324224",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Jasani N, Xu X, Posorske B, Kim Y, Wang K, Vera O, Tsai KY, DeNicola GM, Karreth FA. PHGDH Induction by MAPK Is Essential for Melanoma Formation and Creates an Actionable Metabolic Vulnerability. Cancer Res",
+      "pubmed_id": "39495254",
+      "pmc_id": "PMC11735329",
+      "year": "2025",
+      "journal": "85(2):314-328",
+      "authors": ""
+    },
+    {
+      "title": "Messina MS, Torrente L, Pezacki AT, Humpel HI, Li EL, Miller SG, Verdejo-Torres O, Padilla-Benavides T, Brady DC, Killilea DW, Killilea AN, Ralle M, Ward NP, Ohata J, DeNicola GM, Chang CJ. A histochemical approach to activity-based copper sensing reveals cuproplasia-dependent vulnerabilities in cancer. Proc Natl Acad Sci U S A",
+      "pubmed_id": "39813247",
+      "pmc_id": "PMC11761388",
+      "year": "2025",
+      "journal": "122(3)",
+      "authors": ""
+    },
+    {
+      "title": "Cuadrado A, Cazalla E, Bach A, Bathish B, Naidu SD, DeNicola GM, Dinkova-Kostova AT, Fern\u00e1ndez-Gin\u00e9s R, Grochot-Przeczek A, Hayes JD, Kensler TW, Le\u00f3n R, Liby KT, L\u00f3pez MG, Manda G, Shivakumar AK, Hakom\u00e4ki H, Moerland JA, Motohashi H, Rojo AI, Sykiotis GP, Taguchi K, Valverde \u00c1M, Yamamoto M, Levonen AL. Health position paper and redox perspectives - Bench to bedside transition for pharmacological regulation of NRF2 in noncommunicable diseases. Redox Biol",
+      "pubmed_id": "40059038",
+      "pmc_id": "PMC11970334",
+      "year": "2025",
+      "journal": "81:103569",
+      "authors": ""
+    },
+    {
+      "title": "Berndt C, Alborzinia H, Amen VS, Ayton S, Barayeu U, Bartelt A, Bayir H, Bebber CM, Birsoy K, B\u00f6ttcher JP, Brabletz S, Brabletz T, Brown AR, Br\u00fcne B, Bulli G, Bruneau A, Chen Q, DeNicola GM, Dick TP, Dist\u00e9fano A, Dixon SJ, Engler JB, Esser-von Bieren J, Fedorova M, Friedmann Angeli JP, Friese MA, Fuhrmann DC, Garc\u00eda-S\u00e1ez AJ, Garbowicz K, G\u00f6tz M, Gu W, Hammerich L, Hassannia B, Jiang X, Jeridi A, Kang YP, Kagan VE, Konrad DB, Kotschi S, Lei P, Le Tertre M, Lev S, Liang D, Linkermann A, Lohr C, Lorenz S, Luedde T, Methner A, Michalke B, Milton AV, Min J, Mishima E, M\u00fcller S, Motohashi H, Muckenthaler MU, Murakami S, Olzmann JA, Pagnussat G, Pan Z, Papagiannakopoulos T, Pedrera Puentes L, Pratt DA, Proneth B, Ramsauer L, Rodriguez R, Saito Y, Schmidt F, Schmitt C, Schulze A, Schwab A, Schwantes A, Soula M, Spitzlberger B, Stockwell BR, Thewes L, Thorn-Seshold O, Toyokuni S, Tonnus W, Trumpp A, Vandenabeele P, Vanden Berghe T, Venkataramani V, Vogel FCE, von Karstedt S, Wang F, Westermann F, Wientjens C, Wilhelm C, W\u00f6lk M, Wu K, Yang X, Yu F, Zou Y, Conrad M. Ferroptosis in health and disease. Redox Biol",
+      "pubmed_id": "38908072",
+      "pmc_id": "PMC11253697",
+      "year": "2024",
+      "journal": "75:103211",
+      "authors": ""
+    },
+    {
+      "title": "Hecht F, Zocchi M, Tuttle ET, Ward NP, Smith B, Kang YP, Cazarin J, Soares ZG, Ozgurses ME, Zhao H, Sheehan C, Alimohammadi F, Munger LD, Trivedi D, Asantewaa G, Blick-Nitko SK, Zoeller JJ, Chen Y, Vasiliou V, Turner BM, Muir A, Coloff JL, Munger J, DeNicola GM, Harris IS. Catabolism of extracellular glutathione supplies amino acids to support tumor growth. bioRxiv",
+      "pubmed_id": "39416022",
+      "pmc_id": "PMC11482906",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Gantner BN, Palma FR, Pandkar MR, Sakiyama MJ, Arango D, DeNicola GM, Gomes AP, Bonini MG. Metabolism and epigenetics: drivers of tumor cell plasticity and treatment outcomes. Trends Cancer",
+      "pubmed_id": "39277448",
+      "year": "2024",
+      "journal": "10(11):992-1008",
+      "authors": ""
+    },
+    {
+      "title": "Ward NP, Yoon SJ, Flynn T, Sherwood AM, Olley MA, Madej J, DeNicola GM. Mitochondrial respiratory function is preserved under cysteine starvation via glutathione catabolism in NSCLC. Nat Commun",
+      "pubmed_id": "38762605",
+      "pmc_id": "PMC11102494",
+      "year": "2024",
+      "journal": "15(1):4244",
+      "authors": ""
+    },
+    {
+      "title": "Rawat V, DeLear P, Prashanth P, Ozgurses ME, Tebeje A, Burns PA, Conger KO, Sol\u00eds C, Hasnain Y, Novikova A, Endress JE, Gonz\u00e1lez-S\u00e1nchez P, Dong W, Stephanopoulos G, DeNicola GM, Harris I, Sept D, Mason FM, Coloff JL. Drug screening in human physiologic medium identifies uric acid as an inhibitor of rigosertib efficacy. JCI Insight",
+      "pubmed_id": "38815134",
+      "year": "2024",
+      "journal": "9(13)",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Investigation of NRF2-Dependent Metabolic Liabilities (R37 MERIT award)  \nAward Number: 4R37CA230042-06  \nSponsor: National Cancer Institute (NCI)  \nDeNicola, G. (PD/PI)",
+      "source": "NCI",
+      "period": "0042-06"
+    },
+    {
+      "description": "Title: Impact of extracellular glutathione catabolism on triple-negative breast cancer  \nAward Number: 5R01CA269813-02  \nSponsor: National Cancer Institute (NCI)  \nDeNicola, G. (PD/PI)",
+      "source": "NCI",
+      "period": "9813-02"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DeNicolaGina_17020.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17020"
+  },
+  "content_hash": "7ba5a7375224562c0b90f9a802ecd1f36cb8cf99c23fff6b91dda438b88308fb"
+}

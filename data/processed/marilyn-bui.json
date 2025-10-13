@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/marilyn-bui",
+  "last_updated": "2025-10-13T21:45:53.867926",
+  "researcher_id": "3408",
+  "name": "",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Pathology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Dr. Bui is the primary sarcoma pathologist at Moffitt.",
+  "research_interests": [
+    "Dr. Bui is passionate about translational research which identifies or validates diagnostic, prognostic and predictive biomarkers for cancer, especially for sarcoma and breast cancer, using methods of molecular, immunohistochemical and digital pathology.\n  *"
+  ],
+  "associations": [
+    "Pathology",
+    "Machine Learning",
+    "Molecular Medicine Program",
+    "Cancer Imaging & Technology Center of Excellence",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Florida, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Capital Institute of Medicine, Beijing, China",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Florida Health Science Center",
+      "specialty": "Department of Pathology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Florida Health Science Center",
+      "specialty": "Pathology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Florida Health Science Center",
+      "specialty": "Cytopathology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Lobo A, Dhillon G, Bui MM. Solitary Fibrous Tumor of the Seminal Vesicle With Entrapped Benign Glands Mimicking a Mixed Epithelial and Stromal Tumor: A Case Report With Literature Review. Int J Surg Pathol",
+      "pubmed_id": "40462658",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Goetz KE, Boland MV, Chu Z, Reed AA, Clark SD, Towbin AJ, Purt B, O'Donnell K, Bui MM, Eid M, Roth CJ, Luviano DM, Folio LR. Ocular Imaging Challenges, Current State, and a Path to Interoperability: A HIMSS-SIIM Enterprise Imaging Community Whitepaper. J Imaging Inform Med",
+      "pubmed_id": "39354293",
+      "pmc_id": "PMC12092316",
+      "year": "2025",
+      "journal": "38(3):1283-1290",
+      "authors": ""
+    },
+    {
+      "title": "Hassell LA, Forsythe ML, Bhalodia A, Lan T, Rashid T, Powers A, Bui MM, Brickman A, Gu Q, Bychkov A, Cree I, Pantanowitz L. Toward Optimizing the Impact of Digital Pathology and Augmented Intelligence on Issues of Diagnosis, Grading, Staging, and Classification. Mod Pathol",
+      "pubmed_id": "40204094",
+      "pmc_id": "PMC12272330",
+      "year": "2025",
+      "journal": "38(7):100765",
+      "authors": ""
+    },
+    {
+      "title": "Herman M, Schukow C, Tatarian A, El-Zaatari ZM, Sura GH, Bui MM. #PathArt: from glass slide to canvas; with a mission of enlightening the burdens of life. Acad Pathol",
+      "pubmed_id": "39981158",
+      "pmc_id": "PMC11840207",
+      "year": "2025",
+      "journal": "12(1):100157",
+      "authors": ""
+    },
+    {
+      "title": "Waqas A, Khan A, Ozturk ZG, Saeed-Vafa D, Chen W, Dhillon J, Bychkov A, Bui MM, Ullah E, Khalil F, Chumbalkar V, Jameel Z, Bittar HT, Singh RS, Parwani AV, Schabath MB, Rasool G. REASONING BEYOND ACCURACY: EXPERT EVALUATION OF LARGE LANGUAGE MODELS IN DIAGNOSTIC PATHOLOGY. medRxiv",
+      "pubmed_id": "40297448",
+      "pmc_id": "PMC12036407",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Tripathi A, Waqas A, Venkatesan K, Ullah E, Khan A, Khalil F, Chen WS, Ozturk ZG, Saeed-Vafa D, Bui MM, Schabath MB, Rasool G. Employing Consensus-Based Reasoning with Locally Deployed LLMs for Enabling Structured Data Extraction from Surgical Pathology Reports. medRxiv",
+      "pubmed_id": "40343037",
+      "pmc_id": "PMC12060942",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A. Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers. Res Sq",
+      "pubmed_id": "40313737",
+      "pmc_id": "PMC12045365",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Brodsky V, Ullah E, Bychkov A, Song AH, Walk EE, Louis P, Rasool G, Singh RS, Mahmood F, Bui MM, Parwani AV. Generative Artificial Intelligence in Anatomic Pathology. Arch Pathol Lab Med",
+      "pubmed_id": "39836377",
+      "year": "2025",
+      "journal": "149(4):298-318",
+      "authors": ""
+    },
+    {
+      "title": "Tozbikian G, Bui MM, Hicks DG, Jaffer S, Khoury T, Wen HY, Krishnamurthy S, Wei S. Best practices for achieving consensus in HER2-low expression in breast cancer: current perspectives from practising pathologists. Histopathology",
+      "pubmed_id": "38973387",
+      "year": "2024",
+      "journal": "85(3):489-502",
+      "authors": ""
+    },
+    {
+      "title": "Kim D, Thrall MJ, Michelow P, Schmitt FC, Vielh PR, Siddiqui MT, Sundling KE, Virk R, Alperstein S, Bui MM, Chen-Yost H, Donnelly AD, Lin O, Liu X, Madrigal E, Zakowski MF, Parwani AV, Jenkins E, Pantanowitz L, Li Z. The current state of digital cytology and artificial intelligence (AI): global survey results from the American Society of Cytopathology Digital Cytology Task Force. J Am Soc Cytopathol",
+      "pubmed_id": "38744615",
+      "year": "2024",
+      "journal": "13(5):319-328",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Automated De-Identification of Pathology and Radiology Data  \nAward Number: Federal Contract75N91023C00041  \nSponsor: National Cancer Institute (NCI)  \nRasool, G. (PD/PI), Bui, M. (Co-PD/PI), Farinhas, J. (Co-PD/PI), Schabath, M. (Co-PD/PI)",
+      "source": "NCI"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BuiMarilyn_3408.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3408"
+  },
+  "content_hash": "b53a424658988e884430e05eaa0e794c724d3d87702e244718c3c2495e92cd39"
+}

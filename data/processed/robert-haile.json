@@ -1,0 +1,65 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/robert-haile",
+  "last_updated": "2025-10-13T21:43:43.941907",
+  "researcher_id": "unknown",
+  "name": "",
+  "degrees": [],
+  "title": "",
+  "primary_program": "Cancer Epidemiology",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Cancer epidemiology. Genetic epidemiology. Cancer disparities.",
+  "research_interests": [
+    "I have been conducting cancer research for 35 years, with a focus on cancer epidemiology, genetic epidemiology, and most recently cancer disparities. My interest at Moffitt is developing major initiatives that move population sciences towards intervention trials and translational impact. The first four grant applications that will be submitted are on the following topics: 1) Cancer Grand Challenge on Cancer Avoidance, with colleagues from Moffitt, Harvard, Oxford, and the DKFZ (German CAncer REsearch Center) in Heidelberg; 2) large R01 to establish a multi-institutional registry of Lynch Syndrome families who have been historically understudied (rural, low SES White, Hispanic, African American) to support future intervention trials to increase cascade testing, uptake of genetic counseling, screening, pan-cancer early detection tests, and vaccine trials; 3) intervention trials focused on MASLD and MASH, precursor conditions to liver cancer that are associated with metabolic disorder and obesity; 4) self-sampling of HPV as part of a strategy to prevent cervical cancer or detect it early (goal is for Moffitt to lead a statewide effort)..\n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Gong J, Hendifar A, Gangi A, Zaghiyan K, Atkins K, Nasseri Y, Murrell Z, Figueiredo JC, Salvy S, Haile R, Hitchins M. Clinical Applications of Minimal Residual Disease Assessments by Tumor-Informed and Tumor-Uninformed Circulating Tumor DNA in Colorectal Cancer. Cancers (Basel)",
+      "pubmed_id": "34572774",
+      "pmc_id": "PMC8471730",
+      "year": "2021",
+      "journal": "13(18)",
+      "authors": ""
+    },
+    {
+      "title": "Brennan K, Metzner TJ, Kao CS, Massie CE, Stewart GD, Haile RW, Brooks JD, Hitchins MP, Leppert JT, Gevaert O. Development of a DNA Methylation-Based Diagnostic Signature to Distinguish Benign Oncocytoma From Renal Cell Carcinoma. JCO Precis Oncol",
+      "pubmed_id": "33015531",
+      "pmc_id": "PMC7529536",
+      "year": "2020",
+      "journal": "4",
+      "authors": ""
+    },
+    {
+      "title": "Hitchins MP, Vogelaar IP, Brennan K, Haraldsdottir S, Zhou N, Martin B, Alvarez R, Yuan X, Kim S, Guindi M, Hendifar AE, Kalady MF, DeVecchio J, Church JM, de la Chapelle A, Hampel H, Pearlman R, Christensen M, Snyder C, Lanspa SJ, Haile RW, Lynch HT. Methylated SEPTIN9 plasma test for colorectal cancer detection may be applicable to Lynch syndrome. BMJ Open Gastroenterol",
+      "pubmed_id": "31275589",
+      "pmc_id": "PMC6577308",
+      "year": "2019",
+      "journal": "6(1):e000299",
+      "authors": ""
+    },
+    {
+      "title": "Aronica L, Levine AJ, Brennan K, Mi J, Gardner C, Haile RW, Hitchins MP. A systematic review of studies of DNA methylation in the context of a weight loss intervention. Epigenomics",
+      "pubmed_id": "28517981",
+      "year": "2017",
+      "journal": "9(5):769-787",
+      "authors": ""
+    },
+    {
+      "title": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Discovery and verification of methylated circulating tumor DNA markers for the detection of colorectal cancer in subjects under 50 years of age  \nAward Number: 7R01CA252042-05  \nSponsor: National Institutes of Health (NIH)  \nHaile, R. (PD/PI), Hitchins, M. (PD/PI)",
+      "source": "NIH",
+      "period": "2042-05"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HaileRobert_42708.jpg",
+  "contact": {},
+  "content_hash": "9d8255c7fbc3f63ba8d513b4a5a296c45bb4fb5b8fba7be98b2424134f3e2498"
+}

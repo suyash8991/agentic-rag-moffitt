@@ -1,0 +1,42 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/michael-dunne",
+  "last_updated": "2025-10-13T21:47:42.975121",
+  "researcher_id": "unknown",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "BioEngineering",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "The central research theme of Dr. Dunne's lab is cell-based drug delivery. the Dunne Lab harnesses chemistry, materials science, bioengineering, pharmaceutical sciences, and immunology approaches in order to improve the delivery efficiency of therapeutic molecules to tumors, while sparing normal tissue.",
+  "research_interests": [
+    "Dr. Dunne\u2019s primary research interest is the development of technologies that improve the delivery efficiency of a wide range of therapeutics to solid tumors. Specifically, the Dune Lab focuses on using novel hydrogel materials in order to develop triggered-release, cell-based drug delivery therapeutics that modulate the tumor microenvironment in order to improve the efficacy of the current generation of cell and immuno-therapies. Additional research is focused on improving anti-cancer cell therapies by combining them with externally applied stimuli (e.g. radiotherapy, hyperthermia, and/or focused ultrasound) in order to alter immune cell accumulation and distribution within the tumor.\n  *"
+  ],
+  "associations": [
+    "Immunology",
+    "BioEngineering",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Toronto, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Harvard University",
+      "specialty": "BioEngineering"
+    }
+  ],
+  "publications": [],
+  "grants": [
+    {
+      "description": "Title: Soft Materials to Harness the Immune System for Targeted Drug Delivery  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nDunne, M. (PD/PI)",
+      "source": "American Cancer Society"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DunneMichael_37746.jpg",
+  "contact": {},
+  "content_hash": "d7b0e8d539501652aee5aa06a8b26c66f3d9f3bf12924a08ce4566091eaed36b"
+}

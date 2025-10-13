@@ -1,0 +1,159 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/uwe-rix",
+  "last_updated": "2025-10-13T21:45:24.693603",
+  "researcher_id": "10126",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Drug Discovery",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Many drugs are unselective. This is a potential liability, but also an opportunity to find novel targets, cancer vulnerabilities and drug repurposing prospects. Key to this is our expertise in chemical proteomics, a powerful technology to identify targets of small molecule drugs/probes and launch mechanistic studies to elucidate their cancer-specific contexts and better understand cancer signaling networks.",
+  "research_interests": [
+    "My scientific interest centers on chemical biology, targeted drugs, drug-protein interaction networks, synergy and molecular mechanisms of action in the context of cancer, particularly lung and ovarian cancer. I am pursuing a multi-layered chemical biology/systems pharmacology strategy based on the systematic screening for drug synergy and subsequent identification of the molecular basis underlying the observed synergy by for instance combining chemical proteomics, phosphoproteomics and gene expression profiling approaches. This integrated strategy can identify on one hand novel synergistic drug combinations, which due to the focus on clinical drug candidates has high potential for translation into clinical trials. In addition, the mechanistic understanding helps to further dissect complex oncogenic signaling networks, as well as providing potential mechanism-based biomarkers that can guide patient stratification. We also use small molecule fragments for screening cancer cells and subsequent target identification by chemical proteomics, which represents an excellent starting point for subsequent collaborative drug discovery efforts. We have many years of expertise in chemical proteomics, a postgenomic adaptation of classical drug-affinity chromatography that is powered by downstream mass spectrometry and bioinformatics analysis. This technology is optimally suited to support systematic investigations of cellular drug activities and mechanisms of action by characterizing in an unbiased fashion the cell-specific native drug-target interaction profiles, which are important starting points for identifying the engaged signaling pathways and networks. By applying this strategy, we have been able to identify a large number of new drug-protein interactions, predict drug side effects, characterize circuitries of oncogenic signaling and identify novel synergistic drug combinations. \n  *"
+  ],
+  "associations": [
+    "Drug Discovery",
+    "Thoracic Oncology",
+    "Lung Cancer Center of Excellence",
+    "Systems Medicine Working Group",
+    "Molecular Medicine Program",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "GAU Gottingen, Germany, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "MUSC, Charleston, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Kentucky College of Pharmacy",
+      "specialty": "Pharmaceutical Sciences"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Austrian Academy of Sciences Center for Molecular Medicine",
+      "specialty": "Molecular Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Austrian Academy of Sciences Center for Molecular Medicine",
+      "specialty": "Molecular Medicine"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Lodovichi S, Nepomuceno TC, Woods NT, Rix U, Koomen JM, Pellicioli A, Galli A, Monteiro ANA. SART1 modulates poly-(ADP-ribose) chain accumulation and PARP1 chromatin localization. iScience",
+      "pubmed_id": "39569366",
+      "pmc_id": "PMC11576398",
+      "year": "2024",
+      "journal": "27(11):111252",
+      "authors": ""
+    },
+    {
+      "title": "Liao Y, Remsing Rix LL, Li X, Fang B, Izumi V, Welsh EA, Monastyrskyi A, Haura EB, Koomen JM, Doebele RC, Rix U. Differential network analysis of ROS1 inhibitors reveals lorlatinib polypharmacology through co-targeting PYK2. Cell Chem Biol",
+      "pubmed_id": "37848034",
+      "pmc_id": "PMC10922442",
+      "year": "2024",
+      "journal": "31(2):284-297",
+      "authors": ""
+    },
+    {
+      "title": "Xu X, Bok I, Jasani N, Wang K, Chadourne M, Mecozzi N, Deng O, Welsh EA, Kinose F, Rix U, Karreth FA. PTEN Lipid Phosphatase Activity Suppresses Melanoma Formation by Opposing an AKT/mTOR/FRA1 Signaling Axis. Cancer Res",
+      "pubmed_id": "38193852",
+      "pmc_id": "PMC10842853",
+      "year": "2024",
+      "journal": "84(3):388-404",
+      "authors": ""
+    },
+    {
+      "title": "Hu Q, Liao Y, Cao J, Fang B, Yun S, Kinose F, Haura E, Lawrence H, Doebele R, Koomen J, Rix U. Differential Chemoproteomics Reveals MARK2/3 as Cell Migration-Relevant Targets of the ALK Inhibitor Brigatinib. Chembiochem",
+      "pubmed_id": "36922348",
+      "pmc_id": "PMC10413441",
+      "year": "2023",
+      "journal": "24(11):e202200766",
+      "authors": ""
+    },
+    {
+      "title": "Liao Y, Chin Chan S, Welsh EA, Fang B, Sun L, Sch\u00f6nbrunn E, Koomen JM, Duckett DR, Haura EB, Monastyrskyi A, Rix U. Chemical Proteomics with Novel Fully Functionalized Fragments and Stringent Target Prioritization Identifies the Glutathione-Dependent Isomerase GSTZ1 as a Lung Cancer Target. Acs Chem Biol",
+      "pubmed_id": "36630201",
+      "year": "2023",
+      "journal": "18(2):251-264",
+      "authors": ""
+    },
+    {
+      "title": "Letson CT, Balasis ME, Newman H, Binder M, Vedder A, Kinose F, Ball M, Kruer T, Quintana A, Lasho TL, Finke CM, Almada LL, Grants JM, Zhang G, Fernandez-Zapico ME, Gaspar-Maia A, Lancet J, Komrokji R, Haura E, Sallman DA, Reuther GW, Karsan A, Rix U, Patnaik MM, Padron E. Targeting BET Proteins Downregulates miR-33a To Promote Synergy with PIM Inhibitors in CMML. Clin Cancer Res",
+      "pubmed_id": "37223910",
+      "pmc_id": "PMC10524644",
+      "year": "2023",
+      "journal": "29(15):2919-2932",
+      "authors": ""
+    },
+    {
+      "title": "Deng O, Dash S, Nepomuceno TC, Fang B, Yun SY, Welsh EA, Lawrence HR, Marchion D, Koomen JM, Monteiro AN, Rix U. Integrated proteomics identifies PARP inhibitor-induced prosurvival signaling changes as potential vulnerabilities in ovarian cancer. J Biol Chem",
+      "pubmed_id": "36183837",
+      "pmc_id": "PMC9636579",
+      "year": "2022",
+      "journal": "298(11):102550",
+      "authors": ""
+    },
+    {
+      "title": "Palve V, Knezevic CE, Bejan DS, Luo Y, Li X, Novakova S, Welsh EA, Fang B, Kinose F, Haura EB, Monteiro AN, Koomen JM, Cohen MS, Lawrence HR, Rix U. The non-canonical target PARP16 contributes to polypharmacology of the PARP inhibitor talazoparib and its synergy with WEE1 inhibitors. Cell Chem Biol",
+      "pubmed_id": "34329582",
+      "pmc_id": "PMC8782927",
+      "year": "2022",
+      "journal": "29(2):202-214",
+      "authors": ""
+    },
+    {
+      "title": "Remsing Rix LL, Sumi NJ, Hu Q, Desai B, Bryant AT, Li X, Welsh EA, Fang B, Kinose F, Kuenzi BM, Chen YA, Antonia SJ, Lovly CM, Koomen JM, Haura EB, Marusyk A, Rix U. IGF-binding proteins secreted by cancer-associated fibroblasts induce context-dependent drug sensitization of lung cancer cells. Sci Signal",
+      "pubmed_id": "35973030",
+      "pmc_id": "PMC9528501",
+      "year": "2022",
+      "journal": "15(747):eabj5879",
+      "authors": ""
+    },
+    {
+      "title": "Phadke MS, Chen Z, Li J, Mohamed E, Davies MA, Smalley I, Duckett D, Palve V, Czerniecki BJ, Forsyth PA, Noyes D, Adeegbe DO, Eroglu Z, Nguyen KT, Tsai KY, Rix U, Burd CE, Chen YA, Rodriguez PC, Smalley KSM. Targeted Therapy Given after Anti-PD-1 Leads to Prolonged Responses in Mouse Melanoma Models through Sustained Antitumor Immunity. Cancer Immunol Res",
+      "pubmed_id": "33653716",
+      "pmc_id": "PMC8102376",
+      "year": "2021",
+      "journal": "9(5):554-567",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Overcoming resistance to KRAS inhibitors through a fragment-based chemoproteomics approach  \nAward Number: R21CA282568-01  \nSponsor: National Cancer Institute (NCI)  \nHaura, E. (PD/PI), Rix, U. (PD/PI)",
+      "source": "NCI",
+      "period": "2568-01"
+    },
+    {
+      "description": "Title: Integrated Fragment-Based Phenotypic Screening and Chemoproteomics for Identification of Novel Small Cell Lung Cancer-Specific Targets  \nAward Number: 1R21CA277288-01  \nSponsor: National Cancer Institute (NCI)  \nMonastyrskyi, A. (PD/PI), Rix, U. (PD/PI)",
+      "source": "NCI",
+      "period": "7288-01"
+    },
+    {
+      "description": "Title: Multipronged Co-Targeting of ALK/ROS1 and Compensatory Focal Adhesion Kinases in Lung Cancer as a Pre-Emptive Strike to Prevent Development of Drug Resistance  \nAward Number: W81XWH-22-10607  \nSponsor: Department of Defense (DOD)  \nRix, U. (PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": "Title: Dual Up- and Downstream Targeting of POU2F3 in Small Cell Lung Cancer  \nAward Number: HT94252410567 Log No. LC230490  \nSponsor: Department of Defense (DOD)  \nRix, U. (PD/PI), Flores, E. (Co-PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": "Title: Novel combination approaches for targeting oncogenic signaling dependencies in POU2F3- driven small cell lung cancer  \nAward Number: 24B02  \nSponsor: Florida Department of Health  \nFlores, E. (PD/PI), Rix, U. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers/RixUwe_10126.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10126"
+  },
+  "content_hash": "5e0437ddd7e164339c546c74f022c18fa468340682a927f4be5e631814b15cb1"
+}

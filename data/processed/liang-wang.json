@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/liang-wang",
+  "last_updated": "2025-10-13T21:44:19.848452",
+  "researcher_id": "25224",
+  "name": "",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Tumor Microenvironment and Metastasis",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Cancer genetic and epigenetic biomarkers",
+  "research_interests": [
+    "Dr. Wang\u2019s research seeks to identify, validate and functionally characterize biomarkers that will inform the assessments of cancer risk, the detection of early-stage cancers, and the response and outcomes of our patients. His current research efforts are focused on the detection and quantification of cell-free and circulating nucleic acids as predictors of therapy response and survival, especially in the context of prostate cancer.\n  *"
+  ],
+  "associations": [
+    "Genitourinary Oncology",
+    "Tumor Microenvironment and Metastasis",
+    "Pathology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Zhengzhou University, M.Sc"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Peking Union Medical College, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "North China University of Science and Technology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Mayo Clinic College of Medicine",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Sun Y, Zhu J, Zhong H, Zhang Z, Wang F, Nakamura A, Liu Y, Liu J, Yu J, Zeng G, Lin X, Zhou D, Wu C, Wang L, Deng Y, Wu L. Transcriptome-Wide Association Study Identified Novel Blood Tissue Gene Biomarkers for Prostate Cancer Risk. Prostate",
+      "pubmed_id": "39878408",
+      "year": "2025",
+      "journal": "85(6):567-579",
+      "authors": ""
+    },
+    {
+      "title": "Li Q, Huang CC, Huang S, Tian Y, Huang J, Bitaraf A, Dong X, Nevalainen MT, Patel M, Wong J, Zhang J, Manley BJ, Park JY, Kohli M, Gore EM, Kilari D, Wang L. 5-hydroxymethylcytosine sequencing of plasma cell-free DNA identifies epigenomic features in prostate cancer patients receiving androgen deprivation therapies. Commun Med (Lond)",
+      "pubmed_id": "40038525",
+      "pmc_id": "PMC11880319",
+      "year": "2025",
+      "journal": "5(1):61",
+      "authors": ""
+    },
+    {
+      "title": "Maranto C, Udhane V, Jia J, Verma R, M\u00fcller-Newen G, LaViolette PS, Pereckas M, Sabharwal L, Terhune S, Pattabiraman N, Njar VCO, Imig JD, Wang L, Nevalainen MT. Correction: Maranto et al. Prospects for Clinical Development of Stat5 Inhibitor IST5-002: High Transcriptomic Specificity in Prostate Cancer and Low Toxicity In Vivo. Cancers 2020, 12, 3412. Cancers (Basel)",
+      "pubmed_id": "40149386",
+      "pmc_id": "PMC11940198",
+      "year": "2025",
+      "journal": "17(6)",
+      "authors": ""
+    },
+    {
+      "title": "Fadlullah MZH, Nix D, Herberts C, Maurice-Dror C, Wyatt AW, Schmidt B, Fairbourn B, Tan AC, Wang L, Kohli M. Multi-gene risk score for prediction of clinical outcomes in treatment-na\u00efve metastatic castrate-resistant prostate cancer. JNCI Cancer Spectr",
+      "pubmed_id": "40036789",
+      "pmc_id": "PMC11954629",
+      "year": "2025",
+      "journal": "9(2)",
+      "authors": ""
+    },
+    {
+      "title": "Liu S, Zhu J, Green D, Zhong H, Long Q, Wu C, Wang L, Deng Y, Wu L. Integrating Multi-Omics Data to Uncover Prostate Tissue DNA Methylation Biomarkers and Target Genes for Prostate Cancer Risk. Mol Carcinogen",
+      "pubmed_id": "39400371",
+      "year": "2025",
+      "journal": "64(1):83-90",
+      "authors": ""
+    },
+    {
+      "title": "Tomczak K, Patel MS, Bhalla AD, Peterson CB, Landers SM, Callahan SC, Zhang D, Wong J, Landry JP, Lazar AJ, Livingston JA, Guadagnolo BA, Lyu HG, Lillemoe H, Roland CL, Keung EZ, Scally CP, Hunt KK, McCutcheon IE, Slopis JM, Gu J, Scheet P, Wang L, Rai K, Torres KE. Plasma DNA Methylation-Based Biomarkers for MPNST Detection in Patients With Neurofibromatosis Type 1. Mol Carcinogen",
+      "pubmed_id": "39600120",
+      "pmc_id": "PMC11636586",
+      "year": "2025",
+      "journal": "64(1):44-56",
+      "authors": ""
+    },
+    {
+      "title": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y. Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study. Cancers (Basel)",
+      "pubmed_id": "40075682",
+      "pmc_id": "PMC11898942",
+      "year": "2025",
+      "journal": "17(5)",
+      "authors": ""
+    },
+    {
+      "title": "Wong J, Muralidhar R, Wang L, Huang CC. Epigenetic modifications of cfDNA in liquid biopsy for the cancer care continuum. Biomed J",
+      "pubmed_id": "38522508",
+      "pmc_id": "PMC11745953",
+      "year": "2025",
+      "journal": "48(1):100718",
+      "authors": ""
+    },
+    {
+      "title": "Liu S, Zhu J, Zhang H, Zhong H, Wong HTH, Wang L, Wu L. Causal Relationship Between Blood Metabolites and Prostate Cancer Risk: A Two-Sample Mendelian Randomization Study. Mol Carcinogen",
+      "pubmed_id": "40387704",
+      "year": "2025",
+      "journal": "64(8):1316-1329",
+      "authors": ""
+    },
+    {
+      "title": "Sinawang PD, Multani P, Ozen MO, Wong J, Akin D, Hanson C, Larsen M, Ampaw E, Rondina MT, Tolley ND, Wang L, Cunningham BT, Kohli M, Demirci U. Plasma Preparation Strategies for Extracellular Vesicle-Based Biomarkers in Metastatic Castration-Resistant Prostate Cancer. J Extracell Biol",
+      "pubmed_id": "40755906",
+      "pmc_id": "PMC12311838",
+      "year": "2025",
+      "journal": "4(8):e70071",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Establishing the role of aberrant splice variants as a clinical biomarker in clear cell renal cell carcinoma  \nAward Number: 22B06  \nSponsor: Florida Department of Health  \nManley, B. (PD/PI), Wang, L. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Development of a Lung Cancer Subtyping Diagnostic   \nAward Number: NA  \nSponsor: Orbit Genomics, Inc.  \nWang, L. (PD/PI)"
+    },
+    {
+      "description": "Title: Clinical utility of cell-free DNA methylation profiling in high-risk/oligometastatic prostate cancer patients treated with radiation therapy  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nGrass, G. (PD/PI), Wang, L. (PD/PI), Yamoah, K. (PD/PI)",
+      "source": "Foundation"
+    },
+    {
+      "description": "Title: Functional characterization of prostate cancer risk loci by high throughput sequencing  \nAward Number: 5R01CA250018-03  \nSponsor: National Cancer Institute (NCI)  \nWang, L. (PD/PI)",
+      "source": "NCI",
+      "period": "0018-03"
+    },
+    {
+      "description": "Title: Cell free nucleic acid-based biomarkers in advanced prostate cancer  \nAward Number: 5R01CA212097-06  \nSponsor: National Cancer Institute (NCI)  \nWang, L. (PD/PI)",
+      "source": "NCI",
+      "period": "2097-06"
+    },
+    {
+      "description": "Title: Epigenetic Changes as a Biomarker in African Americans with Papillary Renal Cell Carcinoma and a Link to the Tumor Microenvironment  \nAward Number: HT9425-23-1-0883, Log # KC220020P1  \nSponsor: Department of Defense (DOD)  \nWang, L. (PD/PI)",
+      "source": "DOD",
+      "period": "9425-23"
+    },
+    {
+      "description": "Title: Uncovering Causal Protein Markers to Improve Prostate Cancer Etiology Understanding and Risk Prediction in Africans and Europeans  \nAward Number: 1R01CA263494-01A1  \nSponsor: National Cancer Institute (NCI)  \nWang, L. (PD/PI)",
+      "source": "NCI",
+      "period": "3494-01"
+    },
+    {
+      "description": "Title: Use of Noninvasive Biomarkers and Advanced MRI for early detection of NF1-associated MPNSTs  \nAward Number: 3002509693  \nSponsor: National Cancer Institute (NCI)  \nWang, L. (PD/PI)",
+      "source": "NCI"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WangLiang_25224.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=25224"
+  },
+  "content_hash": "f5432e4dbee0d647c792d7d8003e96aad3e071d5679d906968e306a7b91e667e"
+}

@@ -1,0 +1,116 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/youngchul-kim",
+  "last_updated": "2025-10-13T21:40:48.693606",
+  "researcher_id": "14086",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "My research is dedicated to the identification of molecular cancer biomarkers through the rigorous application of statistical and bioinformatics methodologies to comprehensive genomic, transcriptomic, and metagenomic datasets derived from cancer patients.",
+  "research_interests": [
+    "My primary research focus is on the identification of predictive cancer biomarkers to optimize cancer therapy as a personalized medicine. I have developed the CONCORD and PDXGEM pipelines, which analyze gene expression patterns and gene co-expression networks across cancer cell lines, patient-derived tumor xenografts, and cancer patients. These pipelines enable the prediction of therapeutic response and facilitate drug repurposing. My recent research has centered on discovering molecular cancer biomarkers, conducting metagenomic and genetic association studies to improve cancer diagnosis, prognosis, and treatment outcomes.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Genitourinary Oncology",
+    "Cancer Biology & Evolution Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Seoul National University, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Seoul National University",
+      "specialty": "Bioinformatics and Biostatistics"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Byrd DA, Gomez MF, Hogue SR, Burns JR, Smith N, Sampson J, Loftfield E, Wolf PG, Wan Y, Warner A, Hicks B, Dagnall C, Jones K, Kim Y, Xu J, Shi J, Sinha R, Vogtmann E. Associations of the Colon Tissue Microbiome and Circulating Bile Acids With Colorectal Adenoma Among Average-Risk Women. Cancer Med",
+      "pubmed_id": "40937639",
+      "pmc_id": "PMC12426762",
+      "year": "2025",
+      "journal": "14(18):e71048",
+      "authors": ""
+    },
+    {
+      "title": "Yu J, Laborde JM, Park R, Shahzad M, Kim Y, Cheon J, Imanirad I, Kim RD, Biachi de Castria T, Nardella NL, Malafa M, Denbo JW, Fleming JB, Hoffe SE, Frakes JM, Sinnamon AJ, Pimiento JM, Hodul PJ, Kim DW. Association of Pathologic Response and Adjuvant Chemotherapy with Survival in Resected Pancreatic Ductal Adenocarcinoma Following Neoadjuvant Therapy. Cancers (Basel)",
+      "pubmed_id": "40507279",
+      "pmc_id": "PMC12153592",
+      "year": "2025",
+      "journal": "17(11)",
+      "authors": ""
+    },
+    {
+      "title": "Ahmed KA, Quick AM, Chon HS, Chern JY, Bixel K, Kim Y, Li J, Montejo ME, Dowell RA, Kim S, Fernandez DC, Lam CA, Hakam A, Rosa M, Shafique M, Shahzad MM, Wenham RM. Atezolizumab and Stereotactic Body Radiation in Metastatic, Recurrent, or Persistent Cervical Cancer: Results From a Phase 2 Multi-Institutional Study. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "40379142",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Ahmed KA, Kim Y, Armaghani AJ, Arrington JA, Costa RL, Czerniecki BJ, Diaz R, Dowell RA, Extermann M, Forsyth PA, Lee KT, Loftus L, Mills MN, Phuoc VH, Rosa M, Soliman HH, Sam CS, Washington IR, Soyano AE, Han HS. Phase II trial of brain MRI surveillance in stage IV breast cancer. Neurooncol",
+      "pubmed_id": "39851040",
+      "pmc_id": "PMC12309701",
+      "year": "2025",
+      "journal": "27(6):1550-1558",
+      "authors": ""
+    },
+    {
+      "title": "Echevarria M, Park R, Caudell JJ, Kim Y, Yang GQ, Kirtane K, Chaudhary R, Kumar S, Amelio AL, Giuliano AR, Chung CH. Plasma Cell-Free Human Papillomavirus DNA and Oral Gargle HPV DNA in Patients with HPV-Related Oropharyngeal Cancer Treated with Radiotherapy. Cancer Res Commun",
+      "pubmed_id": "40643202",
+      "pmc_id": "PMC12281097",
+      "year": "2025",
+      "journal": "5(7):1194-1202",
+      "authors": ""
+    },
+    {
+      "title": "Mustasam A, Parza K, Ionescu F, Gullapalli K, Paravathaneni M, Kim Y, Sandstrom RE, Al Assaad M, Grass GD, Johnstone P, Eschrich S, Safa H, Chadha J, Roman Souza G, David J, Semaan A, Zacharias NM, Pettaway C, Giuliano AR, Spiess PE, Chahoud J. The Prognostic Role of HPV or p16INK4a Status in Penile Squamous Cell Carcinoma: A Meta-Analysis. J Natl Compr Canc Ne",
+      "pubmed_id": "39752880",
+      "year": "2025",
+      "journal": "23(2)",
+      "authors": ""
+    },
+    {
+      "title": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR. Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial. Nat Med",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "journal": "31(1):176-188",
+      "authors": ""
+    },
+    {
+      "title": "DePalo DK, Dugan MM, Naqvi SMH, Ollila DW, Hieken TJ, Block MS, van Houdt WJ, Wouters MWJM, Reijers SJM, Asher N, Broman KK, Duncan Z, Anderson M, Gyorki DE, Snow H, Held J, Farma JM, Vetto JT, Hui JYC, Kolbow M, Saw RPM, Lo SN, Long GV, Thompson JF, Kim Y, Karapetyan L, Ny L, van Akkooi ACJ, Bagge RO, Zager JS. A comparison of isolated limb infusion/perfusion, immune checkpoint inhibitors, and intralesional therapy as first-line treatment for patients with melanoma in-transit metastases. Cancer",
+      "pubmed_id": "39522025",
+      "year": "2025",
+      "journal": "131(1):e35636",
+      "authors": ""
+    },
+    {
+      "title": "Robinson LA, Bryant S, Sun X, Kaki MS, Freyaldenhoven ST, Schwer T, Bailey A, Kim Y. Implantation of polyglycolic acid mesh over lung resection staple lines to prevent air leaks. JTCVS Tech",
+      "pubmed_id": "40814658",
+      "pmc_id": "PMC12348291",
+      "year": "2025",
+      "journal": "32:163-171",
+      "authors": ""
+    },
+    {
+      "title": "Ahmed KA, Kim Y, Kim S, Wang MH, DeJesus M, Arrington JA, Soyano AE, Armaghani AJ, Costa RLB, Loftus LS, Rosa M, Caudell JJ, Diaz R, Etame AB, Tran ND, Soliman H, Czerniecki BJ, Forsyth PA, Yu HM, Han HS. Nivolumab and stereotactic radiosurgery for patients with breast cancer brain metastases: long-term results and biomarker analysis from a non-randomized, open-label, phase Ib study. J Immunother Cancer",
+      "pubmed_id": "40295143",
+      "pmc_id": "PMC12039042",
+      "year": "2025",
+      "journal": "13(4)",
+      "authors": ""
+    }
+  ],
+  "grants": [],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers/KimYoungchul_14086.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14086"
+  },
+  "content_hash": "e39c7836155df00e593973760b3f1cf95f410b7eff8a1a757a15760bdc8818d9"
+}

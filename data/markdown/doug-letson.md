@@ -1,0 +1,1283 @@
+[Skip to nav](https://www.moffitt.org/research-science/researchers/doug-letson#menu-mobile) [Skip to content](https://www.moffitt.org/research-science/researchers/doug-letson#main-content)
+[ ![Moffitt Cancer Center](https://www.moffitt.org/globalassets/images/logos/moffitt-logo-full-white.svg) ](https://www.moffitt.org/ "Moffitt Cancer Center")
+Schedule
+[New Patients](https://www.moffitt.org/eforms/patientregistrationform/ "New Patients") [Referring Physicians](https://www.moffitt.org/eforms/referapatient/ "Referring Physicians")
+[ Find a Doctor ](https://www.moffitt.org/find-a-doctor/ "Find a Doctor")
+Patient Portal
+[Log In](https://mymoffitt.iqhealth.com/ "Log In") [Enroll](https://mymoffitt.iqhealth.com/self-enroll/)
+[ Careers ](https://www.moffitt.org/careers/ "Careers")
+[ Locations ](https://www.moffitt.org/locations-directions/ "Locations")
+[ 1-888-663-3488 ](tel:1-888-663-3488 "Call 1-888-663-3488")
+English
+[English](https://www.moffitt.org/research-science/researchers/doug-letson/ "English") [Spanish](https://www.moffitt.org/es/research-science/researchers/doug-letson/ "Spanish")
+[ ](https://www.moffitt.org/research-science/researchers/?campaign=567103 "Donate") Search
+  * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/doug-letson)
+    * [ Cancers ](https://www.moffitt.org/cancers/)
+      * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
+      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
+      * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
+      * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
+      * [Appendiceal (Appendix) Cancer](https://www.moffitt.org/cancers/appendiceal-appendix-cancer/ "Appendiceal \(Appendix\) Cancer")
+      * [Astrocytoma](https://www.moffitt.org/cancers/astrocytoma/ "Astrocytoma")
+      * [Basal Cell Carcinoma](https://www.moffitt.org/cancers/basal-cell-carcinoma/ "Basal Cell Carcinoma")
+      * [Bladder Cancer](https://www.moffitt.org/cancers/bladder-cancer/ "Bladder Cancer")
+      * [Bone Metastasis](https://www.moffitt.org/cancers/bone-metastasis/ "Bone Metastasis")
+      * [Brain Cancer](https://www.moffitt.org/cancers/brain-cancer/ "Brain Cancer")
+      * [Brain Tumor](https://www.moffitt.org/cancers/brain-tumor/ "Brain Tumor")
+      * [Brain Metastases](https://www.moffitt.org/cancers/brain-metastases/ "Brain Metastases")
+      * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
+      * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
+      * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
+      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
+      * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
+      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
+      * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
+      * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
+      * [Endometrial (Uterine) Cancer](https://www.moffitt.org/cancers/endometrial-uterine-cancer/ "Endometrial \(Uterine\) Cancer")
+      * [Esophageal Cancer](https://www.moffitt.org/cancers/esophageal-cancer/ "Esophageal Cancer")
+      * [Follicular Lymphoma](https://www.moffitt.org/cancers/follicular-lymphoma/ "Follicular Lymphoma")
+      * [Gallbladder Cancer](https://www.moffitt.org/cancers/gallbladder-cancer/ "Gallbladder Cancer")
+      * [Gastrointestinal Carcinoid Tumor](https://www.moffitt.org/cancers/gastrointestinal-carcinoid-tumor/ "Gastrointestinal Carcinoid Tumor")
+      * [GIST (Gastrointestinal Stromal Tumor)](https://www.moffitt.org/cancers/gist-gastrointestinal-stromal-tumor/ "GIST \(Gastrointestinal Stromal Tumor\)")
+      * [Glioblastoma](https://www.moffitt.org/cancers/glioblastoma/ "Glioblastoma")
+      * [Head and Neck Cancer](https://www.moffitt.org/cancers/head-and-neck-cancer/ "Head and Neck Cancer")
+      * [HER2 Positive Breast Cancer](https://www.moffitt.org/cancers/her2-positive-breast-cancer/ "HER2 Positive Breast Cancer")
+      * [Hodgkin Lymphoma](https://www.moffitt.org/cancers/hodgkin-lymphoma/ "Hodgkin Lymphoma")
+      * [Inflammatory Breast Cancer](https://www.moffitt.org/cancers/inflammatory-breast-cancer/ "Inflammatory Breast Cancer")
+      * [Invasive Ductal Carcinoma](https://www.moffitt.org/cancers/invasive-ductal-carcinoma/ "Invasive Ductal Carcinoma")
+      * [Kidney (Renal Cell) Cancer](https://www.moffitt.org/cancers/kidney-renal-cell-cancer/ "Kidney \(Renal Cell\) Cancer")
+      * [Leukemia](https://www.moffitt.org/cancers/leukemia/ "Leukemia")
+      * [Liver (Hepatocellular) Cancer](https://www.moffitt.org/cancers/liver-hepatocellular-cancer/ "Liver \(Hepatocellular\) Cancer")
+      * [Low-Grade Glioma](https://www.moffitt.org/cancers/low-grade-glioma/ "Low-Grade Glioma")
+      * [Lung Cancer](https://www.moffitt.org/cancers/lung-cancer/ "Lung Cancer")
+      * [Lymphomas (Hodgkin and Non-Hodgkin)](https://www.moffitt.org/cancers/lymphomas-hodgkin-and-non-hodgkin/ "Lymphomas \(Hodgkin and Non-Hodgkin\)")
+      * [Mantle Cell Lymphoma](https://www.moffitt.org/cancers/mantle-cell-lymphoma/ "Mantle Cell Lymphoma")
+      * [Melanoma](https://www.moffitt.org/cancers/melanoma/ "Melanoma")
+      * [Meningioma](https://www.moffitt.org/cancers/meningioma/ "Meningioma")
+      * [Merkel Cell Carcinoma](https://www.moffitt.org/cancers/merkel-cell-carcinoma/ "Merkel Cell Carcinoma")
+      * [Mesothelioma](https://www.moffitt.org/cancers/mesothelioma/ "Mesothelioma")
+      * [Metastatic Breast Cancer](https://www.moffitt.org/cancers/metastatic-breast-cancer/ "Metastatic Breast Cancer")
+      * [Monoclonal Gammopathy of Undetermined Significance (MGUS)](https://www.moffitt.org/cancers/monoclonal-gammopathy-of-undetermined-significance-mgus/ "Monoclonal Gammopathy of Undetermined Significance \(MGUS\)")
+      * [Multiple Myeloma-Plasma Cell Tumor](https://www.moffitt.org/cancers/multiple-myeloma-plasma-cell-tumor/ "Multiple Myeloma-Plasma Cell Tumor")
+      * [Myelodysplastic Syndromes (MDS)](https://www.moffitt.org/cancers/myelodysplastic-syndromes-mds/ "Myelodysplastic Syndromes \(MDS\)")
+      * [Neuroendocrine Tumor](https://www.moffitt.org/cancers/neuroendocrine-tumor/ "Neuroendocrine Tumor")
+      * [Neurofibromatosis](https://www.moffitt.org/cancers/neurofibromatosis/ "Neurofibromatosis")
+      * [Non-Hodgkin Lymphoma](https://www.moffitt.org/cancers/non-hodgkin-lymphoma/ "Non-Hodgkin Lymphoma")
+      * [Oral Cavity (Mouth) Cancer](https://www.moffitt.org/cancers/oral-cavity-mouth-cancer/ "Oral Cavity \(Mouth\) Cancer")
+      * [Insurance and Financial Information](https://www.moffitt.org/patient-family/insurance-financial-information/ "Insurance and Financial Information")
+      * [Oral Cavity or Throat Cancer](https://www.moffitt.org/cancers/oral-cavity-or-throat-cancer/ "Oral Cavity or Throat Cancer")
+      * [Osteosarcoma](https://www.moffitt.org/cancers/osteosarcoma/ "Osteosarcoma")
+      * [Ovarian Cancer](https://www.moffitt.org/cancers/ovarian-cancer/ "Ovarian Cancer")
+      * [Pancoast Tumor](https://www.moffitt.org/cancers/pancoast-tumor/ "Pancoast Tumor")
+      * [Pancreatic Cancer](https://www.moffitt.org/cancers/pancreatic-cancer/ "Pancreatic Cancer")
+      * [Penile Cancer](https://www.moffitt.org/cancers/penile-cancer/ "Penile Cancer")
+      * [Pituitary Adenoma](https://www.moffitt.org/cancers/pituitary-adenoma/ "Pituitary Adenoma")
+      * [Prostate Cancer](https://www.moffitt.org/cancers/prostate-cancer/ "Prostate Cancer")
+      * [Rectal Cancer](https://www.moffitt.org/cancers/rectal-cancer/ "Rectal Cancer")
+      * [Sarcoma](https://www.moffitt.org/cancers/sarcoma/ "Sarcoma")
+      * [Skin Cancer (Nonmelanoma)](https://www.moffitt.org/cancers/skin-cancer-nonmelanoma/ "Skin Cancer \(Nonmelanoma\)")
+      * [Skull Base Tumors](https://www.moffitt.org/cancers/skull-base-tumors/ "Skull Base Tumors")
+      * [Small Intestine Cancer](https://www.moffitt.org/cancers/small-intestine-cancer/ "Small Intestine Cancer")
+      * [Spinal Tumor](https://www.moffitt.org/cancers/spinal-tumor/ "Spinal Tumor")
+      * [Squamous Cell Carcinoma](https://www.moffitt.org/cancers/squamous-cell-carcinoma/ "Squamous Cell Carcinoma")
+      * [Smoldering Multiple Myeloma](https://www.moffitt.org/cancers/smoldering-multiple-myeloma-smm/ "Smoldering Multiple Myeloma")
+      * [Stomach (Gastric) Cancer](https://www.moffitt.org/cancers/stomach-gastric-cancer/ "Stomach \(Gastric\) Cancer")
+      * [Testicular Cancer](https://www.moffitt.org/cancers/testicular-cancer/ "Testicular Cancer")
+      * [Throat Cancer](https://www.moffitt.org/cancers/throat-cancer/ "Throat Cancer")
+      * [Thymoma](https://www.moffitt.org/cancers/thymoma/ "Thymoma")
+      * [Thyroid Cancer](https://www.moffitt.org/cancers/thyroid-cancer/ "Thyroid Cancer")
+      * [Tongue Cancer](https://www.moffitt.org/cancers/tongue-cancer/ "Tongue Cancer")
+      * [Tracheal Cancer](https://www.moffitt.org/cancers/tracheal-cancer/ "Tracheal Cancer")
+      * [Triple Negative Breast Cancer](https://www.moffitt.org/cancers/triple-negative-breast-cancer/ "Triple Negative Breast Cancer")
+      * [Vaginal Cancer](https://www.moffitt.org/cancers/vaginal-cancer/ "Vaginal Cancer")
+      * [Vulvar Cancer](https://www.moffitt.org/cancers/vulvar-cancer/ "Vulvar Cancer")
+    * [ Treatments ](https://www.moffitt.org/treatments/)
+      * [Blood Bone Marrow Transplant](https://www.moffitt.org/treatments/blood-bone-marrow-transplant/ "Blood Bone Marrow Transplant")
+      * [Bloodless Medicine and Surgery](https://www.moffitt.org/treatments/bloodless-medicine-and-surgery/ "Bloodless Medicine and Surgery")
+      * [Cardio-Oncology](https://www.moffitt.org/treatments/cardio-oncology/ "Cardio-Oncology")
+      * [Chemotherapy](https://www.moffitt.org/treatments/chemotherapy/ "Chemotherapy")
+      * [Clinical Pathways](https://www.moffitt.org/treatments/clinical-pathways/ "Clinical Pathways")
+      * [Clinical Trials](https://www.moffitt.org/clinical-trials-research/clinical-trials/ "Clinical Trials")
+      * [Diagnostic Services](https://www.moffitt.org/diagnostic-services/ "Diagnostic Services")
+      * [Endoscopic Procedures](https://www.moffitt.org/treatments/endoscopic-procedures/ "Endoscopic Procedures")
+      * [Fertility Preservation](https://www.moffitt.org/treatments/fertility-preservation/ "Fertility Preservation")
+      * [Gynecologic Oncology](https://www.moffitt.org/treatments/gynecologic-oncology/ "Gynecologic Oncology")
+      * [Immunotherapy](https://www.moffitt.org/treatments/immunotherapy/ "Immunotherapy")
+      * [Interventional Pain Management](https://www.moffitt.org/treatments/interventional-pain-management/ "Interventional Pain Management")
+      * [Interventional Radiology](https://www.moffitt.org/treatments/interventional-radiology/ "Interventional Radiology")
+      * [Precision Medicine](https://www.moffitt.org/treatments/precision-medicine/ "Precision Medicine")
+      * [Pharmacy](https://www.moffitt.org/treatments/pharmacy/ "Pharmacy")
+      * [Radiation Therapy](https://www.moffitt.org/treatments/radiation-therapy/ "Radiation Therapy")
+      * [Rehabilitation Services](https://www.moffitt.org/treatments/rehabilitation-services/ "Rehabilitation Services")
+      * [Supportive Care Medicine](https://www.moffitt.org/treatments/supportive-care-medicine/ "Supportive Care Medicine")
+      * [Surgical Care](https://www.moffitt.org/treatments/surgical-care/ "Surgical Care")
+      * [Systemic Therapy](https://www.moffitt.org/treatments/systemic-therapy/ "Systemic Therapy")
+      * [Targeted Therapy](https://www.moffitt.org/treatments/targeted-therapy/ "Targeted Therapy")
+      * [Tumor Board](https://www.moffitt.org/treatments/tumor-board/ "Tumor Board")
+    * [ Clinical Trials ](https://www.moffitt.org/clinical-trials-research/clinical-trials/)
+      * [Am I A Candidate?](https://www.moffitt.org/clinical-trials-research/clinical-trials/am-i-a-candidate/ "Am I A Candidate?")
+      * [Clinical Research Unit](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-research-unit/ "Clinical Research Unit")
+      * [Clinical Trials Administration](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-trials-administration/ "Clinical Trials Administration")
+      * [Clinical Trials: Are They Right for You?](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-trials-are-they-right-for-you/ "Clinical Trials: Are They Right for You?")
+      * [Patient Protection](https://www.moffitt.org/clinical-trials-research/clinical-trials/patient-protection/ "Patient Protection")
+      * [Phase 1 Clinical Trials](https://www.moffitt.org/clinical-trials-research/clinical-trials/phase-1-clinical-trials/ "Phase 1 Clinical Trials")
+    * [ Diagnostic Services ](https://www.moffitt.org/diagnostic-services/)
+      * [Cancer Screenings](https://www.moffitt.org/diagnostic-services/cancer-screenings/ "Cancer Screenings")
+      * [Genetic Counseling and Genetic Testing](https://www.moffitt.org/diagnostic-services/genetic-counseling-and-genetic-testing/ "Genetic Counseling and Genetic Testing")
+      * [Labwork and Bloodwork](https://www.moffitt.org/diagnostic-services/labwork-and-bloodwork/ "Labwork and Bloodwork")
+      * [Pathology](https://www.moffitt.org/diagnostic-services/pathology/ "Pathology")
+      * [Radiology – Diagnostic Imaging and Interventional Radiology](https://www.moffitt.org/diagnostic-services/radiology-diagnostic-imaging-and-interventional-radiology/ "Radiology – Diagnostic Imaging and Interventional Radiology")
+      * [Cancer Treatments](https://www.moffitt.org/treatments/ "Cancer Treatments")
+    * [ ![](https://www.moffitt.org/contentassets/5f17f2115eca48a1aa7faa610608f778/clinical-trials.jpg) Search Clinical Trials  Moffitt participates in over 400 clinical trials. Find a trial that is right for you. ](https://www.moffitt.org/clinical-trials-research/clinical-trials/ "Search Clinical Trials")
+  * [Patients & Families](https://www.moffitt.org/research-science/researchers/doug-letson)
+    * [ Patient & Family ](https://www.moffitt.org/patient-family/)
+    * [ Preparing For Your Appointment ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/)
+      * [Patient and Family Orientation](https://www.moffitt.org/patient-family/preparing-for-your-appointment/patient-and-family-orientation/ "Patient and Family Orientation")
+      * [Medical Records](https://www.moffitt.org/patient-family/preparing-for-your-appointment/medical-records/ "Medical Records")
+      * [Appointment Reminder Service](https://www.moffitt.org/patient-family/preparing-for-your-appointment/appointment-reminder-service/ "Appointment Reminder Service")
+      * [MyMoffitt Patient Portal](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/ "MyMoffitt Patient Portal")
+      * [New Cancer Diagnosis](https://www.moffitt.org/patient-family/preparing-for-your-appointment/new-cancer-diagnosis/ "New Cancer Diagnosis")
+      * [Online Registration Frequently Asked Questions](https://www.moffitt.org/patient-family/preparing-for-your-appointment/online-registration-frequently-asked-questions/ "Online Registration Frequently Asked Questions")
+      * [Scheduling Your Appointment](https://www.moffitt.org/patient-family/preparing-for-your-appointment/scheduling-your-appointment/ "Scheduling Your Appointment")
+      * [Traveling for Cancer Treatment](https://www.moffitt.org/patient-family/preparing-for-your-appointment/traveling-for-cancer-treatment/ "Traveling for Cancer Treatment")
+      * [Preparing For Your Hospitalization](https://www.moffitt.org/patient-family/preparing-for-your-hospitalization/ "Preparing For Your Hospitalization")
+      * [Preparing For Your Surgery](https://www.moffitt.org/patient-family/preparing-for-your-surgery/ "Preparing For Your Surgery")
+      * [Visitor Policy](https://www.moffitt.org/patient-family/preparing-for-your-appointment/visitor-policy/ "Visitor Policy")
+      * [Patient Rights and Responsibilities](https://www.moffitt.org/patient-family/preparing-for-your-appointment/patient-rights-and-responsibilities/ "Patient Rights and Responsibilities")
+      * [What to Know About Your Appointments During Hurricane Season](https://www.moffitt.org/patient-family/hurricane/appointments-during-hurricane-season/ "What to Know About Your Appointments During Hurricane Season")
+    * [ Insurance & Financial Information ](https://www.moffitt.org/patient-family/insurance-financial-information/)
+      * [Copay Assistance Program](https://www.moffitt.org/patient-family/insurance-financial-information/copay-assistance-program/ "Copay Assistance Program")
+      * [Financial Assistance](https://www.moffitt.org/patient-family/insurance-financial-information/financial-assistance/ "Financial Assistance")
+      * [Glossary of Terms](https://www.moffitt.org/patient-family/insurance-financial-information/glossary-of-terms/ "Glossary of Terms")
+      * [Health Exchange](https://www.moffitt.org/patient-family/insurance-financial-information/health-exchange/ "Health Exchange")
+      * [Insurance Coverage](https://www.moffitt.org/patient-family/insurance-financial-information/insurance-coverage/ "Insurance Coverage")
+      * [Medicare Coverage](https://www.moffitt.org/patient-family/insurance-financial-information/medicare-coverage/ "Medicare Coverage")
+      * [Obtain a Cost Estimate](https://www.moffitt.org/patient-family/insurance-financial-information/obtain-a-cost-estimate/ "Obtain a Cost Estimate")
+      * [Questions to Ask Your Insurance Company](https://www.moffitt.org/patient-family/insurance-financial-information/questions-to-ask-your-insurance-company/ "Questions to Ask Your Insurance Company")
+      * [Understanding Your Bill](https://www.moffitt.org/patient-family/insurance-financial-information/understanding-your-bill/ "Understanding Your Bill")
+      * [Frequently Asked Questions](https://www.moffitt.org/patient-family/insurance-financial-information/frequently-asked-questions/ "Frequently Asked Questions")
+      * [Financial Information](https://www.moffitt.org/patient-family/insurance-financial-information/financial-information/ "Financial Information")
+    * [ Programs & Support Services ](https://www.moffitt.org/patient-family/programs-support-services/)
+      * [Advance Care Planning](https://www.moffitt.org/patient-family/programs-support-services/advance-care-planning/ "Advance Care Planning")
+      * [AYA: Adolescent Young Adult Program](https://www.moffitt.org/patient-family/programs-support-services/aya-adolescent-young-adult-program/ "AYA: Adolescent Young Adult Program")
+      * [Chaplaincy Spiritual Care](https://www.moffitt.org/patient-family/programs-support-services/chaplaincy-spiritual-care/ "Chaplaincy Spiritual Care")
+      * [Community Resources](https://www.moffitt.org/patient-family/programs-support-services/online-resources/ "Community Resources")
+      * [Counseling and Support](https://www.moffitt.org/patient-family/programs-support-services/counseling-and-support/ "Counseling and Support")
+      * [Language Services](https://www.moffitt.org/patient-family/programs-support-services/language-services/ "Language Services")
+      * [Nutrition](https://www.moffitt.org/patient-family/programs-support-services/nutrition/ "Nutrition")
+      * [Senior Adult Oncology Program](https://www.moffitt.org/patient-family/programs-support-services/senior-adult-oncology-program/ "Senior Adult Oncology Program")
+      * [Share Gratitude for Moffitt Team Members](https://www.moffitt.org/patient-family/patient-and-family-centered-care/share-gratitude-for-moffitt-team-members/ "Share Gratitude for Moffitt Team Members")
+      * [Specialty Pharmacy at Moffitt](https://www.moffitt.org/patient-family/programs-support-services/specialty-pharmacy/ "Specialty Pharmacy at Moffitt")
+    * [ Patient and Family Centered Care ](https://www.moffitt.org/patient-family/patient-and-family-centered-care/)
+      * [Demonstrating Respect at Moffitt](https://www.moffitt.org/patient-family/patient-and-family-centered-care/demonstrating-respect-at-moffitt/ "Demonstrating Respect at Moffitt")
+      * [Daisy and Sunflower Awards](https://www.moffitt.org/patient-family/patient-and-family-centered-care/daisy-and-sunflower-awards/ "Daisy and Sunflower Awards")
+      * [Patient and Family Advisory Program](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-and-family-advisory-program/ "Patient and Family Advisory Program")
+      * [Patient Relations](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-relations/ "Patient Relations")
+      * [Patient Researcher Forum](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-researcher-forum/ "Patient Researcher Forum")
+      * [Patti K Halula Legacy Award](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patti-k-halula-legacy-award/ "Patti K Halula Legacy Award")
+      * [Share Gratitude for Moffitt Team Members](https://www.moffitt.org/patient-family/patient-and-family-centered-care/share-gratitude-for-moffitt-team-members/ "Share Gratitude for Moffitt Team Members")
+    * [ Cancer Survivorship ](https://www.moffitt.org/patient-family/cancer-survivorship/)
+      * [Cancer Survivorship Program](https://www.moffitt.org/patient-family/cancer-survivorship/cancer-survivorship-program/ "Cancer Survivorship Program")
+    * [ International Patient Services ](https://www.moffitt.org/patient-family/international-patient-services/)
+      * [Frequently Asked Questions](https://www.moffitt.org/patient-family/international-patient-services/frequently-asked-questions/ "Frequently Asked Questions")
+      * [Online Consult Forms](https://www.moffitt.org/patient-family/international-patient-services/online-consult-forms/ "Online Consult Forms")
+      * [Online Consults](https://www.moffitt.org/patient-family/international-patient-services/online-consults/ "Online Consults")
+      * [Moffitt Outreach in Puerto Rico](https://www.moffitt.org/patient-family/international-patient-services/puerto-rico/ "Moffitt Outreach in Puerto Rico")
+    * [ Moffitt Virtual Care ](https://www.moffitt.org/patient-family/moffitt-virtual-care/)
+      * [All About Virtual Care](https://www.moffitt.org/patient-family/moffitt-virtual-care/all-about-virtual-care/ "All About Virtual Care")
+      * [Informed Consent for Telemedicine](https://www.moffitt.org/patient-family/moffitt-virtual-care/informed-consent-for-telemedicine/ "Informed Consent for Telemedicine")
+      * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
+      * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
+    * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
+      * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
+      * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
+      * [Cayla’s Story: Cancer Never Cares About Anything Like That](https://www.moffitt.org/inspiring-stories/caylas-story-cancer-never-cares-about-anything-like-that/ "Cayla’s Story: Cancer Never Cares About Anything Like That")
+      * [Rick's Story: Now What?](https://www.moffitt.org/inspiring-stories/ricks-story-now-what/ "Rick's Story: Now What?")
+      * [Amy's Story: No Longer Alone](https://www.moffitt.org/inspiring-stories/no-longer-alone/ "Amy's Story: No Longer Alone")
+      * [Zoe's Story](https://www.moffitt.org/inspiring-stories/zoeys-story/ "Zoe's Story")
+      * [Erma's Story](https://www.moffitt.org/inspiring-stories/ermas-story/ "Erma's Story")
+      * [Donna's Story](https://www.moffitt.org/inspiring-stories/donnas-story/ "Donna's Story")
+      * [Dr. Vadaparampil's Story](https://www.moffitt.org/inspiring-stories/dr.-vadaparampils-story "Dr. Vadaparampil's Story")
+      * [Mark's Story](https://www.moffitt.org/inspiring-stories/marks-story/ "Mark's Story")
+      * [Heather's Story](https://www.moffitt.org/inspiring-stories/heathers-story/ "Heather's Story")
+      * [Ellen's Story](https://www.moffitt.org/inspiring-stories/ellens-story/ "Ellen's Story")
+      * [Dr. Tran's Story](https://www.moffitt.org/inspiring-stories/dr.-trans-story "Dr. Tran's Story")
+      * [Dr. Toloza's Story](https://www.moffitt.org/inspiring-stories/dr.-tolozas-story "Dr. Toloza's Story")
+      * [Dr. Silva's Story](https://www.moffitt.org/inspiring-stories/dr.-silvas-story "Dr. Silva's Story")
+      * [Dr. Fernandez's Story](https://www.moffitt.org/inspiring-stories/dr.-fernandezs-story "Dr. Fernandez's Story")
+      * [Dr. Robinson's Story](https://www.moffitt.org/inspiring-stories/dr.-robinsons-story "Dr. Robinson's Story")
+      * [Dr. Pow-Sang's Story](https://www.moffitt.org/inspiring-stories/dr.-pow-sangs-story "Dr. Pow-Sang's Story")
+      * [Mike's Volunteer Story](https://www.moffitt.org/inspiring-stories/mikes-volunteer-story/ "Mike's Volunteer Story")
+      * [Mike's Story](https://www.moffitt.org/inspiring-stories/mikes-story/ "Mike's Story")
+      * [Mary Beth's Story](https://www.moffitt.org/inspiring-stories/mary-beths-story/ "Mary Beth's Story")
+      * [Malcolm's Story](https://www.moffitt.org/inspiring-stories/malcolms-story/ "Malcolm's Story")
+      * [Lori's Story](https://www.moffitt.org/inspiring-stories/loris-story2/ "Lori's Story")
+      * [Miriam's Story](https://www.moffitt.org/inspiring-stories/miriams-story/ "Miriam's Story")
+      * [Nick's Story](https://www.moffitt.org/inspiring-stories/nicks-story/ "Nick's Story")
+      * [Nadine's Story](https://www.moffitt.org/inspiring-stories/nadines-story/ "Nadine's Story")
+      * [Nancy's Story](https://www.moffitt.org/inspiring-stories/nancys-story/ "Nancy's Story")
+      * [Madison's Story](https://www.moffitt.org/inspiring-stories/madisons-story/ "Madison's Story")
+      * [Lori's Story](https://www.moffitt.org/inspiring-stories/loris-story/ "Lori's Story")
+      * [Lloyd's Story](https://www.moffitt.org/inspiring-stories/lloyds-story/ "Lloyd's Story")
+      * [Lanse's Story](https://www.moffitt.org/inspiring-stories/lanses-story/ "Lanse's Story")
+      * [Kevin's Story](https://www.moffitt.org/inspiring-stories/kevins-story/ "Kevin's Story")
+      * [Dr. Mooney's Story](https://www.moffitt.org/inspiring-stories/dr.-mooneys-story "Dr. Mooney's Story")
+      * [Ken's Story](https://www.moffitt.org/inspiring-stories/kens-story/ "Ken's Story")
+      * [Dr. Lee's Story](https://www.moffitt.org/inspiring-stories/dr.-lees-story "Dr. Lee's Story")
+      * [Dr. Kumar's Story](https://www.moffitt.org/inspiring-stories/dr.-kumars-story "Dr. Kumar's Story")
+      * [Keith's Story](https://www.moffitt.org/inspiring-stories/keiths-story2/ "Keith's Story")
+      * [Dr. Latifi's Story](https://www.moffitt.org/inspiring-stories/dr.-latifis-story "Dr. Latifi's Story")
+      * [Keith's Story](https://www.moffitt.org/inspiring-stories/keiths-story/ "Keith's Story")
+      * [Dr. Kubal's Story](https://www.moffitt.org/inspiring-stories/dr.-kubals-story "Dr. Kubal's Story")
+      * [Dr. Khakpour's Story](https://www.moffitt.org/inspiring-stories/dr.-khakpours-story "Dr. Khakpour's Story")
+      * [Dr. Keenan's Story](https://www.moffitt.org/inspiring-stories/dr.-keenans-story "Dr. Keenan's Story")
+      * [Dr. Kanetsky's Story](https://www.moffitt.org/inspiring-stories/dr.-kanetskys-story "Dr. Kanetsky's Story")
+      * [Dr. Hoffe's Story](https://www.moffitt.org/inspiring-stories/dr.-hoffes-story "Dr. Hoffe's Story")
+      * [Dr. Harrison's Story](https://www.moffitt.org/inspiring-stories/dr.-harrisons-story "Dr. Harrison's Story")
+      * [Dr. Gwede's Story](https://www.moffitt.org/inspiring-stories/dr.-gwedes-story "Dr. Gwede's Story")
+      * [Dr. Giuliano's Story](https://www.moffitt.org/inspiring-stories/dr.-giulianos-story "Dr. Giuliano's Story")
+      * [Juli's Story](https://www.moffitt.org/inspiring-stories/julis-story/ "Juli's Story")
+      * [Dr. Gonzalez's Story](https://www.moffitt.org/inspiring-stories/dr.-gonzalezs-story "Dr. Gonzalez's Story")
+      * [Dr. Gatenby's Story](https://www.moffitt.org/inspiring-stories/dr.-gatenbys-story "Dr. Gatenby's Story")
+      * [Dr. Etame's Story](https://www.moffitt.org/inspiring-stories/dr.-etames-story "Dr. Etame's Story")
+      * [Dr. Cleveland's Story](https://www.moffitt.org/inspiring-stories/dr.-clevelands-story "Dr. Cleveland's Story")
+      * [John and Whitney's Story](https://www.moffitt.org/inspiring-stories/john-and-whitneys-story/ "John and Whitney's Story")
+      * [Liz's Story](https://www.moffitt.org/inspiring-stories/lizs-story/ "Liz's Story")
+      * [Meet Lloyd](https://www.moffitt.org/inspiring-stories/meet-lloyd/ "Meet Lloyd")
+      * [Paul and Gina's Story](https://www.moffitt.org/inspiring-stories/pauls-and-ginas-story/ "Paul and Gina's Story")
+      * [Marvin's Story](https://www.moffitt.org/inspiring-stories/marvins-story/ "Marvin's Story")
+      * [Meet Melissa](https://www.moffitt.org/inspiring-stories/meet-melissa/ "Meet Melissa")
+      * [Muriel's Story](https://www.moffitt.org/inspiring-stories/muriels-story/ "Muriel's Story")
+      * [John's and David's Story](https://www.moffitt.org/inspiring-stories/johns-and-davids-story/ "John's and David's Story")
+      * [Melissa's Story](https://www.moffitt.org/inspiring-stories/melissas-story/ "Melissa's Story")
+      * [Dr. Alexander Anderson's Story](https://www.moffitt.org/inspiring-stories/dr.-alexander-andersons-story "Dr. Alexander Anderson's Story")
+      * [Pam's Story](https://www.moffitt.org/inspiring-stories/pams-story/ "Pam's Story")
+      * [Yolanda's Story](https://www.moffitt.org/inspiring-stories/yolandas-story/ "Yolanda's Story")
+      * [Wilbur's Story](https://www.moffitt.org/inspiring-stories/wilburs-story/ "Wilbur's Story")
+      * [Vikki's Story](https://www.moffitt.org/inspiring-stories/vikkis-story/ "Vikki's Story")
+      * [Tiffany's Story](https://www.moffitt.org/inspiring-stories/tiffanys-story/ "Tiffany's Story")
+      * [Theresa's Story](https://www.moffitt.org/inspiring-stories/theresas-story/ "Theresa's Story")
+      * [Joanna's Story](https://www.moffitt.org/inspiring-stories/joannas-story/ "Joanna's Story")
+      * [Jenifer's Story](https://www.moffitt.org/inspiring-stories/jenifers-story/ "Jenifer's Story")
+      * [Jeanine's Story](https://www.moffitt.org/inspiring-stories/jeanines-story/ "Jeanine's Story")
+      * [Meet Jackie](https://www.moffitt.org/inspiring-stories/meet-jackie/ "Meet Jackie")
+      * [Ian's Story](https://www.moffitt.org/inspiring-stories/ians-story/ "Ian's Story")
+      * [Howard's Story](https://www.moffitt.org/inspiring-stories/howards-story/ "Howard's Story")
+      * [Ryan's Story](https://www.moffitt.org/inspiring-stories/ryans-story/ "Ryan's Story")
+      * [Robert's Story](https://www.moffitt.org/inspiring-stories/roberts-story/ "Robert's Story")
+      * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story/ "Rick's Story")
+      * [Richard's Story](https://www.moffitt.org/inspiring-stories/richards-story/ "Richard's Story")
+      * [Rena's Story](https://www.moffitt.org/inspiring-stories/renas-story/ "Rena's Story")
+      * [Rebecca's Story](https://www.moffitt.org/inspiring-stories/rebeccas-story/ "Rebecca's Story")
+      * [Ray's and Dr. Bui's story](https://www.moffitt.org/inspiring-stories/rays-and-dr.-buis-story "Ray's and Dr. Bui's story")
+      * [Patti's Story](https://www.moffitt.org/inspiring-stories/pattis-story/ "Patti's Story")
+      * [Pam and Jonathan's story](https://www.moffitt.org/inspiring-stories/pams-and-jonathans-story/ "Pam and Jonathan's story")
+      * [Sarah's Story](https://www.moffitt.org/inspiring-stories/sarahs-story/ "Sarah's Story")
+      * [Steve and Laura's Story](https://www.moffitt.org/inspiring-stories/steve-and-lauras-story/ "Steve and Laura's Story")
+      * [Donna's Story](https://www.moffitt.org/inspiring-stories/donna/ "Donna's Story")
+      * [Tommy's Story](https://www.moffitt.org/inspiring-stories/tommys-story/ "Tommy's Story")
+      * [Viviana's Story](https://www.moffitt.org/inspiring-stories/vivianas-story/ "Viviana's Story")
+      * [Craig's Story](https://www.moffitt.org/inspiring-stories/craigs-story/ "Craig's Story")
+      * [William's Story](https://www.moffitt.org/inspiring-stories/williams-story/ "William's Story")
+      * [The Wilson - Jones's Family Story](https://www.moffitt.org/inspiring-stories/the-joness-family-story/ "The Wilson - Jones's Family Story")
+      * [Woodrow's Story](https://www.moffitt.org/inspiring-stories/woodrows-story/ "Woodrow's Story")
+      * [Cathy's Story](https://www.moffitt.org/inspiring-stories/cathys-story2/ "Cathy's Story")
+      * [Cathy's Story](https://www.moffitt.org/inspiring-stories/cathys-story/ "Cathy's Story")
+      * [Carolyn's Story](https://www.moffitt.org/inspiring-stories/carolyn/ "Carolyn's Story")
+      * [Beth's Story](https://www.moffitt.org/inspiring-stories/beths-story/ "Beth's Story")
+      * [Benita's Story](https://www.moffitt.org/inspiring-stories/benitas-story/ "Benita's Story")
+      * [Barney's Story](https://www.moffitt.org/inspiring-stories/barneys-story/ "Barney's Story")
+      * [Joel's Story](https://www.moffitt.org/inspiring-stories/joels-story/ "Joel's Story")
+      * [Jessica's Story](https://www.moffitt.org/inspiring-stories/jessicas-story/ "Jessica's Story")
+      * [Jen's Story](https://www.moffitt.org/inspiring-stories/jens-story/ "Jen's Story")
+      * [Jay's Story](https://www.moffitt.org/inspiring-stories/jays-story/ "Jay's Story")
+      * [Janelle's Story](https://www.moffitt.org/inspiring-stories/janelles-story/ "Janelle's Story")
+      * [Greg's Story](https://www.moffitt.org/inspiring-stories/gregs-story2/ "Greg's Story")
+      * [Gayle's Story](https://www.moffitt.org/inspiring-stories/gayles-story/ "Gayle's Story")
+      * [Francis' Story](https://www.moffitt.org/inspiring-stories/francis-story/ "Francis' Story")
+      * [Dr. Lau's Story](https://www.moffitt.org/inspiring-stories/dr.-laus-story "Dr. Lau's Story")
+      * [Dr. Roberto Diaz's Story](https://www.moffitt.org/inspiring-stories/dr.-roberto-diazs-story "Dr. Roberto Diaz's Story")
+      * [Dimas' Story](https://www.moffitt.org/inspiring-stories/dimas-story/ "Dimas' Story")
+      * [David and Vesta's Story](https://www.moffitt.org/inspiring-stories/david-and-vestas-story/ "David and Vesta's Story")
+      * [Cydney's Story](https://www.moffitt.org/inspiring-stories/cydneys-story/ "Cydney's Story")
+      * [Charles' Story](https://www.moffitt.org/inspiring-stories/charless-story/ "Charles' Story")
+      * [Cammie's Story](https://www.moffitt.org/inspiring-stories/cammies-story/ "Cammie's Story")
+      * [Joanne's Story](https://www.moffitt.org/inspiring-stories/joannes-story/ "Joanne's Story")
+      * [Neisha's Story](https://www.moffitt.org/inspiring-stories/neishas-story/ "Neisha's Story")
+      * [Greg's Story](https://www.moffitt.org/inspiring-stories/gregs-story/ "Greg's Story")
+      * [Joshua's Story](https://www.moffitt.org/inspiring-stories/joshuas-story/ "Joshua's Story")
+      * [Bridget's Story](https://www.moffitt.org/inspiring-stories/bridgets-story/ "Bridget's Story")
+      * [Barbara's Story](https://www.moffitt.org/inspiring-stories/barbaras-story/ "Barbara's Story")
+      * [Abrianna's Story](https://www.moffitt.org/inspiring-stories/abriannas-story/ "Abrianna's Story")
+    * [ ![Friends supporting woman with cancer ](https://www.moffitt.org/globalassets/images/content-images/patient--family/women-cancer-640.jpg) Taking Care of Your Health  Taking Care of Your Health features cancer-related information, health tips, patient stories and more. ](https://www.moffitt.org/taking-care-of-your-health/ "Taking Care of Your Health")
+  * [For Healthcare Professionals](https://www.moffitt.org/research-science/researchers/doug-letson)
+    * [ For Healthcare Professionals ](https://www.moffitt.org/for-healthcare-professionals/)
+    * [ Clinical Programs and Services ](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/)
+      * [Adolescent Young Adult (AYA) Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/adolescent-young-adult-aya-program/ "Adolescent Young Adult \(AYA\) Program")
+      * [Anesthesiology and Critical Care Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/anesthesiology-program/ "Anesthesiology and Critical Care Program")
+      * [BMT and Cellular Immunotherapy Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/bmt-and-cellular-immunotherapy-program/ "BMT and Cellular Immunotherapy Program")
+      * [Breast Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/breast-oncology-program/ "Breast Oncology Program")
+      * [Cardio-Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/cardio-oncology-program/ "Cardio-Oncology Program")
+      * [Cutaneous Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/cutaneous-oncology-program/ "Cutaneous Oncology Program")
+      * [Diagnostic Imaging and Interventional Radiology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/diagnostic-imaging-and-interventional-radiology-program/ "Diagnostic Imaging and Interventional Radiology Program")
+      * [Endocrine Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/endocrine-oncology-program/ "Endocrine Oncology Program")
+      * [Endoscopic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/endoscopic-oncology-program/ "Endoscopic Oncology Program")
+      * [Gastrointestinal Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/gastrointestinal-oncology-program/ "Gastrointestinal Oncology Program")
+      * [Genetic Counseling Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/genetic-counseling-program/ "Genetic Counseling Program")
+      * [Genitourinary Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/genitourinary-oncology-program/ "Genitourinary Oncology Program")
+      * [Gynecologic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/gynecologic-oncology-program/ "Gynecologic Oncology Program")
+      * [Head and Neck Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/head-and-neck-oncology-program/ "Head and Neck Oncology Program")
+      * [Immunotherapy Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/immunotherapy-program/ "Immunotherapy Program")
+      * [Malignant Hematology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/malignant-hematology-program/ "Malignant Hematology Program")
+      * [Moffitt Malignant Hematology Cellular Therapy at Memorial Healthcare System](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/moffitt-malignant-hematology-cellular-therapy-at-memorial-healthcare-system/ "Moffitt Malignant Hematology Cellular Therapy at Memorial Healthcare System")
+      * [Neuro-Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/neuro-oncology-program/ "Neuro-Oncology Program")
+      * [Pathology](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/pathology/ "Pathology")
+      * [Pharmacy](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/pharmacy/ "Pharmacy")
+      * [Radiation Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/radiation-oncology-program/ "Radiation Oncology Program")
+      * [Sarcoma Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/sarcoma-program/ "Sarcoma Program")
+      * [Screening Prevention](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/screening-prevention/ "Screening Prevention")
+      * [Senior Adult Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/senior-adult-oncology-program/ "Senior Adult Oncology Program")
+      * [Supportive Care Medicine Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/supportive-care-medicine-program/ "Supportive Care Medicine Program")
+      * [Thoracic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/thoracic-oncology-program/ "Thoracic Oncology Program")
+      * [Translational Pathology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/translational-pathology/ "Translational Pathology Program")
+    * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
+    * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
+      * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
+      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
+      * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
+  * [Research](https://www.moffitt.org/research-science/researchers/doug-letson)
+    * [ Research Science ](https://www.moffitt.org/research-science/)
+    * [ Research Programs ](https://www.moffitt.org/research-science/research-programs/)
+      * [Cancer Biology and Evolution](https://www.moffitt.org/research-science/research-programs/cancer-biology-and-evolution/ "Cancer Biology and Evolution")
+      * [Cancer Epidemiology](https://www.moffitt.org/research-science/research-programs/cancer-epidemiology/ "Cancer Epidemiology")
+      * [Health Outcomes and Behavior](https://www.moffitt.org/research-science/research-programs/health-outcomes-behavior/ "Health Outcomes and Behavior")
+      * [Immuno-Oncology](https://www.moffitt.org/research-science/research-programs/immuno-oncology/ "Immuno-Oncology")
+      * [Molecular Medicine](https://www.moffitt.org/research-science/research-programs/molecular-medicine/ "Molecular Medicine")
+    * [ Divisions and Departments ](https://www.moffitt.org/research-science/divisions-and-departments/)
+      * [Basic Science](https://www.moffitt.org/research-science/divisions-and-departments/basic-science/ "Basic Science")
+      * [BioEngineering](https://www.moffitt.org/research-science/divisions-and-departments/bioengineering/ "BioEngineering")
+      * [Clinical Science](https://www.moffitt.org/research-science/divisions-and-departments/clinical-science/ "Clinical Science")
+      * [Population Science](https://www.moffitt.org/research-science/divisions-and-departments/population-science/ "Population Science")
+      * [Quantitative Science](https://www.moffitt.org/research-science/divisions-and-departments/quantitative-science/ "Quantitative Science")
+    * [ Centers and Institutes ](https://www.moffitt.org/research-science/centers-and-institutes/)
+      * [Centers of Excellence](https://www.moffitt.org/research-science/centers-and-institutes/centers-of-excellence/ "Centers of Excellence")
+      * [Institutes](https://www.moffitt.org/research-science/centers-and-institutes/institutes/ "Institutes")
+    * [ Community Outreach and Engagement ](https://www.moffitt.org/research-science/community-outreach-and-engagement/)
+      * [About COE](https://www.moffitt.org/research-science/community-outreach-and-engagement/about-coe/ "About COE")
+      * [Advisory Boards](https://www.moffitt.org/research-science/community-outreach-and-engagement/community-advisory-boards/ "Advisory Boards")
+      * [Catchment Area](https://www.moffitt.org/research-science/community-outreach-and-engagement/catchment-area/ "Catchment Area")
+      * [Data](https://www.moffitt.org/research-science/community-outreach-and-engagement/data/ "Data")
+      * [Outreach](https://www.moffitt.org/research-science/community-outreach-and-engagement/outreach/ "Outreach")
+      * [Research and Clinical Trials](https://www.moffitt.org/research-science/community-outreach-and-engagement/research-and-clinical-trials/ "Research and Clinical Trials")
+      * [Get Involved With COE](https://www.moffitt.org/research-science/community-outreach-and-engagement/get-involved-with-coe/ "Get Involved With COE")
+    * [ Shared Resources ](https://www.moffitt.org/research-science/shared-resources/)
+      * [Analytic Microscopy](https://www.moffitt.org/research-science/shared-resources/analytic-microscopy/ "Analytic Microscopy")
+      * [Biostatistics and Bioinformatics](https://www.moffitt.org/research-science/shared-resources/biostatistics-and-bioinformatics/ "Biostatistics and Bioinformatics")
+      * [Cancer Pharmacokinetics and Pharmacodynamics](https://www.moffitt.org/research-science/shared-resources/cancer-pharmacokinetics-and-pharmacodynamics/ "Cancer Pharmacokinetics and Pharmacodynamics")
+      * [Chemical Biology](https://www.moffitt.org/research-science/shared-resources/chemical-biology/ "Chemical Biology")
+      * [Collaborative Data Services](https://www.moffitt.org/research-science/shared-resources/collaborative-data-services/ "Collaborative Data Services")
+      * [Flow Cytometry](https://www.moffitt.org/research-science/shared-resources/flow-cytometry/ "Flow Cytometry")
+      * [Gene Targeting](https://www.moffitt.org/research-science/shared-resources/gene-targeting/ "Gene Targeting")
+      * [Molecular Genomics](https://www.moffitt.org/research-science/shared-resources/molecular-genomics/ "Molecular Genomics")
+      * [Participant Research, Interventions, and Measurement Core (PRISM)](https://www.moffitt.org/research-science/shared-resources/participant-research-interventions-and-measurement-core-prism/ "Participant Research, Interventions, and Measurement Core \(PRISM\)")
+      * [Proteomics and Metabolomics](https://www.moffitt.org/research-science/shared-resources/proteomics-and-metabolomics/ "Proteomics and Metabolomics")
+      * [Quantitative Imaging Core](https://www.moffitt.org/research-science/shared-resources/quantitative-imaging-core/ "Quantitative Imaging Core")
+      * [Small Animal Imaging Lab](https://www.moffitt.org/research-science/shared-resources/small-animal-imaging-lab/ "Small Animal Imaging Lab")
+      * [Tissue](https://www.moffitt.org/research-science/shared-resources/tissue/ "Tissue")
+    * [ Academic and Industry Partnerships ](https://www.moffitt.org/research-science/academic-and-industry-partnerships/)
+      * [Office of Innovation](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/ "Office of Innovation")
+      * [Academic Partnerships](https://www.moffitt.org/research-science/academic-and-industry-partnerships/academic-partnerships/ "Academic Partnerships")
+    * [ Administration ](https://www.moffitt.org/research-science/administration/)
+      * [Non-Therapeutic Research Office](https://www.moffitt.org/research-science/administration/non-therapeutic-research-office/ "Non-Therapeutic Research Office")
+    * [ ![Research fellows in a lab](https://www.moffitt.org/contentassets/a7d26515856847ad8ebe488477e34948/research-training.jpg) Research Education and Training  We are interested in recruiting scholars who have a profound interest in preventing, treating and curing cancer. ](https://www.moffitt.org/education/research-education-and-training/ "Research Education and Training")
+  * [Training & Education](https://www.moffitt.org/research-science/researchers/doug-letson)
+    * [ Education ](https://www.moffitt.org/education/)
+    * [ Medical Education ](https://www.moffitt.org/education/medical-education/)
+      * [Our Training Programs](https://www.moffitt.org/education/medical-education/our-training-programs/ "Our Training Programs")
+      * [Program Staff/Contact Us](https://www.moffitt.org/education/medical-education/program-staffcontact-us/ "Program Staff/Contact Us")
+      * [Salary and Benefits](https://www.moffitt.org/education/medical-education/salary-and-benefits/ "Salary and Benefits")
+      * [About Tampa Bay](https://www.moffitt.org/careers/about-tampa-bay/ "About Tampa Bay")
+    * [ Research Education and Training ](https://www.moffitt.org/education/research-education-and-training/)
+      * [Office of Postdoctoral Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-postdoctoral-affairs/ "Office of Postdoctoral Affairs")
+      * [Office of Graduate Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/ "Office of Graduate Affairs")
+      * [Office of Undergraduate and Visiting Scholar Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/ "Office of Undergraduate and Visiting Scholar Affairs")
+      * [Pre-College Programs](https://www.moffitt.org/education/research-education-and-training/pre-college-programs/ "Pre-College Programs")
+      * [What We Provide](https://www.moffitt.org/education/research-education-and-training/what-we-provide/ "What We Provide")
+      * [Contact Us](https://www.moffitt.org/education/research-education-and-training/contact-us/ "Contact Us")
+      * [About Tampa Bay](https://www.moffitt.org/careers/about-tampa-bay/ "About Tampa Bay")
+      * [News](https://www.moffitt.org/education/research-education-and-training/news/ "News")
+      * [Where Are They Now](https://www.moffitt.org/education/research-education-and-training/where-are-they-now/ "Where Are They Now")
+    * [ Nursing Education ](https://www.moffitt.org/education/nursing-education/)
+      * [Ambulatory Care Oncology Nurse Residency Program](https://www.moffitt.org/education/nursing-education/ambulatory-care-oncology-nurse-residency-program/ "Ambulatory Care Oncology Nurse Residency Program")
+      * [Nurse Anesthetist](https://www.moffitt.org/education/nursing-education/nurse-anesthetist/ "Nurse Anesthetist")
+      * [Nurse Practitioner](https://www.moffitt.org/education/nursing-education/nurse-practitioner/ "Nurse Practitioner")
+      * [Oncology Nurse Residency Program](https://www.moffitt.org/education/nursing-education/oncology-nurse-residency-program/ "Oncology Nurse Residency Program")
+      * [Registered Nurse](https://www.moffitt.org/education/nursing-education/registered-nurse/ "Registered Nurse")
+    * [ Health Professional Education ](https://www.moffitt.org/education/health-professional-education/)
+      * [Advanced Pharmacy Practice (APPE)](https://www.moffitt.org/education/health-professional-education/advanced-pharmacy-practice-appe/ "Advanced Pharmacy Practice \(APPE\)")
+      * [Anesthesiology Assistant](https://www.moffitt.org/education/health-professional-education/anesthesiology-assistant/ "Anesthesiology Assistant")
+      * [Dietetic Technician](https://www.moffitt.org/education/health-professional-education/dietetic-technician/ "Dietetic Technician")
+      * [Dietitian](https://www.moffitt.org/education/health-professional-education/dietitian/ "Dietitian")
+      * [Genetic Counseling](https://www.moffitt.org/education/health-professional-education/genetic-counseling/ "Genetic Counseling")
+      * [Introductory Pharmacy Practice (IPPE)](https://www.moffitt.org/education/health-professional-education/introductory-pharmacy-practice-ippe/ "Introductory Pharmacy Practice \(IPPE\)")
+      * [Master of Public Health Field Experience](https://www.moffitt.org/education/health-professional-education/master-of-public-health-field-experience/ "Master of Public Health Field Experience")
+      * [Medical Assistants](https://www.moffitt.org/education/health-professional-education/medical-assistants/ "Medical Assistants")
+      * [Nuclear Medicine](https://www.moffitt.org/education/health-professional-education/nuclear-medicine/ "Nuclear Medicine")
+      * [Occupational Therapy Intern](https://www.moffitt.org/education/health-professional-education/occupational-therapy-intern/ "Occupational Therapy Intern")
+      * [PGY1 Pharmacy Residency](https://www.moffitt.org/education/health-professional-education/pgy-1-residency/ "PGY1 Pharmacy Residency")
+      * [PGY2 Oncology Pharmacy Residency](https://www.moffitt.org/education/health-professional-education/pgy-2-oncology-residency/ "PGY2 Oncology Pharmacy Residency")
+      * [Oncology Pharmacy Technician Trainee Program](https://www.moffitt.org/education/health-professional-education/pharmacy-technician-extern/ "Oncology Pharmacy Technician Trainee Program")
+      * [Physical Therapy](https://www.moffitt.org/education/health-professional-education/physical-therapy/ "Physical Therapy")
+      * [Physical Therapy Assistant](https://www.moffitt.org/education/health-professional-education/physical-therapy-assistant/ "Physical Therapy Assistant")
+      * [Physician Assistant](https://www.moffitt.org/education/health-professional-education/physician-assistant/ "Physician Assistant")
+      * [Psychology](https://www.moffitt.org/education/health-professional-education/psychology/ "Psychology")
+      * [Radiation Therapy](https://www.moffitt.org/education/health-professional-education/radiation-therapy/ "Radiation Therapy")
+      * [Radiography Therapy](https://www.moffitt.org/education/health-professional-education/radiography-therapy/ "Radiography Therapy")
+      * [Respiratory Therapy](https://www.moffitt.org/education/health-professional-education/respiratory-therapy/ "Respiratory Therapy")
+      * [Social Work](https://www.moffitt.org/education/health-professional-education/social-work/ "Social Work")
+      * [Sonography/Ultrasound Student](https://www.moffitt.org/education/health-professional-education/sonographyultrasound-student/ "Sonography/Ultrasound Student")
+      * [Speech Therapy](https://www.moffitt.org/education/health-professional-education/speech-therapy/ "Speech Therapy")
+      * [Wound Ostomy](https://www.moffitt.org/education/health-professional-education/wound-ostomy/ "Wound Ostomy")
+    * [ Other Educational Programs ](https://www.moffitt.org/education/other-educational-programs/)
+  * [Give](https://www.moffitt.org/research-science/researchers/doug-letson)
+    * [ Give ](https://www.moffitt.org/give/)
+    * [ Why Give? ](https://www.moffitt.org/give/why-give/)
+      * [About the Moffitt Foundation](https://www.moffitt.org/give/why-give/about-the-moffitt-foundation/ "About the Moffitt Foundation")
+      * [FAQ](https://www.moffitt.org/give/why-give/faq/ "FAQ")
+      * [Financials and Stewardship](https://www.moffitt.org/give/why-give/financials-and-stewardship/ "Financials and Stewardship")
+      * [Contact the Foundation](https://www.moffitt.org/give/why-give/contact-the-foundation/ "Contact the Foundation")
+      * [You Can Make a Difference](https://www.moffitt.org/give/why-give/you-can-make-a-difference/ "You Can Make a Difference")
+      * [Impact Report](https://www.moffitt.org/give/your-impact/2022-annual-foundation-impact-report/ "Impact Report")
+    * [ Ways to Give ](https://www.moffitt.org/give/ways-to-give/)
+      * [Cash, Stock or Other Assets](https://www.moffitt.org/give/ways-to-give/cash-stock-or-other-assets/ "Cash, Stock or Other Assets")
+      * [Planned Giving](https://mymoffittlegacy.org/ "Planned Giving")
+      * [Philanthropic Foundation Giving](https://www.moffitt.org/give/ways-to-give/philanthropic-foundation-giving/ "Philanthropic Foundation Giving")
+      * [Corporate Partnership](https://www.moffitt.org/give/ways-to-give/corporate-partnership/ "Corporate Partnership")
+      * [Employer Matching Gifts](https://www.moffitt.org/give/ways-to-give/employer-matching-gifts/ "Employer Matching Gifts")
+      * [Endowment Gifts](https://www.moffitt.org/give/ways-to-give/endowment-gifts/ "Endowment Gifts")
+      * [Other Ways to Donate](https://www.moffitt.org/give/ways-to-give/other-ways-to-donate/ "Other Ways to Donate")
+      * [Breast Cancer Funding Opportunities](https://www.moffitt.org/give/ways-to-give/breast-cancer-funding-opportunities/ "Breast Cancer Funding Opportunities")
+      * [Support the Pentecost Family Myeloma Research Center](https://www.moffitt.org/give/ways-to-give/support-the-pentecost-family-myeloma-research-center/ "Support the Pentecost Family Myeloma Research Center")
+      * [Partners In Discovery](https://www.moffitt.org/give/ways-to-give/partners-in-discovery/ "Partners In Discovery")
+    * [ Get Involved ](https://www.moffitt.org/give/get-involved/)
+      * [Become a Member](https://www.moffitt.org/give/get-involved/become-a-member/ "Become a Member")
+      * [Volunteer Your Time](https://www.moffitt.org/give/get-involved/volunteer-your-time/ "Volunteer Your Time")
+      * [Miles for Moffitt](https://www.moffitt.org/give/get-involved/miles-for-moffitt/ "Miles for Moffitt")
+      * [Magnolia](https://www.moffitt.org/give/get-involved/magnolia/ "Magnolia")
+      * [Mission Possible Sarasota Luncheon](https://www.moffitt.org/give/get-involved/mission-possible-sarasota-luncheon/ "Mission Possible Sarasota Luncheon")
+      * [Discovery Series Webinars](https://www.moffitt.org/give/get-involved/discovery-series-webinars/ "Discovery Series Webinars")
+      * [Fundraise for Moffitt](https://www.moffitt.org/give/get-involved/fundraise-for-moffitt/ "Fundraise for Moffitt")
+    * [ ![A researcher holds a Moffitt License Plate](https://www.moffitt.org/contentassets/fff003985b6341a8b2d684da79916350/ways-to-give.jpg) Ways to Give  Cancer touches all of us. Our mission - to contribute to the prevention and cure of cancer - depends on your support.  ](https://www.moffitt.org/give/ways-to-give/ "Ways to Give")
+
+
+# Doug Letson, MD
+![Doug  Letson](https://www.moffitt.org/globalassets/images/researchers_bio/LetsonDoug_1337.jpg)
+Doug Letson, MD 
+MMG President
+**Program:** Sarcoma 
+**Research Program:** Molecular Medicine Program 
+[ Contact ](https://eforms.moffitt.org/ContactResearchersForm?PERID=1337)
+  * ## Overview
+Dr. Letson and his collaborators strive to develop novel surgical techniques for musculoskeletal tumors; tumor prosthesis for skeletal reconstruction; and navigational and robotic musculoskeletal tumor surgery.
+### Associations
+    * Sarcoma
+    * Tumor Microenvironment and Metastasis
+    * Molecular Medicine Program
+### Education & Training
+**Internship:**
+    * Charity Hospital of Louisiana - Intern
+**Board Certification:**
+**Fellowship:**
+    * Massachusetts General Hospital – Harvard Medical School - Musculoskeletal Oncology
+**Residency:**
+    * Louisiana State University Medical School Affiliated Hospitals - Orthopaedics
+**Medical School:**
+    * Louisiana State University - MD
+  * ## Research Interest
+As an orthopaedic oncology surgeon, Dr. Letson’s research and clinical interests include matrix metalloproteinases; novel therapeutic agents to treat sarcoma; limb salvage for bone and soft tissue tumors; as well as segmental prosthesis, new hinge designs and a soft tissue attachment for metallic prosthesis.
+  * ## Publications
+    * Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS. Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes. Nat Commun. 2025 May.16(1):4206. Pubmedid: [40328759](https://www.ncbi.nlm.nih.gov/pubmed/40328759). Pmcid: PMC12055966. 
+    * Kuruvilla D, Huynh T, Nester M, Chose C, Zervoudakis G, Letson GD, Joyce DM, Binitie OT, Figura NB, Costello JR, Freeman CL, Lazarides AL. Management of bone disease with concurrent chimeric antigen receptor T-cell therapy for multiple myeloma. Crit Rev Oncol Hematol. 2024 Sep.201:104429. Pubmedid: [38942219](https://www.ncbi.nlm.nih.gov/pubmed/38942219). 
+    * West W, Moore A, Gerhardt C, Webb P, Binitie O, Lazarides A, Letson D, Joyce D. Dual plating in the metastatic distal humerus: Benefits may outweigh the risks. J Orthop. 2024 May.51:103-108. Pubmedid: [38361983](https://www.ncbi.nlm.nih.gov/pubmed/38361983). Pmcid: PMC10864758. 
+    * Karadimas T, Huynh TH, Chose C, Zervoudakis G, Clampitt B, Lapp S, Joyce D, Letson GD, Metts J, Binitie O, Mullinax JE, Lazarides A. Oncolytic Viral Therapy in Osteosarcoma. Viruses. 2024 Jul.16(7). Pubmedid: [39066301](https://www.ncbi.nlm.nih.gov/pubmed/39066301). Pmcid: PMC11281467. 
+    * Belzarena AC, Binitie O, Letson GD, Joyce DM. Unplanned Sarcoma Excisions: Understanding How They Happen. J Am Acad Orthop Surg Glob Res Rev. 2024 Jan.8(1). Pubmedid: [38252542](https://www.ncbi.nlm.nih.gov/pubmed/38252542). Pmcid: PMC10805420. 
+    * Caracciolo JT, Ali S, Chang CY, Degnan AJ, Flemming DJ, Henderson ER, Kransdorf MJ, Letson GD, Madewell JE, Murphey MD. Bone Tumor Risk Stratification and Management System: A Consensus Guideline from the ACR Bone Reporting and Data System Committee. J Am Coll Radiol. 2023 Oct.20(10):1044-1058. Pubmedid: [37855758](https://www.ncbi.nlm.nih.gov/pubmed/37855758). 
+    * Crimì A, Joyce DM, Binitie O, Ruggieri P, Letson GD. The history of resection prosthesis. Int Orthop. 2023 Mar.47(3):873-883. Pubmedid: [36651984](https://www.ncbi.nlm.nih.gov/pubmed/36651984). 
+    * Huynh THN, Kuruvilla DR, Nester MD, Zervoudakis G, Letson GD, Joyce DM, Binitie OT, Lazarides AL. Limb Amputations in Cancer: Modern Perspectives, Outcomes, and Alternatives. Curr Oncol Rep. 2023 Dec.25(12):1457-1465. Pubmedid: [37999825](https://www.ncbi.nlm.nih.gov/pubmed/37999825). 
+    * Yang G, Yuan Z, Ahmed K, Welsh EA, Fulp WJ, Gonzalez RJ, Mullinax JE, Letson D, Bui M, Harrison LB, Scott JG, Torres-Roca JF, Naghavi AO. Genomic identification of sarcoma radiosensitivity and the clinical implications for radiation dose personalization. Transl Oncol. 2021 Oct.14(10):101165. Pubmedid: [34246048](https://www.ncbi.nlm.nih.gov/pubmed/34246048). Pmcid: PMC8274330. 
+    * Alexander JH, Binitie OT, Letson GD, Joyce DM. Osteosarcoma: An Evolving Understanding of a Complex Disease. J Am Acad Orthop Surg. 2021 Oct.29(20):e993-e1004. Pubmedid: [34623342](https://www.ncbi.nlm.nih.gov/pubmed/34623342). 
+    * Mason NT, Burkett JM, Nelson RS, Pow-Sang JM, Gatenby RA, Kubal T, Peabody JW, Letson GD, McLeod HL, Zhang J. Budget Impact of Adaptive Abiraterone Therapy for Castration-Resistant Prostate Cancer. Am Health Drug Benefits. 2021 Mar.14(1):15-20. Pubmedid: [33841621](https://www.ncbi.nlm.nih.gov/pubmed/33841621). Pmcid: PMC8025923. 
+    * Belzarena AC, Binitie O, Letson D, Joyce DM. Intramedullary rod failure in metastatic breast cancer: Do triple negative cancer patients have more revision surgery?. J Bone Oncol. 2021 Jun.28:100358. Pubmedid: [33898214](https://www.ncbi.nlm.nih.gov/pubmed/33898214). Pmcid: PMC8056433. 
+    * Broman KK, Joyce D, Binitie O, Letson GD, Gonzalez RJ, Choi J, Mullinax JE. Intraoperative Localization Using an Implanted Radar Reflector Facilitates Resection of Non-Palpable Trunk and Extremity Sarcoma. Ann Surg Oncol. 2021 Jun.28(6):3366-3374. Pubmedid: [33073344](https://www.ncbi.nlm.nih.gov/pubmed/33073344). 
+    * Liu W, Chan CM, Gong L, Bui MM, Han G, Letson GD, Yang Y, Niu X. Malignancy in giant cell tumor of bone in the extremities. J Bone Oncol. 2021 Feb.26:100334. Pubmedid: [33251099](https://www.ncbi.nlm.nih.gov/pubmed/33251099). Pmcid: PMC7680773. 
+    * Leavey PJ, Laack NN, Krailo MD, Buxton A, Randall RL, DuBois SG, Reed DR, Grier HE, Hawkins DS, Pawel B, Nadel H, Womer RB, Letson GD, Bernstein M, Brown K, Maciej A, Chuba P, Ahmed AA, Indelicato DJ, Wang D, Marina N, Gorlick R, Janeway KA, Mascarenhas L. Phase III Trial Adding Vincristine-Topotecan-Cyclophosphamide to the Initial Treatment of Patients With Nonmetastatic Ewing Sarcoma: A Children's Oncology Group Report. J Clin Oncol. 2021 Dec.39(36):4029-4038. Pubmedid: [34652968](https://www.ncbi.nlm.nih.gov/pubmed/34652968). Pmcid: PMC8677904. 
+    * Henderson ER, Keeney BJ, Husson EG, Bernthal NM, Ji T, Pala E, Funovics PT, Groundland JS, Lozano-Calderon S, Puchner S, Zoller SD, Ruggieri P, Windhager R, Guo W, Hornicek FJ, Letson GD, Temple HT. Nonmechanical Revision Indications Portend Repeat Limb-Salvage Failure Following Total Femoral Replacement. J Bone Joint Surg Am. 2020 Sep.102(17):1511-1520. Pubmedid: [32453111](https://www.ncbi.nlm.nih.gov/pubmed/32453111). 
+    * Piakong P, Kiatisevi P, Yau R, Trovarelli G, Lam YL, Joyce D, Ruggieri P, Temple HT, Letson D, Binitie O. What Is the 10-year Survivorship of Cemented Distal Femoral Endoprostheses for Tumor Reconstructions and What Radiographic Features Are Associated with Survival?. Clin Orthop Relat Res. 2020 Nov.478(11):2573-2581. Pubmedid: [32469487](https://www.ncbi.nlm.nih.gov/pubmed/32469487). Pmcid: PMC7594923. 
+    * Spiess PE, Greene J, Keenan RJ, Paculdo D, Letson GD, Peabody JW. Meeting the challenge of the 2019 novel coronavirus disease in patients with cancer. Cancer. 2020 Jul.126(14):3174-3175. Pubmedid: [32324273](https://www.ncbi.nlm.nih.gov/pubmed/32324273). Pmcid: PMC7264676. 
+    * Johnson D, Ouenes O, Letson D, de Belen E, Kubal T, Czarnecki C, Weems L, Box B, Paculdo D, Peabody J. A Direct Comparison of the Clinical Practice Patterns of Advanced Practice Providers and Doctors. Am J Med. 2019 Nov.132(11):e778-e785. Pubmedid: [31145882](https://www.ncbi.nlm.nih.gov/pubmed/31145882). 
+    * Boddu S, Walko CM, Bienasz S, Bui MM, Henderson-Jackson E, Naghavi AO, Mullinax JE, Joyce DM, Binitie O, Letson GD, Gonzalez RJ, Reed DR, Druta M, Brohl AS. Clinical Utility of Genomic Profiling in the Treatment of Advanced Sarcomas: A Single-Center Experience. JCO Precis Oncol. 2018 Nov.2:1-8. Pubmedid: [35135155](https://www.ncbi.nlm.nih.gov/pubmed/35135155). 
+    * Palumbo BT, Henderson E, Rizer J, Letson DG, Cheong D. Computer navigation and distal femoral reconstruction in the oncologic patient. J Orthop. 2017 Jun.14(2):257-263. Pubmedid: [28377642](https://www.ncbi.nlm.nih.gov/pubmed/28377642). Pmcid: PMC5369330. 
+    * Naghavi AO, Gonzalez RJ, Scott JG, Mullinax JE, Abuodeh YA, Kim Y, Binitie O, Ahmed KA, Bui MM, Saini AS, Zager JS, Biagioli MC, Letson D, Harrison LB, Fernandez DC. Implications of staged reconstruction and adjuvant brachytherapy in the treatment of recurrent soft tissue sarcoma. Brachytherapy. 2017 Jul.15(4):495-503. Pubmedid: [27180128](https://www.ncbi.nlm.nih.gov/pubmed/27180128). Pmcid: PMC7771533. 
+    * Durfee RA, Sabo SA, Letson GD, Binitie O, Cheong D. Percutaneous Acetabuloplasty for Metastatic Lesions to the Pelvis. Orthopedics. 2017 Jan.40(1):e170-e175. Pubmedid: [27783835](https://www.ncbi.nlm.nih.gov/pubmed/27783835). 
+    * Reed DR, Oshrine B, Pratt C, Fridgen O, Elstner C, Wilson L, Soliman H, Lee MC, McLeod HL, Shah B, Donovan KA, Pabbathi S, Turney M, Binitie O, Healy C, Nieder M, Shaw PH, Galligan A, Letson GD, Stern M, Quinn GP, Davies S. Sink or Collaborate: How the Immersive Model Has Helped Address Typical Adolescent and Young Adult Barriers at a Single Institution and Kept the Adolescent and Young Adult Program Afloat. J Adolesc Young Adult Oncol. 2017 Dec.6(4):503-511. Pubmedid: [28777007](https://www.ncbi.nlm.nih.gov/pubmed/28777007). Pmcid: PMC5725631. 
+    * Henderson ER, Keeney BJ, Pala E, Funovics PT, Eward WC, Groundland JS, Ehrlichman LK, Puchner SS, Brigman BE, Ready JE, Temple HT, Ruggieri P, Windhager R, Letson GD, Hornicek FJ. The stability of the hip after the use of a proximal femoral endoprosthesis for oncological indications: analysis of variables relating to the patient and the surgical technique. Bone Joint J. 2017 Apr.99-B(4):531-537. Pubmedid: [28385944](https://www.ncbi.nlm.nih.gov/pubmed/28385944). 
+    * Kubal T, Letson DG, Chiappori AA, Springett GM, Shimkhada R, Tamondong Lachica D, Peabody JW. Longitudinal cohort study to determine effectiveness of a novel simulated case and feedback system to improve clinical pathway adherence in breast, lung and GI cancers. BMJ Open. 2016 Sep.6(9):e012312. Pubmedid: [27625063](https://www.ncbi.nlm.nih.gov/pubmed/27625063). Pmcid: PMC5030551. 
+    * Daw NC, Laack NN, McIlvaine EJ, Krailo M, Womer RB, Granowetter L, Grier HE, Marina NM, Bernstein ML, Gebhardt MC, Marcus KJ, Advani SM, Healey JH, Letson GD, Gorlick RG, Randall RL. Local Control Modality and Outcome for Ewing Sarcoma of the Femur: A Report From the Children's Oncology Group. Ann Surg Oncol. 2016 Oct.23(11):3541-3547. Pubmedid: [27216741](https://www.ncbi.nlm.nih.gov/pubmed/27216741). Pmcid: PMC5136500. 
+    * Caracciolo JT, Letson GD. Radiologic Approach to Bone and Soft Tissue Sarcomas. Surg Clin N Am. 2016 Oct.96(5):963-976. Pubmedid: [27542636](https://www.ncbi.nlm.nih.gov/pubmed/27542636). 
+    * Bertrand TE, Cruz A, Binitie O, Cheong D, Letson GD. Do Surgical Margins Affect Local Recurrence and Survival in Extremity, Nonmetastatic, High-grade Osteosarcoma?. Clin Orthop Relat Res. 2016 Mar.474(3):677-683. Pubmedid: [26013153](https://www.ncbi.nlm.nih.gov/pubmed/26013153). Pmcid: PMC4746163. 
+    * Caracciolo JT, Temple HT, Letson GD, Kransdorf MJ. A Modified Lodwick-Madewell Grading System for the Evaluation of Lytic Bone Lesions. Ajr Am J Roentgenol. 2016 Jul.207(1):150-156. Pubmedid: [27070373](https://www.ncbi.nlm.nih.gov/pubmed/27070373). 
+    * Doepker MP, Hanna KH, Thompson ZJ, Binitie OT, Letson DG, Gonzalez RJ. Recurrence and survival analysis of resected soft tissue sarcomas of pelvic retroperitoneal structures. J Surg Oncol. 2016 Jan.113(1):103-107. Pubmedid: [26744131](https://www.ncbi.nlm.nih.gov/pubmed/26744131). 
+    * Raj S, Bui MM, Springett G, Conley A, Lavilla-Alonso S, Zhao X, Chen D, Haysek R, Gonzalez R, Letson GD, Finkelstein SE, Chiappori AA, Gabrilovitch DI, Antonia SJ. Long-Term Clinical Responses of Neoadjuvant Dendritic Cell Infusions and Radiation in Soft Tissue Sarcoma. Sarcoma. 2016 Feb.2015:614736. Pubmedid: [26880867](https://www.ncbi.nlm.nih.gov/pubmed/26880867). Pmcid: PMC4735941. 
+    * Groundland JS, Ambler SB, Houskamp LD, Orriola JJ, Binitie OT, Letson GD. Surgical and Functional Outcomes After Limb-Preservation Surgery for Tumor in Pediatric Patients: A Systematic Review. JBJS Rev. 2016 Feb.4(2). Pubmedid: [27490132](https://www.ncbi.nlm.nih.gov/pubmed/27490132). 
+    * Niu X, Xu H, Inwards CY, Li Y, Ding Y, Letson GD, Bui MM. Primary Bone Tumors: Epidemiologic Comparison of 9200 Patients Treated at Beijing Ji Shui Tan Hospital, Beijing, China, With 10 165 Patients at Mayo Clinic, Rochester, Minnesota. Arch Pathol Lab Med. 2015 Sep.139(9):1149-1155. Pubmedid: [25978765](https://www.ncbi.nlm.nih.gov/pubmed/25978765). 
+    * DeVito N, Henderson E, Han G, Reed D, Bui MM, Lavey R, Robinson L, Zager JS, Gonzalez RJ, Sondak VK, Letson GD, Conley A. Clinical Characteristics and Outcomes for Solitary Fibrous Tumor (SFT): A Single Center Experience. PLoS One. 2015 Oct.10(10):e0140362. Pubmedid: [26469269](https://www.ncbi.nlm.nih.gov/pubmed/26469269). Pmcid: PMC4607370. 
+    * Kubal T, Peabody JW, Friedman E, Levine R, Pursell S, Letson DG. Using Vignettes to Measure and Encourage Adherence to Clinical Pathways in a Quality-Based Oncology Network: An Early Report on the Moffitt Oncology Network Initiative. Manag Care. 2015 Oct.24(10):56-64. Pubmedid: [26665718](https://www.ncbi.nlm.nih.gov/pubmed/26665718). 
+    * Henderson ER, Gao J, Groundland J, Binitie O, Letson GD. Expandable Total Humeral Replacement in a Child with Osteosarcoma. Case Rep Orthop. 2015 Jun.2015:690159. Pubmedid: [26090254](https://www.ncbi.nlm.nih.gov/pubmed/26090254). Pmcid: PMC4452195. 
+    * Xu H, Nugent D, Monforte HL, Binitie OT, Ding Y, Letson GD, Cheong D, Niu X. Chondroblastoma of bone in the extremities: a multicenter retrospective study. J Bone Joint Surg Am. 2015 Jun.97(11):925-931. Pubmedid: [26041854](https://www.ncbi.nlm.nih.gov/pubmed/26041854). 
+    * Bielack SS, Smeland S, Whelan JS, Marina N, Jovic G, Hook JM, Krailo MD, Gebhardt M, Pápai Z, Meyer J, Nadel H, Randall RL, Deffenbaugh C, Nagarajan R, Brennan B, Letson GD, Teot LA, Goorin A, Baumhoer D, Kager L, Werner M, Lau CC, Sundby Hall K, Gelderblom H, Meyers P, Gorlick R, Windhager R, Helmke K, Eriksson M, Hoogerbrugge PM, Schomberg P, Tunn PU, Kühne T, Jürgens H, van den Berg H, Böhling T, Picton S, Renard M, Reichardt P, Gerss J, Butterfass-Bahloul T, Morris C, Hogendoorn PC, Seddon B, Calaminus G, Michelagnoli M, Dhooge C, Sydes MR, Bernstein M. Methotrexate, Doxorubicin, and Cisplatin (MAP) Plus Maintenance Pegylated Interferon Alfa-2b Versus MAP Alone in Patients With Resectable High-Grade Osteosarcoma and Good Histologic Response to Preoperative MAP: First Results of the EURAMOS-1 Good Respons. J Clin Oncol. 2015 Jul.33(20):2279-2287. Pubmedid: [26033801](https://www.ncbi.nlm.nih.gov/pubmed/26033801). Pmcid: PMC4486345. 
+    * Dossett LA, Toloza EM, Fontaine J, Robinson LA, Reed D, Druta M, Letson DG, Zager JS, Gonzalez RJ. Outcomes and clinical predictors of improved survival in a patients undergoing pulmonary metastasectomy for sarcoma. J Surg Oncol. 2015 Jul.112(1):103-106. Pubmedid: [26179670](https://www.ncbi.nlm.nih.gov/pubmed/26179670). 
+    * Whelan JS, Bielack SS, Marina N, Smeland S, Jovic G, Hook JM, Krailo M, Anninga J, Butterfass-Bahloul T, Böhling T, Calaminus G, Capra M, Deffenbaugh C, Dhooge C, Eriksson M, Flanagan AM, Gelderblom H, Goorin A, Gorlick R, Gosheger G, Grimer RJ, Hall KS, Helmke K, Hogendoorn PC, Jundt G, Kager L, Kuehne T, Lau CC, Letson GD, Meyer J, Meyers PA, Morris C, Mottl H, Nadel H, Nagarajan R, Randall RL, Schomberg P, Schwarz R, Teot LA, Sydes MR, Bernstein M. EURAMOS-1, an international randomised study for osteosarcoma: results from pre-randomisation treatment. Ann Oncol. 2015 Feb.26(2):407-414. Pubmedid: [25421877](https://www.ncbi.nlm.nih.gov/pubmed/25421877). Pmcid: PMC4304379. 
+    * Henderson ER, O'Connor MI, Ruggieri P, Windhager R, Funovics PT, Gibbons CL, Guo W, Hornicek FJ, Temple HT, Letson GD. Classification of failure of limb salvage after reconstructive surgery for bone tumours : a modified system Including biological and expandable reconstructions. Bone Joint J. 2014 Nov.96-B(11):1436-1440. Pubmedid: [25371453](https://www.ncbi.nlm.nih.gov/pubmed/25371453). 
+    * Xu H, Niu X, Li Y, Binitie OT, Letson GD, Cheong D. What are the results using the modified trapdoor procedure to treat chondroblastoma of the femoral head?. Clin Orthop Relat Res. 2014 Nov.472(11):3462-3467. Pubmedid: [25115583](https://www.ncbi.nlm.nih.gov/pubmed/25115583). Pmcid: PMC4182374. 
+    * Finkelstein SE, Trotti A, Letson G, Russell M, Delaney TF, Alektiar KM, Michalski JM, Wang D, Kadir T, Stevens CW. Deformable Imaging Capability for the Radiation Therapy Oncology Group (RTOG) Consensus Atlas of Musculoskeletal Anatomy (CAMAS) for Soft Tissue Sarcoma of the Lower Extremities. Pract Radiat Oncol. 2014 Mar.3(2 Suppl 1):S7. Pubmedid: [24674567](https://www.ncbi.nlm.nih.gov/pubmed/24674567). 
+    * Haddox CL, Han G, Anijar L, Binitie O, Letson GD, Bui MM, Reed DR. Osteosarcoma in pediatric patients and young adults: a single institution retrospective review of presentation, therapy, and outcome. Sarcoma. 2014 Jun.2014:402509. Pubmedid: [24976784](https://www.ncbi.nlm.nih.gov/pubmed/24976784). Pmcid: PMC4021746. 
+    * Wu H, Zhang L, Shao H, Sokol L, Sotomayor E, Letson D, Bui MM. Prognostic significance of soft tissue extension, international prognostic index, and multifocality in primary bone lymphoma: a single institutional experience. Brit J Haematol. 2014 Jul.166(1):60-68. Pubmedid: [24673481](https://www.ncbi.nlm.nih.gov/pubmed/24673481). 
+    * Wu H, Bui MM, Leston DG, Shao H, Sokol L, Sotomayor EM, Zhang L. Clinical characteristics and prognostic factors of bone lymphomas: focus on the clinical significance of multifocal bone involvement by primary bone large B-cell lymphomas. BMC Cancer. 2014 Dec.14:900. Pubmedid: [25465716](https://www.ncbi.nlm.nih.gov/pubmed/25465716). Pmcid: PMC4265495. 
+    * Kreahling JM, Foroutan P, Reed D, Martinez G, Razabdouski T, Bui MM, Raghavan M, Letson D, Gillies RJ, Altiok S. Wee1 inhibition by MK-1775 leads to tumor inhibition and enhances efficacy of gemcitabine in human sarcomas. PLoS One. 2013 Sep.8(3):e57523. Pubmedid: [23520471](https://www.ncbi.nlm.nih.gov/pubmed/23520471). Pmcid: PMC3592874. 
+    * Nugent D, Cheong D, Monforte H, Ayala AG, Letson GD, Keen J. Periosteal Mesenchymal Chondrosarcoma in the Distal Part of the Tibia of a Four-Year-Old Boy: A Case Report. JBJS Case Connect. 2013 Oct.3(4):e117. Pubmedid: [29252517](https://www.ncbi.nlm.nih.gov/pubmed/29252517). 
+    * Deneve JL, Messina JL, Bui MM, Marzban SS, Letson GD, Cheong D, Gonzalez RJ, Sondak VK, Zager JS. Cutaneous leiomyosarcoma: treatment and outcomes with a standardized margin of resection. Cancer Control. 2013 Oct.20(4):307-312. Pubmedid: [24077407](https://www.ncbi.nlm.nih.gov/pubmed/24077407). Pmcid: PMC4504421. 
+    * Perez MC, Padhya TA, Messina JL, Jackson RS, Gonzalez RJ, Bui MM, Letson GD, Cruse CW, Lavey RS, Cheong D, Forster MR, Fulp WJ, Sondak VK, Zager JS. Cutaneous angiosarcoma: a single-institution experience. Ann Surg Oncol. 2013 Oct.20(11):3391-3397. Pubmedid: [23835652](https://www.ncbi.nlm.nih.gov/pubmed/23835652). Pmcid: PMC4509495. 
+    * Cubitt CL, Menth J, Dawson J, Martinez GV, Foroutan P, Morse DL, Bui MM, Letson GD, Sullivan DM, Reed DR. Rapid screening of novel agents for combination therapy in sarcomas. Sarcoma. 2013 Nov.2013:365723. Pubmedid: [24282374](https://www.ncbi.nlm.nih.gov/pubmed/24282374). Pmcid: PMC3824404. 
+    * Binitie O, Tejiram S, Conway S, Cheong D, Temple HT, Letson GD. Adult soft tissue sarcoma local recurrence after adjuvant treatment without resection of core needle biopsy tract. Clin Orthop Relat Res. 2013 Mar.471(3):891-898. Pubmedid: [22968531](https://www.ncbi.nlm.nih.gov/pubmed/22968531). Pmcid: PMC3563812. 
+    * Vohra NA, Turaga KK, Gonzalez RJ, Conley A, Reed D, Bui MM, Cheong D, Letson DG, Zager JS. The use of isolated limb infusion in limb threatening extremity sarcomas. Int J Hyperthermia. 2013 Jun.29(1):1-7. Pubmedid: [23205633](https://www.ncbi.nlm.nih.gov/pubmed/23205633). Pmcid: PMC4509503. 
+    * Mavrogenis AF, Lenze U, Rechl H, Letson GD, Ruggieri P. Recent developments in the surgical treatment of bone tumors and their impact on quality of life. Sarcoma. 2013 Aug.2013:826432. Pubmedid: [23935391](https://www.ncbi.nlm.nih.gov/pubmed/23935391). Pmcid: PMC3725717. 
+    * Alexander GE, Gutierrez S, Nayak A, Palumbo BT, Cheong D, Letson GD, Santoni BG. Biomechanical model of a high risk impending pathologic fracture of the femur: lesion creation based on clinically implemented scoring systems. Clin Biomech (Bristol, Avon). 2013 Apr.28(4):408-414. Pubmedid: [23597777](https://www.ncbi.nlm.nih.gov/pubmed/23597777). 
+    * Henderson ER, Pepper AM, Marulanda G, Binitie OT, Cheong D, Letson GD. Outcome of lower-limb preservation with an expandable endoprosthesis after bone tumor resection in children. J Bone Joint Surg Am. 2012 Mar.94(6):537-547. Pubmedid: [22438003](https://www.ncbi.nlm.nih.gov/pubmed/22438003). 
+    * Ebb D, Meyers P, Grier H, Bernstein M, Gorlick R, Lipshultz SE, Krailo M, Devidas M, Barkauskas DA, Siegal GP, Ferguson WS, Letson GD, Marcus K, Goorin A, Beardsley P, Marina N. Phase II trial of trastuzumab in combination with cytotoxic chemotherapy for treatment of metastatic osteosarcoma with human epidermal growth factor receptor 2 overexpression: a report from the children's oncology group. J Clin Oncol. 2012 Jul.30(20):2545-2551. Pubmedid: [22665540](https://www.ncbi.nlm.nih.gov/pubmed/22665540). Pmcid: PMC3397787. 
+    * Isakoff MS, Barkauskas DA, Ebb D, Morris C, Letson GD. Poor survival for osteosarcoma of the pelvis: a report from the Children's Oncology Group. Clin Orthop Relat Res. 2012 Jul.470(7):2007-2013. Pubmedid: [22354612](https://www.ncbi.nlm.nih.gov/pubmed/22354612). Pmcid: PMC3369072. 
+    * Kreahling JM, Gemmer JY, Reed D, Letson D, Bui M, Altiok S. MK1775, a selective Wee1 inhibitor, shows single-agent antitumor activity against sarcoma cells. Mol Cancer Ther. 2012 Jan.11(1):174-182. Pubmedid: [22084170](https://www.ncbi.nlm.nih.gov/pubmed/22084170). Pmcid: PMC4545500. 
+    * Parsons CM, Pimiento JM, Cheong D, Marzban SS, Gonzalez RJ, Johnson D, Letson GD, Zager JS. The role of radical amputations for extremity tumors: a single institution experience and review of the literature. J Surg Oncol. 2012 Feb.105(2):149-155. Pubmedid: [21837679](https://www.ncbi.nlm.nih.gov/pubmed/21837679). Pmcid: PMC4504014. 
+    * Finkelstein SE, Iclozan C, Bui MM, Cotter MJ, Ramakrishnan R, Ahmed J, Noyes DR, Cheong D, Gonzalez RJ, Heysek RV, Berman C, Lenox BC, Janssen W, Zager JS, Sondak VK, Letson GD, Antonia SJ, Gabrilovich DI. Combination of external beam radiotherapy (EBRT) with intratumoral injection of dendritic cells as neo-adjuvant treatment of high-risk soft tissue sarcoma patients. Int J Radiat Oncol Biol Phys. 2012 Feb.82(2):924-932. Pubmedid: [21398051](https://www.ncbi.nlm.nih.gov/pubmed/21398051). Pmcid: PMC4241354. 
+    * Henderson ER, Pepper AM, Letson GD. What are estimated reimbursements for lower extremity prostheses capable of surgical and nonsurgical lengthening?. Clin Orthop Relat Res. 2012 Apr.470(4):1194-1203. Pubmedid: [22125242](https://www.ncbi.nlm.nih.gov/pubmed/22125242). Pmcid: PMC3293973. 
+    * Palumbo BT, Henderson E, Letson D, Cheong D. Biology, classification, and management of recurrent myxofibrosarcoma 21 years after resection. Am J Orthop (Belle Mead NJ). 2011 Nov.40(11):579-582. Pubmedid: [22263212](https://www.ncbi.nlm.nih.gov/pubmed/22263212). 
+    * Henderson ER, Groundland JS, Pala E, Dennis JA, Wooten R, Cheong D, Windhager R, Kotz RI, Mercuri M, Funovics PT, Hornicek FJ, Temple HT, Ruggieri P, Letson GD. Failure mode classification for tumor endoprostheses: retrospective review of five institutions and a literature review. J Bone Joint Surg Am. 2011 Mar.93(5):418-429. Pubmedid: [21368074](https://www.ncbi.nlm.nih.gov/pubmed/21368074). 
+    * Palumbo BT, Henderson ER, Groundland JS, Cheong D, Pala E, Letson GD, Ruggieri P. Advances in segmental endoprosthetic reconstruction for extremity tumors: a review of contemporary designs and techniques. Cancer Control. 2011 Jul.18(3):160-170. Pubmedid: [21666578](https://www.ncbi.nlm.nih.gov/pubmed/21666578). 
+    * Turaga KK, Beasley GM, Kane JM, Delman KA, Grobmyer SR, Gonzalez RJ, Letson GD, Cheong D, Tyler DS, Zager JS. Limb preservation with isolated limb infusion for locally advanced nonmelanoma cutaneous and soft-tissue malignant neoplasms. Arch Surg. 2011 Jul.146(7):870-875. Pubmedid: [21768436](https://www.ncbi.nlm.nih.gov/pubmed/21768436). Pmcid: PMC4515974. 
+    * Cheong D, Letson GD. Computer-assisted navigation and musculoskeletal sarcoma surgery. Cancer Control. 2011 Jul.18(3):171-176. Pubmedid: [21666579](https://www.ncbi.nlm.nih.gov/pubmed/21666579). 
+    * Henderson ER, Marulanda GA, Cheong D, Temple HT, Letson GD. Hip abductor moment arm--a mathematical analysis for proximal femoral replacement. J Orthop Surg Res. 2011 Jan.6:6. Pubmedid: [21266066](https://www.ncbi.nlm.nih.gov/pubmed/21266066). Pmcid: PMC3247065. 
+    * Henderson ER, Jennings JM, Marulanda GA, Groundland JS, Cheong D, Letson GD. Enhancing soft tissue ingrowth in proximal femoral arthroplasty with aortograft sleeve a novel technique and early results. J Arthroplasty. 2011 Jan.26(1):161-163. Pubmedid: [20801613](https://www.ncbi.nlm.nih.gov/pubmed/20801613). 
+    * Mavrogenis AF, Lesensky J, Romagnoli C, Alberghini M, Letson GD, Ruggieri P. Atypical Lipomatous Tumors/Well-differentiated Liposarcomas: Clinical Outcome of 67 Patients. Orthopedics. 2011 Dec.34(12):e893-e898. Pubmedid: [22146207](https://www.ncbi.nlm.nih.gov/pubmed/22146207). 
+    * Kraybill WG, Harris J, Spiro IJ, Ettinger DS, DeLaney TF, Blum RH, Lucas DR, Harmon DC, Letson GD, Eisenberg B. Long-term results of a phase 2 study of neoadjuvant chemotherapy and radiotherapy in the management of high-risk, high-grade, soft tissue sarcomas of the extremities and body wall: Radiation Therapy Oncology Group Trial 9514. Cancer. 2010 Oct.116(19):4613-4621. Pubmedid: [20572040](https://www.ncbi.nlm.nih.gov/pubmed/20572040). Pmcid: PMC3780573. 
+    * Henderson ER, Pepper AM, Marulanda GA, Millard JD, Letson GD. What is the emotional acceptance after limb salvage with an expandable prosthesis?. Clin Orthop Relat Res. 2010 Nov.468(11):2933-2938. Pubmedid: [20632139](https://www.ncbi.nlm.nih.gov/pubmed/20632139). Pmcid: PMC2947674. 
+    * Marulanda GA, Henderson E, Cheong D, Letson GD. Proximal and total humerus reconstruction with the use of an aortograft mesh. Clin Orthop Relat Res. 2010 Nov.468(11):2896-2903. Pubmedid: [20568029](https://www.ncbi.nlm.nih.gov/pubmed/20568029). Pmcid: PMC2947671. 
+    * Henderson ER, Jennings JM, Marulanda GA, Palumbo BT, Cheong D, Letson GD. Purse-string capsule repair to reduce proximal femoral arthroplasty dislocation for tumor--a novel technique with results. J Arthroplasty. 2010 Jun.25(4):654-657. Pubmedid: [20097040](https://www.ncbi.nlm.nih.gov/pubmed/20097040). 
+    * Biermann JS, Adkins DR, Benjamin RS, Brigman B, Chow W, Conrad EU, Frassica DA, Frassica FJ, George S, Hande KR, Hornicek FJ, Letson GD, Mayerson J, McGarry SV, McGrath B, Morris CD, O'Donnell RJ, Randall RL, Santana VM, Satcher RL, Siegel HJ, Somaiah N, Yasko AW. Bone cancer. J Natl Compr Canc Ne. 2010 Jun.8(6):688-712. Pubmedid: [20581300](https://www.ncbi.nlm.nih.gov/pubmed/20581300). 
+    * Demetri GD, Antonia S, Benjamin RS, Bui MM, Casper ES, Conrad EU, DeLaney TF, Ganjoo KN, Heslin MJ, Hutchinson RJ, Kane JM, Letson GD, McGarry SV, O'Donnell RJ, Paz IB, Pfeifer JD, Pollock RE, Randall RL, Riedel RF, Schupak KD, Schwartz HS, Thornton K, von Mehren M, Wayne J. Soft tissue sarcoma. J Natl Compr Canc Ne. 2010 Jun.8(6):630-674. Pubmedid: [20581298](https://www.ncbi.nlm.nih.gov/pubmed/20581298). 
+    * Farma JM, Ammori JB, Zager JS, Marzban SS, Bui MM, Bichakjian CK, Johnson TM, Lowe L, Sabel MS, Wong SL, Letson GD, Messina JL, Cimmino VM, Sondak VK. Dermatofibrosarcoma protuberans: how wide should we resect?. Ann Surg Oncol. 2010 Aug.17(8):2112-2118. Pubmedid: [20354798](https://www.ncbi.nlm.nih.gov/pubmed/20354798). 
+    * Alexander GE, Henderson ER, Rodriguez AR, Bui MM, Cheong D, Letson GD. Extraskeletal myxoid chondrosarcoma: rare presentation in the knee joint space. Orthopedics. 2009 Dec.32(12):919. Pubmedid: [19968226](https://www.ncbi.nlm.nih.gov/pubmed/19968226). 
+    * Potter BK, Chow VE, Adams SC, Letson GD, Temple HT. Endoprosthetic proximal femur replacement: metastatic versus primary tumors. Surg Oncol. 2009 Dec.18(4):343-349. Pubmedid: [18835153](https://www.ncbi.nlm.nih.gov/pubmed/18835153). 
+    * Marulanda G, Mont M, Lucci A, Letson G, Khakpour N. Orthopedic surgery implications of breast cancer. Expert Rev Anticanc. 2008 Jun.8(6):949-956. Pubmedid: [18533804](https://www.ncbi.nlm.nih.gov/pubmed/18533804). 
+    * Marulanda G, Henderson E, Palumbo B, Alexander G, Cheong D, Letson G. Use of extendable prostheses: a limb-salvaging alternative for patients with malignant bone tumors. Expert Rev Med Devic. 2008 Jul.5(4):467-474. Pubmedid: [18573046](https://www.ncbi.nlm.nih.gov/pubmed/18573046). 
+    * Marulanda G, Henderson E, Johnson D, Letson G, Cheong D. Orthopedic surgery options for the treatment of primary osteosarcoma. Cancer Control. 2008 Jan.15(1):13-20. Pubmedid: [18094657](https://www.ncbi.nlm.nih.gov/pubmed/18094657). 
+    * Bui M, Smith P, Agresta S, Cheong D, Letson G. Practical issues of intraoperative frozen section diagnosis of bone and soft tissue lesions. Cancer Control. 2008 Jan.15(1):7-12. Pubmedid: [18094656](https://www.ncbi.nlm.nih.gov/pubmed/18094656). 
+    * Shor AC, Keschman EA, Lee FY, Muro-Cacho C, Letson GD, Trent JC, Pledger WJ, Jove R. Dasatinib inhibits migration and invasion in diverse human sarcoma cell lines and induces apoptosis in bone sarcoma cells dependent on SRC kinase for survival. Cancer Res. 2007 Mar.67(6):2800-2808. Pubmedid: [17363602](https://www.ncbi.nlm.nih.gov/pubmed/17363602). 
+    * Demetri G, Baker L, Benjamin R, Casper E, Conrad EU 3rd, D'Amato G, Delaney T, Ettinger D, Heck R J, Heslin M, Hutchinson R, Jacobs C, Kiel K, Kraybill W, Letson G, O'donnell R, Paz I, Pfeifer J, Pollock R, Randall R, Sasson A, Schupak K, Tyler D, Mehren M, Wayne J. Soft tissue sarcoma. J Natl Compr Canc Ne. 2007 Apr.5(4):364-399. Pubmedid: [17442230](https://www.ncbi.nlm.nih.gov/pubmed/17442230). 
+    * Biermann J, Adkins D, Benjamin R, Brigman B, Chow W, Conrad EU 3rd, Frassica D, Frassica F, George S, Healey J, Heck R J, Letson G, Mayerson J, McGarry S, O'donnell R, Patt J, Randall R, Santana V, Satcher R, Schmidt R, Siegel H, Wong M, Yasko A. Bone cancer. J Natl Compr Canc Ne. 2007 Apr.5(4):420-437. Pubmedid: [17442233](https://www.ncbi.nlm.nih.gov/pubmed/17442233). 
+    * Kraybill W, Harris J, Spiro I, Ettinger D, DeLaney T, Blum R, Lucas DR, Harmon D, Letson G, Eisenberg B. Phase II study of neoadjuvant chemotherapy and radiation therapy in the management of high-risk, high-grade, soft tissue sarcomas of the extremities and body wall: Radiation Therapy Oncology Group Trial 9514. J Clin Oncol. 2006 Feb.24(4):619-625. Pubmedid: [16446334](https://www.ncbi.nlm.nih.gov/pubmed/16446334). 
+    * Demetri GD, Baker LH, Beech D, Benjamin R, Casper ES, Conrad EU, DeLaney TF, Ettinger DS, Heslin MJ, Hutchinson RJ, Kiel K, Kraybill WG, Letson GD, Neff J, O'Donnell RJ, Paz IB, Pollock RE, Randall RL, Schupak KD, Tyler DS, von Mehren M, Wayne J. Soft tissue sarcoma clinical practice guidelines in oncology. J Natl Compr Canc Ne. 2005 Mar.3(2):158-194. Pubmedid: [19817028](https://www.ncbi.nlm.nih.gov/pubmed/19817028). Pmcid: PMC5788173. 
+    * Letson G. Soft tissue sarcoma: status in 2005. Cancer Control. 2005 Jan.12(1):2. Pubmedid: [15668647](https://www.ncbi.nlm.nih.gov/pubmed/15668647). 
+    * Knapp E, Kransdorf M, Letson G. Diagnostic imaging update: soft tissue sarcomas. Cancer Control. 2005 Jan.12(1):22-26. Pubmedid: [15668649](https://www.ncbi.nlm.nih.gov/pubmed/15668649). 
+    * Saba HI, Morelli GA, Azam RR, Klein CJ, Letson GD. Efficacy of NovoSeven during surgery on a haemophiliac with previous history of inhibitors. Haemophilia. 2003 Jan.9(1):131-136. Pubmedid: [12558792](https://www.ncbi.nlm.nih.gov/pubmed/12558792). 
+    * Kim C, Puleo C, Letson G, Reintgen D. Hyperthermic isolated limb perfusion for extremity sarcomas. Cancer Control. 2001 May.8(3):269-273. Pubmedid: [11378653](https://www.ncbi.nlm.nih.gov/pubmed/11378653). 
+    * Strickland L, Letson GD, Muro-Cacho C. Gastrointestinal stromal tumors. Cancer Control. 2001 May.8(3):252-261. Pubmedid: [11378651](https://www.ncbi.nlm.nih.gov/pubmed/11378651). 
+    * Letson G, Muro-Cacho C. Genetic and molecular abnormalities in tumors of the bone and soft tissues. Cancer Control. 2001 May.8(3):239-251. Pubmedid: [11378650](https://www.ncbi.nlm.nih.gov/pubmed/11378650). 
+    * Neel M, Letson G. Modular endoprostheses for children with malignant bone tumors. Cancer Control. 2001 Jul.8(4):344-348. Pubmedid: [11483888](https://www.ncbi.nlm.nih.gov/pubmed/11483888). 
+    * Letson G, Ward W. Appropriate follow-up of orthopaedic oncology patients. Instr Course Lect. 1999.48:603-606. Pubmedid: [10098088](https://www.ncbi.nlm.nih.gov/pubmed/10098088). 
+    * Garcia E, Sandin R, Greene J, Baekey P, Walling A, Letson G, Choy J, Nicosia S, Moscinski L. Infections of the leg which mimic malignancy. Infect Med. 1998.15(8):557-567. 
+    * Letson GD, McEwen GD, Choy JY. A technique for excision of an osteoid osteoma. Orthopedics. 1997 Mar.20(3):266-268. Pubmedid: [9088020](https://www.ncbi.nlm.nih.gov/pubmed/9088020). 
+    * Letson G, Greenfield G, Heinrich S. Evaluation of the child with a bone or soft-tissue neoplasm. Orthop Clin N Am. 1996 Jul.27(3):431-451. Pubmedid: [8649727](https://www.ncbi.nlm.nih.gov/pubmed/8649727). 
+    * Letson GD, D'Ambrosia RD, Aguilar EA, Wagespack A. Activity relationships of total hip arthroplasty in patients with osteonecrosis and osteoarthritis. Orthopedics. 1996 Aug.19(8):665-668. Pubmedid: [8856776](https://www.ncbi.nlm.nih.gov/pubmed/8856776). 
+    * Letson GD. Diagnosis and Treatment of Soft Tissue Sarcomas. Cancer Control. 1994 Nov.1(6):566-567. Pubmedid: [10887008](https://www.ncbi.nlm.nih.gov/pubmed/10887008). 
+
+
+## Find a Researcher Search
+Program Select Cancer Biology and Evolution Program Cancer Epidemiology Program Molecular Medicine Program Health Outcomes & Behavior Program Immuno-Oncology Non-Programmatically Aligned
+Department Select BioEngineering Biostatistics and Bioinformatics Cancer Epidemiology Metabolism and Physiology Drug Discovery Health Outcomes & Behavior Immunology Integrated Mathematical Oncology Machine Learning Molecular Oncology Tumor Microenvironment and Metastasis
+Center of Excellence Select Center for Infection Research in Cancer DeBartolo Family Personalized Medicine Institute Evolutionary Therapy Lung Cancer Center of Excellence Melanoma Research Center of Excellence
+Work Group Select Cancer Chemoprevention Research Interest Group Myeloma Systems Medicine Working Group Tobacco Research & Intervention Program
+Keyword
+Search
+[ ![Moffitt Cancer Center](https://www.moffitt.org/globalassets/images/logos/moffitt-logo-full-white.svg) ](https://www.moffitt.org/ "Logo for Moffitt Cancer Center") [ ![](https://www.moffitt.org/globalassets/images/logos/moffitt-logo-mobile-white.svg) ](https://www.moffitt.org/ "Logo for Moffitt Cancer Center")
+Our Mission
+To contribute to the prevention and cure of cancer.
+[Connect with a Cancer Expert](https://www.moffitt.org/eforms/patientregistrationform/)
+[ ![Designated Comprehensive Cancer Center](https://www.moffitt.org/globalassets/images/logos/nci.png) ](https://www.moffitt.org/about-moffitt/nci-designation/?source=footer "Designated Comprehensive Cancer Center") [ ![Florida Health Cancer Center of Excellence](https://www.moffitt.org/globalassets/global-blocks/navigation/footer/moffitt-cancer-center-of-excellence-2.png) ](https://www.floridahealth.gov/provider-and-partner-resources/research/cancer-center-of-excellence-award.html "Florida Health Cancer Center of Excellence") [ ![Magnet Recognized](https://www.moffitt.org/globalassets/images/logos/magnet.png) ](https://www.moffitt.org/about-moffitt/medical/nursing/?source=footer "Magnet Recognized") [ ![National Comprehensive Cancer Network](https://www.moffitt.org/globalassets/global-blocks/navigation/footer/nccn.png) ](https://www.nccn.org/patients/ "National Comprehensive Cancer Network")
+Careers
+    * [Careers at Moffitt](https://www.moffitt.org/careers/)
+    * [Search Jobs](https://moffitt-cancer-center-careers.hctsportals.com/)
+    * [Training & Education](https://www.moffitt.org/education/)
+
+
+Emerging Cancer Therapies
+    * [CAR T Therapy](https://www.moffitt.org/treatments/immunotherapy/car-t-therapy/)
+    * [Immunotherapy](https://www.moffitt.org/treatments/immunotherapy/)
+    * [TIL Therapy](https://www.moffitt.org/treatments/immunotherapy/til-therapy/)
+
+
+Cancers & Treatments
+    * [Cancers We Treat](https://www.moffitt.org/cancers/)
+    * [Clinical Trials](https://www.moffitt.org/clinical-trials-research/clinical-trials/)
+    * [Diagnostic Services](https://www.moffitt.org/diagnostic-services/)
+    * [Treatments We Offer](https://www.moffitt.org/treatments/)
+
+
+Get Involved
+    * [Donate](https://fundraise.moffitt.org/give/563959/#!/donation/checkout)
+    * [Volunteer](https://www.moffitt.org/give/get-involved/volunteer-your-time/)
+    * [Ways to Give](https://www.moffitt.org/give/ways-to-give/)
+
+
+Cancer Screening
+    * [Head and Neck Cancer Screening](https://www.moffitt.org/diagnostic-services/cancer-screenings/head-and-neck-cancer-screening/)
+    * [Lung CT Screening](https://www.moffitt.org/cancers/lung-cancer/lung-cancer-screening-and-surveillance-program/)
+    * [Mammogram](https://www.moffitt.org/cancers/breast-cancer/diagnosis/screening/mammogram/)
+    * [Skin Cancer Mole Patrol](https://www.moffitt.org/diagnostic-services/cancer-screenings/mole-patrol/)
+
+
+Patients & Family
+    * [Appointments](https://www.moffitt.org/eforms/patientregistrationform/)
+    * [Find a Doctor](https://www.moffitt.org/find-a-doctor/)
+    * [Insurance & Financial Info](https://www.moffitt.org/patient-family/insurance-financial-information/)
+    * [Moffitt Blog for Patients](https://www.moffitt.org/taking-care-of-your-health/)
+    * [Patient & Family Resources](https://www.moffitt.org/patient-family/)
+
+
+About Moffitt
+    * [About](https://www.moffitt.org/about-moffitt/)
+    * [Community Benefit](https://www.moffitt.org/publications/community-benefit/)
+    * [Patient Outcomes](https://www.moffitt.org/about-moffitt/outcomes/)
+    * [Research](https://www.moffitt.org/research-science/)
+
+
+Industry Partnerships
+    * [Available Emerging Technologies](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/available-technologies/)
+    * [Business of Biotech](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/business-of-biotech/)
+    * [Cell Therapy Facility](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/cell-therapy-gene-engineering/)
+    * [Office of Innovation](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/)
+
+
+Resources
+    * [Calendar of Events](https://www.moffitt.org/calendar/)
+    * [Endeavor](https://www.moffitt.org/endeavor/)
+    * [Newsroom](https://www.moffitt.org/newsroom/)
+    * [Partnerships](https://www.moffitt.org/about-moffitt/strategic-alliances-and-partnerships/)
+    * [Publications](https://www.moffitt.org/publications/)
+
+
+Call Today
+[1-888-663-3488](tel:1-888-663-3488 "Call Today")
+[ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+  * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
+  * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
+  * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
+  * [State Nonprofit Disclosures](https://www.moffitt.org/globalassets/pdfs/footer/state-registration-for-web.pdf "State Nonprofit Disclosures")
+  * [Donor Privacy](https://www.moffitt.org/give/donor-privacy/ "Donor Privacy")
+  * [Notice of Privacy Practices](https://www.moffitt.org/legal-statements-and-policies/notice-of-privacy-practices/ "Notice of Privacy Practices")
+  * [Visitor Policy](https://www.moffitt.org/globalassets/pdfs/patient--family/preparing-for-your-appointment/visitation-and-family-presence-policy.pdf "Visitor Policy")
+  * [Moffitt Masking Policy](https://www.moffitt.org/globalassets/pdfs/footer/ic-085-moffitt-masking-policy.pdf)
+  * [Price Transparency](https://eforms.moffitt.org/Moffittcancercenter_standardcharges/593238634_H.-Lee-Moffitt-Cancer-Center-and-Research-Institute-Hospital,-Inc._standardcharges.json)
+  * [Sitemap](https://www.moffitt.org/sitemap.xml)
+
+
+©Copyright 2025 Moffitt Cancer Center
+Discover More
+  * [Individualized Cancer Treatment in Florida](https://moffitt.org/patient-family/)
+  * [Cancer Second Opinion Appointment in Florida](https://moffitt.org/diagnostic-services/second-opinion/)
+  * [Cancer Healthcare Professionals in Florida](https://moffitt.org/for-healthcare-professionals/)
+
+
+### Cambiar el idioma
+Si no encuentra la información que busca o si desea programar una cita, llámenos gratis al [1-888-663-3488](tel:1-888-663-3488).
+Gracias.
+[Cancel | Cancelar](https://www.moffitt.org/research-science/researchers/doug-letson) [OK](https://www.moffitt.org/research-science/researchers/doug-letson)
+[ ![Moffitt Cancer Center](https://www.moffitt.org/globalassets/images/logos/moffitt-logo-full-white.svg) ](https://www.moffitt.org/ "Moffitt Cancer Center")
+Search
+Menu
+  * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/doug-letson) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)
+  * [Patients & Families](https://www.moffitt.org/research-science/researchers/doug-letson) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)
+  * [For Healthcare Professionals](https://www.moffitt.org/research-science/researchers/doug-letson) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-31)
+  * [Research](https://www.moffitt.org/research-science/researchers/doug-letson) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)
+  * [Training & Education](https://www.moffitt.org/research-science/researchers/doug-letson) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-53)
+  * [Give](https://www.moffitt.org/research-science/researchers/doug-letson) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-63)
+
+
+Schedule
+[New Patients](https://www.moffitt.org/eforms/patientregistrationform/ "New Patients") [Referring Physicians](https://www.moffitt.org/eforms/referapatient/ "Referring Physicians")
+[ Find a Doctor ](https://www.moffitt.org/find-a-doctor/ "Find a Doctor")
+Patient Portal
+[Log In](https://mymoffitt.iqhealth.com/ "Log In") [Enroll](https://mymoffitt.iqhealth.com/self-enroll/)
+[ Careers ](https://www.moffitt.org/careers/ "Careers")
+[ Locations ](https://www.moffitt.org/locations-directions/ "Locations")
+[ 1-888-663-3488 ](tel:1-888-663-3488 "Call 1-888-663-3488")
+English
+[English](https://www.moffitt.org/research-science/researchers/doug-letson/ "English") [Spanish](https://www.moffitt.org/es/research-science/researchers/doug-letson/ "Spanish")
+[ ](https://www.moffitt.org/research-science/researchers/?campaign=567103 "Donate")
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)[Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)
+  * [ Cancers ](https://www.moffitt.org/cancers/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-5)
+  * [ Treatments ](https://www.moffitt.org/treatments/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-7)
+  * [ Clinical Trials ](https://www.moffitt.org/clinical-trials-research/clinical-trials/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-9)
+  * [ Diagnostic Services ](https://www.moffitt.org/diagnostic-services/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-11)
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)
+  * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
+  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
+  * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
+  * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
+  * [Appendiceal (Appendix) Cancer](https://www.moffitt.org/cancers/appendiceal-appendix-cancer/ "Appendiceal \(Appendix\) Cancer")
+  * [Astrocytoma](https://www.moffitt.org/cancers/astrocytoma/ "Astrocytoma")
+  * [Basal Cell Carcinoma](https://www.moffitt.org/cancers/basal-cell-carcinoma/ "Basal Cell Carcinoma")
+  * [Bladder Cancer](https://www.moffitt.org/cancers/bladder-cancer/ "Bladder Cancer")
+  * [Bone Metastasis](https://www.moffitt.org/cancers/bone-metastasis/ "Bone Metastasis")
+  * [Brain Cancer](https://www.moffitt.org/cancers/brain-cancer/ "Brain Cancer")
+  * [Brain Tumor](https://www.moffitt.org/cancers/brain-tumor/ "Brain Tumor")
+  * [Brain Metastases](https://www.moffitt.org/cancers/brain-metastases/ "Brain Metastases")
+  * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
+  * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
+  * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
+  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
+  * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
+  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
+  * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
+  * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
+  * [Endometrial (Uterine) Cancer](https://www.moffitt.org/cancers/endometrial-uterine-cancer/ "Endometrial \(Uterine\) Cancer")
+  * [Esophageal Cancer](https://www.moffitt.org/cancers/esophageal-cancer/ "Esophageal Cancer")
+  * [Follicular Lymphoma](https://www.moffitt.org/cancers/follicular-lymphoma/ "Follicular Lymphoma")
+  * [Gallbladder Cancer](https://www.moffitt.org/cancers/gallbladder-cancer/ "Gallbladder Cancer")
+  * [Gastrointestinal Carcinoid Tumor](https://www.moffitt.org/cancers/gastrointestinal-carcinoid-tumor/ "Gastrointestinal Carcinoid Tumor")
+  * [GIST (Gastrointestinal Stromal Tumor)](https://www.moffitt.org/cancers/gist-gastrointestinal-stromal-tumor/ "GIST \(Gastrointestinal Stromal Tumor\)")
+  * [Glioblastoma](https://www.moffitt.org/cancers/glioblastoma/ "Glioblastoma")
+  * [Head and Neck Cancer](https://www.moffitt.org/cancers/head-and-neck-cancer/ "Head and Neck Cancer")
+  * [HER2 Positive Breast Cancer](https://www.moffitt.org/cancers/her2-positive-breast-cancer/ "HER2 Positive Breast Cancer")
+  * [Hodgkin Lymphoma](https://www.moffitt.org/cancers/hodgkin-lymphoma/ "Hodgkin Lymphoma")
+  * [Inflammatory Breast Cancer](https://www.moffitt.org/cancers/inflammatory-breast-cancer/ "Inflammatory Breast Cancer")
+  * [Invasive Ductal Carcinoma](https://www.moffitt.org/cancers/invasive-ductal-carcinoma/ "Invasive Ductal Carcinoma")
+  * [Kidney (Renal Cell) Cancer](https://www.moffitt.org/cancers/kidney-renal-cell-cancer/ "Kidney \(Renal Cell\) Cancer")
+  * [Leukemia](https://www.moffitt.org/cancers/leukemia/ "Leukemia")
+  * [Liver (Hepatocellular) Cancer](https://www.moffitt.org/cancers/liver-hepatocellular-cancer/ "Liver \(Hepatocellular\) Cancer")
+  * [Low-Grade Glioma](https://www.moffitt.org/cancers/low-grade-glioma/ "Low-Grade Glioma")
+  * [Lung Cancer](https://www.moffitt.org/cancers/lung-cancer/ "Lung Cancer")
+  * [Lymphomas (Hodgkin and Non-Hodgkin)](https://www.moffitt.org/cancers/lymphomas-hodgkin-and-non-hodgkin/ "Lymphomas \(Hodgkin and Non-Hodgkin\)")
+  * [Mantle Cell Lymphoma](https://www.moffitt.org/cancers/mantle-cell-lymphoma/ "Mantle Cell Lymphoma")
+  * [Melanoma](https://www.moffitt.org/cancers/melanoma/ "Melanoma")
+  * [Meningioma](https://www.moffitt.org/cancers/meningioma/ "Meningioma")
+  * [Merkel Cell Carcinoma](https://www.moffitt.org/cancers/merkel-cell-carcinoma/ "Merkel Cell Carcinoma")
+  * [Mesothelioma](https://www.moffitt.org/cancers/mesothelioma/ "Mesothelioma")
+  * [Metastatic Breast Cancer](https://www.moffitt.org/cancers/metastatic-breast-cancer/ "Metastatic Breast Cancer")
+  * [Monoclonal Gammopathy of Undetermined Significance (MGUS)](https://www.moffitt.org/cancers/monoclonal-gammopathy-of-undetermined-significance-mgus/ "Monoclonal Gammopathy of Undetermined Significance \(MGUS\)")
+  * [Multiple Myeloma-Plasma Cell Tumor](https://www.moffitt.org/cancers/multiple-myeloma-plasma-cell-tumor/ "Multiple Myeloma-Plasma Cell Tumor")
+  * [Myelodysplastic Syndromes (MDS)](https://www.moffitt.org/cancers/myelodysplastic-syndromes-mds/ "Myelodysplastic Syndromes \(MDS\)")
+  * [Neuroendocrine Tumor](https://www.moffitt.org/cancers/neuroendocrine-tumor/ "Neuroendocrine Tumor")
+  * [Neurofibromatosis](https://www.moffitt.org/cancers/neurofibromatosis/ "Neurofibromatosis")
+  * [Non-Hodgkin Lymphoma](https://www.moffitt.org/cancers/non-hodgkin-lymphoma/ "Non-Hodgkin Lymphoma")
+  * [Oral Cavity (Mouth) Cancer](https://www.moffitt.org/cancers/oral-cavity-mouth-cancer/ "Oral Cavity \(Mouth\) Cancer")
+  * [Insurance and Financial Information](https://www.moffitt.org/patient-family/insurance-financial-information/ "Insurance and Financial Information")
+  * [Oral Cavity or Throat Cancer](https://www.moffitt.org/cancers/oral-cavity-or-throat-cancer/ "Oral Cavity or Throat Cancer")
+  * [Osteosarcoma](https://www.moffitt.org/cancers/osteosarcoma/ "Osteosarcoma")
+  * [Ovarian Cancer](https://www.moffitt.org/cancers/ovarian-cancer/ "Ovarian Cancer")
+  * [Pancoast Tumor](https://www.moffitt.org/cancers/pancoast-tumor/ "Pancoast Tumor")
+  * [Pancreatic Cancer](https://www.moffitt.org/cancers/pancreatic-cancer/ "Pancreatic Cancer")
+  * [Penile Cancer](https://www.moffitt.org/cancers/penile-cancer/ "Penile Cancer")
+  * [Pituitary Adenoma](https://www.moffitt.org/cancers/pituitary-adenoma/ "Pituitary Adenoma")
+  * [Prostate Cancer](https://www.moffitt.org/cancers/prostate-cancer/ "Prostate Cancer")
+  * [Rectal Cancer](https://www.moffitt.org/cancers/rectal-cancer/ "Rectal Cancer")
+  * [Sarcoma](https://www.moffitt.org/cancers/sarcoma/ "Sarcoma")
+  * [Skin Cancer (Nonmelanoma)](https://www.moffitt.org/cancers/skin-cancer-nonmelanoma/ "Skin Cancer \(Nonmelanoma\)")
+  * [Skull Base Tumors](https://www.moffitt.org/cancers/skull-base-tumors/ "Skull Base Tumors")
+  * [Small Intestine Cancer](https://www.moffitt.org/cancers/small-intestine-cancer/ "Small Intestine Cancer")
+  * [Spinal Tumor](https://www.moffitt.org/cancers/spinal-tumor/ "Spinal Tumor")
+  * [Squamous Cell Carcinoma](https://www.moffitt.org/cancers/squamous-cell-carcinoma/ "Squamous Cell Carcinoma")
+  * [Smoldering Multiple Myeloma](https://www.moffitt.org/cancers/smoldering-multiple-myeloma-smm/ "Smoldering Multiple Myeloma")
+  * [Stomach (Gastric) Cancer](https://www.moffitt.org/cancers/stomach-gastric-cancer/ "Stomach \(Gastric\) Cancer")
+  * [Testicular Cancer](https://www.moffitt.org/cancers/testicular-cancer/ "Testicular Cancer")
+  * [Throat Cancer](https://www.moffitt.org/cancers/throat-cancer/ "Throat Cancer")
+  * [Thymoma](https://www.moffitt.org/cancers/thymoma/ "Thymoma")
+  * [Thyroid Cancer](https://www.moffitt.org/cancers/thyroid-cancer/ "Thyroid Cancer")
+  * [Tongue Cancer](https://www.moffitt.org/cancers/tongue-cancer/ "Tongue Cancer")
+  * [Tracheal Cancer](https://www.moffitt.org/cancers/tracheal-cancer/ "Tracheal Cancer")
+  * [Triple Negative Breast Cancer](https://www.moffitt.org/cancers/triple-negative-breast-cancer/ "Triple Negative Breast Cancer")
+  * [Vaginal Cancer](https://www.moffitt.org/cancers/vaginal-cancer/ "Vaginal Cancer")
+  * [Vulvar Cancer](https://www.moffitt.org/cancers/vulvar-cancer/ "Vulvar Cancer")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)[Treatments](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)
+  * [Blood Bone Marrow Transplant](https://www.moffitt.org/treatments/blood-bone-marrow-transplant/ "Blood Bone Marrow Transplant")
+  * [Bloodless Medicine and Surgery](https://www.moffitt.org/treatments/bloodless-medicine-and-surgery/ "Bloodless Medicine and Surgery")
+  * [Cardio-Oncology](https://www.moffitt.org/treatments/cardio-oncology/ "Cardio-Oncology")
+  * [Chemotherapy](https://www.moffitt.org/treatments/chemotherapy/ "Chemotherapy")
+  * [Clinical Pathways](https://www.moffitt.org/treatments/clinical-pathways/ "Clinical Pathways")
+  * [Clinical Trials](https://www.moffitt.org/clinical-trials-research/clinical-trials/ "Clinical Trials")
+  * [Diagnostic Services](https://www.moffitt.org/diagnostic-services/ "Diagnostic Services")
+  * [Endoscopic Procedures](https://www.moffitt.org/treatments/endoscopic-procedures/ "Endoscopic Procedures")
+  * [Fertility Preservation](https://www.moffitt.org/treatments/fertility-preservation/ "Fertility Preservation")
+  * [Gynecologic Oncology](https://www.moffitt.org/treatments/gynecologic-oncology/ "Gynecologic Oncology")
+  * [Immunotherapy](https://www.moffitt.org/treatments/immunotherapy/ "Immunotherapy")
+  * [Interventional Pain Management](https://www.moffitt.org/treatments/interventional-pain-management/ "Interventional Pain Management")
+  * [Interventional Radiology](https://www.moffitt.org/treatments/interventional-radiology/ "Interventional Radiology")
+  * [Precision Medicine](https://www.moffitt.org/treatments/precision-medicine/ "Precision Medicine")
+  * [Pharmacy](https://www.moffitt.org/treatments/pharmacy/ "Pharmacy")
+  * [Radiation Therapy](https://www.moffitt.org/treatments/radiation-therapy/ "Radiation Therapy")
+  * [Rehabilitation Services](https://www.moffitt.org/treatments/rehabilitation-services/ "Rehabilitation Services")
+  * [Supportive Care Medicine](https://www.moffitt.org/treatments/supportive-care-medicine/ "Supportive Care Medicine")
+  * [Surgical Care](https://www.moffitt.org/treatments/surgical-care/ "Surgical Care")
+  * [Systemic Therapy](https://www.moffitt.org/treatments/systemic-therapy/ "Systemic Therapy")
+  * [Targeted Therapy](https://www.moffitt.org/treatments/targeted-therapy/ "Targeted Therapy")
+  * [Tumor Board](https://www.moffitt.org/treatments/tumor-board/ "Tumor Board")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)[Clinical Trials](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)
+  * [Am I A Candidate?](https://www.moffitt.org/clinical-trials-research/clinical-trials/am-i-a-candidate/ "Am I A Candidate?")
+  * [Clinical Research Unit](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-research-unit/ "Clinical Research Unit")
+  * [Clinical Trials Administration](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-trials-administration/ "Clinical Trials Administration")
+  * [Clinical Trials: Are They Right for You?](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-trials-are-they-right-for-you/ "Clinical Trials: Are They Right for You?")
+  * [Patient Protection](https://www.moffitt.org/clinical-trials-research/clinical-trials/patient-protection/ "Patient Protection")
+  * [Phase 1 Clinical Trials](https://www.moffitt.org/clinical-trials-research/clinical-trials/phase-1-clinical-trials/ "Phase 1 Clinical Trials")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)[Diagnostic Services](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)
+  * [Cancer Screenings](https://www.moffitt.org/diagnostic-services/cancer-screenings/ "Cancer Screenings")
+  * [Genetic Counseling and Genetic Testing](https://www.moffitt.org/diagnostic-services/genetic-counseling-and-genetic-testing/ "Genetic Counseling and Genetic Testing")
+  * [Labwork and Bloodwork](https://www.moffitt.org/diagnostic-services/labwork-and-bloodwork/ "Labwork and Bloodwork")
+  * [Pathology](https://www.moffitt.org/diagnostic-services/pathology/ "Pathology")
+  * [Radiology – Diagnostic Imaging and Interventional Radiology](https://www.moffitt.org/diagnostic-services/radiology-diagnostic-imaging-and-interventional-radiology/ "Radiology – Diagnostic Imaging and Interventional Radiology")
+  * [Cancer Treatments](https://www.moffitt.org/treatments/ "Cancer Treatments")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)[Patients & Families](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)
+  * [ Patient & Family ](https://www.moffitt.org/patient-family/)
+  * [ Preparing For Your Appointment ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-15)
+  * [ Insurance & Financial Information ](https://www.moffitt.org/patient-family/insurance-financial-information/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-17)
+  * [ Programs & Support Services ](https://www.moffitt.org/patient-family/programs-support-services/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-19)
+  * [ Patient and Family Centered Care ](https://www.moffitt.org/patient-family/patient-and-family-centered-care/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-21)
+  * [ Cancer Survivorship ](https://www.moffitt.org/patient-family/cancer-survivorship/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-23)
+  * [ International Patient Services ](https://www.moffitt.org/patient-family/international-patient-services/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-25)
+  * [ Moffitt Virtual Care ](https://www.moffitt.org/patient-family/moffitt-virtual-care/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-27)
+  * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-29)
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)[Preparing For Your Appointment](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)
+  * [Patient and Family Orientation](https://www.moffitt.org/patient-family/preparing-for-your-appointment/patient-and-family-orientation/ "Patient and Family Orientation")
+  * [Medical Records](https://www.moffitt.org/patient-family/preparing-for-your-appointment/medical-records/ "Medical Records")
+  * [Appointment Reminder Service](https://www.moffitt.org/patient-family/preparing-for-your-appointment/appointment-reminder-service/ "Appointment Reminder Service")
+  * [MyMoffitt Patient Portal](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/ "MyMoffitt Patient Portal")
+  * [New Cancer Diagnosis](https://www.moffitt.org/patient-family/preparing-for-your-appointment/new-cancer-diagnosis/ "New Cancer Diagnosis")
+  * [Online Registration Frequently Asked Questions](https://www.moffitt.org/patient-family/preparing-for-your-appointment/online-registration-frequently-asked-questions/ "Online Registration Frequently Asked Questions")
+  * [Scheduling Your Appointment](https://www.moffitt.org/patient-family/preparing-for-your-appointment/scheduling-your-appointment/ "Scheduling Your Appointment")
+  * [Traveling for Cancer Treatment](https://www.moffitt.org/patient-family/preparing-for-your-appointment/traveling-for-cancer-treatment/ "Traveling for Cancer Treatment")
+  * [Preparing For Your Hospitalization](https://www.moffitt.org/patient-family/preparing-for-your-hospitalization/ "Preparing For Your Hospitalization")
+  * [Preparing For Your Surgery](https://www.moffitt.org/patient-family/preparing-for-your-surgery/ "Preparing For Your Surgery")
+  * [Visitor Policy](https://www.moffitt.org/patient-family/preparing-for-your-appointment/visitor-policy/ "Visitor Policy")
+  * [Patient Rights and Responsibilities](https://www.moffitt.org/patient-family/preparing-for-your-appointment/patient-rights-and-responsibilities/ "Patient Rights and Responsibilities")
+  * [What to Know About Your Appointments During Hurricane Season](https://www.moffitt.org/patient-family/hurricane/appointments-during-hurricane-season/ "What to Know About Your Appointments During Hurricane Season")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)[Insurance & Financial Information](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)
+  * [Copay Assistance Program](https://www.moffitt.org/patient-family/insurance-financial-information/copay-assistance-program/ "Copay Assistance Program")
+  * [Financial Assistance](https://www.moffitt.org/patient-family/insurance-financial-information/financial-assistance/ "Financial Assistance")
+  * [Glossary of Terms](https://www.moffitt.org/patient-family/insurance-financial-information/glossary-of-terms/ "Glossary of Terms")
+  * [Health Exchange](https://www.moffitt.org/patient-family/insurance-financial-information/health-exchange/ "Health Exchange")
+  * [Insurance Coverage](https://www.moffitt.org/patient-family/insurance-financial-information/insurance-coverage/ "Insurance Coverage")
+  * [Medicare Coverage](https://www.moffitt.org/patient-family/insurance-financial-information/medicare-coverage/ "Medicare Coverage")
+  * [Obtain a Cost Estimate](https://www.moffitt.org/patient-family/insurance-financial-information/obtain-a-cost-estimate/ "Obtain a Cost Estimate")
+  * [Questions to Ask Your Insurance Company](https://www.moffitt.org/patient-family/insurance-financial-information/questions-to-ask-your-insurance-company/ "Questions to Ask Your Insurance Company")
+  * [Understanding Your Bill](https://www.moffitt.org/patient-family/insurance-financial-information/understanding-your-bill/ "Understanding Your Bill")
+  * [Frequently Asked Questions](https://www.moffitt.org/patient-family/insurance-financial-information/frequently-asked-questions/ "Frequently Asked Questions")
+  * [Financial Information](https://www.moffitt.org/patient-family/insurance-financial-information/financial-information/ "Financial Information")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)[Programs & Support Services](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)
+  * [Advance Care Planning](https://www.moffitt.org/patient-family/programs-support-services/advance-care-planning/ "Advance Care Planning")
+  * [AYA: Adolescent Young Adult Program](https://www.moffitt.org/patient-family/programs-support-services/aya-adolescent-young-adult-program/ "AYA: Adolescent Young Adult Program")
+  * [Chaplaincy Spiritual Care](https://www.moffitt.org/patient-family/programs-support-services/chaplaincy-spiritual-care/ "Chaplaincy Spiritual Care")
+  * [Community Resources](https://www.moffitt.org/patient-family/programs-support-services/online-resources/ "Community Resources")
+  * [Counseling and Support](https://www.moffitt.org/patient-family/programs-support-services/counseling-and-support/ "Counseling and Support")
+  * [Language Services](https://www.moffitt.org/patient-family/programs-support-services/language-services/ "Language Services")
+  * [Nutrition](https://www.moffitt.org/patient-family/programs-support-services/nutrition/ "Nutrition")
+  * [Senior Adult Oncology Program](https://www.moffitt.org/patient-family/programs-support-services/senior-adult-oncology-program/ "Senior Adult Oncology Program")
+  * [Share Gratitude for Moffitt Team Members](https://www.moffitt.org/patient-family/patient-and-family-centered-care/share-gratitude-for-moffitt-team-members/ "Share Gratitude for Moffitt Team Members")
+  * [Specialty Pharmacy at Moffitt](https://www.moffitt.org/patient-family/programs-support-services/specialty-pharmacy/ "Specialty Pharmacy at Moffitt")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)[Patient and Family Centered Care](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)
+  * [Demonstrating Respect at Moffitt](https://www.moffitt.org/patient-family/patient-and-family-centered-care/demonstrating-respect-at-moffitt/ "Demonstrating Respect at Moffitt")
+  * [Daisy and Sunflower Awards](https://www.moffitt.org/patient-family/patient-and-family-centered-care/daisy-and-sunflower-awards/ "Daisy and Sunflower Awards")
+  * [Patient and Family Advisory Program](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-and-family-advisory-program/ "Patient and Family Advisory Program")
+  * [Patient Relations](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-relations/ "Patient Relations")
+  * [Patient Researcher Forum](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-researcher-forum/ "Patient Researcher Forum")
+  * [Patti K Halula Legacy Award](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patti-k-halula-legacy-award/ "Patti K Halula Legacy Award")
+  * [Share Gratitude for Moffitt Team Members](https://www.moffitt.org/patient-family/patient-and-family-centered-care/share-gratitude-for-moffitt-team-members/ "Share Gratitude for Moffitt Team Members")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)[Cancer Survivorship](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)
+  * [Cancer Survivorship Program](https://www.moffitt.org/patient-family/cancer-survivorship/cancer-survivorship-program/ "Cancer Survivorship Program")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)[International Patient Services](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)
+  * [Frequently Asked Questions](https://www.moffitt.org/patient-family/international-patient-services/frequently-asked-questions/ "Frequently Asked Questions")
+  * [Online Consult Forms](https://www.moffitt.org/patient-family/international-patient-services/online-consult-forms/ "Online Consult Forms")
+  * [Online Consults](https://www.moffitt.org/patient-family/international-patient-services/online-consults/ "Online Consults")
+  * [Moffitt Outreach in Puerto Rico](https://www.moffitt.org/patient-family/international-patient-services/puerto-rico/ "Moffitt Outreach in Puerto Rico")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)[Moffitt Virtual Care](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)
+  * [All About Virtual Care](https://www.moffitt.org/patient-family/moffitt-virtual-care/all-about-virtual-care/ "All About Virtual Care")
+  * [Informed Consent for Telemedicine](https://www.moffitt.org/patient-family/moffitt-virtual-care/informed-consent-for-telemedicine/ "Informed Consent for Telemedicine")
+  * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
+  * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/doug-letson#mm-13)
+  * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
+  * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
+  * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
+  * [Cayla’s Story: Cancer Never Cares About Anything Like That](https://www.moffitt.org/inspiring-stories/caylas-story-cancer-never-cares-about-anything-like-that/ "Cayla’s Story: Cancer Never Cares About Anything Like That")
+  * [Rick's Story: Now What?](https://www.moffitt.org/inspiring-stories/ricks-story-now-what/ "Rick's Story: Now What?")
+  * [Amy's Story: No Longer Alone](https://www.moffitt.org/inspiring-stories/no-longer-alone/ "Amy's Story: No Longer Alone")
+  * [Zoe's Story](https://www.moffitt.org/inspiring-stories/zoeys-story/ "Zoe's Story")
+  * [Erma's Story](https://www.moffitt.org/inspiring-stories/ermas-story/ "Erma's Story")
+  * [Donna's Story](https://www.moffitt.org/inspiring-stories/donnas-story/ "Donna's Story")
+  * [Dr. Vadaparampil's Story](https://www.moffitt.org/inspiring-stories/dr.-vadaparampils-story "Dr. Vadaparampil's Story")
+  * [Mark's Story](https://www.moffitt.org/inspiring-stories/marks-story/ "Mark's Story")
+  * [Heather's Story](https://www.moffitt.org/inspiring-stories/heathers-story/ "Heather's Story")
+  * [Ellen's Story](https://www.moffitt.org/inspiring-stories/ellens-story/ "Ellen's Story")
+  * [Dr. Tran's Story](https://www.moffitt.org/inspiring-stories/dr.-trans-story "Dr. Tran's Story")
+  * [Dr. Toloza's Story](https://www.moffitt.org/inspiring-stories/dr.-tolozas-story "Dr. Toloza's Story")
+  * [Dr. Silva's Story](https://www.moffitt.org/inspiring-stories/dr.-silvas-story "Dr. Silva's Story")
+  * [Dr. Fernandez's Story](https://www.moffitt.org/inspiring-stories/dr.-fernandezs-story "Dr. Fernandez's Story")
+  * [Dr. Robinson's Story](https://www.moffitt.org/inspiring-stories/dr.-robinsons-story "Dr. Robinson's Story")
+  * [Dr. Pow-Sang's Story](https://www.moffitt.org/inspiring-stories/dr.-pow-sangs-story "Dr. Pow-Sang's Story")
+  * [Mike's Volunteer Story](https://www.moffitt.org/inspiring-stories/mikes-volunteer-story/ "Mike's Volunteer Story")
+  * [Mike's Story](https://www.moffitt.org/inspiring-stories/mikes-story/ "Mike's Story")
+  * [Mary Beth's Story](https://www.moffitt.org/inspiring-stories/mary-beths-story/ "Mary Beth's Story")
+  * [Malcolm's Story](https://www.moffitt.org/inspiring-stories/malcolms-story/ "Malcolm's Story")
+  * [Lori's Story](https://www.moffitt.org/inspiring-stories/loris-story2/ "Lori's Story")
+  * [Miriam's Story](https://www.moffitt.org/inspiring-stories/miriams-story/ "Miriam's Story")
+  * [Nick's Story](https://www.moffitt.org/inspiring-stories/nicks-story/ "Nick's Story")
+  * [Nadine's Story](https://www.moffitt.org/inspiring-stories/nadines-story/ "Nadine's Story")
+  * [Nancy's Story](https://www.moffitt.org/inspiring-stories/nancys-story/ "Nancy's Story")
+  * [Madison's Story](https://www.moffitt.org/inspiring-stories/madisons-story/ "Madison's Story")
+  * [Lori's Story](https://www.moffitt.org/inspiring-stories/loris-story/ "Lori's Story")
+  * [Lloyd's Story](https://www.moffitt.org/inspiring-stories/lloyds-story/ "Lloyd's Story")
+  * [Lanse's Story](https://www.moffitt.org/inspiring-stories/lanses-story/ "Lanse's Story")
+  * [Kevin's Story](https://www.moffitt.org/inspiring-stories/kevins-story/ "Kevin's Story")
+  * [Dr. Mooney's Story](https://www.moffitt.org/inspiring-stories/dr.-mooneys-story "Dr. Mooney's Story")
+  * [Ken's Story](https://www.moffitt.org/inspiring-stories/kens-story/ "Ken's Story")
+  * [Dr. Lee's Story](https://www.moffitt.org/inspiring-stories/dr.-lees-story "Dr. Lee's Story")
+  * [Dr. Kumar's Story](https://www.moffitt.org/inspiring-stories/dr.-kumars-story "Dr. Kumar's Story")
+  * [Keith's Story](https://www.moffitt.org/inspiring-stories/keiths-story2/ "Keith's Story")
+  * [Dr. Latifi's Story](https://www.moffitt.org/inspiring-stories/dr.-latifis-story "Dr. Latifi's Story")
+  * [Keith's Story](https://www.moffitt.org/inspiring-stories/keiths-story/ "Keith's Story")
+  * [Dr. Kubal's Story](https://www.moffitt.org/inspiring-stories/dr.-kubals-story "Dr. Kubal's Story")
+  * [Dr. Khakpour's Story](https://www.moffitt.org/inspiring-stories/dr.-khakpours-story "Dr. Khakpour's Story")
+  * [Dr. Keenan's Story](https://www.moffitt.org/inspiring-stories/dr.-keenans-story "Dr. Keenan's Story")
+  * [Dr. Kanetsky's Story](https://www.moffitt.org/inspiring-stories/dr.-kanetskys-story "Dr. Kanetsky's Story")
+  * [Dr. Hoffe's Story](https://www.moffitt.org/inspiring-stories/dr.-hoffes-story "Dr. Hoffe's Story")
+  * [Dr. Harrison's Story](https://www.moffitt.org/inspiring-stories/dr.-harrisons-story "Dr. Harrison's Story")
+  * [Dr. Gwede's Story](https://www.moffitt.org/inspiring-stories/dr.-gwedes-story "Dr. Gwede's Story")
+  * [Dr. Giuliano's Story](https://www.moffitt.org/inspiring-stories/dr.-giulianos-story "Dr. Giuliano's Story")
+  * [Juli's Story](https://www.moffitt.org/inspiring-stories/julis-story/ "Juli's Story")
+  * [Dr. Gonzalez's Story](https://www.moffitt.org/inspiring-stories/dr.-gonzalezs-story "Dr. Gonzalez's Story")
+  * [Dr. Gatenby's Story](https://www.moffitt.org/inspiring-stories/dr.-gatenbys-story "Dr. Gatenby's Story")
+  * [Dr. Etame's Story](https://www.moffitt.org/inspiring-stories/dr.-etames-story "Dr. Etame's Story")
+  * [Dr. Cleveland's Story](https://www.moffitt.org/inspiring-stories/dr.-clevelands-story "Dr. Cleveland's Story")
+  * [John and Whitney's Story](https://www.moffitt.org/inspiring-stories/john-and-whitneys-story/ "John and Whitney's Story")
+  * [Liz's Story](https://www.moffitt.org/inspiring-stories/lizs-story/ "Liz's Story")
+  * [Meet Lloyd](https://www.moffitt.org/inspiring-stories/meet-lloyd/ "Meet Lloyd")
+  * [Paul and Gina's Story](https://www.moffitt.org/inspiring-stories/pauls-and-ginas-story/ "Paul and Gina's Story")
+  * [Marvin's Story](https://www.moffitt.org/inspiring-stories/marvins-story/ "Marvin's Story")
+  * [Meet Melissa](https://www.moffitt.org/inspiring-stories/meet-melissa/ "Meet Melissa")
+  * [Muriel's Story](https://www.moffitt.org/inspiring-stories/muriels-story/ "Muriel's Story")
+  * [John's and David's Story](https://www.moffitt.org/inspiring-stories/johns-and-davids-story/ "John's and David's Story")
+  * [Melissa's Story](https://www.moffitt.org/inspiring-stories/melissas-story/ "Melissa's Story")
+  * [Dr. Alexander Anderson's Story](https://www.moffitt.org/inspiring-stories/dr.-alexander-andersons-story "Dr. Alexander Anderson's Story")
+  * [Pam's Story](https://www.moffitt.org/inspiring-stories/pams-story/ "Pam's Story")
+  * [Yolanda's Story](https://www.moffitt.org/inspiring-stories/yolandas-story/ "Yolanda's Story")
+  * [Wilbur's Story](https://www.moffitt.org/inspiring-stories/wilburs-story/ "Wilbur's Story")
+  * [Vikki's Story](https://www.moffitt.org/inspiring-stories/vikkis-story/ "Vikki's Story")
+  * [Tiffany's Story](https://www.moffitt.org/inspiring-stories/tiffanys-story/ "Tiffany's Story")
+  * [Theresa's Story](https://www.moffitt.org/inspiring-stories/theresas-story/ "Theresa's Story")
+  * [Joanna's Story](https://www.moffitt.org/inspiring-stories/joannas-story/ "Joanna's Story")
+  * [Jenifer's Story](https://www.moffitt.org/inspiring-stories/jenifers-story/ "Jenifer's Story")
+  * [Jeanine's Story](https://www.moffitt.org/inspiring-stories/jeanines-story/ "Jeanine's Story")
+  * [Meet Jackie](https://www.moffitt.org/inspiring-stories/meet-jackie/ "Meet Jackie")
+  * [Ian's Story](https://www.moffitt.org/inspiring-stories/ians-story/ "Ian's Story")
+  * [Howard's Story](https://www.moffitt.org/inspiring-stories/howards-story/ "Howard's Story")
+  * [Ryan's Story](https://www.moffitt.org/inspiring-stories/ryans-story/ "Ryan's Story")
+  * [Robert's Story](https://www.moffitt.org/inspiring-stories/roberts-story/ "Robert's Story")
+  * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story/ "Rick's Story")
+  * [Richard's Story](https://www.moffitt.org/inspiring-stories/richards-story/ "Richard's Story")
+  * [Rena's Story](https://www.moffitt.org/inspiring-stories/renas-story/ "Rena's Story")
+  * [Rebecca's Story](https://www.moffitt.org/inspiring-stories/rebeccas-story/ "Rebecca's Story")
+  * [Ray's and Dr. Bui's story](https://www.moffitt.org/inspiring-stories/rays-and-dr.-buis-story "Ray's and Dr. Bui's story")
+  * [Patti's Story](https://www.moffitt.org/inspiring-stories/pattis-story/ "Patti's Story")
+  * [Pam and Jonathan's story](https://www.moffitt.org/inspiring-stories/pams-and-jonathans-story/ "Pam and Jonathan's story")
+  * [Sarah's Story](https://www.moffitt.org/inspiring-stories/sarahs-story/ "Sarah's Story")
+  * [Steve and Laura's Story](https://www.moffitt.org/inspiring-stories/steve-and-lauras-story/ "Steve and Laura's Story")
+  * [Donna's Story](https://www.moffitt.org/inspiring-stories/donna/ "Donna's Story")
+  * [Tommy's Story](https://www.moffitt.org/inspiring-stories/tommys-story/ "Tommy's Story")
+  * [Viviana's Story](https://www.moffitt.org/inspiring-stories/vivianas-story/ "Viviana's Story")
+  * [Craig's Story](https://www.moffitt.org/inspiring-stories/craigs-story/ "Craig's Story")
+  * [William's Story](https://www.moffitt.org/inspiring-stories/williams-story/ "William's Story")
+  * [The Wilson - Jones's Family Story](https://www.moffitt.org/inspiring-stories/the-joness-family-story/ "The Wilson - Jones's Family Story")
+  * [Woodrow's Story](https://www.moffitt.org/inspiring-stories/woodrows-story/ "Woodrow's Story")
+  * [Cathy's Story](https://www.moffitt.org/inspiring-stories/cathys-story2/ "Cathy's Story")
+  * [Cathy's Story](https://www.moffitt.org/inspiring-stories/cathys-story/ "Cathy's Story")
+  * [Carolyn's Story](https://www.moffitt.org/inspiring-stories/carolyn/ "Carolyn's Story")
+  * [Beth's Story](https://www.moffitt.org/inspiring-stories/beths-story/ "Beth's Story")
+  * [Benita's Story](https://www.moffitt.org/inspiring-stories/benitas-story/ "Benita's Story")
+  * [Barney's Story](https://www.moffitt.org/inspiring-stories/barneys-story/ "Barney's Story")
+  * [Joel's Story](https://www.moffitt.org/inspiring-stories/joels-story/ "Joel's Story")
+  * [Jessica's Story](https://www.moffitt.org/inspiring-stories/jessicas-story/ "Jessica's Story")
+  * [Jen's Story](https://www.moffitt.org/inspiring-stories/jens-story/ "Jen's Story")
+  * [Jay's Story](https://www.moffitt.org/inspiring-stories/jays-story/ "Jay's Story")
+  * [Janelle's Story](https://www.moffitt.org/inspiring-stories/janelles-story/ "Janelle's Story")
+  * [Greg's Story](https://www.moffitt.org/inspiring-stories/gregs-story2/ "Greg's Story")
+  * [Gayle's Story](https://www.moffitt.org/inspiring-stories/gayles-story/ "Gayle's Story")
+  * [Francis' Story](https://www.moffitt.org/inspiring-stories/francis-story/ "Francis' Story")
+  * [Dr. Lau's Story](https://www.moffitt.org/inspiring-stories/dr.-laus-story "Dr. Lau's Story")
+  * [Dr. Roberto Diaz's Story](https://www.moffitt.org/inspiring-stories/dr.-roberto-diazs-story "Dr. Roberto Diaz's Story")
+  * [Dimas' Story](https://www.moffitt.org/inspiring-stories/dimas-story/ "Dimas' Story")
+  * [David and Vesta's Story](https://www.moffitt.org/inspiring-stories/david-and-vestas-story/ "David and Vesta's Story")
+  * [Cydney's Story](https://www.moffitt.org/inspiring-stories/cydneys-story/ "Cydney's Story")
+  * [Charles' Story](https://www.moffitt.org/inspiring-stories/charless-story/ "Charles' Story")
+  * [Cammie's Story](https://www.moffitt.org/inspiring-stories/cammies-story/ "Cammie's Story")
+  * [Joanne's Story](https://www.moffitt.org/inspiring-stories/joannes-story/ "Joanne's Story")
+  * [Neisha's Story](https://www.moffitt.org/inspiring-stories/neishas-story/ "Neisha's Story")
+  * [Greg's Story](https://www.moffitt.org/inspiring-stories/gregs-story/ "Greg's Story")
+  * [Joshua's Story](https://www.moffitt.org/inspiring-stories/joshuas-story/ "Joshua's Story")
+  * [Bridget's Story](https://www.moffitt.org/inspiring-stories/bridgets-story/ "Bridget's Story")
+  * [Barbara's Story](https://www.moffitt.org/inspiring-stories/barbaras-story/ "Barbara's Story")
+  * [Abrianna's Story](https://www.moffitt.org/inspiring-stories/abriannas-story/ "Abrianna's Story")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)[For Healthcare Professionals](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)
+  * [ For Healthcare Professionals ](https://www.moffitt.org/for-healthcare-professionals/)
+  * [ Clinical Programs and Services ](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-33)
+  * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
+  * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-35)
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-31)[Clinical Programs and Services](https://www.moffitt.org/research-science/researchers/doug-letson#mm-31)
+  * [Adolescent Young Adult (AYA) Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/adolescent-young-adult-aya-program/ "Adolescent Young Adult \(AYA\) Program")
+  * [Anesthesiology and Critical Care Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/anesthesiology-program/ "Anesthesiology and Critical Care Program")
+  * [BMT and Cellular Immunotherapy Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/bmt-and-cellular-immunotherapy-program/ "BMT and Cellular Immunotherapy Program")
+  * [Breast Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/breast-oncology-program/ "Breast Oncology Program")
+  * [Cardio-Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/cardio-oncology-program/ "Cardio-Oncology Program")
+  * [Cutaneous Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/cutaneous-oncology-program/ "Cutaneous Oncology Program")
+  * [Diagnostic Imaging and Interventional Radiology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/diagnostic-imaging-and-interventional-radiology-program/ "Diagnostic Imaging and Interventional Radiology Program")
+  * [Endocrine Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/endocrine-oncology-program/ "Endocrine Oncology Program")
+  * [Endoscopic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/endoscopic-oncology-program/ "Endoscopic Oncology Program")
+  * [Gastrointestinal Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/gastrointestinal-oncology-program/ "Gastrointestinal Oncology Program")
+  * [Genetic Counseling Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/genetic-counseling-program/ "Genetic Counseling Program")
+  * [Genitourinary Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/genitourinary-oncology-program/ "Genitourinary Oncology Program")
+  * [Gynecologic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/gynecologic-oncology-program/ "Gynecologic Oncology Program")
+  * [Head and Neck Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/head-and-neck-oncology-program/ "Head and Neck Oncology Program")
+  * [Immunotherapy Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/immunotherapy-program/ "Immunotherapy Program")
+  * [Malignant Hematology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/malignant-hematology-program/ "Malignant Hematology Program")
+  * [Moffitt Malignant Hematology Cellular Therapy at Memorial Healthcare System](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/moffitt-malignant-hematology-cellular-therapy-at-memorial-healthcare-system/ "Moffitt Malignant Hematology Cellular Therapy at Memorial Healthcare System")
+  * [Neuro-Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/neuro-oncology-program/ "Neuro-Oncology Program")
+  * [Pathology](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/pathology/ "Pathology")
+  * [Pharmacy](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/pharmacy/ "Pharmacy")
+  * [Radiation Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/radiation-oncology-program/ "Radiation Oncology Program")
+  * [Sarcoma Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/sarcoma-program/ "Sarcoma Program")
+  * [Screening Prevention](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/screening-prevention/ "Screening Prevention")
+  * [Senior Adult Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/senior-adult-oncology-program/ "Senior Adult Oncology Program")
+  * [Supportive Care Medicine Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/supportive-care-medicine-program/ "Supportive Care Medicine Program")
+  * [Thoracic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/thoracic-oncology-program/ "Thoracic Oncology Program")
+  * [Translational Pathology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/translational-pathology/ "Translational Pathology Program")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/doug-letson#mm-31)
+  * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
+  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
+  * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)[Research](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)
+  * [ Research Science ](https://www.moffitt.org/research-science/)
+  * [ Research Programs ](https://www.moffitt.org/research-science/research-programs/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-39)
+  * [ Divisions and Departments ](https://www.moffitt.org/research-science/divisions-and-departments/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-41)
+  * [ Centers and Institutes ](https://www.moffitt.org/research-science/centers-and-institutes/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-43)
+  * [ Community Outreach and Engagement ](https://www.moffitt.org/research-science/community-outreach-and-engagement/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-45)
+  * [ Shared Resources ](https://www.moffitt.org/research-science/shared-resources/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-47)
+  * [ Academic and Industry Partnerships ](https://www.moffitt.org/research-science/academic-and-industry-partnerships/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-49)
+  * [ Administration ](https://www.moffitt.org/research-science/administration/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-51)
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)[Research Programs](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)
+  * [Cancer Biology and Evolution](https://www.moffitt.org/research-science/research-programs/cancer-biology-and-evolution/ "Cancer Biology and Evolution")
+  * [Cancer Epidemiology](https://www.moffitt.org/research-science/research-programs/cancer-epidemiology/ "Cancer Epidemiology")
+  * [Health Outcomes and Behavior](https://www.moffitt.org/research-science/research-programs/health-outcomes-behavior/ "Health Outcomes and Behavior")
+  * [Immuno-Oncology](https://www.moffitt.org/research-science/research-programs/immuno-oncology/ "Immuno-Oncology")
+  * [Molecular Medicine](https://www.moffitt.org/research-science/research-programs/molecular-medicine/ "Molecular Medicine")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)[Divisions and Departments](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)
+  * [Basic Science](https://www.moffitt.org/research-science/divisions-and-departments/basic-science/ "Basic Science")
+  * [BioEngineering](https://www.moffitt.org/research-science/divisions-and-departments/bioengineering/ "BioEngineering")
+  * [Clinical Science](https://www.moffitt.org/research-science/divisions-and-departments/clinical-science/ "Clinical Science")
+  * [Population Science](https://www.moffitt.org/research-science/divisions-and-departments/population-science/ "Population Science")
+  * [Quantitative Science](https://www.moffitt.org/research-science/divisions-and-departments/quantitative-science/ "Quantitative Science")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)[Centers and Institutes](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)
+  * [Centers of Excellence](https://www.moffitt.org/research-science/centers-and-institutes/centers-of-excellence/ "Centers of Excellence")
+  * [Institutes](https://www.moffitt.org/research-science/centers-and-institutes/institutes/ "Institutes")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)[Community Outreach and Engagement](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)
+  * [About COE](https://www.moffitt.org/research-science/community-outreach-and-engagement/about-coe/ "About COE")
+  * [Advisory Boards](https://www.moffitt.org/research-science/community-outreach-and-engagement/community-advisory-boards/ "Advisory Boards")
+  * [Catchment Area](https://www.moffitt.org/research-science/community-outreach-and-engagement/catchment-area/ "Catchment Area")
+  * [Data](https://www.moffitt.org/research-science/community-outreach-and-engagement/data/ "Data")
+  * [Outreach](https://www.moffitt.org/research-science/community-outreach-and-engagement/outreach/ "Outreach")
+  * [Research and Clinical Trials](https://www.moffitt.org/research-science/community-outreach-and-engagement/research-and-clinical-trials/ "Research and Clinical Trials")
+  * [Get Involved With COE](https://www.moffitt.org/research-science/community-outreach-and-engagement/get-involved-with-coe/ "Get Involved With COE")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)[Shared Resources](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)
+  * [Analytic Microscopy](https://www.moffitt.org/research-science/shared-resources/analytic-microscopy/ "Analytic Microscopy")
+  * [Biostatistics and Bioinformatics](https://www.moffitt.org/research-science/shared-resources/biostatistics-and-bioinformatics/ "Biostatistics and Bioinformatics")
+  * [Cancer Pharmacokinetics and Pharmacodynamics](https://www.moffitt.org/research-science/shared-resources/cancer-pharmacokinetics-and-pharmacodynamics/ "Cancer Pharmacokinetics and Pharmacodynamics")
+  * [Chemical Biology](https://www.moffitt.org/research-science/shared-resources/chemical-biology/ "Chemical Biology")
+  * [Collaborative Data Services](https://www.moffitt.org/research-science/shared-resources/collaborative-data-services/ "Collaborative Data Services")
+  * [Flow Cytometry](https://www.moffitt.org/research-science/shared-resources/flow-cytometry/ "Flow Cytometry")
+  * [Gene Targeting](https://www.moffitt.org/research-science/shared-resources/gene-targeting/ "Gene Targeting")
+  * [Molecular Genomics](https://www.moffitt.org/research-science/shared-resources/molecular-genomics/ "Molecular Genomics")
+  * [Participant Research, Interventions, and Measurement Core (PRISM)](https://www.moffitt.org/research-science/shared-resources/participant-research-interventions-and-measurement-core-prism/ "Participant Research, Interventions, and Measurement Core \(PRISM\)")
+  * [Proteomics and Metabolomics](https://www.moffitt.org/research-science/shared-resources/proteomics-and-metabolomics/ "Proteomics and Metabolomics")
+  * [Quantitative Imaging Core](https://www.moffitt.org/research-science/shared-resources/quantitative-imaging-core/ "Quantitative Imaging Core")
+  * [Small Animal Imaging Lab](https://www.moffitt.org/research-science/shared-resources/small-animal-imaging-lab/ "Small Animal Imaging Lab")
+  * [Tissue](https://www.moffitt.org/research-science/shared-resources/tissue/ "Tissue")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)[Academic and Industry Partnerships](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)
+  * [Office of Innovation](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/ "Office of Innovation")
+  * [Academic Partnerships](https://www.moffitt.org/research-science/academic-and-industry-partnerships/academic-partnerships/ "Academic Partnerships")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)[Administration](https://www.moffitt.org/research-science/researchers/doug-letson#mm-37)
+  * [Non-Therapeutic Research Office](https://www.moffitt.org/research-science/administration/non-therapeutic-research-office/ "Non-Therapeutic Research Office")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)[Training & Education](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)
+  * [ Education ](https://www.moffitt.org/education/)
+  * [ Medical Education ](https://www.moffitt.org/education/medical-education/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-55)
+  * [ Research Education and Training ](https://www.moffitt.org/education/research-education-and-training/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-57)
+  * [ Nursing Education ](https://www.moffitt.org/education/nursing-education/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-59)
+  * [ Health Professional Education ](https://www.moffitt.org/education/health-professional-education/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-61)
+  * [ Other Educational Programs ](https://www.moffitt.org/education/other-educational-programs/)
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-53)[Medical Education](https://www.moffitt.org/research-science/researchers/doug-letson#mm-53)
+  * [Our Training Programs](https://www.moffitt.org/education/medical-education/our-training-programs/ "Our Training Programs")
+  * [Program Staff/Contact Us](https://www.moffitt.org/education/medical-education/program-staffcontact-us/ "Program Staff/Contact Us")
+  * [Salary and Benefits](https://www.moffitt.org/education/medical-education/salary-and-benefits/ "Salary and Benefits")
+  * [About Tampa Bay](https://www.moffitt.org/careers/about-tampa-bay/ "About Tampa Bay")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-53)[Research Education and Training](https://www.moffitt.org/research-science/researchers/doug-letson#mm-53)
+  * [Office of Postdoctoral Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-postdoctoral-affairs/ "Office of Postdoctoral Affairs")
+  * [Office of Graduate Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/ "Office of Graduate Affairs")
+  * [Office of Undergraduate and Visiting Scholar Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/ "Office of Undergraduate and Visiting Scholar Affairs")
+  * [Pre-College Programs](https://www.moffitt.org/education/research-education-and-training/pre-college-programs/ "Pre-College Programs")
+  * [What We Provide](https://www.moffitt.org/education/research-education-and-training/what-we-provide/ "What We Provide")
+  * [Contact Us](https://www.moffitt.org/education/research-education-and-training/contact-us/ "Contact Us")
+  * [About Tampa Bay](https://www.moffitt.org/careers/about-tampa-bay/ "About Tampa Bay")
+  * [News](https://www.moffitt.org/education/research-education-and-training/news/ "News")
+  * [Where Are They Now](https://www.moffitt.org/education/research-education-and-training/where-are-they-now/ "Where Are They Now")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-53)[Nursing Education](https://www.moffitt.org/research-science/researchers/doug-letson#mm-53)
+  * [Ambulatory Care Oncology Nurse Residency Program](https://www.moffitt.org/education/nursing-education/ambulatory-care-oncology-nurse-residency-program/ "Ambulatory Care Oncology Nurse Residency Program")
+  * [Nurse Anesthetist](https://www.moffitt.org/education/nursing-education/nurse-anesthetist/ "Nurse Anesthetist")
+  * [Nurse Practitioner](https://www.moffitt.org/education/nursing-education/nurse-practitioner/ "Nurse Practitioner")
+  * [Oncology Nurse Residency Program](https://www.moffitt.org/education/nursing-education/oncology-nurse-residency-program/ "Oncology Nurse Residency Program")
+  * [Registered Nurse](https://www.moffitt.org/education/nursing-education/registered-nurse/ "Registered Nurse")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-53)[Health Professional Education](https://www.moffitt.org/research-science/researchers/doug-letson#mm-53)
+  * [Advanced Pharmacy Practice (APPE)](https://www.moffitt.org/education/health-professional-education/advanced-pharmacy-practice-appe/ "Advanced Pharmacy Practice \(APPE\)")
+  * [Anesthesiology Assistant](https://www.moffitt.org/education/health-professional-education/anesthesiology-assistant/ "Anesthesiology Assistant")
+  * [Dietetic Technician](https://www.moffitt.org/education/health-professional-education/dietetic-technician/ "Dietetic Technician")
+  * [Dietitian](https://www.moffitt.org/education/health-professional-education/dietitian/ "Dietitian")
+  * [Genetic Counseling](https://www.moffitt.org/education/health-professional-education/genetic-counseling/ "Genetic Counseling")
+  * [Introductory Pharmacy Practice (IPPE)](https://www.moffitt.org/education/health-professional-education/introductory-pharmacy-practice-ippe/ "Introductory Pharmacy Practice \(IPPE\)")
+  * [Master of Public Health Field Experience](https://www.moffitt.org/education/health-professional-education/master-of-public-health-field-experience/ "Master of Public Health Field Experience")
+  * [Medical Assistants](https://www.moffitt.org/education/health-professional-education/medical-assistants/ "Medical Assistants")
+  * [Nuclear Medicine](https://www.moffitt.org/education/health-professional-education/nuclear-medicine/ "Nuclear Medicine")
+  * [Occupational Therapy Intern](https://www.moffitt.org/education/health-professional-education/occupational-therapy-intern/ "Occupational Therapy Intern")
+  * [PGY1 Pharmacy Residency](https://www.moffitt.org/education/health-professional-education/pgy-1-residency/ "PGY1 Pharmacy Residency")
+  * [PGY2 Oncology Pharmacy Residency](https://www.moffitt.org/education/health-professional-education/pgy-2-oncology-residency/ "PGY2 Oncology Pharmacy Residency")
+  * [Oncology Pharmacy Technician Trainee Program](https://www.moffitt.org/education/health-professional-education/pharmacy-technician-extern/ "Oncology Pharmacy Technician Trainee Program")
+  * [Physical Therapy](https://www.moffitt.org/education/health-professional-education/physical-therapy/ "Physical Therapy")
+  * [Physical Therapy Assistant](https://www.moffitt.org/education/health-professional-education/physical-therapy-assistant/ "Physical Therapy Assistant")
+  * [Physician Assistant](https://www.moffitt.org/education/health-professional-education/physician-assistant/ "Physician Assistant")
+  * [Psychology](https://www.moffitt.org/education/health-professional-education/psychology/ "Psychology")
+  * [Radiation Therapy](https://www.moffitt.org/education/health-professional-education/radiation-therapy/ "Radiation Therapy")
+  * [Radiography Therapy](https://www.moffitt.org/education/health-professional-education/radiography-therapy/ "Radiography Therapy")
+  * [Respiratory Therapy](https://www.moffitt.org/education/health-professional-education/respiratory-therapy/ "Respiratory Therapy")
+  * [Social Work](https://www.moffitt.org/education/health-professional-education/social-work/ "Social Work")
+  * [Sonography/Ultrasound Student](https://www.moffitt.org/education/health-professional-education/sonographyultrasound-student/ "Sonography/Ultrasound Student")
+  * [Speech Therapy](https://www.moffitt.org/education/health-professional-education/speech-therapy/ "Speech Therapy")
+  * [Wound Ostomy](https://www.moffitt.org/education/health-professional-education/wound-ostomy/ "Wound Ostomy")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)[Give](https://www.moffitt.org/research-science/researchers/doug-letson#mm-1)
+  * [ Give ](https://www.moffitt.org/give/)
+  * [ Why Give? ](https://www.moffitt.org/give/why-give/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-65)
+  * [ Ways to Give ](https://www.moffitt.org/give/ways-to-give/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-67)
+  * [ Get Involved ](https://www.moffitt.org/give/get-involved/) [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-69)
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-63)[Why Give?](https://www.moffitt.org/research-science/researchers/doug-letson#mm-63)
+  * [About the Moffitt Foundation](https://www.moffitt.org/give/why-give/about-the-moffitt-foundation/ "About the Moffitt Foundation")
+  * [FAQ](https://www.moffitt.org/give/why-give/faq/ "FAQ")
+  * [Financials and Stewardship](https://www.moffitt.org/give/why-give/financials-and-stewardship/ "Financials and Stewardship")
+  * [Contact the Foundation](https://www.moffitt.org/give/why-give/contact-the-foundation/ "Contact the Foundation")
+  * [You Can Make a Difference](https://www.moffitt.org/give/why-give/you-can-make-a-difference/ "You Can Make a Difference")
+  * [Impact Report](https://www.moffitt.org/give/your-impact/2022-annual-foundation-impact-report/ "Impact Report")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-63)[Ways to Give](https://www.moffitt.org/research-science/researchers/doug-letson#mm-63)
+  * [Cash, Stock or Other Assets](https://www.moffitt.org/give/ways-to-give/cash-stock-or-other-assets/ "Cash, Stock or Other Assets")
+  * [Planned Giving](https://mymoffittlegacy.org/ "Planned Giving")
+  * [Philanthropic Foundation Giving](https://www.moffitt.org/give/ways-to-give/philanthropic-foundation-giving/ "Philanthropic Foundation Giving")
+  * [Corporate Partnership](https://www.moffitt.org/give/ways-to-give/corporate-partnership/ "Corporate Partnership")
+  * [Employer Matching Gifts](https://www.moffitt.org/give/ways-to-give/employer-matching-gifts/ "Employer Matching Gifts")
+  * [Endowment Gifts](https://www.moffitt.org/give/ways-to-give/endowment-gifts/ "Endowment Gifts")
+  * [Other Ways to Donate](https://www.moffitt.org/give/ways-to-give/other-ways-to-donate/ "Other Ways to Donate")
+  * [Breast Cancer Funding Opportunities](https://www.moffitt.org/give/ways-to-give/breast-cancer-funding-opportunities/ "Breast Cancer Funding Opportunities")
+  * [Support the Pentecost Family Myeloma Research Center](https://www.moffitt.org/give/ways-to-give/support-the-pentecost-family-myeloma-research-center/ "Support the Pentecost Family Myeloma Research Center")
+  * [Partners In Discovery](https://www.moffitt.org/give/ways-to-give/partners-in-discovery/ "Partners In Discovery")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#mm-63)[Get Involved](https://www.moffitt.org/research-science/researchers/doug-letson#mm-63)
+  * [Become a Member](https://www.moffitt.org/give/get-involved/become-a-member/ "Become a Member")
+  * [Volunteer Your Time](https://www.moffitt.org/give/get-involved/volunteer-your-time/ "Volunteer Your Time")
+  * [Miles for Moffitt](https://www.moffitt.org/give/get-involved/miles-for-moffitt/ "Miles for Moffitt")
+  * [Magnolia](https://www.moffitt.org/give/get-involved/magnolia/ "Magnolia")
+  * [Mission Possible Sarasota Luncheon](https://www.moffitt.org/give/get-involved/mission-possible-sarasota-luncheon/ "Mission Possible Sarasota Luncheon")
+  * [Discovery Series Webinars](https://www.moffitt.org/give/get-involved/discovery-series-webinars/ "Discovery Series Webinars")
+  * [Fundraise for Moffitt](https://www.moffitt.org/give/get-involved/fundraise-for-moffitt/ "Fundraise for Moffitt")
+
+
+[](https://www.moffitt.org/research-science/researchers/doug-letson#page)

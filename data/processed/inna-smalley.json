@@ -1,0 +1,133 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/inna-smalley",
+  "last_updated": "2025-10-13T21:41:14.378217",
+  "researcher_id": "4303",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Metabolism and Physiology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "The I. Smalley Lab investigates how intra-tumoral heterogeneity facilitates drug resistance and dissemination, with a focus on single cell analysis and metabolism",
+  "research_interests": [
+    "Dr. Smalley has largely focused on developing novel therapeutic rationales for treating BRAF- and NRAS-mutant melanoma, with an emphasis on the role of the tumor microenvironment in drug resistance. This includes recent findings on the mechanisms of drug resistance in BRAF-mutant melanoma that rely on extracellular matrix remodeling and fibroblast activation. The current studies are focused on exploring how intra-tumoral heterogeneity facilitates tumor growth, drug resistance and dissemination, with a special focus on single cell analysis and metabolism-associated signaling. She would like to elucidate what drives tumor cells to certain metastatic sites, including the brain and leptomeninges, as well as the mechanism supporting their survival in different microenvironments. Dr. Smalley believes that the future treatment of melanoma lies in personalized, rational drug combinations that will turn a terminal disease into a manageable chronic illness. My career goal is to develop efficacious treatment strategies for patients with CNS metastasis and late-stage disease.\n  *"
+  ],
+  "associations": [
+    "Cutaneous Oncology",
+    "Metabolism and Physiology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL. spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis. Cancer Res",
+      "pubmed_id": "39636739",
+      "pmc_id": "PMC11873723",
+      "year": "2025",
+      "journal": "85(5):848-858",
+      "authors": ""
+    },
+    {
+      "title": "Lazure F, Drapela S, Liu X, Lockhart JH, Kashfi H, Sarigul N, Ilter D, Flores ER, Wang X, Smalley I, Jaeger A, Yu X, Gomes AP. Aging directs the differential evolution of KRAS-driven lung adenocarcinoma. bioRxiv",
+      "pubmed_id": "39896625",
+      "pmc_id": "PMC11785146",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA. Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses. Neurooncol",
+      "pubmed_id": "40888040",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Wilcox JA, Chukwueke UN, Ahn MJ, Aizer AA, Bale TA, Brandsma D, Brastianos PK, Chang S, Daras M, Forsyth P, Garzia L, Glantz M, Oliva ICG, Kumthekar P, Le Rhun E, Nagpal S, O'Brien B, Pentsova E, Lee EQ, Remsik J, Rud\u00e0 R, Smalley I, Taylor MD, Weller M, Wefel J, Yang JT, Young RJ, Wen PY, Boire AA. Leptomeningeal metastases from solid tumors: A Society for Neuro-Oncology and American Society of Clinical Oncology consensus review on clinical management and future directions. Neurooncol",
+      "pubmed_id": "38902944",
+      "pmc_id": "PMC11449070",
+      "year": "2024",
+      "journal": "26(10):1781-1804",
+      "authors": ""
+    },
+    {
+      "title": "Law V, Smalley I, Evernden BR, Baldwin M, Smalley KSM, Forsyth PA. Ex Vivo Culture of Circulating Tumor Cells in the Cerebral Spinal Fluid from Melanoma Patients to Study Melanoma-Associated Leptomeningeal Disease. J Vis Exp",
+      "pubmed_id": "38619274",
+      "year": "2024",
+      "journal": "(205)",
+      "authors": ""
+    },
+    {
+      "title": "Wallace G, Kundalia R, Vallebuona E, Cao B, Kim Y, Forsyth P, Soyano A, Smalley I, Pina Y. Factors associated with overall survival in breast cancer patients with leptomeningeal disease (LMD): a single institutional retrospective review. Breast Cancer Res",
+      "pubmed_id": "38553702",
+      "pmc_id": "PMC10979566",
+      "year": "2024",
+      "journal": "26(1):55",
+      "authors": ""
+    },
+    {
+      "title": "Alhaddad H, Ospina OE, Khaled ML, Ren Y, Vallebuona E, Boozo MB, Forsyth PA, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I. Spatial transcriptomics analysis identifies a tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease. Cell Rep Med",
+      "pubmed_id": "38866016",
+      "pmc_id": "PMC11228800",
+      "year": "2024",
+      "journal": "5(6):101606",
+      "authors": ""
+    },
+    {
+      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai K, Markowitz J, Vallebuona E, Berglund A, Eschrich S, Yu X, Fridley BL. spatialGE: A user-friendly web application to democratize spatial transcriptomics analysis. bioRxiv",
+      "pubmed_id": "39005315",
+      "pmc_id": "PMC11244876",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM. Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma. Cancer",
+      "pubmed_id": "37776537",
+      "year": "2024",
+      "journal": "130(2):232-243",
+      "authors": ""
+    },
+    {
+      "title": "Smalley I, Boire A, Brastianos P, Kluger HM, Hernando-Monge E, Forsyth PA, Ahmed KA, Smalley KSM, Ferguson S, Davies MA, Glitza Oliva IC. Leptomeningeal disease in melanoma: An update on the developments in pathophysiology and clinical care. Pigment Cell Melanoma Res",
+      "pubmed_id": "37622466",
+      "year": "2024",
+      "journal": "37(1):51-67",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Tumor-stroma metabolic crosstalk in melanoma brain metastases  \nAward Number: 932727  \nSponsor: Melanoma Research Alliance (MRA)  \nSmalley, I. (PD/PI)"
+    },
+    {
+      "description": "Title: Defining and targeting the immune-suppressive metabolic microenvironment of leptomeningeal melanoma metastases  \nAward Number: 1R21CA274060-01  \nSponsor: National Cancer Institute (NCI)  \nSmalley, I. (PD/PI)",
+      "source": "NCI",
+      "period": "4060-01"
+    },
+    {
+      "description": "Title: How the aging tumor microenvironment affects development of leptomeningeal metastases  \nAward Number:   \nSponsor: Florida Department of Health  \nDa S. (PD/PI), Smalley, I. (PD/PI)"
+    },
+    {
+      "description": "Title: Preclinical study of phenylbutyrate for the treatment of melanoma leptomeningeal disease  \nAward Number:   \nSponsor: Florida Department of Health  \nSmalley, I. (PD/PI)"
+    },
+    {
+      "description": "Title: Improving therapy for leptomeningeal Non-Hodgkin B cell lymphoma by targeting the metabolic tumor microenvironment  \nAward Number: RSG-23-1040487-01-MM  \nSponsor: American Cancer Society, Inc. (ACS)  \nSmalley, I. (PD/PI)",
+      "source": "American Cancer Society",
+      "period": "0487-01"
+    },
+    {
+      "description": "Title: How the aging tumor microenvironment affects the outgrowth of leptomeningeal metastases  \nAward Number: TLC-23-1180750-01-TLC  \nSponsor: American Cancer Society, Inc. (ACS)  \nSmalley, I. (PD/PI)",
+      "source": "American Cancer Society",
+      "period": "0750-01"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SmalleyInna_4303.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4303"
+  },
+  "content_hash": "555009f2b2c14b9cb2b005fddc54aaa78b87e47a874ad50808a16aec2128707f"
+}

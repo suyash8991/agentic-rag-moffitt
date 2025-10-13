@@ -1,0 +1,128 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/alberto-chiappori",
+  "last_updated": "2025-10-13T21:46:20.773435",
+  "researcher_id": "422",
+  "name": "",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Thoracic Oncology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Mesothelioma, neuroendocrine carcinomas, Thymic tumors",
+  "research_interests": [
+    "Dr. Chiappori\u2019s interest includes developmental therapeutics in lung cancer, focused on immunotherapy, particularly against small cell lung cancer (SCLC). Under the mentorship of Drs. Scott Antonia and Dmitry Gabrilovich (Immunology Program), Dr. Chiappori worked in developing and implementing an adenoviral transfected p53-based dendritic cell vaccine (Ad.p53-DC) for SCLC. Dr. Chiappori is the principal investigator of one of the projects of the SPORE in Lung Cancer awarded to the Moffitt Cancer Center, in which the Ad.p53-DC vaccine is being tested in SCLC patients in a 3-arm, phase II randomized design, against a control and against Ad.p53-DC plus all-trans retinoic acid to compare immune response. He also was awarded a Research Supplement to the SPORE in Lung Cancer, allowing him to be involved in a pilot project proposal aimed to identify, through pre- and post-vaccination PBMC microarray GE analyses, consistent differences that appear in patients with SCLC who develop a positive immune response to Ad.p53-DC vaccination that can be used as biomarkers for individualization and further refinement of future vaccine strategies. Additionally, Dr. Chiappori is pursuing development and implementation of biomarker-driven therapies in SCLC with a focus in pharmacogenomics for chemotherapy individualization and in drug development with HDAC, IGFR and PARP inhibitors.\n  *"
+  ],
+  "associations": [
+    "Thoracic Oncology",
+    "Tumor Microenvironment and Metastasis",
+    "Lung Cancer Center of Excellence",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Cayetano Heredia University of Peru",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Southern Illinois University School of Medicine",
+      "position": "Intern"
+    },
+    {
+      "type": "Residency",
+      "institution": "Southern Illinois University School of Medicine",
+      "specialty": ""
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Vanderbilt University School of Medicine",
+      "specialty": "Hematology/Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Kim YS, Nabet BY, Cortez BN, Sun NY, Sebastian R, Redon CE, Ray A, Liu L, Ishola AA, Loew S, Dhall A, Sindiri S, Gayevskiy V, Lee MJ, Rastogi S, Sato N, Kedei N, Andresson T, Das S, Kumar S, Bers AE, Zhang H, Chiappori A, Gopal P, Abazeed ME, Chen H, Aladjem MI, Pommier Y, Velez MJ, Shames DS, Roper N. NOTCH1 reverses immune suppression in small cell lung cancer through reactivation of STING. J Clin Invest",
+      "pubmed_id": "40627448",
+      "pmc_id": "PMC12435836",
+      "year": "2025",
+      "journal": "135(18)",
+      "authors": ""
+    },
+    {
+      "title": "Malhotra J, Chiappori A, Fujioka N, Hanna NH, Feldman LE, Patel M, Moore D, Chen C, Jabbour SK. Phase I/II trial of plinabulin in combination with nivolumab and ipilimumab in patients with recurrent small cell lung cancer (SCLC): Big ten cancer research consortium (BTCRC-LUN17-127) study. Lung Cancer",
+      "pubmed_id": "39173229",
+      "year": "2024",
+      "journal": "195:107932",
+      "authors": ""
+    },
+    {
+      "title": "Ozakinci H, Alontaga AY, Cano P, Koomen JM, Perez BA, Beg AA, Chiappori AA, Haura EB, Boyle TA. Unveiling the Molecular Features of SCLC With a Clinical RNA Expression Panel. JTO Clin Res Rep",
+      "pubmed_id": "39386315",
+      "pmc_id": "PMC11459576",
+      "year": "2024",
+      "journal": "5(11):100723",
+      "authors": ""
+    },
+    {
+      "title": "Saltos AN, Creelan BC, Tanvetyanon T, Chiappori AA, Antonia SJ, Shafique MR, Ugrenovic-Petrovic M, Sansil S, Neuger A, Ozakinci H, Boyle TA, Kim J, Haura EB, Gray JE. A phase I/IB trial of binimetinib in combination with erlotinib in NSCLC harboring activating KRAS or EGFR mutations. Lung Cancer",
+      "pubmed_id": "37499521",
+      "year": "2023",
+      "journal": "183:107313",
+      "authors": ""
+    },
+    {
+      "title": "Gilardone S, Thapa R, Laborde J, Shafique M, Saltos A, Creelan B, Tanvetyanon T, Chiappori A, Simon G, Haura EB, Gray JE, Chen DT, Melzer D, Pellini B. Osimertinib vs. afatinib as first-line treatment for patients with metastatic non-small cell lung cancer with an EGFR exon 19 deletion or exon 21 L858R mutation. J Thorac Dis",
+      "pubmed_id": "38090314",
+      "pmc_id": "PMC10713299",
+      "year": "2023",
+      "journal": "15(11):6115-6125",
+      "authors": ""
+    },
+    {
+      "title": "Liveringhouse CL, Latifi K, Asous AG, Lam NB, Rosenberg SA, Dilling TJ, MacMillan GV, Chiappori AA, Haura EB, Creelan B, Gray JE, Tanvetyanon T, Shafique MR, Saltos AN, Weiner AA, Clarke J, Kelsey CR, Kim S, Caudell JJ, Rose TA, Conejo-Garcia JR, Li J, Schell MJ, Antonia SJ, Perez BA. Dose-Limiting Pulmonary Toxicity in a Phase 1/2 Study of Radiation and Chemotherapy with Ipilimumab Followed by Nivolumab for Patients With Stage 3 Unresectable Non-Small Cell Lung Cancer. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "36657497",
+      "year": "2023",
+      "journal": "116(4):837-848",
+      "authors": ""
+    },
+    {
+      "title": "Aix SP, Ciuleanu TE, Navarro A, Cousin S, Bonanno L, Smit EF, Chiappori A, Olmedo ME, Horvath I, Groh\u00e9 C, Farago AF, L\u00f3pez-Vilari\u00f1o JA, Cullell-Young M, Nieto A, Vasco N, G\u00f3mez J, Kahatt C, Zeaiter A, Carcereny E, Roubec J, Syrigos K, Lo G, Barneto I, Pope A, S\u00e1nchez A, Kattan J, Zarogoulidis K, Waller CF, Bischoff H, Juan-Vidal O, Reinmuth N, D\u00f3mine M, Paz-Ares L. Combination lurbinectedin and doxorubicin versus physician's choice of chemotherapy in patients with relapsed small-cell lung cancer (ATLANTIS): a multicentre, randomised, open-label, phase 3 trial. Lancet Respir Med",
+      "pubmed_id": "36252599",
+      "year": "2023",
+      "journal": "11(1):74-86",
+      "authors": ""
+    },
+    {
+      "title": "Marin-Acevedo JA, Pellini B, Kimbrough EO, Hicks JK, Chiappori A. Treatment Strategies for Non-Small Cell Lung Cancer with Common EGFR Mutations: A Review of the History of EGFR TKIs Approval and Emerging Data. Cancers (Basel)",
+      "pubmed_id": "36765587",
+      "pmc_id": "PMC9913773",
+      "year": "2023",
+      "journal": "15(3)",
+      "authors": ""
+    },
+    {
+      "title": "Dudek AZ, Xi MX, Scilla KA, Mamdani H, Creelan BC, Saltos A, Tanvetyanon T, Chiappori A. Phase 2 Trial of Nivolumab and Ramucirumab for Relapsed Mesothelioma: HCRN-LUN15-299. JTO Clin Res Rep",
+      "pubmed_id": "38046376",
+      "pmc_id": "PMC10689266",
+      "year": "2023",
+      "journal": "4(12):100584",
+      "authors": ""
+    },
+    {
+      "title": "Chen DT, Saltos AN, Rose T, Thompson ZJ, Thapa R, Chiappori A, Gray JE. Early Adverse Event Derived Biomarkers in Predicting Clinical Outcomes in Patients with Advanced Non-Small Cell Lung Cancer Treated with Immunotherapy. Cancers (Basel)",
+      "pubmed_id": "37173987",
+      "pmc_id": "PMC10177532",
+      "year": "2023",
+      "journal": "15(9)",
+      "authors": ""
+    }
+  ],
+  "grants": [],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChiapporiAlberto_422.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=422"
+  },
+  "content_hash": "c7dac865e69372594ed671d96865714c9dd46f880d5e0724fc384e748ad1a2fb"
+}

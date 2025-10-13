@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Moffitt Researcher Profile",
+  "description": "Schema for a Moffitt Cancer Center researcher profile",
+  "type": "object",
+  "required": [
+    "researcher_id",
+    "name",
+    "program",
+    "department",
+    "profile_url",
+    "content_hash",
+    "last_updated"
+  ],
+  "properties": {
+    "researcher_id": {
+      "type": "string",
+      "description": "Unique identifier for the researcher"
+    },
+    "name": {
+      "type": "string",
+      "description": "Full name of the researcher"
+    },
+    "title": {
+      "type": "string",
+      "description": "Professional title of the researcher"
+    },
+    "program": {
+      "type": "string",
+      "description": "Research program the researcher belongs to"
+    },
+    "department": {
+      "type": "string",
+      "description": "Department the researcher belongs to"
+    },
+    "biography": {
+      "type": "string",
+      "description": "Biography/overview of the researcher in markdown format"
+    },
+    "research_interests": {
+      "type": "array",
+      "description": "List of research interests",
+      "items": {
+        "type": "string"
+      }
+    },
+    "publications": {
+      "type": "array",
+      "description": "List of publications",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Publication title"
+          },
+          "authors": {
+            "type": "string",
+            "description": "List of authors"
+          },
+          "journal": {
+            "type": "string",
+            "description": "Journal name"
+          },
+          "year": {
+            "type": "string",
+            "description": "Publication year"
+          },
+          "url": {
+            "type": "string",
+            "description": "URL to the publication, if available"
+          }
+        },
+        "required": ["title"]
+      }
+    },
+    "contact": {
+      "type": "object",
+      "description": "Contact information for the researcher",
+      "properties": {
+        "email": {
+          "type": "string",
+          "format": "email",
+          "description": "Email address"
+        },
+        "phone": {
+          "type": "string",
+          "description": "Phone number"
+        },
+        "location": {
+          "type": "string",
+          "description": "Office location"
+        }
+      }
+    },
+    "profile_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL of the original researcher profile"
+    },
+    "content_hash": {
+      "type": "string",
+      "description": "Hash of the content for change detection"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp of when the data was last updated"
+    }
+  }
+}

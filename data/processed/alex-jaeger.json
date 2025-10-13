@@ -1,0 +1,148 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/alex-jaeger",
+  "last_updated": "2025-10-13T21:42:31.786872",
+  "researcher_id": "31015",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Molecular Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Dr. Jaeger\u2019s research is focused on understanding the fundamental relationships between gene expression and protein metabolism that shape antigen presentation in the tumor microenvironment. Using inducible affinity tags, Dr. Jaeger is able to isolate tumor specific MHC-I peptides from genetically engineered models of pancreatic and lung adenocarcinomas, using this information to profile the evolution of the immunopeptidome through tumor progression. These approaches will pave the way to new strategies for cancer immunotherapy, including cancer vaccines, tumor targeting antibodies, and adoptive cell therapy. Dr. Jaeger\u2019s work has been published in top-tier journals such as Nature Structural Molecular Biology, Clinical Cancer Research, Cancer Cell and Nature Cancer.",
+  "research_interests": [
+    "Dr. Jaeger\u2019s research is focused on understanding the fundamental relationships between gene expression and protein metabolism that shape antigen presentation in the tumor microenvironment. Using inducible affinity tags, Dr. Jaeger is able to isolate tumor specific MHC-I peptides from genetically engineered models of pancreatic and lung adenocarcinomas, using this information to profile the evolution of the immunopeptidome through tumor progression. These approaches will pave the way to new strategies for cancer immunotherapy, including cancer vaccines, tumor targeting antibodies, and adoptive cell therapy. Dr. Jaeger\u2019s work has been published in top-tier journals such as Nature Structural Molecular Biology, Clinical Cancer Research, Cancer Cell and Nature Cancer.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Duke University School of Medicine, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Massachusetts Institute of Technology",
+      "specialty": "Biomedical Research"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Lazure F, Drapela S, Liu X, Lockhart JH, Kashfi H, Sarigul N, Ilter D, Flores ER, Wang X, Smalley I, Jaeger A, Yu X, Gomes AP. Aging directs the differential evolution of KRAS-driven lung adenocarcinoma. bioRxiv",
+      "pubmed_id": "39896625",
+      "pmc_id": "PMC11785146",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Chadourne M, Griffith C, Xu X, Brennan E, Vera O, Mecozzi N, Wang K, Jaeger AM, Karreth FA. CDH3-AS1 antisense RNA enhances P-cadherin translation and acts as a tumor suppressor in melanoma. bioRxiv",
+      "pubmed_id": "39764055",
+      "pmc_id": "PMC11703152",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Stewart PA, Jaeger AM. Taking the temperature of lung cancer antigens. Nat Cancer",
+      "pubmed_id": "37237079",
+      "year": "2023",
+      "journal": "4(5):586-587",
+      "authors": ""
+    },
+    {
+      "title": "Amini AP, Kirkpatrick JD, Wang CS, Jaeger AM, Su S, Naranjo S, Zhong Q, Cabana CM, Jacks T, Bhatia SN. Multiscale profiling of protease activity in cancer. Nat Commun",
+      "pubmed_id": "36192379",
+      "pmc_id": "PMC9530178",
+      "year": "2022",
+      "journal": "13(1):5745",
+      "authors": ""
+    },
+    {
+      "title": "Jaeger AM, Stopfer LE, Ahn R, Sanders EA, Sandel DA, Freed-Pastor WA, Rideout WM, Naranjo S, Fessenden T, Nguyen KB, Winter PS, Kohn RE, Westcott PMK, Schenkel JM, Shanahan SL, Shalek AK, Spranger S, White FM, Jacks T. Deciphering the immunopeptidome in vivo reveals new tumour antigens. Nature",
+      "pubmed_id": "35705813",
+      "year": "2022",
+      "journal": "607(7917):149-155",
+      "authors": ""
+    },
+    {
+      "title": "Burger ML, Cruz AM, Crossland GE, Gaglia G, Ritch CC, Blatt SE, Bhutkar A, Canner D, Kienka T, Tavana SZ, Barandiaran AL, Garmilla A, Schenkel JM, Hillman M, de Los Rios Kobara I, Li A, Jaeger AM, Hwang WL, Westcott PMK, Manos MP, Holovatska MM, Hodi FS, Regev A, Santagata S, Jacks T. Antigen dominance hierarchies shape TCF1+ progenitor CD8 T cell phenotypes in tumors. Cell",
+      "pubmed_id": "34534464",
+      "pmc_id": "PMC8522630",
+      "year": "2021",
+      "journal": "184(19):4996-5014",
+      "authors": ""
+    },
+    {
+      "title": "Nishida Y, Zhao R, Heese LE, Akiyama H, Patel S, Jaeger AM, Jacamo RO, Kojima K, Ma MCJ, Ruvolo VR, Chachad D, Devine W, Lindquist S, Davis RE, Porco JA, Whitesell L, Andreeff M, Ishizawa J. Inhibition of translation initiation factor eIF4a inactivates heat shock factor 1 (HSF1) and exerts anti-leukemia activity in AML. Leukemia",
+      "pubmed_id": "34127794",
+      "pmc_id": "PMC8764661",
+      "year": "2021",
+      "journal": "35(9):2469-2481",
+      "authors": ""
+    },
+    {
+      "title": "Freed-Pastor WA, Lambert LJ, Ely ZA, Pattada NB, Bhutkar A, Eng G, Mercer KL, Garcia AP, Lin L, Rideout WM, Hwang WL, Schenkel JM, Jaeger AM, Bronson RT, Westcott PMK, Hether TD, Divakar P, Reeves JW, Deshpande V, Delorey T, Phillips D, Yilmaz OH, Regev A, Jacks T. The CD155/TIGIT axis promotes and maintains immune evasion in neoantigen-expressing pancreatic cancer. Cancer Cell",
+      "pubmed_id": "34358448",
+      "pmc_id": "PMC8511341",
+      "year": "2021",
+      "journal": "39(10):1342-1360",
+      "authors": ""
+    },
+    {
+      "title": "Westcott PMK, Sacks NJ, Schenkel JM, Ely ZA, Smith O, Hauck H, Jaeger AM, Zhang D, Backlund CM, Beytagh MC, Patten JJ, Elbashir R, Eng G, Irvine DJ, Yilmaz OH, Jacks T. Low neoantigen expression and poor T-cell priming underlie early immune escape in colorectal cancer. Nat Cancer",
+      "pubmed_id": "34738089",
+      "pmc_id": "PMC8562866",
+      "year": "2021",
+      "journal": "2(10):1071-1085",
+      "authors": ""
+    },
+    {
+      "title": "Raghavan S, Winter PS, Navia AW, Williams HL, DenAdel A, Lowder KE, Galvez-Reyes J, Kalekar RL, Mulugeta N, Kapner KS, Raghavan MS, Borah AA, Liu N, V\u00e4yrynen SA, Costa AD, Ng RWS, Wang J, Hill EK, Ragon DY, Brais LK, Jaeger AM, Spurr LF, Li YY, Cherniack AD, Booker MA, Cohen EF, Tolstorukov MY, Wakiro I, Rotem A, Johnson BE, McFarland JM, Sicinska ET, Jacks TE, Sullivan RJ, Shapiro GI, Clancy TE, Perez K, Rubinson DA, Ng K, Cleary JM, Crawford L, Manalis SR, Nowak JA, Wolpin BM, Hahn WC, Aguirre AJ, Shalek AK. Microenvironment drives cell state, plasticity, and drug response in pancreatic cancer. Cell",
+      "pubmed_id": "34890551",
+      "pmc_id": "PMC8822455",
+      "year": "2021",
+      "journal": "184(25):6119-6137",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Engineering approaches to exploit MHC-II antigen presentation in cancer  \nAward Number: DRR 80-24  \nSponsor: DAMON RUNYON CANCER RESEARCH  \nJaeger, A. (PD/PI)"
+    },
+    {
+      "description": "Title: Mapping the antigenic landscape of lung cancer following KRAS inhibition  \nAward Number: LCD-1251330  \nSponsor: American Lung Association  \nJaeger, A. (PD/PI)"
+    },
+    {
+      "description": "Title: Validation of a novel class of Cancer-specific antigens in lung cancer  \nAward Number: 23VA015  \nSponsor: RyboDyn, Inc.  \nJaeger, A. (PD/PI)"
+    },
+    {
+      "description": "Title: Exploring the Impact of HSP90 Inhibition on Antigen Presentation and Anti-Tumor Immune Responses  \nAward Number: 5R00CA241072-04  \nSponsor: National Cancer Institute (NCI)  \nJaeger, A. (PD/PI)",
+      "source": "NCI",
+      "period": "1072-04"
+    },
+    {
+      "description": "Title: Interrogating the relationship between translational dynamics and non-canonical antigen presentation in lung cancer  \nAward Number: R01CA292692-01  \nSponsor: National Cancer Institute (NCI)  \nJaeger, A. (PD/PI)",
+      "source": "NCI",
+      "period": "2692-01"
+    },
+    {
+      "description": "Title: Enhancing Til therapy using L-fucose  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nLe-Lau, E. (PD/PI), Jaeger, A. (Co-PD/PI)",
+      "source": "Foundation"
+    },
+    {
+      "description": "Title: Enhancing peptide vaccine target presentation in melanoma using L-fucose  \nAward Number:   \nSponsor: Florida Department of Health  \nLe-Lau, E. (PD/PI), Jaeger, A. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Optimizing the immune mediated-destruction of NRAS mutant melanoma  \nAward Number: 1241759  \nSponsor: Melanoma Research Alliance (MRA)  \nJaeger, A. (PD/PI), Smalley, K. (PD/PI)"
+    },
+    {
+      "description": "Title: Identification of Neoepitopes in SF3B1-Mutant Uveal Melanoma via Comparative Immunophenotyping  \nAward Number: Ballentine Gift  \nSponsor: SuzyQ Melanoma Accel  \nSmalley, K. (PD/PI), Jaeger, A. (Co-PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JaegerAlex_31015.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=31015"
+  },
+  "content_hash": "40394949917174e2693e449197e6c7fa40e36ad2d798f8d8d1d67daa9270acb3"
+}

@@ -1,0 +1,137 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/noemi-andor",
+  "last_updated": "2025-10-13T21:41:28.261908",
+  "researcher_id": "24447",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Integrated Mathematical Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Dr. Andor's research combines computational biology, mathematical modeling and pharmacology to increase odds in the race against tumor evolution.",
+  "research_interests": [
+    "Dr. Andor's research focuses on the development and integration of methods to quantify the clonal composition of a tumor from different perspectives, including its genome, transcriptome and appearance. Overall goal is to use these clone characteristics to inform how a tumo's environment can be altered in order to favor certain tumor subclones over others.\n  *"
+  ],
+  "associations": [
+    "Neuro-Oncology",
+    "Gastrointestinal Oncology",
+    "Integrated Mathematical Oncology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Technical University, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Ludwig-Maximilians & Technical University, MSc"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Stanford University",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Beck R, Tagal V, Amin S, Bakhoum SF, Maley C, Verhaak RGW, Gomes AP, Andor N. Energetics of whole genome doubling and genomic instability. Cancer Lett",
+      "pubmed_id": "40517938",
+      "year": "2025",
+      "journal": "630:217878",
+      "authors": ""
+    },
+    {
+      "title": "Veith T, Beck R, Brown JS, Andor N. Inverse Game Theory Characterizes Frequency-Dependent Selection Driven by Karyotypic Diversity in Triple Negative Breast Cancer. bioRxiv",
+      "pubmed_id": "40196548",
+      "pmc_id": "PMC11974723",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Beck RJ, Andor N. Local Adaptive Mapping of Karyotype Fitness Landscapes. bioRxiv",
+      "pubmed_id": "40667108",
+      "pmc_id": "PMC12262491",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Veith T, Beck R, Tagal V, Li T, Alahmari S, Cole J, Hannaby D, Kyei J, Yu X, Maksin K, Schultz A, Lee H, El Naqa I, Eschrich S, Ji HP, Diaz A, Andor N. CLONEID: A Framework for Longitudinal Integration of Phenotypic and Genotypic Data to Monitor and Steer Subclonal Dynamics. bioRxiv",
+      "pubmed_id": "40631300",
+      "pmc_id": "PMC12236826",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Nowicka Z, Rentzeperis F, Tagal V, Teer JK, Ilter D, Beck RJ, Cole JP, Forero Pinto AM, Tejero JD, Scanu E, Veith T, Dominguez-Viqueira W, Maksin K, Carrillo-Perez FM, Gevaert O, Xu X, Karreth FA, Abdalah MA, Fiandaca G, Pasetto S, Prabhakaran S, Schultz A, Ojwang' AME, Barnholtz-Sloan JS, Farinhas JM, Gomes AP, Katira P, Andor N. Interactions between Ploidy and Resource Availability Shape Clonal Evolution in Glioblastoma. Cancer Res",
+      "pubmed_id": "39933186",
+      "year": "2025",
+      "journal": "85(8):1544-1559",
+      "authors": ""
+    },
+    {
+      "title": "Alahmari S, Schultz A, Albrecht J, Tagal V, Siddiqui Z, Prabhakaran S, El Naqa I, Anderson A, Heiser L, Andor N. Cell identity revealed by precise cell cycle state mapping links data modalities. bioRxiv",
+      "pubmed_id": "39282313",
+      "pmc_id": "PMC11398313",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Carrillo-Perez F, Cramer EM, Pizurica M, Andor N, Gevaert O. Towards Digital Quantification of Ploidy from Pan-Cancer Digital Pathology Slides using Deep Learning. bioRxiv",
+      "pubmed_id": "39229200",
+      "pmc_id": "PMC11370345",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Nowicka Z, Rentzeperis F, Beck R, Tagal V, Pinto AF, Scanu E, Veith T, Cole J, Ilter D, Viqueira WD, Teer JK, Maksin K, Pasetto S, Abdalah MA, Fiandaca G, Prabhakaran S, Schultz A, Ojwang M, Barnholtz-Sloan JS, Farinhas JM, Gomes AP, Katira P, Andor N. Interactions between ploidy and resource availability shape clonal interference at initiation and recurrence of glioblastoma. bioRxiv",
+      "pubmed_id": "37905142",
+      "pmc_id": "PMC10614845",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "Gatenbee CD, Baker AM, Prabhakaran S, Swinyard O, Slebos RJC, Mandal G, Mulholland E, Andor N, Marusyk A, Leedham S, Conejo-Garcia JR, Chung CH, Robertson-Tessi M, Graham TA, Anderson ARA. Virtual alignment of pathology image series for multi-gigapixel whole slide images. Nat Commun",
+      "pubmed_id": "37495577",
+      "pmc_id": "PMC10372014",
+      "year": "2023",
+      "journal": "14(1):4502",
+      "authors": ""
+    },
+    {
+      "title": "Veith T, Schultz A, Alahmari S, Beck R, Johnson J, Andor N. Mathematical Modeling of Clonal Interference by Density-Dependent Selection in Heterogeneous Cancer Cell Lines. Cells",
+      "pubmed_id": "37508513",
+      "pmc_id": "PMC10378185",
+      "year": "2023",
+      "journal": "12(14)",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: A framework to integrate live-cell imaging with single-cell sequencing and learn how cells adapt to new environments  \nAward Number: 5R03CA259873-02  \nSponsor: National Cancer Institute (NCI)  \nAndor, N. (PD/PI)",
+      "source": "NCI",
+      "period": "9873-02"
+    },
+    {
+      "description": "Title: Characterizing Cytotoxic Therapy Induced Shifts in the Cost-to-Benefit Ratio of High Ploidy  \nAward Number: 5R37CA266727  \nSponsor: National Cancer Institute (NCI)  \nAndor, N. (PD/PI)",
+      "source": "NCI"
+    },
+    {
+      "description": "Title: Engineering Model-Based Systems to Monitor and Steer Subclonal Dynamics  \nAward Number: 5R21CA269415-02  \nSponsor: National Cancer Institute (NCI)  \nAndor, N. (PD/PI)",
+      "source": "NCI",
+      "period": "9415-02"
+    },
+    {
+      "description": "Title: IMAT-ITCR Collaboration: Engineering model-based systems to monitor and steer subclonal dynamics  \nAward Number: 3R21CA269415-02S1  \nSponsor: National Cancer Institute (NCI)  \nAndor, N. (PD/PI)",
+      "source": "NCI",
+      "period": "9415-02"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AndorNoemi_24447.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24447"
+  },
+  "content_hash": "8e49ccf8a7ccfb5f9fbde9c1cc96504a65f8eed9f8a5a5ea91cb2cb5d5c477b9"
+}

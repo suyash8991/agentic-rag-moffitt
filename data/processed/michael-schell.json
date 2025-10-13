@@ -1,0 +1,121 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/michael-schell",
+  "last_updated": "2025-10-13T21:43:14.502154",
+  "researcher_id": "3509",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Statistical examination is critical to glean true biological differences from technological artifacts, providing patients the best personalized treatment.",
+  "research_interests": [
+    "Dr. Schell has led the development of a statistical method to analyze AQUA (Automated Quantitative Analysis)-generated tissue microarray (TMA) data. The method is a 7-step procedure which works quite well for identifying and resolving technical problems when two highly correlated variables are available. This method provides a practical and efficient way of identifying an appropriate transformation (square-root, quarter-root or log), if needed, of AQUA scores that can be used to satisfy the normality assumption required by most of statistical procedures. This methodology identifies and adjusts for possible row or column spatial bias effects in a 20 x 17 rectangular plate used in the AQUA machine, which arise due to technical processing effects. The method facilitates the identification of possible outliers or leverage data points in the data due to, for instance, air bubbles. Dr. Schell is a member of the Cancer Biomarkers Study Section. He is also the statistician for a large integral-biomarker phase III multi-center clinical trial in lung cancer.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Lung Cancer Center of Excellence",
+    "Cancer Epidemiology Program",
+    "Cancer Chemoprevention Research Interest Group",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Florida State University, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Florida State University, MS"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Park R, Rind F, Kristoff T, Li J, Schell M, Slebos RJC, Thatikonda S, Chaudhary R, Biernacki MI, Meshkovska Y, Kaldas D, Kim HS, Farinhas J, Hernandez-Prera J, Kirtane K, Hall MS, Amelio AL, Rocco JW, Bhateja P, Steuer C, Bonomi M, Saba NF, Chung CH. Evaluation of Neutrophil to Lymphocyte Ratio in Patients With Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma Treated With a Combination of Cetuximab and Nivolumab in a Phase II Clinical Trial. Am J Clin Oncol",
+      "pubmed_id": "40905435",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Yang M, Nebozhyn MV, Schell MJ, Gandhi N, Pflieger L, Loboda A, Pledger WJ, Soundararajan R, Maurin M, Wang H, Silva JR, Alden A, Coppola D, Elliott A, Sledge G, Khushman M, Lou E, Goel S, Yeatman TJ. Identifying distinct prognostic and predictive contributions of tumor epithelium versus tumor microenvironment in colorectal cancer. BMC Cancer",
+      "pubmed_id": "40075322",
+      "pmc_id": "PMC11899100",
+      "year": "2025",
+      "journal": "25(1):441",
+      "authors": ""
+    },
+    {
+      "title": "Soundararajan R, Maurin MM, Rodriguez-Silva J, Upadhyay G, Alden AJ, Gowda SGB, Schell MJ, Yang M, Levine NJ, Gowda D, Sundaraswamy PM, Hui SP, Pflieger L, Wang H, Marcet J, Martinez C, Bennett RD, Chudzinski A, Karachristos A, Nywening TM, Cavallaro PM, Anderson ML, Coffey RJ, Nebozhyn MV, Loboda A, Coppola D, Pledger WJ, Halade G, Yeatman TJ. Integration of lipidomics with targeted, single cell, and spatial transcriptomics defines an unresolved pro-inflammatory state in colon cancer. Gut",
+      "pubmed_id": "39658263",
+      "pmc_id": "PMC11885055",
+      "year": "2025",
+      "journal": "74(4):586-602",
+      "authors": ""
+    },
+    {
+      "title": "Han G, Schell MJ, Smith ML, Hopkins L, Liu Y, Carroll RJ, Ory MG. Determining the threshold time in restricted mean survival time analysis for two group comparisons with applications in clinical and epidemiology studies. Am J Epidemiol",
+      "pubmed_id": "39968729",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Giuliano AR, Beltrame A, Villa LL, Lazcano-Ponce E, Santana-Bagur J, Allen-Leigh B, Portillo-Romero AJ, Sahasrabuddhe VV, House MG, Brofsky E, Galan de Paula L, Carvalho da Silva R, Schell MJ, Rathwell J, Isaacs-Soriano K, Fan W, Mello C, Ellsworth GB, Wilkin T. Design of a multicenter, randomized, double-blinded, placebo-controlled phase III trial evaluating the 9-valent human papillomavirus (HPV) vaccine to prevent persistent oral HPV infection in men living with human immunodeficiency virus: ULACNet trial 201. Vaccine",
+      "pubmed_id": "40609265",
+      "year": "2025",
+      "journal": "61:127447",
+      "authors": ""
+    },
+    {
+      "title": "Dube Mandishora RS, Dickey BL, Fan W, Sirak B, Isaacs-Soriano K, Rathwell J, Abrahamsen M, Reich RR, Schell MJ, Lazcano-Ponce E, Villa LL, Giuliano AR. Multinational epidemiological analysis of oral human papillomavirus incidence in 3,137 men. Nat Microbiol",
+      "pubmed_id": "39424983",
+      "year": "2024",
+      "journal": "9(11):2836-2846",
+      "authors": ""
+    },
+    {
+      "title": "Montoya SM, Olaore P, Bastardo-Acosta J, Abdulla R, Schell MJ, Hidalgo A, Turner B, Rider M, Kishun-Jit N, Joshua A, Pollard J, Friedman M, Christy SM, Meade CD, Gwede CK. Protocol paper for an implementation science approach to promoting colorectal cancer screening in Federally Qualified Health Center clinics: A stepped-wedge, multilevel intervention trial. Res Sq",
+      "pubmed_id": "39070625",
+      "pmc_id": "PMC11275978",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Lee B, Chehab SS, Fan W, Schell MJ, Kirtane KS, Shah AB. Safety outcomes of pembrolizumab with platinum agent chemotherapy combined with 5-fluorouracil or taxane derivative in head and neck cancer. J Oncol Pharm Pract",
+      "pubmed_id": "38043938",
+      "pmc_id": "PMC11590380",
+      "year": "2024",
+      "journal": "30(8):1397-1402",
+      "authors": ""
+    },
+    {
+      "title": "Tarhini AA, Eroglu Z, Eljilany I, Zager JS, Gonzalez RJ, Sarnaik AA, Cruse CW, Khushalani NI, De Aquino DB, Abraham E, Acevedo DM, Richards A, Schell MJ, Kalos D, Chen PL, Messina JL, Canton DA, Sondak VK. Neoadjuvant Intratumoral Plasmid IL-12 Electro-Gene-Transfer and Nivolumab in Patients with Operable, Locoregionally Advanced Melanoma. Clin Cancer Res",
+      "pubmed_id": "39417680",
+      "pmc_id": "PMC11611651",
+      "year": "2024",
+      "journal": "30(23):5333-5341",
+      "authors": ""
+    },
+    {
+      "title": "Al-Toubah T, Schell MJ, Morse B, Haider M, Valone T, Strosberg J. Phase II study of pembrolizumab and lenvatinib in advanced well-differentiated neuroendocrine tumors. ESMO Open",
+      "pubmed_id": "38507897",
+      "pmc_id": "PMC10966166",
+      "year": "2024",
+      "journal": "9(4):102386",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Clinical Validation of APC and TP53 as Biomarkers for Cetuximab Response  \nAward Number: 4UH3CA227955-02  \nSponsor: National Cancer Institute (NCI)  \nSchell, M. (PD/PI)",
+      "source": "NCI",
+      "period": "7955-02"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SchellMichael_3509.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3509"
+  },
+  "content_hash": "4d35eee284e02e9f7382c382c77a95e431ebdb7a70e26706e872d0b14c703b8f"
+}

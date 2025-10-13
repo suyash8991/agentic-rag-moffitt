@@ -1,0 +1,129 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ariosto-silva",
+  "last_updated": "2025-10-13T21:41:09.434311",
+  "researcher_id": "4634",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Metabolism and Physiology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "My focus is in the evolutioanry dynamics and molecular mechanisms driving progression and therapy resistance in cancer, more specifically multiple myeloma.",
+  "research_interests": [
+    "Evolution of tumor invasiveness and adaptive tumor microenvironment particularly in multiple myeloma; cancer metabolism\n  *"
+  ],
+  "associations": [
+    "Metabolism and Physiology",
+    "Pentecost Family Myeloma Research Center",
+    "Cancer Biology & Evolution Program",
+    "Cancer Imaging & Technology Center of Excellence",
+    "Experimental Therapeutics Program",
+    "Center of Excellence for Evolutionary Therapy"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Universidade Estadual Campinas- Unicamp, Brazil, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Moffitt Cancer Center",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC. Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma. Haematologica",
+      "pubmed_id": "39633543",
+      "pmc_id": "PMC12130774",
+      "year": "2025",
+      "journal": "110(6):1351-1367",
+      "authors": ""
+    },
+    {
+      "title": "Persi E, Sudalagunta PR, Wolf YI, Canevarolo RR, Damaghi M, Shain KH, Silva AS, Koonin EV. Genome-level selection in tumors as a universal marker of resistance to therapy. Nat Commun",
+      "pubmed_id": "40664650",
+      "pmc_id": "PMC12263839",
+      "year": "2025",
+      "journal": "16(1):6535",
+      "authors": ""
+    },
+    {
+      "title": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH. The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma. Cancer Res",
+      "pubmed_id": "39476082",
+      "pmc_id": "PMC11733535",
+      "year": "2025",
+      "journal": "85(2):378-398",
+      "authors": ""
+    },
+    {
+      "title": "Tauro M, Li T, Sudalagunta PR, Meads M, Canevarolo RR, Nerlakanti N, Alugubelli RR, Lawrence HR, Gunawan S, Ayaz M, Nareddy P, Yun SY, Shay G, Yang K, Tran TH, Bishop RT, Nasr MM, Lawrence NNJ, Sch\u00f6nbrunn E, Cleveland JL, Silva AS, Shain KH, Lynch CC. Unc-51 Like Kinase 3 (ULK3) is essential for autophagy and cell survival in multiple myeloma. Res Sq",
+      "pubmed_id": "40831505",
+      "pmc_id": "PMC12363935",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL. Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes. Blood",
+      "pubmed_id": "39652773",
+      "year": "2025",
+      "journal": "145(15):1645-1657",
+      "authors": ""
+    },
+    {
+      "title": "Renatino Canevarolo R, Sudalagunta PR, Meads MB, Silva M, Zhao X, Magaletti D, Alugubelli RR, DeAvila G, Persi E, Maura F, Bell ET, Bishop RT, Cubitt CL, Sansil SS, Zhang W, Teer JK, Teng M, Yoder SJ, Siegel EM, Shah BD, Nishihori T, Hazlehurst LA, Lynch CC, Landgren O, Hampton O, Gatenby RA, Sullivan DM, Brayer JB, Dalton WS, Cleveland JL, Alsina M, Baz R, Shain KH, Silva AS. Epigenetic Plasticity Drives Carcinogenesis and Multi-Therapy Resistance in Multiple Myeloma. Res Sq",
+      "pubmed_id": "40321765",
+      "pmc_id": "PMC12048002",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Bishop RT, Miller AK, Froid M, Nerlakanti N, Li T, Frieling JS, Nasr MM, Nyman KJ, Sudalagunta PR, Canevarolo RR, Silva AS, Shain KH, Lynch CC, Basanta D. The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease. Nat Commun",
+      "pubmed_id": "38503736",
+      "pmc_id": "PMC10951361",
+      "year": "2024",
+      "journal": "15(1):2458",
+      "authors": ""
+    },
+    {
+      "title": "Li L, Hu X, Nkwocha J, Kmieciak M, Meads MB, Shain KH, Alugubelli RR, Silva AS, Mann H, Sudalagunta PR, Canevarolo RR, Zhou L, Grant S. Combined MEK1/2 and ATR inhibition promotes myeloma cell death through a STAT3-dependent mechanism in vitro and in vivo. Brit J Haematol",
+      "pubmed_id": "39379134",
+      "pmc_id": "PMC11650795",
+      "year": "2024",
+      "journal": "205(6):2338-2348",
+      "authors": ""
+    },
+    {
+      "title": "Maura F, Rajanna AR, Ziccheddu B, Poos AM, Derkach A, Maclachlan K, Durante M, Diamond B, Papadimitriou M, Davies F, Boyle EM, Walker B, Hultcrantz M, Silva A, Hampton O, Teer JK, Siegel EM, Bolli N, Jackson GH, Kaiser M, Pawlyn C, Cook G, Kazandjian D, Stein C, Chesi M, Bergsagel L, Mai EK, Goldschmidt H, Weisel KC, Fenk R, Raab MS, Van Rhee F, Usmani S, Shain KH, Weinhold N, Morgan G, Landgren O. Genomic Classification and Individualized Prognosis in Multiple Myeloma. J Clin Oncol",
+      "pubmed_id": "38194610",
+      "pmc_id": "PMC11095887",
+      "year": "2024",
+      "journal": "42(11):1229-1240",
+      "authors": ""
+    },
+    {
+      "title": "Tantawy M, Yang G, Algubelli RR, DeAvila G, Rubinstein SM, Cornell RF, Fradley MG, Siegel EM, Hampton OA, Silva AS, Lenihan D, Shain KH, Baz RC, Gong Y. Whole-Exome sequencing analysis identified TMSB10/TRABD2A locus to be associated with carfilzomib-related cardiotoxicity among patients with multiple myeloma. Front Cardiovasc Med",
+      "pubmed_id": "37408649",
+      "pmc_id": "PMC10319068",
+      "year": "2023",
+      "journal": "10:1181806",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: The effects of Selinexor on the MM and the immune effector cells in the context of T cell engagement  \nAward Number:   \nSponsor: KARYOPHARM THERAPEUTICS  \nShain, K. (PD/PI), Silva, A. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Ecology and Evolution of Breast Carcinogenesis  \nAward Number: 7U01CA261841-03  \nSponsor: National Cancer Institute (NCI)  \nSilva, A. (PD/PI)",
+      "source": "NCI",
+      "period": "1841-03"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SilvaAriosto_4634.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4634"
+  },
+  "content_hash": "f5fe8189bbf52997034285178f07b02b8664d3c8d491c6ee6b5340a55aa71d9a"
+}

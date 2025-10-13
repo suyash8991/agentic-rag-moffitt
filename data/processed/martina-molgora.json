@@ -1,0 +1,109 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/martina-molgora",
+  "last_updated": "2025-10-13T21:48:06.098301",
+  "researcher_id": "39484",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Immunology",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "My main interest is the orchestration of the innate immune response in tumors, with a focus on myeloid cells as key players in immune evasion. I aim to investigate the role of innate immune cells in both resistance and response to therapy, elucidating their intricate interactions within the tumor microenvironment. My ultimate goal is to identify novel therapeutic targets and strategies to enhance treatment efficacy.",
+  "research_interests": [
+    "Identity and function of TREM2 macrophages in tumors: During my postdoctoral research, I identified TREM2 as a marker of immunosuppressive macrophages in tumors. I found that TREM2 blockade promotes tumor control and response to therapy and is associated with a beneficial immune response. I now aim at understanding the mechanism and pathways by which TREM2 macrophages develop and accumulate in tumors, with the goal to identify strategies to prevent their expansion and therefore favor the anti-tumor immune response. Impact of soluble TREM2 in cancer: TREM2 is a transmembrane receptor highly expressed in tumor-associated macrophages. TREM2 can be cleaved and released as a soluble form, named soluble TREM2. The impact of soluble TREM2 in cancer is currently unknown. I aim at understanding the potential role of soluble TREM2 as a diagnostic, prognostic and therapeutic factor in different tumor types. I also aim at exploring the mechanisms by which soluble TREM2 might influence the tumor microenvironment. Influence of gut-trafficking cells on systemic immunity and distant-site tumors: Numerous studies have reported the impact of the gut environment on different conditions, although the underlying molecular mechanism still needs to be fully elucidated and multiple questions remain open regarding the interaction between the gut and immune responses at distant sites. Gut-resident cells can sense local signals from both microbes and other cells and represent a potential intermediary element between the gut and distant site organs. My goal is to explore the impact of gut-trafficking cells in tumors and in different physiological and pathological scenarios. \n  *"
+  ],
+  "associations": [
+    "Immunology",
+    "Gastrointestinal Oncology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Molgora M, Colonna M. Targeting brain macrophages: NF-\u03baB as a therapeutic gateway in melanoma brain metastasis. Cancer Cell",
+      "pubmed_id": "40068588",
+      "year": "2025",
+      "journal": "43(3):328-329",
+      "authors": ""
+    },
+    {
+      "title": "Biniaris-Georgallis SI, Aschman T, Stergioula K, Schreiber F, Jafari V, Taranko A, Karmalkar T, Kasapi A, Lenac Rovis T, Jelencic V, Bejarano DA, Fabry L, Papacharalampous M, Mattiola I, Molgora M, Hou J, Hublitz KW, Heinrich F, Guerra GM, Durek P, Patone G, Lindberg EL, Maatz H, H\u00f6lsken O, Kr\u00f6nke G, Mortha A, Voll RE, Clarke AJ, Hauser AE, Colonna M, Thurley K, Schlitzer A, Schneider C, Stamatiades EG, Mashreghi MF, Jonjic S, H\u00fcbner N, Diefenbach A, Kanda M, Triantafyllopoulou A. Amplification of autoimmune organ damage by NKp46-activated ILC1s. Nature",
+      "pubmed_id": "39137897",
+      "year": "2024",
+      "journal": "634(8035):952-960",
+      "authors": ""
+    },
+    {
+      "title": "Keshari S, Shavkunov AS, Miao Q, Saha A, Minowa T, Molgora M, Williams CD, Chaib M, Highsmith AM, Pineda JE, Alekseev S, Alspach E, Hu KH, Colonna M, Pauken KE, Chen K, Gubin MM. Comparing neoantigen cancer vaccines and immune checkpoint therapy unveils an effective vaccine and anti-TREM2 macrophage-targeting dual therapy. Cell Rep",
+      "pubmed_id": "39446585",
+      "year": "2024",
+      "journal": "43(11):114875",
+      "authors": ""
+    },
+    {
+      "title": "Di Luccia B, Molgora M, Khantakova D, Jaeger N, Chang HW, Czepielewski RS, Helmink BA, Onufer EJ, Fachi JL, Bhattarai B, Trsan T, Rodrigues PF, Hou J, Bando JK, da Silva CS, Cella M, Gilfillan S, Schreiber RD, Gordon JI, Colonna M. TREM2 deficiency reprograms intestinal macrophages and microbiota to enhance anti-PD-1 tumor immunotherapy. Sci Immunol",
+      "pubmed_id": "38758808",
+      "pmc_id": "PMC11299520",
+      "year": "2024",
+      "journal": "9(95):eadi5374",
+      "authors": ""
+    },
+    {
+      "title": "Peng V, Trsan T, Sudan R, Bhattarai B, Cortez VS, Molgora M, Vacher J, Colonna M. Inositol phosphatase INPP4B sustains ILC1s and intratumoral NK cells through an AKT-driven pathway. J Exp Med",
+      "pubmed_id": "38197946",
+      "pmc_id": "PMC10783437",
+      "year": "2024",
+      "journal": "221(3)",
+      "authors": ""
+    },
+    {
+      "title": "Timperi E, Croizer H, Khantakova D, Rana M, Molgora M, Guerriero JL, Mechta-Grigoriou F, Romano E. At the Interface of Tumor-Associated Macrophages and Fibroblasts: Immune-Suppressive Networks and Emerging Exploitable Targets. Clin Cancer Res",
+      "pubmed_id": "39311702",
+      "year": "2024",
+      "journal": "30(23):5242-5251",
+      "authors": ""
+    },
+    {
+      "title": "Park MD, Reyes-Torres I, LeBerichel J, Hamon P, LaMarche NM, Hegde S, Belabed M, Troncoso L, Grout JA, Magen A, Humblin E, Nair A, Molgora M, Hou J, Newman JH, Farkas AM, Leader AM, Dawson T, D'Souza D, Hamel S, Sanchez-Paulete AR, Maier B, Bhardwaj N, Martin JC, Kamphorst AO, Kenigsberg E, Casanova-Acebes M, Horowitz A, Brown BD, De Andrade LF, Colonna M, Marron TU, Merad M. TREM2 macrophages drive NK cell paucity and dysfunction in lung cancer. Nat Immunol",
+      "pubmed_id": "37081148",
+      "pmc_id": "PMC11088947",
+      "year": "2023",
+      "journal": "24(5):792-801",
+      "authors": ""
+    },
+    {
+      "title": "Molgora M, Liu YA, Colonna M, Cella M. TREM2: A new player in the tumor microenvironment. Semin Immunol",
+      "pubmed_id": "36989543",
+      "year": "2023",
+      "journal": "67:101739",
+      "authors": ""
+    },
+    {
+      "title": "Brioschi S, Belk JA, Peng V, Molgora M, Rodrigues PF, Nguyen KM, Wang S, Du S, Wang WL, Grajales-Reyes GE, Ponce JM, Yuede CM, Li Q, Baer JM, DeNardo DG, Gilfillan S, Cella M, Satpathy AT, Colonna M. A Cre-deleter specific for embryo-derived brain macrophages reveals distinct features of microglia and border macrophages. Immunity",
+      "pubmed_id": "36791722",
+      "pmc_id": "PMC10175109",
+      "year": "2023",
+      "journal": "56(5):1027-1045",
+      "authors": ""
+    },
+    {
+      "title": "Timperi E, Gueguen P, Molgora M, Magagna I, Kieffer Y, Lopez-Lastra S, Sirven P, Baudrin LG, Baulande S, Nicolas A, Champenois G, Meseure D, Vincent-Salomon A, Tardivon A, Laas E, Soumelis V, Colonna M, Mechta-Grigoriou F, Amigorena S, Romano E. Lipid-Associated Macrophages Are Induced by Cancer-Associated Fibroblasts and Mediate Immune Suppression in Breast Cancer. Cancer Res",
+      "pubmed_id": "35862581",
+      "year": "2022",
+      "journal": "82(18):3291-3306",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: IMPACT OF TREM2 ON GASTRIC CANCER  \nAward Number: AGA2023-13-06  \nSponsor: American Gastroenterological Association (AGA)  \nMolgora, M. (PD/PI)",
+      "period": "2023-13"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MolgoraMartina_39484.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=39484"
+  },
+  "content_hash": "dc5fb293446bce61b239499cf855c1b074874b74508f901eec14070a1898e312"
+}

@@ -1,0 +1,157 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/issam-el-naqa",
+  "last_updated": "2025-10-13T21:41:57.355333",
+  "researcher_id": "27669",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Machine Learning",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Senior Member Imaging analytics, bioinformatics, and outcoming modelings. Dr. El Naqa is the founding chair of the department of Machine Learning at Moffitt Cancer Center, Tampa, Fl. He is an internationally recognized authority in the fields of machine learning, data analytics, and oncology outcomes modeling and has published extensively in these areas with more than 220+ peer-reviewed journal publications and 4 edited textbooks. He has been a member and fellow of several academic and professional societies including AAPM and IEEE. His research has been funded by several federal and private grants in Canada and the USA and served on national and international study sections. He acts as a peer-reviewer and editorial board member for several leading international journals in his areas of expertise.",
+  "research_interests": [
+    "Bioinformatics and outcome modeling: design and develop large-scale datamining machine/deep learning methods and software tools to identify robust biomarkers of radiotherapy treatment outcomes from clinical and preclinical data using complex systems analysis and machine learning approaches (radiogenomics). Multimodality image-guided targeting and adaptive radiotherapy: design and develop hardware tools and software algorithms for multimodality image analysis and understanding, feature extraction for outcome prediction (radiomics), real-time treatment optimization and targeting. Clinical decision support: develop and design methods and tools for reinforcement machine learning and optimization of decision making for radiotherapy. Medical physics radiation measurement: design and develop new technologies for radiation using optical and acoustics techniques to interrogate radiation response in real time for online targeting and adaptation. Radiobiology: design and develop predictive models of tumor and normal tissue response to radiotherapy (radiogenomics). Investigate the application of these methods to develop therapeutic interventions for protection of normal tissue toxicities. \n  *"
+  ],
+  "associations": [
+    "Gastrointestinal Oncology",
+    "Machine Learning",
+    "Radiation Oncology",
+    "Diagnostic Imaging and Interventional Radiology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Illinois Institute of Technology, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Jordan, Amman, Jordan, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Washington University in St. Louis, MA"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Gonzalez BD, Li X, Gudenkauf LM, Pullukkara JJ, Oswald LB, Hoogland AI, Le T, El Naqa I, Saltos AN, Haura EB, Luo Y. Using Bayesian Networks to Predict Urgent Care Visits in Patients Receiving Systemic Therapy for Non-Small Cell Lung Cancer. JCO Clin Cancer Inform",
+      "pubmed_id": "40939115",
+      "pmc_id": "PMC12483286",
+      "year": "2025",
+      "journal": "9:e2400315",
+      "authors": ""
+    },
+    {
+      "title": "Abdelrahman A, El Naqa I. The Role of PET Image Quantification in Modern Radiation Therapy. PET Clin",
+      "pubmed_id": "40816963",
+      "year": "2025",
+      "journal": "20(4):525-534",
+      "authors": ""
+    },
+    {
+      "title": "Matrosic CK, Andrzejewski P, Bergman A, Chng N, Naqa IE, Freislederer P, Hoffmann L, Hope A, Jacqmin D, Kelly C, Kuo L, Lin H, Mayo C, Murrell DH, \u00d6d\u00e9n J, Svensson S, Thompson S, Osorio EV, West N, Wicha R, Yorke E, Appelt AL, Paradis KC. Software Support Tools for Reirradiation: A Report From Reirradiation Collaborative Group (ReCOG) 2024. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "40240108",
+      "year": "2025",
+      "journal": "122(1):181-185",
+      "authors": ""
+    },
+    {
+      "title": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y. Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data. JNCI Cancer Spectr",
+      "pubmed_id": "40111867",
+      "pmc_id": "PMC11986816",
+      "year": "2025",
+      "journal": "9(2)",
+      "authors": ""
+    },
+    {
+      "title": "El Naqa I, Pilon-Thomas S, Deutsch E. Editorial: Artificial intelligence for cancer immunotherapy. Front Immunol",
+      "pubmed_id": "40568575",
+      "pmc_id": "PMC12187814",
+      "year": "2025",
+      "journal": "16:1633422",
+      "authors": ""
+    },
+    {
+      "title": "Sharma M, Naqa IE, Sneed PK. Does Time to Retreatment Matter? A Normal Tissue Complication Probability Model to Predict Radionecrosis After Repeat Stereotactic Radiosurgery for Recurrent Brain Metastases Incorporating Time-dependent Discounted Dose. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "39900228",
+      "year": "2025",
+      "journal": "122(2):467-475",
+      "authors": ""
+    },
+    {
+      "title": "Veith T, Beck R, Tagal V, Li T, Alahmari S, Cole J, Hannaby D, Kyei J, Yu X, Maksin K, Schultz A, Lee H, El Naqa I, Eschrich S, Ji HP, Diaz A, Andor N. CLONEID: A Framework for Longitudinal Integration of Phenotypic and Genotypic Data to Monitor and Steer Subclonal Dynamics. bioRxiv",
+      "pubmed_id": "40631300",
+      "pmc_id": "PMC12236826",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "El Naqa I. The Biophysics of Flash Radiotherapy: Tools for Measuring Tumor and Normal Tissues Microenvironment. Antioxidants (Basel)",
+      "pubmed_id": "40867798",
+      "pmc_id": "PMC12383113",
+      "year": "2025",
+      "journal": "14(8)",
+      "authors": ""
+    },
+    {
+      "title": "Keall PJ, El Naqa I, Fast MF, Hewson EA, Hindley N, Poulsen P, Sengupta C, Tyagi N, Waddington DEJ. Real-Time Dose-Guided Radiation Therapy. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "40327027",
+      "year": "2025",
+      "journal": "122(4):787-801",
+      "authors": ""
+    },
+    {
+      "title": "Song WY, Roumeliotis M, Lee J, Fenster A, Rodgers J, Trumpour T, Glicksman R, Berlin A, Carlsson Tedgren \u00c5, Vijande J, Beaulieu L, Mor\u00e9n B, Meyers SM, Rink A, Gao Y, Fahimian B, China D, Ding K, Podder T, Carver E, Rivard MJ, Richardson S, Grkovski M, Meftahi M, Gardner U, Kumar R, Scanderbeg D, Yashar C, El Naqa I, Viswanathan AN, Jia X. Roadmap: medical physics technologies in brachytherapy. Phys Med Biol",
+      "pubmed_id": "40480262",
+      "year": "2025",
+      "journal": "70(14)",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Use Machine Learning to Identify Novel Image-Based Markers That Can Distinguish Between ICUS, CCUS, and MDS and Aid in the Prediction of Disease Evolution, Survival, and Genetic Evolution in Patients with Pre-MDS Condition and MDS  \nAward Number:   \nSponsor: THE EDWARD P. EVANS FOUNDATION  \nEl N. (PD/PI), Komrokji, R. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Optimal Decision Making in Radiotherapy Using Panomics Analytics  \nAward Number: 5R01CA233487-06  \nSponsor: National Cancer Institute (NCI)  \nEl N. (PD/PI)",
+      "source": "NCI",
+      "period": "3487-06"
+    },
+    {
+      "description": "Title: Federated Learning for Optimal Decision Making in Radiotherapy Using Panomics Analytics  \nAward Number: 3R01CA233487-05S1  \nSponsor: National Cancer Institute (NCI)  \nEl N. (PD/PI)",
+      "source": "NCI",
+      "period": "3487-05"
+    },
+    {
+      "description": "Title: An Ionizing Radiation Acoustics Imaging (iRAI) Approach for Guided Flash Radiotherapy  \nAward Number: 5R01CA266803  \nSponsor: National Cancer Institute (NCI)  \nEl N. (PD/PI)",
+      "source": "NCI"
+    },
+    {
+      "description": "Title: Combined Radiation Acoustics and Ultrasound Imaging for Real-Time Guidance in Radiotherapy  \nAward Number: 5R37CA222215-07  \nSponsor: National Cancer Institute (NCI)  \nEl N. (PD/PI)",
+      "source": "NCI",
+      "period": "2215-07"
+    },
+    {
+      "description": "Title: Data Science to Improve Treatment Planning for Advanced Prostate Cancer Patients Treated with Radiotherapy  \nAward Number: W81XWH-22-1-0277  \nSponsor: Department of Defense (DOD)  \nEl N. (PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": "Title: Medical Imaging and Data Resource Center (MIDRC) for Rapid Response to COVID-19 Pandemic  \nAward Number: Federal Contract75N92020D00021/75N92023F00001  \nSponsor: National Cancer Institute (NCI)  \nEl N. (PD/PI)",
+      "source": "NCI"
+    },
+    {
+      "description": "Title: Data Science to Improve Treatment Planning for Bladder Cancer Patients Treated with Radiotherapy  \nAward Number: MOABA Grant Amendment 1  \nSponsor: Florida Department of Health  \nJim, H. (PD/PI), El N. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Development of a FLASH Dosimetry System Based on Ionizing Radiation Acoustic Imaging  \nAward Number: 75N91024C00095  \nSponsor: National Institutes of Health (NIH)  \nOraiqat, I. (PD/PI), El N. (Co-PD/PI)",
+      "source": "NIH"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ElNaqaIssam_27669.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27669"
+  },
+  "content_hash": "5bf2db02b4e9444c1b813221c5bcca7268ce0cc2aff5b50454678b5704afa5a4"
+}

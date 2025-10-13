@@ -1,0 +1,119 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jeremy-goecks",
+  "last_updated": "2025-10-13T21:45:41.450651",
+  "researcher_id": "unknown",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Cancer data science, Machine learning for biomedicine, Computational infrastructure for biomedicine, precision medicine, spatial and multimodal tumor biology.",
+  "research_interests": [
+    "My research interests lie at the intersection of biomedical data science, high-performance computing, and precision oncology. I have two active areas of research: Software Tools for Biomedicine: I build software tools for cancer and biomedical data science, including individual analysis packages, machine learning applications, interactive visualizations, and software platforms/infrastructure. I am a lead investigator for the Galaxy computational workbench (https://galaxyproject.org/), which is used by thousands of scientists across the world. Precision Cancer Medicine: I apply computational tools and software platforms to identify biomarkers associated with cancer susceptibility, progression, and response to therapy. Recently I have led the creation and analysis of multimodal, spatial, and single-cell molecular tumor atlases to identify tumor adaptations to therapy and potential approaches to mitigate these adaptations.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Machine Learning",
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Kirchgaessner R, Watson C, Creason A, Keutler K, Goecks J. Imputing single-cell protein abundance in multiplex tissue imaging. Nat Commun",
+      "pubmed_id": "40404617",
+      "pmc_id": "PMC12098973",
+      "year": "2025",
+      "journal": "16(1):4747",
+      "authors": ""
+    },
+    {
+      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "pubmed_id": "40799741",
+      "pmc_id": "PMC12340904",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Noller K, Botsis T, Camara PG, Ciotti L, Cooper LA, Goecks J, Griffith M, Haas BJ, Ideker T, Karchin R, Kontos D, Lai J, Marcus D, Meyer CA, Naegle K, Pati S, Peters B, Pratt D, Raphael BJ, Reich M, Savova GK, Wright C, Fertig EJ, Bakas S. Informatics at the Frontier of Cancer Research. Cancer Res",
+      "pubmed_id": "40600473",
+      "pmc_id": "PMC12355178",
+      "year": "2025",
+      "journal": "85(16):2967-2986",
+      "authors": ""
+    },
+    {
+      "title": "Blise KE, Sivagnanam S, Betts CB, Betre K, Kirchberger N, Tate BJ, Furth EE, Dias Costa A, Nowak JA, Wolpin BM, Vonderheide RH, Goecks J, Coussens LM, Byrne KT. Machine Learning Links T-cell Function and Spatial Localization to Neoadjuvant Immunotherapy and Clinical Outcome in Pancreatic Cancer. Cancer Immunol Res",
+      "pubmed_id": "38381401",
+      "pmc_id": "PMC11065586",
+      "year": "2024",
+      "journal": "12(5):544-558",
+      "authors": ""
+    },
+    {
+      "title": "Karlberg B, Kirchgaessner R, Lee J, Peterkort M, Beckman L, Goecks J, Ellrott K. SyntheVAEiser: augmenting traditional machine learning methods with VAE-based gene expression sample generation for improved cancer subtype predictions. Genome Biol",
+      "pubmed_id": "39696541",
+      "pmc_id": "PMC11658131",
+      "year": "2024",
+      "journal": "25(1):309",
+      "authors": ""
+    },
+    {
+      "title": "Blise KE, Sivagnanam S, Betts CB, Betre K, Kirchberger N, Tate B, Furth EE, Dias Costa A, Nowak JA, Wolpin BM, Vonderheide RH, Goecks J, Coussens LM, Byrne KT. Machine learning links T cell function and spatial localization to neoadjuvant immunotherapy and clinical outcome in pancreatic cancer. bioRxiv",
+      "pubmed_id": "37961410",
+      "pmc_id": "PMC10634700",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "Kirchgaessner R, Watson C, Creason A, Keutler K, Goecks J. Imputing Single-Cell Protein Abundance in Multiplex Tissue Imaging. bioRxiv",
+      "pubmed_id": "38106203",
+      "pmc_id": "PMC10723289",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "Schapiro D, Sokolov A, Yapp C, Chen YA, Muhlich JL, Hess J, Creason AL, Nirmal AJ, Baker GJ, Nariya MK, Lin JR, Maliga Z, Jacobson CA, Hodgman MW, Ruokonen J, Farhi SL, Abbondanza D, McKinley ET, Persson D, Betts C, Sivagnanam S, Regev A, Goecks J, Coffey RJ, Coussens LM, Santagata S, Sorger PK. MCMICRO: a scalable, modular image-processing pipeline for multiplexed tissue imaging. Nat Methods",
+      "pubmed_id": "34824477",
+      "pmc_id": "PMC8916956",
+      "year": "2022",
+      "journal": "19(3):311-315",
+      "authors": ""
+    },
+    {
+      "title": "Schatz MC, Philippakis AA, Afgan E, Banks E, Carey VJ, Carroll RJ, Culotti A, Ellrott K, Goecks J, Grossman RL, Hall IM, Hansen KD, Lawson J, Leek JT, Luria AO, Mosher S, Morgan M, Nekrutenko A, O'Connor BD, Osborn K, Paten B, Patterson C, Tan FJ, Taylor CO, Vessio J, Waldron L, Wang T, Wuichet K. Inverting the model of genomics data sharing with the NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space. Cell Genom",
+      "pubmed_id": "35199087",
+      "pmc_id": "PMC8863334",
+      "year": "2022",
+      "journal": "2(1)",
+      "authors": ""
+    },
+    {
+      "title": "Blise KE, Sivagnanam S, Banik GL, Coussens LM, Goecks J. Single-cell spatial architectures associated with clinical outcome in head and neck squamous cell carcinoma. NPJ Precis Oncol",
+      "pubmed_id": "35217711",
+      "pmc_id": "PMC8881577",
+      "year": "2022",
+      "journal": "6(1):10",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Developing a Cancer Galaxy Computational Workbench to Meet Emerging Cancer Data Analysis Needs  \nAward Number: 5U24CA284167-02  \nSponsor: National Cancer Institute (NCI)  \nGoecks, J. (PD/PI)",
+      "source": "NCI",
+      "period": "4167-02"
+    },
+    {
+      "description": "Title: Expanding the Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL)  \nAward Number: 5U24HG010263  \nSponsor: National Cancer Institute (NCI)  \nGoecks, J. (PD/PI)",
+      "source": "NCI"
+    },
+    {
+      "description": "Title: Democratization of Data Analysis in Life Sciences Through Galaxy  \nAward Number: 2U24HG006620  \nSponsor: National Institutes of Health (NIH)  \nGoecks, J. (PD/PI)",
+      "source": "NIH"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GoecksJeremy_36665.jpg",
+  "contact": {},
+  "content_hash": "617c017a29947c1481735959b6694805651c71869132897a8efc3bea7ff4a119"
+}

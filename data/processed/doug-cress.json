@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/doug-cress",
+  "last_updated": "2025-10-13T21:42:17.645521",
+  "researcher_id": "501",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Molecular Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Lung malignancies are the leading cancer killer. Research in the Cress laboratory seeks 1) to understand genetic and metabolic alterations that drive lung cancer, and 2) to develop novel therapeutics and therapeutic biomarkers based on this understanding.",
+  "research_interests": [
+    "Research in the Cress laboratory addresses translational genetics of lung cancer; including genetic and metabolic alterations that drive lung cancer, the response of lung cancer to therapy and the development of biomarkers to guide therapeutic choices in lung cancer. Current projects focus specifically on the molecular biology of EGFR and STK11 mutations with an interest in the role that altered metabolism plays in tumor progression and immune evasion. As the co-Director of the Puerto Rico Biobank, Dr. Cress also has an emerging interest in the role that race, ethnicity, ancestry and genetics play in the molecular biology of lung cancer. \n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "Thoracic Oncology",
+    "Lung Cancer Center of Excellence",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Michigan State University, East Lansing, Michigan, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Duke University Medical Center, Durham, North Carolina",
+      "specialty": "Molecular Genetics"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL. Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles. Cancer Res",
+      "pubmed_id": "40126181",
+      "pmc_id": "PMC12234169",
+      "year": "2025",
+      "journal": "85(10):1928-1944",
+      "authors": ""
+    },
+    {
+      "title": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD. Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida. Cancer Res Commun",
+      "pubmed_id": "40309949",
+      "pmc_id": "PMC12082392",
+      "year": "2025",
+      "journal": "5(5):804-813",
+      "authors": ""
+    },
+    {
+      "title": "Garc\u00eda-Irizarry KD, Rojas-Brenes ME, Oliveras-Torres JA, Ortiz-Ortiz CN, Cress WD, Gordi\u00e1n E, Mart\u00ednez RG, Quintana-Gonz\u00e1lez FJ, Escobar-Rodr\u00edguez PF, Mu\u00f1oz-Antonia T, Flores I. Profiling Sociodemographic Risk Factors and Clinical Outcomes of Women with Endometrial Cancer in Puerto Rico: The Central Role of Obesity and Obstetric Features. J Racial Ethn Health Disparities",
+      "pubmed_id": "39833653",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Schmit SL, Loro\u00f1a NC, Sobieski D, Matejcic M, Nguyen NT, Hoehn HJ, Diaz DB, Shankar K, Cockman EM, Jean-Baptiste E, Tsai YY, Buchalter RB, Brito K, Wilson R, Coppola D, Fulmer C, Saglam O, Tassielli AF, Beato F, Dai R, Freedman JA, Purrington K, Hu B, Mcgrail D, Gibson H, Jiang K, Mu\u00f1oz-Antonia T, Flores I, Gordian E, Oliveras Torres JA, Cheng I, Van Blarigan EL, Felder SI, Sanchez JA, Fleming JB, Siegel EM, Cress D, Thompson P, Stern MC, Teer JK, Figueiredo JC. Building research infrastructure to advance precision medicine in colorectal cancer. JNCI Cancer Spectr",
+      "pubmed_id": "40111849",
+      "pmc_id": "PMC12140009",
+      "year": "2025",
+      "journal": "9(3)",
+      "authors": ""
+    },
+    {
+      "title": "Lantz AE, Gebert R, Li J, Oliveras JA, Gordi\u00e1n ER, Perez-Morales J, Eschrich S, Chen DT, Rosa M, Dutil J, Saavedra HI, Mu\u00f1oz-Antonia T, Flores I, Cress WD. Worse Clinical and Survival Outcomes in Breast Cancer Patients Living in Puerto Rico Compared to Hispanics, Non-Hispanic Blacks, and Non-Hispanic Whites from Florida. J Racial Ethn Health Disparities",
+      "pubmed_id": "39543072",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Alhaddad H, Ospina OE, Khaled ML, Ren Y, Vallebuona E, Boozo MB, Forsyth PA, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I. Spatial transcriptomics analysis identifies a tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease. Cell Rep Med",
+      "pubmed_id": "38866016",
+      "pmc_id": "PMC11228800",
+      "year": "2024",
+      "journal": "5(6):101606",
+      "authors": ""
+    },
+    {
+      "title": "Lockhart JH, Ackerman HD, Lee K, Abdalah M, Davis AJ, Hackel N, Boyle TA, Saller J, Keske A, H\u00e4nggi K, Ruffell B, Stringfield O, Cress WD, Tan AC, Flores ER. Grading of lung adenocarcinomas with simultaneous segmentation by artificial intelligence (GLASS-AI). NPJ Precis Oncol",
+      "pubmed_id": "37464050",
+      "pmc_id": "PMC10354042",
+      "year": "2023",
+      "journal": "7(1):68",
+      "authors": ""
+    },
+    {
+      "title": "Alhaddad H, Ospina OE, Khaled ML, Ren Y, Forsyth P, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I. Spatial transcriptomics analysis identifies a unique tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease. bioRxiv",
+      "pubmed_id": "38187574",
+      "pmc_id": "PMC10769278",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "Trinh T, Adams WA, Calescibetta A, Tu N, Dalton R, So T, Wei M, Ward G, Kostenko E, Christiansen S, Cen L, McLemore A, Reed K, Whiting J, Gilvary D, Blanco NL, Segura CM, Nguyen J, Kandell W, Chen X, Cheng P, Wright GM, Cress WD, Liu J, Wright KL, Wei S, Eksioglu EA. CX3CR1 deficiency-induced TIL tumor restriction as a novel addition for CAR-T design in solid malignancies. iScience",
+      "pubmed_id": "37070068",
+      "pmc_id": "PMC10105289",
+      "year": "2023",
+      "journal": "26(4):106443",
+      "authors": ""
+    },
+    {
+      "title": "Gordian E, Welsh EA, Gimbrone N, Siegel EM, Shibata D, Creelan BC, Cress WD, Eschrich SA, Haura EB, Mu\u00f1oz-Antonia T. Correction: Transforming growth factor \u03b2-induced epithelial-to-mesenchymal signature predicts metastasis-free survival in non-small cell lung cancer. Oncotarget",
+      "pubmed_id": "34194632",
+      "pmc_id": "PMC8238243",
+      "year": "2021",
+      "journal": "12(13):1325",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Molecular Drivers of Lung Cancer in Hispanics  \nAward Number: 5R21CA259215-02  \nSponsor: National Cancer Institute (NCI)  \nCress, W. (PD/PI), Teer, J. (PD/PI)",
+      "source": "NCI",
+      "period": "9215-02"
+    },
+    {
+      "description": "Title: Integrated Program in Cancer and Data Science  \nAward Number: 5T32CA233399-04  \nSponsor: National Cancer Institute (NCI)  \nCress, W. (PD/PI), Flores, E. (PD/PI), Fridley, B. (PD/PI)",
+      "source": "NCI",
+      "period": "3399-04"
+    },
+    {
+      "description": "Title: Targeting centrosomemitotic kinases as a novel therapeutic approach against breast cancers in Hispanic/Latinas  \nAward Number: 5R01CA266046-03  \nSponsor: National Cancer Institute (NCI)  \nCress, W. (PD/PI)",
+      "source": "NCI",
+      "period": "6046-03"
+    },
+    {
+      "description": "Title: Understanding the mechanisms by which STK11 loss in lung cancer leads to immune invasion  \nAward Number: 23K02  \nSponsor: Florida Department of Health  \nCress, W. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/CressDoug_501.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=501"
+  },
+  "content_hash": "51745470cc65d01d01922aba45013ece047477a01426eac2c8fa003b821013fe"
+}

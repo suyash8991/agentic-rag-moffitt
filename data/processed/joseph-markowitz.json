@@ -1,0 +1,148 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/joseph-markowitz",
+  "last_updated": "2025-10-13T21:48:03.438071",
+  "researcher_id": "15867",
+  "name": "",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Cutaneous Oncology",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "The lab\u2019s research focuses on the role of nitric oxide in the development of melanoma and its ability to facilitate resistance to melanoma treatments such as checkpoint blockade. Additionally, we are developing tools to predict which patients are likely to fail immune-based therapy via novel high-dimensional flow cytometric, mass spectrometric, and informatic techniques, allowing those patients to be treated with other, potentially more effective, therapies.",
+  "research_interests": [
+    "Dr. Markowitz's research interest is in studying immune suppressor cells, their role in the development of melanoma, and means of inhibiting their actions. He is a translational researcher striving to translate the knowledge gained in the laboratory via immune-based and traditional biochemical approaches to the clinic.\n  *"
+  ],
+  "associations": [
+    "Cutaneous Oncology",
+    "Immunology",
+    "Immuno-Oncology Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Maryland Baltimore",
+      "degree": "MD",
+      "field": ", PhD"
+    },
+    {
+      "type": "Residency",
+      "institution": "The Ohio State University",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The Ohio State University",
+      "specialty": "Medical Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The Ohio State University",
+      "specialty": ""
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The Ohio State University",
+      "specialty": "Advanced Medical Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Weiss SA, Djureinovic D, Wei W, Tran T, Austin M, Markowitz J, Eroglu Z, Khushalani NI, Hegde U, Cohen J, Sznol M, Anderson G, Johnson B, Piteo C, Mahajan A, Adeniran A, Jilaveanu L, Goldberg S, Chiang V, Forsyth P, Kluger HM. Phase II Trial of Pembrolizumab in Combination With Bevacizumab for Untreated Melanoma Brain Metastases. J Clin Oncol",
+      "pubmed_id": "40048689",
+      "pmc_id": "PMC12058415",
+      "year": "2025",
+      "journal": "43(14):1685-1694",
+      "authors": ""
+    },
+    {
+      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL. spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis. Cancer Res",
+      "pubmed_id": "39636739",
+      "pmc_id": "PMC11873723",
+      "year": "2025",
+      "journal": "85(5):848-858",
+      "authors": ""
+    },
+    {
+      "title": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Khushalani NI, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A",
+      "pubmed_id": "40858972",
+      "year": "1512",
+      "journal": "Nat Med",
+      "authors": "Publisher Correction: Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S"
+    },
+    {
+      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "pubmed_id": "40799741",
+      "pmc_id": "PMC12340904",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Nikhil IK, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A",
+      "pubmed_id": "40813711",
+      "pmc_id": "PMC12419231",
+      "year": "1512",
+      "journal": "Nat Med",
+      "authors": "Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S"
+    },
+    {
+      "title": "Ramadoss T, Nichols M, Palacios C, Eroglu Z, Markowitz J, Karapetyan L, Tarhini AA, Wuthrick EJ, Sondak VK, Khushalani NI, Tsai KY, Brohl AS. Durability of response to immune checkpoint blockade following treatment discontinuation and efficacy of rechallenge in advanced Merkel cell carcinoma. J Immunother Cancer",
+      "pubmed_id": "39242118",
+      "pmc_id": "PMC11381633",
+      "year": "2024",
+      "journal": "12(9)",
+      "authors": ""
+    },
+    {
+      "title": "Tometich DB, Geiss C, Maconi ML, Chavez M, Hoogland AI, Li X, Nieves-Lopez A, Rodriguez Y, Bryant C, Brohl AS, Eroglu Z, Markowitz J, Tarhini AA, Hwu P, Khushalani NI, Jim HSL. Patient reported outcomes and patient experiences of immune checkpoint modulators for advanced or recurrent melanoma: a mixed methods study. Support Care Cancer",
+      "pubmed_id": "38709312",
+      "year": "2024",
+      "journal": "32(6):330",
+      "authors": ""
+    },
+    {
+      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai K, Markowitz J, Vallebuona E, Berglund A, Eschrich S, Yu X, Fridley BL. spatialGE: A user-friendly web application to democratize spatial transcriptomics analysis. bioRxiv",
+      "pubmed_id": "39005315",
+      "pmc_id": "PMC11244876",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Jimenez J, Dubey P, Carter B, Koomen J, Markowitz J. A metabolic perspective on nitric oxide function in melanoma. BBA. Reviews on cancer",
+      "pubmed_id": "38061664",
+      "year": "2024",
+      "journal": "1879(1):189038",
+      "authors": ""
+    },
+    {
+      "title": "Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM. Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma. Cancer",
+      "pubmed_id": "37776537",
+      "year": "2024",
+      "journal": "130(2):232-243",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Nitric Oxide Immune Dependent Resistance Mechanisms to Anti-PD-1 Therapy  \nAward Number: 5K08CA252164-03  \nSponsor: National Cancer Institute (NCI)  \nMarkowitz, J. (PD/PI)",
+      "source": "NCI",
+      "period": "2164-03"
+    },
+    {
+      "description": "Title: IFx-Hu2.0 facilitates immune responses in melanoma  \nAward Number: 23B05  \nSponsor: Florida Department of Health  \nMarkowitz, J. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MarkowitzJoseph_15867.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15867"
+  },
+  "content_hash": "d48232b5f99e03a91ef1ef4a25302b5ff3bef8f4fe942367d90f3fed40db21f3"
+}

@@ -1,0 +1,149 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/derek-duckett",
+  "last_updated": "2025-10-13T21:44:51.050799",
+  "researcher_id": "22470",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Drug Discovery",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Dr. Duckett has a wealth of experience in identifying tractable anti-cancer targets, developing selective small molecule probes of these targets, and in optimizing these leads to generate safety assessment candidates for testing in preclinical tumor models and, ultimately in moving these agents forward into the clinic. Derek is PI of 4 R01 grants and has several ongoing kinase inhibitor programs that are targeting: (i) CK1\u03b4 and CK1\u03b5 that regulate WNT-\u03b2-catenin signaling and DNA repair pathways in metastatic triple negative breast cancer and glioblastoma, respectively; (ii) the transcriptional cyclin-dependent kinases CDK12 and CDK13 in trastuzumab-resistant HER2+ breast cancer; (iii) the ULK1 autophagy kinase in non-small cell lung cancer; and (iv) the ASK1 apoptosis kinase. Finally, Dr. Duckett also has robust research programs evaluating the roles of \u03b2-arrestin1 in GPCR-directed stress signaling and genome maintenance.",
+  "research_interests": [
+    "Dr. Duckett earned his PhD degree in Biochemistry from the University of Dundee under the mentorship of Professor David M. J. Lilley, a Member of Royal Society and the Director of the Cancer Research UK Nucleic Acid Structure Research Group, where Derek had a remarkable string of studies that defined the structures for DNA and RNA four-way helical junctions, and how these interact with resolving enzymes (Duckett, et al., Cell, 1988, 1995). Derek then was a Howard Hughes Research Fellow in the laboratory of Nobel Laureate Dr. Paul Modrich, where his work established that mismatch repair was the principal repair pathway invoked by DNA damage induced by cytotoxic chemotherapies, including cisplatin and methylating agents (Duckett et al., PNAS, 1996, 1999). Following his fellowship, Dr. Duckett was a Senior Research Scientist at DuPont Pharmaceuticals and then served as a Research Investigator for GlaxoSmithKline from 2000 to 2005, where he directed several clinical kinase inhibitor campaigns, including two that entered Phase I trials. In 2005, Derek joined the Scripps Research Institute (Scripps) as the Associate Director of the Translational Research Institute, where he directed the biology efforts of the High Throughput Screening Facility. In 2009, Dr. Duckett was appointed as an Assistant Professor in the Department of Molecular Therapeutics at Scripps and he was promoted to Associate Professor in 2013. \n  *"
+  ],
+  "associations": [
+    "Neuro-Oncology",
+    "Drug Discovery",
+    "Breast Oncology",
+    "Molecular Medicine Program",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Lung Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Dundee University, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Junyent M, Noori H, De Schepper R, Frajdenberg S, Elsaigh RKAH, McDonald PH, Duckett D, Maudsley S. Unravelling Convergent Signaling Mechanisms Underlying the Aging-Disease Nexus Using Computational Language Analysis. Curr Issues Mol Biol",
+      "pubmed_id": "40136443",
+      "pmc_id": "PMC11941692",
+      "year": "2025",
+      "journal": "47(3)",
+      "authors": ""
+    },
+    {
+      "title": "Karolak A, Urbaniak K, Monastyrskyi A, Duckett DR, Branciamore S, Stewart PA. Structure-independent machine-learning predictions of the CDK12 interactome. Biophys J",
+      "pubmed_id": "38762754",
+      "pmc_id": "PMC11393676",
+      "year": "2024",
+      "journal": "123(17):2910-2920",
+      "authors": ""
+    },
+    {
+      "title": "Gonz\u00e1lez-Rodriguez MA, Troutman S, Bayle S, Lester DK, Grove M, Duckett D, Kareta MS, Kissil JL. Synergistic effects of combined BET and FAK inhibition against Vestibular Schwannomas in NF2-related Schwannomatosis. Oncogene",
+      "pubmed_id": "39209965",
+      "year": "2024",
+      "journal": "43(40):2995-3002",
+      "authors": ""
+    },
+    {
+      "title": "Ghosh P, Schmitz M, Pandurangan T, Zeleke ST, Chan SC, Mosior J, Sun L, Palve V, Grassie D, Anand K, Frydman S, Roush WR, Sch\u00f6nbrunn E, Geyer M, Duckett D, Monastyrskyi A. Discovery and design of molecular glue enhancers of CDK12-DDB1 interactions for targeted degradation of cyclin K. RSC Chem Biol",
+      "pubmed_id": "39450271",
+      "pmc_id": "PMC11494886",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Bhutada I, Khambati F, Cheng SY, Tiek DM, Duckett D, Lawrence H, Vogelbaum MA, Mo Q, Chellappan SP, Padmanabhan J. CDK7 and CDK9 inhibition interferes with transcription, translation, and stemness, and induces cytotoxicity in GBM irrespective of temozolomide sensitivity. Neurooncol",
+      "pubmed_id": "37551745",
+      "pmc_id": "PMC10768977",
+      "year": "2024",
+      "journal": "26(1):70-84",
+      "authors": ""
+    },
+    {
+      "title": "Schmitz M, Kaltheuner IH, Anand K, D\u00fcster R, Moecking J, Monastyrskyi A, Duckett DR, Roush WR, Geyer M. The reversible inhibitor SR-4835 binds Cdk12/cyclin K in a noncanonical G-loop conformation. J Biol Chem",
+      "pubmed_id": "38016516",
+      "pmc_id": "PMC10767194",
+      "year": "2024",
+      "journal": "300(1):105501",
+      "authors": ""
+    },
+    {
+      "title": "Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L, Duckett DR, Teng M. An Epigenomic fingerprint of human cancers by landscape interrogation of super enhancers at the constituent level. PLoS Comput Biol",
+      "pubmed_id": "38335222",
+      "pmc_id": "PMC10883583",
+      "year": "2024",
+      "journal": "20(2):e1011873",
+      "authors": ""
+    },
+    {
+      "title": "Morozova A, Chan SC, Bayle S, Sun L, Grassie D, Iermolaieva A, Kalaga MN, Frydman S, Sansil S, Sch\u00f6nbrunn E, Duckett D, Monastyrskyi A. Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties. Eur J Med Chem",
+      "pubmed_id": "38232465",
+      "year": "2024",
+      "journal": "266:116101",
+      "authors": ""
+    },
+    {
+      "title": "Choi JY, Noguchi Y, Alburger JM, Bayle S, Chung E, Grant W, Chaikuad A, Knapp S, Duckett DR, Roush WR. Structure-Based Development of Isoform-Selective Inhibitors of Casein Kinase 1\u03b5 vs Casein Kinase 1\u03b4. J Med Chem",
+      "pubmed_id": "37204207",
+      "pmc_id": "PMC10304650",
+      "year": "2023",
+      "journal": "66(11):7162-7178",
+      "authors": ""
+    },
+    {
+      "title": "Liao Y, Chin Chan S, Welsh EA, Fang B, Sun L, Sch\u00f6nbrunn E, Koomen JM, Duckett DR, Haura EB, Monastyrskyi A, Rix U. Chemical Proteomics with Novel Fully Functionalized Fragments and Stringent Target Prioritization Identifies the Glutathione-Dependent Isomerase GSTZ1 as a Lung Cancer Target. Acs Chem Biol",
+      "pubmed_id": "36630201",
+      "year": "2023",
+      "journal": "18(2):251-264",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Reprogramming Cancer: A Paradigm Shift in Oncology Treatment  \nAward Number: 25C11  \nSponsor: Florida Department of Health  \nDuckett, D. (PD/PI)"
+    },
+    {
+      "description": "Title: Development of New Casein Kinase 1 Inhibitor for the Treatment of BrainCancers  \nAward Number: 5R01CA227073-06  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI)",
+      "source": "NCI",
+      "period": "7073-06"
+    },
+    {
+      "description": "Title: Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers  \nAward Number: 5R01CA262530-04  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI), Haura, E. (PD/PI), Monastyrskyi, A. (PD/PI)",
+      "source": "NCI",
+      "period": "2530-04"
+    },
+    {
+      "description": "Title: Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers supplement  \nAward Number: 3R01CA262530-02S1  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI), Monastyrskyi, A. (PD/PI)",
+      "source": "NCI",
+      "period": "2530-02"
+    },
+    {
+      "description": "Title: Transcriptional and Epigenetic Adaptation as Novel Therapeutic Vulnerabilities for Mantle Cell Lymphoma  \nAward Number: 5R01CA233601-04  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI)",
+      "source": "NCI",
+      "period": "3601-04"
+    },
+    {
+      "description": "Title: Harnessing CDK12 inhibition for the treatment of HER2+ brain metastatic breast cancers  \nAward Number: W81XWH-22-1-0025  \nSponsor: Department of Defense (DOD)  \nDuckett, D. (PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": "Title: Developing a First-in-Class -Catenin/BCL9 PPI Inhibitor  \nAward Number: 21-0038-S1, Work Plan No. 1, Amendment 2  \nSponsor: BAYFIELD THERAPEUTICS, LLC  \nJi, H. (PD/PI), Duckett, D. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Orexin receptor agonist discovery for development of colon cancer targeted alpha particle therapy  \nAward Number: NA  \nSponsor: Foundation Support-Rsch  \nDuckett, D. (PD/PI), Ji, H. (PD/PI), Morse, D. (PD/PI)",
+      "source": "Foundation"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DuckettDerek_22470.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22470"
+  },
+  "content_hash": "28eebc87ebe4b84d8c5058321fe299793388b9ea469b41c6ca6c67138d5fc638"
+}

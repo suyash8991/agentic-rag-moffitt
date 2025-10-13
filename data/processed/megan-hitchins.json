@@ -1,0 +1,107 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/megan-hitchins",
+  "last_updated": "2025-10-13T21:43:51.406750",
+  "researcher_id": "unknown",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Cancer Epidemiology",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Cancer etiology Unusual mechanisms for \"high-risk\" cancer syndromes, including gastrointestinal, gynecologic, urothelial, and skin cancers Early age-of-onset colorectal cancer Genetic and Epigenetic biomarkers for cancer risk Biomarkers for early detection of cancer and recurrences in liquid biopsies e.g. circulating tumor DNA",
+  "research_interests": [
+    "Dr. Hitchins is a translational cancer geneticist and epigeneticist. She has made seminal contributions to our understanding of the role, molecular diagnosis, prevalence, and inheritance of \u201cconstitutional epimutation\u201d in cancer causation. Constitutional epimutation is an under-recognized alternative cause (to a germline pathogenic variant) for familial and early-onset cancer syndromes, including Lynch syndrome. While constitutional epimutations of the MLH1 mismatch repair gene appear to \u201cphenocopy\u201d Lynch syndrome in terms of the cancer risks and types conferred, they display variable inter-generational inheritance patterns in cancer-affected families. In some families, inheritance is \u201cnon-Mendelian\u201d, as observed by the transmission of the epimutation to a proportion of children but it\u2019s erasure in others, despite inheriting the same copy of the gene. In other cases, inheritance follows predictable genetic patterns because the epimutation arises as a secondary consequence of an underlying \u201ccryptic\u201d non-coding genetic variant, such as a gene promoter variant that alters gene activity. This requires extended genetic and epigenetic analyses in individual families on a case-by-case basis, which informs tailored genetic counseling and clinical management. Dr. Hitchins is also developing minimally-invasive, blood-based biomarker assays for bowel cancer screening and for monitoring patients with bowel cancer who are undergoing treatment to detect cancer recurrence or measure response to treatment. These tests are based on the detection of plasma circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) via altered biomarker signals. She is particularly interested in the rapid rise in bowel cancer among the younger population.\n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Alvarez R, Climent-Cant\u00f3 P, Shin G, Aguirre FP, Zhou L, Hazelett DJ, Larson BK, Vara C, Capell\u00e1 G, Castellanos VL, Rubio PG, Desseigne F, Ji H, Cook J, Durkie M, Pineda M, Leclerc J, Hitchins MP. MLH1 c.27G>A (p.Arg9=) is a synonymous likely/pathogenic variant underlying variably mosaic constitutional MLH1 methylation in Lynch syndrome. Familial Cancer",
+      "pubmed_id": "40715574",
+      "pmc_id": "PMC12330223",
+      "year": "2025",
+      "journal": "24(3):59",
+      "authors": ""
+    },
+    {
+      "title": "Hussain Y, Bannaga A, Fisher N, Krishnamoorthy A, Kimani P, Malik A, Truslove M, Joshi S, Hitchins M, Abbasi A, Corbett C, Brookes M, Randeva H, Than NN, Arasaradnam RP. The Fatty Liver, Cirrhosis, and Liver Cancer Study (TENDENCY): Protocol for a Multicenter Case-Control Study. JMIR Res Protoc",
+      "pubmed_id": "37256650",
+      "pmc_id": "PMC10267778",
+      "year": "2023",
+      "journal": "12:e44264",
+      "authors": ""
+    },
+    {
+      "title": "Bikhchandani M, Amersi F, Hendifar A, Gangi A, Osipov A, Zaghiyan K, Atkins K, Cho M, Aguirre F, Hazelett D, Alvarez R, Zhou L, Hitchins M, Gong J. POLE-Mutant Colon Cancer Treated with PD-1 Blockade Showing Clearance of Circulating Tumor DNA and Prolonged Disease-Free Interval. Genes (Basel)",
+      "pubmed_id": "37239414",
+      "pmc_id": "PMC10218075",
+      "year": "2023",
+      "journal": "14(5)",
+      "authors": ""
+    },
+    {
+      "title": "Hitchins MP, D\u00e1maso E, Alvarez R, Zhou L, Hu Y, Diniz MA, Pineda M, Capella G, Pearlman R, Hampel H. Constitutional MLH1 Methylation Is a Major Contributor to Mismatch Repair-Deficient, MLH1-Methylated Colorectal Cancer in Patients Aged 55 Years and Younger. J Natl Compr Canc Ne",
+      "pubmed_id": "37433431",
+      "pmc_id": "PMC11578100",
+      "year": "2023",
+      "journal": "21(7):743-752",
+      "authors": ""
+    },
+    {
+      "title": "Ebia MI, Hitchins MP, Hendifar AE. Immunotherapy for deficient mismatch repair (dMMR) pancreatic ductal adenocarcinoma. J Gastrointest Oncol",
+      "pubmed_id": "37201064",
+      "pmc_id": "PMC10186511",
+      "year": "2023",
+      "journal": "14(2):1175-1177",
+      "authors": ""
+    },
+    {
+      "title": "Qureshi N, Hoffman TL, Kaneva K, Zomorrodian S, Scapa JV, Hitchins MP, Federman N. Pediatric Rectal Adenocarcinoma With Mismatch Repair Deficiency Responds to Immunotherapy. JCO Precis Oncol",
+      "pubmed_id": "37053536",
+      "pmc_id": "PMC10309547",
+      "year": "2023",
+      "journal": "7:e2200378",
+      "authors": ""
+    },
+    {
+      "title": "Hitchins MP, Alvarez R, Zhou L, Aguirre F, D\u00e1maso E, Pineda M, Capella G, Wong JJ, Yuan X, Ryan SR, Sathe DS, Baxter MD, Cannon T, Biswas R, DeMarco T, Grzelak D, Hampel H, Pearlman R. MLH1-methylated endometrial cancer under 60 years of age as the \"sentinel\" cancer in female carriers of high-risk constitutional MLH1 epimutation. Gynecol Oncol",
+      "pubmed_id": "36893489",
+      "pmc_id": "PMC10153467",
+      "year": "2023",
+      "journal": "171:129-140",
+      "authors": ""
+    },
+    {
+      "title": "Gong J, Aguirre F, Hazelett D, Alvarez R, Zhou L, Hendifar A, Osipov A, Zaghiyan K, Cho M, Gangi A, Hitchins M. Circulating tumor DNA dynamics and response to immunotherapy in colorectal cancer. Mol Clin Oncol",
+      "pubmed_id": "35463213",
+      "pmc_id": "PMC9022091",
+      "year": "2022",
+      "journal": "16(5):100",
+      "authors": ""
+    },
+    {
+      "title": "Loomans-Kropp HA, Song Y, Gala M, Parikh AR, Van Seventer EE, Alvarez R, Hitchins MP, Shoemaker RH, Umar A. Methylated Septin9 (mSEPT9): A promising blood-based biomarker for the detection and screening of early-onset colorectal cancer. Cancer Res Commun",
+      "pubmed_id": "35992328",
+      "pmc_id": "PMC9387652",
+      "year": "2022",
+      "journal": "2(2):90-98",
+      "authors": ""
+    },
+    {
+      "title": "Vogelaar IP, Greer S, Wang F, Shin G, Lau B, Hu Y, Haraldsdottir S, Alvarez R, Hazelett D, Nguyen P, Aguirre FP, Guindi M, Hendifar A, Balcom J, Leininger A, Fairbank B, Ji H, Hitchins MP. Large Cancer Pedigree Involving Multiple Cancer Genes including Likely Digenic MSH2 and MSH6 Lynch Syndrome (LS) and an Instance of Recombinational Rescue from LS. Cancers (Basel)",
+      "pubmed_id": "36612224",
+      "pmc_id": "PMC9818763",
+      "year": "2022",
+      "journal": "15(1)",
+      "authors": ""
+    }
+  ],
+  "grants": [],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HitchinsMegan_42707.jpg",
+  "contact": {},
+  "content_hash": "5d8023acbf98bbd3be226ec135fbc32e0bf28705b4df7062c1ff4a62d884add6"
+}

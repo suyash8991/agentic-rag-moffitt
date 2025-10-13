@@ -1,0 +1,132 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/nagi-kumar",
+  "last_updated": "2025-10-13T21:44:06.635434",
+  "researcher_id": "1278",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Cancer Epidemiology",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Dr. Kumar is a Senior Member of the Cancer Epidemiology, Genitourinary and Breast Oncology Departments at the Moffitt Cancer Center. She collaborates with investigators in basic, population, and clinical sciences, both nationally and internationally, and has developed a program to accelerate agent development and biomarker validation for cancer chemoprevention.",
+  "research_interests": [
+    "Using a multi-disciplinary science-based approach and the rigor with which other therapeutic agents are tested, Dr. Kumar has initiated several epidemiological, laboratory, preclinical and phase I-II clinical trials evaluating safety, effectiveness and potential molecular targets of several agents for cancer chemoprevention, including green tea catechins, isoflavones, tannic acid, n-3 fatty acids, metformin, anthocyanins, sulforaphanes, Quercetin, n-3 fatty acids, curcumin, and combination agents for cancer chemoprevention. She leads two active phase II secondary chemoprevention trials targeting men with localized prostate cancer. Informed by her laboratory and early phase clinical trials, the goal of these randomized clinical trials is to comprehensively and rigorously evaluate the safety, effectiveness, and mechanism of green tea catechins on clinical and biological intermediate endpoint markers, implicated in prostate carcinogenesis, that will ultimately inform development of Phase III clinical trials for secondary chemoprevention of prostate cancer in men on active surveillance. And these trials will create a specimen repository with which to test future and evolving novel hypotheses to assess other genetic or environmental factors that may influence incidence and progression of prostate cancer. Dr. Kumar also leads a phase II chemoprevention trial evaluating a combination of curcumin and n-3 fatty acids to modulate lung nodules in former smokers. And she has developed and tested multimodal interventions to characterize and ameliorate symptoms of cancer treatment including for hypothyroidism, cancer cachexia, and cognitive impairment. Her goal for cancer chemoprevention at Moffitt Cancer Center is to utilize a systematic, broad spectrum approach to identify agents that can: (a) produce robust and concurrent inhibition of multiple hallmark-associated pathways in target (precursor or early stage tumor) tissue/microenvironment, (b) addressing the underlying biology of carcinogenesis; (c) enhance bioavailability and half-life, (d) with minimum toxicity, (e) in exceptionally high risk populations.\n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Genitourinary Oncology",
+    "Breast Oncology",
+    "Cancer Epidemiology Program",
+    "Cancer Chemoprevention Research Interest Group"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, Tampa, Florida, MA"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, Tampa, Florida, PhD"
+    },
+    {
+      "type": "Internship",
+      "institution": "City Hospital Center at Elmhurst, Mt. Sinai School of Medicine, New York",
+      "position": "Intern",
+      "specialty": "Dietetic"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Kumar NB. Contemporary Strategies for Clinical Chemoprevention of Localized Prostate Cancer. Cancer Control",
+      "pubmed_id": "39573923",
+      "pmc_id": "PMC11583501",
+      "year": "2024",
+      "journal": "31",
+      "authors": ""
+    },
+    {
+      "title": "Johansson H, Guerrieri-Gonzaga A, Gandini S, Bertelsen BE, Macis D, Serrano D, Mellgren G, Lazzeroni M, Thomas PS, Crew KD, Kumar NB, Briata IM, Galimberti V, Viale G, Vornik LA, Aristarco V, Buttiron Webber T, Spinaci S, Brown PH, Heckman-Stoddard BM, Szabo E, Bonanni B, DeCensi A. Alternative dosing regimen of exemestane in a randomized presurgical trial: the role of obesity in biomarker modulation. NPJ Breast Cancer",
+      "pubmed_id": "38238336",
+      "pmc_id": "PMC10796398",
+      "year": "2024",
+      "journal": "10(1):7",
+      "authors": ""
+    },
+    {
+      "title": "Serrano D, Johansson H, Bertelsen BE, Gandini S, Mellgren G, Thomas P, Crew KD, Kumar NB, Macis D, Aristarco V, Guerrieri-Gonzaga A, Lazzeroni M, D'Amico M, Buttiron-Webber T, Briata IM, Spinaci S, Galimberti V, Vornik LA, Villar-Sanchez E, Brown PH, Heckman-Stoddard BM, Szabo E, Bonanni B, Decensi A. Drug and biomarker tissue levels in a randomized presurgical trial on exemestane alternative schedules. J Natl Cancer Inst",
+      "pubmed_id": "39110531",
+      "pmc_id": "PMC11630545",
+      "year": "2024",
+      "journal": "116(12):1979-1982",
+      "authors": ""
+    },
+    {
+      "title": "Serrano D, Gandini S, Thomas P, Crew KD, Kumar NB, Vornik LA, Lee JJ, Veronesi P, Viale G, Guerrieri-Gonzaga A, Lazzeroni M, Johansson H, D'Amico M, Guasone F, Spinaci S, Bertelsen BE, Mellgren G, Bedrosian I, Weber D, Castile T, Dimond E, Heckman-Stoddard BM, Szabo E, Brown PH, DeCensi A, Bonanni B. Efficacy of Alternative Dose Regimens of Exemestane in Postmenopausal Women With Stage 0 to II Estrogen Receptor-Positive Breast Cancer: A Randomized Clinical Trial. JAMA Oncol",
+      "pubmed_id": "36951827",
+      "pmc_id": "PMC10037202",
+      "year": "2023",
+      "journal": "9(5):664-672",
+      "authors": ""
+    },
+    {
+      "title": "Kumar NB, Bahl S, Dhillon J, Poch M, Manley B, Li R, Schell M, Powsang J. Challenges to Recruiting Men on Active Surveillance for Prostate Cancer in Clinical Chemoprevention Trials. Cancers (Basel)",
+      "pubmed_id": "36831597",
+      "pmc_id": "PMC9954186",
+      "year": "2023",
+      "journal": "15(4)",
+      "authors": ""
+    },
+    {
+      "title": "Carastro LM, Vallebuona EJ, Cordova R, Gannon AN, Kim SJ, Costello CM, Declet-Bauzo RA, Kumar N, Park JY. Polyphenon E Effects on Gene Expression in PC-3 Prostate Cancer Cells. Int J Mol Sci",
+      "pubmed_id": "36430806",
+      "pmc_id": "PMC9697490",
+      "year": "2022",
+      "journal": "23(22)",
+      "authors": ""
+    },
+    {
+      "title": "Kumar NB, Hogue S, Pow-Sang J, Poch M, Manley BJ, Li R, Dhillon J, Yu A, Byrd DA. Effects of Green Tea Catechins on Prostate Cancer Chemoprevention: The Role of the Gut Microbiome. Cancers (Basel)",
+      "pubmed_id": "36010981",
+      "pmc_id": "PMC9406482",
+      "year": "2022",
+      "journal": "14(16)",
+      "authors": ""
+    },
+    {
+      "title": "Zachariah NN, Basu A, Gautam N, Ramamoorthi G, Kodumudi KN, Kumar NB, Loftus L, Czerniecki BJ. Intercepting Premalignant, Preinvasive Breast Lesions Through Vaccination. Front Immunol",
+      "pubmed_id": "34899753",
+      "pmc_id": "PMC8652247",
+      "year": "2021",
+      "journal": "12:786286",
+      "authors": ""
+    },
+    {
+      "title": "Kumar NB. The Promise of Nutrient-Derived Bioactive Compounds and Dietary Components to Ameliorate Symptoms of Chemotherapy-Related Cognitive Impairment in Breast Cancer Survivors. CURR TREAT OPTION ON",
+      "pubmed_id": "34110516",
+      "year": "2021",
+      "journal": "22(8):67",
+      "authors": ""
+    },
+    {
+      "title": "Permuth JB, Dezsi KB, Vyas S, Ali KN, Basinski TL, Utuama OA, Denbo JW, Klapman J, Dam A, Carballido E, Kim DW, Pimiento JM, Powers BD, Otto AK, Choi JW, Chen DT, Teer JK, Beato F, Ward A, Cortizas EM, Whisner SY, Williams IE, Riner AN, Tardif K, Velanovich V, Karachristos A, Douglas WG, Legaspi A, Allan BJ, Meredith K, Molina-Vega MA, Bao P, St Julien J, Huguet KL, Green L, Odedina FT, Kumar NB, Simmons VN, George TJ, Vadaparampil ST, Hodul PJ, Arnoletti JP, Awad ZT, Bose D, Jiang K, Centeno BA, Gwede CK, Malafa M, Judge SM, Judge AR, Jeong D, Bloomston M, Merchant NB, Fleming JB, Trevino JG. The Florida Pancreas Collaborative Next-Generation Biobank: Infrastructure to Reduce Disparities and Improve Survival for a Diverse Cohort of Patients with Pancreatic Cancer. Cancers (Basel)",
+      "pubmed_id": "33671939",
+      "pmc_id": "PMC7919015",
+      "year": "2021",
+      "journal": "13(4)",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Phase II Clinical Trial of GTC in Men on Active Surveillance  \nAward Number: 5R01CA235032-06  \nSponsor: National Cancer Institute (NCI)  \nKumar, N. (PD/PI)",
+      "source": "NCI",
+      "period": "5032-06"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KumarNagi_1278.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1278"
+  },
+  "content_hash": "d15e601119b1c2883119f836d8f58cf5ad44665290926172ea1e3c66ac831372"
+}

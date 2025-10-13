@@ -1,0 +1,154 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/peter-forsyth",
+  "last_updated": "2025-10-13T21:46:24.828585",
+  "researcher_id": "8808",
+  "name": "",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Neuro-Oncology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Dr Forsyth has a strong interest in malignant, invasive glioma brain tumors and leptomeningeal disease. He is currently investigating several inhibiting agents in Phase 1 and 2 clinical trials. His laboratory interests are in gliomas and melanoma brain metastases. He works using oncolytic viruses as immunotherapies, neurotrophins, and their receptors in melanoma and other brain metastasis.",
+  "research_interests": [
+    "Dr. Forsyth has a strong interest in malignant, invasive glioma brain tumors. He is currently investigating several tumor-inhibiting agents in Phase I clinical trials. One of his first priorities at Moffitt is to develop a neural tumor stem cell lab to expand research opportunities in novel therapeutic cancer-fighting drugs. Currently, he has 10 active grants funding his studies.\n  *"
+  ],
+  "associations": [
+    "Neuro-Oncology",
+    "Tumor Microenvironment and Metastasis",
+    "Center for Immunization & Infection Research in Cancer",
+    "Molecular Medicine Program",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "McMaster University",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "University of Toronto",
+      "position": "Intern",
+      "specialty": "Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "Mayo Clinic",
+      "specialty": "Neurology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Memorial Sloan-Kettering Cancer Center",
+      "specialty": "Neuro-oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Weiss SA, Djureinovic D, Wei W, Tran T, Austin M, Markowitz J, Eroglu Z, Khushalani NI, Hegde U, Cohen J, Sznol M, Anderson G, Johnson B, Piteo C, Mahajan A, Adeniran A, Jilaveanu L, Goldberg S, Chiang V, Forsyth P, Kluger HM. Phase II Trial of Pembrolizumab in Combination With Bevacizumab for Untreated Melanoma Brain Metastases. J Clin Oncol",
+      "pubmed_id": "40048689",
+      "pmc_id": "PMC12058415",
+      "year": "2025",
+      "journal": "43(14):1685-1694",
+      "authors": ""
+    },
+    {
+      "title": "Ahmed KA, Kim Y, Armaghani AJ, Arrington JA, Costa RL, Czerniecki BJ, Diaz R, Dowell RA, Extermann M, Forsyth PA, Lee KT, Loftus L, Mills MN, Phuoc VH, Rosa M, Soliman HH, Sam CS, Washington IR, Soyano AE, Han HS. Phase II trial of brain MRI surveillance in stage IV breast cancer. Neurooncol",
+      "pubmed_id": "39851040",
+      "pmc_id": "PMC12309701",
+      "year": "2025",
+      "journal": "27(6):1550-1558",
+      "authors": ""
+    },
+    {
+      "title": "Sahebjam S, Raval RR, Forsyth PA, Enderling H, Tran ND, Arrington JA, Macaulay R, Perlow HK, Palmer JD, Ghose J, Rajappa P, Giglio P, Li Z, Etame AB, Mokhtari S, Cruz-Chamorro RJ, Bhandari M, Thapa R, Robinson TJ, Chen DT, Yu HM. Phase 1 trial of hypofractionated stereotactic re-irradiation in combination with nivolumab, ipilimumab, and bevacizumab for recurrent high-grade gliomas. Neurooncol Adv",
+      "pubmed_id": "40134851",
+      "pmc_id": "PMC11934552",
+      "year": "2025",
+      "journal": "7(1):vdaf033",
+      "authors": ""
+    },
+    {
+      "title": "Le Rhun E, Nayak L, Lim-Fat MJ, Rud\u00e0 R, Pentsova E, Forsyth P, O'Brien BJ, Preusser M, Kumthekar P, Brandsma D, Weller M. NANO-LM: An updated scorecard for the clinical assessment of patients with leptomeningeal metastases. Neurooncol",
+      "pubmed_id": "39208403",
+      "pmc_id": "PMC11812256",
+      "year": "2025",
+      "journal": "27(2):455-465",
+      "authors": ""
+    },
+    {
+      "title": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA. Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses. Neurooncol",
+      "pubmed_id": "40888040",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Ahmed KA, Kim Y, Kim S, Wang MH, DeJesus M, Arrington JA, Soyano AE, Armaghani AJ, Costa RLB, Loftus LS, Rosa M, Caudell JJ, Diaz R, Etame AB, Tran ND, Soliman H, Czerniecki BJ, Forsyth PA, Yu HM, Han HS. Nivolumab and stereotactic radiosurgery for patients with breast cancer brain metastases: long-term results and biomarker analysis from a non-randomized, open-label, phase Ib study. J Immunother Cancer",
+      "pubmed_id": "40295143",
+      "pmc_id": "PMC12039042",
+      "year": "2025",
+      "journal": "13(4)",
+      "authors": ""
+    },
+    {
+      "title": "Mokhtari S, Asquith JM, Kareem SS, Bachmeier CA, Pina Y, Faramand RG, Kim Y, Peguero EN, Sahebjam S, Jaffer MH, Iacono DP, Jain MD, Vogelbaum MA, Davila ML, Forsyth PA, Locke FL, Lazaryan A. Intravenous Immunoglobulin (IVIG) for Patients with Severe Neurotoxicity Associated with Chimeric Antigen Receptor T-Cell (CAR-T) Therapy. Int J Mol Sci",
+      "pubmed_id": "40332772",
+      "pmc_id": "PMC12028060",
+      "year": "2025",
+      "journal": "26(8)",
+      "authors": ""
+    },
+    {
+      "title": "Huang RY, Youssef G, Nelson T, Wen PY, Forsyth P, Hodi FS, Margolin K, Algazi AP, Hamid O, Lao CD, Ernstoff MS, Moschos SJ, Atkins MB, Postow MA, Reardon DA, Grootendorst DJ, Leung D, Askelson M, Ritchings C, Tawbi HA. Comparative Analysis of Intracranial Response Assessment Criteria in Patients With Melanoma Brain Metastases Treated With Combination Nivolumab + Ipilimumab in CheckMate 204. J Clin Oncol",
+      "pubmed_id": "39752606",
+      "pmc_id": "PMC11949218",
+      "year": "2025",
+      "journal": "43(10):1210-1218",
+      "authors": ""
+    },
+    {
+      "title": "Wilcox JA, Chukwueke UN, Ahn MJ, Aizer AA, Bale TA, Brandsma D, Brastianos PK, Chang S, Daras M, Forsyth P, Garzia L, Glantz M, Oliva ICG, Kumthekar P, Le Rhun E, Nagpal S, O'Brien B, Pentsova E, Lee EQ, Remsik J, Rud\u00e0 R, Smalley I, Taylor MD, Weller M, Wefel J, Yang JT, Young RJ, Wen PY, Boire AA. Leptomeningeal metastases from solid tumors: A Society for Neuro-Oncology and American Society of Clinical Oncology consensus review on clinical management and future directions. Neurooncol",
+      "pubmed_id": "38902944",
+      "pmc_id": "PMC11449070",
+      "year": "2024",
+      "journal": "26(10):1781-1804",
+      "authors": ""
+    },
+    {
+      "title": "Law V, Smalley I, Evernden BR, Baldwin M, Smalley KSM, Forsyth PA. Ex Vivo Culture of Circulating Tumor Cells in the Cerebral Spinal Fluid from Melanoma Patients to Study Melanoma-Associated Leptomeningeal Disease. J Vis Exp",
+      "pubmed_id": "38619274",
+      "year": "2024",
+      "journal": "(205)",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Remodeling the Immune Landscape in Breast Cancer Leptomeningeal Disease Using Dendritic Cell Therapy is an Effective Treatment and Protects Against Disease Recurrence  \nAward Number: 1R01CA289387-01A1  \nSponsor: National Cancer Institute (NCI)  \nCzerniecki, B. (PD/PI), Forsyth, P. (PD/PI)",
+      "source": "NCI",
+      "period": "9387-01"
+    },
+    {
+      "description": "Title: Using Combinatorial Therapies with Dendritic Cell Therapies to Improve Survival and Prevent Recurrence of Breast Cancer Leptomeningeal Disease (LMD)  \nAward Number: HT9425-25-2-0006  \nSponsor: Department of Defense (DOD)  \nForsyth, P. (PD/PI)",
+      "source": "DOD",
+      "period": "9425-25"
+    },
+    {
+      "description": "Title: Immune Therapy for Brain Metastasis  \nAward Number: 5R01CA269286-03  \nSponsor: National Cancer Institute (NCI)  \nForsyth, P. (PD/PI)",
+      "source": "NCI",
+      "period": "9286-03"
+    },
+    {
+      "description": "Title: Using Dendritic Cell Therapy to Enhance the Adaptive Immune Response in Leptomeningeal Disease from Breast Cancer is an Effective Treatment and Prevention against LMD Recurrence  \nAward Number: 24B07  \nSponsor: Florida Department of Health  \nForsyth, P. (PD/PI)"
+    },
+    {
+      "description": ""
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ForsythPeter_8808.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=8808"
+  },
+  "content_hash": "6bb719120798014c0a3ab559990516a9dc8870e4c39e587107e603848d84357d"
+}

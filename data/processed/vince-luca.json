@@ -1,0 +1,150 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/vince-luca",
+  "last_updated": "2025-10-13T21:45:27.486030",
+  "researcher_id": "17757",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Immunology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "The Luca Lab studies the \"molecular language\" of cell-to-cell communication using cutting edge approaches in structural, cellular and synthetic biology. Our goal is to visualize how cells send and receive information at the atomic level, and to harness this insight to guide the engineering of next-generation cancer therapeutics.",
+  "research_interests": [
+    "Dr. Luca's research harnesses the power of directed evolution to understand how molecular signals control cellular behavior. Directed evolution enables us to evolve proteins \"in a test tube\" by generating millions of mutants and then selecting the \"winners\" with the best functional properties. We study these unique variants to determine how cellular receptors become activated and to guide the development of precisely targeted therapeutics. Our expertise with yeast display allows us to evolve complex eukaryotic proteins, which creates new avenues for the manipulation of difficult-to-target mammalian signaling pathways. Current projects in the lab integrate directed evolution with x-ray crystallography, computational modeling, and cell biology to illuminate receptor systems involved in the development of stem cells.\n  *"
+  ],
+  "associations": [
+    "Drug Discovery",
+    "Malignant Hematology",
+    "Immunology",
+    "Molecular Medicine Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Washington University in St. Louis, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Stanford University",
+      "specialty": "Molecular and Cellular Physiology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Perez DH, Antfolk D, Chang S, Bustos XE, Medina E, Ramadan AA, Gonzalez-Perez D, Abate-Daga D, Rodriguez PC, Luca VC. Engineering synthetic agonists for targeted activation of Notch signaling. Nat Chem Biol",
+      "pubmed_id": "40993428",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Luca VC. LAG Time in the Era of Immunotherapy-New Molecular Insights Into the Immunosuppression Mechanism of Lymphocyte Activation Gene-3. Immunol Rev",
+      "pubmed_id": "39887765",
+      "pmc_id": "PMC11917464",
+      "year": "2025",
+      "journal": "330(1):e70002",
+      "authors": ""
+    },
+    {
+      "title": "Antfolk D, Ming Q, Manturova A, Goebel EJ, Thompson TB, Luca VC. Molecular mechanism of Activin receptor inhibition by DLK1. Nat Commun",
+      "pubmed_id": "40593645",
+      "pmc_id": "PMC12216052",
+      "year": "2025",
+      "journal": "16(1):5976",
+      "authors": ""
+    },
+    {
+      "title": "Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM. Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models. J Immunother Cancer",
+      "pubmed_id": "40825611",
+      "pmc_id": "PMC12366563",
+      "year": "2025",
+      "journal": "13(8)",
+      "authors": ""
+    },
+    {
+      "title": "Singh S, Julia E, Kalita P, Mason C, Ming Q, Lee-Sam A, Gordon S, Buitrago ME, Leung DW, Hwu P, Luca VC. Structure-guided engineering of CD112 receptor variants for optimized immunotherapy. Mol Ther",
+      "pubmed_id": "40285356",
+      "pmc_id": "PMC12368799",
+      "year": "2025",
+      "journal": "33(8):3590-3604",
+      "authors": ""
+    },
+    {
+      "title": "Foran G, Hallam RD, Megaly M, Turgambayeva A, Antfolk D, Li Y, Luca VC, Necakov A. Notch1 Phase Separation Coupled Percolation facilitates target gene expression and enhancer looping. Sci Rep",
+      "pubmed_id": "39300145",
+      "pmc_id": "PMC11413390",
+      "year": "2024",
+      "journal": "14(1):21912",
+      "authors": ""
+    },
+    {
+      "title": "Fowler JL, Zheng SL, Nguyen A, Chen A, Xiong X, Chai T, Chen JY, Karigane D, Banuelos AM, Niizuma K, Kayamori K, Nishimura T, Cromer MK, Gonzalez-Perez D, Mason C, Liu DD, Yilmaz L, Miquerol L, Porteus MH, Luca VC, Majeti R, Nakauchi H, Red-Horse K, Weissman IL, Ang LT, Loh KM. Lineage-tracing hematopoietic stem cell origins in vivo to efficiently make human HLF+ HOXA+ hematopoietic progenitors from pluripotent stem cells. Dev Cell",
+      "pubmed_id": "38569552",
+      "pmc_id": "PMC11072092",
+      "year": "2024",
+      "journal": "59(9):1110-1131",
+      "authors": ""
+    },
+    {
+      "title": "Smyrlaki I, F\u00f6rd\u0151s F, Rocamonde-Lago I, Wang Y, Shen B, Lentini A, Luca VC, Reinius B, Teixeira AI, H\u00f6gberg B. Soluble and multivalent Jag1 DNA origami nanopatterns activate Notch without pulling force. Nat Commun",
+      "pubmed_id": "38238313",
+      "pmc_id": "PMC10796381",
+      "year": "2024",
+      "journal": "15(1):465",
+      "authors": ""
+    },
+    {
+      "title": "Perez DH, Antfolk D, Medina E, Gonzalez-Perez D, Luca VC. Engineering synthetic agonists for targeted activation of Notch signaling. bioRxiv",
+      "pubmed_id": "39149362",
+      "pmc_id": "PMC11326249",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Gilbert MA, Keefer-Jacques E, Jadhav T, Antfolk D, Ming Q, Valente N, Shaw GT, Sottolano CJ, Matwijec G, Luca VC, Loomes KM, Rajagopalan R, Hayeck TJ, Spinner NB. Functional characterization of 2,832 JAG1 variants supports reclassification for Alagille syndrome and improves guidance for clinical variant interpretation. Am J Hum Genet",
+      "pubmed_id": "39043182",
+      "pmc_id": "PMC11339624",
+      "year": "2024",
+      "journal": "111(8):1656-1672",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Structure-function studies of LAG3 interactions with antibodies and cellular ligands  \nAward Number: 1R01CA299899-01  \nSponsor: National Cancer Institute (NCI)  \nLuca, V. (PD/PI), Smalley, K. (Co-PD/PI)",
+      "source": "NCI",
+      "period": "9899-01"
+    },
+    {
+      "description": "Title: Illuminating Notch receptor-ligand selectivity through structure-guided protein engineering  \nAward Number: 2R35GM133482-06  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nLuca, V. (PD/PI)",
+      "period": "3482-06"
+    },
+    {
+      "description": "Title: Structure and Biophysics of CD24 Interactions  \nAward Number: 22VA012  \nSponsor: PHEAST THERAPEUTICS INC.  \nLuca, V. (PD/PI)"
+    },
+    {
+      "description": "Title: Structure and biophysics of CD24 interactions  \nAward Number: 22VA012.001, First Amendment  \nSponsor: PHEAST THERAPEUTICS INC.  \nLuca, V. (PD/PI)"
+    },
+    {
+      "description": "Title: Engineering Bispecific Nanobodies for Detection of Breast Cancer Nodal Metastasis  \nAward Number: W81XWH-22-1-0081, Log #BC210261P3  \nSponsor: Department of Defense (DOD)  \nLuca, V. (PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": "Title: Targeting ENPP1 to promote immunity during PARP inhibition in TNBC  \nAward Number: W81XWH2210407 Log# BC211038P1  \nSponsor: Department of Defense (DOD)  \nLuca, V. (PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": "Title: Impact and Utilization of Scalable Functional Assays in Alagille Syndrome  \nAward Number: R01DK140468-01  \nSponsor: National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)  \nLuca, V. (PD/PI)",
+      "period": "0468-01"
+    },
+    {
+      "description": "Title: Structure-guided engineering of LAG3 immunomodulatory function  \nAward Number: 22B07  \nSponsor: Florida Department of Health  \nLuca, V. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LucaVince_17757.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17757"
+  },
+  "content_hash": "623dc0c658b091894907923a418937082c218a1c9adc69481fb373bce9c3f22b"
+}

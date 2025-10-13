@@ -1,0 +1,134 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jingsong-zhang",
+  "last_updated": "2025-10-13T21:45:38.825448",
+  "researcher_id": "7285",
+  "name": "",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Genitourinary Oncology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Theme 1: integrating mathematical modeling of cancer evolution into the management of advanced prostate cancer. As a member of IMO, I have been working closely with IMO and conducted 3 IITs and is opening another IIT in mid-December 2024 on adaptive therapy, our goal is to start a randomized phase 3 study on adaptative therapy in prostate cancer in 3 years. Theme 2: Immunotherapy in prostate and bladder cancer. I am a co-I for Dr. Abate-Daga's R01 grant to develop gamma delta T cell enriched CAR against PSCA in prostate cancer. This has translated into an ongoing phase 1 study. I am also actively involved in industry sponsored CAR T, T cell engager and cancer vaccine trials.",
+  "research_interests": [
+    "Dr. Zhang\u2019s research focuses on 1) defining and characterizing deregulated pathways with therapeutic relevance in subsets of human cancers, and 2) developing and implementing biomarker-driven therapeutics into patient-based therapeutic trials.He aims to identify the DNA damage repair pathways that metastatic prostate cancers rely on and then assess the therapeutic potential of targeting these pathways. Preliminary data indicates that blocking key proteins in DDR pathways with PARP inhibitor, DNA-PK inhibitor or BRCA1 shRNA sensitized metastatic prostate cancer cells to DNA damaging chemotherapy drugs. The synergistic combinations are being tested in metastatic prostate cancer mouse models.Secondly, Dr. Zhang is evaluating r-H2AX as a prognostic or predictive marker.Unrepaired DNA single strand breaks will be converted to double strand breaks (DSB) during DNA replication, and r-H2AX is a well-known marker for DNA DSB. High levels of r-H2AX expression in prostate cancers would correlate with diminished DNA repair pathways and therefore high mutation rates. Dr. Zhang and colleagues will develop a scoring system for r-H2AX expression by immunohistochemistry and correlate that with patients\u2019 clinical outcomes. Based on initial results, the value of r-H2AX can be further evaluated in larger patient cohorts with multi-variant analysis. Assays also can be developed to detect r-H2AX in circulating tumor cells.\n  *"
+  ],
+  "associations": [
+    "Genitourinary Oncology",
+    "Integrated Mathematical Oncology",
+    "Molecular Medicine Program",
+    "Cancer Chemoprevention Research Interest Group",
+    "Center of Excellence for Evolutionary Therapy"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Southern California, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Peking Union Medical College",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "New York Downtown Hospital",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Michigan Comprehensive Cancer Center",
+      "specialty": "Hematology-Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Yap TA, Tan DSP, Stathis A, Shapiro GI, Iwasa S, Joerger M, Zhang J, Plummer R, Sawyer MB, Tan DSW, Castonguay V, Gabrail NY, Matsubara N, Wilkinson G, Ludwig M, Schlicker A, Zhou Y, Merz C, D\u00e4britz JHM, Jeffers M, Hreiki J, de Bono JS. Phase Ib Basket Expansion Trial and Alternative-Schedule Dose-Escalation Study of ATR Inhibitor Elimusertib in Advanced Solid Tumors with DNA Damage Response Defects. Cancer Discov",
+      "pubmed_id": "40516108",
+      "year": "2025",
+      "journal": "15(10):2019-2035",
+      "authors": ""
+    },
+    {
+      "title": "Li Q, Huang CC, Huang S, Tian Y, Huang J, Bitaraf A, Dong X, Nevalainen MT, Patel M, Wong J, Zhang J, Manley BJ, Park JY, Kohli M, Gore EM, Kilari D, Wang L. 5-hydroxymethylcytosine sequencing of plasma cell-free DNA identifies epigenomic features in prostate cancer patients receiving androgen deprivation therapies. Commun Med (Lond)",
+      "pubmed_id": "40038525",
+      "pmc_id": "PMC11880319",
+      "year": "2025",
+      "journal": "5(1):61",
+      "authors": ""
+    },
+    {
+      "title": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR. Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial. Nat Med",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "journal": "31(1):176-188",
+      "authors": ""
+    },
+    {
+      "title": "Lara PN, Mayerson E, Gertz E, Tangen C, Goldkorn A, van Loan M, Hussain M, Gupta S, Zhang J, Parikh M, Twardowski P, Quinn DI, LeBlanc M, Thompson I, Agarwal N. Markers of bone metabolism and overall survival in men with bone-metastatic hormone sensitive prostate cancer (HSPC): A subset analysis of SWOG S1216, a phase III trial of androgen deprivation with or without orteronel. Prostate Cancer P D",
+      "pubmed_id": "38424319",
+      "year": "2024",
+      "journal": "27(3):566-570",
+      "authors": ""
+    },
+    {
+      "title": "Zhang J, Chadha JS. Developmental Therapeutics in Metastatic Prostate Cancer: New Targets and New Strategies. Cancers (Basel)",
+      "pubmed_id": "39272956",
+      "pmc_id": "PMC11393880",
+      "year": "2024",
+      "journal": "16(17)",
+      "authors": ""
+    },
+    {
+      "title": "Hussain M, Kocherginsky M, Agarwal N, Adra N, Zhang J, Paller CJ, Picus J, Reichert ZR, Szmulewitz RZ, Tagawa ST, Kuzel TM, Bazzi LA, Daignault-Newton S, Whang YE, Dreicer R, Stephenson RD, Rettig MB, Shevrin D, Gerke T, Chinnaiyan AM, Antonarakis ES. Abiraterone, Olaparib, or Abiraterone + Olaparib in First-Line Metastatic Castration-Resistant Prostate Cancer with DNA Repair Defects (BRCAAway). Clin Cancer Res",
+      "pubmed_id": "39115414",
+      "year": "2024",
+      "journal": "30(19):4318-4328",
+      "authors": ""
+    },
+    {
+      "title": "Parikh M, Tangen C, Hussain MHA, Gupta S, Callis S, Jo Y, Harzstark A, Paller CJ, George S, Zibelman MR, Cheng HH, Maughan BL, Zhang J, Pachynski RK, Bryce AH, Lin DW, Quinn DI, Lerner SP, Thompson IM, Dorff TB, Lara PN, Agarwal N. Three- and Seven-month Prostate-specific Antigen Levels as Prognostic Markers for Overall Survival in Metastatic Hormone-sensitive Prostate Cancer: Results from SWOG S1216, a Phase 3 Randomized Trial of Androgen Deprivation Plus Orteronel or Bicalutamide. Eur Urol Oncol",
+      "pubmed_id": "38523017",
+      "year": "2024",
+      "journal": "7(5):1097-1104",
+      "authors": ""
+    },
+    {
+      "title": "Mohammed T, Yu J, Qiao Y, Kim Y, Mortensen E, Swede H, Wu Z, Zhang J. Marijuana Use May Be Associated with Reduced Prevalence of Prostate Cancer: A National Survey on Drug Use and Health Study from United States of America. Biomedicines",
+      "pubmed_id": "38790970",
+      "pmc_id": "PMC11118915",
+      "year": "2024",
+      "journal": "12(5)",
+      "authors": ""
+    },
+    {
+      "title": "Alonso-Gordoa T, Goodman M, Vulsteke C, Roubaud G, Zhang J, Parikh M, Piulats JM, Azaro A, James GD, Cavazzina R, Gangl ET, Thompson J, Pouliot G, Kumar R, Sweeney C. A phase II study (AARDVARC) of AZD4635 in combination with durvalumab and cabazitaxel in patients with progressive, metastatic, castration-resistant prostate cancer. ESMO Open",
+      "pubmed_id": "38838502",
+      "pmc_id": "PMC11190476",
+      "year": "2024",
+      "journal": "9(6):103446",
+      "authors": ""
+    },
+    {
+      "title": "Ionescu F, Zhang J. How We Treat Metastatic Castration-Sensitive Prostate Cancer. Cancer Control",
+      "pubmed_id": "39150340",
+      "pmc_id": "PMC11329962",
+      "year": "2024",
+      "journal": "31",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Gamma Delta 2.0 CAR-T: Pre-Clinical Studies and Clinical Trial  \nAward Number: N/A Gift Award   \nSponsor: The Todd and Karen Wanek Family Foundation   \nAbate-Daga, D. (PD/PI), Zhang, J. (Co-PD/PI)",
+      "source": "Foundation"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ZhangJingsong_7285.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7285"
+  },
+  "content_hash": "ee67e80de638ac1f1fd500243385f9444fb9c42029d2e6e1bf9a4e41ce26ce33"
+}

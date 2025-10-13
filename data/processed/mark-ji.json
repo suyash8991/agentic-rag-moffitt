@@ -1,0 +1,128 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/mark-ji",
+  "last_updated": "2025-10-13T21:45:00.403947",
+  "researcher_id": "17534",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Drug Discovery",
+  "research_program": "Molecular Medicine Program",
+  "overview": "The Ji research laboratory focuses on rational design and development of potent and selective small-molecule inhibitors for protein\u2013protein interactions (PPIs). To achieve this goal, we examine the crystal structures of PPI complex structures and design scaffolds to mimic key binding features of the ligand proteins to initiate the research. Our areas of research include developing new technologies to design and characterize PPI inhibitors, designing and synthesizing potent and selective inhibitors for important PPI targets, and developing PPI inhibitors into candidates ready for in vivo studies. This synthetic medicinal chemistry laboratory has three research components: data mining and structure-based drug design, synthetic organic chemistry, and biochemistry and cell-based studies.",
+  "research_interests": [
+    "Developing a new class of \u03b1-helix mimetics called binding-mode \u03b1-helical hot spot mimetics. Generalizable scaffolds that mimic \u03b1-helical hot spots can greatly facilitate medicinal chemistry to discover drug-like potent inhibitors for \u03b1-helix mediated PPIs. Previous studies from Ji laboratory observed the side chains of hydrophobic \u03b1-helical hot spots are convergent to the limited spatial areas when forming PPI complex structures. This observation allows us to develop a new class of \u03b1-helix mimetics, binding-mode \u03b1-helical hot spot mimetics. Developing first-in-class small-molecule antagonists for the \u03b2-catenin/B-cell lymphoma 9 (BCL9) protein\u2013protein interaction (PPI). Hyperactive \u03b2-catenin signaling is a cancer hallmark and plays an important role in cancer recurrence, metastasis, and immune evasion. Disruption of \u03b2-catenin/BCL9 PPI to abolish hyperactive \u03b2-catenin signaling has great therapeutic potential. BCL9 or BCL9L uses an \u03b1-helical domain to bind to \u03b2-catenin. We have been collaborating with other Moffitt researchers to develop first-in-class small-molecule preclinical candidates for the disruption of \u03b2-catenin/BCL9 PPI. Developing cell-permeable phosphotyrosine mimetics. Protein tyrosine phosphorylation is a key molecular mechanism to regulate intracellular signaling. Aberrant activation of phosphotyrosine signaling plays a key role in many pathological processes. Peptides, peptidomimetics, and small molecules have been developed to bind with the pTyr-binding pockets with the goal to regulate intracellular phophotyrosine-binding domains. However, all of them display low cell permeability, which is mainly caused by the highly polar and negatively charged phosphate or phosphate-like groups. We are developing novel cell-permeable phosphotyrosine mimetics.\n  *"
+  ],
+  "associations": [
+    "Breast Oncology",
+    "Drug Discovery",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Second Military Medical University, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Northwestern University",
+      "specialty": "Chemistry"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Kell SR, Wang Z, Ji H. Fragment hopping protocol for the design of small-molecule protein-protein interaction inhibitors. Bioorg Med Chem",
+      "pubmed_id": "35749838",
+      "year": "2022",
+      "journal": "69:116879",
+      "authors": ""
+    },
+    {
+      "title": "Kell SR, Wang Z, Ji H. Common Structural Features of Hydrophobic \u03b1-Helical Hot Spots: Insights for the Design of Novel \u03b1-Helix Mimetics. ACS Med Chem Lett",
+      "pubmed_id": "36262397",
+      "pmc_id": "PMC9575182",
+      "year": "2022",
+      "journal": "13(10):1670-1677",
+      "authors": ""
+    },
+    {
+      "title": "Wang Z, Zhang M, Thompson HM, Ji H. New ZW4864 Derivatives as Small-Molecule Inhibitors for the \u03b2-Catenin/BCL9 Protein-Protein Interaction. ACS Med Chem Lett",
+      "pubmed_id": "35586435",
+      "pmc_id": "PMC9109161",
+      "year": "2022",
+      "journal": "13(5):865-870",
+      "authors": ""
+    },
+    {
+      "title": "Wang Z, Ji H. Characterization of Hydrophilic \u03b1-Helical Hot Spots on the Protein-Protein Interaction Interfaces for the Design of \u03b1-Helix Mimetics. J Chem Inf Model",
+      "pubmed_id": "35385659",
+      "year": "2022",
+      "journal": "62(8):1873-1890",
+      "authors": ""
+    },
+    {
+      "title": "Tafreshi NK, Pandya DN, Tichacek CJ, Budzevich MM, Wang Z, Reff JN, Engelman RW, Boulware DC, Chiappori AA, Strosberg JR, Ji H, Wadas TJ, El-Haddad G, Morse DL. Preclinical evaluation of [225Ac]Ac-DOTA-TATE for treatment of lung neuroendocrine neoplasms. Eur J Nucl Med Mol Imaging",
+      "pubmed_id": "33772332",
+      "year": "2021",
+      "journal": "48(11):3408-3421",
+      "authors": ""
+    },
+    {
+      "title": "Xiao T, Sun L, Zhang M, Li Z, Haura EB, Schonbrunn E, Ji H. Synthesis and structural characterization of a monocarboxylic inhibitor for GRB2 SH2 domain. Bioorg Med Chem Lett",
+      "pubmed_id": "34506932",
+      "pmc_id": "PMC8526398",
+      "year": "2021",
+      "journal": "51:128354",
+      "authors": ""
+    },
+    {
+      "title": "Wang Z, Zhang M, Luo W, Zhang Y, Ji H. Discovery of 2-(3-(3-Carbamoylpiperidin-1-yl)phenoxy)acetic Acid Derivatives as Novel Small-Molecule Inhibitors of the \u03b2-Catenin/B-Cell Lymphoma 9 Protein-Protein Interaction. J Med Chem",
+      "pubmed_id": "33902288",
+      "year": "2021",
+      "journal": "64(9):5886-5904",
+      "authors": ""
+    },
+    {
+      "title": "Wang Z, Li Z, Ji H. Direct targeting of \u03b2-catenin in the Wnt signaling pathway: Current progress and perspectives. Med Res Rev",
+      "pubmed_id": "33475177",
+      "pmc_id": "PMC8217106",
+      "year": "2021",
+      "journal": "41(4):2109-2129",
+      "authors": ""
+    },
+    {
+      "title": "Li Z, Zhang M, Teuscher KB, Ji H. Discovery of 1-Benzoyl 4-Phenoxypiperidines as Small-Molecule Inhibitors of the \u03b2-Catenin/B-Cell Lymphoma 9 Protein-Protein Interaction. J Med Chem",
+      "pubmed_id": "34270257",
+      "year": "2021",
+      "journal": "64(15):11195-11218",
+      "authors": ""
+    },
+    {
+      "title": "Wang Z, Zhang M, Quereda V, Frydman SM, Ming Q, Luca VC, Duckett DR, Ji H. Discovery of an Orally Bioavailable Small-Molecule Inhibitor for the \u03b2-Catenin/B-Cell Lymphoma 9 Protein-Protein Interaction. J Med Chem",
+      "pubmed_id": "34382808",
+      "pmc_id": "PMC8817233",
+      "year": "2021",
+      "journal": "64(16):12109-12131",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Developing a First-in-Class -Catenin/BCL9 PPI Inhibitor  \nAward Number: 21-0038-S1, Work Plan No. 1, Amendment 2  \nSponsor: BAYFIELD THERAPEUTICS, LLC  \nJi, H. (PD/PI), Duckett, D. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Developing GRB2-PROTACs for Treatment of Lung Cancer  \nAward Number: 1R21CA267283-02  \nSponsor: National Cancer Institute (NCI)  \nJi, H. (PD/PI)",
+      "source": "NCI",
+      "period": "7283-02"
+    },
+    {
+      "description": "Title: Orexin receptor agonist discovery for development of colon cancer targeted alpha particle therapy  \nAward Number: NA  \nSponsor: Foundation Support-Rsch  \nDuckett, D. (PD/PI), Ji, H. (PD/PI), Morse, D. (PD/PI)",
+      "source": "Foundation"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JiMark_17534.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17534"
+  },
+  "content_hash": "c1b467637c492f2d1dd494e1729d2e6b4c2d3fff2f55be587d1b1be568251af8"
+}

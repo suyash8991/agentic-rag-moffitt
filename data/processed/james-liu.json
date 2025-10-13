@@ -1,0 +1,133 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/james-liu",
+  "last_updated": "2025-10-13T21:46:51.499506",
+  "researcher_id": "19911",
+  "name": "",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Neuro-Oncology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "My research focus is on improving the surgical and radiosurgical treatment of primary and metastatic brain and spine tumors. My research includes understanding the molecular mechanisms that drive the formation of primary and metastatic brain tumors, including cancer stem cells. I am also interested in developing and trialing targeted therapies that improve the medical control of brain tumors. I am also interested in advancing surgical technologies that will improve outcomes for primary and metastatic spine tumors. These in include minimally invasive techniques that allow for maximal survival benefit and pain relief with minimal morbidity.",
+  "research_interests": [
+    "Targeting of glioblastoma stem cells using phage display, developing targeted therapeutics for primary and metastatic brain tumor. Use of immune therapy to target primary brain tumors, including gamma delta T cells for targeting glioblastoma. Optimizing treatment for spinal tumors, including metastatic spine disease. Use of targeted therapies for the treatment of metastatic spine disease. Comparison of open and percutaneous techniques for treatment of spinal tumors. \n  *"
+  ],
+  "associations": [
+    "Neuro-Oncology",
+    "Tumor Microenvironment and Metastasis",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Case Western Reserve University School of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Cleveland Clinic",
+      "position": "Intern",
+      "specialty": "Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "Cleveland Clinic",
+      "specialty": "Neurosurgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Memorial Sloan Kettering Cancer Center",
+      "specialty": "Neurosurgical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Bilenkin A, Barnes A, Brisco A, Whiting J, Tran ND, Beer-Furlan A, Vogelbaum MA, Liu JKC. Comparison of open and percutaneous instrumented fixation for the treatment of spinal metastases. Neurosurg Focus",
+      "pubmed_id": "40311210",
+      "year": "2025",
+      "journal": "58(5):E12",
+      "authors": ""
+    },
+    {
+      "title": "Ugolini A, De Leo A, Yu X, Scirocchi F, Liu X, Peixoto B, Scocozza D, Pace A, Perego M, Gardini A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F. Functional Reprogramming of Neutrophils within the Brain Tumor Microenvironment by Hypoxia-Driven Histone Lactylation. Cancer Discov",
+      "pubmed_id": "40014923",
+      "pmc_id": "PMC12133432",
+      "year": "2025",
+      "journal": "15(6):1270-1296",
+      "authors": ""
+    },
+    {
+      "title": "Chafe SC, Zhai K, Aghaei N, Miletic P, Huang Z, Brown KR, Mobilio D, Young D, Suk Y, Grewal S, McKenna D, Alizada Z, Kieliszek AM, Lam FC, Escudero L, Huang Q, Huebner A, Lu J, Ang P, Anand A, Custers S, Apel E, Slassi S, Brakel B, Kim J, Liu JKC, Bassey-Archibong BI, Abdo R, Shargall Y, Lu JQ, Cutz JC, Zhang Q, Li SS, Venugopal C, Hynds RE, Dufour A, Moffat J, Swanton C, Bao S, Singh SK. A genome-wide in vivo CRISPR activation screen identifies BACE1 as a therapeutic vulnerability of lung cancer brain metastasis. Sci Transl Med",
+      "pubmed_id": "40601773",
+      "pmc_id": "PMC7617989",
+      "year": "2025",
+      "journal": "17(805):eadu2459",
+      "authors": ""
+    },
+    {
+      "title": "De Leo A, Ugolini A, Yu X, Scirocchi F, Scocozza D, Peixoto B, Pace A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F. Glucose-driven histone lactylation promotes the immunosuppressive activity of monocyte-derived macrophages in glioblastoma. Immunity",
+      "pubmed_id": "38703775",
+      "pmc_id": "PMC11114377",
+      "year": "2024",
+      "journal": "57(5):1105-1123",
+      "authors": ""
+    },
+    {
+      "title": "Demetriou AN, Chow F, Craig DW, Webb MG, Ormond DR, Battiste J, Chakravarti A, Colman H, Villano JL, Schneider BP, Liu JKC, Churchman ML, Zada G. Profiling the molecular and clinical landscape of glioblastoma utilizing the Oncology Research Information Exchange Network brain cancer database. Neurooncol Adv",
+      "pubmed_id": "38665799",
+      "pmc_id": "PMC11044707",
+      "year": "2024",
+      "journal": "6(1):vdae046",
+      "authors": ""
+    },
+    {
+      "title": "Tang JD, Mills MN, Nakashima J, Dohm AE, Khushalani NI, Forsyth PA, Vogelbaum MA, Wuthrick EJ, Yu HM, Oliver DE, Liu JKC, Ahmed KA. Clinical outcomes of melanoma brain metastases treated with nivolumab and ipilimumab alone versus nivolumab and ipilimumab with stereotactic radiosurgery. J Neurooncol",
+      "pubmed_id": "38310157",
+      "year": "2024",
+      "journal": "166(3):431-440",
+      "authors": ""
+    },
+    {
+      "title": "Huang Q, Liu L, Xiao D, Huang Z, Wang W, Zhai K, Fang X, Kim J, Liu J, Liang W, He J, Bao S. CD44+ lung cancer stem cell-derived pericyte-like cells cause brain metastases through GPR124-enhanced trans-endothelial migration. Cancer Cell",
+      "pubmed_id": "37595587",
+      "year": "2023",
+      "journal": "41(9):1621-1636",
+      "authors": ""
+    },
+    {
+      "title": "Dohm AE, Nakashima JY, Kalagotla H, Jiang SX, Tang JD, Bhandari M, Kim Y, Graham JA, Khushalani NI, Forsyth PA, Etame AB, Liu JK, Tran ND, Vogelbaum MA, Wuthrick EJ, Yu HM, Oliver DE, Ahmed KA. Stereotactic radiosurgery and anti-PD-1 + CTLA-4 therapy, anti-PD-1 therapy, anti-CTLA-4 therapy, BRAF/MEK inhibitors, BRAF inhibitors, or conventional chemotherapy for the management of melanoma brain metastases. Eur J Cancer",
+      "pubmed_id": "37657227",
+      "year": "2023",
+      "journal": "192:113287",
+      "authors": ""
+    },
+    {
+      "title": "Potez M, Snedal S, She C, Kim J, Thorner K, Tran TH, Ramello MC, Abate-Daga D, Liu JKC. Use of phage display biopanning as a tool to design CAR-T cells against glioma stem cells. Front Oncol",
+      "pubmed_id": "37035164",
+      "pmc_id": "PMC10080078",
+      "year": "2023",
+      "journal": "13:1124272",
+      "authors": ""
+    },
+    {
+      "title": "Lynes J, Khan I, Aguilera C, Rubino S, Thompson Z, Etame AB, Liu JKC, Beer-Furlan A, Tran ND, Macaulay RJB, Vogelbaum MA. Development of a \"Geo-Tagged\" tumor sample registry: intra-operative linkage of sample location to imaging. J Neurooncol",
+      "pubmed_id": "38015375",
+      "year": "2023",
+      "journal": "165(3):449-458",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Radiomic spatial maps for identifying viable tumor extent on multi-parametric MRI for Glioblastoma   \nAward Number: 1R01CA277728-01A1  \nSponsor: National Institutes of Health (NIH)  \nLiu, J. (PD/PI)",
+      "source": "NIH",
+      "period": "7728-01"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LiuJames_19911.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19911"
+  },
+  "content_hash": "bb9ce92ed81cef81efccda8f2c4d1aebbe0ef525a83fe87db15a8e615782be89"
+}

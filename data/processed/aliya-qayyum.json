@@ -1,0 +1,131 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/aliya-qayyum",
+  "last_updated": "2025-10-13T21:45:58.180937",
+  "researcher_id": "28587",
+  "name": "",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Diagnostic Imaging and Interventional Radiology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Research interest focuses on the investigation of imaging tools for the evaluation of biophysical properties of cancer and its environment in order to identify factors important in cancer immune resistance, aggressiveness and recurrence.",
+  "research_interests": [
+    "Recent research has primarily involved imaging features of primary and secondary liver cancer including detection of early response of hepatocellular carcinoma to immunotherapy using MRI; investigation of CT feature association with molecular characteristics and tumor mutations in intra-hepatic cholangiocarcinoma and colorectal liver metastases. \n  *"
+  ],
+  "associations": [
+    "Diagnostic Imaging and Interventional Radiology",
+    "Machine Learning",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Imperial College School of Medicine and Technology"
+    },
+    {
+      "type": "Internship",
+      "institution": "Charing Cross Hospital"
+    },
+    {
+      "type": "Residency",
+      "institution": "The Middlesex Hospital",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "St. Georges Hospital",
+      "specialty": "Diagnostic Radiology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Stanford University Hospital",
+      "specialty": "Radiology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of California San Francisco",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Fang AM, Chapin BF, Shi CW, Sun J, Qayyum A, Kundra V, Corn PG, Kuban DA, Ravizzini GC, Surasi DSS, Ma J, Bathala TK. Whole-body magnetic resonance imaging for staging patients with high-risk prostate cancer. Prostate Cancer P D",
+      "pubmed_id": "39289537",
+      "year": "2025",
+      "journal": "28(3):761-766",
+      "authors": ""
+    },
+    {
+      "title": "Childers BG, Denbo JW, Kim RD, Hoffe SE, Glushko T, Qayyum A, Anaya DA. Intrahepatic cholangiocarcinoma: role of imaging as a critical component for multi-disciplinary treatment approach. Abdom Radiol (NY)",
+      "pubmed_id": "40095023",
+      "year": "2025",
+      "journal": "50(9):4110-4124",
+      "authors": ""
+    },
+    {
+      "title": "El Homsi M, Hassan OT, O'Brien C, Singh C, Arif-Tiwari H, Becker-Weidman DJ, Karolyi D, Bonde A, Venkatesh SK, Brunsing RL, Cunha GM, Miller FH, Costello J, Qayyum A, Marks RM. Standardized reporting of extrahepatic cholangiocarcinoma. Abdom Radiol (NY)",
+      "pubmed_id": "40944876",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Correction: Park et al. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers 2024, 16, 2364. Cancers (Basel)",
+      "pubmed_id": "40149388",
+      "pmc_id": "PMC11941415",
+      "year": "2025",
+      "journal": "17(6)",
+      "authors": ""
+    },
+    {
+      "title": "Glushko T, Costello J, Chima R, McGettigan M, Kim R, Jeong D, Qayyum A. Molecular signatures of intrahepatic cholangiocarcinoma: role in targeted therapy selection. Eur J Radiol",
+      "pubmed_id": "40222184",
+      "year": "2025",
+      "journal": "187:112056",
+      "authors": ""
+    },
+    {
+      "title": "Khasawneh H, O'Brien C, Czeyda-Pommersheim F, Qayyum A, Miller FH, Arif Tiwari H, Paspulati RM, Kierans AS. Beyond cholangiocarcinoma: imaging features of mimicking pathologies in the biliary tract. Abdom Radiol (NY)",
+      "pubmed_id": "39710762",
+      "year": "2025",
+      "journal": "50(7):2928-2943",
+      "authors": ""
+    },
+    {
+      "title": "M Marks R, Arif H, Antonietta Bali M, L Brunsing R, M Cunha G, Khasawneh H, El Homsi M, Singh C, Paspulati R, Kierans A, Qayyum A. Standardizing the reporting of cholangiocarcinoma: the society of abdominal radiology disease focused panel on cholangiocarinoma lexicon. Abdom Radiol (NY)",
+      "pubmed_id": "39775025",
+      "pmc_id": "PMC12181104",
+      "year": "2025",
+      "journal": "50(7):2858-2867",
+      "authors": ""
+    },
+    {
+      "title": "Kierans AS, Costello J, Qayyum A, Taouli B, Venkatesh SK, Yoon JH, Bali MA, Bolan CW, Lee JM, Marks RM, El Homsi M, Miller FH. Imaging cholangiocarcinoma: CT and MRI techniques. Abdom Radiol (NY)",
+      "pubmed_id": "38916614",
+      "year": "2025",
+      "journal": "50(1):94-108",
+      "authors": ""
+    },
+    {
+      "title": "Kierans AS, Cunha GM, King MJ, Marks RM, Miller FH, Lee JM, Qayyum A. Standardized reporting of intrahepatic cholangiocarcinoma. Abdom Radiol (NY)",
+      "pubmed_id": "39373770",
+      "year": "2025",
+      "journal": "50(4):1584-1594",
+      "authors": ""
+    },
+    {
+      "title": "LaPelusa M, Chamseddine S, Tran Cao HS, Xiao L, Hasanov E, Bhosale P, Amin HM, Mohamed YI, Gok Yavuz B, Sakr Y, Xu L, Hu I, Lee SS, Sakamuri D, Jindal S, Nguyen V, Curran MA, Sun R, Rashid A, Duda DG, Sharma P, Qayyum A, Kaseb AO. Tissue and imaging biomarkers of response to neoadjuvant nivolumab or nivolumab plus ipilimumab in patients with resectable hepatocellular carcinoma. Oncology-Basel",
+      "pubmed_id": "39427654",
+      "year": "2024",
+      "journal": "1-20",
+      "authors": ""
+    }
+  ],
+  "grants": [],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers/QayyumAliya_28587.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28587"
+  },
+  "content_hash": "e8b09df5412d75a8d7fc092831b3b02804cfaec5fa1c1a075c61facfc565be1f"
+}

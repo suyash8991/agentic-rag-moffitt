@@ -1,0 +1,105 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/stuart-maudsley",
+  "last_updated": "2025-10-13T21:45:17.770735",
+  "researcher_id": "unknown",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Drug Discovery",
+  "research_program": "Molecular Medicine Program",
+  "overview": "My research theme involves the investigation of how disruptions of G protein-coupled receptor (GPCR) signaling networks underpin the genesis and etiology of cancers as well as other aging-related pathologies. Through my novel appreciation of the multidimensional signaling profiles of GPCRs I aim to introduce a new generation of precision and patient-specific receptor-based therapeutic interventions. In addition to this I also aim to employ this enhanced appreciation of GPCR biology for the creation of new cell/tissue-based diagnostic agents for early - non-invasive - cancer detection.",
+  "research_interests": [
+    "My research interests primarily revolve around the exploitation of receptor signaling paradigms with respect to generating either theragnostics or ameliorative therapies for cancer and potentially driving morbidities such as metabolic syndrome or gastro-intestinal motility syndromes. My research combines high dimensionality data acquisition and analysis coupled with 'wet lab' molecular pharmacology approaches to advance drug discovery, design and development. My primary targets are G protein-coupled receptors but since these molecular targets are intrinsically associated with so many other signaling entities in cells then my interests in therapeutic targeting extend to several other signaling molecules such as proteases, kinases, transporters, scaffolding proteins and nucleotides. One of my current hypotheses is that an intracellular network of GPCRs and associayed signaling factors form a stress sensory network that maintain a monitoring and response system for all cells. This system and its integrity likely act as a gatekeeper for cells so that they can maintain a healthy cell cycle control and metabolic activity. I propose that the disintegration of this network may be one of the key features that predisposes cells to aberrant behavior that includes a potenial slip into oncogenic activity. I therefore plan to 'biohack' this sensory/response system to realign this GPCR monitoring of cell functionality in a cell- and patient-specific manner. \n  *"
+  ],
+  "associations": [
+    "Drug Discovery",
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Junyent M, Noori H, De Schepper R, Frajdenberg S, Elsaigh RKAH, McDonald PH, Duckett D, Maudsley S. Unravelling Convergent Signaling Mechanisms Underlying the Aging-Disease Nexus Using Computational Language Analysis. Curr Issues Mol Biol",
+      "pubmed_id": "40136443",
+      "pmc_id": "PMC11941692",
+      "year": "2025",
+      "journal": "47(3)",
+      "authors": ""
+    },
+    {
+      "title": "Leopoldo M, Contino M, Maudsley S, Vrecl M. Editorial: Macromolecular interactions in signaling pathways: from classical approaches to virtual reality. Front Endocrinol (Lausanne)",
+      "pubmed_id": "38481449",
+      "pmc_id": "PMC10933126",
+      "year": "2024",
+      "journal": "15:1388849",
+      "authors": ""
+    },
+    {
+      "title": "Perry-Hauser N, Maudsley S, Berchiche YA, Slosky LM. Editorial: GPCRs: signal transduction. Front Mol Biosci",
+      "pubmed_id": "38660374",
+      "pmc_id": "PMC11040204",
+      "year": "2024",
+      "journal": "11:1403161",
+      "authors": ""
+    },
+    {
+      "title": "Schreurs G, Maudsley S, Nast C, Praet M, Da Silva Fernandes S, Boor P, D'Haese P, De Broe ME, Vervaet BA. Chronic dehydration induces injury pathways in rats, but does not mimic histopathology of chronic interstitial nephritis in agricultural communities. Sci Rep",
+      "pubmed_id": "37872220",
+      "pmc_id": "PMC10593944",
+      "year": "2023",
+      "journal": "13(1):18119",
+      "authors": ""
+    },
+    {
+      "title": "Maudsley S, Schrauwen C, Harputluo\u011flu \u0130, Walter D, Leysen H, McDonald P. GPR19 Coordinates Multiple Molecular Aspects of Stress Responses Associated with the Aging Process. Int J Mol Sci",
+      "pubmed_id": "37239845",
+      "pmc_id": "PMC10218176",
+      "year": "2023",
+      "journal": "24(10)",
+      "authors": ""
+    },
+    {
+      "title": "Opdebeeck B, Neven E, Maudsley S, Leysen H, Walter D, Geryl H, D'Haese PC, Verhulst A. A Proteomic Screen to Unravel the Molecular Pathways Associated with Warfarin-Induced or TNAP-Inhibited Arterial Calcification in Rats. Int J Mol Sci",
+      "pubmed_id": "36835062",
+      "pmc_id": "PMC9963640",
+      "year": "2023",
+      "journal": "24(4)",
+      "authors": ""
+    },
+    {
+      "title": "Chadwick W, Maudsley S, Hull W, Havolli E, Boshoff E, Hill MDW, Goetghebeur PJD, Harrison DC, Nizami S, Bedford DC, Coope G, Real K, Thiemermann C, Maycox P, Carlton M, Cole SL. The oDGal Mouse: A Novel, Physiologically Relevant Rodent Model of Sporadic Alzheimer's Disease. Int J Mol Sci",
+      "pubmed_id": "37108119",
+      "pmc_id": "PMC10138655",
+      "year": "2023",
+      "journal": "24(8)",
+      "authors": ""
+    },
+    {
+      "title": "Maudsley S, Walter D, Schrauwen C, Van Loon N, Harputluo\u011flu \u0130, Lenaerts J, McDonald P. Intersection of the Orphan G Protein-Coupled Receptor, GPR19, with the Aging Process. Int J Mol Sci",
+      "pubmed_id": "36362387",
+      "pmc_id": "PMC9653598",
+      "year": "2022",
+      "journal": "23(21)",
+      "authors": ""
+    },
+    {
+      "title": "Corremans R, Neven E, Maudsley S, Leysen H, De Broe ME, D'Haese PC, Vervaet BA, Verhulst A. Progression of established non-diabetic chronic kidney disease is halted by metformin treatment in rats. Kidney Int",
+      "pubmed_id": "35271933",
+      "year": "2022",
+      "journal": "101(5):929-944",
+      "authors": ""
+    },
+    {
+      "title": "Van Meenen J, Leysen H, Chen H, Baccarne R, Walter D, Martin B, Maudsley S. Making Biomedical Sciences publications more accessible for machines. Med Health Care Phil",
+      "pubmed_id": "35039972",
+      "year": "2022",
+      "journal": "25(2):179-190",
+      "authors": ""
+    }
+  ],
+  "grants": [],
+  "photo_url": "",
+  "contact": {},
+  "content_hash": "fa5b8201da4f67aa33ba902ed71b32c98752169b33b51d1de50d5c8287d8cd4c"
+}

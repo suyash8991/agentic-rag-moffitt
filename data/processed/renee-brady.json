@@ -1,0 +1,118 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/renee-brady",
+  "last_updated": "2025-10-13T21:41:33.639137",
+  "researcher_id": "19089",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Integrated Mathematical Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "To develop predictive mathematical models of easily accessible, minimally-invasive biomarkers, such as blood markers and patient-reported outcomes. The goal is to quantify and predict individual patient response, while understanding and reducing cancer health disparities.",
+  "research_interests": [
+    "The Brady-Nicholls lab is focused on improving patient care using accessible, minimally-invasive biomarkers through the integration of mathematical modeling, with a special interest on improving outcomes for underrepresented minorities. To accomplish this, we develop predictive mathematical models of these biomarker dynamics that propose patient-tailored treatment strategies that maximize patient response and quality of life.\n  *"
+  ],
+  "associations": [
+    "Integrated Mathematical Oncology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Pasetto S, Harshe I, Brady-Nicholls R, Gatenby RA, Enderling H. Harnessing Flex Point Symmetry to Estimate Logistic Tumor Population Growth. Bull Math Biol",
+      "pubmed_id": "39384633",
+      "year": "2024",
+      "journal": "86(11):135",
+      "authors": ""
+    },
+    {
+      "title": "Mohsin N, Enderling H, Brady-Nicholls R, Zahid MU. Simulating tumor volume dynamics in response to radiotherapy: Implications of model selection. J Theor Biol",
+      "pubmed_id": "37952611",
+      "year": "2024",
+      "journal": "576:111656",
+      "authors": ""
+    },
+    {
+      "title": "West J, Adler F, Gallaher J, Strobl M, Brady-Nicholls R, Brown J, Robertson-Tessi M, Kim E, Noble R, Viossat Y, Basanta D, Anderson ARA. A survey of open questions in adaptive therapy: Bridging mathematics and clinical translation. Elife",
+      "pubmed_id": "36952376",
+      "pmc_id": "PMC10036119",
+      "year": "2023",
+      "journal": "12",
+      "authors": ""
+    },
+    {
+      "title": "Harshe I, Enderling H, Brady-Nicholls R. Predicting Patient-Specific Tumor Dynamics: How Many Measurements Are Necessary?. Cancers (Basel)",
+      "pubmed_id": "36900161",
+      "pmc_id": "PMC10000065",
+      "year": "2023",
+      "journal": "15(5)",
+      "authors": ""
+    },
+    {
+      "title": "Bhatt A, Schabath MB, Hoogland AI, Jim HSL, Brady-Nicholls R. Patient-Reported Outcomes as Interradiographic Predictors of Response in Non-Small Cell Lung Cancer. Clin Cancer Res",
+      "pubmed_id": "37233986",
+      "pmc_id": "PMC10425729",
+      "year": "2023",
+      "journal": "29(16):3142-3150",
+      "authors": ""
+    },
+    {
+      "title": "Jim HSL, Brady-Nicholls R, Hershman DL. The importance of patient-reported outcomes in pragmatic clinical trials. J Natl Cancer Inst",
+      "pubmed_id": "36805254",
+      "pmc_id": "PMC10086620",
+      "year": "2023",
+      "journal": "115(4):352-354",
+      "authors": ""
+    },
+    {
+      "title": "Brady-Nicholls R, Enderling H. Range-Bounded Adaptive Therapy in Metastatic Prostate Cancer. Cancers (Basel)",
+      "pubmed_id": "36358738",
+      "pmc_id": "PMC9657943",
+      "year": "2022",
+      "journal": "14(21)",
+      "authors": ""
+    },
+    {
+      "title": "Brady-Nicholls R, Zhang J, Zhang T, Wang AZ, Butler R, Gatenby RA, Enderling H. Predicting patient-specific response to adaptive therapy in metastatic castration-resistant prostate cancer using prostate-specific antigen dynamics. Neoplasia",
+      "pubmed_id": "34298234",
+      "pmc_id": "PMC8322456",
+      "year": "2021",
+      "journal": "23(9):851-858",
+      "authors": ""
+    },
+    {
+      "title": "Br\u00fcningk SC, Peacock J, Whelan CJ, Brady-Nicholls R, Yu HM, Sahebjam S, Enderling H. Intermittent radiotherapy as alternative treatment for recurrent high grade glioma: a modeling study based on longitudinal tumor measurements. Sci Rep",
+      "pubmed_id": "34642366",
+      "pmc_id": "PMC8511136",
+      "year": "2021",
+      "journal": "11(1):20219",
+      "authors": ""
+    },
+    {
+      "title": "Pasetto S, Enderling H, Gatenby RA, Brady-Nicholls R. Intermittent Hormone Therapy Models Analysis and Bayesian Model Comparison for Prostate Cancer. Bull Math Biol",
+      "pubmed_id": "34797430",
+      "pmc_id": "PMC8604892",
+      "year": "2021",
+      "journal": "84(1):2",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Using Patient-Reported Outcome Dynamics to Predict Response to Immunotherapy in Non-Small Cell Lung Cancer  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nBrady, R. (PD/PI)",
+      "source": "American Cancer Society"
+    },
+    {
+      "description": "Title: Patient-Reported Outcomes as Novel Biomarkers for Monitoring Cancer Progression and Response to Treatment: A Validation Study  \nAward Number: 25C20  \nSponsor: Florida Department of Health  \nJim, H. (PD/PI), Brady, R. (Co-PD/PI), Schabath, M. (Co-PD/PI)"
+    },
+    {
+      "description": ""
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BradyRenee_19089.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19089"
+  },
+  "content_hash": "6c0a0d7f12756263d94b8eea976a95d2b4afc5bf2a477b349ce2bebae1db1856"
+}

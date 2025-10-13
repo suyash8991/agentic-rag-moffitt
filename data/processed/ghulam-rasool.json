@@ -1,0 +1,143 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ghulam-rasool",
+  "last_updated": "2025-10-13T21:44:11.574127",
+  "researcher_id": "32214",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Machine Learning",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Dr. Rasool's research is focused on building robust, trustworthy, safe, and fair AI for improving cancer care. His lab is developing deep and machine learning models for integrating multi-modal, multi-resolution, heterogeneous datasets to answer clinically relevant questions and optimize treatment decisions for personalized cancer care.",
+  "research_interests": [
+    "Dr. Rasool's research is focused on building robust, trustworthy, safe, and fair AI for improving cancer care. His lab is developing deep and machine learning models for integrating multi-modal, multi-resolution, heterogeneous datasets to answer clinically relevant questions and optimize treatment decisions for personalized cancer care.\n  *"
+  ],
+  "associations": [
+    "Neuro-Oncology",
+    "Machine Learning",
+    "Diagnostic Imaging and Interventional Radiology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Arkansas at Little Rock, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Centre for Advanced Studies in Engineering, MSc"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Shirley Ryan AbilityLab",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "pubmed_id": "40553455",
+      "year": "2025",
+      "journal": "34(9):1609-1617",
+      "authors": ""
+    },
+    {
+      "title": "Flack D, Tripathi A, Waqas A, Rasool G, Dera D. Robust Multimodal Fusion for Survival Prediction in Cancer Patients. Cancer Inform",
+      "pubmed_id": "41024938",
+      "pmc_id": "PMC12476512",
+      "year": "2025",
+      "journal": "24",
+      "authors": ""
+    },
+    {
+      "title": "Moassefi M, Houshmand S, Faghani S, Chang PD, Sun SH, Khosravi B, Triphati AG, Rasool G, Bhatia NK, Folio L, Andriole KP, Gichoya JW, Erickson BJ. Cross-Institutional Evaluation of Large Language Models for Radiology Diagnosis Extraction: A Prompt-Engineering Perspective. J Imaging Inform Med",
+      "pubmed_id": "40341981",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Correction: Park et al. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers 2024, 16, 2364. Cancers (Basel)",
+      "pubmed_id": "40149388",
+      "pmc_id": "PMC11941415",
+      "year": "2025",
+      "journal": "17(6)",
+      "authors": ""
+    },
+    {
+      "title": "Koutsoubis N, Waqas A, Yilmaz Y, Ramachandran RP, Schabath MB, Rasool G. Privacy-preserving Federated Learning and Uncertainty Quantification in Medical Imaging. Radiol Artif Intell",
+      "pubmed_id": "40366260",
+      "pmc_id": "PMC12319697",
+      "year": "2025",
+      "journal": "7(4):e240637",
+      "authors": ""
+    },
+    {
+      "title": "Tripathi A, Nielsen IE, Umer M, Ramachandran RP, Rasool G. Explainable AI in Genomics: Transcription Factor Binding Site Prediction with Mixture of Experts. ArXiv",
+      "pubmed_id": "40709306",
+      "pmc_id": "PMC12288655",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Waqas A, Tripathi A, Ahmed S, Mukund A, Farooq H, Johnson JO, Stewart PA, Naeini M, Schabath MB, Rasool G. Self-Normalizing Multi-Omics Neural Network for Pan-Cancer Prognostication. Int J Mol Sci",
+      "pubmed_id": "40806487",
+      "pmc_id": "PMC12347193",
+      "year": "2025",
+      "journal": "26(15)",
+      "authors": ""
+    },
+    {
+      "title": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq",
+      "pubmed_id": "39989973",
+      "pmc_id": "PMC11844656",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Ahmed S, Parker N, Park M, Jeong D, Peres L, Davis EW, Permuth JB, Siegel E, Schabath MB, Yilmaz Y, Rasool G. Reliable Radiologic Skeletal Muscle Area Assessment - A Biomarker for Cancer Cachexia Diagnosis. medRxiv",
+      "pubmed_id": "40313262",
+      "pmc_id": "PMC12045449",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Ullah E, Baig MM, Waqas A, Rasool G, Singh R, Shandilya A, GholamHossieni H, Parwani AV. Multimodal Generative AI for Anatomic Pathology-A Review of Current Applications to Envisage the Future Direction. Adv Anat Pathol",
+      "pubmed_id": "40298358",
+      "year": "2025",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Unified Data Commons Solution for Public Domain, In-House and Third-Party Multimodal Clinical Data  \nAward Number: 75N91024C00069  \nSponsor: National Institutes of Health (NIH)  \nRasool, G. (PD/PI)",
+      "source": "NIH"
+    },
+    {
+      "description": "Title: AI-Driven Early Detection of Cachexia in Pancreatic Cancer and Feasibility of Diet and Exercise Interventions  \nAward Number: 25C62  \nSponsor: Florida Department of Health  \nRasool, G. (PD/PI), Parker, N. (Co-PD/PI), Permuth, J. (Co-PD/PI), Shafer, S. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: SCenE - Self-Assessment and Continual Learning on Edge Devices  \nAward Number: 2234836  \nSponsor: National Science Foundation (NSF)  \nRasool, G. (PD/PI)",
+      "source": "NSF"
+    },
+    {
+      "description": "Title: Leveraging Electronic Health Record Clinical Notes to Understand Cancer Care Equity Among People with HIV and Cancer at Moffitt Cancer Center  \nAward Number:   \nSponsor: Support Accounts-Oper  \nRasool, G. (PD/PI), Coghill, A. (Co-PD/PI), Islam, J. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Improving the Early Detection of Pancreatic Cancer by Developing a Multimodal Machine Learning Approach to Aid in Risk Stratification of Intraductal Papillary Mucinous Neoplasms (IPMNs)  \nAward Number:   \nSponsor: Support Accounts-Oper  \nPermuth, J. (PD/PI), Rasool, G. (PD/PI)"
+    },
+    {
+      "description": "Title: PFI-TT: Trustworthy Artificial Intelligence for the Volumetric Evaluation of Brain Tumors - Robust Learning for Medical Image Segmentation  \nAward Number: 2234468  \nSponsor: National Science Foundation (NSF)  \nRasool, G. (PD/PI), Rieger, J. (Co-PD/PI)",
+      "source": "NSF"
+    },
+    {
+      "description": "Title: Automated De-Identification of Pathology and Radiology Data  \nAward Number: Federal Contract75N91023C00041  \nSponsor: National Cancer Institute (NCI)  \nRasool, G. (PD/PI), Bui, M. (Co-PD/PI), Farinhas, J. (Co-PD/PI), Schabath, M. (Co-PD/PI)",
+      "source": "NCI"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers/RasoolGhulam_32214.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32214"
+  },
+  "content_hash": "8e39398ba3f8e1fb5f66c2636659c00f39facd9fe0f8688fe26110a300427457"
+}

@@ -1,0 +1,146 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/mokenge-malafa",
+  "last_updated": "2025-10-13T21:45:13.700405",
+  "researcher_id": "2725",
+  "name": "",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Gastrointestinal Oncology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Discovery, identification, and characterization of the role of bioactive vitamin E compounds in regulating biological processes in the cancer cell.",
+  "research_interests": [
+    "Dr. Malafa's research group focuses on vitamin E signaling pathways and biomarkers in pancreatic cancer. Previously his group demonstrated vitamin E succinate inhibition of oncogenic Ras signaling pathways (Donapaty et al, Molecular Cancer Therapeutics, 2006). Following up on this work, his group identified the most bioactive vitamin E analogue, delta-tocotrienol, in pancreatic cancer cells and reported that therapeutic levels of delta-tocotrienol was achieved in mice pancreas following oral administration. Dr. Malafa and his collaborators have embarked on a strategy to comprehend signaling pathways active in pancreatic cancer cells and targeted by vitamin E delta-tocotrienol, employing affinity chromatography, chemical proteomics, and mass spectrometry to identify direct interacting proteins. They identified nearly 20 different protein targets of delta-tocotrienol. One of the targets, hCAS, was shown to be a relevant target of delta-tocotrienol action and a valid novel target in pancreatic and colorectal cancers. Future directions in the lab consist of using small molecule-protein binding interactions to define the biochemical target(s) of vitamin E tocotrienol anticancer activity and thereby identify novel targets for the prevention of malignancy\n  *"
+  ],
+  "associations": [
+    "Gastrointestinal Oncology",
+    "Drug Discovery",
+    "Cancer Chemoprevention Research Interest Group",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Wisconsin, Madison",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Medical College of Ohio, Toledo",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "Medical College of Ohio",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "City of Hope National Medical Center",
+      "specialty": "Surgical Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "City of Hope National Medical Center",
+      "specialty": "Surgical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "pubmed_id": "40553455",
+      "year": "2025",
+      "journal": "34(9):1609-1617",
+      "authors": ""
+    },
+    {
+      "title": "Yu J, Laborde JM, Park R, Shahzad M, Kim Y, Cheon J, Imanirad I, Kim RD, Biachi de Castria T, Nardella NL, Malafa M, Denbo JW, Fleming JB, Hoffe SE, Frakes JM, Sinnamon AJ, Pimiento JM, Hodul PJ, Kim DW. Association of Pathologic Response and Adjuvant Chemotherapy with Survival in Resected Pancreatic Ductal Adenocarcinoma Following Neoadjuvant Therapy. Cancers (Basel)",
+      "pubmed_id": "40507279",
+      "pmc_id": "PMC12153592",
+      "year": "2025",
+      "journal": "17(11)",
+      "authors": ""
+    },
+    {
+      "title": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq",
+      "pubmed_id": "39989973",
+      "pmc_id": "PMC11844656",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Bhatia R, Khan I, Li X, Gautam S, Seshacharyulu P, Alsafwani ZW, Bhyravbhatla N, Ponnusamy MP, Jain M, Malafa M, Bindu S, Gulzar A, Nair H, Batra SK, Kumar S. Targeting cancer-associated fibroblast-driven LIF/LIFR axis improves the therapeutic efficacy of gemcitabine and nab-paclitaxel in pancreatic cancer. NPJ Precis Oncol",
+      "pubmed_id": "40846751",
+      "pmc_id": "PMC12373761",
+      "year": "2025",
+      "journal": "9(1):296",
+      "authors": ""
+    },
+    {
+      "title": "Bryant JM, Nakashima J, Khatri V, Malafa M, Frakes J, Hoffe S. To irradiate or electroporate: how should we ablate pancreatic cancer?. Transl Gastroenterol Hepatol",
+      "pubmed_id": "40337766",
+      "pmc_id": "PMC12056099",
+      "year": "2025",
+      "journal": "10:19",
+      "authors": ""
+    },
+    {
+      "title": "Rodriguez VI, Mammadova J, Permuth JB, Luthra A, Pena L, Friedman M, Dam A, Cappelle S, Malafa MP, Hallmon C, Miranda C, Mok SRS. Elevated Urinary Levels of Fungal and Environmental Toxins in Patients with Pancreatic Ductal Adenocarcinoma. J Gastrointest Cancer",
+      "pubmed_id": "39419859",
+      "pmc_id": "PMC11486816",
+      "year": "2024",
+      "journal": "56(1):4",
+      "authors": ""
+    },
+    {
+      "title": "Rauth S, Malafa M, Ponnusamy MP, Batra SK. Emerging Trends in Gastrointestinal Cancer Targeted Therapies: Harnessing Tumor Microenvironment, Immune Factors, and Metabolomics Insights. Gastroenterology",
+      "pubmed_id": "38759843",
+      "year": "2024",
+      "journal": "167(5):867-884",
+      "authors": ""
+    },
+    {
+      "title": "Bryant JM, Nakashima J, Khatri VM, Sinnamon AJ, Denbo JW, Hodul P, Malafa M, Hoffe S, Frakes JM. The Evolving Role of Neoadjuvant Radiation Therapy in Pancreatic Adenocarcinoma. J Clin Med",
+      "pubmed_id": "39597944",
+      "pmc_id": "PMC11594810",
+      "year": "2024",
+      "journal": "13(22)",
+      "authors": ""
+    },
+    {
+      "title": "Li Y, Lauriola M, Kim D, Francesconi M, D'Uva G, Shibata D, Malafa MP, Yeatman TJ, Coppola D, Solmi R, Cheng JQ. Editorial Expression of Concern: Adenomatous polyposis coli (APC) regulates miR17-92 cluster through \u03b2-catenin pathway in colorectal cancer. Oncogene",
+      "pubmed_id": "38378921",
+      "year": "2024",
+      "journal": "43(11):837",
+      "authors": ""
+    },
+    {
+      "title": "Hoffe SE, Aguilera TA, Parikh PJ, Ghaly MM, Herman JM, Caster JM, Kim DW, Costello J, Malafa MP, Moser EC, Kennedy EP, Terry K, Kurman M. Stereotactic body radiotherapy plus rucosopasem in locally advanced or borderline resectable pancreatic cancer: GRECO-2 phase II study design. Future Oncol",
+      "pubmed_id": "38264869",
+      "pmc_id": "PMC10988540",
+      "year": "2024",
+      "journal": "20(8):437-446",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Novel Therapy to Inhibit IPMN Progression  \nAward Number: 5R01CA263575-03  \nSponsor: National Cancer Institute (NCI)  \nMalafa, M. (PD/PI)",
+      "source": "NCI",
+      "period": "3575-03"
+    },
+    {
+      "description": "Title: Evaluating Obesity-Mediated Mechanisms of Pancreatic Carcinogenesis in Minority Populations  \nAward Number: W81XWH-22-1-1022  \nSponsor: Department of Defense (DOD)  \nMalafa, M. (PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": ""
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MalafaMokenge_2725.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2725"
+  },
+  "content_hash": "d511a5da9944afb8ec7edad6de1268663e7eec2ffae45a4e2e64e1c64433a014"
+}

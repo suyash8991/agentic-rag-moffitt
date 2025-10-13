@@ -1,0 +1,120 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jongphil-kim",
+  "last_updated": "2025-10-13T21:47:05.825734",
+  "researcher_id": "4228",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "I have sought to develop statistical methodologies to solve statistical problems identified through collaborative research. My primary research interest involves the design and analysis of early phase clinical trials, multiple comparisons, time-to-event endpoints analysis, imaging data analysis, concordance, and longitudinal data analysis.",
+  "research_interests": [
+    "My primary research interest in the biostatistics area involves the design and analysis of early phase clinical trials, multiple comparisons, time-to-event endpoints analysis, imaging data analysis, concordance, and longitudinal data analysis. As a collaborative track faculty member, my collaborative research interests are diverse. I have actively collaborated with investigators affiliated with the Blood and Marrow Transplant and Cellular Immunotherapy (BMT-CI), Malignant Hematology, Imaging, Radiology, Radiation Oncology, Health Outcomes & Behavior (HOB), Cancer Epidemiology (CE), Geriatric, GI, Thoracic, and Basic Science programs. My role includes the development of LOIs/IITs, the development of extramural/intramural grants applications, the design and analysis of the early phase clinical trials, and the analysis of retrospective studies. Furthermore, I have enthusiastically developed novel methods and applied state-of-the-art approaches in practice. For instance, I developed the Modified Simon\u2019s design with Dr. Michael Schell for the design of single-arm phase II IITs.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Blood and Marrow Transplant and Cellular Immunotherapy",
+    "Immuno-Oncology Program",
+    "Experimental Therapeutics Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Pusan National University, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Georgia Institute of Technology, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Georgia Institute of Technology, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Georgia Institute of Technology, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Elmariah H, Kim J, Gonzalez R, DiMaggio E, Sansil S, Mishra A, Faramand R, Perez L, Lazaryan A, Mirza AS, Khimani F, Liu H, Ochoa-Bayona JL, Nieder M, Perna F, Figura N, Robinson TJ, Nishihori T, Anasetti C, Pidala JA, Bejanyan N. Phase II Trial of Reduced-Intensity Fludarabine, Melphalan, and Total Body Irradiation Conditioning With Haploidentical Donor Peripheral Blood Stem Cell Transplant. Am J Hematol",
+      "pubmed_id": "40492500",
+      "year": "2025",
+      "journal": "100(9):1665-1669",
+      "authors": ""
+    },
+    {
+      "title": "Meads MB, Zhao X, Noyes DR, Sudalagunta P, Achille A, Zhang C, Renatino Canevarolo R, Silva M, Magaletti D, DeAvila D, Toska S, Oates A, Lastorino D, Idiaquez DW, Song J, Sansil S, Yoder SJ, Grajales-Cruz AF, Blue BJ, Freeman CL, Kim J, Alsina M, Brayer J, Siqueira Silva A, Song X, Shain KH, Baz RC. Target antigen and plasma cell phenotype are critical factors for sensitivity to response-adapted daratumumab therapy. Blood",
+      "pubmed_id": "40983035",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Pidala JA, Kim J, Kalos D, Cutler CS, DeFilipp Z, Flowers ME, Hamilton BK, Chin KK, Rotta M, El Jurdi N, Hamadani M, Ahmed G, Kitko CL, Ponce DM, Sung AD, Tang H, Farhadfar N, Nemecek ER, Pusic I, Qayed M, Rangarajan HG, Hogan WJ, Etra AM, Jaglowski SM. Ibrutinib for therapy of steroid-refractory chronic graft-versus-host disease: a multicenter real-world analysis. Blood Adv",
+      "pubmed_id": "39454280",
+      "pmc_id": "PMC11909441",
+      "year": "2025",
+      "journal": "9(5):1040-1048",
+      "authors": ""
+    },
+    {
+      "title": "Schmitz J, Gaskill E, Price S, Cao B, Kim J, Baluch A, Klinkova O, Faramand R, Mishra A, Perez L, Khimani F, Lazaryan A, Ochoa-Bayona JL, Liu H, Mirza AS, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H. Letermovir reduces cytomegalovirus in HLA-matched and mismatched allogeneic hematopoietic cell transplant patients receiving post-transplant cyclophosphamide. Bone Marrow Transplant",
+      "pubmed_id": "40617898",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Morse B, Jeong D, Ahmed A, Kim J, Spiess P, Chahoud J. Preoperative prediction of high-risk lymph nodes in penile cancer: Graafland criteria vs radiomics. BJU Int",
+      "pubmed_id": "40130666",
+      "year": "2025",
+      "journal": "136(1):45-46",
+      "authors": ""
+    },
+    {
+      "title": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL. Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes. Blood",
+      "pubmed_id": "39652773",
+      "year": "2025",
+      "journal": "145(15):1645-1657",
+      "authors": ""
+    },
+    {
+      "title": "Zhang Y, Rose A, Khadka S, Cao B, Eatrides J, Saeed H, Shah BD, Chavez J, Bello C, Lazaryan A, Khimani F, Ibarz JP, Liu HD, Locke FL, Jain MD, Zhang L, Kharfan-Dabaja MA, Kim J, Ayala E, Nishihori T, Sokol L. Autologous Hematopoietic Cell Transplantation Consolidation for First Response is Associated With Longer Survival Among Patients With Nodal Peripheral T Cell Lymphoma. Transplant Cell Ther",
+      "pubmed_id": "38740140",
+      "year": "2024",
+      "journal": "30(9):887",
+      "authors": ""
+    },
+    {
+      "title": "Handley G, Yepes A, Eliassen E, Dominguez G, Pasikhova Y, Klinkova O, Baluch A, Febres-Aldana AJ, Alsina M, Elmariah H, Khimani F, Hansen DK, Freeman CL, Jain MD, Locke F, Lazaryan A, Liu HD, Mishra A, Mirza AS, Nishihori T, Ochoa L, Perez L, Pidala J, Puglianini OC, Nieder M, Perna F, Kim J, Bejanyan N, Faramand R. Outcomes of Haploidentical Stem Cell Transplant Recipients With HHV-6B Reactivation. Open Forum Infect Dis",
+      "pubmed_id": "39411216",
+      "pmc_id": "PMC11475747",
+      "year": "2024",
+      "journal": "11(10):ofae564",
+      "authors": ""
+    },
+    {
+      "title": "Pidala JA, Holtan SG, Walton K, Kim J, Cao B, Elmariah H, Mishra A, Bejanyan N, Nishihori T, Khimani F, Perez LE, Faramand RG, Davila ML, McSain S, Pleskow J, Baron J, Anasetti C, Moran Segura CM, Weisdorf DJ, Blazar BR, Miller JS, Bachanova V, El Jurdi N, Betts BC. JAK2/mTOR inhibition fails to prevent acute GVHD despite reduced Th1/Th17 cells: final phase 2 trial results. Blood",
+      "pubmed_id": "39046783",
+      "pmc_id": "PMC11619790",
+      "year": "2024",
+      "journal": "144(22):2295-2307",
+      "authors": ""
+    },
+    {
+      "title": "Albanyan O, Elmariah H, Kalos D, Kim J, Faramand R, Sallman D, Mishra A, Sweet K, Perez L, Ochoa-Bayona J, Nieder M, Komrokji R, Lancet J, Fernandez H, Nishihori T, Pidala J, Anasetti C, Bejanyan N. Melphalan Dose in Combination With Fludarabine Affects Gastrointestinal Toxicity and Graft-Versus-Host Disease After Allogeneic Transplantation in Acute Myeloid Leukemia and Myelodysplastic Syndromes. Transplant Cell Ther",
+      "pubmed_id": "39147136",
+      "year": "2024",
+      "journal": "30(11):1090",
+      "authors": ""
+    }
+  ],
+  "grants": [],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers/KimJongphil_4228.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4228"
+  },
+  "content_hash": "b850f65d094331ff64667d32e6c7090e10c41d97ece2abd2174d04d84a77934d"
+}

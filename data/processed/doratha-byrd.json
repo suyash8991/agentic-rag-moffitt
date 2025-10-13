@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/doratha-byrd",
+  "last_updated": "2025-10-13T21:43:27.293106",
+  "researcher_id": "28607",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Cancer Epidemiology",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Dr. Byrd's research focuses on elucidating the interrelationships among modifiable dietary and lifestyle exposures, the microbiome, and cancer risk and progression. Her long term goal is to use multilevel approaches to address cancer disparities with her etiological microbiome research.",
+  "research_interests": [
+    "Dr. Byrd completed her Ph.D. in epidemiology at Emory University, where her dissertation research focused on the development and validation of novel, inflammation biomarker panel-weighted dietary and lifestyle inflammation scores, and their associations with colorectal neoplasms. She completed a postdoctoral fellowship in the Metabolic Epidemiology Branch of the Division of Cancer Epidemiology and Genetics at the National Cancer Institute, where she was actively involved in conducting multiple studies to establish the best, standard methods for collecting fecal samples for 16S rRNA and shotgun metagenomic microbiome studies. As a logical next step of this work, she extended her methodological findings to application in etiological investigations of the interrelationships among diet, colonic mucosal and fecal microbes, microbiome-related metabolites, and cancer risk and progression. In January 2021, she joined the H. Lee Moffitt Cancer Center and Research Institute as an Assistant Member in the Cancer Epidemiology Program, where she is continuing her methodological and etiological microbiome research. Her long-term goal is to use multilevel approaches to address cancer disparities with her etiological diet and microbiome research.\n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Gastrointestinal Oncology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Emory University, Rollins School of Public Health, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Florida, MPH"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK. Comparison of volumetric and single-slice computed tomography body composition metrics for colorectal cancer survival. Eur J Radiol",
+      "pubmed_id": "40532592",
+      "year": "2025",
+      "journal": "190:112241",
+      "authors": ""
+    },
+    {
+      "title": "Glenny EM, Lin T, Bandera VM, Mirminachi B, Khumukcham SS, Gigic B, Warby CA, Aksonova O, Coleman MF, Carpanese A, Busch C, Himbert C, Ose J, Nix DA, Boucher K, Schirmacher P, Strehli I, Hardikar S, Cohan JN, Jedrzkiewicz J, Brobeil A, Schneider MA, Kahlert C, Siegel EM, Byrd DA, Toriola AT, Shibata D, Li CI, Figueiredo JC, Tan AC, Roper J, Ulrich CM, Hursting SD. Obesity promotes conserved inflammatory and metabolic transcriptional programs in colon tumors: Evidence from mouse models and the ColoCare Study patient cohort. Am J Clin Nutr",
+      "pubmed_id": "40998019",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Ilozumba MN, Gomez MF, Lin T, Himbert C, Round JL, Zac Stephens W, Warby CA, Hardikar S, Li CI, Figueiredo JC, Damerell V, Fillmore GC, Pickron B, Toriola AT, Shibata D, Holowatyj AN, Kahlert C, Sankar K, Siegel EM, Jedrzkiewicz J, Gigic B, Byrd DA, Ose J, Ulrich CM. Pre-surgery gut microbial diversity and abundance are associated with post-surgery onset of cachexia in colorectal cancer patients: the ColoCare Study. Cancer Causes Control",
+      "pubmed_id": "40906320",
+      "pmc_id": "PMC12478455",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Weis AM, Bauer KM, Tang WW, Stephen-Victor E, Bell R, Brown DG, Ekiz HA, Tran V, Klag KA, Swanson EA, Barrios L, Harwood M, Hill JH, Ost KS, Gigic B, Schneider M, Ose J, Hardikar S, Toriola AT, Shibata D, Li CI, Figueiredo JC, Byrd DA, Siegel EM, Arnolds K, Lozupone C, Ulrich CM, O'Connell RM, Stephens WZ, Round JL. A capsular polysaccharide from a healthy human microbiota member activates a Lag-3-NK cell axis to restrain colon cancer and augment immunotherapy. Cell Rep",
+      "pubmed_id": "40849910",
+      "year": "2025",
+      "journal": "44(9):116172",
+      "authors": ""
+    },
+    {
+      "title": "Byrd DA, Gomez M, Hogue S, Wan Y, Ortega-Villa A, Warner A, Dagnall C, Jones K, Hicks B, Albert P, Murphy G, Sinha R, Vogtmann E. Response to Hanif and Sholihah. J Natl Cancer Inst",
+      "pubmed_id": "40828889",
+      "pmc_id": "PMC12505123",
+      "year": "2025",
+      "journal": "117(10):2144-2145",
+      "authors": ""
+    },
+    {
+      "title": "Levy JA, Kazemian E, Ramin C, Loro\u00f1a NC, Nadri M, Gasho JO, Silos KD, Nikolova AP, Dey D, Siegel EM, Gigic B, Hardikar S, Byrd DA, Toriola AT, Ose J, Li CI, Shibata D, Ulrich CM, Tamarappoo BK, Atkins KM, Figueiredo JC. Subclinical Atherosclerosis and Cardiovascular Events Among Patients With Colorectal Cancer. Cancer Med",
+      "pubmed_id": "40365909",
+      "pmc_id": "PMC12076194",
+      "year": "2025",
+      "journal": "14(10):e70938",
+      "authors": ""
+    },
+    {
+      "title": "Kresovich JK, Reid BM, O'Brien KM, Xu Z, Byrd DA, Weinberg CR, Sandler DP, Taylor JA. DNA methylation-predicted plasma protein levels and breast cancer risk. Breast Cancer Res",
+      "pubmed_id": "40140843",
+      "pmc_id": "PMC11948855",
+      "year": "2025",
+      "journal": "27(1):46",
+      "authors": ""
+    },
+    {
+      "title": "Wolf PG, Welsh C, Binion B, Dai H, Oliveira ML, Hamm A, Goldberg S, Buobu PS, Schering T, Vergis S, Kessee N, Gomez SL, Yazici C, Maienschein-Cline M, Byrd DA, Gaskins HR, Ridlon JM, Mutlu E, Greening C, Tussing-Humphreys L. Secondary Bile Acid Derivatives Are Contributors to the Fecal Bile Acid Pool and Associated With Bile Acid-Modulating Nutrients. J Nutr",
+      "pubmed_id": "39805403",
+      "pmc_id": "PMC11934243",
+      "year": "2025",
+      "journal": "155(3):826-838",
+      "authors": ""
+    },
+    {
+      "title": "Byrd DA, Gomez M, Hogue S, Wan Y, Ortega-Villa A, Warner A, Dagnall C, Jones K, Hicks B, Albert P, Murphy G, Sinha R, Vogtmann E. Effects of a high-fiber, high-fruit and high-vegetable, low-fat dietary intervention on the rectal tissue microbiome. J Natl Cancer Inst",
+      "pubmed_id": "39980340",
+      "pmc_id": "PMC12145913",
+      "year": "2025",
+      "journal": "117(6):1237-1244",
+      "authors": ""
+    },
+    {
+      "title": "Byrd DA, Damerell V, Gomez Morales MF, Hogue SR, Lin T, Ose J, Himbert C, Ilozumba MN, Kahlert C, Shibata D, Toriola AT, Li CI, Figueiredo J, Stephens WZ, Warby CA, Hardikar S, Siegel EM, Round J, Ulrich CM, Gigic B. The gut microbiome is associated with disease-free survival in stage I-III colorectal cancer patients. Int J Cancer",
+      "pubmed_id": "39887373",
+      "pmc_id": "PMC12262587",
+      "year": "2025",
+      "journal": "157(1):64-73",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Geriatric Assessment Domains in Relation to Treatment Outcomes Among Older Adults with Colorectal Cancer  \nAward Number: 5R01AG083580-02  \nSponsor: National Cancer Institute (NCI)  \nByrd, D. (PD/PI)",
+      "source": "NCI",
+      "period": "3580-02"
+    },
+    {
+      "description": "Title: Investigating the Associations of SDOH and Cardiometabolic Characteristics with Disparities in Treatment Outcomes and Survivorship Among Colorectal Cancer Patients  \nAward Number:   \nSponsor: Support Accounts-Oper  \nByrd, D. (PD/PI), Islam, J. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Body Composition and Adiposity-Associated Thromboinflammation in Colorectal Cancer Prognosis  \nAward Number: 5R01CA276496-02  \nSponsor: National Cancer Institute (NCI)  \nByrd, D. (PD/PI)",
+      "source": "NCI",
+      "period": "6496-02"
+    },
+    {
+      "description": "Title: Transdisciplinary Team Science in Colorectal Cancer Prognosis: The ColoCare Study  \nAward Number: 5U01CA206110-09  \nSponsor: National Cancer Institute (NCI)  \nByrd, D. (PD/PI)",
+      "source": "NCI",
+      "period": "6110-09"
+    },
+    {
+      "description": "Title: Epigenomic Signatures in Cancer with an Emphasis on HPV-associated Cancer  \nAward Number: Amendment 3  \nSponsor: University of Tennessee  \nByrd, D. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ByrdDoratha_28607.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28607"
+  },
+  "content_hash": "8aa6918f4aad130d75b4b69cf2745eee8cd6bc749df45f3a0ed2f25256c095c4"
+}

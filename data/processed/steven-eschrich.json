@@ -1,0 +1,125 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/steven-eschrich",
+  "last_updated": "2025-10-13T21:44:31.797092",
+  "researcher_id": "2765",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Identifying relevant and novel connections within the context of the experiment is a crucial component of biomedical research in the high-throughput era.\u201d",
+  "research_interests": [
+    "My research interests can be broadly categorized into two areas. First, I am interested in developing and adapting technology to answer biomedical questions more precisely or more robustly. My work in this area includes the development of software tools and algorithms for more accurately quantifying gene expression from microarray experiments. This includes aspects such as normalization algorithms, image processing algorithms for the raw image generated from a microarray experiment. My interests do not center solely on gene expression; I have also begun working in developing more accurate peak detection within mass spec data and better quantification of variability within spectratyping technologies. Several of these systems are in use at Moffitt currently. This effort also includes developing software for easier end-user visualization of existing data. A second area of research interest involves the use of computational tools to elucidate more knowledge from high-throughput biological assays. Methodological development in the analysis of noisy and redundant biological data is an important area of focus that can dramatically improve the biological leads provided in expression-based experiments. As more data is generated at the bench, increasingly the most difficult aspect of the experiment is the correct and complete interpretation of the results. For instance, gene expression experiments may generate a number of potential targets but at present there is little guidance on understanding how these targets may interact at the system level. This increase in the amount of data generated has eliminated manual inspection of raw data from most large experiments. Intelligent systems that identify relevant connections and suggest new, novel connections within the context of the experiment performed is a crucial component to undertaking biomedical research in the high-throughput era. At present, little knowledge exists on the theoretical aspects of this biological data; however, machine learning provides a mechanism for developing empirically-justified algorithms for summarizing and mining large datasets for essentially leads that can be taken forward in further investigations within a laboratory setting.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Lung Cancer Center of Excellence",
+    "Systems Medicine Working Group",
+    "Molecular Medicine Program",
+    "Experimental Therapeutics Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Florida State University, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST. Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study. Contemp Clin Trials",
+      "pubmed_id": "40992541",
+      "year": "2025",
+      "journal": "158:108096",
+      "authors": ""
+    },
+    {
+      "title": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD. Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida. Cancer Res Commun",
+      "pubmed_id": "40309949",
+      "pmc_id": "PMC12082392",
+      "year": "2025",
+      "journal": "5(5):804-813",
+      "authors": ""
+    },
+    {
+      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL. spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis. Cancer Res",
+      "pubmed_id": "39636739",
+      "pmc_id": "PMC11873723",
+      "year": "2025",
+      "journal": "85(5):848-858",
+      "authors": ""
+    },
+    {
+      "title": "Berglund AE, Puskas J, Yoder SJ, Smith AT, Marchion DC, Qin D, Mul\u00e9 JJ, Torres-Roca JF, Eschrich SA. Evaluating the Radiation Sensitivity Index and 12-Chemokine Gene Expression Signature for Clinical Use in a CLIA Laboratory. Cancer Res Commun",
+      "pubmed_id": "39932296",
+      "pmc_id": "PMC11873780",
+      "year": "2025",
+      "journal": "5(3):389-397",
+      "authors": ""
+    },
+    {
+      "title": "Eschrich SA, Torres-Roca JF. In Reply to Li. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "40382168",
+      "year": "2025",
+      "journal": "122(2):513-514",
+      "authors": ""
+    },
+    {
+      "title": "Veith T, Beck R, Tagal V, Li T, Alahmari S, Cole J, Hannaby D, Kyei J, Yu X, Maksin K, Schultz A, Lee H, El Naqa I, Eschrich S, Ji HP, Diaz A, Andor N. CLONEID: A Framework for Longitudinal Integration of Phenotypic and Genotypic Data to Monitor and Steer Subclonal Dynamics. bioRxiv",
+      "pubmed_id": "40631300",
+      "pmc_id": "PMC12236826",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Garcia M, Geiss C, Blackwell R, Maconi ML, Amorrortu RP, Tapia-Kwan E, Turner K, Fuzzell L, Zhao Y, Eschrich SA, Rollison DE, Vadaparampil ST. A Formative Evaluation of Interventions to Enhance Clinical Trial Diversity Guided by the Socioecological Model. Cancers (Basel)",
+      "pubmed_id": "40723166",
+      "pmc_id": "PMC12293947",
+      "year": "2025",
+      "journal": "17(14)",
+      "authors": ""
+    },
+    {
+      "title": "Mustasam A, Parza K, Ionescu F, Gullapalli K, Paravathaneni M, Kim Y, Sandstrom RE, Al Assaad M, Grass GD, Johnstone P, Eschrich S, Safa H, Chadha J, Roman Souza G, David J, Semaan A, Zacharias NM, Pettaway C, Giuliano AR, Spiess PE, Chahoud J. The Prognostic Role of HPV or p16INK4a Status in Penile Squamous Cell Carcinoma: A Meta-Analysis. J Natl Compr Canc Ne",
+      "pubmed_id": "39752880",
+      "year": "2025",
+      "journal": "23(2)",
+      "authors": ""
+    },
+    {
+      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "pubmed_id": "40799741",
+      "pmc_id": "PMC12340904",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Berglund A, Puskas J, Yoder S, Smith AT, Marchion DC, Qian D, Mul\u00e9 JJ, Torres-Roca JF, Eschrich SA. Evaluating the Radiation Sensitivity Index and 12-chemokine gene expression signature for clinical use in a CLIA laboratory. bioRxiv",
+      "pubmed_id": "39345465",
+      "pmc_id": "PMC11429982",
+      "year": "2024",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Tampa Bay Life Sciences Computing Commons (TBLSCC)  \nAward Number: S101S10OD032423-01  \nSponsor: National Institutes of Health (NIH)  \nEschrich, S. (PD/PI)",
+      "source": "NIH",
+      "period": "2423-01"
+    },
+    {
+      "description": "Title: Large-Language Models for Enabling Ubiquitous Access to Cancer Clinical Trials  \nAward Number: MOAAY  \nSponsor: Florida Department of Health  \nEschrich, S. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/EschrichSteven_2765.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2765"
+  },
+  "content_hash": "72943b0c7b1f72a2f09073520ddce1762e657c955882e63e4e1cc9e2c1fd2925"
+}

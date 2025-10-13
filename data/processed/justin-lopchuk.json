@@ -1,0 +1,134 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/justin-lopchuk",
+  "last_updated": "2025-10-13T21:45:08.387309",
+  "researcher_id": "17775",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Drug Discovery",
+  "research_program": "Molecular Medicine Program",
+  "overview": "1) The acceleration of drug discovery through development of new methods in organic synthesis. 2) The practical and scalable synthesis of bioactive natural products as leads in medicinal chemistry. 3) The creation of new methods and reagents for the covalent targeting of proteins with small molecules.",
+  "research_interests": [
+    "Our research program is grounded in synthetic organic chemistry with a specific focus on the development of new reactions, the design of new reagents, and the total synthesis of natural products with anti-cancer activity. In collaboration with other research groups at Moffitt, we will apply our chemistry to synthesize chemical probes designed to interrogate the function of key oncoproteins and immune-regulatory proteins, while ultimately seeking to develop these probes and lead compounds into novel anti-cancer drugs. Methodology. In our ongoing quest to facilitate the rapid synthesis of bioactive molecules, we aim to develop new reactions and easy-to-use reagents centered around the deliberate use of radicals and other reactive intermediates for C\u2013C, C\u2013N, and C\u2013S bond formation. Each method is designed to enable the construction of small building blocks, the modification of natural products, and the late-stage functionalization of complex molecules. Toward our goal of exploring underutilized chemical space, we will focus our attention on designing reagents which allow for the simple installation of a variety of bioisosteres. Total Synthesis. For some anti-cancer natural products, total synthesis remains the best strategy for obtaining sufficient amounts of compounds for a thorough biological evaluation, let alone the prospect of clinical trials. After carefully selecting our targets, our lab will focus on developing routes which are short, scalable, and designed to deliver multigram quantities of material for biological study, as well as the ability to synthesize libraries of analogs. Drug Discovery. Moffitt\u2019s highly collaborative environment allows us to regularly engage with numerous biologists, chemists, and clinicians in both the Department of Drug Discovery and the Chemical Biology and Molecular Medicine Program. Here we will incorporate our new methodologies in fragment-based drug discovery, the design of chemical probes, and the chemoselective modification or tagging of bioactive molecules. The newly developed reagents and methods for installation of bioisosteres will be available for collaborators and their own lead compounds.\n  *"
+  ],
+  "associations": [
+    "Drug Discovery",
+    "Head and Neck-Endocrine Oncology",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Dartmouth College, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The Scripps Research Institute",
+      "specialty": "Chemistry"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J. PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo. Mol Cancer Ther",
+      "pubmed_id": "40376796",
+      "year": "2025",
+      "journal": "OF1-OF10",
+      "authors": ""
+    },
+    {
+      "title": "Che W, Wojitas L, Shan C, Lopchuk JM. Divergent synthesis of complex withanolides enabled by a scalable route and late-stage functionalization. Sci Adv",
+      "pubmed_id": "38941454",
+      "pmc_id": "PMC11212736",
+      "year": "2024",
+      "journal": "10(26):eadp9375",
+      "authors": ""
+    },
+    {
+      "title": "Xing Q, Chandrachud PP, Tillett K, Lopchuk JM. Regioselective hydroamination of unactivated olefins with diazirines as a diversifiable nitrogen source. Nat Commun",
+      "pubmed_id": "39025859",
+      "pmc_id": "PMC11258257",
+      "year": "2024",
+      "journal": "15(1):6049",
+      "authors": ""
+    },
+    {
+      "title": "Teng S, Shultz ZP, Shan C, Wojtas L, Lopchuk JM. Asymmetric synthesis of sulfoximines, sulfonimidoyl fluorides and sulfonimidamides enabled by an enantiopure bifunctional S(VI) reagent. Nat Chem",
+      "pubmed_id": "38238465",
+      "year": "2024",
+      "journal": "16(2):183-192",
+      "authors": ""
+    },
+    {
+      "title": "Athawale PR, Shultz ZP, Saputo A, Hall YD, Lopchuk JM. Strain-release driven reactivity of a chiral SuFEx reagent provides stereocontrolled access to sulfinamides, sulfonimidamides, and sulfoximines. Nat Commun",
+      "pubmed_id": "39143047",
+      "pmc_id": "PMC11324897",
+      "year": "2024",
+      "journal": "15(1):7001",
+      "authors": ""
+    },
+    {
+      "title": "Karim RM, Yang L, Chen L, Bikowitz MJ, Lu J, Grassie D, Shultz ZP, Lopchuk JM, Chen J, Sch\u00f6nbrunn E. Discovery of Dual TAF1-ATR Inhibitors and Ligand-Induced Structural Changes of the TAF1 Tandem Bromodomain. J Med Chem",
+      "pubmed_id": "35191694",
+      "year": "2022",
+      "journal": "65(5):4182-4200",
+      "authors": ""
+    },
+    {
+      "title": "Shultz ZP, Scattolin T, Wojtas L, Lopchuk JM. Stereospecific \u03b1-(hetero)arylation of sulfoximines and sulfonimidamides. Nat Synth",
+      "pubmed_id": "35415722",
+      "pmc_id": "PMC8994872",
+      "year": "2022",
+      "journal": "1(2):170-179",
+      "authors": ""
+    },
+    {
+      "title": "Maharaj V, Chandrachud PP, Che W, Wojtas L, Lopchuk JM. Photodecarboxylative Amination of Redox-Active Esters with Diazirines. Org Lett",
+      "pubmed_id": "34747619",
+      "year": "2021",
+      "journal": "23(22):8838-8842",
+      "authors": ""
+    },
+    {
+      "title": "Chandrachud PP, Wojtas L, Lopchuk JM. Decarboxylative Amination: Diazirines as Single and Double Electrophilic Nitrogen Transfer Reagents. J Am Chem Soc",
+      "pubmed_id": "33332115",
+      "year": "2020",
+      "journal": "142(52):21743-21750",
+      "authors": ""
+    },
+    {
+      "title": "Lopchuk JM, Fjelbye K, Kawamata Y, Malins LR, Pan CM, Gianatassio R, Wang J, Prieto L, Bradow J, Brandt TA, Collins MR, Elleraas J, Ewanicki J, Farrell W, Fadeyi OO, Gallego GM, Mousseau JJ, Oliver R, Sach NW, Smith JK, Spangler JE, Zhu H, Zhu J, Baran PS. Strain-Release Heteroatom Functionalization: Development, Scope, and Stereospecificity. J Am Chem Soc",
+      "pubmed_id": "28140573",
+      "pmc_id": "PMC5334783",
+      "year": "2017",
+      "journal": "139(8):3209-3226",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: New Reagents for C-C and C-N Bond Formation  \nAward Number: 5R35GM142577-03  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nLopchuk, J. (PD/PI)",
+      "period": "2577-03"
+    },
+    {
+      "description": "Title: Diazirines and diaziridines as nitrogen transfer reagents  \nAward Number: 2301063  \nSponsor: National Science Foundation (NSF)  \nLopchuk, J. (PD/PI)",
+      "source": "NSF"
+    },
+    {
+      "description": "Title: Selective Targeting of TAF1 Function in Acute Myeloid Leukemia  \nAward Number: 1R01CA279378-01A1  \nSponsor: National Cancer Institute (NCI)  \nChen, J. (PD/PI), Lopchuk, J. (PD/PI), Schonbrunn, E. (PD/PI)",
+      "source": "NCI",
+      "period": "9378-01"
+    },
+    {
+      "description": "Title: Development of bifunctional CDK2 inhibitors for treatment of CCNE1-driven cancers  \nAward Number: 1R21CA288927-01  \nSponsor: National Cancer Institute (NCI)  \nLopchuk, J. (PD/PI), Schonbrunn, E. (PD/PI)",
+      "source": "NCI",
+      "period": "8927-01"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LopchukJustin_17775.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17775"
+  },
+  "content_hash": "7abd44dce6fa72f1b23caec2c343d31ac1b45821e1f902cf83303cbbdf795c44"
+}

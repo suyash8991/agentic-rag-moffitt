@@ -1,0 +1,125 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kathleen-egan",
+  "last_updated": "2025-10-13T21:43:35.188765",
+  "researcher_id": "3841",
+  "name": "",
+  "degrees": [],
+  "title": "",
+  "primary_program": "Cancer Epidemiology",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Epidemiology and prevention of breast cancer and tumors of the brain",
+  "research_interests": [
+    "Dr. Egan is an epidemiologist with research interests in molecular epidemiology and lifestyle-directed prevention of cancer. Over her career, she has published more than 240 primary research reports on breast and ovarian cancer risk factors and outcome, and etiologic and outcomes-focused research in melanoma and primary tumors of the brain. In the area of breast/ovarian cancer, she has published findings from the Nurses\u2019 Health Study cohorts. She was also site PI for the \u2018Collaborative Breast Cancer Study\u2019 (CBCS), a multi-institutional, population-based case-control study of breast cancer that ultimately enrolled more than 20,000 breast cancer cases and 20,000 community controls. Ovarian cancer cases were also enrolled in one cycle of funding. Based on 3 successive cycles of R01 funding, the CBCS is the basis for many original research studies focused on lifestyle risk factors in breast and ovarian cancer. Dr. Egan also served as PI on a study examining genetic variants in the estrogen pathway based on the CBCS and she remains an active member of the Breast Cancer Association Consortium (BCAC) to which CBCS has made a considerable contribution. The large CBCS case cohort also offers new insights on lifestyle factors associated with breast cancer survival based on follow up of case women enrolled in the CBCS beginning in 1992. Dr. Egan remains active in studies of breast cancer risk factors, with currently funded research examining the impact of gut microbial composition (the \u2018gut microbiome\u2019) on circulating estrogen levels and breast density in postmenopausal women. Dr. Egan\u2019s key area of active research is the elucidation of risk factors for primary tumors of the brain (glioma and meningioma). Glioma is one of the most devastating human tumors with a largely unknown etiology. Recognizing this knowledge gap, in 2005, Dr. Egan launched a multicenter case-control study to examine genetic and lifestyle risk factors for these tumors. Incident cases were enrolled at a network of high-volume academic medical centers in the Southeastern US. The infrastructure also provided opportunity to enroll patients with meningioma, a \u2018benign\u2019 tumor of the CNS, for etiologic research. More than 2000 glioma cases, 500 meningioma cases and 2000 community controls were enrolled in \u201cGliomaSE\u201d. Published findings pinpoint early life (higher birth order; delayed menarche; prolonged growth phase) as a critical period establishing risk of adult glioma. GliomaSE was also the first study to independently validate genetic risk associations from GWAS both for glioma and meningioma. Dr. Egan has also published novel findings linking viruses and other infectious agents with the risk of glioma based on the Janus Serum Bank and has prospectively investigated dietary factors in relation to glioma risk based on the Harvard cohort studies and UK Biobank. Dr. Egan has also been active in etiologic and clinical/ translational research in melanoma. She has published more than 50 research articles on clinical outcomes in and risk factors for melanoma of the uveal tract, a rare and poorly understood tumor of the pigmented layer of the inner eye, based on the large clinic population at the Massachusetts Eye & Ear Infirmary, a major referral center for treatment of these tumors. \n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Neuro-Oncology",
+    "Cancer Epidemiology Program",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Cancer Chemoprevention Research Interest Group",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Harvard University, ScD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Boston University, MPH"
+    }
+  ],
+  "publications": [
+    {
+      "title": "White SL, Brasher MS, Pattee J, Zhou W, Chapman S, Jee YH, Bell CC, Jamil TL, Barrio M, Hirbo J, Cox NJ, Straub P, Namba S, Bertucci-Richter E, Guare L, EdrisMohammed A, Morris S, Mulford AJ, Zhang H, Fennessy B, Tobin MD, Chen J, Williams AT, John C, van Heel DA, Mathur R, Finer S, Moksnes MR, Brumpton B, \u00c5svold BO, Peculis R, Rovite V, Konrade I, Wang Y, Crooks K, Chavan S, Fisher MJ, Rafaels N, Lin M, Shortt J, Sanders AR, Whiteman D, MacGregor S, Medland S, Thorsteinsd\u00f3ttir U, Stef\u00e1nsson K, Karaderi T, Egan KM, Bocklage T, McCrary HC, Riedlingeer G, Salhia B, Shriver C, Phan MD, Farlow JL, Edge S, Kaur V, Churchman M, Rounbehler RJ, Brock PL, Ringel MD, Pividori M, Schweppe R, Raeburn CD, Walters R, Chen Z, Li L, Matsuda K, Okada Y, Zoellner S, Verma A, Preuss M, Kenny E, Hendricks A, Fishbein L, Kraft P, Daly M, Neale B, Martin A, Cole JB, Haugen BR, Gignoux CR, Pozdeyev N. Global multi-ancestry genetic study elucidates genes and biological pathways associated with thyroid cancer and benign thyroid diseases. medRxiv",
+      "pubmed_id": "40463558",
+      "pmc_id": "PMC12132132",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Peeri NC, Teer JK, Thompson ZJ, Nabors LB, Brooks M, Sologon CM, Williams SL, Egan KM. Glioma grade and mortality in relation to sequence variation in the mitochondrial genome. Cancer Genet",
+      "pubmed_id": "40382795",
+      "pmc_id": "PMC12124938",
+      "year": "2025",
+      "journal": "294-295:171-180",
+      "authors": ""
+    },
+    {
+      "title": "Mokhtari S, Peeri NC, Beer-Furlan A, Anderson MD, Chowdhary S, LaRocca RV, Mammoser AG, Nabors LB, Olson JJ, Thompson RC, Thompson ZJ, Martinez YC, Egan KM. Clinical and descriptive characteristics associated with high-grade meningioma in a large clinical series. Br J Neurosurg",
+      "pubmed_id": "37287223",
+      "year": "2025",
+      "journal": "39(2):224-227",
+      "authors": ""
+    },
+    {
+      "title": "Gonzalez BD, Li X, Martinez YC, Jim HSL, Oswald LB, Islam JY, Turner K, Egan KM. Cannabis use and patient-reported outcomes among patients at a comprehensive cancer center. J Natl Cancer Inst Monogr",
+      "pubmed_id": "39108234",
+      "pmc_id": "PMC11303852",
+      "year": "2024",
+      "journal": "2024(66):259-266",
+      "authors": ""
+    },
+    {
+      "title": "Turner K, Nguyen OT, Islam JY, Rajasekhara S, Martinez YC, Tabriz AA, Gonzalez BD, Jim HSL, Egan KM. Patient-provider communication about the use of medical cannabis for cancer symptoms: a cross-sectional study. J Natl Cancer Inst Monogr",
+      "pubmed_id": "39108232",
+      "pmc_id": "PMC11303860",
+      "year": "2024",
+      "journal": "2024(66):298-304",
+      "authors": ""
+    },
+    {
+      "title": "Ellison GL, Helzlsouer KJ, Rosenfield SM, Kim Y, Ashare RL, Blaes AH, Cullen J, Doran N, Ebbert JO, Egan KM, Heffner JL, Lee RT, McClure EA, McDaniels-Davidson C, Meghani SH, Newcomb PA, Nugent S, Hernandez-Ortega N, Salz T, Vidot DC, Worster B, Zylla DM. Perceptions, prevalence, and patterns of cannabis use among cancer patients treated at 12 NCI-Designated Cancer Centers. J Natl Cancer Inst Monogr",
+      "pubmed_id": "39108244",
+      "pmc_id": "PMC11303851",
+      "year": "2024",
+      "journal": "2024(66):202-217",
+      "authors": ""
+    },
+    {
+      "title": "Islam JY, Nguyen OT, Turner K, Martinez YC, Rodriguez OG, Rodriguez DI, Rajasekhara S, Chang YD, Gonzalez BD, Jim HSL, Egan KM. Concurrent substance use among cancer patients with and without a history of cannabis use since cancer diagnosis at an NCI-Designated Cancer Center in Florida. J Natl Cancer Inst Monogr",
+      "pubmed_id": "39108241",
+      "pmc_id": "PMC11303859",
+      "year": "2024",
+      "journal": "2024(66):224-233",
+      "authors": ""
+    },
+    {
+      "title": "Yaghjyan L, Mai V, Darville LNF, Cline J, Wang X, Ukhanova M, Tagliamonte MS, Martinez YC, Rich SN, Koomen JM, Egan KM. Associations of gut microbiome with endogenous estrogen levels in healthy postmenopausal women. Cancer Causes Control",
+      "pubmed_id": "37286847",
+      "year": "2023",
+      "journal": "34(10):873-881",
+      "authors": ""
+    },
+    {
+      "title": "Samanic CM, Teer JK, Thompson ZJ, Creed JH, Fridley BL, Burt Nabors L, Williams SL, Egan KM. Mitochondrial DNA sequence variation and risk of glioma. Mitochondrion",
+      "pubmed_id": "35032707",
+      "pmc_id": "PMC8885975",
+      "year": "2022",
+      "journal": "63:32-36",
+      "authors": ""
+    },
+    {
+      "title": "Cote DJ, Stampfer MJ, Egan KM. Response to Letter to the Editor. Cancer Epidemiol",
+      "pubmed_id": "35303619",
+      "year": "2022",
+      "journal": "78:102126",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Pilot Study of Microplastic Pollution as a Risk Factor for Renal Cell Carcinoma  \nAward Number:   \nSponsor: Support Accounts-Oper  \nEgan, K. (PD/PI)"
+    },
+    {
+      "description": "Title: Epidemiologic Study of Microplastic Pollution in Bronchoalveolar Lavage Fluid and Its Association with Lung Cancer  \nAward Number: 1R21CA293440-01  \nSponsor: National Cancer Institute (NCI)  \nEgan, K. (PD/PI)",
+      "source": "NCI",
+      "period": "3440-01"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/EganKathleen_3841.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3841"
+  },
+  "content_hash": "97dcad9fd0807085dea5a420bc14b8e3f907c576b10c4482b119268b08378752"
+}

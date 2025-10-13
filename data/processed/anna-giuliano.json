@@ -1,0 +1,174 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/anna-giuliano",
+  "last_updated": "2025-10-13T21:43:39.697794",
+  "researcher_id": "2969",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Cancer Epidemiology",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Anna R. Giuliano, PhD, is the founding director of the Center for Immunization and Infection Research in Cancer (CIIRC) at the Moffitt Cancer Center. Her work has contributed significantly to our understanding of the rate at which HPV infections are acquired and cleared, the proportion that progress to disease, and also to HPV vaccine protection against multiple diseases in women and men.",
+  "research_interests": [
+    "Anna R. Giuliano, PhD, is the founding director of the Center for Immunization and Infection Research in Cancer (CIIRC) at the Moffitt Cancer Center. Her career had its inception in the relationship between human papillomavirus (HPV) infections and cervical cancer, and it has evolved over the past several decades to encompass HPV and penile, anal, and oral cancers in men, as well as other infectious diseases and their causal relationships with various cancers. Dr. Giuliano\u2019s work has contributed significantly to the elucidation of the rate at which HPV infections are acquired and persist, the proportion of infections that progress to disease, and HPV vaccine protection against multiple diseases in women and men. An expert in the field of cancer research with a longstanding and successful record of National Institutes of Health funding since 1990, she has led numerous cancer epidemiology and prevention studies and clinical trials conducted among diverse populations in the United States and internationally. Dr. Giuliano\u2019s current research encompasses the following: the study of oral HPV natural history, efficacy of HPV vaccination for the prevention of oropharyngeal cancer among people living with HIV and among people without HIV, development of a biomarker panel for the early detection of oropharyngeal cancer, efficacy testing of therapeutic vaccines to treat HPV-related pre-cancers and cancers, the study of the immune response of cancer patients to SARS-CoV-2 vaccination, methods to increasing screening for hepatitis C infection and connection to care, and the global elimination of HPV-related cancers. Dr. Giuliano has authored more than 425 peer-reviewed publications. \n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Head and Neck-Endocrine Oncology",
+    "Cancer Epidemiology Program",
+    "Center for Immunization & Infection Research in Cancer"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Tufts University, School of Nutrition, Medford, MA, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Tufts University, School of Nutrition, Medford, MA, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "New England Epidemiology Institute",
+      "specialty": "Epidemiology Statistics"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Arizona",
+      "specialty": "Cancer Prevention Epidemiology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Mohammed-Ali S, Umutoni V, Schabath MB, Nyitray AG, Sirak B, Lazcano-Ponce E, Villa L, Giuliano AR, Sudenga SL. The Association Between Alcohol Consumption and Anal Human Papillomavirus in the HPV Infection in Men Study. medRxiv",
+      "pubmed_id": "40475161",
+      "pmc_id": "PMC12140543",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Shing JZ, Giuliano AR, Brenner NL, Michels B, Hildesheim A, Srivastava S, Sirak BA, Schussler J, Liu D, Wang W, Waterboer T, Kreimer AR. Natural history of HPV-16 E6 serology among cancer-free men in a multicenter longitudinal cohort study. J Natl Cancer Inst",
+      "pubmed_id": "39658222",
+      "pmc_id": "PMC12058252",
+      "year": "2025",
+      "journal": "117(5):915-923",
+      "authors": ""
+    },
+    {
+      "title": "Echevarria M, Park R, Caudell JJ, Kim Y, Yang GQ, Kirtane K, Chaudhary R, Kumar S, Amelio AL, Giuliano AR, Chung CH. Plasma Cell-Free Human Papillomavirus DNA and Oral Gargle HPV DNA in Patients with HPV-Related Oropharyngeal Cancer Treated with Radiotherapy. Cancer Res Commun",
+      "pubmed_id": "40643202",
+      "pmc_id": "PMC12281097",
+      "year": "2025",
+      "journal": "5(7):1194-1202",
+      "authors": ""
+    },
+    {
+      "title": "Alemany L, Felsher M, Giuliano AR, Waterboer T, Mirghani H, Mehanna H, Roberts C, Chen YT, Lara N, Lynam M, Torres M, Pedr\u00f3s M, Sanchez E, Spitzer J, Sirak B, Quir\u00f3s B, Carretero G, Paytubi S, Morais E, Pav\u00f3n MA. Erratum: Oral human papillomavirus (HPV) prevalence and genotyping among healthy adult populations in the United States and Europe: results from the PROGRESS (PRevalence of Oral hpv infection, a Global aSSessment) study. EClinicalMedicine",
+      "pubmed_id": "40686674",
+      "pmc_id": "PMC12274941",
+      "year": "2025",
+      "journal": "85:103335",
+      "authors": ""
+    },
+    {
+      "title": "Deshmukh AA, Damgacioglu H, Sigel K, Palefsky JM, Clarke MA, Wentzensen N, Nyitray AG, Ortiz AP, Lin YY, Chiao EY, Stier E, Jay N, Gaisa M, Liu Y, Meissner EG, Lazenby G, Giuliano AR, Goldstone SE, Clifford GM, Sonawane K, Chhatwal J. Screening for Anal Cancer Among Men Who Have Sex With Men With HIV: Benefits, Harms, and Cost-Effectiveness Analyses. Ann Intern Med",
+      "pubmed_id": "40523287",
+      "year": "2025",
+      "journal": "178(7):975-986",
+      "authors": ""
+    },
+    {
+      "title": "Alemany L, Felsher M, Giuliano AR, Waterboer T, Mirghani H, Mehanna H, Roberts C, Chen YT, Lara N, Lynam M, Torres M, Pedr\u00f3s M, Sanchez E, Spitzer J, Sirak B, Quir\u00f3s B, Carretero G, Paytubi S, Morais E, Pav\u00f3n MA. Oral human papillomavirus (HPV) prevalence and genotyping among healthy adult populations in the United States and Europe: results from the PROGRESS (PRevalence of Oral hpv infection, a Global aSSessment) study. EClinicalMedicine",
+      "pubmed_id": "39896062",
+      "pmc_id": "PMC11786696",
+      "year": "2025",
+      "journal": "79:103018",
+      "authors": ""
+    },
+    {
+      "title": "Mustasam A, Parza K, Ionescu F, Gullapalli K, Paravathaneni M, Kim Y, Sandstrom RE, Al Assaad M, Grass GD, Johnstone P, Eschrich S, Safa H, Chadha J, Roman Souza G, David J, Semaan A, Zacharias NM, Pettaway C, Giuliano AR, Spiess PE, Chahoud J. The Prognostic Role of HPV or p16INK4a Status in Penile Squamous Cell Carcinoma: A Meta-Analysis. J Natl Compr Canc Ne",
+      "pubmed_id": "39752880",
+      "year": "2025",
+      "journal": "23(2)",
+      "authors": ""
+    },
+    {
+      "title": "Nitkowski J, Ridolfi TJ, Lundeen SJ, Giuliano AR, Chiao E, Fernandez ME, Schick V, Smith JS, Bruggink P, Brzezinski B, Nyitray AG. Engagement and Factors Associated With Annual Anal Human Papillomavirus Screening Among Sexual and Gender Minority Individuals. Sex Transm Dis",
+      "pubmed_id": "39316041",
+      "pmc_id": "PMC11711006",
+      "year": "2025",
+      "journal": "52(2):94-101",
+      "authors": ""
+    },
+    {
+      "title": "Giuliano AR, Beltrame A, Villa LL, Lazcano-Ponce E, Santana-Bagur J, Allen-Leigh B, Portillo-Romero AJ, Sahasrabuddhe VV, House MG, Brofsky E, Galan de Paula L, Carvalho da Silva R, Schell MJ, Rathwell J, Isaacs-Soriano K, Fan W, Mello C, Ellsworth GB, Wilkin T. Design of a multicenter, randomized, double-blinded, placebo-controlled phase III trial evaluating the 9-valent human papillomavirus (HPV) vaccine to prevent persistent oral HPV infection in men living with human immunodeficiency virus: ULACNet trial 201. Vaccine",
+      "pubmed_id": "40609265",
+      "year": "2025",
+      "journal": "61:127447",
+      "authors": ""
+    },
+    {
+      "title": "Dube Mandishora RS, Gon\u00e7alves MG, Fan W, Sirak B, Ferreira MT, Reich RR, Isaacs-Soriano K, Abrahamsen M, Ponce EL, Villa LL, Giuliano AR, Sichero L. Sequential HPV16 variant infections in the genital epithelium and anal canal of men. Int J Cancer",
+      "pubmed_id": "40874257",
+      "year": "2025",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Oral HPV Prevalence Among People Living with HIV (ORACLE): A Pilot Study  \nAward Number:   \nSponsor: University of Kentucky  \nGiuliano, A. (PD/PI)"
+    },
+    {
+      "description": "Title: Human Papillomavirus (HPV) Oral Infection Study in the General Population: The PROGRESS Study  \nAward Number: Amendment 2  \nSponsor: IQVIA, INC.  \nGiuliano, A. (PD/PI)"
+    },
+    {
+      "description": "Title: The BROADEN (absolute burden of HPV-related head and neck cancers) Africa Study  \nAward Number: 23-0120  \nSponsor: MERCK SHARP & DOHME CORP  \nGiuliano, A. (PD/PI)"
+    },
+    {
+      "description": "Title: Oral HPV Research Among Latin Americans Living with HIV (ORAL - H)  \nAward Number: 5R01CA274950-04  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI)",
+      "source": "NCI",
+      "period": "4950-04"
+    },
+    {
+      "description": "Title: Partnership to Assess Viral and Immune Landscape Intersections with Oncology for People Living with HIV (PAVILION)  \nAward Number: 5U54CA277834-03  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI)",
+      "source": "NCI",
+      "period": "7834-03"
+    },
+    {
+      "description": "Title: Biomarker Approach to Screening for the early detection of HPV-related Oropharyngeal Cancer (BASH OPC)  \nAward Number: 5U01DE033329-03  \nSponsor: National Institute of Dental and Craniofacial Research (NIDCR)  \nAmelio, A. (PD/PI), Giuliano, A. (PD/PI)",
+      "period": "3329-03"
+    },
+    {
+      "description": "Title: Partnership for Prevention of HPV-Associated Cancers in People Living with HIV: Brazil, Mexico, and Puerto Rico  \nAward Number: 5U54CA242639-06  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI)",
+      "source": "NCI",
+      "period": "2639-06"
+    },
+    {
+      "description": "Title: Partnership for Advancing cervical cancer prevention in women living with HIV (CASCADE)  \nAward Number: 7UG1CA275414-04  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI)",
+      "source": "NCI",
+      "period": "5414-04"
+    },
+    {
+      "description": "Title: HPV 16 E6 Antibody Detection as an Early Marker for Oropharyngeal Cancer Among Men Living with HIV  \nAward Number: 5R01DE029650-05  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI)",
+      "source": "NCI",
+      "period": "9650-05"
+    },
+    {
+      "description": "Title: Prevention of Infection Related Cancers  \nAward Number: CRP-23-1010710-06-COUN  \nSponsor: American Cancer Society, Inc. (ACS)  \nGiuliano, A. (PD/PI)",
+      "source": "American Cancer Society",
+      "period": "0710-06"
+    },
+    {
+      "description": "Title: Ghana IntegRative Approach to Cancer ResEarch Training: The Grace Program  \nAward Number: 3D43CA260649-05S1  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI), Gwede, C. (PD/PI), Yamoah, K. (PD/PI)",
+      "source": "NCI",
+      "period": "0649-05"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GiulianoAnna_2969.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2969",
+    "email": "demail@springer.com"
+  },
+  "content_hash": "ec229cc38d18fc33bea52dcaa6feceb9bd5187e9b894473156209ebe59c1aa42"
+}

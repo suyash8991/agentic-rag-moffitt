@@ -1,0 +1,147 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/daniel-abate-daga",
+  "last_updated": "2025-10-13T21:47:30.127201",
+  "researcher_id": "15812",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Immunology",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "The effort in Dr. Abate Daga's lab spans a wide process: starting with the identification of tumor-associated antigens, generation of the appropriate targeting receptor for genetic modification of T cells, in vitro and in vivo validation of immune receptors, and, ultimately, the implementation of those treatments in phase I clinical trials.",
+  "research_interests": [
+    "Dr. Abate-Daga's research is focused on the development of T cell-based immunotherapies for the treatment of cancer, and the translation of those preclinical findings into clinical application. The effort in my lab spans a wide process: starting with the identification of tumor-associated antigens, generation of the appropriate targeting receptor for genetic modification of T cells, in vitro and in vivo validation of immune receptors, and, ultimately, the implementation of those treatments in phase I clinical trials. A special emphasis is put on the use of gene therapy technologies, involving the expression of chimeric antigen receptors (CAR) and traditional T-cell receptors (TCR) to \"train\" the patient's own immune system to detect and kill cancer cells. The gene transfer of immune receptors is accomplished by retroviral transduction of primary human lymphocytes, and has proven efficacious in the induction of clinical remissions of patients with B cell malignancies. Beyond its therapeutic potential, this technology can be used in the laboratory setting to pursue basic scientific research leading to a better understanding of tumor and immune cell biology. Active and prospective projects in the laboratory include the study of antigen recognition, by tumor-infiltrating T cells from pancreatic cancer, bladder cancer and melanoma, geared towards the isolation of TCRs that recognize cancer/testis antigens of therapeutic interest. In parallel, CARs with specificity for IL13RA2 (melanoma, glioma, cervical cancer), TLR2, ABCC3 (pancreatic cancer) and FGFR3 (bladder cancer) are part of the developmental pipeline. Finally, a basic study of the physical and functional interactions of CARs with endogenous T cell molecules will be performed, utilizing gene expression, protein biochemistry and high throughput phosphopeptidome analyses. From this project, Dr. Abate-Daga expects to gain insight into the structure-function correlates associated with different CAR designs; with the ultimate goal of learning how to design safer and more potent receptors for therapy. \n  *"
+  ],
+  "associations": [
+    "Immunology",
+    "Cutaneous Oncology",
+    "Cutaneous Oncology",
+    "Gastrointestinal Oncology",
+    "Genitourinary Oncology",
+    "Immuno-Oncology Program",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Lung Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Center for Genomic Regulation and Pompeu Fabra University, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "National Cancer Institute",
+      "specialty": "Surgery"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Perez DH, Antfolk D, Chang S, Bustos XE, Medina E, Ramadan AA, Gonzalez-Perez D, Abate-Daga D, Rodriguez PC, Luca VC. Engineering synthetic agonists for targeted activation of Notch signaling. Nat Chem Biol",
+      "pubmed_id": "40993428",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Coghill AE, Van Bibber N, Baiocchi RA, Arnold SM, Riedlinger G, Schneider BP, Zhang Y, Suneja G, Gomez Fontela M, Abate-Daga D, Teer JK. Elevated Tumor Mutation Burden in Cancer Patients with Underlying HIV Infection: Data from the Oncology Research Information Exchange Network (ORIEN). Cancer Epidemiol Biomarkers Prev",
+      "pubmed_id": "40019488",
+      "pmc_id": "PMC12048233",
+      "year": "2025",
+      "journal": "34(5):774-779",
+      "authors": ""
+    },
+    {
+      "title": "Rossetti RAM, Tordesillas L, Beatty MS, Cianne J, Martinez Planes E, Du D, Snedal S, Wang C, Perez BA, Berglund A, Chen YA, Sarnaik A, Mul\u00e9 JJ, Creelan B, Pilon-Thomas S, Abate-Daga D. CD40L stimulates tumor-infiltrating B-cells and improves ex vivo TIL expansion. J Immunother Cancer",
+      "pubmed_id": "40199608",
+      "pmc_id": "PMC11979601",
+      "year": "2025",
+      "journal": "13(4)",
+      "authors": ""
+    },
+    {
+      "title": "Yu X, Song L, Cen L, Cao B, Tao R, Shen Y, Abate-Daga D, Rodriguez PC, Conejo-Garcia JR, Wang X. Pan-cancer \u03b3\u03b4 TCR analysis uncovers clonotype diversity and prognostic potential. Cell Rep Med",
+      "pubmed_id": "39368482",
+      "pmc_id": "PMC11513832",
+      "year": "2024",
+      "journal": "5(10):101764",
+      "authors": ""
+    },
+    {
+      "title": "Yu X, Song L, Cen L, Cao B, Tao R, Shen Y, Abate-Daga D, Rodriguez PC, Conejo-Garcia JR, Wang X. A pan-cancer gamma delta T cell repertoire. bioRxiv",
+      "pubmed_id": "39091790",
+      "pmc_id": "PMC11291071",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Barisa M, Abate-Daga D, Fisher J. Editorial: Optimized gene-engineering and combination therapies to boost \u03b3\u03b4T cell immunotherapeutic performance. Front Immunol",
+      "pubmed_id": "38698854",
+      "pmc_id": "PMC11063349",
+      "year": "2024",
+      "journal": "15:1414812",
+      "authors": ""
+    },
+    {
+      "title": "Hall MS, Teer JK, Yu X, Branthoover H, Snedal S, Rodriguez-Valentin M, Nagle L, Scott E, Schachner B, Innamarato P, Hall AM, Blauvelt J, Rich CJ, Richards AD, Ceccarelli J, Langer TJ, Yoder SJ, Beatty MS, Cox CA, Messina JL, Abate-Daga D, Mule JJ, Mullinax JE, Sarnaik AA, Pilon-Thomas S. Neoantigen-specific CD4+ tumor-infiltrating lymphocytes are potent effectors identified within adoptive cell therapy products for metastatic melanoma patients. J Immunother Cancer",
+      "pubmed_id": "37802604",
+      "pmc_id": "PMC10565316",
+      "year": "2023",
+      "journal": "11(10)",
+      "authors": ""
+    },
+    {
+      "title": "Frieling JS, Tordesillas L, Bustos XE, Ramello MC, Bishop RT, Cianne JE, Snedal SA, Li T, Lo CH, de la Iglesia J, Roselli E, Benza\u00efd I, Wang X, Kim Y, Lynch CC, Abate-Daga D. \u03b3\u03b4-Enriched CAR-T cell therapy for bone metastatic castrate-resistant prostate cancer. Sci Adv",
+      "pubmed_id": "37134157",
+      "pmc_id": "PMC10156127",
+      "year": "2023",
+      "journal": "9(18):eadf0108",
+      "authors": ""
+    },
+    {
+      "title": "Potez M, Snedal S, She C, Kim J, Thorner K, Tran TH, Ramello MC, Abate-Daga D, Liu JKC. Use of phage display biopanning as a tool to design CAR-T cells against glioma stem cells. Front Oncol",
+      "pubmed_id": "37035164",
+      "pmc_id": "PMC10080078",
+      "year": "2023",
+      "journal": "13:1124272",
+      "authors": ""
+    },
+    {
+      "title": "Dukes CW, Rossetti RA, Hensel JA, Snedal S, Cubitt CL, Schell MJ, Abrahamsen M, Isaacs-Soriano K, Kennedy K, Mangual LN, Whiting J, Martinez-Brockhus V, Islam JY, Rathwell J, Beatty M, Hall AM, Abate-Daga D, Giuliano AR, Pilon-Thomas S. SARS-CoV-2 antibody response duration and neutralization following natural infection. J Clin Virol Plus",
+      "pubmed_id": "37654784",
+      "pmc_id": "PMC10470471",
+      "year": "2023",
+      "journal": "3(3)",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Engineering metabolic fitness and vaccination capacity in gamma/deltaCAR-T cells  \nAward Number: 25B03  \nSponsor: Florida Department of Health  \nAbate-Daga, D. (PD/PI)"
+    },
+    {
+      "description": "Title: Gamma Delta 2.0 CAR-T: Pre-Clinical Studies and Clinical Trial  \nAward Number: N/A Gift Award   \nSponsor: The Todd and Karen Wanek Family Foundation   \nAbate-Daga, D. (PD/PI), Zhang, J. (Co-PD/PI)",
+      "source": "Foundation"
+    },
+    {
+      "description": "Title: A Phase I Clinical Trial of an Infusion of Autologous T Cells Genetically Engineered with a Chimeric Receptor to Target the Follicle-Stimulating Hormone Receptor in Patients with Recurrent Ovarian Cancer  \nAward Number: 19VA049-S2  \nSponsor: CERTAINTY THERAPEUTICS, INC.  \nAbate-Daga, D. (PD/PI)"
+    },
+    {
+      "description": "Title: Gamma Delta CAR-T cells v2.0  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nAbate-Daga, D. (PD/PI)",
+      "source": "Foundation"
+    },
+    {
+      "description": "Title: Understanding the influence of bone-metastatic prostate cancer and mesenchymal stromal cells on T cells, in the bone microenvironment.  \nAward Number: 5R01CA241169-04  \nSponsor: National Cancer Institute (NCI)  \nAbate-Daga, D. (PD/PI)",
+      "source": "NCI",
+      "period": "1169-04"
+    },
+    {
+      "description": "Title: KIR2DL2 Immune Checkpoint as Modulator of T-Cell Effector Function  \nAward Number: 1R21CA280233-01  \nSponsor: National Cancer Institute (NCI)  \nAbate-Daga, D. (PD/PI)",
+      "source": "NCI",
+      "period": "0233-01"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/Abate-DagaDaniel_15812.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15812"
+  },
+  "content_hash": "ae37dce928e6857059bfd909f4653cc65c21bb5636315f8dc63d810014bbc819"
+}

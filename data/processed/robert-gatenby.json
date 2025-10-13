@@ -1,0 +1,141 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/robert-gatenby",
+  "last_updated": "2025-10-13T21:42:24.859881",
+  "researcher_id": "4306",
+  "name": "",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Diagnostic Imaging and Interventional Radiology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "I am studying theoretical and experimental models of evolutionary dynamics in cancer and cancer drug resistance and a tumor\u2019s physical microenvironment.",
+  "research_interests": [
+    "Dr. Gatenby spearheaded the formation of a new program at Moffitt titled Integrative Mathematical Oncology (IMO). The IMO brings to the Cancer Center a cadre of applied mathematicians to collaborate with tumor biologists and clinical oncologists. The goal is to use the mathematics developed for other nonlinear dynamical systems to examine the physiology of a tumor incorporating factors such as phenotypic evolution, intracellular communication pathways and interactions with microenvironmental factors including therapies. The program fosters continuous interaction between mathematicians and experimentalists as they form explicit comprehensive theoretical models to serve as a framework for understanding cancer\u2019s development, progression and treatment. The IMO, led by Dr. Gatenby, represents an experiment in rethinking paradigms in medical research. A key purpose of the IMO is to provide the quantitative methods that will allow experimentalists and clinicians to frame their hypotheses, simulate their experimental design in-silico, and identify first principles that govern cancer growth and treatment. Dr. Gatenby aims to make progress using methods that have been successful in the physical sciences for centuries \u2014through an iterative partnership between mathematically-oriented theoreticians, biologists and clinical physicians.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "Integrated Mathematical Oncology",
+    "Diagnostic Imaging and Interventional Radiology",
+    "Pentecost Family Myeloma Research Center",
+    "Cancer Imaging & Technology Center of Excellence",
+    "Center for Immunization & Infection Research in Cancer",
+    "Cancer Biology & Evolution Program",
+    "Center of Excellence for Evolutionary Therapy",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Pennsylvania",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Hershey-Penn State Medical Center",
+      "position": "Intern",
+      "specialty": "ship - Internal Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "Hospital of U Penn",
+      "specialty": "Radiology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "40998270",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Gatenby RA, Teer JK, Tsai KY, Brown JS. Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas. Commun Biol",
+      "pubmed_id": "40399443",
+      "pmc_id": "PMC12095661",
+      "year": "2025",
+      "journal": "8(1):775",
+      "authors": ""
+    },
+    {
+      "title": "Hosny N, Shen K, Zhao Y, Qu J, Sun Y, Butler G, Amend S, Hammarlund EU, Gatenby R, Brown J, Pienta KJ, Phan TV, Boyer-Paulet S, Li S, Austin RH. Phosphorescence-based sensing reveals size-dependent survival and motility of metastatic prostate cancer cells in self-generated hypoxia. iScience",
+      "pubmed_id": "40475852",
+      "pmc_id": "PMC12139443",
+      "year": "2025",
+      "journal": "28(5):112325",
+      "authors": ""
+    },
+    {
+      "title": "Ramamoorthi G, Lee MC, Farrell CM, Snyder C, Garg SK, Aldrich AL, Lok V, Dominguez-Viqueira W, Olson-Mcpeek SK, Rosa M, Gautam N, Pilon-Thomas S, Cen L, Kodumudi KN, Wiener D, Oskarsson T, Gomes AP, Gatenby RA, Czerniecki BJ. Antitumor CD4+ T Helper 1 Cells Target and Control the Outgrowth of Disseminated Cancer Cells. Cancer Immunol Res",
+      "pubmed_id": "40249209",
+      "pmc_id": "PMC12046335",
+      "year": "2025",
+      "journal": "13(5):729-748",
+      "authors": ""
+    },
+    {
+      "title": "Hammarlund EU, Bukkuri A, Norling MD, Islam M, Posth NR, Baratchart E, Carroll C, Amend SR, Gatenby RA, Pienta KJ, Brown JS, Peters SE, Hancke K. Benthic diel oxygen variability and stress as potential drivers for animal diversification in the Neoproterozoic-Palaeozoic. Nat Commun",
+      "pubmed_id": "40118825",
+      "pmc_id": "PMC11928486",
+      "year": "2025",
+      "journal": "16(1):2223",
+      "authors": ""
+    },
+    {
+      "title": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH. The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma. Cancer Res",
+      "pubmed_id": "39476082",
+      "pmc_id": "PMC11733535",
+      "year": "2025",
+      "journal": "85(2):378-398",
+      "authors": ""
+    },
+    {
+      "title": "Dabi A, Brown JS, Gatenby RA, Jones CD, Schrider DR. Evolutionary rescue model informs strategies for driving cancer cell populations to extinction. bioRxiv",
+      "pubmed_id": "39651238",
+      "pmc_id": "PMC11623570",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y. Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study. Cancers (Basel)",
+      "pubmed_id": "40075682",
+      "pmc_id": "PMC11898942",
+      "year": "2025",
+      "journal": "17(5)",
+      "authors": ""
+    },
+    {
+      "title": "Gatenby RA, Gallaher J, Subramanian H, Hammarlund EU, Whelan CJ. On the Origin of Information Dynamics in Early Life. Life (Basel)",
+      "pubmed_id": "40003644",
+      "pmc_id": "PMC11856217",
+      "year": "2025",
+      "journal": "15(2)",
+      "authors": ""
+    },
+    {
+      "title": "Gatenby RA, Anderson ARA, Brown JS, Gallaher J, Krolick J, Lemanne D. Directed Evolution Restored Castrate Sensitivity in a Patient With Castrate Resistant Metastatic Prostate Cancer. Prostate",
+      "pubmed_id": "40878050",
+      "year": "2025",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice  \nAward Number: 24-0147-AR  \nSponsor: MITSUI & CO. (USA), INC  \nAnderson, A. (PD/PI), Gatenby, R. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: The Delta Ecology of NSCLC Treatment  \nAward Number: 5U54CA274507  \nSponsor: National Cancer Institute (NCI)  \nAnderson, A. (PD/PI), Gatenby, R. (PD/PI)",
+      "source": "NCI"
+    },
+    {
+      "description": "Title: The Delta Ecology of NSCLC Treatment - Diversity Supplement  \nAward Number: 1U54CA274507-03S1  \nSponsor: National Cancer Institute (NCI)  \nAnderson, A. (PD/PI), Gatenby, R. (PD/PI)",
+      "source": "NCI",
+      "period": "4507-03"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GatenbyRobert_4306.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4306"
+  },
+  "content_hash": "1d1e90569374a950275d06f2e63ae3e24e80645a49b6c0360ebc4d32bab4c7bb"
+}

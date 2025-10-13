@@ -1,0 +1,134 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez",
+  "last_updated": "2025-10-13T21:41:30.980978",
+  "researcher_id": "4771",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Integrated Mathematical Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "To understand the evolutionary dynamics of cancer using integrative approaches so that one day we will be able to exert some control on cancer progression.",
+  "research_interests": [
+    "Cancer is a disease in which genetic mutations play an important role but one in which evolution, in the Darwinian sense of the world, directs progression. Oftentimes this progression is towards increasingly malignant phenotypes. This evolutionary process is influenced by the interactions of the different tumour cells with each other but also by the interactions of these tumour populations with their environment. If we are going to understand and learn how to exert some control in cancer progression we need methods and approaches that can handle this evolutionary and ecological perspective of cancer. Given the complexity of this disease, mathematical and computational methods are not only useful but also necessary. For this reason my work will focus on mathematical and computational models of cancer evolution. I will be using tools already employed in theoretical ecology but will also develop new ones as needed and will make sure that they are part of an integrated research where the models are biologically inspired and validated and the results have a clinical impact.\n  *"
+  ],
+  "associations": [
+    "Integrated Mathematical Oncology",
+    "Genitourinary Oncology",
+    "Cancer Biology & Evolution Program",
+    "Center of Excellence for Evolutionary Therapy"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Universidad de Oviedo, School of Technical Engineers, MSc"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Kings College, London, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "H. Lee Moffitt Cancer Center & Research Institute",
+      "specialty": "Integrated Mathematical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Tyczynska Weh M, Kumar P, Marusyk V, Marusyk A, Basanta D. The adaptive state determines the impact of mutations on evolving populations. Proc Natl Acad Sci U S A",
+      "pubmed_id": "40569384",
+      "pmc_id": "PMC12232665",
+      "year": "2025",
+      "journal": "122(26)",
+      "authors": ""
+    },
+    {
+      "title": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A. Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers. Res Sq",
+      "pubmed_id": "40313737",
+      "pmc_id": "PMC12045365",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Colyer B, Bak M, Basanta D, Noble R. A seven-step guide to spatial, agent-based modelling of tumour evolution. Evol Appl",
+      "pubmed_id": "38707992",
+      "pmc_id": "PMC11064804",
+      "year": "2024",
+      "journal": "17(5):e13687",
+      "authors": ""
+    },
+    {
+      "title": "Bishop RT, Miller AK, Froid M, Nerlakanti N, Li T, Frieling JS, Nasr MM, Nyman KJ, Sudalagunta PR, Canevarolo RR, Silva AS, Shain KH, Lynch CC, Basanta D. The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease. Nat Commun",
+      "pubmed_id": "38503736",
+      "pmc_id": "PMC10951361",
+      "year": "2024",
+      "journal": "15(1):2458",
+      "authors": ""
+    },
+    {
+      "title": "Miti T, Desai B, Miroshnychenko D, Basanta D, Marusyk A. Dissecting the Spatially Restricted Effects of Microenvironment-Mediated Resistance on Targeted Therapy Responses. Cancers (Basel)",
+      "pubmed_id": "39001467",
+      "pmc_id": "PMC11240540",
+      "year": "2024",
+      "journal": "16(13)",
+      "authors": ""
+    },
+    {
+      "title": "Miroshnychenko D, Miti T, Kumar P, Miller A, Laurie M, Giraldo N, Bui MM, Altrock PM, Basanta D, Marusyk A. Stroma-Mediated Breast Cancer Cell Proliferation Indirectly Drives Chemoresistance by Accelerating Tumor Recovery between Chemotherapy Cycles. Cancer Res",
+      "pubmed_id": "37791818",
+      "pmc_id": "PMC10646478",
+      "year": "2023",
+      "journal": "83(22):3681-3692",
+      "authors": ""
+    },
+    {
+      "title": "West J, Adler F, Gallaher J, Strobl M, Brady-Nicholls R, Brown J, Robertson-Tessi M, Kim E, Noble R, Viossat Y, Basanta D, Anderson ARA. A survey of open questions in adaptive therapy: Bridging mathematics and clinical translation. Elife",
+      "pubmed_id": "36952376",
+      "pmc_id": "PMC10036119",
+      "year": "2023",
+      "journal": "12",
+      "authors": ""
+    },
+    {
+      "title": "Miroshnychenko D, Miti T, Miller A, Kumar P, Laurie M, Bui MM, Altrock PM, Basanta D, Marusyk A. Paracrine enhancement of tumor cell proliferation provides indirect stroma-mediated chemoresistance via acceleration of tumor recovery between chemotherapy cycles. bioRxiv",
+      "pubmed_id": "36798328",
+      "pmc_id": "PMC9934626",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "Baratchart E, Lo CH, Lynch CC, Basanta D. Integrated computational and in vivo models reveal Key Insights into macrophage behavior during bone healing. PLoS Comput Biol",
+      "pubmed_id": "35559958",
+      "pmc_id": "PMC9106165",
+      "year": "2022",
+      "journal": "18(5):e1009839",
+      "authors": ""
+    },
+    {
+      "title": "Foo J, Basanta D, Rockne RC, Strelez C, Shah C, Ghaffarian K, Mumenthaler SM, Mitchell K, Lathia JD, Frankhouser D, Branciamore S, Kuo YH, Marcucci G, Vander Velde R, Marusyk A, Hang S, Hari K, Jolly MK, Hatzikirou H, Poels K, Spilker M, Shtylla B, Robertson-Tessi M, Anderson ARA. Roadmap on plasticity and epigenetics in cancer. Phys Biol",
+      "pubmed_id": "35078159",
+      "pmc_id": "PMC9190291",
+      "year": "2022",
+      "journal": "19(3)",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: An integrated mathematical modeling approach to define how the aging bone ecosystem drives multiple myeloma evolution and treatment response  \nAward Number: 1R01CA290007-01A1   \nSponsor: National Cancer Institute (NCI)  \nLynch, C. (PD/PI), Basanta G. (Co-PD/PI)",
+      "source": "NCI",
+      "period": "0007-01"
+    },
+    {
+      "description": "Title: Defining bone ecosystem effects on metastatic prostate cancer evolution and treatment response using an integrated mathematical modeling approach  \nAward Number: 5U01CA244101-04  \nSponsor: National Cancer Institute (NCI)  \nBasanta G. (PD/PI), Lynch, C. (PD/PI)",
+      "source": "NCI",
+      "period": "4101-04"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BasantaGutierrezDavid_4771.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4771"
+  },
+  "content_hash": "32198de5ec19613b08719a72584afbc68bfaf56b173bc54d636c5b148037cb77"
+}

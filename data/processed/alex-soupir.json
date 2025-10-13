@@ -1,0 +1,105 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/alex-soupir",
+  "last_updated": "2025-10-13T21:44:38.601971",
+  "researcher_id": "unknown",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Molecular Medicine Program",
+  "overview": "My research focuses on developing computational frameworks that transform spatially-resolved molecular and imaging data into actionable insights for cancer diagnosis, prognosis, and therapy. By integrating spatial transcriptomics, multiplex immunofluorescence, spatial metabolomics, and digital pathology, I investigate the spatial organization of the tumor microenvironment\u2014particularly immune-tumor interactions\u2014at single-cell resolution. This interdisciplinary work bridges bioinformatics, biostatistics, and systems immunology, with an emphasis on algorithm development and spatial statistics to identify spatial biomarkers that inform treatment strategies. A central goal of my research is to build clinically adaptable tools and workflows that prioritize interpretability, reproducibility, and translational utility across cancer types.",
+  "research_interests": [
+    "I am broadly interested in computational methods for spatial biology, with a focus on understanding how the spatial organization of cells and molecules within the tumor microenvironment contributes to cancer progression and response to therapy. My research integrates spatial transcriptomics, multiplex immunofluorescence, and spatial metabolomics with statistical modeling, machine learning, and deep learning to uncover spatial biomarkers and functional tissue architecture. A central focus of my work is the development of open-source software that simplifies the analysis and interpretation of spatial omics data. These tools are designed to enable researchers to explore tumor architecture, benchmark spatial methods, and apply new analyses to their own datasets. I am particularly interested in optimizing algorithms for real-time performance on large-scale, single-cell multiplex imaging data and in developing methods that are accessible and reproducible across research settings. My current applications are anchored in kidney and ovarian cancer. In kidney cancer, I work with patient tumor samples to study how the tumor microenvironment changes in response to immunotherapy. In ovarian cancer, I analyze tissues from large epidemiologic cohorts to explore immune-tumor dynamics across diverse populations. These projects serve as key platforms for method development and evaluation. Ultimately, my research aims to bridge high-resolution spatial discovery with clinical and translational relevance, using spatially-informed computational tools to guide therapeutic insights and improve patient outcomes.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Genitourinary Oncology",
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS. Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes. Nat Commun",
+      "pubmed_id": "40328759",
+      "pmc_id": "PMC12055966",
+      "year": "2025",
+      "journal": "16(1):4206",
+      "authors": ""
+    },
+    {
+      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL. spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis. Cancer Res",
+      "pubmed_id": "39636739",
+      "pmc_id": "PMC11873723",
+      "year": "2025",
+      "journal": "85(5):848-858",
+      "authors": ""
+    },
+    {
+      "title": "May AM, Kadomoto S, Williams C, Soupir AC, The S, McGue JJ, Robinson T, Shelley G, Hayes MT, Fridley BL, Balasi JA, Ramos Echevarria PM, Dhillon J, Nallandhighal S, Acharyya S, Chen L, Aldous J, Schurman N, Baladandayuthapani V, Frankel TL, Salami SS, Manley BJ, Mehra R, Udager AM, Keller ET. Spatial analysis reveals a novel inflammatory tumor transition state which promotes a macrophage-driven induction of sarcomatoid renal cell carcinoma. bioRxiv",
+      "pubmed_id": "40661608",
+      "pmc_id": "PMC12259133",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Fenlon J, Van Bibber N, Mahlow J, Yamoah K, Soupir AC, Nguyen JV, Moran Segura C, Spivak AM, Knudsen BS, Zhou Q, Hu-Lieskovan S, Puri S, Zhang W, DeRose YS, Suneja G, Coghill AE. Human Immunodeficiency Virus-Associated Differences in the Tumor Immune Microenvironment of Lung, Breast, and Prostate Cancers. Cancer Epidemiol Biomarkers Prev",
+      "pubmed_id": "40183760",
+      "pmc_id": "PMC12133412",
+      "year": "2025",
+      "journal": "34(6):860-867",
+      "authors": ""
+    },
+    {
+      "title": "Davis JT, Obermayer AN, Soupir AC, Hesterberg RS, Duong T, Yang CY, Dao KP, Manley BJ, Grass GD, Avram D, Rodriguez PC, Fridley BL, Yu X, Teng M, Wang X, Shaw TI. BatchFLEX: feature-level equalization of X-batch. Bioinformatics",
+      "pubmed_id": "39360977",
+      "pmc_id": "PMC11486499",
+      "year": "2024",
+      "journal": "40(10)",
+      "authors": ""
+    },
+    {
+      "title": "Wrobel J, Soupir AC, Hayes MT, Peres LC, Vu T, Leroux A, Fridley BL. mxfda: a comprehensive toolkit for functional data analysis of single-cell spatial data. Bioinform Adv",
+      "pubmed_id": "39552929",
+      "pmc_id": "PMC11568348",
+      "year": "2024",
+      "journal": "4(1):vbae155",
+      "authors": ""
+    },
+    {
+      "title": "Ospina OE, Soupir AC, Manjarres-Betancur R, Gonzalez-Calderon G, Yu X, Fridley BL. Differential gene expression analysis of spatial transcriptomic experiments using spatial mixed models. Sci Rep",
+      "pubmed_id": "38744956",
+      "pmc_id": "PMC11094014",
+      "year": "2024",
+      "journal": "14(1):10967",
+      "authors": ""
+    },
+    {
+      "title": "Huelster HL, Gould B, Schiftan EA, Camperlengo L, Davaro F, Rose KM, Soupir AC, Jia S, Zheng T, Sexton WJ, Pow-Sang J, Spiess PE, Daniel Grass G, Wang L, Wang X, Vosoughi A, Necchi A, Meeks JJ, Faltas BM, Du P, Li R. Novel Use of Circulating Tumor DNA to Identify Muscle-invasive and Non-organ-confined Upper Tract Urothelial Carcinoma. Eur Urol",
+      "pubmed_id": "37802683",
+      "year": "2024",
+      "journal": "85(3):283-292",
+      "authors": ""
+    },
+    {
+      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai K, Markowitz J, Vallebuona E, Berglund A, Eschrich S, Yu X, Fridley BL. spatialGE: A user-friendly web application to democratize spatial transcriptomics analysis. bioRxiv",
+      "pubmed_id": "39005315",
+      "pmc_id": "PMC11244876",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Soupir AC, Hayes MT, Peak TC, Ospina O, Chakiryan NH, Berglund AE, Stewart PA, Nguyen J, Segura CM, Francis NL, Echevarria PMR, Chahoud J, Li R, Tsai KY, Balasi JA, Peres YC, Dhillon J, Martinez LA, Gloria WE, Schurman N, Kim S, Gregory M, Mul\u00e9 J, Fridley BL, Manley BJ. Increased spatial coupling of integrin and collagen IV in the immunoresistant clear-cell renal-cell carcinoma tumor microenvironment. Genome Biol",
+      "pubmed_id": "39639369",
+      "pmc_id": "PMC11622564",
+      "year": "2024",
+      "journal": "25(1):308",
+      "authors": ""
+    }
+  ],
+  "grants": [],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SoupirAlex_27969.jpg",
+  "contact": {},
+  "content_hash": "92fa22fa39225c4e2b4229a22fa24d7fd87cce48a81746a2bffc0e8dfe1b0ad0"
+}

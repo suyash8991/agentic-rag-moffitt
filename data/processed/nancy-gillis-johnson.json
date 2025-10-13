@@ -1,0 +1,139 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/nancy-gillis-johnson",
+  "last_updated": "2025-10-13T21:43:59.096961",
+  "researcher_id": "6730",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Cancer Epidemiology",
+  "research_program": "Cancer Epidemiology Program",
+  "overview": "Dr. Gillis is a molecular epidemiologist with a primary focus on hematologic malignancies and precision medicine.",
+  "research_interests": [
+    "Dr. Gillis is a molecular epidemiologist with a background in pharmacogenomics and precision medicine. Her research focuses on the use of genetic biomarkers to predict risk, adverse events, and outcomes in the setting of cancer, with an emphasis on myeloid pre-leukemic conditions, such as clonal hematopoiesis (CH or CHIP), clonal cytopenias (CCUS), and myelodysplastic syndromes (MDS). Her translational research program aims to inform interventions and management strategies that can be implemented in clinical settings to improve outcomes for patients affected by these conditions. \n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Cancer Epidemiology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Florida, PharmD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of North Carolina, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Moffitt Cancer Center",
+      "specialty": "Molecular Epidemiology of Cancer"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Colin-Leitzinger C, Tang YH, Teng M, Gillis N. Peripheral blood somatic mosaicism and clonal hematopoiesis across ancestry backgrounds. medRxiv",
+      "pubmed_id": "40166537",
+      "pmc_id": "PMC11957158",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Gillis N, Dickey BL, Colin-Leitzinger C, Tang YH, Putney RM, Mesa TE, Yoder SJ, Suneja G, Spivak AM, Patel AB, Extermann M, Giuliano AR, Teng M, Kresovich J, Berglund A, Coghill AE. Clonal Hematopoiesis in Patients With Human Immunodeficiency Virus and Cancer. J Infect Dis",
+      "pubmed_id": "38657098",
+      "year": "2024",
+      "journal": "230(3):680-688",
+      "authors": ""
+    },
+    {
+      "title": "Williams LS, Williams KM, Gillis N, Bolton K, Damm F, Deuitch NT, Farhadfar N, Gergis U, Keel SB, Michelis FV, Panch SR, Porter CC, Sucheston-Campbell L, Tamari R, Stefanski HE, Godley LA, Lai C. Donor-Derived Malignancy and Transplantation Morbidity: Risks of Patient and Donor Genetics in Allogeneic Hematopoietic Stem Cell Transplantation. Transplant Cell Ther",
+      "pubmed_id": "37913908",
+      "pmc_id": "PMC10947964",
+      "year": "2024",
+      "journal": "30(3):255-267",
+      "authors": ""
+    },
+    {
+      "title": "Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L, Duckett DR, Teng M. An Epigenomic fingerprint of human cancers by landscape interrogation of super enhancers at the constituent level. PLoS Comput Biol",
+      "pubmed_id": "38335222",
+      "pmc_id": "PMC10883583",
+      "year": "2024",
+      "journal": "20(2):e1011873",
+      "authors": ""
+    },
+    {
+      "title": "Gillis N, Ebied A, Thompson ZJ, Pidala JA. Clinical impact of clonal hematopoiesis in hematopoietic cell transplantation: a review, meta-analysis, and call to action. Haematologica",
+      "pubmed_id": "38899345",
+      "pmc_id": "PMC11609801",
+      "year": "2024",
+      "journal": "109(12):3952-3964",
+      "authors": ""
+    },
+    {
+      "title": "Berry DK, Gillis N, Padron E, Moore C, Barton LV, Gewandter KR, Haskins CG, Knepper TC. Interpretation of ambiguous TP53 test results: Mosaicism, clonal hematopoiesis, and variants of uncertain significance. J Genet Couns",
+      "pubmed_id": "37715966",
+      "year": "2024",
+      "journal": "33(4):916-926",
+      "authors": ""
+    },
+    {
+      "title": "Mammadova J, Colin-Leitzinger C, Nguyen D, Mhaskar R, Ganesan S, Tang YH, Teng M, Ismail-Khan R, Gillis N. Clonal Hematopoiesis as a Molecular Risk Factor for Doxorubicin-Induced Cardiotoxicity: A Proof-of-Concept Study. JCO Precis Oncol",
+      "pubmed_id": "37738545",
+      "pmc_id": "PMC10581654",
+      "year": "2023",
+      "journal": "7:e2300208",
+      "authors": ""
+    },
+    {
+      "title": "Gillis N, Padron E, Wang T, Chen K, DeVos JD, Spellman SR, Lee SJ, Kitko CL, MacMillan ML, West J, Tang YH, Teng M, McNulty S, Druley TE, Pidala JA, Lazaryan A. Pilot Study of Donor-Engrafted Clonal Hematopoiesis Evolution and Clinical Outcomes in Allogeneic Hematopoietic Cell Transplantation Recipients Using a National Registry. Transplant Cell Ther",
+      "pubmed_id": "37517612",
+      "pmc_id": "PMC10592088",
+      "year": "2023",
+      "journal": "29(10):640",
+      "authors": ""
+    },
+    {
+      "title": "Gorak E, Otterstatter M, Al Baghdadi T, Gillis N, Foran JM, Liu JJ, Bejar R, Gore SD, Kroft SH, Harrington AM, Saber W, Starczynowski DT, Rollison DE, Zhang L, Moscinski LC, Wilson SH, Thompson J, Borchert C, Sherman S, Hebert D, Walker ME, Padron E, DeZern A, Sekeres MA. Discordant pathologic diagnoses of myelodysplastic neoplasms and their implications for registries and therapies. Blood Adv",
+      "pubmed_id": "37552083",
+      "pmc_id": "PMC10582385",
+      "year": "2023",
+      "journal": "7(20):6120-6129",
+      "authors": ""
+    },
+    {
+      "title": "Dickey BL, Putney RM, Suneja G, Kresovich JK, Spivak AM, Patel AB, Teng M, Extermann M, Giuliano AR, Gillis N, Berglund A, Coghill AE. Differences in epigenetic age by HIV status among patients with a non-AIDS defining cancer. Aids",
+      "pubmed_id": "37467055",
+      "pmc_id": "PMC10538418",
+      "year": "2023",
+      "journal": "37(13):2049-2057",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: HIV Genomic Aging Project in Oncology (HIV-GAP)  \nAward Number: 5R01CA268973-04  \nSponsor: National Cancer Institute (NCI)  \nCoghill, A. (PD/PI), Johnson, N. (PD/PI)",
+      "source": "NCI",
+      "period": "8973-04"
+    },
+    {
+      "description": "Title: Evidence-based monitoring of clonal hematopoiesis in treatment for breast cancer  \nAward Number: n/a  \nSponsor: Florida Breast Cancer Foundation  \nJohnson, N. (PD/PI), West, J. (PD/PI)",
+      "source": "Foundation"
+    },
+    {
+      "description": "Title: Evolution and Clinical Impact of Clonal Hematopoiesis of Indeterminate Potential Breast Tumor Microenvironment  \nAward Number: 7R01CA233662-05  \nSponsor: National Cancer Institute (NCI)  \nJohnson, N. (PD/PI)",
+      "source": "NCI",
+      "period": "3662-05"
+    },
+    {
+      "description": "Title: The National Myelodysplastic Syndromes Natural History Study (The National MDS Study)  \nAward Number: HHSN2682014000031/P00008  \nSponsor: National Heart, Lung, and Blood Institute (NHLBI)  \nJohnson, N. (PD/PI), Padron, E. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JohnsonNancyGillis_6730.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=6730"
+  },
+  "content_hash": "c19df2faf017886edfe91da232eb39aceb8b3afc41fe07b1fec78aaae6ee3595"
+}

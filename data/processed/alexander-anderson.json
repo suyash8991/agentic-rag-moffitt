@@ -1,0 +1,142 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/alexander-anderson",
+  "last_updated": "2025-10-13T21:41:25.681645",
+  "researcher_id": "4617",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Integrated Mathematical Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Our goal is to develop truly integrated models of specific cancers that can have both predictive and therapeutic potential.",
+  "research_interests": [
+    "Mathematical models, in general, have suffered greatly due to a lack of true experimental parameterization and derivation with the new Integrated Mathematical Oncology division at Moffitt we hope to address this issue and develop truly integrated models of specific cancers that can have both predictive and therapeutic application. Cancer is a complex, multiscale process, in which genetic mutations occurring at a subcellular level manifest themselves as functional changes at the cellular and tissue scale. The multiscale nature of cancer requires mathematical modelling approaches of a similar nature. The Hybrid-Discrete Continuum (HDC) model developed initially in application to nematode movement (1996), and subsequently applied to tumor angiogenes (1998), invasion (2000, 2005, 2006) and Dictyostelium dynamics (2002) is one such multiscale approach. The HDC technique is both simple and powerful, allowing discrete individuals and continuous variables to interact at the scales they naturally occur. However, we are open to utilising any tool or technique be it individual, hybrid, or purely continuum based in order to better capture the complexity of cancer and address the specific aspect under consideration. One aspect of Cancer that is currently of great interest is that of tumor cell/microenvironment interactions since both the immediate microenvironment (cell-cell or cell-matrix interactions) and the extended microenvironment (e.g. vascular bed, stroma) are thought to play crucial roles in both tumor progression and suppression. Much of my current work on tumor invasion examines the key role of the microenvironment as a selective force in the growth and evolution of cancer. The evolutionary dynamics of the tumor population have almost solely been considered at the genetic scale and very little work has considered the phenotype scale. My work focuses in part on the link between between these scales, the so called genotype to phenotype mapping and in part on how tumor cell phenotypes behave under different microenvironmental conditions and the impact this has on tumor morphology. An important aspect of this work is to understand how best to link, using mathematical models, the wealth of gene expression data that currently exist with the phenotypes that create the tumor. Thus creating a cell centered bridge between genetic change and clinical outcome.\n  *"
+  ],
+  "associations": [
+    "Integrated Mathematical Oncology",
+    "Diagnostic Imaging and Interventional Radiology",
+    "Radiation Oncology",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Cancer Biology & Evolution Program",
+    "Center of Excellence for Evolutionary Therapy"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Dundee, MSc"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Dundee, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Dundee",
+      "specialty": "Mathematics"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Gallagher K, Strobl MAR, Anderson ARA, Maini PK. Deriving Optimal Treatment Timing for Adaptive Therapy: Matching the Model to the Tumor Dynamics. Bull Math Biol",
+      "pubmed_id": "40921859",
+      "pmc_id": "PMC12417256",
+      "year": "2025",
+      "journal": "87(10):146",
+      "authors": ""
+    },
+    {
+      "title": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "40998270",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR. Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial. Nat Med",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "journal": "31(1):176-188",
+      "authors": ""
+    },
+    {
+      "title": "Gatenby RA, Anderson ARA, Brown JS, Gallaher J, Krolick J, Lemanne D. Directed Evolution Restored Castrate Sensitivity in a Patient With Castrate Resistant Metastatic Prostate Cancer. Prostate",
+      "pubmed_id": "40878050",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Milne A, Marusyk A, Maini PK, Anderson ARA, Picco N. The role of environmentally mediated drug resistance in facilitating the spatial distribution of residual disease. Commun Biol",
+      "pubmed_id": "40783466",
+      "pmc_id": "PMC12335614",
+      "year": "2025",
+      "journal": "8(1):1189",
+      "authors": ""
+    },
+    {
+      "title": "Gallagher K, Strobl MAR, Anderson ARA, Maini PK. Deriving Optimal Treatment Timing for Adaptive Therapy: Matching the Model to the Tumor Dynamics. medRxiv",
+      "pubmed_id": "40236415",
+      "pmc_id": "PMC11998818",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A. Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers. Res Sq",
+      "pubmed_id": "40313737",
+      "pmc_id": "PMC12045365",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. NPJ Syst Biol Appl",
+      "pubmed_id": "39349537",
+      "pmc_id": "PMC11442770",
+      "year": "2024",
+      "journal": "10(1):106",
+      "authors": ""
+    },
+    {
+      "title": "Aguad\u00e9-Gorgori\u00f3 G, Anderson ARA, Sol\u00e9 R. Modeling tumors as complex ecosystems. iScience",
+      "pubmed_id": "39280631",
+      "pmc_id": "PMC11402243",
+      "year": "2024",
+      "journal": "27(9):110699",
+      "authors": ""
+    },
+    {
+      "title": "Emond R, West J, Grolmusz V, Cosgrove P, Nath A, Anderson ARA, Bild AH. A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind. bioRxiv",
+      "pubmed_id": "39282402",
+      "pmc_id": "PMC11398327",
+      "year": "2024",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice  \nAward Number: 24-0147-AR  \nSponsor: MITSUI & CO. (USA), INC  \nAnderson, A. (PD/PI), Gatenby, R. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Institutional Support for Research Center for Cancer Systems Biology U54Grant The Delta Ecology of NSCLC Treatment  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nAnderson, A. (PD/PI)",
+      "source": "Foundation"
+    },
+    {
+      "description": "Title: The Delta Ecology of NSCLC Treatment  \nAward Number: 5U54CA274507  \nSponsor: National Cancer Institute (NCI)  \nAnderson, A. (PD/PI), Gatenby, R. (PD/PI)",
+      "source": "NCI"
+    },
+    {
+      "description": "Title: The Delta Ecology of NSCLC Treatment - Diversity Supplement  \nAward Number: 1U54CA274507-03S1  \nSponsor: National Cancer Institute (NCI)  \nAnderson, A. (PD/PI), Gatenby, R. (PD/PI)",
+      "source": "NCI",
+      "period": "4507-03"
+    },
+    {
+      "description": "Title: Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB  \nAward Number: 23L11  \nSponsor: Florida Department of Health  \nMetts, J. (PD/PI), Anderson, A. (Co-PD/PI), Brown, J. (Co-PD/PI), Marusyk, A. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: To develop use cases and a business model around the idea of creating a digitally enabled clinical R&D platform to deliver precision medicine adaptable to ever-changing patient conditions in real-world practice  \nAward Number: 24-0147  \nSponsor: MITSUI & CO. (USA), INC  \nRollison, D. (PD/PI), Anderson, A. (Co-PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AndersonAlexander_4617.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4617"
+  },
+  "content_hash": "23227ba2da74122b893ea244730806fc6f3099ba4ba70e2880e250f96c6c6bb2"
+}

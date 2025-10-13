@@ -1,0 +1,38 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/marcelo-bonini",
+  "last_updated": "2025-10-13T21:41:02.954887",
+  "researcher_id": "unknown",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Metabolism and Physiology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Breast cancer metabolism and metastasis, Epigenetics, Histones, Histone Oxidation, Redox Biology.",
+  "research_interests": [
+    "Our lab is interested in the mechanisms connecting the decline of the energetic metabolism that occurs during aging with aging-related diseases being cancer a prime example. We focus on how a switch in the functioning of mitochondria to promote reactive oxygen species production over ATP changes the biophysical microenvironment of the cell with particular emphasis in the nucleus. We also aim at determining how these metabolic changes impact chromatin structure and gene expression. Our hypothesis is that reactive metabolites including, but not limited to reactive oxygen species, chemically modify chromatin components that provide it with specific structural patterns. These include histones, lamins, lncRNA and DNA itself. Since chromatin structure regulates gene accessibility and transcription efficiency our work postulates that changes in metabolism establish the biophysical environment where transcription happens. With that in mind we aim at developing therapeutic strategies to mitigate the effects of these metabolites on chromatin (chromatin protective agents) to improve cancer clinical care.\n  *"
+  ],
+  "associations": [
+    "Metabolism and Physiology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [],
+  "publications": [],
+  "grants": [
+    {
+      "description": "Title: A redox-sensitive switch in the macrophage nucleus regulates acute phase inflammatory injury  \nAward Number: 7R01HL163820-04  \nSponsor: National Heart, Lung, and Blood Institute (NHLBI)  \nBonini, M. (PD/PI)",
+      "period": "3820-04"
+    },
+    {
+      "description": "Title: Suppression of progesterone receptor signaling by heavy metals promotes tamoxifen resistance and metastasis or ER+ breast cancer  \nAward Number: 7R01ES035353  \nSponsor: National Institute of Environmental Health Sciences (NIEHS)  \nBonini, M. (PD/PI)"
+    },
+    {
+      "description": "Title: Every Day Counts: A lifestyle program for women with metastatic breast cancer  \nAward Number: 5R01CA258759-04  \nSponsor: Medical College of Wisconsin  \nBonini, M. (PD/PI)",
+      "period": "8759-04"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BoniniMarcelo_42703.jpg",
+  "contact": {},
+  "content_hash": "d34b04b84f0f09fc8f95e17ce609e661f734ff92a800703cc6877471867ae080"
+}

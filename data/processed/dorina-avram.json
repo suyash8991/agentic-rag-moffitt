@@ -1,0 +1,143 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/dorina-avram",
+  "last_updated": "2025-10-13T21:47:32.936233",
+  "researcher_id": "27668",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Immunology",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "Avram lab investigates transcriptional and epigenetic regulators that dictate the programs of tumor infiltrating CD4+ and CD8+ T lymphocytes, as well as of T cells used in adoptive cell therapies. Through complex manipulations of these decision factors, including genome CRISPR editing, the goal is to reach favorable states and make the TILs resistant to tumor immune suppression. In further steps, we plan to engineer the TILs to reprogram the immune tumor microenvironment to favorable states. We use patient derived samples, genetically engineered mouse models, along with state of the art molecular methodologies, including transcriptomics (bulk and scRNAseq), epigenomics, CRISPR-genome editing, multiplex immunofluorescence and spatial transcriptomics. We hope that our studies will lead to technologies that improve adoptive cell therapies with TILs, as well as CAR-T cell behavior in solid tumors. Additional research interests in Avram Lab include ubiquitination in inflammation and cancer, with the goal of harnessing the immune responses for cancer therapies. Team: Dorina Avram, PhD (PI and Mentor), outstanding postdocs: Shamima Islam, PhD, Leonardo Silvane, PhD and Sayan Chakraborty (Postdoc) and fantastic collaborators, Dr. Timothy Shaw and Dr. Shari Pilon-Thomas. If interested to join our team, please send email to dorina.avram@moffitt.org.",
+  "research_interests": [
+    "Avram lab investigates transcriptional and epigenetic regulators that dictate the programs of tumor infiltrating CD4+ and CD8+ T lymphocytes, as well as of T cells used in adoptive cell therapies. Through complex manipulations of these decision factors, including genome CRISPR editing, the goal is to reach favorable states and make the TILs resistant to tumor immune suppression. In further steps, we plan to engineer the TILs to reprogram the immune tumor microenvironment to favorable states. We use patient derived samples, genetically engineered mouse models, along with state of the art molecular methodologies, including transcriptomics (bulk and scRNAseq), epigenomics, CRISPR-genome editing, multiplex immunofluorescence and spatial transcriptomics. We hope that our studies will lead to technologies that improve adoptive cell therapies with TILs, as well as CAR-T cell behavior in solid tumors. Additional research interests in Avram Lab include ubiquitination in inflammation and cancer, with the goal of harnessing the immune responses for cancer therapies. Team: Dorina Avram, PhD (PI and Mentor), outstanding postdocs: Shamima Islam, PhD, Leonardo Silvane, PhD and Sayan Chakraborty (Postdoc) and fantastic collaborators, Dr. Timothy Shaw and Dr. Shari Pilon-Thomas. If interested to join our team, please send email to dorina.avram@moffitt.org. \n  *"
+  ],
+  "associations": [
+    "Immunology",
+    "Gastrointestinal Oncology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Oregon State University, Corvallis, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Oregon State University",
+      "specialty": "Molecular Pharmacology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Gao Y, Yin Q, Gamallat Y, Grant MG, Snell AH, Shi X, Ulstad LN, Singh A, Chen T, Johnson JO, Avram D, Wan L. Linear ubiquitination of p31comet by HOIP couples cytokine response with mitotic regulation. Cell Biosci",
+      "pubmed_id": "40462232",
+      "pmc_id": "PMC12135451",
+      "year": "2025",
+      "journal": "15(1):75",
+      "authors": ""
+    },
+    {
+      "title": "Feng Y, Yuan Q, Zuniga A, Islam S, Avram D, Guryanova OA. Optimized Mouse Model to Induce Colitis-Associated Colon Cancer using Azoxymethane and Dextran Sulfate Sodium for Tumor Immunology and Therapy Studies. J Vis Exp",
+      "pubmed_id": "40788861",
+      "year": "2025",
+      "journal": "(221)",
+      "authors": ""
+    },
+    {
+      "title": "Tejero JD, Hesterberg RS, Drapela S, Ilter D, Raizada D, Lazure F, Kashfi H, Liu M, Silvane L, Avram D, Fern\u00e1ndez-Garc\u00eda J, Asara JM, Fendt SM, Cleveland JL, Gomes AP. Methylmalonic acid induces metabolic abnormalities and exhaustion in CD8+ T cells to suppress anti-tumor immunity. Oncogene",
+      "pubmed_id": "39472497",
+      "year": "2025",
+      "journal": "44(2):105-114",
+      "authors": ""
+    },
+    {
+      "title": "Davis JT, Obermayer AN, Soupir AC, Hesterberg RS, Duong T, Yang CY, Dao KP, Manley BJ, Grass GD, Avram D, Rodriguez PC, Fridley BL, Yu X, Teng M, Wang X, Shaw TI. BatchFLEX: feature-level equalization of X-batch. Bioinformatics",
+      "pubmed_id": "39360977",
+      "pmc_id": "PMC11486499",
+      "year": "2024",
+      "journal": "40(10)",
+      "authors": ""
+    },
+    {
+      "title": "Burton C, Bitaraf A, Snyder K, Zhang C, Yoder SJ, Avram D, Du D, Yu X, Lau EK. The functional role of L-fucose on dendritic cell function and polarization. Front Immunol",
+      "pubmed_id": "38646527",
+      "pmc_id": "PMC11026564",
+      "year": "2024",
+      "journal": "15:1353570",
+      "authors": ""
+    },
+    {
+      "title": "Bracho-Sanchez E, Rocha FG, Bedingfield SK, Partain BD, Macias SL, Brusko MA, Colazo JM, Fettis MM, Farhadi SA, Helm EY, Koenders K, Kwiatkowski AJ, Restuccia A, Morales BS, Wanchoo A, Avram D, Allen KD, Duvall CL, Wallet SM, Hudalla GA, Keselowsky BG. Suppression of local inflammation via galectin-anchored indoleamine 2,3-dioxygenase. Nat Biomed Eng",
+      "pubmed_id": "37127708",
+      "pmc_id": "PMC10504068",
+      "year": "2023",
+      "journal": "7(9):1156-1169",
+      "authors": ""
+    },
+    {
+      "title": "Feng Y, Yuan Q, Newsome RC, Robinson T, Bowman RL, Zuniga AN, Hall KN, Bernsten CM, Shabashvili DE, Krajcik KI, Gunaratne C, Zaroogian ZJ, Venugopal K, Casellas Roman HL, Levine RL, Chatila WK, Yaeger R, Riva A, Jobin C, Kopinke D, Avram D, Guryanova OA. Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer. J Exp Med",
+      "pubmed_id": "37615936",
+      "pmc_id": "PMC10450614",
+      "year": "2023",
+      "journal": "220(11)",
+      "authors": ""
+    },
+    {
+      "title": "Kwiatkowski AJ, Helm EY, Stewart J, Leon J, Drashansky T, Avram D, Keselowsky B. Design principles of microparticle size and immunomodulatory factor formulation dictate antigen-specific amelioration of multiple sclerosis in a mouse model. Biomaterials",
+      "pubmed_id": "36716589",
+      "year": "2023",
+      "journal": "294:122001",
+      "authors": ""
+    },
+    {
+      "title": "Dean JW, Helm EY, Fu Z, Xiong L, Sun N, Oliff KN, Muehlbauer M, Avram D, Zhou L. The aryl hydrocarbon receptor cell intrinsically promotes resident memory CD8+ T cell differentiation and function. Cell Rep",
+      "pubmed_id": "36640340",
+      "pmc_id": "PMC9940759",
+      "year": "2023",
+      "journal": "42(1):111963",
+      "authors": ""
+    },
+    {
+      "title": "Helm EY, Zelenka T, Cismasiu VB, Islam S, Silvane L, Zitti B, Holmes TD, Drashansky TT, Kwiatkowski AJ, Tao C, Dean J, Obermayer AN, Chen X, Keselowsky BG, Zhang W, Huo Z, Zhou L, Sheridan BS, Conejo-Garcia JR, Shaw TI, Bryceson YT, Avram D. Bcl11b sustains multipotency and restricts effector programs of intestinal-resident memory CD8+ T cells. Sci Immunol",
+      "pubmed_id": "37115913",
+      "pmc_id": "PMC10231135",
+      "year": "2023",
+      "journal": "8(82):eabn0484",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Program control of CD8+ T cell response to tumors and tumor memory  \nAward Number: 1R01CA293755-01A1  \nSponsor: National Institutes of Health (NIH)  \nAvram, D. (PD/PI), Shaw, T. (Co-PD/PI)",
+      "source": "NIH",
+      "period": "3755-01"
+    },
+    {
+      "description": "Title: Platinum-induced lipid reprogramming and tumor immune microenvironment in SCLC  \nAward Number: 1R01CA269782-01  \nSponsor: National Cancer Institute (NCI)  \nAvram, D. (PD/PI)",
+      "source": "NCI",
+      "period": "9782-01"
+    },
+    {
+      "description": "Title: High throughput screening assays to identify chemical probes targeting Hectd3, an E3 ubiquitin ligase implicated in multiple sclerosis  \nAward Number: 5R01AI161845-05  \nSponsor: National Cancer Institute (NCI)  \nAvram, D. (PD/PI)",
+      "source": "NCI",
+      "period": "1845-05"
+    },
+    {
+      "description": "Title: Directing Tryptophan Immunometabolism to Ameliorate Liver Ischemic-Reperfusion Injury  \nAward Number: 5R01DK129690-02  \nSponsor: National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)  \nAvram, D. (PD/PI)",
+      "period": "9690-02"
+    },
+    {
+      "description": "Title: Tissue-Anchored vs. Circulating Constructs for Immunometabolic Resolution of Psoriasis  \nAward Number: 1R01AI171045-01A1  \nSponsor: National Institutes of Health (NIH)  \nAvram, D. (PD/PI)",
+      "source": "NIH",
+      "period": "1045-01"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AvramDorina_27668.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27668",
+    "email": "dorina.avram@moffitt.org"
+  },
+  "content_hash": "7ae42d6b0c0755750a34f602e9a012217502ecd3123ef25cd002de9180dacde7"
+}

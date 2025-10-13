@@ -1,0 +1,119 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/yoga-balagurunathan",
+  "last_updated": "2025-10-13T21:42:00.468913",
+  "researcher_id": "11050",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Machine Learning",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Dr. Balagurunathan\u2019s research is focused on understanding the physiology of the tumor and its relationship to the underlying genome. His interests include data integration from various modalities (radiology, pathology, genome) to improve clinical decision support. His disease focus are prostate cancer, lung cancer and B-cell lymphomas.",
+  "research_interests": [
+    "Dr. Balagurunathan\u2019s research is focused on understanding the physiology of the tumor and its relationship to the underlying genome. His interests include data integration from various modalities (radiology, pathology, genome) to improve clinical decision support, His diseasefoci are prostate cancer, lung cancer and B-cell lymphomas. \n  *"
+  ],
+  "associations": [
+    "Machine Learning",
+    "Genitourinary Oncology",
+    "Diagnostic Imaging and Interventional Radiology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Texas A&M University, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "College of Engineering Guindy, Anna University, ME"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Abudalou S, Choi J, Gage K, Pow-Sang J, Yilmaz Y, Balagurunathan Y. Challenges in Using Deep Neural Networks Across Multiple Readers in Delineating Prostate Gland Anatomy. J Imaging Inform Med",
+      "pubmed_id": "40392414",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Balagurunathan Y, Choi JW, Thompson Z, Jain M, Locke FL. Radiomic Features Prognosticate Treatment Response in CAR-T Cell Therapy. Cancers (Basel)",
+      "pubmed_id": "40507312",
+      "pmc_id": "PMC12153729",
+      "year": "2025",
+      "journal": "17(11)",
+      "authors": ""
+    },
+    {
+      "title": "Maletz S, Balagurunathan Y, Murphy K, Folio L, Chima R, Zaheer A, Vadvala H. AI-powered innovations in pancreatitis imaging: a comprehensive literature synthesis. Abdom Radiol (NY)",
+      "pubmed_id": "39133362",
+      "year": "2025",
+      "journal": "50(1):438-452",
+      "authors": ""
+    },
+    {
+      "title": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y. Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study. Cancers (Basel)",
+      "pubmed_id": "40075682",
+      "pmc_id": "PMC11898942",
+      "year": "2025",
+      "journal": "17(5)",
+      "authors": ""
+    },
+    {
+      "title": "Murphy A, Bowen K, Naqa IME, Yoga B, Green BL. Bridging Health Disparities in the Data-Driven World of Artificial Intelligence: A Narrative Review. J Racial Ethn Health Disparities",
+      "pubmed_id": "38955956",
+      "year": "2025",
+      "journal": "12(4):2367-2379",
+      "authors": ""
+    },
+    {
+      "title": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL. Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes. Blood",
+      "pubmed_id": "39652773",
+      "year": "2025",
+      "journal": "145(15):1645-1657",
+      "authors": ""
+    },
+    {
+      "title": "Patel MS, Almubarak M, Matta J, Ortiz-Sanchez C, Encarnacion J, Ruiz-Deya G, Dutil J, Dhillon J, Yamoah K, Berglund A, Park H, Kilari D, Balagurunathan Y, Wang L, Park JY. 5hmC-profiles in Puerto Rican Hispanic/Latino men with aggressive prostate cancer. Front Oncol",
+      "pubmed_id": "40265030",
+      "pmc_id": "PMC12011585",
+      "year": "2025",
+      "journal": "15:1541878",
+      "authors": ""
+    },
+    {
+      "title": "Balagurunathan Y, Wei Z, Qi J, Thompson Z, Dean E, Lu H, Vardhanabhuti S, Corallo S, Choi JW, Kim JJ, Mattie M, Jain M, Locke FL. Radiomic features of PET/CT imaging of large B cell lymphoma lesions predicts CAR T cell therapy efficacy. Front Oncol",
+      "pubmed_id": "39659779",
+      "pmc_id": "PMC11629080",
+      "year": "2024",
+      "journal": "14:1485039",
+      "authors": ""
+    },
+    {
+      "title": "Wei Z, Iluppangama M, Qi J, Choi JW, Yu A, Gage K, Chumbalkar V, Dhillon J, Balaji KC, Venkataperumal S, Hernandez DJ, Park J, Yedjou C, Alo R, Gatenby RA, Pow-Sang J, Balagurunanthan Y. Quantitative DCE Dynamics on Transformed MR Imaging Discriminates Clinically Significant Prostate Cancer. Cancer Control",
+      "pubmed_id": "39545376",
+      "pmc_id": "PMC11565616",
+      "year": "2024",
+      "journal": "31",
+      "authors": ""
+    },
+    {
+      "title": "Avasthi KK, Choi J, Glushko T, Manley BJ, Yu A, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y. Extracellular microvesicle microRNAs, along with imaging metrics, improve detection of aggressive prostate cancer. medRxiv",
+      "pubmed_id": "39228742",
+      "pmc_id": "PMC11370497",
+      "year": "2024",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: PROTEIN BIOMARKERS IN AFRICAN AMERICAN MINORITIES WITH PROSTATE CANCER  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nBalagurunathan, Y. (PD/PI), Park, J. (Co-PD/PI)",
+      "source": "Foundation"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BalagurunathanYoga_11050.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=11050"
+  },
+  "content_hash": "41f2fc63b85bec353b15c26ffb546e478c2a8ef2ec9da26429fa80b2aef01040"
+}

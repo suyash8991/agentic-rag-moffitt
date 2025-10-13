@@ -1,0 +1,143 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jiandong-chen",
+  "last_updated": "2025-10-13T21:42:15.072611",
+  "researcher_id": "404",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Molecular Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Our laboratory mainly focuses on studying the p53 pathway in tumor cells.",
+  "research_interests": [
+    "My laboratory has a long-standing interest in studying the regulation of p53 by MDM2 and MDMX. An important goal of our research is the discovery of novel drug targets. Our work on p53 has contributed to the validation of MDM2 and MDMX as drug targets in cancer therapy. We have published extensively in the areas of p53/MDM2/MDMX phosphorylation, ubiquitination, transcriptional regulation, and drug discovery using biochemical/cellular assays and mouse tumor models. Ongoing research include targeting of tumors with temperature sensitive mutant p53, analysis of MDMX interaction with CK1 alpha, targeting of TAF1 transcription factor using PROTAC approach, evaluation of MDM2 as a PROTAC E3 ligase.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "Lung Cancer Center of Excellence",
+    "Cancer Biology & Evolution Program",
+    "Molecular Oncology & Drug Discovery Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Pittsburgh, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Princeton University",
+      "specialty": "Molecular Biology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J. PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo. Mol Cancer Ther",
+      "pubmed_id": "40376796",
+      "year": "2025",
+      "journal": "OF1-OF10",
+      "authors": ""
+    },
+    {
+      "title": "Lu J, Chen L, Fatima Z, Huang J, Chen J. Synergistic rescue of temperature-sensitive p53 mutants by hypothermia and arsenic trioxide. Mol Carcinogen",
+      "pubmed_id": "39115446",
+      "pmc_id": "PMC11466696",
+      "year": "2024",
+      "journal": "63(11):2205-2217",
+      "authors": ""
+    },
+    {
+      "title": "Shaikh DH, Park M, Chen J, Huang J, Friedman MS, Dam AN, Luthra AK, Cappelle S, Pena LR, Permuth JB, Mok SRS. Differences in Gender and Overall Survival for Temperature-Sensitive TP53 Mutations in Gastroesophageal Cancer. Medicina (Kaunas)",
+      "pubmed_id": "39597086",
+      "pmc_id": "PMC11597060",
+      "year": "2024",
+      "journal": "60(11)",
+      "authors": ""
+    },
+    {
+      "title": "Fenton M, Borcherds W, Chen L, Anbanandam A, Levy R, Chen J, Daughdrill G. The MDMX Acidic Domain Uses Allovalency to Bind Both p53 and MDMX. J Mol Biol",
+      "pubmed_id": "36181774",
+      "pmc_id": "PMC9644833",
+      "year": "2022",
+      "journal": "434(22):167844",
+      "authors": ""
+    },
+    {
+      "title": "Karim RM, Yang L, Chen L, Bikowitz MJ, Lu J, Grassie D, Shultz ZP, Lopchuk JM, Chen J, Sch\u00f6nbrunn E. Discovery of Dual TAF1-ATR Inhibitors and Ligand-Induced Structural Changes of the TAF1 Tandem Bromodomain. J Med Chem",
+      "pubmed_id": "35191694",
+      "year": "2022",
+      "journal": "65(5):4182-4200",
+      "authors": ""
+    },
+    {
+      "title": "Sang P, Shi Y, Lu J, Chen L, Yang L, Borcherds W, Abdulkadir S, Li Q, Daughdrill G, Chen J, Cai J. Correction to \u03b1-Helix-Mimicking Sulfono-\u03b3-AApeptide Inhibitors for p53-MDM2/MDMX Protein-Protein Interactions. J Med Chem",
+      "pubmed_id": "32822169",
+      "pmc_id": "PMC7853636",
+      "year": "2020",
+      "journal": "63(17):10087",
+      "authors": ""
+    },
+    {
+      "title": "Shi Y, Sang P, Lu J, Higbee P, Chen L, Yang L, Odom T, Daughdrill G, Chen J, Cai J. Rational Design of Right-Handed Heterogeneous Peptidomimetics as Inhibitors of Protein-Protein Interactions. J Med Chem",
+      "pubmed_id": "33140956",
+      "pmc_id": "PMC8170677",
+      "year": "2020",
+      "journal": "63(21):13187-13196",
+      "authors": ""
+    },
+    {
+      "title": "Huang Q, Chen L, Schonbrunn E, Chen J. MDMX inhibits casein kinase 1\u03b1 activity and stimulates Wnt signaling. Embo J",
+      "pubmed_id": "32511789",
+      "pmc_id": "PMC7361285",
+      "year": "2020",
+      "journal": "39(14):e104410",
+      "authors": ""
+    },
+    {
+      "title": "Li Q, Karim RM, Cheng M, Das M, Chen L, Zhang C, Lawrence HR, Daughdrill GW, Schonbrunn E, Ji H, Chen J. Inhibition of p53 DNA binding by a small molecule protects mice from radiation toxicity. Oncogene",
+      "pubmed_id": "32555331",
+      "pmc_id": "PMC7398576",
+      "year": "2020",
+      "journal": "39(29):5187-5200",
+      "authors": ""
+    },
+    {
+      "title": "Liu X, Huang Q, Chen L, Zhang H, Schonbrunn E, Chen J. Tumor-derived CK1\u03b1 mutations enhance MDMX inhibition of p53. Oncogene",
+      "pubmed_id": "31462704",
+      "pmc_id": "PMC7739390",
+      "year": "2020",
+      "journal": "39(1):176-186",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Anti-tumor Potential of Temperature-Sensitive p53 Mutants  \nAward Number: 5R01CA260356-03  \nSponsor: National Cancer Institute (NCI)  \nChen, J. (PD/PI), Mann, M. (PD/PI)",
+      "source": "NCI",
+      "period": "0356-03"
+    },
+    {
+      "description": "Title: Allosteric Regulation of MDMX by Protein Disorder  \nAward Number: 5R01CA141244-12  \nSponsor: National Cancer Institute (NCI)  \nChen, J. (PD/PI)",
+      "source": "NCI",
+      "period": "1244-12"
+    },
+    {
+      "description": "Title: Intrinsic Disorder Controls the Function of p53 and Other Cancer Associated IDPs  \nAward Number: 5R01GM115556-07  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nChen, J. (PD/PI)",
+      "period": "5556-07"
+    },
+    {
+      "description": "Title: Targeting Wnt Signaling Pathway  \nAward Number: 1R01GM150196-01  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nChen, J. (PD/PI)",
+      "period": "0196-01"
+    },
+    {
+      "description": "Title: Selective Targeting of TAF1 Function in Acute Myeloid Leukemia  \nAward Number: 1R01CA279378-01A1  \nSponsor: National Cancer Institute (NCI)  \nChen, J. (PD/PI), Lopchuk, J. (PD/PI), Schonbrunn, E. (PD/PI)",
+      "source": "NCI",
+      "period": "9378-01"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChenJiandong_404.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=404"
+  },
+  "content_hash": "463b1caf5ae888c255e584837d8936a07f9b02b2d057b7cccf85adb73bc32e55"
+}

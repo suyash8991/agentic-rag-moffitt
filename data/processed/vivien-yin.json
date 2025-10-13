@@ -1,0 +1,123 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/vivien-yin",
+  "last_updated": "2025-10-13T21:44:41.604483",
+  "researcher_id": "35662",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Dr. Yin is an Associate Member in the Department of Biostatistics and Bioinformatics; before that, she was an Associate Professor in Biostatistics at the Mayo Clinic. Dr. Yin has provided statistical and scientific leadership for several nationally funded cancer research programs: she was the Co-Director of the Biostatistics and Bioinformatics Core for the Mayo Clinic Hepatobiliary Cancer Specialized Program of Research Excellence (SPORE) and the Consortium Statistician for the NCI Experimental Therapeutic Clinical Trial Network (ETCTN) Mayo Clinic Consortium. Currently, she serves as a Lead Faculty Statistician for the Alliance for Clinical Trials in Oncology (an NCI-funded National Clinical Trial Network) and the National Pediatric Cancer Foundation Sunshine Project. Dr Yin works to develop innovative statistical study design to run more efficient clinical trials that deliver effective, novel treatments to cancer patients, including study designs for dose-finding trials, basket and umbrella trials (i.e., master protocols), pragmatic trials with real-world evidence (RWE), and causal artificial intelligence (AI) for enrichment trials. She is nationally recognized as a clinical trial implementation scientist and novel methods developer, and her research contributes to a better understanding of factors directly related to prognosis and treatment of cancer.",
+  "research_interests": [
+    "I am fortunate to have collaborated with many outstanding collaborators who are experts in oncology. I have provided statistical and scientific collaboration for several nationally funded cancer clinical trial networks: I am the designated Lead Faculty Statistician for the Leukemia committee of the NCI\u2019s NCTN group Alliance for Clinical Trials in Oncology (2016-present) and I was the Mayo Clinic Consortium Statistician for the NCI\u2019s Experimental Therapeutics Clinical Trial Network (2015-2022). Additionally, I serve as the faculty statistician for the NCI Precision Medicine Initiative MyeloMATCH and for the NCI Head and Neck Rare Tumor Task Force. Currently at the Moffitt Cancer Center, I have the opportunity to collaborate with the department of Radiation Oncology and Health Outcomes and Behavior. Previously at the Mayo Clinic Cancer Center, I was the Co-Director for the Biostatistics and Bioinformatics Core of the Hepatobiliary SPORE (2018-2023), for which I successfully led the biostatistical component of the grant application and the competitive renewal. In my capacity as the primary statistician, I have designed and conducted > 20 cancer clinical trials, many of which utilized innovative designs. I had the opportunity to lead prognostic and predictive modeling using large, completed, international randomized clinical trials and evaluation of clinical and molecular biomarkers in colon cancer, as a co-investigator on two international research groups: the Adjuvant Colon Cancer End Points (ACCENT) Group and the ARCAD (Aide et Recherche en Canc\u00e9rologie Digestive) Clinical Trials Program. My independent research program is motivated directly by my collaborations in clinical trial research. Recent areas of focus include: 1) adaptive dose-finding designs, 2) basket and umbrella trial (master protocol) designs, 4) evaluation of surrogate endpoints in clinical trials, and 5) causal machine learning for trial enrichment. I have made significant contributions to clinical trials as an implementation scientist and novel methods developer. I have national and international recognition for my work, including professional and institutional awards, research funding from FDA and the Alliance Foundation as PI, editorial board member for Contemporary Clinical Trial and Chinese Clinical Oncology, and national scientific review committees such as NCI Task Force and Clinical Trial Oversight Committee for the National Pediatric Cancer Foundation.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Gastrointestinal Oncology",
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST. Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study. Contemp Clin Trials",
+      "pubmed_id": "40992541",
+      "year": "2025",
+      "journal": "158:108096",
+      "authors": ""
+    },
+    {
+      "title": "Selukar S, Yin V, Othus M. Synthetic control arms and other uses of external data in clinical trials for hematological malignancies. Blood Rev",
+      "pubmed_id": "40753019",
+      "year": "2025",
+      "journal": "101324",
+      "authors": ""
+    },
+    {
+      "title": "Zhao Y, Amorrortu RP, Hicks JK, Garcia MA, Haura EB, Yin J, Vadaparampil ST, Rollison DE. An examination of factors associated with disparities in clinical trial eligibility guided by the Socioecological Model. Cancer",
+      "pubmed_id": "40530674",
+      "pmc_id": "PMC12263167",
+      "year": "2025",
+      "journal": "131(13):e35944",
+      "authors": ""
+    },
+    {
+      "title": "Shen S, Yin J. Bayesian mediation analysis using patient-reported outcomes from AI chatbots to infer causal pathways in clinical trials. PLoS One",
+      "pubmed_id": "40705787",
+      "pmc_id": "PMC12289003",
+      "year": "2025",
+      "journal": "20(7):e0326517",
+      "authors": ""
+    },
+    {
+      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "pubmed_id": "40799741",
+      "pmc_id": "PMC12340904",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Yin J. Narrative Review of the Use of Genomic-Adjusted Radiation Dose (GARD) in Radiotherapy. Cancers (Basel)",
+      "pubmed_id": "40867280",
+      "pmc_id": "PMC12384496",
+      "year": "2025",
+      "journal": "17(16)",
+      "authors": ""
+    },
+    {
+      "title": "Rishi A, Albuquerque KV, Jhingran A, Donovan EK, Horne ZD, Ludwig MS, Pathak P, Goldsberry R, Glaser SM, Garg A, Yin V, Fernandez DC, Beriwal S, Ahmed KA, Montejo ME. Definitive intensity-modulated radiotherapy for organ preservation in vulvar cancer: A multicenter study. Gynecol Oncol",
+      "pubmed_id": "40513383",
+      "year": "2025",
+      "journal": "199:1-9",
+      "authors": ""
+    },
+    {
+      "title": "Mansfield AS, Vivien Yin J, Bradbury P, Kwiatkowski DJ, Patel S, Bazhenova LA, Forde P, Lou Y, Dizona P, Villaruz LC, Arnold SM, Khalil M, Kindler HL, Koczywas M, Pacheco J, Rolfo C, Xia B, Mikula E, Chen L, Patel K, Smith KER, Cao L, Shapiro G, Costello BA, Adjei A, Sharon E, Moscow JA, Zamboni W, Hassan R. Randomized trial of anetumab ravtansine and pembrolizumab compared to pembrolizumab for mesothelioma. Lung Cancer",
+      "pubmed_id": "39197359",
+      "pmc_id": "PMC11416719",
+      "year": "2024",
+      "journal": "195:107928",
+      "authors": ""
+    },
+    {
+      "title": "Dhir A, Hayashi M, Bodlak A, Oesterheld J, Loeb DM, Mascarenhas L, Isakoff MS, Sandler ES, Borinstein SC, Trucco M, Lagmay JP, Setty BA, Pratilas CA, Caywood E, Metts J, Yin H, Fridley B, Yin J, Laborde J, Reed DR, Adams DL, Wagner LM. Phase II Trial of Gemcitabine and Nab-Paclitaxel for Recurrent Osteosarcoma with Serial Monitoring Using Liquid Biopsy: A Report from the National Pediatric Cancer Foundation. Clin Cancer Res",
+      "pubmed_id": "39360936",
+      "year": "2024",
+      "journal": "30(23):5314-5322",
+      "authors": ""
+    },
+    {
+      "title": "Rutherford SC, Yin J, Pederson L, Perez Burbano G, LaPlant B, Shadman M, Li H, LeBlanc ML, Kenkre VP, Hong F, Blum KA, Dockter T, Martin P, Jung SH, Grant B, Rosenbaum C, Ujjani C, Barr PM, Unger JM, Cheson BD, Bartlett NL, Kahl B, Friedberg JW, Mandrekar SJ, Leonard JP. Relevance of Bone Marrow Biopsies for Response Assessment in US National Cancer Institute National Clinical Trials Network Follicular Lymphoma Clinical Trials. J Clin Oncol",
+      "pubmed_id": "35787017",
+      "pmc_id": "PMC9839232",
+      "year": "2023",
+      "journal": "41(2):336-342",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Novel master protocol designs for precision oncology trials in pediatric and rare cancers   \nAward Number: 25C39  \nSponsor: Florida Department of Health  \nYin, J. (PD/PI)"
+    },
+    {
+      "description": "Title: Alliance Statistics and Data Management Center  \nAward Number: 3U10CA180882-11S1  \nSponsor: National Cancer Institute (NCI)  \nYin, J. (PD/PI)",
+      "source": "NCI",
+      "period": "0882-11"
+    },
+    {
+      "description": "Title: Overcoming Metastatic Spread of Osteosarcoma with RNA Loaded Nanoparticles  \nAward Number: 5R01CA266857-02  \nSponsor: National Cancer Institute (NCI)  \nYin, J. (PD/PI)",
+      "source": "NCI",
+      "period": "6857-02"
+    },
+    {
+      "description": "Title: Bayesian Adaptive Basket Trial Designs for Neoantigen Based Immunotherapy with Borrowing Strength Across Subpopulations Within the Trial and From External Controls  \nAward Number: 5U01FD005938-07  \nSponsor: US Food & Drug Administration (FDA)  \nYin, J. (PD/PI)",
+      "period": "5938-07"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/YinVivien_35662.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35662"
+  },
+  "content_hash": "09588b169224695cdc521584c534126216537ca8f6d71a4fdb126cea78fed503"
+}

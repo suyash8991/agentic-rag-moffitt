@@ -1,0 +1,123 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/xiaoqing-yu",
+  "last_updated": "2025-10-13T21:47:20.373676",
+  "researcher_id": "18896",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "Studying the immune-tumor interaction across cancer types and building predictive models for patients\u2019 response to immunotherapy; and 2) Statistical and bioinformatics methods development to identify aberrant methylation patterns in tumors using bisulfite sequencing data.",
+  "research_interests": [
+    "Dr. Yu brings both experience in methodology development and collaborative research in bioinformatics, biostatistics and genomics. Her particular areas of research focus and interest include: 1) Studying the immune-tumor interaction across cancer types and building predictive models for patients\u2019 response to immunotherapy; and 2) Statistical and bioinformatics methods development to identify aberrant methylation patterns in tumors using bisulfite sequencing data. Through her research experience she is poised to make significant contributions to addressing complex questions in cancer research by applying and developing modern statistical, bioinformatics and computational methods.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Genitourinary Oncology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Case Western University, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
+      "pubmed_id": "40341231",
+      "year": "2025",
+      "journal": "6(5):801-819",
+      "authors": ""
+    },
+    {
+      "title": "Song X, Yu X, Moran-Segura CM, Xu H, Li T, Davis JT, Vosoughi A, Grass GD, Li R, Wang X. ROICellTrack: a deep learning framework for integrating cellular imaging modalities in subcellular spatial transcriptomic profiling of tumor tissues. Bioinformatics",
+      "pubmed_id": "40199763",
+      "pmc_id": "PMC12085996",
+      "year": "2025",
+      "journal": "41(5)",
+      "authors": ""
+    },
+    {
+      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL. spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis. Cancer Res",
+      "pubmed_id": "39636739",
+      "pmc_id": "PMC11873723",
+      "year": "2025",
+      "journal": "85(5):848-858",
+      "authors": ""
+    },
+    {
+      "title": "Miyagi H, Yu X, Peak T, Dhillon J, Le C, Wang X, Yoder S, Marchion D, Lu X, Pettaway C, Moran Segura C, Zhang C, Roman Souza G, Yu A, Zemp L, Spiess P, Chahoud J. Progressive T cell exhaustion and predominance of aging tissue associated macrophages with advancing disease stage in penile squamous cell carcinoma. Sci Rep",
+      "pubmed_id": "40044748",
+      "pmc_id": "PMC11882776",
+      "year": "2025",
+      "journal": "15(1):7703",
+      "authors": ""
+    },
+    {
+      "title": "Ugolini A, De Leo A, Yu X, Scirocchi F, Liu X, Peixoto B, Scocozza D, Pace A, Perego M, Gardini A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F. Functional Reprogramming of Neutrophils within the Brain Tumor Microenvironment by Hypoxia-Driven Histone Lactylation. Cancer Discov",
+      "pubmed_id": "40014923",
+      "pmc_id": "PMC12133432",
+      "year": "2025",
+      "journal": "15(6):1270-1296",
+      "authors": ""
+    },
+    {
+      "title": "Xu X, Liu X, Dollar JJ, Liu X, Jasani N, Posorske B, Sriramareddy SN, Jarajapu V, Kuznetsoff JN, Sinard J, Bennett RL, Licht JD, Smalley KSM, Harbour JW, Yu X, Karreth FA. A multi-step immune-competent genetic mouse model reveals phenotypic plasticity in uveal melanoma. bioRxiv",
+      "pubmed_id": "40502063",
+      "pmc_id": "PMC12157397",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Xu X, Chadourne M, Soto-Vargas Z, Jarajapu V, Yao J, Yu X, Karreth FA. FRA1 drives melanoma metastasis through an actionable transcriptional network. bioRxiv",
+      "pubmed_id": "40661443",
+      "pmc_id": "PMC12258986",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Veith T, Beck R, Tagal V, Li T, Alahmari S, Cole J, Hannaby D, Kyei J, Yu X, Maksin K, Schultz A, Lee H, El Naqa I, Eschrich S, Ji HP, Diaz A, Andor N. CLONEID: A Framework for Longitudinal Integration of Phenotypic and Genotypic Data to Monitor and Steer Subclonal Dynamics. bioRxiv",
+      "pubmed_id": "40631300",
+      "pmc_id": "PMC12236826",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Yu X, Jain MD, Menges MA, Cen L, Noble JD, Atkins R, Mohammad TJ, Bachmeier CA, Naderinezhad S, Reid K, Corallo S, Yoder SJ, Zhang C, Zhang L, Miranda JA, Shah B, Chavez JC, Hesterberg RS, Delgado LC, Savid-Frontera C, Rodriguez PC, Cleveland JL, Wang X, Davila ML, Locke FL. Comparison of axicabtagene ciloleucel and tisagenlecleucel patient CAR-T cell products by single-cell RNA sequencing. J Immunother Cancer",
+      "pubmed_id": "40730421",
+      "pmc_id": "PMC12306477",
+      "year": "2025",
+      "journal": "13(7)",
+      "authors": ""
+    },
+    {
+      "title": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR. Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial. Nat Med",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "journal": "31(1):176-188",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Optimizing single cell sequencing to elucidate the relationship between response to brexucabtagene autoleucel (brexu-cel)and cellular determinants of exhaustion  \nAward Number: 18VA031 SOW#2  \nSponsor: Kite Pharma  \nShah, B. (PD/PI), Locke, F. (Co-PD/PI), Yu, X. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Analytical Tools for Studying the Tumor Microenvironment Leveraging Spatial Transcriptomics  \nAward Number: 5U01CA274489-02  \nSponsor: National Cancer Institute (NCI)  \nYu, X. (PD/PI)",
+      "source": "NCI",
+      "period": "4489-02"
+    },
+    {
+      "description": "Title: Metabolic and Molecular Regulation of Myeloid Cell Functions in Brain Cancer  \nAward Number: R01NS131912-03  \nSponsor: National Institute of Neurological Disorders and Stroke (NINDS)  \nYu, X. (PD/PI)",
+      "period": "1912-03"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/YuXiaoqing_18896.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=18896"
+  },
+  "content_hash": "5906e007abd931cc8bda89e2c29ba2f4bc24244a2e6c57a667701c5d2b7558df"
+}

@@ -1,0 +1,143 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/theresa-boyle",
+  "last_updated": "2025-10-13T21:46:18.268129",
+  "researcher_id": "16846",
+  "name": "",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Pathology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Dr. Boyle's clinical work focuses on interpretation of molecular results to guide patient therapy. She also acts as a consult for both physicians and patients to improve their understanding of molecular results.",
+  "research_interests": [
+    "Research Interests: To develop assays, such as the proximity ligation assay (PLA) to visualize cancer signaling pathway response to drug therapy. To investigate tumor biomarkers that predicts response to therapy, such as those that identify patients with tumors that will most likely to respond to immunotherapy. To develop resources, such as tumor microarrays (TMAs), to facilitate research and clinical assay development. \n  *"
+  ],
+  "associations": [
+    "Pathology",
+    "Tumor Microenvironment and Metastasis",
+    "Molecular Medicine Program",
+    "Lung Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Colorado Health Sciences Center, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Howard University College of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Georgetown University Hospital",
+      "position": "Intern",
+      "specialty": "ship - Pediatrics"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Colorado at Denver",
+      "specialty": "Clinical and Anatomic Pathology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Stanford University, Palo Alto",
+      "specialty": "Molecular Genetic Patholoy"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
+      "pubmed_id": "40341231",
+      "year": "2025",
+      "journal": "6(5):801-819",
+      "authors": ""
+    },
+    {
+      "title": "Kato R, Solanki HS, Ozakinci H, Desai B, Gundlapalli H, Yang YC, Aronchik I, Singh M, Johnson J, Marusyk A, Boyle TA, Haura EB. In Situ RAS:RAF Binding Correlates with Response to KRASG12C Inhibitors in KRASG12C-Mutant Non-Small Cell Lung Cancer. Clin Cancer Res",
+      "pubmed_id": "39836411",
+      "pmc_id": "PMC11924342",
+      "year": "2025",
+      "journal": "31(6):1150-1162",
+      "authors": ""
+    },
+    {
+      "title": "Sen T, Dotsu Y, Corbett V, Puri S, Sen U, Boyle TA, Mack P, Hirsch F, Aljumaily R, Naqash AR, Sukrithan V, Karim NA. Pulmonary neuroendocrine neoplasms: the molecular landscape, therapeutic challenges, and diagnosis and management strategies. Lancet Oncol",
+      "pubmed_id": "39756451",
+      "year": "2025",
+      "journal": "26(1):e13-e33",
+      "authors": ""
+    },
+    {
+      "title": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A. Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers. Res Sq",
+      "pubmed_id": "40313737",
+      "pmc_id": "PMC12045365",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA. Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma. J Immunol",
+      "pubmed_id": "39120462",
+      "pmc_id": "PMC11404669",
+      "year": "2024",
+      "journal": "213(7):1033-1041",
+      "authors": ""
+    },
+    {
+      "title": "Ozakinci H, Alontaga AY, Cano P, Koomen JM, Perez BA, Beg AA, Chiappori AA, Haura EB, Boyle TA. Unveiling the Molecular Features of SCLC With a Clinical RNA Expression Panel. JTO Clin Res Rep",
+      "pubmed_id": "39386315",
+      "pmc_id": "PMC11459576",
+      "year": "2024",
+      "journal": "5(11):100723",
+      "authors": ""
+    },
+    {
+      "title": "Saeed-Vafa D, Chatzopoulos K, Hernandez-Prera J, Cano P, Saller JJ, Hallanger Johnson JE, McIver B, Boyle TA. RET splice site variants in medullary thyroid carcinoma. Front Genet",
+      "pubmed_id": "38566816",
+      "pmc_id": "PMC10985236",
+      "year": "2024",
+      "journal": "15:1377158",
+      "authors": ""
+    },
+    {
+      "title": "Furlan KC, Saeed-Vafa D, Mathew TM, Saller JJ, Tabbara SO, Boyle TA, Wenig BM, Hernandez-Prera JC. Utility of UV Signature Mutations in the Diagnostic Assessment of Metastatic Head and Neck Carcinomas of Unknown Primary. Head Neck Pathol",
+      "pubmed_id": "38393464",
+      "pmc_id": "PMC10891032",
+      "year": "2024",
+      "journal": "18(1):11",
+      "authors": ""
+    },
+    {
+      "title": "Chakraborty S, Sen U, Ventura K, Jethalia V, Coleman C, Sridhar S, Banerjee A, Ozakinci H, Mahendravarman Y, Snioch K, de Stanchina E, Shields MD, Tomalin LE, Demircioglu D, Boyle TA, Tocheva A, Hasson D, Sen T. Lurbinectedin sensitizes PD-L1 blockade therapy by activating STING-IFN signaling in small-cell lung cancer. Cell Rep Med",
+      "pubmed_id": "39657664",
+      "pmc_id": "PMC11722101",
+      "year": "2024",
+      "journal": "5(12):101852",
+      "authors": ""
+    },
+    {
+      "title": "Alontaga AY, Cano P, Ozakinci H, Puskas JA, Stewart PA, Welsh EA, Yoder SJ, Hicks JK, Saltos AN, Bossler AD, Haura EB, Koomen JM, Boyle TA. Implementation of a High-Accuracy Targeted Gene Expression Panel for Clinical Care. J Mol Diagn",
+      "pubmed_id": "38777037",
+      "pmc_id": "PMC11299514",
+      "year": "2024",
+      "journal": "26(8):685-699",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Salah RNA Panel Research  \nAward Number: Haura_Salah Foundation  \nSponsor: THE SALAH FOUNDATION  \nHaura, E. (PD/PI), Boyle, T. (Co-PD/PI), Pellini F. (Co-PD/PI)",
+      "source": "Foundation"
+    },
+    {
+      "description": "Title: Infrastructure Expansion for an Enduring Rapid Tissue Donation Program  \nAward Number: 24K02  \nSponsor: Florida Department of Health  \nSchabath, M. (PD/PI), Boyle, T. (Co-PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BoyleTheresa_16846.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16846"
+  },
+  "content_hash": "fbfc2510dd1b1955821c8f3305b2af57197d0932404521c29f47dd03b0392feb"
+}

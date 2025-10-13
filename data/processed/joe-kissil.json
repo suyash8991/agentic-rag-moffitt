@@ -1,0 +1,129 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/joe-kissil",
+  "last_updated": "2025-10-13T21:42:06.285093",
+  "researcher_id": "28058",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Molecular Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Research in the Kissil lab focuses on mechanistic understanding of mitogenic and developmental signaling pathways crosstalk in cancer and on identification of therapeutic targets. In particular, we focus on understanding the molecular basis for lung cancer and neurofibromatosis type 2 (NF2) by employing molecular and chemical tools to identify and elucidate the function of different effectors and combine this with in vivo models to assess the therapeutic value of targeting these pathways.",
+  "research_interests": [
+    "Research in the Kissil lab focuses on mechanistic understanding of mitogenic and developmental signaling pathways crosstalk in cancer and on identification of therapeutic targets. We employ a diverse toolkit which includes molecular and biochemical techniques, cellular biology and cutting-edge animal models of human cancer. In particular, we focus on understanding the molecular basis for lung cancer and neurofibromatosis type 2 (NF2). We employ in vivo models to dissect the function of different effectors in KRAS driven tumors in vivo. Examples include identifying the function of the small G-protein from the Rac/cdc42 family and Notch family receptors in KRAS-driven tumorigenesis. More recently, we have been developing and deploying advanced cell-based models to identify small molecules that are synthetic-lethal to oncogenic KRAS. These models involve the use of isogenic cell pairs and 3D culturing platforms, exploring novel chemical space utilizing functionalized fragment probes. Our work on NF2 aims to understand the consequences of loss of the NF2 tumor suppressor gene. We identified and validated several therapeutic targets including the p21-activated kinases (PAKs) and the focal adhesion kinase (FAK). The latter identification stemmed from our work with the FDA approved drug Crizotinib, as a potential treatment for NF2 associated schwannoma. This work led to the initiation of a phase II clinical trial for NF2. More recently, we characterized the role and function of Hippo/Yap signaling in NF2, resulting in identification of previously unknown effectors in this pathway, the Angiomotins, and elucidated a mechanism through which Merlin, the product of the NF2 tumor suppressor gene, regulates multiple signaling pathways from cell junctions. This work also resulted in identification of novel functions for YAP, as a transcriptional repressor. We are interested in expanding the understanding of YAP function and are engaged in efforts to identify small-molecule inhibitors of YAP. These studies are conducted in collaboration with multidisciplinary teams with expertise in chemistry, proteomics and small-molecule screening.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "Neuro-Oncology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Fellowship",
+      "institution": "Massachusetts Institute of Technology",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Shepard A, Lester DK, Troutman S, Hoxha S, Khaled WT, Smith ESJ, Park TJ, Buffenstein R, Du D, Teng M, Dengler-Crish CM, Tsai KY, Flores ER, Ventura A, Kissil JL. An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat. Cancer Discov",
+      "pubmed_id": "40920097",
+      "pmc_id": "PMC12486303",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Elzaafarany O, Lester D, Mokhtari S, Kissil JL. NF2-associated schwannomatosis (NF2): genetics, manifestations, and emerging therapeutic approaches. Trends Mol Med",
+      "pubmed_id": "40885618",
+      "pmc_id": "PMC12404673",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Gonz\u00e1lez-Rodriguez MA, Troutman S, Bayle S, Lester DK, Grove M, Duckett D, Kareta MS, Kissil JL. Synergistic effects of combined BET and FAK inhibition against Vestibular Schwannomas in NF2-related Schwannomatosis. Oncogene",
+      "pubmed_id": "39209965",
+      "year": "2024",
+      "journal": "43(40):2995-3002",
+      "authors": ""
+    },
+    {
+      "title": "Shao A, Kissil JL, Fan CM. The L27 domain of MPP7 enhances TAZ-YY1 cooperation to renew muscle stem cells. EMBO Rep",
+      "pubmed_id": "39496834",
+      "pmc_id": "PMC11624273",
+      "year": "2024",
+      "journal": "25(12):5667-5686",
+      "authors": ""
+    },
+    {
+      "title": "Shao A, Kissil JL, Fan CM. The L27 Domain of MPP7 enhances TAZ-YY1 Cooperation to Renew Muscle Stem Cells. Res Sq",
+      "pubmed_id": "38077061",
+      "pmc_id": "PMC10705706",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "Shao A, Kissil JL, Fan CM. The L27 Domain of MPP7 enhances TAZ-YY1 Cooperation to Renew Muscle Stem Cells. bioRxiv",
+      "pubmed_id": "37961392",
+      "pmc_id": "PMC10635061",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "Yousefi H, Khosla M, Lauterboeck L, Okpechi SC, Worthylake D, Garai J, Zabaleta J, Guidry J, Zarandi MA, Wyczechowska D, Jayawickramarajah J, Yang Q, Kissil J, Alahari SK. Correction to: A combination of novel NSC small molecule inhibitor along with doxorubicin inhibits proliferation of triple-negative breast cancer through metabolic reprogramming. Oncogene",
+      "pubmed_id": "36759576",
+      "year": "2023",
+      "journal": "42(11):859",
+      "authors": ""
+    },
+    {
+      "title": "Amirifar P, Kissil J. The role of Motin family proteins in tumorigenesis-an update. Oncogene",
+      "pubmed_id": "36973516",
+      "year": "2023",
+      "journal": "42(16):1265-1271",
+      "authors": ""
+    },
+    {
+      "title": "Ragland NH, Compo NR, Wiltshire N, Shepard A, Troutman S, Kissil JL, Engelman RW. Housing and Husbandry Alternatives for Naked Mole Rat Colonies Used in Research Settings. J Am Assoc Lab Anim Sci",
+      "pubmed_id": "35944976",
+      "pmc_id": "PMC9536831",
+      "year": "2022",
+      "journal": "61(5):412-418",
+      "authors": ""
+    },
+    {
+      "title": "Yousefi H, Khosla M, Lauterboeck L, Okpechi SC, Worthylake D, Garai J, Zabaleta J, Guidry J, Zarandi MA, Wyczechowska D, Jayawickramarajah J, Yang Q, Kissil J, Alahari SK. A combination of novel NSC small molecule inhibitor along with doxorubicin inhibits proliferation of triple-negative breast cancer through metabolic reprogramming. Oncogene",
+      "pubmed_id": "36243802",
+      "year": "2022",
+      "journal": "41(47):5076-5091",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Identification and Assessment of Targets for Immunotherapy in NF2-Associated Schwannomatosis  \nAward Number: HT94252510537   \nSponsor: Department of Defense (DOD)  \nKissil, J. (PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": "Title: CARM1-mediated regulation of YAP1 as a therapeutic target in lung cancer  \nAward Number: 5R01CA250276-04  \nSponsor: National Cancer Institute (NCI)  \nKissil, J. (PD/PI)",
+      "source": "NCI",
+      "period": "0276-04"
+    },
+    {
+      "description": "Title: Elucidating the epigenetic landscape of neurofibromatosis and development of therapeutic targets  \nAward Number: 5R01NS117926-02  \nSponsor: National Institute of Neurological Disorders and Stroke (NINDS)  \nKissil, J. (PD/PI)",
+      "period": "7926-02"
+    },
+    {
+      "description": "Title: Employing functionalized fragment libraries to identify therapeutic agents for neurofibromatosis type 2  \nAward Number: 2R33NS119658-03  \nSponsor: National Institute of Neurological Disorders and Stroke (NINDS)  \nKissil, J. (PD/PI)",
+      "period": "9658-03"
+    },
+    {
+      "description": "Title: Establishing the functional differences between variant oncogenic KRAS alleles and identification of allele-selective inhibitors  \nAward Number: 22B05  \nSponsor: Florida Department of Health  \nKissil, J. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KissilJoe_28058.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28058"
+  },
+  "content_hash": "59c9fd3ec2552b829b31459959ee812fed9cbf7594640b757ddcc121d2e298f7"
+}

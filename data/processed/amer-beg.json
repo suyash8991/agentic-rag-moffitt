@@ -1,0 +1,143 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/amer-beg",
+  "last_updated": "2025-10-13T21:47:35.590844",
+  "researcher_id": "3497",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Immunology",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "Developing new strategies to increase tumor immunogenicity and response to therapeutics.",
+  "research_interests": [
+    "The Beg laboratory is interested in developing new strategies aimed at modulating the tumor microenvironment to increase tumor immunogenicity and response to therapeutics. Through both laboratory and clinical trial studies, ongoing projects aim to modulate activity of epigenetic and cytokine pathways to enhance immunological control of lung cancer. The Beg laboratory is also developing novel oncolytic virus strategies to generate potent anti-tumor T cell responses that can turn immune \u201ccold\u201d to \u201chot\u201d tumors capable of responding to checkpoint inhibitors and other immunotherapeutics.\n  *"
+  ],
+  "associations": [
+    "Immunology",
+    "Thoracic Oncology",
+    "Immuno-Oncology Program",
+    "Lung Cancer Center of Excellence",
+    "Cancer Chemoprevention Research Interest Group"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of North Carolina- Chapel Hill, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Quaid-e-Azam University (Islamabad, Pakistan), MS"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Rockefeller University",
+      "specialty": ""
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Massachusetts Institute of Technology",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA. Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma. J Immunol",
+      "pubmed_id": "39120462",
+      "pmc_id": "PMC11404669",
+      "year": "2024",
+      "journal": "213(7):1033-1041",
+      "authors": ""
+    },
+    {
+      "title": "Peters PN, Whitaker RS, Lim F, Russell S, Bloom EA, Pollara J, Strickland KC, Cantwell MJ, Beg A, Berchuck A, Antonia S, Previs RA. Oncolytic adenovirus MEM-288 encoding membrane-stable CD40L and IFN\u03b2 induces an anti-tumor immune response in high grade serous ovarian cancer. Neoplasia",
+      "pubmed_id": "39276533",
+      "pmc_id": "PMC11417341",
+      "year": "2024",
+      "journal": "57:101056",
+      "authors": ""
+    },
+    {
+      "title": "Ozakinci H, Alontaga AY, Cano P, Koomen JM, Perez BA, Beg AA, Chiappori AA, Haura EB, Boyle TA. Unveiling the Molecular Features of SCLC With a Clinical RNA Expression Panel. JTO Clin Res Rep",
+      "pubmed_id": "39386315",
+      "pmc_id": "PMC11459576",
+      "year": "2024",
+      "journal": "5(11):100723",
+      "authors": ""
+    },
+    {
+      "title": "Ibrahim ML, Zheng H, Barlow ML, Latif Y, Chen Z, Yu X, Beg AA. Histone Deacetylase Inhibitors Directly Modulate T Cell Gene Expression and Signaling and Promote Development of Effector-Exhausted T Cells in Murine Tumors. J Immunol",
+      "pubmed_id": "38169329",
+      "pmc_id": "PMC10872871",
+      "year": "2024",
+      "journal": "212(4):737-747",
+      "authors": ""
+    },
+    {
+      "title": "H\u00e4nggi K, Li J, Gangadharan A, Liu X, Celias DP, Osunmakinde O, Keske A, Davis J, Ahmad F, Giron A, Anadon CM, Gardner A, DeNardo DG, Shaw TI, Beg AA, Yu X, Ruffell B. Interleukin-1\u03b1 release during necrotic-like cell death generates myeloid-driven immunosuppression that restricts anti-tumor immunity. Cancer Cell",
+      "pubmed_id": "39577420",
+      "pmc_id": "PMC11631672",
+      "year": "2024",
+      "journal": "42(12):2015-2031",
+      "authors": ""
+    },
+    {
+      "title": "Ben-Crentsil NA, Mohammed Ismail W, Balasis ME, Newman H, Quintana A, Binder M, Kruer T, Neupane S, Ferrall-Fairbanks MC, Fernandez J, Lasho TL, Finke CM, Ibrahim ML, McGraw KL, Wysota M, Aldrich AL, Ryder CB, Letson CT, Traina J, McLemore AF, Droin N, Shastri A, Yun S, Solary E, Sallman DA, Beg AA, Ma L, Gaspar-Maia A, Patnaik MM, Padron E. RNA Shielding of p65 Is Required to Potentiate Oncogenic Inflammation in TET2-Mutated Clonal Hematopoiesis. Cancer Discov",
+      "pubmed_id": "39189614",
+      "pmc_id": "PMC11611684",
+      "year": "2024",
+      "journal": "14(12):2509-2531",
+      "authors": ""
+    },
+    {
+      "title": "Guo J, Kim D, Gao J, Kurtyka C, Chen H, Yu C, Wu D, Mittal A, Beg AA, Chellappan SP, Haura EB, Cheng JQ. Retraction Note: IKBKE is induced by STAT3 and tobacco carcinogen and determines chemosensitivity in non-small cell lung cancer. Oncogene",
+      "pubmed_id": "38443683",
+      "pmc_id": "PMC11036537",
+      "year": "2024",
+      "journal": "43(16):1231",
+      "authors": ""
+    },
+    {
+      "title": "Zheng H, Yu X, Ibrahim ML, Foresman D, Xie M, Johnson JO, Boyle TA, Ruffell B, Perez BA, Antonia SJ, Ready N, Saltos AN, Cantwell MJ, Beg AA. Combination IFN\u03b2 and Membrane-Stable CD40L Maximize Tumor Dendritic Cell Activation and Lymph Node Trafficking to Elicit Systemic T-cell Immunity. Cancer Immunol Res",
+      "pubmed_id": "36757308",
+      "pmc_id": "PMC10165690",
+      "year": "2023",
+      "journal": "11(4):466-485",
+      "authors": ""
+    },
+    {
+      "title": "Chiappori AA, Creelan B, Tanvetyanon T, Gray JE, Haura EB, Thapa R, Barlow ML, Chen Z, Chen DT, Beg AA, Boyle TA, Castro J, Morgan L, Morris E, Aregay M, Hurtado FK, Manenti L, Antonia S. Phase I Study of Taminadenant (PBF509/NIR178), an Adenosine 2A Receptor Antagonist, with or without Spartalizumab (PDR001), in Patients with Advanced Non-Small Cell Lung Cancer. Clin Cancer Res",
+      "pubmed_id": "35254415",
+      "pmc_id": "PMC9167697",
+      "year": "2022",
+      "journal": "28(11):2313-2320",
+      "authors": ""
+    },
+    {
+      "title": "Zhang T, Yin C, Fedorov A, Qiao L, Bao H, Beknazarov N, Wang S, Gautam A, Williams RM, Crawford JC, Peri S, Studitsky V, Beg AA, Thomas PG, Walkley C, Xu Y, Poptsova M, Herbert A, Balachandran S. ADAR1 masks the cancer immunotherapeutic promise of ZBP1-driven necroptosis. Nature",
+      "pubmed_id": "35614224",
+      "pmc_id": "PMC9373927",
+      "year": "2022",
+      "journal": "606(7914):594-602",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Preclinical Studies to Guide Development of Clinical Trials of MEM-288 Oncolytic Virus to Target Localized Bladder Cancer and TNBC  \nAward Number: 19VA063-S3  \nSponsor: MEMGEN, INC.  \nBeg, A. (PD/PI), Pilon-Thomas, S. (Co-PD/PI), Ruffell, B. (Co-PD/PI), Soliman, H. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Defining Impact of in SITU Activation of CD40 and Type 1 Interferon Signaling on theTME and Systemic T Cell Immunity in Murine models and cancer patients  \nAward Number: 5R01CA283730-02  \nSponsor: National Cancer Institute (NCI)  \nBeg, A. (PD/PI)",
+      "source": "NCI",
+      "period": "3730-02"
+    },
+    {
+      "description": "Title: Heterogeneity of metastatic small cell lung cancer; implications for the design of effective immunotherapies  \nAward Number: 22B03  \nSponsor: Florida Department of Health  \nBeg, A. (PD/PI), Haura, E. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BegAmer_3497.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3497"
+  },
+  "content_hash": "ef4b236e5373b5e9ce74d54670b4132edc92b5482088ffef7f15a8b908b43fdd"
+}

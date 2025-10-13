@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/john-koomen",
+  "last_updated": "2025-10-13T21:46:02.723213",
+  "researcher_id": "3419",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Molecular Oncology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Our research projects share the common goal of changing the standard of patient assessment and care using mass spectrometry.",
+  "research_interests": [
+    "Research in the Koomen Laboratory focuses on analytical chemistry development, elucidation of biological processes, and implementation of clinical assays using proteomics and quantitative mass spectrometry. Much of this work is performed using multiple reaction monitoring (MRM); three examples are detailed below. In colon cancer, broad scale proteomics employing relative quantification techniques and gene expression profiles have determined candidate biomarkers related to the Adenomatous Polyposis Coli protein. Targeted analysis of this panel of proteins coupled with the interrogation of protein expression in relevant signaling pathways, including Wnt, TGF/SMAD, and Notch, in tumors and adjacent normal tissue can be used to select and evaluate candidate biomarkers for predicting patient outcomes. In multiple myeloma, the same techniques and technologies are being applied in cell lines to develop preclinical models that will provide a molecular basis for rational chemotherapy. In these experiments, direct drug targets and apoptosis-related proteins are being monitored in parallel with specific signaling pathways, including NFkB. These data will elucidate mechanisms of drug resistance and provide another method to evaluate combination therapy. Finally, direct patient assessment is being performed in multiple myeloma using MRM. Current clinical assays use gel or capillary electrophoresis to measure the antibody secreted by the myeloma, which is used to stage the patients and estimate tumor burden. Quantitative mass spectrometry should be significantly more sensitive at detecting and quantifying these antibodies. Improvements in the analytical technique would lead to earlier detection of disease relapse, more rapid intervention with second line therapies, and potentially improved patient outcomes. These projects share the common goal of changing the standard of patient assessment and care using mass spectrometry. \n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "Pathology",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Pentecost Family Myeloma Research Center",
+    "Lung Cancer Center of Excellence",
+    "Systems Medicine Working Group",
+    "Molecular Medicine Program",
+    "Molecular Oncology & Drug Discovery Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Texas A&M University, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Texas at Houston Graduate School of Biomedical Science, MS"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "pubmed_id": "40553455",
+      "year": "2025",
+      "journal": "34(9):1609-1617",
+      "authors": ""
+    },
+    {
+      "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
+      "pubmed_id": "40341231",
+      "year": "2025",
+      "journal": "6(5):801-819",
+      "authors": ""
+    },
+    {
+      "title": "Nagai R, Milam OL, Niwa T, Howell WJ, Best JA, Yoshida H, Freeburg CD, Koomen JM, Fujii K. Ribosomal expansion segment contributes to translation fidelity via N-terminal processing of ribosomal proteins. Nucleic Acids Res",
+      "pubmed_id": "40433980",
+      "pmc_id": "PMC12117404",
+      "year": "2025",
+      "journal": "53(10)",
+      "authors": ""
+    },
+    {
+      "title": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J. CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma. Res Sq",
+      "pubmed_id": "40235478",
+      "pmc_id": "PMC11998770",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC. Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma. Haematologica",
+      "pubmed_id": "39633543",
+      "pmc_id": "PMC12130774",
+      "year": "2025",
+      "journal": "110(6):1351-1367",
+      "authors": ""
+    },
+    {
+      "title": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S. Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors. Cancer Res",
+      "pubmed_id": "40287947",
+      "pmc_id": "PMC12167936",
+      "year": "2025",
+      "journal": "85(12):2268-2287",
+      "authors": ""
+    },
+    {
+      "title": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq",
+      "pubmed_id": "39989973",
+      "pmc_id": "PMC11844656",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Guergues J, Wohlfahrt J, Koomen JM, Krieger JR, Varma S, Stevens SM. A semi-automated workflow for DIA-based global discovery to pathway-driven PRM analysis. Proteomics",
+      "pubmed_id": "39235396",
+      "pmc_id": "PMC11798701",
+      "year": "2025",
+      "journal": "25(3):e2400129",
+      "authors": ""
+    },
+    {
+      "title": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL. Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes. Blood",
+      "pubmed_id": "39652773",
+      "year": "2025",
+      "journal": "145(15):1645-1657",
+      "authors": ""
+    },
+    {
+      "title": "Di Meo F, Kale B, Koomen JM, Perna F. Mapping the cancer surface proteome in search of target antigens for immunotherapy. Mol Ther",
+      "pubmed_id": "39068512",
+      "pmc_id": "PMC11403220",
+      "year": "2024",
+      "journal": "32(9):2892-2904",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Innovative Proteogenomics to Investigate Tertiary Lymphoid Structures in Lung Cancer  \nAward Number: CRI4226  \nSponsor: CANCER RESEARCH INSTITUTE  \nKoomen, J. (PD/PI)"
+    },
+    {
+      "description": "Title: CPTAC Phase III  \nAward Number: 75N91020F00030  \nSponsor: National Cancer Institute (NCI)  \nKoomen, J. (PD/PI)",
+      "source": "NCI"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KoomenJohn_3419.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3419"
+  },
+  "content_hash": "9b6033deb398fed9910e20d932c8cae7c3f3f37dcfdb7acef04ee32a77fb9774"
+}

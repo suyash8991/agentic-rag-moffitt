@@ -1,0 +1,152 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/conor-lynch",
+  "last_updated": "2025-10-13T21:42:50.429803",
+  "researcher_id": "8172",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Tumor Microenvironment and Metastasis",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "The Lynch Lab is primarily interested in studying mechanisms of skeletal metastasis and malignancy with a concentration on bone metastatic prostate cancer and multiple myeloma. We use an array of approaches that range from spatial transcriptomic profiling to mathematical models to understand how cancer cells adapt and grow in the bone microenvironment. Ongoing projects include research into cancer cell dormancy in bone, autophagy regulation (ULK3), immune cell infiltration/changes, the impact of the aging bone microenvironment on disease progression, bone MSC and endothelial education of cancer and the application of gamma delta CAR-T for treating skeletal malignancies.",
+  "research_interests": [
+    "The goal of our laboratory is to understand how metastatic prostate cancer cells interact with the bone microenvironment to establish and grow as secondary cancers using in vivo and in vitro techniques. The lab has made major inroads into defining how matrix metalloproteinases (MMPs) contribute the prostate cancer progression in bone.\n  *"
+  ],
+  "associations": [
+    "Tumor Microenvironment and Metastasis",
+    "Genitourinary Oncology",
+    "Pentecost Family Myeloma Research Center",
+    "Cancer Biology & Evolution Program",
+    "Molecular Oncology & Drug Discovery Program",
+    "Center of Excellence for Evolutionary Therapy"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Dublin City University, Ireland, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC. Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma. Haematologica",
+      "pubmed_id": "39633543",
+      "pmc_id": "PMC12130774",
+      "year": "2025",
+      "journal": "110(6):1351-1367",
+      "authors": ""
+    },
+    {
+      "title": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH. The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma. Cancer Res",
+      "pubmed_id": "39476082",
+      "pmc_id": "PMC11733535",
+      "year": "2025",
+      "journal": "85(2):378-398",
+      "authors": ""
+    },
+    {
+      "title": "Tauro M, Li T, Sudalagunta PR, Meads M, Canevarolo RR, Nerlakanti N, Alugubelli RR, Lawrence HR, Gunawan S, Ayaz M, Nareddy P, Yun SY, Shay G, Yang K, Tran TH, Bishop RT, Nasr MM, Lawrence NNJ, Sch\u00f6nbrunn E, Cleveland JL, Silva AS, Shain KH, Lynch CC. Unc-51 Like Kinase 3 (ULK3) is essential for autophagy and cell survival in multiple myeloma. Res Sq",
+      "pubmed_id": "40831505",
+      "pmc_id": "PMC12363935",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Renatino Canevarolo R, Sudalagunta PR, Meads MB, Silva M, Zhao X, Magaletti D, Alugubelli RR, DeAvila G, Persi E, Maura F, Bell ET, Bishop RT, Cubitt CL, Sansil SS, Zhang W, Teer JK, Teng M, Yoder SJ, Siegel EM, Shah BD, Nishihori T, Hazlehurst LA, Lynch CC, Landgren O, Hampton O, Gatenby RA, Sullivan DM, Brayer JB, Dalton WS, Cleveland JL, Alsina M, Baz R, Shain KH, Silva AS. Epigenetic Plasticity Drives Carcinogenesis and Multi-Therapy Resistance in Multiple Myeloma. Res Sq",
+      "pubmed_id": "40321765",
+      "pmc_id": "PMC12048002",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Bishop RT, Miller AK, Froid M, Nerlakanti N, Li T, Frieling JS, Nasr MM, Nyman KJ, Sudalagunta PR, Canevarolo RR, Silva AS, Shain KH, Lynch CC, Basanta D. The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease. Nat Commun",
+      "pubmed_id": "38503736",
+      "pmc_id": "PMC10951361",
+      "year": "2024",
+      "journal": "15(1):2458",
+      "authors": ""
+    },
+    {
+      "title": "Nerlakanti N, McGuire J, Bishop RT, Nasr M, Li T, Reed D, Lynch CC. Histone deacetylase upregulation of neuropilin-1 in osteosarcoma is essential for pulmonary metastasis. Cancer Lett",
+      "pubmed_id": "39427726",
+      "year": "2024",
+      "journal": "606:217302",
+      "authors": ""
+    },
+    {
+      "title": "Frieling JS, Lynch CC. Tales of Cancer-Induced Bone Disease from the Senescent Osteocyte Crypt. Cancer Res",
+      "pubmed_id": "39618247",
+      "year": "2024",
+      "journal": "84(23):3917-3918",
+      "authors": ""
+    },
+    {
+      "title": "Nyman KJ, Frieling JS, Lynch CC. Emerging roles for stromal cells in bone metastasis. J Bone Oncol",
+      "pubmed_id": "38984147",
+      "pmc_id": "PMC11231529",
+      "year": "2024",
+      "journal": "47:100610",
+      "authors": ""
+    },
+    {
+      "title": "Frieling JS, Tordesillas L, Bustos XE, Ramello MC, Bishop RT, Cianne JE, Snedal SA, Li T, Lo CH, de la Iglesia J, Roselli E, Benza\u00efd I, Wang X, Kim Y, Lynch CC, Abate-Daga D. \u03b3\u03b4-Enriched CAR-T cell therapy for bone metastatic castrate-resistant prostate cancer. Sci Adv",
+      "pubmed_id": "37134157",
+      "pmc_id": "PMC10156127",
+      "year": "2023",
+      "journal": "9(18):eadf0108",
+      "authors": ""
+    },
+    {
+      "title": "Nasr MM, Lynch CC. How circulating tumor cluster biology contributes to the metastatic cascade: from invasion to dissemination and dormancy. Cancer Metastasis Rev",
+      "pubmed_id": "37442876",
+      "pmc_id": "PMC10713810",
+      "year": "2023",
+      "journal": "42(4):1133-1146",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Uncovering mechanisms of crosstalk between mesenchymal stem cells and CAR-T cells to enhance immune targeting of bone metastatic prostate cancer  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nFrieling, J. (PD/PI), Lynch, C. (Co-PD/PI)",
+      "source": "Foundation"
+    },
+    {
+      "description": "Title: Developing ULK3 inhibitors for the treatment of Multiple Myeloma  \nAward Number: 24B06  \nSponsor: Florida Department of Health  \nLawrence, N. (PD/PI), Lynch, C. (Co-PD/PI), Shain, K. (Co-PD/PI)"
+    },
+    {
+      "description": "Title: Dissecting bone stromal effects on \u03b3\u03b4 CAR-T mediated killing of metastatic prostate cancer  \nAward Number: 25B11  \nSponsor: Florida Department of Health  \nLynch, C. (PD/PI)"
+    },
+    {
+      "description": "Title: An integrated mathematical modeling approach to define how the aging bone ecosystem drives multiple myeloma evolution and treatment response  \nAward Number: 1R01CA290007-01A1   \nSponsor: National Cancer Institute (NCI)  \nLynch, C. (PD/PI), Basanta G. (Co-PD/PI)",
+      "source": "NCI",
+      "period": "0007-01"
+    },
+    {
+      "description": "Title: Local and Systemic Control of Multiple Myeloma Colonization and Growth by MMP-13  \nAward Number: 5R01CA239214-05  \nSponsor: National Cancer Institute (NCI)  \nLynch, C. (PD/PI)",
+      "source": "NCI",
+      "period": "9214-05"
+    },
+    {
+      "description": "Title: Defining bone ecosystem effects on metastatic prostate cancer evolution and treatment response using an integrated mathematical modeling approach  \nAward Number: 5U01CA244101-04  \nSponsor: National Cancer Institute (NCI)  \nBasanta G. (PD/PI), Lynch, C. (PD/PI)",
+      "source": "NCI",
+      "period": "4101-04"
+    },
+    {
+      "description": "Title: Role of ULK3 in Sensitive and Refractory Multiple Myeloma  \nAward Number: 1R01CA269721-03  \nSponsor: National Cancer Institute (NCI)  \nLynch, C. (PD/PI)",
+      "source": "NCI",
+      "period": "9721-03"
+    },
+    {
+      "description": "Title: Proprietary arginine vasopressin receptor type 1a (AVPR1a) antagonists for treatment of lethal prostate cancer  \nAward Number: HT94252310389 Log# PC220586  \nSponsor: Department of Defense (DOD)  \nLynch, C. (PD/PI)",
+      "source": "DOD"
+    },
+    {
+      "description": "Title: Identifying How HDAC Suppression of SLC17A7 Drives Osteosarcoma Progression and Metastasis  \nAward Number: 23L09  \nSponsor: Florida Department of Health  \nLynch, C. (PD/PI)"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LynchConor_8172.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=8172"
+  },
+  "content_hash": "2ed56cdd08ca5e0e57f297a247721b722d4d282ccc67b4337f041fa635b01063"
+}

@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/julio-pow-sang",
+  "last_updated": "2025-10-13T21:41:54.544386",
+  "researcher_id": "1813",
+  "name": "",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Genitourinary Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Molecular markers in prostate cancer. Artificial intelligence applied to radiomics and genomics in determining aggressive prostate cancer.",
+  "research_interests": [
+    "Focus on molecular markers for prostate cancer behavior.\n  *"
+  ],
+  "associations": [
+    "Genitourinary Oncology",
+    "Drug Discovery",
+    "Integrated Mathematical Oncology",
+    "Center for Immunization & Infection Research in Cancer",
+    "Cancer Chemoprevention Research Interest Group",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, MBA"
+    },
+    {
+      "type": "Medical School",
+      "institution": "University Autonoma De Guadalajara, Mexico",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Miami School of Medicine",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Miami School of Medicine",
+      "specialty": "Urology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Florida College of Medicine",
+      "specialty": "Urologic Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Moreira SG J, Pow-Sang J. Evaluation and management of adrenal masses. Cancer Control. Jul 2002.9(4):326-334. Pubmedid: [12228758](https://www.ncbi.nlm.nih.gov/pubmed/12228758).",
+      "pubmed_id": "12228758"
+    },
+    {
+      "title": "Abudalou S, Choi J, Gage K, Pow-Sang J, Yilmaz Y, Balagurunathan Y. Challenges in Using Deep Neural Networks Across Multiple Readers in Delineating Prostate Gland Anatomy. J Imaging Inform Med",
+      "pubmed_id": "40392414",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Trivedi P, Awasthi S, Dhillon J, Park J, Davicioni E, Hakansson A, Liu S, Katende E, Smith R, Gage K, Burri R, Ercole C, Pow-Sang J, Yamoah K. CLO25-078: Deciphering Risk of Early Biochemical Recurrence in Prostate Cancer Prior to Definitive Therapy. J Natl Compr Canc Ne",
+      "pubmed_id": "40154471",
+      "year": "2025",
+      "journal": "23(3",
+      "authors": ""
+    },
+    {
+      "title": "Parikh N, Yamoah K, Johnstone P, Torres-Roca J, Pow-Sang J, Fernandez D, Rishi A, Grass GD. Prostate Artery Embolization in the Setting of Prostate Cancer: Review and Opinion. Cancer Control",
+      "pubmed_id": "39876663",
+      "pmc_id": "PMC11775958",
+      "year": "2025",
+      "journal": "32",
+      "authors": ""
+    },
+    {
+      "title": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR. Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial. Nat Med",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "journal": "31(1):176-188",
+      "authors": ""
+    },
+    {
+      "title": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y. Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study. Cancers (Basel)",
+      "pubmed_id": "40075682",
+      "pmc_id": "PMC11898942",
+      "year": "2025",
+      "journal": "17(5)",
+      "authors": ""
+    },
+    {
+      "title": "Aldawoodi NN, Turner K, Patel K, Coughlin E, Mhaskar R, Streitmatter C, Hoffman MS, Pow-Sang JM, Ackerman RS. A Randomized Controlled Trial Comparing pre-anesthesia Evaluation via Telemedicine to In-Person at an NCI-Designated Comprehensive Cancer Center. Telemed E-Health",
+      "pubmed_id": "40788778",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Huelster HL, Gould B, Schiftan EA, Camperlengo L, Davaro F, Rose KM, Soupir AC, Jia S, Zheng T, Sexton WJ, Pow-Sang J, Spiess PE, Daniel Grass G, Wang L, Wang X, Vosoughi A, Necchi A, Meeks JJ, Faltas BM, Du P, Li R. Novel Use of Circulating Tumor DNA to Identify Muscle-invasive and Non-organ-confined Upper Tract Urothelial Carcinoma. Eur Urol",
+      "pubmed_id": "37802683",
+      "year": "2024",
+      "journal": "85(3):283-292",
+      "authors": ""
+    },
+    {
+      "title": "Yu A, Dinckal M, Pow-Sang J. Surgical Ablative Therapies in Patients With Radiorecurrent Prostate Cancer. Cancer Control",
+      "pubmed_id": "39243163",
+      "pmc_id": "PMC11380134",
+      "year": "2024",
+      "journal": "31",
+      "authors": ""
+    },
+    {
+      "title": "Wei Z, Iluppangama M, Qi J, Choi JW, Yu A, Gage K, Chumbalkar V, Dhillon J, Balaji KC, Venkataperumal S, Hernandez DJ, Park J, Yedjou C, Alo R, Gatenby RA, Pow-Sang J, Balagurunanthan Y. Quantitative DCE Dynamics on Transformed MR Imaging Discriminates Clinically Significant Prostate Cancer. Cancer Control",
+      "pubmed_id": "39545376",
+      "pmc_id": "PMC11565616",
+      "year": "2024",
+      "journal": "31",
+      "authors": ""
+    }
+  ],
+  "grants": [],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/Pow-SangJulio_1813.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1813"
+  },
+  "content_hash": "f0fdda99240d400cb4a28e0ee3e727085a6c541ac24f70a58ffd716d6e3a0f8f"
+}

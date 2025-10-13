@@ -1,0 +1,125 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jeffrey-west",
+  "last_updated": "2025-10-13T21:41:50.897471",
+  "researcher_id": "19541",
+  "name": "",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Integrated Mathematical Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Studying the dynamics of cell-cell interactions that influence tumor evolution, heterogeneity, and treatment resistance.",
+  "research_interests": [
+    "The goal of Dr. West\u2019s research group is to aid in targeting treatment resistance by constructing mathematical models of 1) tumor evolution and heterogeneity and 2) evolutionary-minded treatment strategies, employing techniques such as agent-based modeling, dose response convexity analysis (second-order effects), and evolutionary game theory. These methods are broadly applicable to many cancer types, but recent publications have focused on applications to breast cancer and hematologic malignancies.\n  *"
+  ],
+  "associations": [
+    "Integrated Mathematical Oncology",
+    "Malignant Hematology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Southern California, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "H. Lee Moffitt Cancer Center & Research Institute",
+      "specialty": "Integrated Mathematical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N. Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes. medRxiv",
+      "pubmed_id": "40950448",
+      "pmc_id": "PMC12424905",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "40998270",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Correction: Park et al. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers 2024, 16, 2364. Cancers (Basel)",
+      "pubmed_id": "40149388",
+      "pmc_id": "PMC11941415",
+      "year": "2025",
+      "journal": "17(6)",
+      "authors": ""
+    },
+    {
+      "title": "Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. NPJ Syst Biol Appl",
+      "pubmed_id": "39349537",
+      "pmc_id": "PMC11442770",
+      "year": "2024",
+      "journal": "10(1):106",
+      "authors": ""
+    },
+    {
+      "title": "Emond R, West J, Grolmusz V, Cosgrove P, Nath A, Anderson ARA, Bild AH. A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind. bioRxiv",
+      "pubmed_id": "39282402",
+      "pmc_id": "PMC11398327",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "West J, Marzban S, Srivast S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson A, Chung C, Amelio A. Spatial interactions modulate tumor growth and immune infiltration. Res Sq",
+      "pubmed_id": "38826398",
+      "pmc_id": "PMC11142313",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson A, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. bioRxiv",
+      "pubmed_id": "38370722",
+      "pmc_id": "PMC10871273",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Pierik L, McDonald P, Anderson ARA, West J. Second-Order Effects of Chemotherapy Pharmacodynamics and Pharmacokinetics on Tumor Regression and Cachexia. Bull Math Biol",
+      "pubmed_id": "38546759",
+      "year": "2024",
+      "journal": "86(5):47",
+      "authors": ""
+    },
+    {
+      "title": "Strobl MAR, Martin AL, West J, Gallaher J, Robertson-Tessi M, Gatenby R, Wenham R, Maini PK, Damaghi M, Anderson ARA. To modulate or to skip: De-escalating PARP inhibitor maintenance therapy in ovarian cancer using adaptive therapy. Cell Syst",
+      "pubmed_id": "38772367",
+      "pmc_id": "PMC11190943",
+      "year": "2024",
+      "journal": "15(6):510-525",
+      "authors": ""
+    },
+    {
+      "title": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers (Basel)",
+      "pubmed_id": "39001427",
+      "pmc_id": "PMC11240731",
+      "year": "2024",
+      "journal": "16(13)",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Evidence-based monitoring of clonal hematopoiesis in treatment for breast cancer  \nAward Number: n/a  \nSponsor: Florida Breast Cancer Foundation  \nJohnson, N. (PD/PI), West, J. (PD/PI)",
+      "source": "Foundation"
+    },
+    {
+      "description": "Title: AR-agonist pre-treatment enables evolutionary steering in metastatic ER+ breast cancer  \nAward Number:   \nSponsor: Florida Department of Health  \nPermuth, J. (PD/PI), West, J. (PD/PI)"
+    },
+    {
+      "description": "Title: Evolutionary Therapy in ER+ Breast Cancer Guided by Second-Order Reasoning  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nWest, J. (PD/PI)",
+      "source": "American Cancer Society"
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WestJeffrey_19541.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19541"
+  },
+  "content_hash": "9ae35c4ee3d7c3ce8ac1914a8f77e42e634a3d8fafaf2af6e651443b1f48b606"
+}
