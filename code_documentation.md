@@ -145,14 +145,65 @@ results = hybrid_search("cancer evolution research", k=5, alpha=0.7)
 retriever = HybridRetriever(k=5, alpha=0.7)
 ```
 
-### Embedding Models (`src/moffitt_rag/models/`)
+### Embedding and Language Models (`src/moffitt_rag/models/`)
 
-*(Not yet implemented)*
+#### `embeddings.py`
+**Purpose**: Provides functionality for generating and managing embeddings using SentenceTransformers.
 
-This module will handle:
-- Integration with SentenceTransformers
-- Custom embedding functionality
-- LLM integration with Ollama
+**Key Components**:
+- Embedding model creation with configurable model name
+- Functions for generating embeddings for texts and queries
+- Utility for calculating embedding similarity
+
+**Key Functions**:
+- `get_embedding_model(model_name)`: Creates a HuggingFace embedding model
+- `generate_embeddings(texts)`: Generates embeddings for a list of texts
+- `embed_query(query)`: Generates an embedding for a single query
+- `embedding_similarity(embedding1, embedding2)`: Calculates cosine similarity
+
+**Usage**:
+```python
+from moffitt_rag.models.embeddings import generate_embeddings, embed_query
+
+# Generate embeddings for multiple texts
+texts = ["Researcher focuses on cancer genomics", "Expert in immunotherapy"]
+embeddings = generate_embeddings(texts)
+
+# Generate embedding for a query
+query_embedding = embed_query("cancer research")
+```
+
+#### `llm.py`
+**Purpose**: Provides an interface for using language models from multiple providers (OpenAI, Groq, Ollama).
+
+**Key Components**:
+- Multi-provider LLM support (OpenAI, Groq, Ollama)
+- Environment-based configuration
+- Text generation with system prompts
+- Structured JSON output generation
+
+**Key Functions**:
+- `get_llm_model(provider, model_name)`: Creates an LLM from the specified provider
+- `generate_text(prompt, system_prompt)`: Generates text from a prompt
+- `generate_structured_output(prompt, output_schema)`: Generates structured JSON output
+
+**Usage**:
+```python
+from moffitt_rag.models.llm import generate_text, LLMProvider
+
+# Generate text using Groq
+response = generate_text(
+    "Explain the benefits of vector databases for RAG systems",
+    provider=LLMProvider.GROQ
+)
+
+# Generate text using OpenAI
+response = generate_text(
+    "Summarize this researcher's focus",
+    provider=LLMProvider.OPENAI,
+    model_name="gpt-4o"
+)
+```
 
 ### Agent Orchestration (`src/moffitt_rag/agents/`)
 
