@@ -6,11 +6,14 @@ that can answer queries about Moffitt Cancer Center researchers.
 """
 
 import logging
+import json
 from typing import List, Dict, Any, Optional, Union
 
 from langchain.agents import AgentExecutor, create_react_agent
+from langchain.agents.output_parsers import ReActSingleInputOutputParser
 from langchain_core.language_models import BaseLanguageModel
-from langchain_core.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate, ChatPromptTemplate, MessagesPlaceholder
+from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 
 from ..tools import (
     ResearcherSearchTool,
@@ -64,7 +67,8 @@ def create_researcher_agent(
     llm_provider: Optional[LLMProvider] = None,
     model_name: Optional[str] = None,
     system_message: Optional[str] = None,
-    temperature: float = 0.2
+    temperature: float = 0.2,
+    enable_reflection: bool = True
 ) -> AgentExecutor:
     """
     Create a researcher agent for the Moffitt RAG system.
@@ -78,6 +82,8 @@ def create_researcher_agent(
             The system message to use. Defaults to None.
         temperature (float, optional):
             The temperature to use. Defaults to 0.2.
+        enable_reflection (bool, optional):
+            Whether to enable reflection. Defaults to True.
 
     Returns:
         AgentExecutor: The agent executor
@@ -119,5 +125,11 @@ def create_researcher_agent(
         verbose=True,
         handle_parsing_errors=True
     )
+
+    # Add reflection if enabled
+    if enable_reflection:
+        from .reflection import create_reflective_agent_executor
+        agent_executor = create_reflective_agent_executor(agent_executor)
+        logger.info("Enabled reflection for researcher agent")
 
     return agent_executor
