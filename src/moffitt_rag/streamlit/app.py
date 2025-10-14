@@ -10,23 +10,23 @@ import streamlit as st
 import logging
 from typing import List, Dict, Any, Optional
 
+# Import session state management
+from moffitt_rag.streamlit.state.session import (
+    init_session_state,
+    get_current_page,
+    set_current_page,
+    add_user_message,
+    add_assistant_message,
+    clear_conversation_history,
+    get_conversation_history
+)
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Define app states
 APP_STATES = ["chat", "explore", "settings"]
-
-# Session state initialization
-def init_session_state():
-    """Initialize the session state variables"""
-    if 'current_state' not in st.session_state:
-        st.session_state.current_state = "chat"
-
-    if 'conversation_history' not in st.session_state:
-        st.session_state.conversation_history = []
-
-    logger.info("Session state initialized")
 
 def render_header():
     """Render the application header"""
@@ -39,15 +39,15 @@ def render_sidebar():
         st.header("Navigation")
 
         if st.button("💬 Chat", use_container_width=True):
-            st.session_state.current_state = "chat"
+            set_current_page("chat")
             st.rerun()
 
         if st.button("🔍 Explore Researchers", use_container_width=True):
-            st.session_state.current_state = "explore"
+            set_current_page("explore")
             st.rerun()
 
         if st.button("⚙️ Settings", use_container_width=True):
-            st.session_state.current_state = "settings"
+            set_current_page("settings")
             st.rerun()
 
         # About section
@@ -67,20 +67,15 @@ def render_chat_interface():
     # Simple message input
     user_query = st.text_input("Ask a question (placeholder):")
     if user_query:
-        st.session_state.conversation_history.append({
-            "role": "user",
-            "content": user_query
-        })
-        st.session_state.conversation_history.append({
-            "role": "assistant",
-            "content": "This is a placeholder response. The chat functionality will be implemented in the next version."
-        })
+        add_user_message(user_query)
+        add_assistant_message("This is a placeholder response. The chat functionality will be implemented in the next version.")
         st.rerun()
 
     # Display conversation history
-    if st.session_state.conversation_history:
+    conversation_history = get_conversation_history()
+    if conversation_history:
         st.subheader("Conversation History")
-        for message in st.session_state.conversation_history:
+        for message in conversation_history:
             role = "You: " if message["role"] == "user" else "Assistant: "
             st.text(f"{role}{message['content']}")
 
@@ -95,7 +90,7 @@ def render_settings():
     st.info("Settings interface will be implemented in the next version")
 
     if st.button("Clear Conversation History"):
-        st.session_state.conversation_history = []
+        clear_conversation_history()
         st.success("Conversation history cleared")
         st.rerun()
 
@@ -119,11 +114,12 @@ def main():
     render_header()
 
     # Render the appropriate interface based on current state
-    if st.session_state.current_state == "chat":
+    current_page = get_current_page()
+    if current_page == "chat":
         render_chat_interface()
-    elif st.session_state.current_state == "explore":
+    elif current_page == "explore":
         render_researcher_explorer()
-    elif st.session_state.current_state == "settings":
+    elif current_page == "settings":
         render_settings()
 
 if __name__ == "__main__":
