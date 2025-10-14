@@ -31,8 +31,8 @@ class CollaborationTool(BaseTool):
     - Complementary research interests
     """
 
-    name = "Collaboration"
-    description = "Find potential collaborations between researchers or departments"
+    name: str = "Collaboration"
+    description: str = "Find potential collaborations between researchers or departments"
 
     def _run(self, query: str) -> str:
         """

@@ -28,8 +28,8 @@ class InterestMatchTool(BaseTool):
     or researchers with interests matching a specific query.
     """
 
-    name = "InterestMatch"
-    description = "Find researchers with similar research interests"
+    name: str = "InterestMatch"
+    description: str = "Find researchers with similar research interests"
 
     def _run(self, query: str) -> str:
         """

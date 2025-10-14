@@ -86,8 +86,25 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
     """
     chunks = []
 
+    # Create a unique identifier based on multiple fields to ensure uniqueness
+    # Use a combination of name, profile_url, and any available program/department
+    unique_data = f"{profile.name}_{profile.profile_url}_{profile.primary_program or ''}_{profile.department or ''}"
+
+    # Make sure we have at least some non-empty string for the hash
+    if not unique_data.strip('_'):
+        # If all fields were empty, use the current timestamp for uniqueness
+        import time
+        unique_data = f"profile_{time.time()}"
+
+    unique_hash = hashlib.md5(unique_data.encode()).hexdigest()[:8]
+
     # Create a unique prefix for chunk IDs
-    prefix = f"{profile.researcher_id}_"
+    if profile.researcher_id == "unknown":
+        # For unknown researcher_id, use a completely different prefix pattern
+        prefix = f"researcher_{unique_hash}_"
+    else:
+        # For known researcher_id, include a short hash to ensure uniqueness
+        prefix = f"{profile.researcher_id}_{unique_hash[:4]}_"
 
     # Add core information chunk
     core_info = "\n".join([
@@ -231,6 +248,66 @@ def load_all_chunks() -> List[ResearcherChunk]:
 
     logger.info(f"Created {len(all_chunks)} chunks total")
     return all_chunks
+
+
+def find_duplicates(items: List[str]) -> List[str]:
+    """
+    Find duplicate items in a list.
+
+    Args:
+        items (List[str]): The list of items to check for duplicates
+
+    Returns:
+        List[str]: The list of duplicate items
+    """
+    seen = set()
+    duplicates = set()
+    for item in items:
+        if item in seen:
+            duplicates.add(item)
+        else:
+            seen.add(item)
+    return list(duplicates)
+
+
+def deduplicate_chunks(chunks: List[ResearcherChunk]) -> List[ResearcherChunk]:
+    """
+    Make chunk IDs unique by adding a counter suffix when duplicates are found.
+
+    Args:
+        chunks (List[ResearcherChunk]): The list of chunks to deduplicate
+
+    Returns:
+        List[ResearcherChunk]: The list of chunks with unique IDs
+    """
+    id_count = {}
+    deduplicated_chunks = []
+
+    for chunk in chunks:
+        # If this ID has been seen before, add a suffix
+        if chunk.chunk_id in id_count:
+            id_count[chunk.chunk_id] += 1
+            new_id = f"{chunk.chunk_id}_{id_count[chunk.chunk_id]}"
+            logger.debug(f"Renamed duplicate chunk ID {chunk.chunk_id} to {new_id}")
+
+            # Create a new chunk with the updated ID
+            new_chunk = ResearcherChunk(
+                chunk_id=new_id,
+                text=chunk.text,
+                researcher_id=chunk.researcher_id,
+                name=chunk.name,
+                program=chunk.program,
+                department=chunk.department,
+                research_interests=chunk.research_interests,
+                chunk_type=chunk.chunk_type,
+                profile_url=chunk.profile_url
+            )
+            deduplicated_chunks.append(new_chunk)
+        else:
+            id_count[chunk.chunk_id] = 1
+            deduplicated_chunks.append(chunk)
+
+    return deduplicated_chunks
 
 
 def get_researcher_stats() -> Dict[str, Any]:

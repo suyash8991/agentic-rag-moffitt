@@ -30,7 +30,7 @@ def basic_agent_example(query: str) -> str:
     agent = create_researcher_agent(
         # You can specify a provider if needed
         # llm_provider=LLMProvider.GROQ,
-        # model_name="llama3-70b-8192",
+        # model_name="llama-3.3-70b-versatile",
         temperature=0.3,
         enable_reflection=True
     )

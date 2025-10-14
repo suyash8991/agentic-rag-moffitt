@@ -28,8 +28,8 @@ class DepartmentFilterTool(BaseTool):
     and also provides a list of available departments.
     """
 
-    name = "DepartmentFilter"
-    description = "Filter researchers by their department"
+    name: str = "DepartmentFilter"
+    description: str = "Filter researchers by their department"
 
     def _run(self, department: str) -> str:
         """

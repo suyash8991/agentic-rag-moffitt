@@ -28,8 +28,8 @@ class ProgramFilterTool(BaseTool):
     and also provides a list of available programs.
     """
 
-    name = "ProgramFilter"
-    description = "Filter researchers by their research program"
+    name: str = "ProgramFilter"
+    description: str = "Filter researchers by their research program"
 
     def _run(self, program: str) -> str:
         """

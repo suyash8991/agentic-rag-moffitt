@@ -9,13 +9,13 @@ import os
 import logging
 from typing import List, Dict, Any, Optional, Union
 
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.vectorstores import VectorStoreRetriever
 
 from ..config.config import get_settings
 from ..data.models import ResearcherChunk
-from ..data.loader import load_all_chunks
+from ..data.loader import load_all_chunks, find_duplicates, deduplicate_chunks
 
 # Get settings
 settings = get_settings()
@@ -48,47 +48,93 @@ def create_vector_db(chunks: Optional[List[ResearcherChunk]] = None):
     Returns:
         Chroma: The vector database
     """
-    # Create the directory for the vector database if it doesn't exist
-    os.makedirs(settings.vector_db_dir, exist_ok=True)
+    try:
+        # Create the directory for the vector database if it doesn't exist
+        os.makedirs(settings.vector_db_dir, exist_ok=True)
 
-    # Get the embedding function
-    embedding_function = get_embedding_function()
+        # Get the embedding function
+        embedding_function = get_embedding_function()
 
-    # If chunks is None, load all chunks
-    if chunks is None:
-        chunks = load_all_chunks()
+        # If chunks is None, load all chunks
+        if chunks is None:
+            chunks = load_all_chunks()
 
-    # Create texts and metadatas
-    texts = []
-    metadatas = []
-    ids = []
+        # Check for duplicate chunk IDs before proceeding
+        chunk_ids = [chunk.chunk_id for chunk in chunks]
+        duplicate_ids = find_duplicates(chunk_ids)
 
-    for chunk in chunks:
-        texts.append(chunk.text)
-        metadatas.append({
-            "researcher_id": chunk.researcher_id,
-            "name": chunk.name,
-            "program": chunk.program,
-            "department": chunk.department,
-            "research_interests": chunk.research_interests,
-            "chunk_type": chunk.chunk_type,
-            "profile_url": chunk.profile_url,
-        })
-        ids.append(chunk.chunk_id)
+        # If duplicates are found, deduplicate them
+        if duplicate_ids:
+            logger.warning(f"Found {len(duplicate_ids)} duplicate chunk IDs. Deduplicating...")
+            logger.debug(f"Duplicate IDs: {', '.join(duplicate_ids[:10])}...")
 
-    # Create the vector database
-    logger.info(f"Creating vector database with {len(chunks)} chunks...")
-    db = Chroma.from_texts(
-        texts=texts,
-        embedding=embedding_function,
-        metadatas=metadatas,
-        ids=ids,
-        persist_directory=settings.vector_db_dir,
-        collection_name=settings.collection_name,
-    )
+            # Use the deduplicate_chunks function to make IDs unique
+            chunks = deduplicate_chunks(chunks)
+            logger.info(f"Deduplication complete. Proceeding with {len(chunks)} chunks.")
 
-    logger.info(f"Vector database created with {len(chunks)} chunks")
-    return db
+        # Create texts and metadatas
+        texts = []
+        metadatas = []
+        ids = []
+
+        for chunk in chunks:
+            texts.append(chunk.text)
+            # Convert any list fields to strings to ensure compatibility with Chroma
+            research_interests_str = "; ".join(chunk.research_interests) if chunk.research_interests else ""
+            metadatas.append({
+                "researcher_id": chunk.researcher_id,
+                "name": chunk.name,
+                "program": chunk.program,
+                "department": chunk.department,
+                "research_interests": research_interests_str,  # Convert list to string
+                "chunk_type": chunk.chunk_type,
+                "profile_url": chunk.profile_url,
+            })
+            ids.append(chunk.chunk_id)
+
+        # Final check for duplicates (just to be sure)
+        duplicate_ids = find_duplicates(ids)
+        if duplicate_ids:
+            # If we still have duplicates, raise a more informative error
+            raise ValueError(
+                f"Duplicate chunk IDs found after deduplication attempt: {duplicate_ids[:10]}... "
+                "This indicates a problem with the chunk creation process."
+            )
+
+        # Create the vector database
+        logger.info(f"Creating vector database with {len(chunks)} chunks...")
+        db = Chroma.from_texts(
+            texts=texts,
+            embedding=embedding_function,
+            metadatas=metadatas,
+            ids=ids,
+            persist_directory=settings.vector_db_dir,
+            collection_name=settings.collection_name,
+        )
+
+        logger.info(f"Vector database created with {len(chunks)} chunks")
+        return db
+
+    except Exception as e:
+        logger.error(f"Failed to create vector database: {e}")
+        if "Expected IDs to be unique" in str(e):
+            # Provide detailed information about the duplicates
+            logger.error("Duplicate ID error detected in Chroma. Investigating...")
+            if 'ids' in locals() and ids:
+                # Count occurrences of each ID to find duplicates
+                from collections import Counter
+                id_counts = Counter(ids)
+                duplicates = {id: count for id, count in id_counts.items() if count > 1}
+                logger.error(f"Duplicate IDs detected: {list(duplicates.keys())[:10]}...")
+
+                # Count duplicates by researcher_id to help identify patterns
+                researcher_counts = {}
+                for chunk in chunks:
+                    if chunk.chunk_id in duplicates:
+                        researcher_counts[chunk.researcher_id] = researcher_counts.get(chunk.researcher_id, 0) + 1
+
+                logger.error(f"Researcher IDs with duplicate chunks: {researcher_counts}")
+        raise
 
 
 def load_vector_db():

@@ -45,7 +45,7 @@ def load_css():
 
         /* User message styling */
         .user-message {
-            background-color: #f0f2f6;
+            background-color: #141715;
             padding: 1rem;
             border-radius: 0.5rem;
             margin-bottom: 0.5rem;
@@ -54,7 +54,7 @@ def load_css():
 
         /* Assistant message styling */
         .assistant-message {
-            background-color: #eef2ff;
+            background-color: #202229;
             padding: 1rem;
             border-radius: 0.5rem;
             margin-bottom: 0.5rem;

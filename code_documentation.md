@@ -227,7 +227,7 @@ from moffitt_rag.models.llm import LLMProvider
 # Create the agent
 agent = create_researcher_agent(
     llm_provider=LLMProvider.GROQ,
-    model_name="llama3-70b-8192",
+    model_name="llama-3.3-70b-versatile",
     temperature=0.3
 )
 
@@ -300,10 +300,25 @@ immunology_researchers = department_filter_example("Immunology")
 - Semantic search using hybrid search functionality
 - Relevant snippet extraction from search results
 - Formatted results with researcher details
+- Properly typed fields for Pydantic compatibility
 
 **Key Functions**:
 - `extract_relevant_snippet(text, query)`: Extracts relevant snippets from text
 - `ResearcherSearchTool._run(query)`: Performs the search and formats results
+
+**Class Definition**:
+```python
+class ResearcherSearchTool(BaseTool):
+    """
+    Tool for searching researchers by expertise, interests, or background.
+    """
+
+    name: str = "ResearcherSearch"  # Type annotation required for Pydantic
+    description: str = "Search for researchers by their expertise, interests, or background"
+
+    def _run(self, query: str) -> str:
+        # Implementation...
+```
 
 **Usage**:
 ```python
@@ -323,10 +338,25 @@ results = tool.run("cancer immunotherapy resistance mechanisms")
 - Department-based filtering using metadata
 - Department listing functionality
 - Flexible matching for partial department names
+- Properly typed fields for Pydantic compatibility
 
 **Key Functions**:
 - `DepartmentFilterTool._run(department)`: Filters researchers by department
 - `DepartmentFilterTool._list_departments()`: Lists all available departments
+
+**Class Definition**:
+```python
+class DepartmentFilterTool(BaseTool):
+    """
+    Tool for filtering researchers by their department.
+    """
+
+    name: str = "DepartmentFilter"  # Type annotation required for Pydantic
+    description: str = "Filter researchers by their department"
+
+    def _run(self, department: str) -> str:
+        # Implementation...
+```
 
 **Usage**:
 ```python
@@ -349,10 +379,25 @@ immunology_researchers = tool.run("Immunology")
 - Program-based filtering using metadata
 - Program listing functionality
 - Combines exact matches with semantic search
+- Properly typed fields for Pydantic compatibility
 
 **Key Functions**:
 - `ProgramFilterTool._run(program)`: Filters researchers by program
 - `ProgramFilterTool._list_programs()`: Lists all available programs
+
+**Class Definition**:
+```python
+class ProgramFilterTool(BaseTool):
+    """
+    Tool for filtering researchers by their research program.
+    """
+
+    name: str = "ProgramFilter"  # Type annotation required for Pydantic
+    description: str = "Filter researchers by their research program"
+
+    def _run(self, program: str) -> str:
+        # Implementation...
+```
 
 **Usage**:
 ```python
@@ -375,11 +420,26 @@ bioengineering_researchers = tool.run("BioEngineering")
 - Similar researcher discovery
 - Interest-based matching
 - Relevant interest and snippet extraction
+- Properly typed fields for Pydantic compatibility
 
 **Key Functions**:
 - `InterestMatchTool._find_similar_researchers(researcher_name)`: Finds similar researchers
 - `InterestMatchTool._find_matching_interests(query)`: Finds researchers by interests
 - `InterestMatchTool._find_relevant_interests(interests, query)`: Finds relevant interests
+
+**Class Definition**:
+```python
+class InterestMatchTool(BaseTool):
+    """
+    Tool for finding researchers with similar research interests.
+    """
+
+    name: str = "InterestMatch"  # Type annotation required for Pydantic
+    description: str = "Find researchers with similar research interests"
+
+    def _run(self, query: str) -> str:
+        # Implementation...
+```
 
 **Usage**:
 ```python
@@ -402,12 +462,27 @@ cancer_evolution_researchers = tool.run("cancer evolution")
 - Interdepartmental collaboration discovery
 - Researcher-specific collaboration suggestions
 - Common research interest detection
+- Properly typed fields for Pydantic compatibility
 
 **Key Functions**:
 - `CollaborationTool._find_interdepartmental_collaborations(query)`: Finds collaborations between departments
 - `CollaborationTool._find_researcher_collaborations(query)`: Finds collaborators for a researcher
 - `CollaborationTool._find_collaborations_between_groups(group1, group2)`: Finds collaborations between groups
 - `CollaborationTool._find_common_interests(r1, r2)`: Finds common interests between researchers
+
+**Class Definition**:
+```python
+class CollaborationTool(BaseTool):
+    """
+    Tool for discovering potential collaborations between researchers or departments.
+    """
+
+    name: str = "Collaboration"  # Type annotation required for Pydantic
+    description: str = "Find potential collaborations between researchers or departments"
+
+    def _run(self, query: str) -> str:
+        # Implementation...
+```
 
 **Usage**:
 ```python

@@ -5,6 +5,12 @@ This module provides the sidebar navigation and status display.
 """
 
 import streamlit as st
+import sys
+import os
+
+# Add the parent directory to the path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))))
+
 from moffitt_rag.streamlit.state.session import (
     get_current_page,
     set_current_page

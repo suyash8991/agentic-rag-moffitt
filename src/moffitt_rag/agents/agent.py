@@ -46,7 +46,11 @@ AGENT_PROMPT_TEMPLATE = """
 {system_message}
 
 You have access to the following tools:
+
 {tools}
+
+When using tools, you must use the exact tool names as formatted below:
+{tool_names}
 
 Use the tools to answer the user's query. Follow these guidelines:
 1. For general researcher searches, use ResearcherSearch
@@ -88,48 +92,114 @@ def create_researcher_agent(
     Returns:
         AgentExecutor: The agent executor
     """
-    # Get the language model
-    llm = get_llm_model(
-        provider=llm_provider,
-        model_name=model_name,
-        temperature=temperature
-    )
+    try:
+        # Log the start of agent creation
+        logger.info(f"Creating researcher agent: provider={llm_provider}, model={model_name}, reflection={enable_reflection}")
 
-    # Create the tools
-    tools = [
-        ResearcherSearchTool(),
-        DepartmentFilterTool(),
-        ProgramFilterTool(),
-        InterestMatchTool(),
-        CollaborationTool()
-    ]
+        # Get the language model
+        logger.info("Initializing language model...")
+        try:
+            llm = get_llm_model(
+                provider=llm_provider,
+                model_name=model_name,
+                temperature=temperature
+            )
+            logger.info("Language model initialized successfully")
+        except Exception as e:
+            import traceback
+            logger.error(f"Failed to initialize language model: {type(e).__name__}: {e}")
+            logger.error(f"Traceback: {traceback.format_exc()}")
+            raise ValueError(f"Failed to initialize language model: {e}") from e
 
-    # Use the default system message if none is provided
-    if system_message is None:
-        system_message = DEFAULT_SYSTEM_PROMPT
+        # Create the tools
+        logger.info("Initializing agent tools...")
+        try:
+            tools = [
+                ResearcherSearchTool(),
+                DepartmentFilterTool(),
+                ProgramFilterTool(),
+                InterestMatchTool(),
+                CollaborationTool()
+            ]
+            logger.info(f"Successfully created {len(tools)} tools")
+        except Exception as e:
+            import traceback
+            logger.error(f"Failed to initialize tools: {type(e).__name__}: {e}")
+            logger.error(f"Traceback: {traceback.format_exc()}")
+            raise ValueError(f"Failed to initialize agent tools: {e}") from e
 
-    # Create the prompt
-    prompt = PromptTemplate.from_template(
-        template=AGENT_PROMPT_TEMPLATE,
-        partial_variables={"system_message": system_message}
-    )
+        # Use the default system message if none is provided
+        if system_message is None:
+            logger.info("Using default system prompt")
+            system_message = DEFAULT_SYSTEM_PROMPT
+        else:
+            logger.info("Using custom system prompt")
 
-    # Create the agent
-    logger.info("Creating researcher agent")
-    agent = create_react_agent(llm=llm, tools=tools, prompt=prompt)
+        # Create the prompt
+        logger.info("Creating agent prompt template")
+        try:
+            # Extract tool names as a list for the tool_names variable
+            tool_names = [tool.name for tool in tools]
 
-    # Create the agent executor
-    agent_executor = AgentExecutor(
-        agent=agent,
-        tools=tools,
-        verbose=True,
-        handle_parsing_errors=True
-    )
+            prompt = PromptTemplate.from_template(
+                template=AGENT_PROMPT_TEMPLATE,
+                partial_variables={
+                    "system_message": system_message,
+                    "tool_names": ", ".join(tool_names)
+                }
+            )
+            logger.info(f"Agent prompt template created successfully with tools: {tool_names}")
+        except Exception as e:
+            import traceback
+            logger.error(f"Failed to create prompt template: {type(e).__name__}: {e}")
+            logger.error(f"Traceback: {traceback.format_exc()}")
+            raise ValueError(f"Failed to create agent prompt: {e}") from e
 
-    # Add reflection if enabled
-    if enable_reflection:
-        from .reflection import create_reflective_agent_executor
-        agent_executor = create_reflective_agent_executor(agent_executor)
-        logger.info("Enabled reflection for researcher agent")
+        # Create the agent
+        logger.info("Creating the agent with LangChain's create_react_agent")
+        try:
+            agent = create_react_agent(llm=llm, tools=tools, prompt=prompt)
+            logger.info("Agent created successfully")
+        except Exception as e:
+            import traceback
+            logger.error(f"Failed to create agent: {type(e).__name__}: {e}")
+            logger.error(f"Traceback: {traceback.format_exc()}")
+            raise ValueError(f"Failed to create agent: {e}") from e
 
-    return agent_executor
+        # Create the agent executor
+        logger.info("Creating agent executor")
+        try:
+            agent_executor = AgentExecutor(
+                agent=agent,
+                tools=tools,
+                verbose=True,
+                handle_parsing_errors=True
+            )
+            logger.info("Agent executor created successfully")
+        except Exception as e:
+            import traceback
+            logger.error(f"Failed to create agent executor: {type(e).__name__}: {e}")
+            logger.error(f"Traceback: {traceback.format_exc()}")
+            raise ValueError(f"Failed to create agent executor: {e}") from e
+
+        # Add reflection if enabled
+        if enable_reflection:
+            try:
+                logger.info("Adding reflection capability to agent")
+                from .reflection import create_reflective_agent_executor
+                agent_executor = create_reflective_agent_executor(agent_executor)
+                logger.info("Reflection capability added successfully")
+            except Exception as e:
+                import traceback
+                logger.error(f"Failed to add reflection: {type(e).__name__}: {e}")
+                logger.error(f"Traceback: {traceback.format_exc()}")
+                logger.warning("Continuing without reflection due to error")
+
+        logger.info("Researcher agent created successfully")
+        return agent_executor
+
+    except Exception as e:
+        import traceback
+        logger.error(f"Unhandled error in create_researcher_agent: {type(e).__name__}: {e}")
+        logger.error(f"Traceback: {traceback.format_exc()}")
+        raise

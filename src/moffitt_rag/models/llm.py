@@ -64,64 +64,101 @@ def get_llm_model(
     Returns:
         BaseChatModel: The language model
     """
-    # Set defaults from settings
-    if provider is None:
-        provider_str = os.getenv("LLM_PROVIDER", "groq")
-        provider = LLMProvider(provider_str.lower())
+    try:
+        # Set defaults from settings
+        if provider is None:
+            provider_str = os.getenv("LLM_PROVIDER", "groq")
+            logger.info(f"No provider specified, using env var LLM_PROVIDER: '{provider_str}'")
+            try:
+                provider = LLMProvider(provider_str.lower())
+            except ValueError:
+                logger.error(f"Invalid LLM provider: '{provider_str}'. Must be one of: {[p.value for p in LLMProvider]}")
+                raise ValueError(f"Invalid LLM provider: '{provider_str}'. Must be one of: {[p.value for p in LLMProvider]}")
 
-    if model_name is None:
+        if model_name is None:
+            if provider == LLMProvider.OPENAI:
+                model_name = os.getenv("OPENAI_MODEL", "gpt-4o")
+                logger.info(f"Using model from env var OPENAI_MODEL: '{model_name}'")
+            elif provider == LLMProvider.GROQ:
+                model_name = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+                logger.info(f"Using model from env var GROQ_MODEL: '{model_name}'")
+            else:  # OLLAMA
+                model_name = settings.llm_model_name
+                logger.info(f"Using model from settings.llm_model_name: '{model_name}'")
+
+        logger.info(f"Initializing LLM: Provider={provider.value}, Model={model_name}")
+
+        # Set up callback manager if streaming
+        callback_manager = None
+        if stream:
+            callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
+            logger.debug("Configured streaming callback handler")
+
+        # Create the language model based on provider
         if provider == LLMProvider.OPENAI:
-            model_name = os.getenv("OPENAI_MODEL", "gpt-4o")
+            openai_api_key = os.getenv("OPENAI_API_KEY")
+            if not openai_api_key:
+                logger.error("OPENAI_API_KEY environment variable not set. Please add this to your .env file.")
+                raise ValueError("OPENAI_API_KEY environment variable not set. Please add this to your .env file.")
+
+            logger.info(f"Initializing OpenAI ChatModel with model={model_name}")
+            llm = ChatOpenAI(
+                model=model_name,
+                temperature=temperature,
+                streaming=stream,
+                openai_api_key=openai_api_key,
+                **kwargs
+            )
+
         elif provider == LLMProvider.GROQ:
-            model_name = os.getenv("GROQ_MODEL", "llama3-70b-8192")
+            groq_api_key = os.getenv("GROQ_API_KEY")
+            # Check if the API key is a placeholder value from the example
+            if not groq_api_key:
+                logger.error("GROQ_API_KEY environment variable not set. Please add this to your .env file.")
+                raise ValueError("GROQ_API_KEY environment variable not set. Please add this to your .env file.")
+            elif groq_api_key == "your_groq_api_key_here":
+                logger.error("GROQ_API_KEY contains placeholder value 'your_groq_api_key_here'. Please update with a real API key in your .env file.")
+                raise ValueError("GROQ_API_KEY contains placeholder value. Please update with a real API key in your .env file.")
+
+            logger.info(f"Initializing Groq ChatModel with model={model_name}")
+            llm = ChatGroq(
+                model=model_name,
+                temperature=temperature,
+                streaming=stream,
+                groq_api_key=groq_api_key,
+                **kwargs
+            )
+
         else:  # OLLAMA
-            model_name = settings.llm_model_name
+            # Note: Ollama doesn't return a BaseChatModel but we're keeping the interface similar
+            logger.info(f"Initializing Ollama LLM with model={model_name}, base_url={settings.ollama_base_url}")
+            # Check if Ollama is accessible
+            import requests
+            try:
+                # Just check if the server is accessible
+                response = requests.get(f"{settings.ollama_base_url}/api/tags", timeout=5)
+                if response.status_code != 200:
+                    logger.warning(f"Ollama server returned status code {response.status_code}, it may not be functioning correctly.")
+            except requests.exceptions.ConnectionError:
+                logger.error(f"Could not connect to Ollama server at {settings.ollama_base_url}. Is Ollama running?")
+                # Continue anyway as the actual connection will happen later
 
-    logger.info(f"Loading LLM model: {provider} / {model_name}")
+            llm = Ollama(
+                model=model_name,
+                temperature=temperature,
+                callback_manager=callback_manager,
+                base_url=settings.ollama_base_url,
+                **kwargs
+            )
 
-    # Set up callback manager if streaming
-    callback_manager = None
-    if stream:
-        callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
+        logger.info(f"Successfully initialized LLM: {provider.value}/{model_name}")
+        return llm
 
-    # Create the language model based on provider
-    if provider == LLMProvider.OPENAI:
-        openai_api_key = os.getenv("OPENAI_API_KEY")
-        if not openai_api_key:
-            raise ValueError("OPENAI_API_KEY environment variable not set")
-
-        llm = ChatOpenAI(
-            model=model_name,
-            temperature=temperature,
-            streaming=stream,
-            openai_api_key=openai_api_key,
-            **kwargs
-        )
-
-    elif provider == LLMProvider.GROQ:
-        groq_api_key = os.getenv("GROQ_API_KEY")
-        if not groq_api_key:
-            raise ValueError("GROQ_API_KEY environment variable not set")
-
-        llm = ChatGroq(
-            model=model_name,
-            temperature=temperature,
-            streaming=stream,
-            groq_api_key=groq_api_key,
-            **kwargs
-        )
-
-    else:  # OLLAMA
-        # Note: Ollama doesn't return a BaseChatModel but we're keeping the interface similar
-        llm = Ollama(
-            model=model_name,
-            temperature=temperature,
-            callback_manager=callback_manager,
-            base_url=settings.ollama_base_url,
-            **kwargs
-        )
-
-    return llm
+    except Exception as e:
+        import traceback
+        logger.error(f"Error initializing LLM: {type(e).__name__}: {str(e)}")
+        logger.error(f"Traceback: {traceback.format_exc()}")
+        raise
 
 
 def generate_text(

@@ -75,8 +75,8 @@ class ResearcherSearchTool(BaseTool):
     to find the most relevant researchers for a given query.
     """
 
-    name = "ResearcherSearch"
-    description = "Search for researchers by their expertise, interests, or background"
+    name: str = "ResearcherSearch"
+    description: str = "Search for researchers by their expertise, interests, or background"
 
     def _run(self, query: str) -> str:
         """

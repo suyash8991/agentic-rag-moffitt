@@ -84,26 +84,39 @@ def reflect_on_answer(
     return improved_answer
 
 
-def create_reflective_agent_executor(agent_executor) -> Any:
+class ReflectiveAgentExecutor:
     """
-    Create a wrapper around an agent executor that adds reflection.
-
-    Args:
-        agent_executor: The original agent executor
-
-    Returns:
-        Any: The wrapped agent executor with reflection
+    A wrapper class around an agent executor that adds reflection capabilities.
     """
-    # Store the original invoke method
-    original_invoke = agent_executor.invoke
 
-    # Define a new invoke method that includes reflection
-    def invoke_with_reflection(inputs: Dict[str, Any], **kwargs):
+    def __init__(self, agent_executor):
+        """
+        Initialize the reflective agent executor.
+
+        Args:
+            agent_executor: The original agent executor
+        """
+        self.agent_executor = agent_executor
+        logger.info("Created ReflectiveAgentExecutor wrapper")
+
+    def invoke(self, inputs: Dict[str, Any], **kwargs):
+        """
+        Invoke the agent with reflection.
+
+        Args:
+            inputs: The inputs for the agent
+            **kwargs: Additional arguments
+
+        Returns:
+            The improved result
+        """
+        logger.info("Invoking agent with reflection")
+
         # Call the original invoke method
-        preliminary_result = original_invoke(inputs, **kwargs)
+        preliminary_result = self.agent_executor.invoke(inputs, **kwargs)
 
         # Extract the question and answer
-        question = inputs.get("input", "")
+        question = inputs if isinstance(inputs, str) else inputs.get("input", "")
         if isinstance(preliminary_result, dict):
             answer = preliminary_result.get("output", "")
         else:
@@ -111,10 +124,12 @@ def create_reflective_agent_executor(agent_executor) -> Any:
 
         # Reflect on the answer
         try:
+            logger.info("Reflecting on agent's answer")
             improved_answer = reflect_on_answer(
                 question=question,
                 answer=answer
             )
+            logger.info("Reflection completed successfully")
 
             # Update the result
             if isinstance(preliminary_result, dict):
@@ -127,7 +142,27 @@ def create_reflective_agent_executor(agent_executor) -> Any:
             # If reflection fails, return the original result
             return preliminary_result
 
-    # Replace the invoke method
-    agent_executor.invoke = invoke_with_reflection
+    def __getattr__(self, name):
+        """
+        Pass through any other attributes to the wrapped agent executor.
 
-    return agent_executor
+        Args:
+            name: The attribute name
+
+        Returns:
+            The attribute from the wrapped agent executor
+        """
+        return getattr(self.agent_executor, name)
+
+
+def create_reflective_agent_executor(agent_executor) -> Any:
+    """
+    Create a wrapper around an agent executor that adds reflection.
+
+    Args:
+        agent_executor: The original agent executor
+
+    Returns:
+        Any: The wrapped agent executor with reflection
+    """
+    return ReflectiveAgentExecutor(agent_executor)
