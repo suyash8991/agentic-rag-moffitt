@@ -21,6 +21,16 @@ from moffitt_rag.streamlit.state.session import (
     get_conversation_history
 )
 
+# Import styling utilities
+from moffitt_rag.streamlit.utils.styling import (
+    set_page_config,
+    apply_styles,
+    format_title,
+    format_subtitle,
+    format_user_message,
+    format_assistant_message
+)
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -30,8 +40,8 @@ APP_STATES = ["chat", "explore", "settings"]
 
 def render_header():
     """Render the application header"""
-    st.title("Moffitt Cancer Center Researcher Assistant")
-    st.write("Ask questions about researchers, their expertise, and potential collaborations")
+    st.markdown(format_title("Moffitt Cancer Center Researcher Assistant"), unsafe_allow_html=True)
+    st.markdown(format_subtitle("Ask questions about researchers, their expertise, and potential collaborations"), unsafe_allow_html=True)
 
 def render_sidebar():
     """Render the sidebar navigation"""
@@ -76,8 +86,10 @@ def render_chat_interface():
     if conversation_history:
         st.subheader("Conversation History")
         for message in conversation_history:
-            role = "You: " if message["role"] == "user" else "Assistant: "
-            st.text(f"{role}{message['content']}")
+            if message["role"] == "user":
+                st.markdown(format_user_message(message["content"]), unsafe_allow_html=True)
+            else:
+                st.markdown(format_assistant_message(message["content"]), unsafe_allow_html=True)
 
 def render_researcher_explorer():
     """Render the researcher exploration interface (placeholder)"""
@@ -97,12 +109,10 @@ def render_settings():
 def main():
     """Main application entry point"""
     # Set page configuration
-    st.set_page_config(
-        page_title="Moffitt Researcher Assistant",
-        page_icon="🔬",
-        layout="wide",
-        initial_sidebar_state="expanded"
-    )
+    set_page_config()
+
+    # Apply custom styling
+    apply_styles()
 
     # Initialize session state
     init_session_state()
