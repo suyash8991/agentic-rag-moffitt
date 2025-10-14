@@ -31,6 +31,10 @@ from moffitt_rag.streamlit.utils.styling import (
     format_assistant_message
 )
 
+# Import components
+from moffitt_rag.streamlit.components.sidebar import render_sidebar
+from moffitt_rag.streamlit.components.chat import render_chat_interface
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -43,53 +47,9 @@ def render_header():
     st.markdown(format_title("Moffitt Cancer Center Researcher Assistant"), unsafe_allow_html=True)
     st.markdown(format_subtitle("Ask questions about researchers, their expertise, and potential collaborations"), unsafe_allow_html=True)
 
-def render_sidebar():
-    """Render the sidebar navigation"""
-    with st.sidebar:
-        st.header("Navigation")
+# Sidebar rendering is now handled by the imported component
 
-        if st.button("💬 Chat", use_container_width=True):
-            set_current_page("chat")
-            st.rerun()
-
-        if st.button("🔍 Explore Researchers", use_container_width=True):
-            set_current_page("explore")
-            st.rerun()
-
-        if st.button("⚙️ Settings", use_container_width=True):
-            set_current_page("settings")
-            st.rerun()
-
-        # About section
-        st.write("---")
-        st.subheader("About")
-        st.write(
-            "This application provides an interface to explore "
-            "researcher information at Moffitt Cancer Center."
-        )
-        st.caption("Moffitt Agentic RAG System v0.1.0")
-
-def render_chat_interface():
-    """Render the main chat interface (placeholder)"""
-    st.header("Chat")
-    st.info("Chat interface will be implemented in the next version")
-
-    # Simple message input
-    user_query = st.text_input("Ask a question (placeholder):")
-    if user_query:
-        add_user_message(user_query)
-        add_assistant_message("This is a placeholder response. The chat functionality will be implemented in the next version.")
-        st.rerun()
-
-    # Display conversation history
-    conversation_history = get_conversation_history()
-    if conversation_history:
-        st.subheader("Conversation History")
-        for message in conversation_history:
-            if message["role"] == "user":
-                st.markdown(format_user_message(message["content"]), unsafe_allow_html=True)
-            else:
-                st.markdown(format_assistant_message(message["content"]), unsafe_allow_html=True)
+# Chat interface is now handled by the imported component
 
 def render_researcher_explorer():
     """Render the researcher exploration interface (placeholder)"""
