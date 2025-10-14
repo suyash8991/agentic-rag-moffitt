@@ -207,12 +207,89 @@ response = generate_text(
 
 ### Agent Orchestration (`src/moffitt_rag/agents/`)
 
-*(Not yet implemented)*
+#### `agent.py`
+**Purpose**: Implements the main researcher agent using LangChain's ReAct framework.
 
-This module will handle:
-- Agent configuration and setup
-- Tool selection and orchestration
-- Response generation with citations
+**Key Components**:
+- Agent creation with configurable LLM providers
+- Integration with all specialized tools
+- Prompt templates for researcher queries
+- System message customization
+
+**Key Functions**:
+- `create_researcher_agent(llm_provider, model_name, system_message)`: Creates a researcher agent with the specified configuration
+
+**Usage**:
+```python
+from moffitt_rag.agents import create_researcher_agent
+from moffitt_rag.models.llm import LLMProvider
+
+# Create the agent
+agent = create_researcher_agent(
+    llm_provider=LLMProvider.GROQ,
+    model_name="llama3-70b-8192",
+    temperature=0.3
+)
+
+# Use the agent
+response = agent.invoke({"input": "Who studies cancer evolution at Moffitt?"})
+```
+
+#### `reflection.py`
+**Purpose**: Adds reflection capabilities to the agent for improved responses.
+
+**Key Components**:
+- Self-reflection mechanism to evaluate answers
+- Response improvement based on reflection
+- Reflective agent wrapper
+
+**Key Functions**:
+- `reflect_on_answer(question, answer)`: Reflects on an answer to improve it
+- `create_reflective_agent_executor(agent_executor)`: Creates a reflective agent wrapper
+
+**Usage**:
+```python
+from moffitt_rag.agents import create_researcher_agent, reflect_on_answer
+
+# Create an agent with reflection enabled
+agent = create_researcher_agent(
+    enable_reflection=True
+)
+
+# Or use reflection directly
+improved_answer = reflect_on_answer(
+    question="Who are the experts in immunotherapy?",
+    answer="John Smith works on immunotherapy."
+)
+```
+
+#### `examples.py`
+**Purpose**: Provides example usage of the agent for different query types.
+
+**Key Components**:
+- Examples for different agent capabilities
+- Function to run a set of diverse example queries
+- Demonstration of different agent configurations
+
+**Key Functions**:
+- `basic_agent_example(query)`: Runs a basic example with the agent
+- `run_example_queries()`: Runs a set of diverse example queries
+- Specialized examples for each agent capability (researcher search, department filter, etc.)
+
+**Usage**:
+```python
+from moffitt_rag.agents import (
+    basic_agent_example,
+    researcher_search_example,
+    department_filter_example
+)
+
+# Run a basic example
+response = basic_agent_example("Who studies cancer evolution?")
+
+# Run a specialized example
+immunology_researchers = department_filter_example("Immunology")
+```
 
 ### Agent Tools (`src/moffitt_rag/tools/`)
 

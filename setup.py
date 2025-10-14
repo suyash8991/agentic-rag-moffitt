@@ -20,6 +20,11 @@ setup(
         "numpy>=1.26.2",
         "tqdm>=4.66.1",
     ],
+    entry_points={
+        "console_scripts": [
+            "moffitt-rag-app=moffitt_rag.streamlit.app:main",
+        ],
+    },
     author="Moffitt Cancer Center Team",
     author_email="example@moffitt.org",
     description="Agentic RAG System for Moffitt Cancer Center Researcher Data",
