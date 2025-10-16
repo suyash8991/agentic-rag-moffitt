@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/kenneth-tsai",
-  "last_updated": "2025-10-13T21:43:08.850101",
+  "last_updated": "2025-10-14T22:03:48.866451",
   "researcher_id": "16980",
   "name": "",
   "degrees": [
@@ -143,5 +143,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16980"
   },
-  "content_hash": "5ea06c940734d4bb6fc5cb51867ad5b0d27cb7a25a23f0ce5514c7ba5fe6f9f9"
+  "content_hash": "ac25d5060da7b37809f066e3125e3436de88cea56120b458f0f19300f1553f6d",
+  "researcher_name": "Kenneth Tsai"
 }

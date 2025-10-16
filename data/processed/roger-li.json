@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/roger-li",
-  "last_updated": "2025-10-13T21:47:55.269504",
+  "last_updated": "2025-10-14T22:08:55.167667",
   "researcher_id": "20904",
   "name": "",
   "degrees": [
@@ -102,11 +102,11 @@
       "authors": ""
     },
     {
-      "title": "de Jong JJ, Proudfoot JA, Daneshmand S, Svatek RS, Narayan V, Davicioni E, Joshi S, Dahmen A, Li R, Inman BA, Shah P, Chaplin I, Wright J, Gibb EA, Lotan Y. Molecular Subtyping for Predicting Pathological Upstaging and Survival Outcomes in Clinically Organ-confined Bladder Cancer Patients Undergoing Radical Cystectomy. Eur Urol Open Sci",
-      "pubmed_id": "39935941",
-      "pmc_id": "PMC11810690",
+      "title": "Galarza Fortuna GM, Grass D, Maughan BL, Jain RK, Dechet C, Beck J, Schuetz E, Sanchez A, O'Neil B, Poch M, Li R, Lloyd S, Tward J, Phunrab T, Hawks JL, Swami U, Boucher KM, Agarwal N, Gupta S. Nivolumab adjuvant to chemo-radiation in localized muscle-invasive urothelial cancer: primary analysis of a multicenter, single-arm, phase II, investigator-initiated trial (NEXT). J Immunother Cancer",
+      "pubmed_id": "40102029",
+      "pmc_id": "PMC11927433",
       "year": "2025",
-      "journal": "73:24-30",
+      "journal": "13(3)",
       "authors": ""
     }
   ],
@@ -142,5 +142,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=20904"
   },
-  "content_hash": "f507d00e60000dbb713af195f0b65de9de8022242ebad0640cdf3ea82b22ea09"
+  "content_hash": "21056f1df913f54409d0f036fb1b2d46fc281830e56fc59b45d4aecbb2fed0ed",
+  "researcher_name": "Roger Li"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/andriy-marusyk",
-  "last_updated": "2025-10-13T21:43:01.989199",
+  "last_updated": "2025-10-14T22:03:40.710357",
   "researcher_id": "16347",
   "name": "",
   "degrees": [
@@ -137,5 +137,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16347"
   },
-  "content_hash": "2875f16230e623a562cf47694f12a585d1dff521fd84fc30f353257061d4656a"
+  "content_hash": "496b820ab9f0269e2c09eb2c161e265de7cc2454ecb79ce58724ab953c9816d7",
+  "researcher_name": "Andriy Marusyk"
 }

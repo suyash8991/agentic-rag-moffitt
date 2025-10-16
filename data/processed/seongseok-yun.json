@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/seongseok-yun",
-  "last_updated": "2025-10-13T21:46:10.663747",
+  "last_updated": "2025-10-14T22:07:05.403428",
   "researcher_id": "21916",
   "name": "",
   "degrees": [
@@ -132,5 +132,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=21916"
   },
-  "content_hash": "32e4430e1b0d64370ecfb2639de2b6c54ba233dad395cf84fe3ea155bee179a7"
+  "content_hash": "6d1368ab60061f9ba955f19ce2bf4d62c2feb6328ceda25904dbc2b3a288d8c1",
+  "researcher_name": "Seongseok Yun"
 }

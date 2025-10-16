@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/alex-soupir",
-  "last_updated": "2025-10-13T21:44:38.601971",
+  "last_updated": "2025-10-14T22:05:10.426008",
   "researcher_id": "unknown",
   "name": "",
   "degrees": [
@@ -101,5 +101,6 @@
   "grants": [],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SoupirAlex_27969.jpg",
   "contact": {},
-  "content_hash": "92fa22fa39225c4e2b4229a22fa24d7fd87cce48a81746a2bffc0e8dfe1b0ad0"
+  "content_hash": "1c6c7f0db5995afadba7ef986401761a66d2f4c87f22e282380bef1e0b33bb04",
+  "researcher_name": "Alex Soupir"
 }

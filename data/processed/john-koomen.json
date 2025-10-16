@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/john-koomen",
-  "last_updated": "2025-10-13T21:46:02.723213",
+  "last_updated": "2025-10-14T22:06:58.062688",
   "researcher_id": "3419",
   "name": "",
   "degrees": [
@@ -123,5 +123,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3419"
   },
-  "content_hash": "9b6033deb398fed9910e20d932c8cae7c3f3f37dcfdb7acef04ee32a77fb9774"
+  "content_hash": "bb86a9767cb2f140e211c313d469ee0dabab50f2bd0a5be64bb11af6ddce2edb",
+  "researcher_name": "John Koomen"
 }

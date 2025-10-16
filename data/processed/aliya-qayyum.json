@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/aliya-qayyum",
-  "last_updated": "2025-10-13T21:45:58.180937",
+  "last_updated": "2025-10-14T22:06:53.031968",
   "researcher_id": "28587",
   "name": "",
   "degrees": [
@@ -51,13 +51,6 @@
   ],
   "publications": [
     {
-      "title": "Fang AM, Chapin BF, Shi CW, Sun J, Qayyum A, Kundra V, Corn PG, Kuban DA, Ravizzini GC, Surasi DSS, Ma J, Bathala TK. Whole-body magnetic resonance imaging for staging patients with high-risk prostate cancer. Prostate Cancer P D",
-      "pubmed_id": "39289537",
-      "year": "2025",
-      "journal": "28(3):761-766",
-      "authors": ""
-    },
-    {
       "title": "Childers BG, Denbo JW, Kim RD, Hoffe SE, Glushko T, Qayyum A, Anaya DA. Intrahepatic cholangiocarcinoma: role of imaging as a critical component for multi-disciplinary treatment approach. Abdom Radiol (NY)",
       "pubmed_id": "40095023",
       "year": "2025",
@@ -68,6 +61,13 @@
       "title": "El Homsi M, Hassan OT, O'Brien C, Singh C, Arif-Tiwari H, Becker-Weidman DJ, Karolyi D, Bonde A, Venkatesh SK, Brunsing RL, Cunha GM, Miller FH, Costello J, Qayyum A, Marks RM. Standardized reporting of extrahepatic cholangiocarcinoma. Abdom Radiol (NY)",
       "pubmed_id": "40944876",
       "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Fang AM, Chapin BF, Shi CW, Sun J, Qayyum A, Kundra V, Corn PG, Kuban DA, Ravizzini GC, Surasi DSS, Ma J, Bathala TK. Whole-body magnetic resonance imaging for staging patients with high-risk prostate cancer. Prostate Cancer P D",
+      "pubmed_id": "39289537",
+      "year": "2025",
+      "journal": "28(3):761-766",
       "authors": ""
     },
     {
@@ -127,5 +127,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28587"
   },
-  "content_hash": "e8b09df5412d75a8d7fc092831b3b02804cfaec5fa1c1a075c61facfc565be1f"
+  "content_hash": "b654e991c840017e91cae5a7d2dbfab293fadcb933ecb8d7d2d741366628068c",
+  "researcher_name": "Aliya Qayyum"
 }

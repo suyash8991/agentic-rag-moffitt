@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/anna-giuliano",
-  "last_updated": "2025-10-13T21:43:39.697794",
+  "last_updated": "2025-10-14T22:04:13.600196",
   "researcher_id": "2969",
   "name": "",
   "degrees": [
@@ -170,5 +170,6 @@
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2969",
     "email": "demail@springer.com"
   },
-  "content_hash": "ec229cc38d18fc33bea52dcaa6feceb9bd5187e9b894473156209ebe59c1aa42"
+  "content_hash": "eb5cdd1fb3a8a1bfb224d2b2ca6529d80c4273a461535bd06622e371e1c16591",
+  "researcher_name": "Anna Giuliano"
 }

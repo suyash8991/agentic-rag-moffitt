@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/philippe-spiess",
-  "last_updated": "2025-10-13T21:46:44.275343",
+  "last_updated": "2025-10-14T22:07:42.184637",
   "researcher_id": "4110",
   "name": "",
   "degrees": [
@@ -43,17 +43,17 @@
   ],
   "publications": [
     {
+      "title": "Barrera Cardenas JC, Spiess PE, Garc\u00eda-Perdomo HA. Human papillomavirus vaccination and its effect on genital men's health. Considerations for a public health strategy. Urologia",
+      "pubmed_id": "40898707",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Cooper S, Nicholson S, Crook J, Watkin N, Pettaway C, Barber J, Mitra A, Woodley O, Millin A, Hall E, Pathmanathan A, Penegar S, Burnett S, Spiess P, Miles E, Hoffman K, Yang H, Tree AC. Standardization of Radiation Therapy to Inguinal and Pelvic Lymph Nodes in Locally Advanced Cancer of the Penis, as Defined by the International Penile Advanced Cancer Trial (InPACT). Int J Radiat Oncol Biol Phys",
       "pubmed_id": "40180061",
       "pmc_id": "PMC12396133",
       "year": "2025",
       "journal": "123(1):171-182",
-      "authors": ""
-    },
-    {
-      "title": "Barrera Cardenas JC, Spiess PE, Garc\u00eda-Perdomo HA. Human papillomavirus vaccination and its effect on genital men's health. Considerations for a public health strategy. Urologia",
-      "pubmed_id": "40898707",
-      "year": "2025",
       "authors": ""
     },
     {
@@ -86,14 +86,6 @@
       "authors": ""
     },
     {
-      "title": "Fazili A, Sirard RB, Elst L, Vandermaesen K, Xu H, Albersen M, Spiess PE. Novel Role Of DSNB in Staging of Primary Urethral Cancer: New Standard?. Int Braz J Urol",
-      "pubmed_id": "40079925",
-      "pmc_id": "PMC12052031",
-      "year": "2025",
-      "journal": "51(3)",
-      "authors": ""
-    },
-    {
       "title": "An X, Guo SJ, Yan R, Xue T, Xiong LB, Ma HL, Xue C, Zhang YC, Li JB, Chen MT, Li ZS, Liu TY, Zhang ZL, Dong P, Li YH, Yao K, Hu ZQ, Chen XF, Luo JX, Lei YH, Liang PY, Liu ZZ, Qi L, Xu WF, Cao ZG, Chen NH, Li X, Sheng XN, Luo GH, Shi BK, Xie Q, Liu ZW, Zhou FJ, Spiess PE, Shi YX, Han H. Neoadjuvant toripalimab plus nimotuzumab combined with taxol-based chemotherapy in locally advanced penile squamous cell carcinoma. Cancer Cell",
       "pubmed_id": "40215977",
       "year": "2025",
@@ -105,6 +97,14 @@
       "pubmed_id": "40340844",
       "year": "2025",
       "journal": "23(5)",
+      "authors": ""
+    },
+    {
+      "title": "Fazili A, Sirard RB, Elst L, Vandermaesen K, Xu H, Albersen M, Spiess PE. Novel Role Of DSNB in Staging of Primary Urethral Cancer: New Standard?. Int Braz J Urol",
+      "pubmed_id": "40079925",
+      "pmc_id": "PMC12052031",
+      "year": "2025",
+      "journal": "51(3)",
       "authors": ""
     },
     {
@@ -128,5 +128,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4110"
   },
-  "content_hash": "9baef5c7d12897094317ecfc5231b08e0bfea7a55a8daaf505b999e981e10ac8"
+  "content_hash": "3dd68a0bd6c511607f39ee276918abda7f851c7cd6f2fccf51d89a4116ebe5c6",
+  "researcher_name": "Philippe Spiess"
 }

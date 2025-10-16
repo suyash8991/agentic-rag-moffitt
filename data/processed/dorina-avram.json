@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/dorina-avram",
-  "last_updated": "2025-10-13T21:47:32.936233",
+  "last_updated": "2025-10-14T22:08:30.876080",
   "researcher_id": "27668",
   "name": "",
   "degrees": [
@@ -139,5 +139,6 @@
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27668",
     "email": "dorina.avram@moffitt.org"
   },
-  "content_hash": "7ae42d6b0c0755750a34f602e9a012217502ecd3123ef25cd002de9180dacde7"
+  "content_hash": "401cc54ef4d694127f45f99c317b0c2cf1b4de97c7bd985dc1d8fe0007141a55",
+  "researcher_name": "Dorina Avram"
 }

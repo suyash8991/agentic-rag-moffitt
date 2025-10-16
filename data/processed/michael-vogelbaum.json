@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/michael-vogelbaum",
-  "last_updated": "2025-10-13T21:45:50.076509",
+  "last_updated": "2025-10-14T22:06:45.148828",
   "researcher_id": "23364",
   "name": "",
   "degrees": [
@@ -143,5 +143,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=23364"
   },
-  "content_hash": "e84750f735860c68b7bca8e7e1597100f09ba767ec9ea664c1861979dbd49637"
+  "content_hash": "f921301dc6ef91b034dd19364fada047d5e3d9b6d185d625f5502fac75df9f7a",
+  "researcher_name": "Michael Vogelbaum"
 }

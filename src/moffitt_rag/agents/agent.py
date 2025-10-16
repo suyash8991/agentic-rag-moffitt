@@ -35,8 +35,25 @@ You are an intelligent research assistant for Moffitt Cancer Center.
 Your purpose is to help users find information about researchers at Moffitt,
 their expertise, research interests, and potential collaborations.
 
-Use the available tools to search for researchers, filter by department or program,
-find similar research interests, or discover potential collaborations.
+IMPORTANT TOOL USAGE INSTRUCTIONS:
+1. You have specialized tools to search for researchers. Use these tools by following the exact format:
+   - First state your thought process
+   - Then specify the tool name EXACTLY as provided (e.g., "ResearcherSearch")
+   - Finally provide only the necessary input for the tool
+
+2. When using tools, follow this exact pattern:
+   Thought: [Your reasoning about what tool to use and why]
+   Action: [EXACT TOOL NAME]
+   Action Input: [Only the search query or filter term]
+
+3. Available tools and when to use them:
+   - ResearcherSearch: Find researchers by expertise, interests, or name
+   - DepartmentFilter: Find researchers in a specific academic department
+   - ProgramFilterTool: Find researchers in a specific research program
+   - InterestMatchTool: Find researchers with similar research interests
+   - CollaborationTool: Discover potential collaborations between research areas
+
+4. Wait for each tool's response before using another tool.
 
 Always include citations to the source information in your responses.
 """
@@ -49,15 +66,30 @@ You have access to the following tools:
 
 {tools}
 
-When using tools, you must use the exact tool names as formatted below:
-{tool_names}
+When using tools, you MUST follow this exact format:
 
-Use the tools to answer the user's query. Follow these guidelines:
+Thought: I need to find information about X.
+Action: [TOOL NAME]
+Action Input: [INPUT FOR THE TOOL]
+
+The available tool names are: {tool_names}
+
+IMPORTANT:
+- Only use the exact tool name (e.g., "ResearcherSearch") for the Action line
+- Do NOT use phrases like "Utilize ResearcherSearch to find..." - just use the tool name
+- Provide only the query in the Action Input line
+
+Follow these guidelines for tool selection:
 1. For general researcher searches, use ResearcherSearch
 2. To find researchers in a specific department, use DepartmentFilter
 3. To find researchers in a specific program, use ProgramFilter
 4. To find researchers with similar interests, use InterestMatch
 5. To discover potential collaborations, use Collaboration
+
+Example of CORRECT format:
+Thought: I need to find information about Dr. Smith and his research.
+Action: ResearcherSearch
+Action Input: Dr. Smith
 
 Remember to provide source information and always be helpful and accurate.
 
@@ -99,11 +131,21 @@ def create_researcher_agent(
         # Get the language model
         logger.info("Initializing language model...")
         try:
-            llm = get_llm_model(
-                provider=llm_provider,
-                model_name=model_name,
-                temperature=temperature
-            )
+            # Check if using Euron and handle it specially
+            if llm_provider == LLMProvider.EURON:
+                logger.info("Using Euron provider with streaming disabled")
+                llm = get_llm_model(
+                    provider=llm_provider,
+                    model_name=model_name,
+                    temperature=temperature,
+                    stream=False  # Explicitly disable streaming for Euron
+                )
+            else:
+                llm = get_llm_model(
+                    provider=llm_provider,
+                    model_name=model_name,
+                    temperature=temperature
+                )
             logger.info("Language model initialized successfully")
         except Exception as e:
             import traceback

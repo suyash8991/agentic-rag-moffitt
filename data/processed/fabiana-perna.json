@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/fabiana-perna",
-  "last_updated": "2025-10-13T21:47:02.410415",
+  "last_updated": "2025-10-14T22:08:00.763397",
   "researcher_id": "35899",
   "name": "",
   "degrees": [
@@ -63,16 +63,16 @@
       "authors": ""
     },
     {
-      "title": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK. Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma. Haematologica",
-      "pubmed_id": "40637727",
-      "year": "2025",
-      "authors": ""
-    },
-    {
       "title": "DaCosta-Clark T, Kale B, Perna F. On the Road to Safer CAR Therapy for B-Cell Lymphoma: Real-World Evidence. Transplant Cell Ther",
       "pubmed_id": "40617680",
       "year": "2025",
       "journal": "31(7):401-404",
+      "authors": ""
+    },
+    {
+      "title": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK. Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma. Haematologica",
+      "pubmed_id": "40637727",
+      "year": "2025",
       "authors": ""
     },
     {
@@ -143,5 +143,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35899"
   },
-  "content_hash": "11594524a6c9e9f569cce0f0f52254966fc3b8ca7a1560bce5e15741018c562f"
+  "content_hash": "0168194e9c2d0bbe018581cda8a967281e7a2d7446ec8446642c6ba5c1c68f3f",
+  "researcher_name": "Fabiana Perna"
 }

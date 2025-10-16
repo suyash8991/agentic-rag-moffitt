@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/liang-wang",
-  "last_updated": "2025-10-13T21:44:19.848452",
+  "last_updated": "2025-10-14T22:04:52.549094",
   "researcher_id": "25224",
   "name": "",
   "degrees": [
@@ -72,13 +72,6 @@
       "authors": ""
     },
     {
-      "title": "Liu S, Zhu J, Green D, Zhong H, Long Q, Wu C, Wang L, Deng Y, Wu L. Integrating Multi-Omics Data to Uncover Prostate Tissue DNA Methylation Biomarkers and Target Genes for Prostate Cancer Risk. Mol Carcinogen",
-      "pubmed_id": "39400371",
-      "year": "2025",
-      "journal": "64(1):83-90",
-      "authors": ""
-    },
-    {
       "title": "Tomczak K, Patel MS, Bhalla AD, Peterson CB, Landers SM, Callahan SC, Zhang D, Wong J, Landry JP, Lazar AJ, Livingston JA, Guadagnolo BA, Lyu HG, Lillemoe H, Roland CL, Keung EZ, Scally CP, Hunt KK, McCutcheon IE, Slopis JM, Gu J, Scheet P, Wang L, Rai K, Torres KE. Plasma DNA Methylation-Based Biomarkers for MPNST Detection in Patients With Neurofibromatosis Type 1. Mol Carcinogen",
       "pubmed_id": "39600120",
       "pmc_id": "PMC11636586",
@@ -87,11 +80,10 @@
       "authors": ""
     },
     {
-      "title": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y. Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study. Cancers (Basel)",
-      "pubmed_id": "40075682",
-      "pmc_id": "PMC11898942",
+      "title": "Liu S, Zhu J, Green D, Zhong H, Long Q, Wu C, Wang L, Deng Y, Wu L. Integrating Multi-Omics Data to Uncover Prostate Tissue DNA Methylation Biomarkers and Target Genes for Prostate Cancer Risk. Mol Carcinogen",
+      "pubmed_id": "39400371",
       "year": "2025",
-      "journal": "17(5)",
+      "journal": "64(1):83-90",
       "authors": ""
     },
     {
@@ -100,6 +92,14 @@
       "pmc_id": "PMC11745953",
       "year": "2025",
       "journal": "48(1):100718",
+      "authors": ""
+    },
+    {
+      "title": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y. Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study. Cancers (Basel)",
+      "pubmed_id": "40075682",
+      "pmc_id": "PMC11898942",
+      "year": "2025",
+      "journal": "17(5)",
       "authors": ""
     },
     {
@@ -158,5 +158,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=25224"
   },
-  "content_hash": "f5432e4dbee0d647c792d7d8003e96aad3e071d5679d906968e306a7b91e667e"
+  "content_hash": "e91f04dcccba855a98659b2199e9b61700685a3fdd605d64491adef391d7cd2a",
+  "researcher_name": "Liang Wang"
 }

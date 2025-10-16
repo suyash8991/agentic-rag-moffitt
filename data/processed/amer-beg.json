@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/amer-beg",
-  "last_updated": "2025-10-13T21:47:35.590844",
+  "last_updated": "2025-10-14T22:08:35.101621",
   "researcher_id": "3497",
   "name": "",
   "degrees": [
@@ -139,5 +139,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3497"
   },
-  "content_hash": "ef4b236e5373b5e9ce74d54670b4132edc92b5482088ffef7f15a8b908b43fdd"
+  "content_hash": "24dd648fc49ad74e991c33ac3195e52398e3036aa6597731956f71269e55ed5a",
+  "researcher_name": "Amer Beg"
 }

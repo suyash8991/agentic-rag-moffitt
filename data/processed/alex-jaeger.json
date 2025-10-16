@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/alex-jaeger",
-  "last_updated": "2025-10-13T21:42:31.786872",
+  "last_updated": "2025-10-14T22:03:14.931462",
   "researcher_id": "31015",
   "name": "",
   "degrees": [
@@ -144,5 +144,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=31015"
   },
-  "content_hash": "40394949917174e2693e449197e6c7fa40e36ad2d798f8d8d1d67daa9270acb3"
+  "content_hash": "972ed4142dda81de0b7470040f4168ae30e2f6387326831d30eb9aced23a1470",
+  "researcher_name": "Alex Jaeger"
 }

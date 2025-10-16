@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jennifer-binning",
-  "last_updated": "2025-10-13T21:42:11.682764",
+  "last_updated": "2025-10-14T22:02:51.079017",
   "researcher_id": "24244",
   "name": "",
   "degrees": [
@@ -120,5 +120,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24244"
   },
-  "content_hash": "cab07ae439635f6820b33d80d4f73c9ceedbaf52abafcd6e17f9112bab96fb66"
+  "content_hash": "e0d2208dc051054eb586a48250f15e043dc1b624c93a309192d2585809a99e2a",
+  "researcher_name": "Jennifer Binning"
 }

@@ -84,6 +84,7 @@ def create_vector_db(chunks: Optional[List[ResearcherChunk]] = None):
             metadatas.append({
                 "researcher_id": chunk.researcher_id,
                 "name": chunk.name,
+                "researcher_name": chunk.researcher_name,  # Added researcher_name field
                 "program": chunk.program,
                 "department": chunk.department,
                 "research_interests": research_interests_str,  # Convert list to string

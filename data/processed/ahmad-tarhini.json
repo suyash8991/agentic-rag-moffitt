@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ahmad-tarhini",
-  "last_updated": "2025-10-13T21:45:34.768633",
+  "last_updated": "2025-10-14T22:06:29.132821",
   "researcher_id": "24764",
   "name": "",
   "degrees": [
@@ -130,5 +130,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24764"
   },
-  "content_hash": "7e1ba1f4f0b54085e974e5a06afa8dd10beab150ccc5e550295769089b3768f6"
+  "content_hash": "702622078a5967c70161a3489d63054e536fcec39bf6cbae8f30ec78c9007da9",
+  "researcher_name": "Ahmad Tarhini"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jorge-mansilla-soto",
-  "last_updated": "2025-10-13T21:47:59.629017",
+  "last_updated": "2025-10-14T22:08:57.626309",
   "researcher_id": "35941",
   "name": "",
   "degrees": [
@@ -104,5 +104,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35941"
   },
-  "content_hash": "b2eb078c8cab6a8337b05274437751b29cc03d60ed0bfba4484315a32eb9cd34"
+  "content_hash": "c7f4e8ff65f9947147b8bda73f027dda7e919926d65d5b265d1ac9bd3b2fb2ab",
+  "researcher_name": "Jorge Mansilla Soto"
 }

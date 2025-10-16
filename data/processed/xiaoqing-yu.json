@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/xiaoqing-yu",
-  "last_updated": "2025-10-13T21:47:20.373676",
+  "last_updated": "2025-10-14T22:08:17.080941",
   "researcher_id": "18896",
   "name": "",
   "degrees": [
@@ -119,5 +119,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=18896"
   },
-  "content_hash": "5906e007abd931cc8bda89e2c29ba2f4bc24244a2e6c57a667701c5d2b7558df"
+  "content_hash": "a2e67e3cb8901df52b66af6cfb13c8af0f8f2991405029bbbee7891b50f253b6",
+  "researcher_name": "Xiaoqing Yu"
 }

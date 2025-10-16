@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jeffrey-west",
-  "last_updated": "2025-10-13T21:41:50.897471",
+  "last_updated": "2025-10-14T22:02:23.835136",
   "researcher_id": "19541",
   "name": "",
   "degrees": [
@@ -121,5 +121,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19541"
   },
-  "content_hash": "9ae35c4ee3d7c3ce8ac1914a8f77e42e634a3d8fafaf2af6e651443b1f48b606"
+  "content_hash": "43ff6de11ad707ab99c5f1033519d190e6c01c58d516973b77d63e50b653c62a",
+  "researcher_name": "Jeffrey West"
 }

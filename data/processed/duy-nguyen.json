@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/duy-nguyen",
-  "last_updated": "2025-10-13T21:43:04.515141",
+  "last_updated": "2025-10-14T22:03:44.157764",
   "researcher_id": "35679",
   "name": "",
   "degrees": [
@@ -29,19 +29,19 @@
       "authors": ""
     },
     {
-      "title": "Nguyen DT, Schaller MA, Terracina KP, Xu X, Pedro DI, Pepe A, Urue\u00f1a JM, Dupee Z, Diodati N, Smolchek RA, Famiglietti JE, Nguyen NTY, Tushoski-Alem\u00e1n GW, Cheng K, Chen L, Linn D, Vidimar V, Fatima A, Kwon SW, Sun D, Chen H, Xu H, Long B, Moy LY, Howell BJ, Addona GH, Sawyer WG. Patient-derived colorectal microtumors predict response to anti-PD-1 therapy. Front Immunol",
-      "pubmed_id": "40873566",
-      "pmc_id": "PMC12378724",
-      "year": "2025",
-      "journal": "16:1640500",
-      "authors": ""
-    },
-    {
       "title": "Tao H, Chen D, Yang C, Nguyen DT, Abboud G, Liu R, Liu T, Chakraborty A, Hou AY, Petit NA, Abbas M, Davis RW, Zhang J, Von Roemeling C, Gbadamosi MO, Jin L, Gu T, Lin T, Wang P, Pepe A, Pedro DI, Mendez-Gomez HR, Xie C, Karachi A, Weidert F, Jin D, Wang C, Long-James K, Molchan EK, Castillo P, Ligon JA, Ghiaseddin AP, Sayour EJ, Rahman M, Deleyrolle LP, Kim BY, Mitchell DA, Sawyer WG, Huang J. Targeting immune checkpoint LAIR1 with antibody blockade or 3-in-1 CAR T cells enhances antitumor response. J Clin Invest",
       "pubmed_id": "40591413",
       "pmc_id": "PMC12352909",
       "year": "2025",
       "journal": "135(16)",
+      "authors": ""
+    },
+    {
+      "title": "Nguyen DT, Schaller MA, Terracina KP, Xu X, Pedro DI, Pepe A, Urue\u00f1a JM, Dupee Z, Diodati N, Smolchek RA, Famiglietti JE, Nguyen NTY, Tushoski-Alem\u00e1n GW, Cheng K, Chen L, Linn D, Vidimar V, Fatima A, Kwon SW, Sun D, Chen H, Xu H, Long B, Moy LY, Howell BJ, Addona GH, Sawyer WG. Patient-derived colorectal microtumors predict response to anti-PD-1 therapy. Front Immunol",
+      "pubmed_id": "40873566",
+      "pmc_id": "PMC12378724",
+      "year": "2025",
+      "journal": "16:1640500",
       "authors": ""
     },
     {
@@ -107,5 +107,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35679"
   },
-  "content_hash": "56c04e9f56ee5050a78f68b51d19518e37f3e1209ecb724eba463551fc22ae8f"
+  "content_hash": "bb0f18011ea3d11d1e23a3f2f9ea8399c1a49298eabf44e1365878d3d59d7f69",
+  "researcher_name": "Duy Nguyen"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/katarzyna-rejniak",
-  "last_updated": "2025-10-13T21:41:44.285323",
+  "last_updated": "2025-10-14T22:02:16.285104",
   "researcher_id": "4695",
   "name": "",
   "degrees": [
@@ -138,5 +138,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4695"
   },
-  "content_hash": "8a9566fb83c4151c5457a0fbcf78bfc15af12ef66ea30647c1208b21ba2e2f19"
+  "content_hash": "d705f8718bf58cc24a1cb565694303b3327b76900ea6a2e5be1c9a442babdd81",
+  "researcher_name": "Katarzyna Rejniak"
 }

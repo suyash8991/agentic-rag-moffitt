@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/brian-czerniecki",
-  "last_updated": "2025-10-13T21:47:40.262901",
+  "last_updated": "2025-10-14T22:08:38.875657",
   "researcher_id": "17054",
   "name": "",
   "degrees": [
@@ -84,6 +84,12 @@
       "authors": ""
     },
     {
+      "title": "Vicini F, Shah C, Mittal K, Weinmann S, Leo M, Mann GB, Warnberg F, Rabinovitch R, Czerniecki B, Meattini I, Khan AJ, Jhawar S, Gerber N, Willey SC, Borgen P, AlHilli Z, Kruse M, Dabbs D, Shivers SC, Daily A, Whitworth P, Alvarado M, Mouabbi JA, Moran M, Rugo H, O'Shaughnessy JA, Bremer T. Limitations in the Application of Clinicopathologic Factors Alone in Predicting Radiation Benefit for Women With Low-Risk Ductal Carcinoma In Situ After Breast Conserving Surgery: The Impact of a 7-Gene Biosignature Based on 10-Year Ipsilateral Breast Rec. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "40685017",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Ahmed KA, Kim Y, Armaghani AJ, Arrington JA, Costa RL, Czerniecki BJ, Diaz R, Dowell RA, Extermann M, Forsyth PA, Lee KT, Loftus L, Mills MN, Phuoc VH, Rosa M, Soliman HH, Sam CS, Washington IR, Soyano AE, Han HS. Phase II trial of brain MRI surveillance in stage IV breast cancer. Neurooncol",
       "pubmed_id": "39851040",
       "pmc_id": "PMC12309701",
@@ -92,9 +98,10 @@
       "authors": ""
     },
     {
-      "title": "Vicini F, Shah C, Mittal K, Weinmann S, Leo M, Mann GB, Warnberg F, Rabinovitch R, Czerniecki B, Meattini I, Khan AJ, Jhawar S, Gerber N, Willey SC, Borgen P, AlHilli Z, Kruse M, Dabbs D, Shivers SC, Daily A, Whitworth P, Alvarado M, Mouabbi JA, Moran M, Rugo H, O'Shaughnessy JA, Bremer T. Limitations in the Application of Clinicopathologic Factors Alone in Predicting Radiation Benefit for Women With Low-Risk Ductal Carcinoma In Situ After Breast Conserving Surgery: The Impact of a 7-Gene Biosignature Based on 10-Year Ipsilateral Breast Rec. Int J Radiat Oncol Biol Phys",
-      "pubmed_id": "40685017",
+      "title": "Vicini F, Shah C, Mittal K, Abraham J, Kruse M, Weinmann S, Leo M, Rabinovitch R, W\u00e4rnberg F, Whitworth PW, Czerniecki BJ, Shivers SC, Bremer T. A 7-Gene Biosignature for Ductal Carcinoma in situ of the Breast Identifies Subpopulations of HER2-positive Patients With Distinct Recurrence Rates After Breast-Conserving Surgery and Radiation Therapy. Clin Breast Cancer",
+      "pubmed_id": "39353799",
       "year": "2025",
+      "journal": "25(2):e152-e158",
       "authors": ""
     },
     {
@@ -106,22 +113,15 @@
       "authors": ""
     },
     {
-      "title": "Vicini F, Shah C, Mittal K, Abraham J, Kruse M, Weinmann S, Leo M, Rabinovitch R, W\u00e4rnberg F, Whitworth PW, Czerniecki BJ, Shivers SC, Bremer T. A 7-Gene Biosignature for Ductal Carcinoma in situ of the Breast Identifies Subpopulations of HER2-positive Patients With Distinct Recurrence Rates After Breast-Conserving Surgery and Radiation Therapy. Clin Breast Cancer",
-      "pubmed_id": "39353799",
+      "title": "Basta A, Lien K, Sun W, Whiting J, Armitage M, Soyano AE, Armaghani A, Loftus L, O Apos Connor T, Dvir K, Han HS, Soliman H, Czerniecki BJ, Costa RLB. A Real-World Single-Center Cohort Study on the Tolerability of Trastuzumab Deruxtecan for HER2+ Metastatic Breast Cancer. Oncology-Basel",
+      "pubmed_id": "40759100",
       "year": "2025",
-      "journal": "25(2):e152-e158",
+      "journal": "1-10",
       "authors": ""
     },
     {
       "title": "Burgos E, Aiello P, Aldrich A, Weinfurtner R, Czerniecki BJ, Soyano AE. Dendritic Cell Immunotherapy for De Novo HER2+ Metastatic Breast Cancer. Ann Case Rep",
       "year": "2025",
-      "authors": ""
-    },
-    {
-      "title": "Basta A, Lien K, Sun W, Whiting J, Armitage M, Soyano AE, Armaghani A, Loftus L, O Apos Connor T, Dvir K, Han HS, Soliman H, Czerniecki BJ, Costa RLB. A Real-World Single-Center Cohort Study on the Tolerability of Trastuzumab Deruxtecan for HER2+ Metastatic Breast Cancer. Oncology-Basel",
-      "pubmed_id": "40759100",
-      "year": "2025",
-      "journal": "1-10",
       "authors": ""
     }
   ],
@@ -158,5 +158,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17054"
   },
-  "content_hash": "f7409d9ebe0181e2f7f75f89cb768742877704a89c5c3743b45ac596089e9c2a"
+  "content_hash": "f6e8471050c737804e5b1b86717a55f11763b6df3fee088e14eada9fc03b358c",
+  "researcher_name": "Brian Czerniecki"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/quincy-mo",
-  "last_updated": "2025-10-13T21:40:51.715661",
+  "last_updated": "2025-10-14T22:01:13.915482",
   "researcher_id": "20205",
   "name": "",
   "degrees": [
@@ -121,5 +121,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=20205"
   },
-  "content_hash": "3df76bedf32191b4cdceb30c57bb4b464a172c2311ffe5b1b19527eb3de1a511"
+  "content_hash": "b7b7fa1b6ed5b8e07a20be25c1cd6c41173d297fb4e205b0ec50d9a86ee30a7a",
+  "researcher_name": "Quincy Mo"
 }

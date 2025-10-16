@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/greg-sawyer",
-  "last_updated": "2025-10-13T21:40:36.195057",
+  "last_updated": "2025-10-14T22:00:58.645385",
   "researcher_id": "34697",
   "name": "",
   "degrees": [
@@ -119,5 +119,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=34697"
   },
-  "content_hash": "d963b0da542ee2bc9d1f547b53b334f1983ee0a4c65297d375e7caf46b3deb33"
+  "content_hash": "8b9b4dc81e36b584845efd84b7bc61ce5e17c4d00a6cb88dbbac051527bb91ca",
+  "researcher_name": "Greg Sawyer"
 }

@@ -174,13 +174,24 @@ query_embedding = embed_query("cancer research")
 ```
 
 #### `llm.py`
-**Purpose**: Provides an interface for using language models from multiple providers (OpenAI, Groq, Ollama).
+**Purpose**: Provides an interface for using language models from multiple providers (OpenAI, Groq, Euron, Ollama).
 
 **Key Components**:
-- Multi-provider LLM support (OpenAI, Groq, Ollama)
+- Multi-provider LLM support (OpenAI, Groq, Euron, Ollama)
+- Provider fallback system with automatic switching on rate limits
 - Environment-based configuration
 - Text generation with system prompts
 - Structured JSON output generation
+- Error handling and recovery
+
+#### `euron_chat.py`
+**Purpose**: Custom LangChain integration for the Euron.ai API.
+
+**Key Components**:
+- `ChatEuron` class implementing LangChain's BaseChatModel interface
+- Message formatting for Euron's API requirements
+- HTTP request handling with proper error management
+- Environment variable integration for API keys
 
 **Key Functions**:
 - `get_llm_model(provider, model_name)`: Creates an LLM from the specified provider
@@ -203,6 +214,23 @@ response = generate_text(
     provider=LLMProvider.OPENAI,
     model_name="gpt-4o"
 )
+
+# Generate text using Euron
+response = generate_text(
+    "Explain cancer immunotherapy approaches",
+    provider=LLMProvider.EURON,
+    model_name="gpt-4.1-nano"
+)
+
+# Using the custom Euron chat model directly
+from moffitt_rag.models.euron_chat import ChatEuron
+
+euron_model = ChatEuron(model="gpt-4.1-nano")
+messages = [
+    SystemMessage(content="You are a research assistant."),
+    HumanMessage(content="Summarize recent advances in cancer research.")
+]
+response = euron_model.invoke(messages)
 ```
 
 ### Agent Orchestration (`src/moffitt_rag/agents/`)
@@ -227,7 +255,7 @@ from moffitt_rag.models.llm import LLMProvider
 # Create the agent
 agent = create_researcher_agent(
     llm_provider=LLMProvider.GROQ,
-    model_name="llama-3.3-70b-versatile",
+    model_name="meta-llama/llama-4-scout-17b-16e-instruct",
     temperature=0.3
 )
 

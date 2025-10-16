@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/youngchul-kim",
-  "last_updated": "2025-10-13T21:40:48.693606",
+  "last_updated": "2025-10-14T22:01:08.947332",
   "researcher_id": "14086",
   "name": "",
   "degrees": [
@@ -54,6 +54,14 @@
       "authors": ""
     },
     {
+      "title": "Echevarria M, Park R, Caudell JJ, Kim Y, Yang GQ, Kirtane K, Chaudhary R, Kumar S, Amelio AL, Giuliano AR, Chung CH. Plasma Cell-Free Human Papillomavirus DNA and Oral Gargle HPV DNA in Patients with HPV-Related Oropharyngeal Cancer Treated with Radiotherapy. Cancer Res Commun",
+      "pubmed_id": "40643202",
+      "pmc_id": "PMC12281097",
+      "year": "2025",
+      "journal": "5(7):1194-1202",
+      "authors": ""
+    },
+    {
       "title": "Ahmed KA, Kim Y, Armaghani AJ, Arrington JA, Costa RL, Czerniecki BJ, Diaz R, Dowell RA, Extermann M, Forsyth PA, Lee KT, Loftus L, Mills MN, Phuoc VH, Rosa M, Soliman HH, Sam CS, Washington IR, Soyano AE, Han HS. Phase II trial of brain MRI surveillance in stage IV breast cancer. Neurooncol",
       "pubmed_id": "39851040",
       "pmc_id": "PMC12309701",
@@ -62,11 +70,10 @@
       "authors": ""
     },
     {
-      "title": "Echevarria M, Park R, Caudell JJ, Kim Y, Yang GQ, Kirtane K, Chaudhary R, Kumar S, Amelio AL, Giuliano AR, Chung CH. Plasma Cell-Free Human Papillomavirus DNA and Oral Gargle HPV DNA in Patients with HPV-Related Oropharyngeal Cancer Treated with Radiotherapy. Cancer Res Commun",
-      "pubmed_id": "40643202",
-      "pmc_id": "PMC12281097",
+      "title": "DePalo DK, Dugan MM, Naqvi SMH, Ollila DW, Hieken TJ, Block MS, van Houdt WJ, Wouters MWJM, Reijers SJM, Asher N, Broman KK, Duncan Z, Anderson M, Gyorki DE, Snow H, Held J, Farma JM, Vetto JT, Hui JYC, Kolbow M, Saw RPM, Lo SN, Long GV, Thompson JF, Kim Y, Karapetyan L, Ny L, van Akkooi ACJ, Bagge RO, Zager JS. A comparison of isolated limb infusion/perfusion, immune checkpoint inhibitors, and intralesional therapy as first-line treatment for patients with melanoma in-transit metastases. Cancer",
+      "pubmed_id": "39522025",
       "year": "2025",
-      "journal": "5(7):1194-1202",
+      "journal": "131(1):e35636",
       "authors": ""
     },
     {
@@ -81,13 +88,6 @@
       "pubmed_id": "39521884",
       "year": "2025",
       "journal": "31(1):176-188",
-      "authors": ""
-    },
-    {
-      "title": "DePalo DK, Dugan MM, Naqvi SMH, Ollila DW, Hieken TJ, Block MS, van Houdt WJ, Wouters MWJM, Reijers SJM, Asher N, Broman KK, Duncan Z, Anderson M, Gyorki DE, Snow H, Held J, Farma JM, Vetto JT, Hui JYC, Kolbow M, Saw RPM, Lo SN, Long GV, Thompson JF, Kim Y, Karapetyan L, Ny L, van Akkooi ACJ, Bagge RO, Zager JS. A comparison of isolated limb infusion/perfusion, immune checkpoint inhibitors, and intralesional therapy as first-line treatment for patients with melanoma in-transit metastases. Cancer",
-      "pubmed_id": "39522025",
-      "year": "2025",
-      "journal": "131(1):e35636",
       "authors": ""
     },
     {
@@ -112,5 +112,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14086"
   },
-  "content_hash": "e39c7836155df00e593973760b3f1cf95f410b7eff8a1a757a15760bdc8818d9"
+  "content_hash": "dcd157ccab6500be2359e4693358007a8f628126f2160101bb3d5e8ad8b488d3",
+  "researcher_name": "Youngchul Kim"
 }

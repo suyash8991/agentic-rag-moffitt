@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ariosto-silva",
-  "last_updated": "2025-10-13T21:41:09.434311",
+  "last_updated": "2025-10-14T22:01:34.570276",
   "researcher_id": "4634",
   "name": "",
   "degrees": [
@@ -125,5 +125,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4634"
   },
-  "content_hash": "f5fe8189bbf52997034285178f07b02b8664d3c8d491c6ee6b5340a55aa71d9a"
+  "content_hash": "5ce30710375487438c383f5b8e535d1b9ac439a666a4e1edb3f44078618b3187",
+  "researcher_name": "Ariosto Silva"
 }

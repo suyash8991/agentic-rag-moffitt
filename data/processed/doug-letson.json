@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/doug-letson",
-  "last_updated": "2025-10-13T21:46:48.547706",
+  "last_updated": "2025-10-14T22:07:46.832136",
   "researcher_id": "1337",
   "name": "",
   "degrees": [
@@ -122,5 +122,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1337"
   },
-  "content_hash": "00744de2253a25bba2113fa5a19546d574f02b7294dd4538d82a13efbfb70f18"
+  "content_hash": "b9fed77e9aad25bad601eaa372f99840b37a106aca435df0296c255f59ce0ff1",
+  "researcher_name": "Doug Letson"
 }

@@ -18,6 +18,9 @@ from langchain_core.messages import SystemMessage, HumanMessage
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 
+# Import our custom Euron integration
+from .euron_chat import ChatEuron
+
 from ..config.config import get_settings
 
 # Get settings
@@ -35,6 +38,7 @@ class LLMProvider(str, Enum):
     OPENAI = "openai"
     GROQ = "groq"
     OLLAMA = "ollama"
+    EURON = "euron"
 
 
 def get_llm_model(
@@ -42,6 +46,7 @@ def get_llm_model(
     model_name: Optional[str] = None,
     stream: bool = False,
     temperature: float = 0.7,
+    fallback_on_rate_limit: bool = True,
     **kwargs
 ) -> BaseChatModel:
     """
@@ -59,106 +64,177 @@ def get_llm_model(
             Whether to stream the response. Defaults to False.
         temperature (float, optional):
             The temperature to use for generation. Defaults to 0.7.
+        fallback_on_rate_limit (bool, optional):
+            Whether to try alternative providers if rate limiting occurs.
+            Defaults to True.
         **kwargs: Additional parameters to pass to the LLM constructor.
 
     Returns:
         BaseChatModel: The language model
     """
-    try:
-        # Set defaults from settings
-        if provider is None:
-            provider_str = os.getenv("LLM_PROVIDER", "groq")
-            logger.info(f"No provider specified, using env var LLM_PROVIDER: '{provider_str}'")
-            try:
-                provider = LLMProvider(provider_str.lower())
-            except ValueError:
-                logger.error(f"Invalid LLM provider: '{provider_str}'. Must be one of: {[p.value for p in LLMProvider]}")
-                raise ValueError(f"Invalid LLM provider: '{provider_str}'. Must be one of: {[p.value for p in LLMProvider]}")
+    # Available providers to try in order if rate limiting occurs
+    # This will be used if fallback_on_rate_limit is True
+    provider_fallbacks = [
+        (LLMProvider.OPENAI, os.getenv("OPENAI_MODEL", "gpt-4o")),
+        (LLMProvider.GROQ, os.getenv("GROQ_MODEL", "meta-llama/llama-4-scout-17b-16e-instruct")),
+        (LLMProvider.EURON, os.getenv("EURON_MODEL", "gpt-4.1-nano")),
+        (LLMProvider.OLLAMA, settings.llm_model_name),
+    ]
 
-        if model_name is None:
-            if provider == LLMProvider.OPENAI:
-                model_name = os.getenv("OPENAI_MODEL", "gpt-4o")
-                logger.info(f"Using model from env var OPENAI_MODEL: '{model_name}'")
-            elif provider == LLMProvider.GROQ:
-                model_name = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
-                logger.info(f"Using model from env var GROQ_MODEL: '{model_name}'")
-            else:  # OLLAMA
-                model_name = settings.llm_model_name
-                logger.info(f"Using model from settings.llm_model_name: '{model_name}'")
+    # Determine which providers to try and in what order
+    providers_to_try = []
 
-        logger.info(f"Initializing LLM: Provider={provider.value}, Model={model_name}")
+    # Always try the requested provider first
+    if provider is not None:
+        # If a specific provider was requested, try it first
+        providers_to_try.append((provider, model_name))
 
-        # Set up callback manager if streaming
-        callback_manager = None
-        if stream:
-            callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
-            logger.debug("Configured streaming callback handler")
+        if fallback_on_rate_limit:
+            # Then add other providers as fallbacks
+            for fallback_provider, fallback_model in provider_fallbacks:
+                if fallback_provider != provider:
+                    providers_to_try.append((fallback_provider, fallback_model))
+    else:
+        # No specific provider requested, try the default from environment
+        provider_str = os.getenv("LLM_PROVIDER", "groq").lower()
+        try:
+            default_provider = LLMProvider(provider_str)
+        except ValueError:
+            logger.warning(f"Invalid LLM provider in environment: '{provider_str}', defaulting to Groq")
+            default_provider = LLMProvider.GROQ
 
-        # Create the language model based on provider
-        if provider == LLMProvider.OPENAI:
-            openai_api_key = os.getenv("OPENAI_API_KEY")
-            if not openai_api_key:
-                logger.error("OPENAI_API_KEY environment variable not set. Please add this to your .env file.")
-                raise ValueError("OPENAI_API_KEY environment variable not set. Please add this to your .env file.")
-
-            logger.info(f"Initializing OpenAI ChatModel with model={model_name}")
-            llm = ChatOpenAI(
-                model=model_name,
-                temperature=temperature,
-                streaming=stream,
-                openai_api_key=openai_api_key,
-                **kwargs
-            )
-
-        elif provider == LLMProvider.GROQ:
-            groq_api_key = os.getenv("GROQ_API_KEY")
-            # Check if the API key is a placeholder value from the example
-            if not groq_api_key:
-                logger.error("GROQ_API_KEY environment variable not set. Please add this to your .env file.")
-                raise ValueError("GROQ_API_KEY environment variable not set. Please add this to your .env file.")
-            elif groq_api_key == "your_groq_api_key_here":
-                logger.error("GROQ_API_KEY contains placeholder value 'your_groq_api_key_here'. Please update with a real API key in your .env file.")
-                raise ValueError("GROQ_API_KEY contains placeholder value. Please update with a real API key in your .env file.")
-
-            logger.info(f"Initializing Groq ChatModel with model={model_name}")
-            llm = ChatGroq(
-                model=model_name,
-                temperature=temperature,
-                streaming=stream,
-                groq_api_key=groq_api_key,
-                **kwargs
-            )
-
+        # Start with the default provider
+        if default_provider == LLMProvider.OPENAI:
+            default_model = os.getenv("OPENAI_MODEL", "gpt-4o")
+        elif default_provider == LLMProvider.GROQ:
+            default_model = os.getenv("GROQ_MODEL", "meta-llama/llama-4-scout-17b-16e-instruct")
+        elif default_provider == LLMProvider.EURON:
+            default_model = os.getenv("EURON_MODEL", "gpt-4.1-nano")
         else:  # OLLAMA
-            # Note: Ollama doesn't return a BaseChatModel but we're keeping the interface similar
-            logger.info(f"Initializing Ollama LLM with model={model_name}, base_url={settings.ollama_base_url}")
-            # Check if Ollama is accessible
-            import requests
-            try:
-                # Just check if the server is accessible
-                response = requests.get(f"{settings.ollama_base_url}/api/tags", timeout=5)
-                if response.status_code != 200:
-                    logger.warning(f"Ollama server returned status code {response.status_code}, it may not be functioning correctly.")
-            except requests.exceptions.ConnectionError:
-                logger.error(f"Could not connect to Ollama server at {settings.ollama_base_url}. Is Ollama running?")
-                # Continue anyway as the actual connection will happen later
+            default_model = settings.llm_model_name
 
-            llm = Ollama(
-                model=model_name,
-                temperature=temperature,
-                callback_manager=callback_manager,
-                base_url=settings.ollama_base_url,
-                **kwargs
-            )
+        providers_to_try.append((default_provider, default_model))
 
-        logger.info(f"Successfully initialized LLM: {provider.value}/{model_name}")
-        return llm
+        if fallback_on_rate_limit:
+            # Add other providers as fallbacks
+            for fallback_provider, fallback_model in provider_fallbacks:
+                if fallback_provider != default_provider:
+                    providers_to_try.append((fallback_provider, fallback_model))
 
-    except Exception as e:
-        import traceback
-        logger.error(f"Error initializing LLM: {type(e).__name__}: {str(e)}")
+    # Try providers in order until one succeeds
+    last_exception = None
+    for provider_to_try, model_to_try in providers_to_try:
+        try:
+            # If model_name was explicitly provided, use it instead of the fallback
+            if model_name is not None and provider_to_try == provider:
+                model_to_try = model_name
+
+            logger.info(f"Attempting to initialize LLM: Provider={provider_to_try.value}, Model={model_to_try}")
+
+            # Set up callback manager if streaming
+            callback_manager = None
+            if stream:
+                callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
+                logger.debug("Configured streaming callback handler")
+
+            # Create the language model based on provider
+            if provider_to_try == LLMProvider.OPENAI:
+                openai_api_key = os.getenv("OPENAI_API_KEY")
+                if not openai_api_key:
+                    logger.warning("OPENAI_API_KEY environment variable not set. Skipping OpenAI fallback.")
+                    continue
+
+                logger.info(f"Initializing OpenAI ChatModel with model={model_to_try}")
+                llm = ChatOpenAI(
+                    model=model_to_try,
+                    temperature=temperature,
+                    streaming=stream,
+                    openai_api_key=openai_api_key,
+                    **kwargs
+                )
+
+            elif provider_to_try == LLMProvider.GROQ:
+                groq_api_key = os.getenv("GROQ_API_KEY")
+                # Check if the API key is a placeholder value or missing
+                if not groq_api_key or groq_api_key == "your_groq_api_key_here":
+                    logger.warning("GROQ_API_KEY environment variable not set or contains placeholder. Skipping Groq fallback.")
+                    continue
+
+                logger.info(f"Initializing Groq ChatModel with model={model_to_try}")
+                # Note: Groq client doesn't support custom retry parameters directly
+                # We'll use the default retry behavior
+                llm = ChatGroq(
+                    model=model_to_try,
+                    temperature=temperature,
+                    streaming=stream,
+                    groq_api_key=groq_api_key,
+                    max_retries=5,  # Maximum 5 retries for rate limits
+                    **kwargs
+                )
+
+            elif provider_to_try == LLMProvider.EURON:
+                euron_api_key = os.getenv("EURON_API_KEY")
+                # Check if the API key is missing
+                if not euron_api_key:
+                    logger.warning("EURON_API_KEY environment variable not set. Skipping Euron fallback.")
+                    continue
+
+                logger.info(f"Initializing Euron ChatModel with model={model_to_try}")
+                llm = ChatEuron(
+                    model=model_to_try,
+                    temperature=temperature,
+                    api_key=euron_api_key,
+                    max_retries=3,  # Maximum 3 retries for rate limits
+                    timeout=120,    # 2-minute timeout
+                    **kwargs
+                )
+
+            else:  # OLLAMA
+                # Note: Ollama doesn't return a BaseChatModel but we're keeping the interface similar
+                logger.info(f"Initializing Ollama LLM with model={model_to_try}, base_url={settings.ollama_base_url}")
+                # Check if Ollama is accessible
+                import requests
+                try:
+                    # Just check if the server is accessible
+                    response = requests.get(f"{settings.ollama_base_url}/api/tags", timeout=5)
+                    if response.status_code != 200:
+                        logger.warning(f"Ollama server returned status code {response.status_code}, it may not be functioning correctly. Skipping Ollama fallback.")
+                        continue
+                except requests.exceptions.ConnectionError:
+                    logger.warning(f"Could not connect to Ollama server at {settings.ollama_base_url}. Skipping Ollama fallback.")
+                    continue
+
+                llm = Ollama(
+                    model=model_to_try,
+                    temperature=temperature,
+                    callback_manager=callback_manager,
+                    base_url=settings.ollama_base_url,
+                    **kwargs
+                )
+
+            logger.info(f"Successfully initialized LLM: {provider_to_try.value}/{model_to_try}")
+            return llm
+
+        except Exception as e:
+            import traceback
+            logger.warning(f"Error initializing LLM with provider {provider_to_try.value}: {type(e).__name__}: {str(e)}")
+            logger.debug(f"Traceback for {provider_to_try.value} error: {traceback.format_exc()}")
+            last_exception = e
+
+            # Check if this is a rate limit error and we should try the next provider
+            if "429" in str(e) or "rate limit" in str(e).lower() or "too many requests" in str(e).lower():
+                logger.warning(f"Rate limit error detected with provider {provider_to_try.value}. Trying next provider if available.")
+                continue
+
+    # If we get here, all providers failed
+    import traceback
+    logger.error("All LLM providers failed to initialize")
+    if last_exception:
+        logger.error(f"Last error: {type(last_exception).__name__}: {str(last_exception)}")
         logger.error(f"Traceback: {traceback.format_exc()}")
-        raise
+        raise ValueError(f"All LLM providers failed to initialize. Last error: {str(last_exception)}") from last_exception
+    else:
+        raise ValueError("All LLM providers failed to initialize for unknown reasons")
 
 
 def generate_text(
@@ -210,7 +286,7 @@ def generate_text(
     logger.info(f"Generating text with prompt: {prompt[:50]}...")
 
     # Handle different model types
-    if isinstance(llm, (ChatOpenAI, ChatGroq)):
+    if isinstance(llm, (ChatOpenAI, ChatGroq, ChatEuron)):
         messages = []
         if system_prompt:
             messages.append(SystemMessage(content=system_prompt))

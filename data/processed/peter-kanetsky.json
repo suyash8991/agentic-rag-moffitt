@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/peter-kanetsky",
-  "last_updated": "2025-10-13T21:43:18.851338",
+  "last_updated": "2025-10-14T22:03:55.732982",
   "researcher_id": "13006",
   "name": "",
   "degrees": [
@@ -134,5 +134,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=13006"
   },
-  "content_hash": "2204e5ecc4f46927d23ce1935e42d9045a92c9c34d8088e4c8c923dbfe4358ce"
+  "content_hash": "ca5743c9fe5eb23c857a96bd6c71ef707fcbe4f8f4f4341e0de9002ca2c44f42",
+  "researcher_name": "Peter Kanetsky"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/eric-padron",
-  "last_updated": "2025-10-13T21:45:30.211691",
+  "last_updated": "2025-10-14T22:06:25.107390",
   "researcher_id": "7709",
   "name": "",
   "degrees": [
@@ -69,6 +69,13 @@
       "authors": ""
     },
     {
+      "title": "Polverelli N, Hernandez-Boluda JC, Onida F, Gurnari C, Raj K, Czerw T, Kenyon M, Robin M, Sockel K, Ruggeri A, S\u00e1nchez-Ortega I, Arber DA, Arcaini L, Duarte FB, Battipaglia G, Chalandon Y, Ciceri F, Cross NCP, Drozd-Sokolowska J, Funke VAM, Gagelmann N, Gangat N, Gotlib J, Guglielmelli P, Harrison CN, Hobbs GS, Jain T, Khoury JD, Kiladjian JJ, Kr\u00f6ger N, Malcovati L, Martino M, Mesa R, Orazi A, Padron E, Palandri F, Passamonti F, Patnaik MM, Pemmaraju N, Radia DH, Reiter A, Russo D, Scheid C, Tefferi A, Vannucchi AM, Wiseman DH, Yakoub-Agha I, McLornan DP. Role of allo-HCT in \"nonclassical\" MPNs and MDS/MPNs: recommendations from the PH&G Committee and the CMWP of the EBMT. Blood",
+      "pubmed_id": "40106773",
+      "year": "2025",
+      "journal": "145(22):2561-2573",
+      "authors": ""
+    },
+    {
       "title": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS. Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm. Blood Neoplasia",
       "pubmed_id": "40453136",
       "pmc_id": "PMC12067887",
@@ -77,10 +84,11 @@
       "authors": ""
     },
     {
-      "title": "Polverelli N, Hernandez-Boluda JC, Onida F, Gurnari C, Raj K, Czerw T, Kenyon M, Robin M, Sockel K, Ruggeri A, S\u00e1nchez-Ortega I, Arber DA, Arcaini L, Duarte FB, Battipaglia G, Chalandon Y, Ciceri F, Cross NCP, Drozd-Sokolowska J, Funke VAM, Gagelmann N, Gangat N, Gotlib J, Guglielmelli P, Harrison CN, Hobbs GS, Jain T, Khoury JD, Kiladjian JJ, Kr\u00f6ger N, Malcovati L, Martino M, Mesa R, Orazi A, Padron E, Palandri F, Passamonti F, Patnaik MM, Pemmaraju N, Radia DH, Reiter A, Russo D, Scheid C, Tefferi A, Vannucchi AM, Wiseman DH, Yakoub-Agha I, McLornan DP. Role of allo-HCT in \"nonclassical\" MPNs and MDS/MPNs: recommendations from the PH&G Committee and the CMWP of the EBMT. Blood",
-      "pubmed_id": "40106773",
+      "title": "Borate U, Pugh K, Waller A, Welkie RL, Huang Y, Bewersdorf JP, Stahl M, DeZern AE, Platzbecker U, Sekeres MA, Wei AH, Buckstein RJ, Roboz GJ, Savona MR, Loghavi S, Hasserjian RP, Fenaux P, Sallman DA, Hourigan CS, Della Porta MG, Nimer S, Little RF, Santini V, Efficace F, Taylor J, Garcia-Manero G, Odenike O, Kim TK, Halene S, Komrokji RS, Griffiths EA, Greenberg PL, Xu ML, Xie Z, Bejar R, Sanz GF, Patnaik MM, Figueroa M, Carraway HE, Abdel-Wahab O, Starczynowski D, Padron E, Boultwood J, Gore S, Daver NG, Churpek JE, Majeti R, Bennett JM, List AF, Brunner AM, Zeidan AM. Reducing clinical trial eligibility barriers for patients with MDS: an icMDS position statement. Blood",
+      "pubmed_id": "40146152",
+      "pmc_id": "PMC11969261",
       "year": "2025",
-      "journal": "145(22):2561-2573",
+      "journal": "145(13):1369-1381",
       "authors": ""
     },
     {
@@ -88,14 +96,6 @@
       "pubmed_id": "39921921",
       "year": "2025",
       "journal": "150:107662",
-      "authors": ""
-    },
-    {
-      "title": "Borate U, Pugh K, Waller A, Welkie RL, Huang Y, Bewersdorf JP, Stahl M, DeZern AE, Platzbecker U, Sekeres MA, Wei AH, Buckstein RJ, Roboz GJ, Savona MR, Loghavi S, Hasserjian RP, Fenaux P, Sallman DA, Hourigan CS, Della Porta MG, Nimer S, Little RF, Santini V, Efficace F, Taylor J, Garcia-Manero G, Odenike O, Kim TK, Halene S, Komrokji RS, Griffiths EA, Greenberg PL, Xu ML, Xie Z, Bejar R, Sanz GF, Patnaik MM, Figueroa M, Carraway HE, Abdel-Wahab O, Starczynowski D, Padron E, Boultwood J, Gore S, Daver NG, Churpek JE, Majeti R, Bennett JM, List AF, Brunner AM, Zeidan AM. Reducing clinical trial eligibility barriers for patients with MDS: an icMDS position statement. Blood",
-      "pubmed_id": "40146152",
-      "pmc_id": "PMC11969261",
-      "year": "2025",
-      "journal": "145(13):1369-1381",
       "authors": ""
     },
     {
@@ -114,9 +114,10 @@
       "authors": ""
     },
     {
-      "title": "Kruer TL, Quintana-Gonzalez A, Newman HL, Ferrall-Fairbanks MC, Zhang L, McLemore AF, Neupane S, Yang Q, Ben-Crentsil NA, Balasis ME, Letson CT, Komrokji RS, Chaudhry S, Totiger TM, Traina JA, Figueroa ME, Ryder CB, Cluzeau T, Taylor J, Sallman DA, Padron E. XPO1 Drives Resistance to Eprenetapopt and Azacitidine and Can Be Targeted in TP53-Mutated Myeloid Malignancies. Blood",
-      "pubmed_id": "40737597",
+      "title": "Komrokji RS, Ammad-Ud-Din M, Ali NHA, Xie Z, Chan O, Kuykendall AT, Yun S, Walker AR, Lancet J, Padron E, Sallman DA. Hematological Response to Frontline Treatment in Lower Risk Myelodysplastic Syndromes (LRMDS) is Associated With Better Overall Survival. Clin Lymphoma Myeloma Leuk",
+      "pubmed_id": "40113545",
       "year": "2025",
+      "journal": "25(7):e487-e490",
       "authors": ""
     }
   ],
@@ -150,5 +151,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7709"
   },
-  "content_hash": "4781c47cc21b1a71a32e93bec248004f17e26bc085ae3237a721bb300e9e842c"
+  "content_hash": "1e84d14eb38a788e45d031b37e55707f312b01b59b58e218b7108f8750fd81f6",
+  "researcher_name": "Eric Padron"
 }

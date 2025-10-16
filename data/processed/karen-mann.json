@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/karen-mann",
-  "last_updated": "2025-10-13T21:42:46.334442",
+  "last_updated": "2025-10-14T22:03:24.687806",
   "researcher_id": "17771",
   "name": "",
   "degrees": [
@@ -132,5 +132,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17771"
   },
-  "content_hash": "db5d64860eaed6a86b37f271c3d4616d3fbe940b29809af1dfe1fe730396fc49"
+  "content_hash": "c0d2f0a8265f1b7e535f61025c73b6fe0d1c3df0451bfaf2e727cc8b7d19c22a",
+  "researcher_name": "Karen Mann"
 }

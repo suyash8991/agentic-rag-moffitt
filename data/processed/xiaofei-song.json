@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/xiaofei-song",
-  "last_updated": "2025-10-13T21:47:14.160913",
+  "last_updated": "2025-10-14T22:08:10.949514",
   "researcher_id": "32089",
   "name": "",
   "degrees": [
@@ -47,19 +47,19 @@
       "authors": ""
     },
     {
-      "title": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA. Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma. J Immunol",
-      "pubmed_id": "39120462",
-      "pmc_id": "PMC11404669",
-      "year": "2024",
-      "journal": "213(7):1033-1041",
-      "authors": ""
-    },
-    {
       "title": "Saba NF, Chaudhary R, Kirtane K, Marra A, Ekpenyong A, McCook-Veal A, Schmitt NC, Gross JH, Patel MR, Remick J, Bates JE, McDonald MW, Rudra SF, Stokes WA, Biernacki M, Song X, Slebos RJC, Liu Y, Steuer CE, Shin DM, Teng Y, Chung CH. Pembrolizumab and Cabozantinib in Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma: Long-term Survival Update with a Biomarker Analysis. Clin Cancer Res",
       "pubmed_id": "39167623",
       "pmc_id": "PMC11479816",
       "year": "2024",
       "journal": "30(20):4601-4608",
+      "authors": ""
+    },
+    {
+      "title": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA. Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma. J Immunol",
+      "pubmed_id": "39120462",
+      "pmc_id": "PMC11404669",
+      "year": "2024",
+      "journal": "213(7):1033-1041",
       "authors": ""
     },
     {
@@ -107,5 +107,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32089"
   },
-  "content_hash": "498629f0b74e8270a669e45610c5b0306c2481cb2bda0a693530c79f875cf781"
+  "content_hash": "c5dd7c3713f6052b6bdc20ae8c1c7928fc212e659266eccae7da12df857f1d2e",
+  "researcher_name": "Xiaofei Song"
 }

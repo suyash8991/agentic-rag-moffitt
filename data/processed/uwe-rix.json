@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/uwe-rix",
-  "last_updated": "2025-10-13T21:45:24.693603",
+  "last_updated": "2025-10-14T22:06:16.251952",
   "researcher_id": "10126",
   "name": "",
   "degrees": [
@@ -155,5 +155,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10126"
   },
-  "content_hash": "5e0437ddd7e164339c546c74f022c18fa468340682a927f4be5e631814b15cb1"
+  "content_hash": "6940ddaa9b2adad265f118dcddb3f13e1af66d8d31041a14ba7146ee77ef645b",
+  "researcher_name": "Uwe Rix"
 }

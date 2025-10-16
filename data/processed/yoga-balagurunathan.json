@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/yoga-balagurunathan",
-  "last_updated": "2025-10-13T21:42:00.468913",
+  "last_updated": "2025-10-14T22:02:35.764497",
   "researcher_id": "11050",
   "name": "",
   "degrees": [
@@ -31,17 +31,17 @@
   ],
   "publications": [
     {
-      "title": "Abudalou S, Choi J, Gage K, Pow-Sang J, Yilmaz Y, Balagurunathan Y. Challenges in Using Deep Neural Networks Across Multiple Readers in Delineating Prostate Gland Anatomy. J Imaging Inform Med",
-      "pubmed_id": "40392414",
-      "year": "2025",
-      "authors": ""
-    },
-    {
       "title": "Balagurunathan Y, Choi JW, Thompson Z, Jain M, Locke FL. Radiomic Features Prognosticate Treatment Response in CAR-T Cell Therapy. Cancers (Basel)",
       "pubmed_id": "40507312",
       "pmc_id": "PMC12153729",
       "year": "2025",
       "journal": "17(11)",
+      "authors": ""
+    },
+    {
+      "title": "Abudalou S, Choi J, Gage K, Pow-Sang J, Yilmaz Y, Balagurunathan Y. Challenges in Using Deep Neural Networks Across Multiple Readers in Delineating Prostate Gland Anatomy. J Imaging Inform Med",
+      "pubmed_id": "40392414",
+      "year": "2025",
       "authors": ""
     },
     {
@@ -67,18 +67,18 @@
       "authors": ""
     },
     {
-      "title": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL. Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes. Blood",
-      "pubmed_id": "39652773",
-      "year": "2025",
-      "journal": "145(15):1645-1657",
-      "authors": ""
-    },
-    {
       "title": "Patel MS, Almubarak M, Matta J, Ortiz-Sanchez C, Encarnacion J, Ruiz-Deya G, Dutil J, Dhillon J, Yamoah K, Berglund A, Park H, Kilari D, Balagurunathan Y, Wang L, Park JY. 5hmC-profiles in Puerto Rican Hispanic/Latino men with aggressive prostate cancer. Front Oncol",
       "pubmed_id": "40265030",
       "pmc_id": "PMC12011585",
       "year": "2025",
       "journal": "15:1541878",
+      "authors": ""
+    },
+    {
+      "title": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL. Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes. Blood",
+      "pubmed_id": "39652773",
+      "year": "2025",
+      "journal": "145(15):1645-1657",
       "authors": ""
     },
     {
@@ -115,5 +115,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=11050"
   },
-  "content_hash": "41f2fc63b85bec353b15c26ffb546e478c2a8ef2ec9da26429fa80b2aef01040"
+  "content_hash": "789504afda155d1eae0c6e698189dea1bea03b80863fe2468b6b06e910229af5",
+  "researcher_name": "Yoga Balagurunathan"
 }

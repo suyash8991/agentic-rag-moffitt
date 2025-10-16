@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/dung-tsa-chen",
-  "last_updated": "2025-10-13T21:44:29.194447",
+  "last_updated": "2025-10-14T22:04:59.781917",
   "researcher_id": "3829",
   "name": "",
   "degrees": [
@@ -41,18 +41,18 @@
       "authors": ""
     },
     {
-      "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
-      "pubmed_id": "40341231",
-      "year": "2025",
-      "journal": "6(5):801-819",
-      "authors": ""
-    },
-    {
       "title": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD. Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida. Cancer Res Commun",
       "pubmed_id": "40309949",
       "pmc_id": "PMC12082392",
       "year": "2025",
       "journal": "5(5):804-813",
+      "authors": ""
+    },
+    {
+      "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
+      "pubmed_id": "40341231",
+      "year": "2025",
+      "journal": "6(5):801-819",
       "authors": ""
     },
     {
@@ -123,5 +123,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3829"
   },
-  "content_hash": "036e9a5f524d13fceb48e951f8a543199368d0aa2841f8776a54948d876e622f"
+  "content_hash": "3ec9191b57c1adfefd34e770223358a40be3a7756a8433a3ae3481aa90d09ab7",
+  "researcher_name": "Dung Tsa Chen"
 }

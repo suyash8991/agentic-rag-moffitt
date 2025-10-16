@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/natarajan-raghunand",
-  "last_updated": "2025-10-13T21:44:48.387025",
+  "last_updated": "2025-10-14T22:05:23.581119",
   "researcher_id": "14306",
   "name": "",
   "degrees": [
@@ -119,5 +119,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14306"
   },
-  "content_hash": "eca321bf16ab7c0d9deafd6a8bf12155c4eb7b0b8b08ba6bd31fa78350d83b68"
+  "content_hash": "a0826848e262d6b44ebb9be869db2c1689c549cbad80f77ddba525e56752adc0",
+  "researcher_name": "Natarajan Raghunand"
 }

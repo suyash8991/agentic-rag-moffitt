@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/joe-kissil",
-  "last_updated": "2025-10-13T21:42:06.285093",
+  "last_updated": "2025-10-14T22:02:43.273187",
   "researcher_id": "28058",
   "name": "",
   "degrees": [
@@ -125,5 +125,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28058"
   },
-  "content_hash": "59c9fd3ec2552b829b31459959ee812fed9cbf7594640b757ddcc121d2e298f7"
+  "content_hash": "14b4897481fe745afd89dd8e98894a7d66f5d5a30d49f084c543f2060d231e2c",
+  "researcher_name": "Joe Kissil"
 }

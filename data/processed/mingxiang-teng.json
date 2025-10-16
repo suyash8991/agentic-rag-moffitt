@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mingxiang-teng",
-  "last_updated": "2025-10-13T21:40:58.352142",
+  "last_updated": "2025-10-14T22:01:22.803615",
   "researcher_id": "22424",
   "name": "",
   "degrees": [
@@ -135,5 +135,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22424"
   },
-  "content_hash": "9369987ae1777bd7fb2d7176108f4dbd9743e89b8c5d86581488e7e1ebe43b40"
+  "content_hash": "ea341ede5995b5004ed2b67fa8c3e3b1f3c8b03d73e5db07d616de5059f7b60c",
+  "researcher_name": "Mingxiang Teng"
 }

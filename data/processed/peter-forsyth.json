@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/peter-forsyth",
-  "last_updated": "2025-10-13T21:46:24.828585",
+  "last_updated": "2025-10-14T22:07:22.216454",
   "researcher_id": "8808",
   "name": "",
   "degrees": [
@@ -92,19 +92,19 @@
       "authors": ""
     },
     {
-      "title": "Mokhtari S, Asquith JM, Kareem SS, Bachmeier CA, Pina Y, Faramand RG, Kim Y, Peguero EN, Sahebjam S, Jaffer MH, Iacono DP, Jain MD, Vogelbaum MA, Davila ML, Forsyth PA, Locke FL, Lazaryan A. Intravenous Immunoglobulin (IVIG) for Patients with Severe Neurotoxicity Associated with Chimeric Antigen Receptor T-Cell (CAR-T) Therapy. Int J Mol Sci",
-      "pubmed_id": "40332772",
-      "pmc_id": "PMC12028060",
-      "year": "2025",
-      "journal": "26(8)",
-      "authors": ""
-    },
-    {
       "title": "Huang RY, Youssef G, Nelson T, Wen PY, Forsyth P, Hodi FS, Margolin K, Algazi AP, Hamid O, Lao CD, Ernstoff MS, Moschos SJ, Atkins MB, Postow MA, Reardon DA, Grootendorst DJ, Leung D, Askelson M, Ritchings C, Tawbi HA. Comparative Analysis of Intracranial Response Assessment Criteria in Patients With Melanoma Brain Metastases Treated With Combination Nivolumab + Ipilimumab in CheckMate 204. J Clin Oncol",
       "pubmed_id": "39752606",
       "pmc_id": "PMC11949218",
       "year": "2025",
       "journal": "43(10):1210-1218",
+      "authors": ""
+    },
+    {
+      "title": "Mokhtari S, Asquith JM, Kareem SS, Bachmeier CA, Pina Y, Faramand RG, Kim Y, Peguero EN, Sahebjam S, Jaffer MH, Iacono DP, Jain MD, Vogelbaum MA, Davila ML, Forsyth PA, Locke FL, Lazaryan A. Intravenous Immunoglobulin (IVIG) for Patients with Severe Neurotoxicity Associated with Chimeric Antigen Receptor T-Cell (CAR-T) Therapy. Int J Mol Sci",
+      "pubmed_id": "40332772",
+      "pmc_id": "PMC12028060",
+      "year": "2025",
+      "journal": "26(8)",
       "authors": ""
     },
     {
@@ -116,10 +116,11 @@
       "authors": ""
     },
     {
-      "title": "Law V, Smalley I, Evernden BR, Baldwin M, Smalley KSM, Forsyth PA. Ex Vivo Culture of Circulating Tumor Cells in the Cerebral Spinal Fluid from Melanoma Patients to Study Melanoma-Associated Leptomeningeal Disease. J Vis Exp",
-      "pubmed_id": "38619274",
+      "title": "Wallace G, Kundalia R, Vallebuona E, Cao B, Kim Y, Forsyth P, Soyano A, Smalley I, Pina Y. Factors associated with overall survival in breast cancer patients with leptomeningeal disease (LMD): a single institutional retrospective review. Breast Cancer Res",
+      "pubmed_id": "38553702",
+      "pmc_id": "PMC10979566",
       "year": "2024",
-      "journal": "(205)",
+      "journal": "26(1):55",
       "authors": ""
     }
   ],
@@ -150,5 +151,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=8808"
   },
-  "content_hash": "6bb719120798014c0a3ab559990516a9dc8870e4c39e587107e603848d84357d"
+  "content_hash": "e3aab5bace48b1655fb955556c0e2b233360dadec86c2e489ee9212e6416b11e",
+  "researcher_name": "Peter Forsyth"
 }

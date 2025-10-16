@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/noemi-andor",
-  "last_updated": "2025-10-13T21:41:28.261908",
+  "last_updated": "2025-10-14T22:01:55.991033",
   "researcher_id": "24447",
   "name": "",
   "degrees": [
@@ -133,5 +133,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24447"
   },
-  "content_hash": "8e49ccf8a7ccfb5f9fbde9c1cc96504a65f8eed9f8a5a5ea91cb2cb5d5c477b9"
+  "content_hash": "05eae001002a2c83bb448b64883510f37c90f81675366a54d8bac6ba173e9a39",
+  "researcher_name": "Noemi Andor"
 }

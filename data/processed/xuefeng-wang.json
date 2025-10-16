@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/xuefeng-wang",
-  "last_updated": "2025-10-13T21:47:17.754724",
+  "last_updated": "2025-10-14T22:08:14.176172",
   "researcher_id": "17269",
   "name": "",
   "degrees": [
@@ -51,6 +51,14 @@
       "authors": ""
     },
     {
+      "title": "Wang X, Li T, Slebos RJC, Chaudhary R, Guevara-Patino JA, Bonomi M, Saba NF, Chung CH. Clinical significance of peripheral T-cell repertoire in head and neck squamous cell carcinoma treated with cetuximab and nivolumab. Cancer Immunol Immun",
+      "pubmed_id": "40056190",
+      "pmc_id": "PMC11890688",
+      "year": "2025",
+      "journal": "74(4):142",
+      "authors": ""
+    },
+    {
       "title": "Rajagopal PS, Reid S, Fan R, Venton L, Weidner A, Roberson ML, Vadaparampil S, Wang X, Yoder S, Rosa M, Sanders M, Gonzalez-Ericsson P, Hirbo J, Whisenant JG, Pietenpol J, Ye F, Pal T, Lehmann BD. Population-specific patterns in assessing molecular subtypes of young black females with triple-negative breast cancer. NPJ Breast Cancer",
       "pubmed_id": "40069179",
       "pmc_id": "PMC11897140",
@@ -71,14 +79,6 @@
       "pubmed_id": "40235478",
       "pmc_id": "PMC11998770",
       "year": "2025",
-      "authors": ""
-    },
-    {
-      "title": "Wang X, Li T, Slebos RJC, Chaudhary R, Guevara-Patino JA, Bonomi M, Saba NF, Chung CH. Clinical significance of peripheral T-cell repertoire in head and neck squamous cell carcinoma treated with cetuximab and nivolumab. Cancer Immunol Immun",
-      "pubmed_id": "40056190",
-      "pmc_id": "PMC11890688",
-      "year": "2025",
-      "journal": "74(4):142",
       "authors": ""
     },
     {
@@ -123,5 +123,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17269"
   },
-  "content_hash": "a9852b8682e0872d3d71dc588fa3b8d715bec644355d48598cdbcccca020c41a"
+  "content_hash": "a50bedb66badc1ada9f2d287ad310b08a951c977eb8a31597c17ce0d96a14007",
+  "researcher_name": "Xuefeng Wang"
 }

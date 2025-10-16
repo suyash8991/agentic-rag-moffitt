@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/florian-karreth",
-  "last_updated": "2025-10-13T21:42:41.528215",
+  "last_updated": "2025-10-14T22:03:21.395199",
   "researcher_id": "17021",
   "name": "",
   "degrees": [
@@ -156,5 +156,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17021"
   },
-  "content_hash": "792d66a7d76e40d1caf0d657fc18dbec2e7188effe5b4ad44c3aa5f396c1c0da"
+  "content_hash": "2dc879cfab239911de7895d197460b437e97a1115e9f90adb6c6162c57fa869a",
+  "researcher_name": "Florian Karreth"
 }

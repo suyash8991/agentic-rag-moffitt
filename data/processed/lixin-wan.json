@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/lixin-wan",
-  "last_updated": "2025-10-13T21:46:07.209619",
+  "last_updated": "2025-10-14T22:07:01.781769",
   "researcher_id": "16495",
   "name": "",
   "degrees": [
@@ -93,19 +93,19 @@
       "authors": ""
     },
     {
-      "title": "Liu J, Peng Y, Shi L, Wan L, Inuzuka H, Long J, Guo J, Zhang J, Yuan M, Zhang S, Wang X, Gao J, Dai X, Furumoto S, Jia L, Pandolfi PP, Asara JM, Kaelin WG, Liu J, Wei W. Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle. Cell Res",
-      "pubmed_id": "32669607",
-      "pmc_id": "PMC7852548",
-      "year": "2021",
-      "journal": "31(1):80-93",
-      "authors": ""
-    },
-    {
       "title": "Liu J, Peng Y, Shi L, Wan L, Inuzuka H, Long J, Guo J, Zhang J, Yuan M, Zhang S, Wang X, Gao J, Dai X, Furumoto S, Jia L, Pandolfi PP, Asara JM, Kaelin WG, Liu J, Wei W. Author Correction: Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle. Cell Res",
       "pubmed_id": "32859994",
       "pmc_id": "PMC7852582",
       "year": "2021",
       "journal": "31(1):104",
+      "authors": ""
+    },
+    {
+      "title": "Liu J, Peng Y, Shi L, Wan L, Inuzuka H, Long J, Guo J, Zhang J, Yuan M, Zhang S, Wang X, Gao J, Dai X, Furumoto S, Jia L, Pandolfi PP, Asara JM, Kaelin WG, Liu J, Wei W. Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle. Cell Res",
+      "pubmed_id": "32669607",
+      "pmc_id": "PMC7852548",
+      "year": "2021",
+      "journal": "31(1):80-93",
       "authors": ""
     }
   ],
@@ -126,5 +126,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16495"
   },
-  "content_hash": "96172e39cca57f365589c94c370e062a98a5ed118d1b9f1f9884ee16f7a0b78f"
+  "content_hash": "7e0f31bf11db00aa15e02f2e53e2292a37476361e2ea2fc4f8993d3e9cddc180",
+  "researcher_name": "Lixin Wan"
 }

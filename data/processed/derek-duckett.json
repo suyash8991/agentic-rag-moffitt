@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/derek-duckett",
-  "last_updated": "2025-10-13T21:44:51.050799",
+  "last_updated": "2025-10-14T22:05:27.005046",
   "researcher_id": "22470",
   "name": "",
   "degrees": [
@@ -145,5 +145,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22470"
   },
-  "content_hash": "28eebc87ebe4b84d8c5058321fe299793388b9ea469b41c6ca6c67138d5fc638"
+  "content_hash": "f4da574fda8419cb0db91c67e09ddcbe13d6688384ed5d1ffb579bccfea2489b",
+  "researcher_name": "Derek Duckett"
 }

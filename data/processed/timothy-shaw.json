@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/timothy-shaw",
-  "last_updated": "2025-10-13T21:47:11.119080",
+  "last_updated": "2025-10-14T22:08:07.631139",
   "researcher_id": "28108",
   "name": "",
   "degrees": [
@@ -65,6 +65,14 @@
       "authors": ""
     },
     {
+      "title": "Yao S, Li T, Davis JT, Shaw TI, Yu X, Wang X. SmartImpute is a targeted imputation framework for single-cell transcriptome data. Cell Rep Methods",
+      "pubmed_id": "40763742",
+      "pmc_id": "PMC12461658",
+      "year": "2025",
+      "journal": "5(8):101122",
+      "authors": ""
+    },
+    {
       "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
       "pubmed_id": "40845845",
       "year": "2025",
@@ -76,14 +84,6 @@
       "pmc_id": "PMC12316551",
       "year": "2025",
       "journal": "31(15):3249-3258",
-      "authors": ""
-    },
-    {
-      "title": "Yao S, Li T, Davis JT, Shaw TI, Yu X, Wang X. SmartImpute is a targeted imputation framework for single-cell transcriptome data. Cell Rep Methods",
-      "pubmed_id": "40763742",
-      "pmc_id": "PMC12461658",
-      "year": "2025",
-      "journal": "5(8):101122",
       "authors": ""
     },
     {
@@ -124,5 +124,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28108"
   },
-  "content_hash": "864b0b7c65ae104e41f4f9a91c413d55e5d4a413eef8112c4483793f8ca356bb"
+  "content_hash": "e406609ca31f3921fa079aabf4deb616683a312336b9285080dc11ea01a69217",
+  "researcher_name": "Timothy Shaw"
 }

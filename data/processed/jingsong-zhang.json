@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jingsong-zhang",
-  "last_updated": "2025-10-13T21:45:38.825448",
+  "last_updated": "2025-10-14T22:06:32.826874",
   "researcher_id": "7285",
   "name": "",
   "degrees": [
@@ -130,5 +130,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7285"
   },
-  "content_hash": "ee67e80de638ac1f1fd500243385f9444fb9c42029d2e6e1bf9a4e41ce26ce33"
+  "content_hash": "596c8281d8f56b02a533f7fb32a2821eef7bb5346d4e9abe06eeb6c912f8acc5",
+  "researcher_name": "Jingsong Zhang"
 }

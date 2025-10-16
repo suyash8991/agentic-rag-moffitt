@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/frederick-locke",
-  "last_updated": "2025-10-13T21:47:26.757176",
+  "last_updated": "2025-10-14T22:08:23.289823",
   "researcher_id": "7878",
   "name": "",
   "degrees": [
@@ -64,14 +64,6 @@
       "authors": ""
     },
     {
-      "title": "Balagurunathan Y, Choi JW, Thompson Z, Jain M, Locke FL. Radiomic Features Prognosticate Treatment Response in CAR-T Cell Therapy. Cancers (Basel)",
-      "pubmed_id": "40507312",
-      "pmc_id": "PMC12153729",
-      "year": "2025",
-      "journal": "17(11)",
-      "authors": ""
-    },
-    {
       "title": "Hansen DK, Peres LC, Dima D, Richards A, Shune L, Afrough A, Midha S, Dhakal B, Kocoglu MH, Atrash S, Ferreri C, Castaneda O, Davis JA, Bhurtel E, McGuirk J, Wagner C, Bansal R, Costello P, Smith K, Lieberman-Cribbin A, De Avila G, Purvey S, Hosoya H, Mikkilineni L, Oswald LB, Kaur G, Pasvolsky O, Gaballa M, Herr MM, Forsberg P, Janakiram M, Htut M, Asoori Maringanti S, Kalariya N, Hashmi H, Reshef R, Sborov DW, Nadeem O, Anwer F, Khouri J, Raza S, Atanackovic D, Alsina M, Freeman CL, Locke FL, Voorhees P, Anderson LD, Richard S, Martin T, Lin Y, Patel KK, Sidana S. Comparison of Standard-of-Care Idecabtagene Vicleucel and Ciltacabtagene Autoleucel in Relapsed/Refractory Multiple Myeloma. J Clin Oncol",
       "pubmed_id": "39965175",
       "pmc_id": "PMC12037312",
@@ -88,11 +80,11 @@
       "authors": ""
     },
     {
-      "title": "Locke FL, Munoz JL, Tees MT, Lekakis LJ, de Vos S, Nath R, Stevens DA, Malik SA, Shouse GP, Hamadani M, Oluwole OO, Perales MA, Miklos DB, Fisher PW, Feng A, Navale L, Le Gall JB, Neelapu SS. Allogeneic Chimeric Antigen Receptor T-Cell Products Cemacabtagene Ansegedleucel/ALLO-501 in Relapsed/Refractory Large B-Cell Lymphoma: Phase I Experience From the ALPHA2/ALPHA Clinical Studies. J Clin Oncol",
-      "pubmed_id": "39946666",
-      "pmc_id": "PMC12058369",
+      "title": "Balagurunathan Y, Choi JW, Thompson Z, Jain M, Locke FL. Radiomic Features Prognosticate Treatment Response in CAR-T Cell Therapy. Cancers (Basel)",
+      "pubmed_id": "40507312",
+      "pmc_id": "PMC12153729",
       "year": "2025",
-      "journal": "43(14):1695-1705",
+      "journal": "17(11)",
       "authors": ""
     },
     {
@@ -108,6 +100,14 @@
       "pubmed_id": "40025178",
       "year": "2025",
       "journal": "60(5):632-639",
+      "authors": ""
+    },
+    {
+      "title": "Locke FL, Munoz JL, Tees MT, Lekakis LJ, de Vos S, Nath R, Stevens DA, Malik SA, Shouse GP, Hamadani M, Oluwole OO, Perales MA, Miklos DB, Fisher PW, Feng A, Navale L, Le Gall JB, Neelapu SS. Allogeneic Chimeric Antigen Receptor T-Cell Products Cemacabtagene Ansegedleucel/ALLO-501 in Relapsed/Refractory Large B-Cell Lymphoma: Phase I Experience From the ALPHA2/ALPHA Clinical Studies. J Clin Oncol",
+      "pubmed_id": "39946666",
+      "pmc_id": "PMC12058369",
+      "year": "2025",
+      "journal": "43(14):1695-1705",
       "authors": ""
     },
     {
@@ -153,5 +153,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7878"
   },
-  "content_hash": "bda1cb8f1b7a4c50b2ddb36e3a2379ae82abf762297a4c0de34269ce0caa35d1"
+  "content_hash": "48afd9c5cb0adf128566540d40ca1048bcb45c51dee162ffc1b26d057c207c8c",
+  "researcher_name": "Frederick Locke"
 }

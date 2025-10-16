@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/alexander-anderson",
-  "last_updated": "2025-10-13T21:41:25.681645",
+  "last_updated": "2025-10-14T22:01:52.595040",
   "researcher_id": "4617",
   "name": "",
   "degrees": [
@@ -138,5 +138,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4617"
   },
-  "content_hash": "23227ba2da74122b893ea244730806fc6f3099ba4ba70e2880e250f96c6c6bb2"
+  "content_hash": "3831f468a9e49ab725de7e4a9597f65be45facc69133de17dd70a63494e6118a",
+  "researcher_name": "Alexander Anderson"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/gina-denicola",
-  "last_updated": "2025-10-13T21:41:06.294428",
+  "last_updated": "2025-10-14T22:01:30.157976",
   "researcher_id": "17020",
   "name": "",
   "degrees": [
@@ -124,5 +124,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17020"
   },
-  "content_hash": "7ba5a7375224562c0b90f9a802ecd1f36cb8cf99c23fff6b91dda438b88308fb"
+  "content_hash": "49f99df3dbeb26070bdefe76b89d2fe8bdece786714284a68b68fa790bfd0b09",
+  "researcher_name": "Gina Denicola"
 }

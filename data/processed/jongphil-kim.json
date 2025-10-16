@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jongphil-kim",
-  "last_updated": "2025-10-13T21:47:05.825734",
+  "last_updated": "2025-10-14T22:08:04.061362",
   "researcher_id": "4228",
   "name": "",
   "degrees": [
@@ -116,5 +116,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4228"
   },
-  "content_hash": "b850f65d094331ff64667d32e6c7090e10c41d97ece2abd2174d04d84a77934d"
+  "content_hash": "045f5b542e47bc7a90e81fd05a763f67528159d0673e24dda744dbdb40bd0a38",
+  "researcher_name": "Jongphil Kim"
 }

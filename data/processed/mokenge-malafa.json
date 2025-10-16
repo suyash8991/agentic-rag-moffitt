@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mokenge-malafa",
-  "last_updated": "2025-10-13T21:45:13.700405",
+  "last_updated": "2025-10-14T22:06:00.240199",
   "researcher_id": "2725",
   "name": "",
   "degrees": [
@@ -86,18 +86,18 @@
       "authors": ""
     },
     {
+      "title": "Rauth S, Malafa M, Ponnusamy MP, Batra SK. Emerging Trends in Gastrointestinal Cancer Targeted Therapies: Harnessing Tumor Microenvironment, Immune Factors, and Metabolomics Insights. Gastroenterology",
+      "pubmed_id": "38759843",
+      "year": "2024",
+      "journal": "167(5):867-884",
+      "authors": ""
+    },
+    {
       "title": "Rodriguez VI, Mammadova J, Permuth JB, Luthra A, Pena L, Friedman M, Dam A, Cappelle S, Malafa MP, Hallmon C, Miranda C, Mok SRS. Elevated Urinary Levels of Fungal and Environmental Toxins in Patients with Pancreatic Ductal Adenocarcinoma. J Gastrointest Cancer",
       "pubmed_id": "39419859",
       "pmc_id": "PMC11486816",
       "year": "2024",
       "journal": "56(1):4",
-      "authors": ""
-    },
-    {
-      "title": "Rauth S, Malafa M, Ponnusamy MP, Batra SK. Emerging Trends in Gastrointestinal Cancer Targeted Therapies: Harnessing Tumor Microenvironment, Immune Factors, and Metabolomics Insights. Gastroenterology",
-      "pubmed_id": "38759843",
-      "year": "2024",
-      "journal": "167(5):867-884",
       "authors": ""
     },
     {
@@ -142,5 +142,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2725"
   },
-  "content_hash": "d511a5da9944afb8ec7edad6de1268663e7eec2ffae45a4e2e64e1c64433a014"
+  "content_hash": "30ce3898e0ad26a8aa18236313d09e30a51dae9ed13349d7a4a6b79186195d63",
+  "researcher_name": "Mokenge Malafa"
 }

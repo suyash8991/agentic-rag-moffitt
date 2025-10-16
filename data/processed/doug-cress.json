@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/doug-cress",
-  "last_updated": "2025-10-13T21:42:17.645521",
+  "last_updated": "2025-10-14T22:02:59.673668",
   "researcher_id": "501",
   "name": "",
   "degrees": [
@@ -32,19 +32,19 @@
   ],
   "publications": [
     {
-      "title": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL. Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles. Cancer Res",
-      "pubmed_id": "40126181",
-      "pmc_id": "PMC12234169",
-      "year": "2025",
-      "journal": "85(10):1928-1944",
-      "authors": ""
-    },
-    {
       "title": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD. Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida. Cancer Res Commun",
       "pubmed_id": "40309949",
       "pmc_id": "PMC12082392",
       "year": "2025",
       "journal": "5(5):804-813",
+      "authors": ""
+    },
+    {
+      "title": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL. Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles. Cancer Res",
+      "pubmed_id": "40126181",
+      "pmc_id": "PMC12234169",
+      "year": "2025",
+      "journal": "85(10):1928-1944",
       "authors": ""
     },
     {
@@ -131,5 +131,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=501"
   },
-  "content_hash": "51745470cc65d01d01922aba45013ece047477a01426eac2c8fa003b821013fe"
+  "content_hash": "b3b8f34e94533adfbc33769531a3c3db0b541ecb6457c77ecdf8fadbe258555a",
+  "researcher_name": "Doug Cress"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jose-alejandro-guevara",
-  "last_updated": "2025-10-13T21:47:47.486420",
+  "last_updated": "2025-10-14T22:08:45.791376",
   "researcher_id": "29147",
   "name": "",
   "degrees": [
@@ -132,5 +132,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=29147"
   },
-  "content_hash": "f336ab0097f5296111f58b75476b02f31b759fec1a2b0aae658dd1fc70f7b0e9"
+  "content_hash": "93bc729f6fe153d35755a4634b7b26710fa4d256979c9bfbfd6a9fdc00091efb",
+  "researcher_name": "Jose Alejandro Guevara"
 }

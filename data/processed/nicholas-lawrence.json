@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/nicholas-lawrence",
-  "last_updated": "2025-10-13T21:45:05.723829",
+  "last_updated": "2025-10-14T22:05:47.646574",
   "researcher_id": "3160",
   "name": "",
   "degrees": [
@@ -119,5 +119,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3160"
   },
-  "content_hash": "6fbf6d167b1de8b769c451d3f94b93199b07a3ef5cfe56c3b328d6e61d44786d"
+  "content_hash": "b180eca1f45520c965de6b0f910a790b9a7ee7ccdca173170884d3f14c44b828",
+  "researcher_name": "Nicholas Lawrence"
 }

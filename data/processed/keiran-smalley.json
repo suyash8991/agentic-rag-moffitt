@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/keiran-smalley",
-  "last_updated": "2025-10-13T21:46:40.432514",
+  "last_updated": "2025-10-14T22:07:38.907529",
   "researcher_id": "4585",
   "name": "",
   "degrees": [
@@ -52,18 +52,18 @@
       "authors": ""
     },
     {
+      "title": "Xu X, Liu X, Dollar JJ, Liu X, Jasani N, Posorske B, Sriramareddy SN, Jarajapu V, Kuznetsoff JN, Sinard J, Bennett RL, Licht JD, Smalley KSM, Harbour JW, Yu X, Karreth FA. A multi-step immune-competent genetic mouse model reveals phenotypic plasticity in uveal melanoma. bioRxiv",
+      "pubmed_id": "40502063",
+      "pmc_id": "PMC12157397",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S. Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors. Cancer Res",
       "pubmed_id": "40287947",
       "pmc_id": "PMC12167936",
       "year": "2025",
       "journal": "85(12):2268-2287",
-      "authors": ""
-    },
-    {
-      "title": "Xu X, Liu X, Dollar JJ, Liu X, Jasani N, Posorske B, Sriramareddy SN, Jarajapu V, Kuznetsoff JN, Sinard J, Bennett RL, Licht JD, Smalley KSM, Harbour JW, Yu X, Karreth FA. A multi-step immune-competent genetic mouse model reveals phenotypic plasticity in uveal melanoma. bioRxiv",
-      "pubmed_id": "40502063",
-      "pmc_id": "PMC12157397",
-      "year": "2025",
       "authors": ""
     },
     {
@@ -110,11 +110,10 @@
       "authors": ""
     },
     {
-      "title": "Jinesh GG, Smallin MT, Mtchedlidze N, Godwin I, Napoli M, Hackel N, Phadke MS, Deshpande AA, Li X, Lockhart JH, Baldwin JR, Acevedo-Acevedo S, Gao Y, Reiser MA, Smalley KSM, Flores ER, Brohl AS. C19MC miRNA-520G induces SP100 antiviral gene transcription and inhibits melanin production in skin cutaneous melanoma. Genes Dis",
-      "pubmed_id": "37588194",
-      "pmc_id": "PMC10425800",
+      "title": "Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM. Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma. Cancer",
+      "pubmed_id": "37776537",
       "year": "2024",
-      "journal": "11(1):60-63",
+      "journal": "130(2):232-243",
       "authors": ""
     }
   ],
@@ -175,5 +174,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4585"
   },
-  "content_hash": "e19cd47e9bed6fed12812a860972c1d8ce388b27d4ad9856966c0d2397fad707"
+  "content_hash": "a61c03a3fb44881b20580fb27463613708582c1a1871e2ca25e29f1d716a891a",
+  "researcher_name": "Keiran Smalley"
 }

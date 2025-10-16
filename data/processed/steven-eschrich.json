@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/steven-eschrich",
-  "last_updated": "2025-10-13T21:44:31.797092",
+  "last_updated": "2025-10-14T22:05:03.856654",
   "researcher_id": "2765",
   "name": "",
   "degrees": [
@@ -121,5 +121,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2765"
   },
-  "content_hash": "72943b0c7b1f72a2f09073520ddce1762e657c955882e63e4e1cc9e2c1fd2925"
+  "content_hash": "da0254caceb032f0143c9c2d34f4a76fb4cbf49e5eb33d89d414c0601be23aa4",
+  "researcher_name": "Steven Eschrich"
 }

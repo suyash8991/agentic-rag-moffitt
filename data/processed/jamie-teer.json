@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jamie-teer",
-  "last_updated": "2025-10-13T21:40:55.394606",
+  "last_updated": "2025-10-14T22:01:18.901487",
   "researcher_id": "10966",
   "name": "",
   "degrees": [
@@ -42,11 +42,27 @@
       "authors": ""
     },
     {
+      "title": "Gatenby RA, Teer JK, Tsai KY, Brown JS. Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas. Commun Biol",
+      "pubmed_id": "40399443",
+      "pmc_id": "PMC12095661",
+      "year": "2025",
+      "journal": "8(1):775",
+      "authors": ""
+    },
+    {
       "title": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS. Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes. Nat Commun",
       "pubmed_id": "40328759",
       "pmc_id": "PMC12055966",
       "year": "2025",
       "journal": "16(1):4206",
+      "authors": ""
+    },
+    {
+      "title": "Coghill AE, Van Bibber N, Baiocchi RA, Arnold SM, Riedlinger G, Schneider BP, Zhang Y, Suneja G, Gomez Fontela M, Abate-Daga D, Teer JK. Elevated Tumor Mutation Burden in Cancer Patients with Underlying HIV Infection: Data from the Oncology Research Information Exchange Network (ORIEN). Cancer Epidemiol Biomarkers Prev",
+      "pubmed_id": "40019488",
+      "pmc_id": "PMC12048233",
+      "year": "2025",
+      "journal": "34(5):774-779",
       "authors": ""
     },
     {
@@ -62,22 +78,6 @@
       "pmc_id": "PMC12234169",
       "year": "2025",
       "journal": "85(10):1928-1944",
-      "authors": ""
-    },
-    {
-      "title": "Gatenby RA, Teer JK, Tsai KY, Brown JS. Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas. Commun Biol",
-      "pubmed_id": "40399443",
-      "pmc_id": "PMC12095661",
-      "year": "2025",
-      "journal": "8(1):775",
-      "authors": ""
-    },
-    {
-      "title": "Coghill AE, Van Bibber N, Baiocchi RA, Arnold SM, Riedlinger G, Schneider BP, Zhang Y, Suneja G, Gomez Fontela M, Abate-Daga D, Teer JK. Elevated Tumor Mutation Burden in Cancer Patients with Underlying HIV Infection: Data from the Oncology Research Information Exchange Network (ORIEN). Cancer Epidemiol Biomarkers Prev",
-      "pubmed_id": "40019488",
-      "pmc_id": "PMC12048233",
-      "year": "2025",
-      "journal": "34(5):774-779",
       "authors": ""
     },
     {
@@ -137,5 +137,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10966"
   },
-  "content_hash": "b451ae74f75bd1c335cd44d90d9d1f93aabcc0565b2f37d5a1ccb900c3ef47d7"
+  "content_hash": "1429ddaa3e6eba9264553570baba95e5adb9897c990193271517ba6e68eb4be7",
+  "researcher_name": "Jamie Teer"
 }

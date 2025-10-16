@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/inna-smalley",
-  "last_updated": "2025-10-13T21:41:14.378217",
+  "last_updated": "2025-10-14T22:01:39.596011",
   "researcher_id": "4303",
   "name": "",
   "degrees": [
@@ -55,18 +55,18 @@
       "authors": ""
     },
     {
-      "title": "Law V, Smalley I, Evernden BR, Baldwin M, Smalley KSM, Forsyth PA. Ex Vivo Culture of Circulating Tumor Cells in the Cerebral Spinal Fluid from Melanoma Patients to Study Melanoma-Associated Leptomeningeal Disease. J Vis Exp",
-      "pubmed_id": "38619274",
-      "year": "2024",
-      "journal": "(205)",
-      "authors": ""
-    },
-    {
       "title": "Wallace G, Kundalia R, Vallebuona E, Cao B, Kim Y, Forsyth P, Soyano A, Smalley I, Pina Y. Factors associated with overall survival in breast cancer patients with leptomeningeal disease (LMD): a single institutional retrospective review. Breast Cancer Res",
       "pubmed_id": "38553702",
       "pmc_id": "PMC10979566",
       "year": "2024",
       "journal": "26(1):55",
+      "authors": ""
+    },
+    {
+      "title": "Law V, Smalley I, Evernden BR, Baldwin M, Smalley KSM, Forsyth PA. Ex Vivo Culture of Circulating Tumor Cells in the Cerebral Spinal Fluid from Melanoma Patients to Study Melanoma-Associated Leptomeningeal Disease. J Vis Exp",
+      "pubmed_id": "38619274",
+      "year": "2024",
+      "journal": "(205)",
       "authors": ""
     },
     {
@@ -129,5 +129,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4303"
   },
-  "content_hash": "555009f2b2c14b9cb2b005fddc54aaa78b87e47a874ad50808a16aec2128707f"
+  "content_hash": "720486c9d10dff6990eea172c372010be3d62c3e4abc64fff6534c819cbe1416",
+  "researcher_name": "Inna Smalley"
 }

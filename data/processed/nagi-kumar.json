@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/nagi-kumar",
-  "last_updated": "2025-10-13T21:44:06.635434",
+  "last_updated": "2025-10-14T22:04:42.759355",
   "researcher_id": "1278",
   "name": "",
   "degrees": [
@@ -128,5 +128,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1278"
   },
-  "content_hash": "d15e601119b1c2883119f836d8f58cf5ad44665290926172ea1e3c66ac831372"
+  "content_hash": "5dbe64e66643b22eeb131536f015043c10785d3d3a9847b93d6a59377b2c6e3f",
+  "researcher_name": "Nagi Kumar"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ghulam-rasool",
-  "last_updated": "2025-10-13T21:44:11.574127",
+  "last_updated": "2025-10-14T22:04:45.963438",
   "researcher_id": "32214",
   "name": "",
   "degrees": [
@@ -95,15 +95,16 @@
       "authors": ""
     },
     {
-      "title": "Ahmed S, Parker N, Park M, Jeong D, Peres L, Davis EW, Permuth JB, Siegel E, Schabath MB, Yilmaz Y, Rasool G. Reliable Radiologic Skeletal Muscle Area Assessment - A Biomarker for Cancer Cachexia Diagnosis. medRxiv",
-      "pubmed_id": "40313262",
-      "pmc_id": "PMC12045449",
+      "title": "Waqas A, Khan A, Ozturk ZG, Saeed-Vafa D, Chen W, Dhillon J, Bychkov A, Bui MM, Ullah E, Khalil F, Chumbalkar V, Jameel Z, Bittar HT, Singh RS, Parwani AV, Schabath MB, Rasool G. REASONING BEYOND ACCURACY: EXPERT EVALUATION OF LARGE LANGUAGE MODELS IN DIAGNOSTIC PATHOLOGY. medRxiv",
+      "pubmed_id": "40297448",
+      "pmc_id": "PMC12036407",
       "year": "2025",
       "authors": ""
     },
     {
-      "title": "Ullah E, Baig MM, Waqas A, Rasool G, Singh R, Shandilya A, GholamHossieni H, Parwani AV. Multimodal Generative AI for Anatomic Pathology-A Review of Current Applications to Envisage the Future Direction. Adv Anat Pathol",
-      "pubmed_id": "40298358",
+      "title": "Tripathi A, Waqas A, Venkatesan K, Ullah E, Khan A, Khalil F, Chen WS, Ozturk ZG, Saeed-Vafa D, Bui MM, Schabath MB, Rasool G. Employing Consensus-Based Reasoning with Locally Deployed LLMs for Enabling Structured Data Extraction from Surgical Pathology Reports. medRxiv",
+      "pubmed_id": "40343037",
+      "pmc_id": "PMC12060942",
       "year": "2025",
       "authors": ""
     }
@@ -139,5 +140,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32214"
   },
-  "content_hash": "8e39398ba3f8e1fb5f66c2636659c00f39facd9fe0f8688fe26110a300427457"
+  "content_hash": "bea513f29c46aeb5541b69ebc9145d9ee6d7b03174a6cc3db49008f820aa266e",
+  "researcher_name": "Ghulam Rasool"
 }

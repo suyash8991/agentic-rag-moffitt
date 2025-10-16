@@ -1,130 +1,20 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mark-alexandrow",
-  "last_updated": "2025-10-13T21:42:08.779734",
-  "researcher_id": "3471",
-  "name": "",
-  "degrees": [
-    "PhD"
-  ],
+  "last_updated": "2025-10-14T22:02:46.210156",
+  "researcher_id": "unknown",
+  "name": "Unknown Researcher",
+  "degrees": [],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
-  "overview": "We study how the initiation of DNA replication is controlled, and plan to design novel cancer drugs that target proteins involved in this process.",
-  "research_interests": [
-    "The research in Dr. Alexandrow's laboratory is focused on two central areas: (1) the mechanisms by which positive growth factor signals or inhibitory TGF-beta signals regulate the assembly and function of pre-(DNA) Replication Complexes (preRCs) in late G1 phase, and (2) how the DNA replication machinery and preRCs utilize chromatin remodeling complexes to gain access to the DNA substrate during late G1 and S-phase. The preRC is composed of multiple protein subunits that assemble in a stepwise and tightly regulated manner: Origin Recognition Complex (ORC), Cdc6, Cdt1, and the Mini-Chromosome Maintenance (MCM) helicase. After this forms, other proteins are recruited, including Cdc45, Mcm10, PCNA, and DNA polymerases. At G1/S, this complex is triggered and S-phase begins. However, very little is known in mammalian cells regarding how preRC assembly is regulated at the molecular level, how growth factors modulate preRC assembly, and how preRC activation is triggered at G1/S by cell cycle factors such as cyclin-dependent kinases. Furthermore, there is little knowledge of how the regulation of preRC assembly and activation is deregulated in cancer cells. Loss of control over MCM loading and activation is known to lead to re-replication within one cell cycle, producing genomic instability that contributes to tumorigenesis, and this concept provides a strong argument for understanding the molecular and biochemical events that govern preRC dynamics. The long term goal of this research is not only to understand the regulation of preRC function and assembly in late G1, but also to identify novel protein-protein interactions and key regulatory steps that might serve as useful targets for small molecule drug design/intervention for the treatment of cancer.\n  *"
-  ],
-  "associations": [
-    "Molecular Oncology",
-    "Thoracic Oncology",
-    "Cancer Biology & Evolution Program",
-    "Cancer Chemoprevention Research Interest Group"
-  ],
-  "education": [
-    {
-      "type": "Graduate",
-      "institution": "Vanderbilt University, PhD"
-    },
-    {
-      "type": "Fellowship",
-      "institution": "University of Virginia School of Medicine",
-      "specialty": "Biochemistry and Molecular Genetics"
-    },
-    {
-      "type": "Fellowship",
-      "institution": "Vanderbilt University School of Medicine",
-      "specialty": ""
-    }
-  ],
-  "publications": [
-    {
-      "title": "Xiang S, Craig KC, Luo X, Welch DL, Ferreira RB, Lawrence HR, Lawrence NJ, Reed DR, Alexandrow MG. Identification of ATP-Competitive Human CMG Helicase Inhibitors for Cancer Intervention that Disrupt CMG-Replisome Function. Mol Cancer Ther",
-      "pubmed_id": "38982858",
-      "pmc_id": "PMC11532780",
-      "year": "2024",
-      "journal": "23(11):1568-1585",
-      "authors": ""
-    },
-    {
-      "title": "Welch DL, Fridley BL, Cen L, Teer JK, Yoder SJ, Pettersson F, Xu L, Cheng CH, Zhang Y, Alexandrow MG, Xiang S, Robertson-Tessi M, Brown JS, Metts J, Brohl AS, Reed DR. Modeling phenotypic heterogeneity towards evolutionarily inspired osteosarcoma therapy. Sci Rep",
-      "pubmed_id": "37978271",
-      "pmc_id": "PMC10656496",
-      "year": "2023",
-      "journal": "13(1):20125",
-      "authors": ""
-    },
-    {
-      "title": "Xiang S, Reed DR, Alexandrow MG. The CMG helicase and cancer: a tumor \"engine\" and weakness with missing mutations. Oncogene",
-      "pubmed_id": "36522488",
-      "pmc_id": "PMC9948756",
-      "year": "2023",
-      "journal": "42(7):473-490",
-      "authors": ""
-    },
-    {
-      "title": "Reed DR, Metts J, Pressley M, Fridley BL, Hayashi M, Isakoff MS, Loeb DM, Makanji R, Roberts RD, Trucco M, Wagner LM, Alexandrow MG, Gatenby RA, Brown JS. An evolutionary framework for treating pediatric sarcomas. Cancer",
-      "pubmed_id": "32176331",
-      "pmc_id": "PMC7318114",
-      "year": "2020",
-      "journal": "126(11):2577-2587",
-      "authors": ""
-    },
-    {
-      "title": "Reed DR, Alexandrow MG. Myc and the Replicative CMG Helicase: The Creation and Destruction of Cancer: Myc Over-Activation of CMG Helicases Drives Tumorigenesis and Creates a Vulnerability in CMGs for Therapeutic Intervention. Bioessays",
-      "pubmed_id": "32080866",
-      "pmc_id": "PMC8223603",
-      "year": "2020",
-      "journal": "42(4):e1900218",
-      "authors": ""
-    },
-    {
-      "title": "Nepon-Sixt BS, Bryant VL, Alexandrow MG. Myc-driven chromatin accessibility regulates Cdc45 assembly into CMG helicases. Commun Biol",
-      "pubmed_id": "31924949",
-      "year": "2019",
-      "journal": "2(1):110",
-      "authors": ""
-    },
-    {
-      "title": "Nepon-Sixt BS, Bryant VL, Alexandrow MG. Myc-driven chromatin accessibility regulates Cdc45 assembly into CMG helicases. Commun Biol",
-      "pubmed_id": "30911685",
-      "pmc_id": "PMC6430796",
-      "year": "2019",
-      "journal": "2:110",
-      "authors": ""
-    },
-    {
-      "title": "Nepon-Sixt BS, Alexandrow MG. TGF\u03b21 Cell Cycle Arrest Is Mediated by Inhibition of MCM Assembly in Rb-Deficient Conditions. Mol Cancer Res",
-      "pubmed_id": "30257992",
-      "pmc_id": "PMC6318023",
-      "year": "2019",
-      "journal": "17(1):277-288",
-      "authors": ""
-    },
-    {
-      "title": "Nepon-Sixt BS, Alexandrow MG. DNase I Chromatin Accessibility Analysis. Bio Protoc",
-      "pubmed_id": "33654939",
-      "pmc_id": "PMC7854364",
-      "year": "2019",
-      "journal": "9(23):e3444",
-      "authors": ""
-    },
-    {
-      "title": "Alexander LMM, Watters J, Reusch JA, Maurin M, Nepon-Sixt BS, Vrzalikova K, Alexandrow MG, Murray PG, Wright KL. Selective expression of the transcription elongation factor ELL3 in B cells prior to ELL2 drives proliferation and survival. Mol Immunol",
-      "pubmed_id": "28858629",
-      "pmc_id": "PMC5653440",
-      "year": "2017",
-      "journal": "91:8-16",
-      "authors": ""
-    }
-  ],
-  "grants": [
-    {
-      "description": "Title: Direct Control of the human CMG Helicase by Myc and Rb  \nAward Number: 5R01GM140140-02  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nAlexandrow, M. (PD/PI)",
-      "period": "0140-02"
-    }
-  ],
-  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AlexandrowMark_3471.jpg",
-  "contact": {
-    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3471"
-  },
-  "content_hash": "50a7b99519fc909f607733aba76d5bc67f9a94f8a5b3e66071182740ab235390"
+  "primary_program": "",
+  "research_program": "",
+  "overview": "",
+  "research_interests": [],
+  "associations": [],
+  "education": [],
+  "publications": [],
+  "grants": [],
+  "photo_url": "",
+  "contact": {},
+  "content_hash": "d3a9594a93c5ad3055d8abe8273eb888aadc5f88e815eb6bf308e1bcfccd2b19",
+  "researcher_name": "Mark Alexandrow"
 }

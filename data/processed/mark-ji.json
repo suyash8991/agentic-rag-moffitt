@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mark-ji",
-  "last_updated": "2025-10-13T21:45:00.403947",
+  "last_updated": "2025-10-14T22:05:38.177847",
   "researcher_id": "17534",
   "name": "",
   "degrees": [
@@ -124,5 +124,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17534"
   },
-  "content_hash": "c1b467637c492f2d1dd494e1729d2e6b4c2d3fff2f55be587d1b1be568251af8"
+  "content_hash": "9ee2fe03d5399274e5cb8f0f6881155738bb15d38fec318283415d568d2d76c6",
+  "researcher_name": "Mark Ji"
 }

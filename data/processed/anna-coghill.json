@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/anna-coghill",
-  "last_updated": "2025-10-13T21:43:31.146584",
+  "last_updated": "2025-10-14T22:04:05.629520",
   "researcher_id": "22486",
   "name": "",
   "degrees": [
@@ -141,5 +141,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22486"
   },
-  "content_hash": "2d695d61e47d0baf444f84ef75fe99453170a71de733481b25a91bb79539b5bc"
+  "content_hash": "a4093a5ff1a2f1ec440fe8b1add4c0497a947f4e6b3812fed6289f4736ba87f7",
+  "researcher_name": "Anna Coghill"
 }

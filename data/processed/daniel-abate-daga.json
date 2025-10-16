@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/daniel-abate-daga",
-  "last_updated": "2025-10-13T21:47:30.127201",
+  "last_updated": "2025-10-14T22:08:26.938454",
   "researcher_id": "15812",
   "name": "",
   "degrees": [
@@ -143,5 +143,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15812"
   },
-  "content_hash": "ae37dce928e6857059bfd909f4653cc65c21bb5636315f8dc63d810014bbc819"
+  "content_hash": "93d55cd83439484b3f92e0f11f504986cbebc23407e4698fc358387298d69cba",
+  "researcher_name": "Daniel Abate Daga"
 }

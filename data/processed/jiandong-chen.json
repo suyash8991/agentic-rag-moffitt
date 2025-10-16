@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jiandong-chen",
-  "last_updated": "2025-10-13T21:42:15.072611",
+  "last_updated": "2025-10-14T22:02:55.705461",
   "researcher_id": "404",
   "name": "",
   "degrees": [
@@ -139,5 +139,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=404"
   },
-  "content_hash": "463b1caf5ae888c255e584837d8936a07f9b02b2d057b7cccf85adb73bc32e55"
+  "content_hash": "21040787ad8827abd6fc57f220f7d28bfd5fdd8b7630821a8c7de9e46c11db4b",
+  "researcher_name": "Jiandong Chen"
 }

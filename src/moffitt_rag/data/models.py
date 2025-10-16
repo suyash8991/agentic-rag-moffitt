@@ -62,6 +62,7 @@ class ResearcherProfile(BaseModel):
 
     # Biographical information
     name: str = ""
+    researcher_name: str = ""  # Added field to match JSON structure
     degrees: List[str] = Field(default_factory=list)
     title: Optional[str] = None
     primary_program: Optional[str] = None
@@ -130,6 +131,7 @@ class ResearcherProfile(BaseModel):
             "text": self.to_text(),
             "metadata": {
                 "name": self.name,
+                "researcher_name": self.researcher_name,  # Added researcher_name to metadata
                 "program": self.primary_program,
                 "department": self.department,
                 "research_interests": self.research_interests,
@@ -202,6 +204,7 @@ class ResearcherChunk(BaseModel):
     text: str
     researcher_id: str
     name: str
+    researcher_name: str = ""  # Added field to match JSON structure
     program: Optional[str] = None
     department: Optional[str] = None
     research_interests: List[str] = Field(default_factory=list)

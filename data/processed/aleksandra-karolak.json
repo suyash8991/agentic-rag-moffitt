@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/aleksandra-karolak",
-  "last_updated": "2025-10-13T21:45:45.634067",
+  "last_updated": "2025-10-14T22:06:40.218213",
   "researcher_id": "16049",
   "name": "",
   "degrees": [
@@ -123,5 +123,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16049"
   },
-  "content_hash": "7a6811d4ffeac2b27fb6f835bf12a4df9657f12f48332fa4a8855508e5645bb4"
+  "content_hash": "a363846c836c5c650f9a24f766cbf1f6c9aa7d8ccc2614ed1549b18eea70ca23",
+  "researcher_name": "Aleksandra Karolak"
 }

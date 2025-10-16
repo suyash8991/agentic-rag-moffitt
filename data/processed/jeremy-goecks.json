@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jeremy-goecks",
-  "last_updated": "2025-10-13T21:45:41.450651",
+  "last_updated": "2025-10-14T22:06:36.547228",
   "researcher_id": "unknown",
   "name": "",
   "degrees": [
@@ -115,5 +115,6 @@
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GoecksJeremy_36665.jpg",
   "contact": {},
-  "content_hash": "617c017a29947c1481735959b6694805651c71869132897a8efc3bea7ff4a119"
+  "content_hash": "7329a8d1715e3c14537a124833fa28b7239be190d7266827aff532d3b13c1f89",
+  "researcher_name": "Jeremy Goecks"
 }

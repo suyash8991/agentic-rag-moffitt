@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/john-heine",
-  "last_updated": "2025-10-13T21:43:47.885807",
+  "last_updated": "2025-10-14T22:04:21.070014",
   "researcher_id": "1000",
   "name": "",
   "degrees": [
@@ -131,5 +131,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1000"
   },
-  "content_hash": "7750f2df5b2e1754f9e98c5786a77d49f7b07644c14f0247a4b8fb73b40368c0"
+  "content_hash": "e4f90f2a42a9d4281c420710b973b3adeac5ae8be92bffff1481e31b1807236f",
+  "researcher_name": "John Heine"
 }

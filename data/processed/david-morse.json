@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/david-morse",
-  "last_updated": "2025-10-13T21:44:45.664516",
+  "last_updated": "2025-10-14T22:05:19.587886",
   "researcher_id": "4682",
   "name": "",
   "degrees": [
@@ -142,5 +142,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4682"
   },
-  "content_hash": "d758dc8703ba681caca76dee62f7e5314c93c65c0bda7069e0199f7236475c38"
+  "content_hash": "ee4f20fe08a429202d66e37e18d596d636d0ad747ec8965fea575076d2b9a390",
+  "researcher_name": "David Morse"
 }

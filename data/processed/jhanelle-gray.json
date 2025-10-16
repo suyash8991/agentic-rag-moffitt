@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jhanelle-gray",
-  "last_updated": "2025-10-13T21:46:13.644546",
+  "last_updated": "2025-10-14T22:07:08.645943",
   "researcher_id": "3726",
   "name": "",
   "degrees": [
@@ -148,5 +148,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3726"
   },
-  "content_hash": "4843ee367e884a1838ce26cc4824d21f76ba8bba1bd9a3d0a3c442ad72f965be"
+  "content_hash": "881e28073e1d6bde632b46bf518699bd07878c55e3055656afbffcbb85281c82",
+  "researcher_name": "Jhanelle Gray"
 }

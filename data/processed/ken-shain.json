@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ken-shain",
-  "last_updated": "2025-10-13T21:46:36.634095",
+  "last_updated": "2025-10-14T22:07:34.348124",
   "researcher_id": "2060",
   "name": "",
   "degrees": [
@@ -51,14 +51,6 @@
   ],
   "publications": [
     {
-      "title": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC. Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma. Haematologica",
-      "pubmed_id": "39633543",
-      "pmc_id": "PMC12130774",
-      "year": "2025",
-      "journal": "110(6):1351-1367",
-      "authors": ""
-    },
-    {
       "title": "Dima D, Vazquez-Martinez MA, Davis JA, Goel U, Afrough A, Sannareddy A, Pasvolsky O, Razzo B, Banerjee R, Khouri J, Grajales-Cruz A, Lieberman-Cribbin A, Rana MS, Julian K, DeJarnette S, Portuguese AJ, Gaballa MR, De Avila G, Susaniba Adaniya S, Raza S, Herr MM, Ouchveridze E, Richards T, Hosoya H, Mikkilineni L, Kaur G, Castaneda Puglianini O, Rossi A, Lin Y, Atrash S, Sborov D, Shain KH, Voorhees PM, Richard S, Garfall AL, Hansen DK, Sidana S, Patel KK, Cowan AJ, Anderson LD, Lee HC, Anwer F, Ferreri CJ, Shune L. Outcomes of teclistamab in patients with relapsed/refractory multiple myeloma with prior exposure to BCMA-directed therapy: a multicenter study from the U.S. Multiple Myeloma Immunotherapy Consortium. Blood Cancer J",
       "pubmed_id": "40562770",
       "pmc_id": "PMC12198414",
@@ -67,9 +59,11 @@
       "authors": ""
     },
     {
-      "title": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK. Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma. Haematologica",
-      "pubmed_id": "40637727",
+      "title": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC. Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma. Haematologica",
+      "pubmed_id": "39633543",
+      "pmc_id": "PMC12130774",
       "year": "2025",
+      "journal": "110(6):1351-1367",
       "authors": ""
     },
     {
@@ -81,11 +75,9 @@
       "authors": ""
     },
     {
-      "title": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH. The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma. Cancer Res",
-      "pubmed_id": "39476082",
-      "pmc_id": "PMC11733535",
+      "title": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK. Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma. Haematologica",
+      "pubmed_id": "40637727",
       "year": "2025",
-      "journal": "85(2):378-398",
       "authors": ""
     },
     {
@@ -101,6 +93,14 @@
       "pubmed_id": "39883442",
       "year": "2025",
       "journal": "145(5):464-465",
+      "authors": ""
+    },
+    {
+      "title": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH. The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma. Cancer Res",
+      "pubmed_id": "39476082",
+      "pmc_id": "PMC11733535",
+      "year": "2025",
+      "journal": "85(2):378-398",
       "authors": ""
     },
     {
@@ -139,5 +139,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2060"
   },
-  "content_hash": "c9df0d6db815bb2b897e70c451d4e1abfb089d563803cfbfa26c59176364fec7"
+  "content_hash": "2ec808f748c7b4c09fc5ed8b7b94faf58076d7a3cd0903f4706e588452c12a92",
+  "researcher_name": "Ken Shain"
 }

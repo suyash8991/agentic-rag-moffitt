@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/issam-el-naqa",
-  "last_updated": "2025-10-13T21:41:57.355333",
+  "last_updated": "2025-10-14T22:02:31.595943",
   "researcher_id": "27669",
   "name": "",
   "degrees": [
@@ -66,18 +66,18 @@
       "authors": ""
     },
     {
+      "title": "Sharma M, Naqa IE, Sneed PK. Does Time to Retreatment Matter? A Normal Tissue Complication Probability Model to Predict Radionecrosis After Repeat Stereotactic Radiosurgery for Recurrent Brain Metastases Incorporating Time-dependent Discounted Dose. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "39900228",
+      "year": "2025",
+      "journal": "122(2):467-475",
+      "authors": ""
+    },
+    {
       "title": "El Naqa I, Pilon-Thomas S, Deutsch E. Editorial: Artificial intelligence for cancer immunotherapy. Front Immunol",
       "pubmed_id": "40568575",
       "pmc_id": "PMC12187814",
       "year": "2025",
       "journal": "16:1633422",
-      "authors": ""
-    },
-    {
-      "title": "Sharma M, Naqa IE, Sneed PK. Does Time to Retreatment Matter? A Normal Tissue Complication Probability Model to Predict Radionecrosis After Repeat Stereotactic Radiosurgery for Recurrent Brain Metastases Incorporating Time-dependent Discounted Dose. Int J Radiat Oncol Biol Phys",
-      "pubmed_id": "39900228",
-      "year": "2025",
-      "journal": "122(2):467-475",
       "authors": ""
     },
     {
@@ -153,5 +153,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27669"
   },
-  "content_hash": "5bf2db02b4e9444c1b813221c5bcca7268ce0cc2aff5b50454678b5704afa5a4"
+  "content_hash": "6848cc870fe7a970401333d430aa96e03a4c80ac2add6fd316db4f9277c60a41",
+  "researcher_name": "Issam El Naqa"
 }

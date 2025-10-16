@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez",
-  "last_updated": "2025-10-13T21:41:30.980978",
+  "last_updated": "2025-10-14T22:01:59.781909",
   "researcher_id": "4771",
   "name": "",
   "degrees": [
@@ -130,5 +130,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4771"
   },
-  "content_hash": "32198de5ec19613b08719a72584afbc68bfaf56b173bc54d636c5b148037cb77"
+  "content_hash": "6f0bccd5f35149a1f8ade8bda4db7817fedf3ea5c720fee953357c690856f02a",
+  "researcher_name": "David Basanta Gutierrez"
 }

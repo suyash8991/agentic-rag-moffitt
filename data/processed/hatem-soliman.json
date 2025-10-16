@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/hatem-soliman",
-  "last_updated": "2025-10-13T21:48:15.006911",
+  "last_updated": "2025-10-14T22:09:12.192822",
   "researcher_id": "4606",
   "name": "",
   "degrees": [
@@ -59,19 +59,19 @@
       "authors": ""
     },
     {
-      "title": "Soliman H, Aldrich A, Abdo N, Han H, Soyano A, Costa R, Armaghani A, Kiluk J, Khakpour N, Lee MC, Hoover S, Laronga C, Niell B, Mooney B, Weinfurtner RJ, Rosa M, Czerniecki B. A pilot study incorporating HER2-directed dendritic cells into neoadjuvant therapy of early stage HER2+ER- breast cancer. NPJ Breast Cancer",
-      "pubmed_id": "40097486",
-      "pmc_id": "PMC11914126",
-      "year": "2025",
-      "journal": "11(1):29",
-      "authors": ""
-    },
-    {
       "title": "Okines AFC, Curigliano G, Mizuno N, Oh DY, Rorive A, Soliman H, Takahashi S, Bekaii-Saab T, Burkard ME, Chung KY, Debruyne PR, Fox JR, Gambardella V, Gil-Martin M, Hamilton EP, Monk BJ, Nakamura Y, Nguyen D, O'Malley DM, Olawaiye AB, Pothuri B, Reck M, Sudo K, Sunakawa Y, Van Marcke C, Yu EY, Ramos J, Tan S, Bieda M, Stinchcombe TE, Pohlmann PR. Tucatinib and trastuzumab in HER2-mutated metastatic breast cancer: a phase 2 basket trial. Nat Med",
       "pubmed_id": "39825152",
       "pmc_id": "PMC11922774",
       "year": "2025",
       "journal": "31(3):909-916",
+      "authors": ""
+    },
+    {
+      "title": "Soliman H, Aldrich A, Abdo N, Han H, Soyano A, Costa R, Armaghani A, Kiluk J, Khakpour N, Lee MC, Hoover S, Laronga C, Niell B, Mooney B, Weinfurtner RJ, Rosa M, Czerniecki B. A pilot study incorporating HER2-directed dendritic cells into neoadjuvant therapy of early stage HER2+ER- breast cancer. NPJ Breast Cancer",
+      "pubmed_id": "40097486",
+      "pmc_id": "PMC11914126",
+      "year": "2025",
+      "journal": "11(1):29",
       "authors": ""
     },
     {
@@ -127,5 +127,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4606"
   },
-  "content_hash": "43387d97a59a7b15735b703b90afc60dd0ec5bffd6eb93bbe80f6152632d5d36"
+  "content_hash": "7af2c90d29b10a402262b3349d06868caa9af31b05b0442ab1518b8fa1ca76ce",
+  "researcher_name": "Hatem Soliman"
 }

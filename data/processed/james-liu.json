@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/james-liu",
-  "last_updated": "2025-10-13T21:46:51.499506",
+  "last_updated": "2025-10-14T22:07:50.192907",
   "researcher_id": "19911",
   "name": "",
   "degrees": [
@@ -129,5 +129,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19911"
   },
-  "content_hash": "bb9ce92ed81cef81efccda8f2c4d1aebbe0ef525a83fe87db15a8e615782be89"
+  "content_hash": "325757f0a47f6f21036260f3ae43999f4f7e7aa7c00caf2f39444cd1edaf7931",
+  "researcher_name": "James Liu"
 }

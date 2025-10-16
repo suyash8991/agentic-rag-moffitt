@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/renee-brady",
-  "last_updated": "2025-10-13T21:41:33.639137",
+  "last_updated": "2025-10-14T22:02:03.136924",
   "researcher_id": "19089",
   "name": "",
   "degrees": [
@@ -114,5 +114,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19089"
   },
-  "content_hash": "6c0a0d7f12756263d94b8eea976a95d2b4afc5bf2a477b349ce2bebae1db1856"
+  "content_hash": "0b35823b759370c1f51f1825cc2332ec1b3d770ba89e8b8970abb8417d6536dc",
+  "researcher_name": "Renee Brady"
 }

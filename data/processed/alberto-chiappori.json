@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/alberto-chiappori",
-  "last_updated": "2025-10-13T21:46:20.773435",
+  "last_updated": "2025-10-14T22:07:17.358588",
   "researcher_id": "422",
   "name": "",
   "degrees": [
@@ -124,5 +124,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=422"
   },
-  "content_hash": "c7dac865e69372594ed671d96865714c9dd46f880d5e0724fc384e748ad1a2fb"
+  "content_hash": "a66c0a57cb1034068a0b6a15f130bedf6356383dda13e199f54902b0e37f9cff",
+  "researcher_name": "Alberto Chiappori"
 }

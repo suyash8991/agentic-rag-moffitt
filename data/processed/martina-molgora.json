@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/martina-molgora",
-  "last_updated": "2025-10-13T21:48:06.098301",
+  "last_updated": "2025-10-14T22:09:04.310911",
   "researcher_id": "39484",
   "name": "",
   "degrees": [
@@ -105,5 +105,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=39484"
   },
-  "content_hash": "dc5fb293446bce61b239499cf855c1b074874b74508f901eec14070a1898e312"
+  "content_hash": "7f2382bc7077b8ed3a3beee8cf97fe122a873f6459c1e79431085c7cb2d44701",
+  "researcher_name": "Martina Molgora"
 }

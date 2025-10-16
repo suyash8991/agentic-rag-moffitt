@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/andrii-monastyrskyi",
-  "last_updated": "2025-10-13T21:45:21.843930",
+  "last_updated": "2025-10-14T22:06:12.347904",
   "researcher_id": "24126",
   "name": "",
   "degrees": [
@@ -135,5 +135,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24126"
   },
-  "content_hash": "a2125818f00a20b7f4b6627365ef5ac149ea1d7e49f74ec6f752ca5cedae6e5e"
+  "content_hash": "41f430ee0e6ab2040753e14b52a096a6431a48ad64d90b0c33f07d7526a0c4c1",
+  "researcher_name": "Andrii Monastyrskyi"
 }

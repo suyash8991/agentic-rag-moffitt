@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/doratha-byrd",
-  "last_updated": "2025-10-13T21:43:27.293106",
+  "last_updated": "2025-10-14T22:04:02.239468",
   "researcher_id": "28607",
   "name": "",
   "degrees": [
@@ -30,16 +30,16 @@
   ],
   "publications": [
     {
+      "title": "Glenny EM, Lin T, Bandera VM, Mirminachi B, Khumukcham SS, Gigic B, Warby CA, Aksonova O, Coleman MF, Carpanese A, Busch C, Himbert C, Ose J, Nix DA, Boucher K, Schirmacher P, Strehli I, Hardikar S, Cohan JN, Jedrzkiewicz J, Brobeil A, Schneider MA, Kahlert C, Siegel EM, Byrd DA, Toriola AT, Shibata D, Li CI, Figueiredo JC, Tan AC, Roper J, Ulrich CM, Hursting SD. Obesity promotes conserved inflammatory and metabolic transcriptional programs in colon tumors: Evidence from mouse models and the ColoCare Study patient cohort. Am J Clin Nutr",
+      "pubmed_id": "40998019",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK. Comparison of volumetric and single-slice computed tomography body composition metrics for colorectal cancer survival. Eur J Radiol",
       "pubmed_id": "40532592",
       "year": "2025",
       "journal": "190:112241",
-      "authors": ""
-    },
-    {
-      "title": "Glenny EM, Lin T, Bandera VM, Mirminachi B, Khumukcham SS, Gigic B, Warby CA, Aksonova O, Coleman MF, Carpanese A, Busch C, Himbert C, Ose J, Nix DA, Boucher K, Schirmacher P, Strehli I, Hardikar S, Cohan JN, Jedrzkiewicz J, Brobeil A, Schneider MA, Kahlert C, Siegel EM, Byrd DA, Toriola AT, Shibata D, Li CI, Figueiredo JC, Tan AC, Roper J, Ulrich CM, Hursting SD. Obesity promotes conserved inflammatory and metabolic transcriptional programs in colon tumors: Evidence from mouse models and the ColoCare Study patient cohort. Am J Clin Nutr",
-      "pubmed_id": "40998019",
-      "year": "2025",
       "authors": ""
     },
     {
@@ -132,5 +132,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28607"
   },
-  "content_hash": "8aa6918f4aad130d75b4b69cf2745eee8cd6bc749df45f3a0ed2f25256c095c4"
+  "content_hash": "b73551471756443ea993278f79129f67d15032964b58db25584902e78b982f83",
+  "researcher_name": "Doratha Byrd"
 }

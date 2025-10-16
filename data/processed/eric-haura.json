@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/eric-haura",
-  "last_updated": "2025-10-13T21:44:57.704665",
+  "last_updated": "2025-10-14T22:05:34.024375",
   "researcher_id": "985",
   "name": "",
   "degrees": [
@@ -110,18 +110,18 @@
       "authors": ""
     },
     {
+      "title": "Imbody D, Arce K, Solanki HS, Haura EB, Pellini B. Targeting SHP2 Signaling in Lung Cancer. J Thorac Oncol",
+      "pubmed_id": "37574134",
+      "year": "2024",
+      "journal": "19(1):18-24",
+      "authors": ""
+    },
+    {
       "title": "Chaft JE, Oezkan F, Kris MG, Bunn PA, Wistuba II, Kwiatkowski DJ, Owen DH, Tang Y, Johnson BE, Lee JM, Lozanski G, Pietrzak M, Seweryn M, Byun WY, Schulze K, Nicholas A, Johnson A, Grindheim J, Hilz S, Shames DS, Rivard C, Toloza E, Haura EB, McNamee CJ, Patterson GA, Waqar SN, Rusch VW, Carbone DP. Author Correction: Neoadjuvant atezolizumab for resectable non-small cell lung cancer: an open-label, single-arm phase II trial. Nat Med",
       "pubmed_id": "37816821",
       "pmc_id": "PMC10803254",
       "year": "2024",
       "journal": "30(1):303",
-      "authors": ""
-    },
-    {
-      "title": "Imbody D, Arce K, Solanki HS, Haura EB, Pellini B. Targeting SHP2 Signaling in Lung Cancer. J Thorac Oncol",
-      "pubmed_id": "37574134",
-      "year": "2024",
-      "journal": "19(1):18-24",
       "authors": ""
     }
   ],
@@ -159,5 +159,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=985"
   },
-  "content_hash": "5f7561d63f6ede90cb2f98f96fb89bcc62e3e5e6ad8e0de33886dde438beeda2"
+  "content_hash": "20736da9cac5bb535ac4044d0a8111f096a46b1708c8949965e80d26e2d1beda",
+  "researcher_name": "Eric Haura"
 }

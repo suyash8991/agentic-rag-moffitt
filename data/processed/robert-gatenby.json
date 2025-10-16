@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/robert-gatenby",
-  "last_updated": "2025-10-13T21:42:24.859881",
+  "last_updated": "2025-10-14T22:03:07.829829",
   "researcher_id": "4306",
   "name": "",
   "degrees": [
@@ -82,18 +82,18 @@
       "authors": ""
     },
     {
+      "title": "Dabi A, Brown JS, Gatenby RA, Jones CD, Schrider DR. Evolutionary rescue model informs strategies for driving cancer cell populations to extinction. bioRxiv",
+      "pubmed_id": "39651238",
+      "pmc_id": "PMC11623570",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH. The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma. Cancer Res",
       "pubmed_id": "39476082",
       "pmc_id": "PMC11733535",
       "year": "2025",
       "journal": "85(2):378-398",
-      "authors": ""
-    },
-    {
-      "title": "Dabi A, Brown JS, Gatenby RA, Jones CD, Schrider DR. Evolutionary rescue model informs strategies for driving cancer cell populations to extinction. bioRxiv",
-      "pubmed_id": "39651238",
-      "pmc_id": "PMC11623570",
-      "year": "2025",
       "authors": ""
     },
     {
@@ -137,5 +137,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4306"
   },
-  "content_hash": "1d1e90569374a950275d06f2e63ae3e24e80645a49b6c0360ebc4d32bab4c7bb"
+  "content_hash": "04b3f5b726bc4758b11f7443b9aca93a4cdb324a01867a8cfee37b3c27b8c5eb",
+  "researcher_name": "Robert Gatenby"
 }

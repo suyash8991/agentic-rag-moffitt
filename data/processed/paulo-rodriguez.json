@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/paulo-rodriguez",
-  "last_updated": "2025-10-13T21:47:23.873362",
+  "last_updated": "2025-10-14T22:08:19.591599",
   "researcher_id": "19146",
   "name": "",
   "degrees": [
@@ -82,18 +82,18 @@
       "authors": ""
     },
     {
+      "title": "Gallagher K, Sousa RS, Gatenbee C, Schenck R, Chen P, Citak T, Leither S, Mazzacurati L, Xella A, Zhou Z, Lemanne D, Rodriguez P, George E, Strobl MAR. Controlling treatment toxicity in ovarian cancer to prime the patient for tumor extinction therapy. bioRxiv",
+      "pubmed_id": "40791474",
+      "pmc_id": "PMC12338546",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Yu X, Jain MD, Menges MA, Cen L, Noble JD, Atkins R, Mohammad TJ, Bachmeier CA, Naderinezhad S, Reid K, Corallo S, Yoder SJ, Zhang C, Zhang L, Miranda JA, Shah B, Chavez JC, Hesterberg RS, Delgado LC, Savid-Frontera C, Rodriguez PC, Cleveland JL, Wang X, Davila ML, Locke FL. Comparison of axicabtagene ciloleucel and tisagenlecleucel patient CAR-T cell products by single-cell RNA sequencing. J Immunother Cancer",
       "pubmed_id": "40730421",
       "pmc_id": "PMC12306477",
       "year": "2025",
       "journal": "13(7)",
-      "authors": ""
-    },
-    {
-      "title": "Gallagher K, Sousa RS, Gatenbee C, Schenck R, Chen P, Citak T, Leither S, Mazzacurati L, Xella A, Zhou Z, Lemanne D, Rodriguez P, George E, Strobl MAR. Controlling treatment toxicity in ovarian cancer to prime the patient for tumor extinction therapy. bioRxiv",
-      "pubmed_id": "40791474",
-      "pmc_id": "PMC12338546",
-      "year": "2025",
       "authors": ""
     },
     {
@@ -104,11 +104,9 @@
       "authors": ""
     },
     {
-      "title": "Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM. Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models. J Immunother Cancer",
-      "pubmed_id": "40825611",
-      "pmc_id": "PMC12366563",
+      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
+      "pubmed_id": "40845845",
       "year": "2025",
-      "journal": "13(8)",
       "authors": ""
     }
   ],
@@ -133,5 +131,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19146"
   },
-  "content_hash": "c4620f05779242f615dc62b1eb57bc849b08c0abbf9a10f3ce410e430705e5a0"
+  "content_hash": "938d81b1605928d130f7504e1e19457b414e841a2a888ebb60b60160649d6fff",
+  "researcher_name": "Paulo Rodriguez"
 }

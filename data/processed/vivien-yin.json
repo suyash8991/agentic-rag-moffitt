@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/vivien-yin",
-  "last_updated": "2025-10-13T21:44:41.604483",
+  "last_updated": "2025-10-14T22:05:14.597834",
   "researcher_id": "35662",
   "name": "",
   "degrees": [
@@ -119,5 +119,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35662"
   },
-  "content_hash": "09588b169224695cdc521584c534126216537ca8f6d71a4fdb126cea78fed503"
+  "content_hash": "9eb9d344b7d884ee89188c385408afa2c047bf859c6706b4ae12bc5f1c0d4cf1",
+  "researcher_name": "Vivien Yin"
 }

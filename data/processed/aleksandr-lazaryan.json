@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/aleksandr-lazaryan",
-  "last_updated": "2025-10-13T21:47:51.648234",
+  "last_updated": "2025-10-14T22:08:48.950225",
   "researcher_id": "20944",
   "name": "",
   "degrees": [
@@ -134,5 +134,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=20944"
   },
-  "content_hash": "63ef0dea251c3074d2a67a75e354c0203f0105c3af863997f8bf6c1e80b6bdb3"
+  "content_hash": "520719f4de4d05dc26b71e92c4016999731f5bccc60dd4f02c8e09b76bf67f5c",
+  "researcher_name": "Aleksandr Lazaryan"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jacob-kresovich",
-  "last_updated": "2025-10-13T21:44:03.128033",
+  "last_updated": "2025-10-14T22:04:37.630404",
   "researcher_id": "32219",
   "name": "",
   "degrees": [
@@ -129,5 +129,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32219"
   },
-  "content_hash": "a376e9a7917f95db20e403cd58ffbe3641b0a670f9add1bafbb93e35a35e8d44"
+  "content_hash": "255c3a45650d90143c4e1d7a8cc37f116f2280ecf2f02ef30c77cd6139115449",
+  "researcher_name": "Jacob Kresovich"
 }

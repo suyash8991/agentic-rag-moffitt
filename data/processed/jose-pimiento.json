@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jose-pimiento",
-  "last_updated": "2025-10-13T21:46:28.610270",
+  "last_updated": "2025-10-14T22:07:26.196397",
   "researcher_id": "6667",
   "name": "",
   "degrees": [
@@ -66,6 +66,13 @@
       "authors": ""
     },
     {
+      "title": "Ajani JA, D'Amico TA, Bentrem DJ, Corvera CU, Das P, Enzinger PC, Enzler T, Gerdes H, Gibson MK, Grierson P, Gupta G, Hofstetter WL, Ilson DH, Jalal S, Kim S, Kleinberg LR, Klempner S, Lacy J, Lee B, Licciardi F, Lloyd S, Ly QP, Matsukuma K, McNamara M, Merkow RP, Miller AM, Mukherjee S, Mulcahy MF, Perry KA, Pimiento JM, Reddi DM, Reznik S, Roses RE, Strong VE, Su S, Uboha N, Wainberg ZA, Willett CG, Woo Y, Yoon HH, McMillian NR, Stein M. Gastric Cancer, Version 2.2025, NCCN Clinical Practice Guidelines In Oncology. J Natl Compr Canc Ne",
+      "pubmed_id": "40341199",
+      "year": "2025",
+      "journal": "23(5):169-191",
+      "authors": ""
+    },
+    {
       "title": "Yu J, Laborde JM, Park R, Shahzad M, Kim Y, Cheon J, Imanirad I, Kim RD, Biachi de Castria T, Nardella NL, Malafa M, Denbo JW, Fleming JB, Hoffe SE, Frakes JM, Sinnamon AJ, Pimiento JM, Hodul PJ, Kim DW. Association of Pathologic Response and Adjuvant Chemotherapy with Survival in Resected Pancreatic Ductal Adenocarcinoma Following Neoadjuvant Therapy. Cancers (Basel)",
       "pubmed_id": "40507279",
       "pmc_id": "PMC12153592",
@@ -74,22 +81,15 @@
       "authors": ""
     },
     {
-      "title": "Ajani JA, D'Amico TA, Bentrem DJ, Corvera CU, Das P, Enzinger PC, Enzler T, Gerdes H, Gibson MK, Grierson P, Gupta G, Hofstetter WL, Ilson DH, Jalal S, Kim S, Kleinberg LR, Klempner S, Lacy J, Lee B, Licciardi F, Lloyd S, Ly QP, Matsukuma K, McNamara M, Merkow RP, Miller AM, Mukherjee S, Mulcahy MF, Perry KA, Pimiento JM, Reddi DM, Reznik S, Roses RE, Strong VE, Su S, Uboha N, Wainberg ZA, Willett CG, Woo Y, Yoon HH, McMillian NR, Stein M. Gastric Cancer, Version 2.2025, NCCN Clinical Practice Guidelines In Oncology. J Natl Compr Canc Ne",
-      "pubmed_id": "40341199",
+      "title": "Shannon AB, Mehta R, Mok SR, Lauwers GY, Baldonado JJAR, Fontaine J, Pimiento JM, Sinnamon AJ. ASO Visual Abstract: Clinical and Pathologic Response to Neoadjuvant Immunotherapy in DNA Mismatch Repair Protein-Deficient Gastroesophageal Cancers. Ann Surg Oncol",
+      "pubmed_id": "39412693",
       "year": "2025",
-      "journal": "23(5):169-191",
+      "journal": "32(1):581-582",
       "authors": ""
     },
     {
       "title": "Teja T, Sinnamon AJ, Pena LS, Reyna Forero SA, Dineen S, Mehta RJ, Gurd EN, Pimiento JM. Feasibility of Oral Vitamin B12 Supplementation After Total Gastrectomy: Single Institution Cohort. Journal of Surgery Research and Practice",
       "year": "2025",
-      "authors": ""
-    },
-    {
-      "title": "Shannon AB, Mehta R, Mok SR, Lauwers GY, Baldonado JJAR, Fontaine J, Pimiento JM, Sinnamon AJ. ASO Visual Abstract: Clinical and Pathologic Response to Neoadjuvant Immunotherapy in DNA Mismatch Repair Protein-Deficient Gastroesophageal Cancers. Ann Surg Oncol",
-      "pubmed_id": "39412693",
-      "year": "2025",
-      "journal": "32(1):581-582",
       "authors": ""
     },
     {
@@ -136,5 +136,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=6667"
   },
-  "content_hash": "6a9d9173e85e130d2c2a5aa0c4d21f7ddd1d5db696c0300d07c294258b9c9f97"
+  "content_hash": "20f6fa0d064711817d4270a4e669585dccceedbfb0b1377f7dce7b1a2319ba72",
+  "researcher_name": "Jose Pimiento"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/joseph-markowitz",
-  "last_updated": "2025-10-13T21:48:03.438071",
+  "last_updated": "2025-10-14T22:09:01.416241",
   "researcher_id": "15867",
   "name": "",
   "degrees": [
@@ -144,5 +144,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15867"
   },
-  "content_hash": "d48232b5f99e03a91ef1ef4a25302b5ff3bef8f4fe942367d90f3fed40db21f3"
+  "content_hash": "ea5a43af6bd53d3fbe2bcd4a199a496365ab63ef12427e2106d5b95d7218f323",
+  "researcher_name": "Joseph Markowitz"
 }

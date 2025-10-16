@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/julio-pow-sang",
-  "last_updated": "2025-10-13T21:41:54.544386",
+  "last_updated": "2025-10-14T22:02:27.367270",
   "researcher_id": "1813",
   "name": "",
   "degrees": [
@@ -123,5 +123,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1813"
   },
-  "content_hash": "f0fdda99240d400cb4a28e0ee3e727085a6c541ac24f70a58ffd716d6e3a0f8f"
+  "content_hash": "9dbd804dea62354c2eb25656cd00a5e36af2ce77bd95a628ecccae8894d84779",
+  "researcher_name": "Julio Pow Sang"
 }

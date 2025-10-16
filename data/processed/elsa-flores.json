@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/elsa-flores",
-  "last_updated": "2025-10-13T21:42:21.866862",
+  "last_updated": "2025-10-14T22:03:02.741491",
   "researcher_id": "17085",
   "name": "",
   "degrees": [
@@ -142,5 +142,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17085"
   },
-  "content_hash": "81096ee63b02322c1f6aae343649205774c03176d0a970a0a0f9491674a48d24"
+  "content_hash": "01255484788d9bb00cb6eed4e6c46484c79bf9da5133a33fc41baf34e5fb96c0",
+  "researcher_name": "Elsa Flores"
 }

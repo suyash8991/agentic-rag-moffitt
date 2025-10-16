@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/theresa-boyle",
-  "last_updated": "2025-10-13T21:46:18.268129",
+  "last_updated": "2025-10-14T22:07:12.630107",
   "researcher_id": "16846",
   "name": "",
   "degrees": [
@@ -139,5 +139,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16846"
   },
-  "content_hash": "fbfc2510dd1b1955821c8f3305b2af57197d0932404521c29f47dd03b0392feb"
+  "content_hash": "54bdc4e1ff51c3bb436ff5ca6ece92d0f6592e0f390bd8b78c5c97ef10d8e6b9",
+  "researcher_name": "Theresa Boyle"
 }

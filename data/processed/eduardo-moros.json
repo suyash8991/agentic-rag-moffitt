@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/eduardo-moros",
-  "last_updated": "2025-10-13T21:42:03.710423",
+  "last_updated": "2025-10-14T22:02:39.900467",
   "researcher_id": "9068",
   "name": "",
   "degrees": [
@@ -122,5 +122,6 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=9068"
   },
-  "content_hash": "d2546476498d1a099806ed4660f117049b7294695e7bf6a5b32e459c48b7c392"
+  "content_hash": "7c8e9956965c6c77a01202af309f4d91878ff898a82cf04b4a08142526287b8a",
+  "researcher_name": "Eduardo Moros"
 }
