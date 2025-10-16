@@ -1,6 +1,6 @@
 # Moffitt Agentic RAG System: Development Progress
 
-*Last updated: October 14, 2025*
+*Last updated: October 16, 2025*
 
 This document tracks the detailed implementation status of each component in the Moffitt Agentic RAG system.
 
@@ -150,21 +150,36 @@ This document tracks the detailed implementation status of each component in the
   - ✅ Added debug information expander in chat interface
   - ✅ Implemented diagnostics tools in the settings page
 
+- 🔄 Implementing logging system
+  - ✅ Created centralized logging module in utils/logging.py
+  - ✅ Implemented file logging with rotation (daily and size-based)
+  - ✅ Added specialized logs for queries and errors
+  - ✅ Created QueryLogger context manager for tracking queries
+  - ✅ Implemented exception logging utilities
+  - 📝 Update existing modules to use the new logging system
+  - 📝 Add structured logging for better analysis
+
 ## Next Steps
 
-1. Enhance the Streamlit application with advanced features
+1. Complete the logging system implementation
+   - Update existing modules to use the centralized logging
+   - Add structured logging for improved analytics
+   - Integrate the logging system with the Streamlit interface
+   - Add user-configurable log levels in the settings
+
+2. Enhance the Streamlit application with advanced features
    - Implement streaming responses for long-running queries
    - Add advanced visualizations (word clouds, network graphs)
    - Create specialized tool interfaces for direct tool access
    - Implement authentication if required
 
-2. Create comprehensive documentation and tests
+3. Create comprehensive documentation and tests
    - User documentation for the Streamlit application
    - Developer documentation for the agent components
    - System tests for the integrated application
    - Performance optimization for query responses
 
-3. Prepare for future enhancements (optional)
+4. Prepare for future enhancements (optional)
    - Document API design for potential future backend
    - Identify components that could benefit from API separation
    - Create modular structure to support future scaling

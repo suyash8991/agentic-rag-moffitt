@@ -1,0 +1,5 @@
+2025-10-16 13:00:17,996 [INFO] QUERY START QUERY: Who is John Doe?
+2025-10-16 13:00:19,011 [INFO] QUERY FINISH QUERY: Who is John Doe? | Time: 1.02s | Result: {'name': 'John Doe', 'info': 'Test researcher'}
+2025-10-16 13:00:19,013 [INFO] QUERY QUERY CONTEXT: Who is John Doe? | {'source': 'test', 'response_time': '1s'}
+2025-10-16 13:00:19,013 [INFO] QUERY START QUERY: Who is Jane Doe?
+2025-10-16 13:00:19,014 [ERROR] QUERY ERROR QUERY: Who is Jane Doe? | Time: 0.00s | Error: Test failure

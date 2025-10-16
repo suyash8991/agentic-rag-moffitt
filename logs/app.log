@@ -1,0 +1,18 @@
+2025-10-16 13:00:17,994 [INFO] root (logging.py:168): Logging initialized: console=DEBUG, file=DEBUG, env=dev, log_dir=C:\Coding\Projects\moffitt-agentic-rag\logs
+2025-10-16 13:00:17,994 [DEBUG] test_logging (test_logging.py:30): This is a DEBUG message
+2025-10-16 13:00:17,994 [INFO] test_logging (test_logging.py:31): This is an INFO message
+2025-10-16 13:00:17,994 [WARNING] test_logging (test_logging.py:32): This is a WARNING message
+2025-10-16 13:00:17,995 [ERROR] test_logging (test_logging.py:33): This is an ERROR message
+2025-10-16 13:00:17,995 [CRITICAL] test_logging (test_logging.py:34): This is a CRITICAL message
+2025-10-16 13:00:17,995 [ERROR] test_logging (logging.py:346): Caught test exception
+Traceback (most recent call last):
+  File "C:\Coding\Projects\moffitt-agentic-rag\test_logging.py", line 38, in main
+    raise ValueError("This is a test exception")
+ValueError: This is a test exception
+2025-10-16 13:00:19,014 [ERROR] moffitt_rag.errors (logging.py:246): Error executing query 'Who is Jane Doe?': Test failure
+Traceback (most recent call last):
+  File "C:\Coding\Projects\moffitt-agentic-rag\test_logging.py", line 60, in main
+    raise RuntimeError("Test failure")
+RuntimeError: Test failure
+2025-10-16 13:00:19,023 [DEBUG] __main__ (logging.py:300): Calling test_function with args: ('a', 'b'), kwargs: {'kwarg1': 'c'}
+2025-10-16 13:00:19,023 [DEBUG] __main__ (logging.py:306): test_function returned: a + b + c

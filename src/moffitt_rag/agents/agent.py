@@ -23,6 +23,7 @@ from ..tools import (
     CollaborationTool
 )
 from ..models.llm import get_llm_model, LLMProvider
+from .limited_call import create_limited_call_agent_executor
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -47,6 +48,8 @@ IMPORTANT TOOL USAGE INSTRUCTIONS:
    Action Input: [Only the search query or filter term]
 
 3. Available tools and when to use them:
+   - For queries about a specific research topic (e.g., "who works in immunology?"), you should first try to see if there is a relevant research program or department. Use the ProgramFilter or DepartmentFilter tools for this.
+   - If you don't find a relevant program or department, or if the query is more general, use the ResearcherSearch tool.
    - ResearcherSearch: Find researchers by expertise, interests, or name
    - DepartmentFilter: Find researchers in a specific academic department
    - ProgramFilter: Find researchers in a specific research program
@@ -89,41 +92,51 @@ Thought: I need to find information about X.
 Action: [TOOL NAME]
 Action Input: [INPUT FOR THE TOOL]
 
+When you have enough information and are ready to provide a final answer, you MUST use the following format:
+
+Thought: I now have enough information to answer the question.
+Final Answer: [YOUR DETAILED ANSWER]
+
 The available tool names are: {tool_names}
 
 IMPORTANT GUIDELINES:
-- Only use the exact tool name (e.g., "ResearcherSearch") for the Action line
-- Do NOT use phrases like "Utilize ResearcherSearch to find..." - just use the tool name
-- Provide only the query in the Action Input line
-- CHECK THE SEARCH RESULTS CAREFULLY before making additional queries
-- PAY ATTENTION to information sufficiency notes in search results
-- BE EFFICIENT and avoid redundant or nearly identical searches
-- For simple queries like "Who is X?", ONE successful search is usually enough
-- Synthesize the information you have before searching again
+- Only use the exact tool name (e.g., "ResearcherSearch") for the Action line.
+- Do NOT use phrases like "Utilize ResearcherSearch to find..." - just use the tool name.
+- Provide only the query in the Action Input line.
+- CHECK THE SEARCH RESULTS CAREFULLY before making additional queries.
+- PAY ATTENTION to information sufficiency notes in search results.
+- BE EFFICIENT and avoid redundant or nearly identical searches.
+- For simple queries like "Who is X?", ONE successful search is usually enough.
+- When you have sufficient information, ALWAYS use the "Final Answer:" format to provide your response.
+- DO NOT try to answer the question without using the "Final Answer:" format.
+- Synthesize the information you have before searching again.
 
 TOOL RESTRICTIONS:
-- ONLY use the tools listed above ({tool_names}) - no other tools are available
-- You CANNOT directly visit websites - there is no "Visit" tool
-- You CANNOT use made-up tools like "CollaborationTool" (use "Collaboration" instead)
+- ONLY use the tools listed above ({tool_names}) - no other tools are available.
+- You CANNOT directly visit websites - there is no "Visit" tool.
+- You CANNOT use made-up tools like "CollaborationTool" (use "Collaboration" instead).
 
 Follow these guidelines for tool selection:
-1. For general researcher searches, use ResearcherSearch
-2. To find researchers in a specific department, use DepartmentFilter
-3. To find researchers in a specific program, use ProgramFilter
-4. To find researchers with similar interests, use InterestMatch
-5. To discover potential collaborations, use Collaboration
+1. For general researcher searches, use ResearcherSearch.
+2. To find researchers in a specific department, use DepartmentFilter.
+3. To find researchers in a specific program, use ProgramFilter.
+4. To find researchers with similar interests, use InterestMatch.
+5. To discover potential collaborations, use Collaboration.
 
-Example of CORRECT format:
+Example of CORRECT tool usage:
 Thought: I need to find information about Dr. Smith and his research.
 Action: ResearcherSearch
 Action Input: Dr. Smith
 
-Example of EFFICIENT search behavior:
+Example of EFFICIENT search behavior and CORRECT final answer format:
 Thought: I need information about Theresa Boyle.
 Action: ResearcherSearch
 Action Input: Theresa Boyle
 [After receiving search results with basic information]
-Thought: The search provided sufficient information about Theresa Boyle, including her program (Pathology) and research focus. I will now synthesize this information to answer the query without further redundant searches.
+Thought: The search provided sufficient information about Theresa Boyle, including her program (Pathology) and research focus. I will now synthesize this information to answer the query.
+Final Answer: Theresa Boyle is a researcher at Moffitt Cancer Center in the Pathology program. She is involved in RNA Panel Research funded by the Salah Foundation, working with collaborators E. Haura and F. Pellini. Her profile can be found at https://www.moffitt.org/research-science/researchers/theresa-boyle.
+
+Source: Moffitt Cancer Center Researcher Database
 
 Remember to provide source information and always be helpful and accurate.
 
@@ -138,8 +151,9 @@ def create_researcher_agent(
     model_name: Optional[str] = None,
     system_message: Optional[str] = None,
     temperature: float = 0.2,
-    enable_reflection: bool = True
-) -> AgentExecutor:
+    enable_reflection: bool = False,
+    max_llm_calls: int = 3
+) -> Union[AgentExecutor, Any]:
     """
     Create a researcher agent for the Moffitt RAG system.
 
@@ -154,9 +168,11 @@ def create_researcher_agent(
             The temperature to use. Defaults to 0.2.
         enable_reflection (bool, optional):
             Whether to enable reflection. Defaults to True.
+        max_llm_calls (int, optional):
+            Maximum number of LLM calls allowed per query. Defaults to 3.
 
     Returns:
-        AgentExecutor: The agent executor
+        Union[AgentExecutor, Any]: The agent executor with call limiting
     """
     try:
         # Log the start of agent creation
@@ -270,6 +286,17 @@ def create_researcher_agent(
                 logger.error(f"Failed to add reflection: {type(e).__name__}: {e}")
                 logger.error(f"Traceback: {traceback.format_exc()}")
                 logger.warning("Continuing without reflection due to error")
+
+        # Add call limiting
+        try:
+            logger.info(f"Adding call limiting with max_calls={max_llm_calls}")
+            agent_executor = create_limited_call_agent_executor(agent_executor, max_llm_calls)
+            logger.info("Call limiting added successfully")
+        except Exception as e:
+            import traceback
+            logger.error(f"Failed to add call limiting: {type(e).__name__}: {e}")
+            logger.error(f"Traceback: {traceback.format_exc()}")
+            logger.warning("Continuing without call limiting due to error")
 
         logger.info("Researcher agent created successfully")
         return agent_executor

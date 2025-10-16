@@ -11,6 +11,10 @@ moffitt-agentic-rag/
 │   ├── markdown/             # Markdown files of researcher profiles
 │   └── raw_html/             # Original HTML content
 │
+├── docs/                     # Documentation for the system
+│
+├── logs/                     # Application logs directory
+│
 ├── schemas/                  # JSON schemas for data validation
 │
 ├── src/                      # Source code
@@ -21,6 +25,7 @@ moffitt-agentic-rag/
 │       ├── models/           # Embedding and language models
 │       ├── agents/           # Agent orchestration
 │       ├── tools/            # Agent tools
+│       ├── utils/            # Utility modules (logging, etc.)
 │       ├── api/              # FastAPI backend
 │       └── frontend/         # Streamlit frontend
 │
@@ -245,22 +250,57 @@ response = euron_model.invoke(messages)
 - System message customization
 
 **Key Functions**:
-- `create_researcher_agent(llm_provider, model_name, system_message)`: Creates a researcher agent with the specified configuration
+- `create_researcher_agent(llm_provider, model_name, system_message, temperature, enable_reflection, max_llm_calls)`: Creates a researcher agent with the specified configuration, including optional call limiting and reflection capabilities
 
 **Usage**:
 ```python
 from moffitt_rag.agents import create_researcher_agent
 from moffitt_rag.models.llm import LLMProvider
 
-# Create the agent
+# Create the agent with call limiting and reflection
 agent = create_researcher_agent(
     llm_provider=LLMProvider.GROQ,
     model_name="meta-llama/llama-4-scout-17b-16e-instruct",
-    temperature=0.3
+    temperature=0.3,
+    enable_reflection=True,
+    max_llm_calls=3
 )
 
 # Use the agent
 response = agent.invoke({"input": "Who studies cancer evolution at Moffitt?"})
+```
+
+#### `limited_call.py`
+**Purpose**: Implements a wrapper around the agent executor to limit the number of LLM calls per query.
+
+**Key Components**:
+- LimitedCallAgentExecutor wrapper class with call tracking
+- Best result selection when terminating early
+- Method interception for tracking LLM calls
+- Integration with the agent creation process
+
+**Key Functions**:
+- `LimitedCallAgentExecutor.__init__(agent_executor, max_calls)`: Initializes the wrapper with a call limit
+- `LimitedCallAgentExecutor.invoke(inputs)`: Invokes the agent with call limiting
+- `LimitedCallAgentExecutor._get_best_result()`: Selects the best result when hitting the call limit
+- `create_limited_call_agent_executor(agent_executor, max_calls)`: Creates a wrapper around an agent executor
+
+**Usage**:
+```python
+from moffitt_rag.agents.limited_call import create_limited_call_agent_executor
+from moffitt_rag.agents import create_researcher_agent
+
+# Create a basic agent
+base_agent = create_researcher_agent(
+    enable_reflection=True,
+    max_llm_calls=3
+)
+
+# Or apply call limiting separately
+limited_agent = create_limited_call_agent_executor(base_agent, max_calls=3)
+
+# Use the agent with call limiting
+response = limited_agent.invoke({"input": "Who studies cancer evolution at Moffitt?"})
 ```
 
 #### `reflection.py`
@@ -543,3 +583,40 @@ This module will include:
 - Streamlit chat interface
 - Visualization components
 - User session management
+
+### Utilities (`src/moffitt_rag/utils/`)
+
+#### `logging.py`
+**Purpose**: Centralized logging configuration and utilities for the entire system.
+
+**Key Components**:
+- Centralized logging configuration with multiple handlers
+- File logging with rotation (daily and size-based)
+- Query logging and tracking
+- Exception logging utilities
+- Context managers for logging specific operations
+
+**Key Functions**:
+- `init_logging(console_level, file_level, log_dir)`: Initialize the logging system
+- `get_logger(name)`: Get a logger for a specific module
+- `log_exception(exception, logger, level, message)`: Log an exception with proper formatting
+- `QueryLogger`: Context manager for tracking and timing queries
+- `log_function_call`: Decorator to log function calls
+
+**Usage**:
+```python
+from moffitt_rag.utils.logging import init_logging, get_logger, QueryLogger
+
+# Initialize logging
+init_logging(log_dir="logs")
+
+# Get a logger for a module
+logger = get_logger(__name__)
+logger.info("This is an informational message")
+logger.error("This is an error message")
+
+# Use the query logger
+with QueryLogger("Who is John Doe?") as qlog:
+    result = agent.invoke({"input": "Who is John Doe?"})
+    qlog.set_result(result)
+```

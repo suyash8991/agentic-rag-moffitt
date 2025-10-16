@@ -54,6 +54,7 @@ class ProgramFilterTool(BaseTool):
         # Use similarity_search with a metadata filter
         try:
             # First try exact match on program field
+            program = program.capitalize()
             results = db.similarity_search(
                 query="",  # Empty query because we're just filtering
                 k=20,
@@ -94,9 +95,9 @@ class ProgramFilterTool(BaseTool):
         ]
 
         for doc in results[:10]:  # Limit to top 10
-            name = doc.metadata.get("name", "Unknown")
-            dept = doc.metadata.get("department", "Unknown Department")
-            formatted_results.append(f"- {name} ({dept})")
+            name = doc.metadata.get("researcher_name", "Unknown")
+            program = doc.metadata.get("program", "Unknown Program")
+            formatted_results.append(f"- {name} ({program})")
 
         return "\n".join(formatted_results)
 
