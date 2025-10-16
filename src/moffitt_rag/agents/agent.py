@@ -49,13 +49,30 @@ IMPORTANT TOOL USAGE INSTRUCTIONS:
 3. Available tools and when to use them:
    - ResearcherSearch: Find researchers by expertise, interests, or name
    - DepartmentFilter: Find researchers in a specific academic department
-   - ProgramFilterTool: Find researchers in a specific research program
-   - InterestMatchTool: Find researchers with similar research interests
-   - CollaborationTool: Discover potential collaborations between research areas
+   - ProgramFilter: Find researchers in a specific research program
+   - InterestMatch: Find researchers with similar research interests
+   - Collaboration: Discover potential collaborations between research areas
+
+   IMPORTANT TOOL RESTRICTIONS:
+   - These are the ONLY available tools - you CANNOT use any other tools
+   - You CANNOT visit websites directly - there is no 'Visit' tool
+   - Use 'Collaboration' NOT 'CollaborationTool'
 
 4. Wait for each tool's response before using another tool.
 
-Always include citations to the source information in your responses.
+5. CRITICAL - Avoid redundant searches:
+   - When a tool returns information labeled with [INFORMATION SUFFICIENCY NOTE], the returned information is sufficient to answer simple queries like "Who is X?". DO NOT make additional search queries for the same researcher.
+   - For simple name queries like "Who is Theresa Boyle?", a single successful ResearcherSearch call is usually sufficient.
+   - Do not search for the same researcher multiple times with slight variations.
+   - Focus on synthesizing the information you already have instead of repeatedly searching.
+
+6. Know when to stop searching:
+   - If the first search provides the researcher's name, program, and basic information, this is often enough for simple identity questions.
+   - Only continue searching if you need specific additional information that wasn't in the first result.
+   - If you get results about the wrong researcher, be specific in your follow-up search to avoid the same issue.
+   - No more than 2-3 searches should be needed for most queries.
+
+Always include citations to the source information in your responses, and focus on providing concise, accurate information from the searches you've already performed.
 """
 
 # Define the agent prompt template
@@ -74,10 +91,20 @@ Action Input: [INPUT FOR THE TOOL]
 
 The available tool names are: {tool_names}
 
-IMPORTANT:
+IMPORTANT GUIDELINES:
 - Only use the exact tool name (e.g., "ResearcherSearch") for the Action line
 - Do NOT use phrases like "Utilize ResearcherSearch to find..." - just use the tool name
 - Provide only the query in the Action Input line
+- CHECK THE SEARCH RESULTS CAREFULLY before making additional queries
+- PAY ATTENTION to information sufficiency notes in search results
+- BE EFFICIENT and avoid redundant or nearly identical searches
+- For simple queries like "Who is X?", ONE successful search is usually enough
+- Synthesize the information you have before searching again
+
+TOOL RESTRICTIONS:
+- ONLY use the tools listed above ({tool_names}) - no other tools are available
+- You CANNOT directly visit websites - there is no "Visit" tool
+- You CANNOT use made-up tools like "CollaborationTool" (use "Collaboration" instead)
 
 Follow these guidelines for tool selection:
 1. For general researcher searches, use ResearcherSearch
@@ -90,6 +117,13 @@ Example of CORRECT format:
 Thought: I need to find information about Dr. Smith and his research.
 Action: ResearcherSearch
 Action Input: Dr. Smith
+
+Example of EFFICIENT search behavior:
+Thought: I need information about Theresa Boyle.
+Action: ResearcherSearch
+Action Input: Theresa Boyle
+[After receiving search results with basic information]
+Thought: The search provided sufficient information about Theresa Boyle, including her program (Pathology) and research focus. I will now synthesize this information to answer the query without further redundant searches.
 
 Remember to provide source information and always be helpful and accurate.
 

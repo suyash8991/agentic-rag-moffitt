@@ -142,8 +142,33 @@ class ResearcherSearchTool(BaseTool):
         Returns:
             bool: True if the query is allowed, False if it should be rate-limited
         """
-        # Normalize query for comparison (lowercase and remove extra spaces)
-        normalized_query = ' '.join(query.lower().split())
+        # Normalize query for comparison (lowercase, remove extra spaces, and remove punctuation)
+        import re
+        normalized_query = ' '.join(re.sub(r'[^\w\s]', '', query.lower()).split())
+
+        # Check for semantic similarity with previous queries to prevent minor variations
+        # causing redundant searches
+        similar_queries = []
+        for prev_query in self._query_attempts.keys():
+            # Simple similarity check - share at least 70% of words
+            prev_words = set(prev_query.split())
+            curr_words = set(normalized_query.split())
+            if prev_words and curr_words:  # Avoid division by zero
+                # Calculate Jaccard similarity (intersection over union)
+                intersection = len(prev_words.intersection(curr_words))
+                union = len(prev_words.union(curr_words))
+                similarity = intersection / union if union > 0 else 0
+
+                if similarity > 0.7:  # 70% similar
+                    similar_queries.append(prev_query)
+
+        # If we have similar queries, use the one with the highest count
+        if similar_queries:
+            max_count = 0
+            for similar_query in similar_queries:
+                if self._query_attempts[similar_query] > max_count:
+                    max_count = self._query_attempts[similar_query]
+                    normalized_query = similar_query  # Use the existing query for counting
 
         # Get current count for this query
         current_count = self._query_attempts.get(normalized_query, 0)
@@ -289,6 +314,41 @@ class ResearcherSearchTool(BaseTool):
 
         return "\n".join(formatted_results)
 
+    def _check_information_sufficiency(self, result_text: str, query: str) -> bool:
+        """
+        Check if the search results provide sufficient information to answer the query.
+
+        For simple name queries like "Who is X?", we consider the result sufficient if it contains
+        basic information about the researcher (name and program).
+
+        Args:
+            result_text (str): The formatted search result
+            query (str): The original query
+
+        Returns:
+            bool: True if information is sufficient to answer the query
+        """
+        # Check if this is a simple "who is X" query
+        if re.search(r'^who\s+is\s+', query.lower()):
+            # For simple identity queries, check if we have the basic info
+            if "Researcher:" in result_text and "Program:" in result_text:
+                # Check if the query contains a name that's in the result
+                query_lower = query.lower()
+                # Extract potential name from query (after "who is")
+                match = re.search(r'who\s+is\s+([^?]+)', query_lower)
+                if match:
+                    potential_name = match.group(1).strip()
+                    # Check if this name appears in the result
+                    if potential_name in result_text.lower():
+                        logger.info("Information deemed sufficient for simple name query")
+
+                        # Make this more obvious to the agent by adding a note
+                        enhanced_result = result_text + "\n\n[INFORMATION SUFFICIENCY NOTE: This result contains the basic information about the researcher. No further searches are needed for a simple identity query.]"
+                        return True, enhanced_result
+
+        # Default case - information may not be sufficient
+        return False, result_text
+
     def _run(self, query: str) -> str:
         """
         Run the tool with the given query.
@@ -315,7 +375,7 @@ class ResearcherSearchTool(BaseTool):
         is_name_search = self._is_name_search(query)
         logger.info(f"Query detected as {'name search' if is_name_search else 'topic search'}")
 
-        # If this is a name search, use metadata filtering
+        # If this is a name search, use metadata filtering with higher priority
         if is_name_search:
             # Extract potential researcher name using detection methods
             potential_name = self._extract_potential_name(query)
@@ -326,16 +386,46 @@ class ResearcherSearchTool(BaseTool):
                 # Get the database
                 db = get_or_create_vector_db()
 
-                # Try exact match first (more strict)
-                exact_filter = {
+                # First try direct name search with more flexible matching
+                direct_filter = {
                     "$or": [
                         {"researcher_name": {"$eq": potential_name}},
                         {"name": {"$eq": potential_name}}
                     ]
                 }
 
+                # Search with direct filter first
+                logger.info(f"Trying direct metadata match for: {potential_name}")
+                direct_results = similarity_search_with_score(
+                    query="",  # Empty query since we're just filtering
+                    filter=direct_filter,
+                    k=5,
+                    db=db
+                )
+
+                if direct_results:
+                    # Direct match found, this is the highest priority
+                    logger.info(f"Found {len(direct_results)} direct matches for {potential_name}")
+                    formatted_result = self._format_results([doc for doc, _ in direct_results], query)
+
+                    # Check if this result provides sufficient information for a simple query
+                    is_sufficient, enhanced_result = self._check_information_sufficiency(formatted_result, query)
+                    return enhanced_result
+
+                # If direct match fails, try exact chunk types for the core information
+                # Prioritize the core chunk type which contains the main researcher information
+                exact_filter = {
+                    "$and": [
+                        {"$or": [
+                            {"researcher_name": {"$eq": potential_name}},
+                            {"name": {"$eq": potential_name}}
+                        ]},
+                        {"chunk_type": {"$eq": "core"}}  # Prioritize core information chunks
+                    ]
+                }
+
                 # Search with exact filter first
-                logger.info(f"Trying exact metadata match for: {potential_name}")
+                logger.info(f"Trying exact metadata match for core chunks: {potential_name}")
                 exact_results = similarity_search_with_score(
                     query="",  # Empty query since we're just filtering
                     filter=exact_filter,
@@ -346,33 +436,52 @@ class ResearcherSearchTool(BaseTool):
                 # If exact match fails, try partial match using $in operator
                 # Since ChromaDB doesn't support $contains, we'll need to do partial matching in code
                 if not exact_results:
-                    logger.info(f"No exact matches, trying to search all chunks for: {potential_name}")
+                    logger.info(f"No exact core matches, trying to search all chunks for: {potential_name}")
                     # Get all documents
                     all_results = db.get()
                     texts = all_results['documents']
                     metadatas = all_results['metadatas']
 
-                    # Manual partial match filtering
-                    matching_docs = []
+                    # Manual partial match filtering with chunk type prioritization
+                    core_matches = []
+                    other_matches = []
+
                     for i, metadata in enumerate(metadatas):
                         researcher_name = metadata.get("researcher_name", "").lower()
                         name = metadata.get("name", "").lower()
+                        chunk_type = metadata.get("chunk_type", "")
 
                         # Check if the name is contained in researcher_name or name fields
                         if (potential_name.lower() in researcher_name) or (potential_name.lower() in name):
                             doc = Document(page_content=texts[i], metadata=metadata)
-                            matching_docs.append((doc, 1.0))  # Assign a score of 1.0
+                            # Prioritize core chunks (basic researcher info)
+                            if chunk_type == "core":
+                                core_matches.append((doc, 1.0))  # Higher score for core chunks
+                            else:
+                                other_matches.append((doc, 0.8))  # Lower score for other chunks
 
-                    if matching_docs:
-                        logger.info(f"Found {len(matching_docs)} partial matches manually")
-                        return self._format_results([doc for doc, _ in matching_docs], query)
+                    # Prioritize core matches, then add other matches
+                    all_matches = core_matches + other_matches
+
+                    if all_matches:
+                        logger.info(f"Found {len(all_matches)} partial matches manually ({len(core_matches)} core)")
+                        formatted_result = self._format_results([doc for doc, _ in all_matches], query)
+
+                        # Check if this result provides sufficient information for a simple query
+                        is_sufficient, enhanced_result = self._check_information_sufficiency(formatted_result, query)
+                        return enhanced_result
                 else:
                     # If we found exact matches, use them
-                    logger.info(f"Found {len(exact_results)} exact matches")
-                    return self._format_results([doc for doc, _ in exact_results], query)
+                    logger.info(f"Found {len(exact_results)} exact core matches")
+                    formatted_result = self._format_results([doc for doc, _ in exact_results], query)
+
+                    # Check if this result provides sufficient information for a simple query
+                    is_sufficient, enhanced_result = self._check_information_sufficiency(formatted_result, query)
+                    return enhanced_result
 
         # For topic searches or if metadata filtering failed, use hybrid search
-        alpha = 0.3 if is_name_search else 0.7
+        # For name searches, give even more weight to keyword matching (lower alpha)
+        alpha = 0.2 if is_name_search else 0.7  # Reduced alpha for name searches to favor keyword matching
         logger.info(f"Using hybrid search with alpha={alpha}")
 
         results = hybrid_search(
@@ -384,7 +493,11 @@ class ResearcherSearchTool(BaseTool):
         if not results:
             return f"No researchers found matching the query: {query}"
 
-        return self._format_results(results, query)
+        formatted_result = self._format_results(results, query)
+
+        # Check if this result provides sufficient information for a simple query
+        is_sufficient, enhanced_result = self._check_information_sufficiency(formatted_result, query)
+        return enhanced_result
 
     async def _arun(self, query: str) -> str:
         """

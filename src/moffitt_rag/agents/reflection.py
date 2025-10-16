@@ -6,6 +6,7 @@ and improve them before responding.
 """
 
 import logging
+import re
 from typing import Dict, Any, List, Optional
 
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
@@ -28,14 +29,32 @@ User's original question:
 Your preliminary answer:
 {answer}
 
-Please reflect on your answer and improve it by considering:
-1. Did you directly answer the user's question?
+CRITICAL REFLECTION GUIDELINES:
+For simple identity questions (e.g., "Who is X?"):
+- BE CONCISE - such questions need direct, focused answers
+- AVOID OVERTHINKING - if you found basic info about the researcher, that's often sufficient
+- DO NOT APOLOGIZE for limitations if you provided accurate information
+- DO NOT claim you need more information if you already have enough to answer the basic question
+- PRIORITIZE providing a clean, clear answer with what you know
+
+For all questions, please reflect on your answer and improve it by considering:
+1. Did you directly answer the user's question? (Most important criteria!)
 2. Did you provide specific details about researchers when relevant?
 3. Is the information accurate and properly attributed?
-4. Could you organize the information better?
-5. Is there anything you should clarify or any assumptions you made?
+4. Is the answer well-organized and concise?
+5. Did you avoid redundant or contradictory statements?
+6. Are you making good use of the information you have already obtained?
 
-Based on this reflection, provide an improved answer:
+COMMON REFLECTION PITFALLS TO AVOID:
+- Claiming you need more information when you have enough for a basic answer
+- Apologizing for limitations when you've provided accurate information
+- Making the answer longer or more complex than necessary
+- Adding unfounded speculations beyond what the data supports
+- Claiming you need to search for information you already found
+- Overqualifying statements that are clearly supported by the data
+
+Based on this reflection, provide an improved answer that directly addresses the user's question
+in a clear, concise, and accurate manner:
 """
 
 
@@ -61,11 +80,18 @@ def reflect_on_answer(
     """
     logger.info("Reflecting on answer")
 
+    # Check if this is a simple identity query that might not need complex reflection
+    is_simple_identity_query = False
+    if re.search(r'^who\s+is\s+\w+', question.lower()):
+        is_simple_identity_query = True
+        logger.info("Detected simple identity query - will use more focused reflection")
+
     # Get the language model
     llm = get_llm_model(
         provider=llm_provider,
         model_name=model_name,
-        temperature=0.3  # Lower temperature for more focused reflection
+        # Use even lower temperature for simple identity queries to ensure concise, focused answers
+        temperature=0.2 if is_simple_identity_query else 0.3
     )
 
     # Format the reflection prompt
@@ -74,12 +100,33 @@ def reflect_on_answer(
         answer=answer
     )
 
+    # Add special note for simple identity queries to prevent overthinking
+    if is_simple_identity_query:
+        # Check if the answer already contains sufficient information
+        has_researcher_info = "researcher:" in answer.lower() and "program:" in answer.lower()
+        has_profile_info = "profile:" in answer.lower()
+
+        if has_researcher_info and has_profile_info and len(answer) < 1500:
+            logger.info("Answer appears to already contain essential information for identity query")
+            reflection_input += "\n\nNote: This is a simple identity question with an answer that already contains basic researcher information. Focus on ensuring the answer is direct, concise, and properly formatted rather than seeking additional information."
+
     # Generate the improved answer
     improved_answer = llm.invoke(reflection_input)
 
     # If the LLM returned a message object, extract the content
     if hasattr(improved_answer, 'content'):
         improved_answer = improved_answer.content
+
+    # Post-processing for simple identity queries to ensure conciseness
+    if is_simple_identity_query:
+        # If the improved answer is very long, it might be overthinking
+        if len(improved_answer) > 2000:
+            logger.warning("Reflected answer for simple identity query is too long - applying post-processing")
+            # Extract the most relevant parts (first few paragraphs often contain the core answer)
+            paragraphs = improved_answer.split("\n\n")
+            # Keep first 2-3 substantive paragraphs
+            substantive_paragraphs = [p for p in paragraphs if len(p) > 50][:3]
+            improved_answer = "\n\n".join(substantive_paragraphs)
 
     return improved_answer
 
