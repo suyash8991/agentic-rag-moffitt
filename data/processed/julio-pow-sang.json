@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/julio-pow-sang",
-  "last_updated": "2025-10-14T22:02:27.367270",
+  "last_updated": "2025-10-19T00:24:32.237337",
   "researcher_id": "1813",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -123,6 +122,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1813"
   },
-  "content_hash": "9dbd804dea62354c2eb25656cd00a5e36af2ce77bd95a628ecccae8894d84779",
-  "researcher_name": "Julio Pow Sang"
+  "content_hash": "66e91e354d185c4fff3e521771aca01a617c7438426f82f1e96a593d3ddde331",
+  "researcher_name": "Julio Pow Sang",
+  "department": "Integrated Mathematical Oncology"
 }

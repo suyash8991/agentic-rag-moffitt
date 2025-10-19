@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/alexander-anderson",
-  "last_updated": "2025-10-14T22:01:52.595040",
+  "last_updated": "2025-10-19T00:24:36.582323",
   "researcher_id": "4617",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -95,17 +94,16 @@
       "authors": ""
     },
     {
-      "title": "Aguad\u00e9-Gorgori\u00f3 G, Anderson ARA, Sol\u00e9 R. Modeling tumors as complex ecosystems. iScience",
-      "pubmed_id": "39280631",
-      "pmc_id": "PMC11402243",
-      "year": "2024",
-      "journal": "27(9):110699",
-      "authors": ""
-    },
-    {
       "title": "Emond R, West J, Grolmusz V, Cosgrove P, Nath A, Anderson ARA, Bild AH. A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind. bioRxiv",
       "pubmed_id": "39282402",
       "pmc_id": "PMC11398327",
+      "year": "2024",
+      "authors": ""
+    },
+    {
+      "title": "Alahmari S, Schultz A, Albrecht J, Tagal V, Siddiqui Z, Prabhakaran S, El Naqa I, Anderson A, Heiser L, Andor N. Cell identity revealed by precise cell cycle state mapping links data modalities. bioRxiv",
+      "pubmed_id": "39282313",
+      "pmc_id": "PMC11398313",
       "year": "2024",
       "authors": ""
     }
@@ -138,6 +136,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4617"
   },
-  "content_hash": "3831f468a9e49ab725de7e4a9597f65be45facc69133de17dd70a63494e6118a",
-  "researcher_name": "Alexander Anderson"
+  "content_hash": "7c7ed2c9a3b35646f09af633a3ba1260e8907ee804005e2beba52d46e8c0ae47",
+  "researcher_name": "Alexander Anderson",
+  "department": "Integrated Mathematical Oncology"
 }

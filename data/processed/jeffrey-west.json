@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jeffrey-west",
-  "last_updated": "2025-10-14T22:02:23.835136",
+  "last_updated": "2025-10-19T00:25:04.210015",
   "researcher_id": "19541",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -52,18 +51,18 @@
       "authors": ""
     },
     {
+      "title": "Emond R, West J, Grolmusz V, Cosgrove P, Nath A, Anderson ARA, Bild AH. A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind. bioRxiv",
+      "pubmed_id": "39282402",
+      "pmc_id": "PMC11398327",
+      "year": "2024",
+      "authors": ""
+    },
+    {
       "title": "Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. NPJ Syst Biol Appl",
       "pubmed_id": "39349537",
       "pmc_id": "PMC11442770",
       "year": "2024",
       "journal": "10(1):106",
-      "authors": ""
-    },
-    {
-      "title": "Emond R, West J, Grolmusz V, Cosgrove P, Nath A, Anderson ARA, Bild AH. A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind. bioRxiv",
-      "pubmed_id": "39282402",
-      "pmc_id": "PMC11398327",
-      "year": "2024",
       "authors": ""
     },
     {
@@ -121,6 +120,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19541"
   },
-  "content_hash": "43ff6de11ad707ab99c5f1033519d190e6c01c58d516973b77d63e50b653c62a",
-  "researcher_name": "Jeffrey West"
+  "content_hash": "6744dac1cc3c7015af807e7a6b3f86904d7aaf6307dc68c804b38cc4190d3bff",
+  "researcher_name": "Jeffrey West",
+  "department": "Integrated Mathematical Oncology"
 }

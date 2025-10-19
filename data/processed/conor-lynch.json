@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/conor-lynch",
-  "last_updated": "2025-10-14T22:03:28.926345",
+  "last_updated": "2025-10-19T00:25:55.598498",
   "researcher_id": "8172",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -148,6 +147,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=8172"
   },
-  "content_hash": "c8bb319bea6e247ecd8f4c3eb9d7db8b5eb84a920bc68df476184c1dcf38e3dc",
-  "researcher_name": "Conor Lynch"
+  "content_hash": "6a0cc3de146893609b4024a1e5b2cbbf1600a4a55e494efdc2ae425d1da0b732",
+  "researcher_name": "Conor Lynch",
+  "department": "Tumor Microenvironment and Metastasis"
 }

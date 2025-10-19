@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/anna-coghill",
-  "last_updated": "2025-10-14T22:04:05.629520",
+  "last_updated": "2025-10-19T00:26:31.874655",
   "researcher_id": "22486",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -40,6 +39,14 @@
       "pubmed_id": "41005710",
       "year": "2025",
       "journal": "104246",
+      "authors": ""
+    },
+    {
+      "title": "Jackson SS, Francis J, Pfeiffer RM, Proietti C, Coghill AE, Yu KJ, Sarathkumara YD, Hsu WL, Argirion I, Wang CP, Chen CJ, Rothman N, Lan Q, Hildesheim A, Doolan DL, Liu Z. Sex Differences in Anti-Epstein-Barr Virus Antibody Responses. J Infect Dis",
+      "pubmed_id": "39932888",
+      "pmc_id": "PMC12372535",
+      "year": "2025",
+      "journal": "232(4):e671-e675",
       "authors": ""
     },
     {
@@ -84,12 +91,6 @@
     {
       "title": "Coghill AE, Thompson Z, Bamford L, Burkholder G, Enron J, Gopal S, Kitahata MM, Mayer KH, Moore R, Yendewa G, Dickey BL, Yanik E, Achenbach C. The association of immunosuppression and HIV control with Kaposi sarcoma among patients on antiretroviral therapy. Aids",
       "pubmed_id": "40704994",
-      "year": "2025",
-      "authors": ""
-    },
-    {
-      "title": "Jackson SS, Francis J, Pfeiffer RM, Proietti C, Coghill AE, Yu KJ, Sarathkumara YD, Hsu WL, Argirion I, Wang CP, Chen CJ, Rothman N, Lan Q, Hildesheim A, Doolan DL, Liu Z. Sex differences in anti-EBV antibody responses. J Infect Dis",
-      "pubmed_id": "39932888",
       "year": "2025",
       "authors": ""
     },
@@ -141,6 +142,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22486"
   },
-  "content_hash": "a4093a5ff1a2f1ec440fe8b1add4c0497a947f4e6b3812fed6289f4736ba87f7",
-  "researcher_name": "Anna Coghill"
+  "content_hash": "5bb1587b9147f5f36d33cc7975579e20417721d911eff20f196428fc70362196",
+  "researcher_name": "Anna Coghill",
+  "department": "Cancer Epidemiology"
 }

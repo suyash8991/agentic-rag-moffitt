@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/martina-molgora",
-  "last_updated": "2025-10-14T22:09:04.310911",
+  "last_updated": "2025-10-19T00:31:09.482159",
   "researcher_id": "39484",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -105,6 +104,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=39484"
   },
-  "content_hash": "7f2382bc7077b8ed3a3beee8cf97fe122a873f6459c1e79431085c7cb2d44701",
-  "researcher_name": "Martina Molgora"
+  "content_hash": "c4845e290aed3a2465dc2d802a6fad5e5aff6e713c97f5c9e092afd1d1a4fb6a",
+  "researcher_name": "Martina Molgora",
+  "department": "Immunology"
 }

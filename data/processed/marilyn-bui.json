@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/marilyn-bui",
-  "last_updated": "2025-10-14T22:06:49.223995",
+  "last_updated": "2025-10-19T00:28:56.592946",
   "researcher_id": "3408",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -131,6 +130,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3408"
   },
-  "content_hash": "f57525b14c734ade26aa31a02b1fe79ef6161738f46f4301c3c6b34a59f31c6f",
-  "researcher_name": "Marilyn Bui"
+  "content_hash": "526f50fa55122c709f1cefc0fc97c66f1d94ed16a0ab280dca37e8e9161e0d97",
+  "researcher_name": "Marilyn Bui",
+  "department": "Machine Learning"
 }

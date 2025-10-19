@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/daniel-abate-daga",
-  "last_updated": "2025-10-14T22:08:26.938454",
+  "last_updated": "2025-10-19T00:30:34.896503",
   "researcher_id": "15812",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -143,6 +142,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15812"
   },
-  "content_hash": "93d55cd83439484b3f92e0f11f504986cbebc23407e4698fc358387298d69cba",
-  "researcher_name": "Daniel Abate Daga"
+  "content_hash": "b892d4fc849a5384073056cb8ca885a6defc55486503a98c5f99df90356a85b2",
+  "researcher_name": "Daniel Abate Daga",
+  "department": "Immunology"
 }

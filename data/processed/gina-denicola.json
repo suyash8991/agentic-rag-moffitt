@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/gina-denicola",
-  "last_updated": "2025-10-14T22:01:30.157976",
+  "last_updated": "2025-10-19T00:24:16.532618",
   "researcher_id": "17020",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -124,6 +123,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17020"
   },
-  "content_hash": "49f99df3dbeb26070bdefe76b89d2fe8bdece786714284a68b68fa790bfd0b09",
-  "researcher_name": "Gina Denicola"
+  "content_hash": "88f64c7d9d88c0dff764002ff85b6b1346a62462f45fec9c343a427bc09ce6ab",
+  "researcher_name": "Gina Denicola",
+  "department": "Metabolism and Physiology"
 }

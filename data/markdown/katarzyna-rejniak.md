@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -534,8 +535,8 @@ Our research focuses on mathematical modeling and computational simulations of t
     * Kim M, Reed D, Rejniak KA. The formation of tight tumor clusters affects the efficacy of cell cycle inhibitors: a hybrid model study. J Theor Biol. 2014 Jul.352:31-50. Pubmedid: [24607745](https://www.ncbi.nlm.nih.gov/pubmed/24607745). Pmcid: PMC5483857. 
     * Rejniak KA. Homeostatic imbalance in epithelial ducts and its role in carcinogenesis. Scientifica (Cairo). 2013 Nov.2012:132978. Pubmedid: [24278670](https://www.ncbi.nlm.nih.gov/pubmed/24278670). Pmcid: PMC3820568. 
     * Kim M, Gillies RJ, Rejniak KA. Current advances in mathematical modeling of anti-cancer drug penetration into tumor tissues. Front Oncol. 2013 Nov.3:278. Pubmedid: [24303366](https://www.ncbi.nlm.nih.gov/pubmed/24303366). Pmcid: PMC3831268. 
-    * Enderling H, Rejniak KA. Simulating cancer: computational models in oncology. Front Oncol. 2013.3:233. Pubmedid: [24062986](https://www.ncbi.nlm.nih.gov/pubmed/24062986). Pmcid: PMC3772565. 
     * Rejniak KA, Estrella V, Chen T, Cohen AS, Lloyd MC, Morse DL. The role of tumor tissue architecture in treatment penetration and efficacy: an integrative study. Front Oncol. 2013.3:111. Pubmedid: [23717812](https://www.ncbi.nlm.nih.gov/pubmed/23717812). Pmcid: PMC3650652. 
+    * Enderling H, Rejniak KA. Simulating cancer: computational models in oncology. Front Oncol. 2013.3:233. Pubmedid: [24062986](https://www.ncbi.nlm.nih.gov/pubmed/24062986). Pmcid: PMC3772565. 
     * Rejniak KA, Anderson AR. State of the art in computational modelling of cancer. Math Med Biol. 2012 Mar.29(1):1-2. Pubmedid: [22200587](https://www.ncbi.nlm.nih.gov/pubmed/22200587). 
     * Rejniak KA, Quaranta V, Anderson AR. Computational investigation of intrinsic and extrinsic mechanisms underlying the formation of carcinoma. Math Med Biol. 2012 Mar.29(1):67-84. Pubmedid: [21106672](https://www.ncbi.nlm.nih.gov/pubmed/21106672). Pmcid: PMC3499074. 
     * Kam Y, Rejniak KA, Anderson AR. Cellular modeling of cancer invasion: integration of in silico and in vitro approaches. J Cell Physiol. 2012 Feb.227(2):431-438. Pubmedid: [21465465](https://www.ncbi.nlm.nih.gov/pubmed/21465465). Pmcid: PMC3687536. 
@@ -715,7 +716,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -909,6 +910,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

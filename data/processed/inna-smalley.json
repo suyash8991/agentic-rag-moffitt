@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/inna-smalley",
-  "last_updated": "2025-10-14T22:01:39.596011",
+  "last_updated": "2025-10-19T00:24:24.217601",
   "researcher_id": "4303",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -129,6 +128,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4303"
   },
-  "content_hash": "720486c9d10dff6990eea172c372010be3d62c3e4abc64fff6534c819cbe1416",
-  "researcher_name": "Inna Smalley"
+  "content_hash": "d4a252c34021cc3fb0842b105cbd419a30fd43fcb5bdbbffdb46109a02136cc4",
+  "researcher_name": "Inna Smalley",
+  "department": "Metabolism and Physiology"
 }

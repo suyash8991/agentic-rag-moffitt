@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jiandong-chen",
-  "last_updated": "2025-10-14T22:02:55.705461",
+  "last_updated": "2025-10-19T00:25:29.376042",
   "researcher_id": "404",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -139,6 +138,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=404"
   },
-  "content_hash": "21040787ad8827abd6fc57f220f7d28bfd5fdd8b7630821a8c7de9e46c11db4b",
-  "researcher_name": "Jiandong Chen"
+  "content_hash": "a84a5d4066a1182e9deee31042414b266b86cf5a9806a73e47e0d630657b810c",
+  "researcher_name": "Jiandong Chen",
+  "department": "Molecular Oncology"
 }

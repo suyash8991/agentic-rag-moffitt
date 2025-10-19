@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/yoga-balagurunathan",
-  "last_updated": "2025-10-14T22:02:35.764497",
+  "last_updated": "2025-10-19T00:25:12.244540",
   "researcher_id": "11050",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -115,6 +114,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=11050"
   },
-  "content_hash": "789504afda155d1eae0c6e698189dea1bea03b80863fe2468b6b06e910229af5",
-  "researcher_name": "Yoga Balagurunathan"
+  "content_hash": "91eba0a0c1c7a584d0ad95f34485a011f0ebd78722daabcb2e70a6d95ccfaf4b",
+  "researcher_name": "Yoga Balagurunathan",
+  "department": "Machine Learning"
 }

@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/greg-sawyer",
-  "last_updated": "2025-10-14T22:00:58.645385",
+  "last_updated": "2025-10-19T00:23:41.402924",
   "researcher_id": "34697",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -119,6 +118,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=34697"
   },
-  "content_hash": "8b9b4dc81e36b584845efd84b7bc61ce5e17c4d00a6cb88dbbac051527bb91ca",
-  "researcher_name": "Greg Sawyer"
+  "content_hash": "4c14011b3c32bf5de704e6841620a949976cdd95bae0cfc91f242b6b24574825",
+  "researcher_name": "Greg Sawyer",
+  "department": "BioEngineering"
 }

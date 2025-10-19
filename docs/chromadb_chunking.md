@@ -62,7 +62,6 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
         chunk_id=f"{prefix}core",
         text=core_info,
         researcher_id=profile.researcher_id,
-        name=profile.name,
         researcher_name=profile.researcher_name,
         program=profile.primary_program,
         department=profile.department,
@@ -79,7 +78,6 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
             chunk_id=f"{prefix}interests",
             text=interests_text,
             researcher_id=profile.researcher_id,
-            name=profile.name,
             researcher_name=profile.researcher_name,
             program=profile.primary_program,
             department=profile.department,
@@ -123,7 +121,6 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
                 chunk_id=f"{prefix}pubs_{i}",
                 text=f"Publications:\n{chunk_text}",
                 researcher_id=profile.researcher_id,
-                name=profile.name,
                 researcher_name=profile.researcher_name,
                 program=profile.primary_program,
                 department=profile.department,
@@ -155,8 +152,7 @@ class ResearcherChunk(BaseModel):
     chunk_id: str
     text: str
     researcher_id: str
-    name: str
-    researcher_name: str = ""  # Added field to match JSON structure
+    researcher_name: str
     program: Optional[str] = None
     department: Optional[str] = None
     research_interests: List[str] = Field(default_factory=list)
@@ -187,7 +183,6 @@ def deduplicate_chunks(chunks: List[ResearcherChunk]) -> List[ResearcherChunk]:
                 chunk_id=new_id,
                 text=chunk.text,
                 researcher_id=chunk.researcher_id,
-                name=chunk.name,
                 researcher_name=chunk.researcher_name,
                 program=chunk.program,
                 department=chunk.department,
@@ -224,7 +219,6 @@ for chunk in chunks:
     research_interests_str = "; ".join(chunk.research_interests) if chunk.research_interests else ""
     metadatas.append({
         "researcher_id": chunk.researcher_id,
-        "name": chunk.name,
         "researcher_name": chunk.researcher_name,
         "program": chunk.program,
         "department": chunk.department,

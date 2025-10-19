@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/keiran-smalley",
-  "last_updated": "2025-10-14T22:07:38.907529",
+  "last_updated": "2025-10-19T00:29:43.060351",
   "researcher_id": "4585",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -174,6 +173,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4585"
   },
-  "content_hash": "a61c03a3fb44881b20580fb27463613708582c1a1871e2ca25e29f1d716a891a",
-  "researcher_name": "Keiran Smalley"
+  "content_hash": "d8d699c85e2792498bf6d18eeec9516d50aa2d6879981834e7de204cba4cb264",
+  "researcher_name": "Keiran Smalley",
+  "department": "Tumor Microenvironment and Metastasis"
 }

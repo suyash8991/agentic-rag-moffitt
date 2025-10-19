@@ -61,8 +61,7 @@ class ResearcherProfile(BaseModel):
     last_updated: datetime
 
     # Biographical information
-    name: str = ""
-    researcher_name: str = ""  # Added field to match JSON structure
+    researcher_name: str = ""  # Primary name field
     degrees: List[str] = Field(default_factory=list)
     title: Optional[str] = None
     primary_program: Optional[str] = None
@@ -94,10 +93,10 @@ class ResearcherProfile(BaseModel):
             str: The full name with degrees
         """
         if not self.degrees:
-            return self.name
+            return self.researcher_name
 
         degrees_str = ", ".join(self.degrees)
-        return f"{self.name}, {degrees_str}"
+        return f"{self.researcher_name}, {degrees_str}"
 
     @property
     def publication_count(self) -> int:
@@ -130,8 +129,7 @@ class ResearcherProfile(BaseModel):
             "researcher_id": self.researcher_id,
             "text": self.to_text(),
             "metadata": {
-                "name": self.name,
-                "researcher_name": self.researcher_name,  # Added researcher_name to metadata
+                "researcher_name": self.researcher_name,  # Primary name field
                 "program": self.primary_program,
                 "department": self.department,
                 "research_interests": self.research_interests,
@@ -203,8 +201,7 @@ class ResearcherChunk(BaseModel):
     chunk_id: str
     text: str
     researcher_id: str
-    name: str
-    researcher_name: str = ""  # Added field to match JSON structure
+    researcher_name: str
     program: Optional[str] = None
     department: Optional[str] = None
     research_interests: List[str] = Field(default_factory=list)

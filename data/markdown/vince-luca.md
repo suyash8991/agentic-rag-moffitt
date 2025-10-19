@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -499,8 +500,8 @@ Dr. Luca's research harnesses the power of directed evolution to understand how 
     * Perez DH, Antfolk D, Chang S, Bustos XE, Medina E, Ramadan AA, Gonzalez-Perez D, Abate-Daga D, Rodriguez PC, Luca VC. Engineering synthetic agonists for targeted activation of Notch signaling. Nat Chem Biol. 2025 Sep. Pubmedid: [40993428](https://www.ncbi.nlm.nih.gov/pubmed/40993428). 
     * Luca VC. LAG Time in the Era of Immunotherapy-New Molecular Insights Into the Immunosuppression Mechanism of Lymphocyte Activation Gene-3. Immunol Rev. 2025 Mar.330(1):e70002. Pubmedid: [39887765](https://www.ncbi.nlm.nih.gov/pubmed/39887765). Pmcid: PMC11917464. 
     * Antfolk D, Ming Q, Manturova A, Goebel EJ, Thompson TB, Luca VC. Molecular mechanism of Activin receptor inhibition by DLK1. Nat Commun. 2025 Jul.16(1):5976. Pubmedid: [40593645](https://www.ncbi.nlm.nih.gov/pubmed/40593645). Pmcid: PMC12216052. 
-    * Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM. Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models. J Immunother Cancer. 2025 Aug.13(8). Pubmedid: [40825611](https://www.ncbi.nlm.nih.gov/pubmed/40825611). Pmcid: PMC12366563. 
     * Singh S, Julia E, Kalita P, Mason C, Ming Q, Lee-Sam A, Gordon S, Buitrago ME, Leung DW, Hwu P, Luca VC. Structure-guided engineering of CD112 receptor variants for optimized immunotherapy. Mol Ther. 2025 Aug.33(8):3590-3604. Pubmedid: [40285356](https://www.ncbi.nlm.nih.gov/pubmed/40285356). Pmcid: PMC12368799. 
+    * Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM. Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models. J Immunother Cancer. 2025 Aug.13(8). Pubmedid: [40825611](https://www.ncbi.nlm.nih.gov/pubmed/40825611). Pmcid: PMC12366563. 
     * Foran G, Hallam RD, Megaly M, Turgambayeva A, Antfolk D, Li Y, Luca VC, Necakov A. Notch1 Phase Separation Coupled Percolation facilitates target gene expression and enhancer looping. Sci Rep. 2024 Sep.14(1):21912. Pubmedid: [39300145](https://www.ncbi.nlm.nih.gov/pubmed/39300145). Pmcid: PMC11413390. 
     * Fowler JL, Zheng SL, Nguyen A, Chen A, Xiong X, Chai T, Chen JY, Karigane D, Banuelos AM, Niizuma K, Kayamori K, Nishimura T, Cromer MK, Gonzalez-Perez D, Mason C, Liu DD, Yilmaz L, Miquerol L, Porteus MH, Luca VC, Majeti R, Nakauchi H, Red-Horse K, Weissman IL, Ang LT, Loh KM. Lineage-tracing hematopoietic stem cell origins in vivo to efficiently make human HLF+ HOXA+ hematopoietic progenitors from pluripotent stem cells. Dev Cell. 2024 May.59(9):1110-1131.e22. Pubmedid: [38569552](https://www.ncbi.nlm.nih.gov/pubmed/38569552). Pmcid: PMC11072092. 
     * Smyrlaki I, Fördős F, Rocamonde-Lago I, Wang Y, Shen B, Lentini A, Luca VC, Reinius B, Teixeira AI, Högberg B. Soluble and multivalent Jag1 DNA origami nanopatterns activate Notch without pulling force. Nat Commun. 2024 Jan.15(1):465. Pubmedid: [38238313](https://www.ncbi.nlm.nih.gov/pubmed/38238313). Pmcid: PMC10796381. 
@@ -711,7 +712,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -905,6 +906,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/vince-luca#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/vince-luca#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/robert-gatenby",
-  "last_updated": "2025-10-14T22:03:07.829829",
+  "last_updated": "2025-10-19T00:24:53.980862",
   "researcher_id": "4306",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -137,6 +136,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4306"
   },
-  "content_hash": "04b3f5b726bc4758b11f7443b9aca93a4cdb324a01867a8cfee37b3c27b8c5eb",
-  "researcher_name": "Robert Gatenby"
+  "content_hash": "eb4bc5acfb8628eadd8182f5089e6d0de64ed7eb90a88d2a776ac95c19809b7c",
+  "researcher_name": "Robert Gatenby",
+  "department": "Molecular Oncology"
 }

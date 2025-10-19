@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/marcelo-bonini",
-  "last_updated": "2025-10-14T22:01:25.271259",
+  "last_updated": "2025-10-19T00:24:13.098355",
   "researcher_id": "unknown",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -34,6 +33,7 @@
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BoniniMarcelo_42703.jpg",
   "contact": {},
-  "content_hash": "ccaaf1f1618a7b5e1a4310ddc9bcba69c112fc3f032984a7ee062eeca5dfa364",
-  "researcher_name": "Marcelo Bonini"
+  "content_hash": "5bcff6355f3f721b9d7a55d67f210473e96a50e85d9473961e9b03e1b7f8bdb9",
+  "researcher_name": "Marcelo Bonini",
+  "department": "Metabolism and Physiology"
 }

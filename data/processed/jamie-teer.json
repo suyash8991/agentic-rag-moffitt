@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jamie-teer",
-  "last_updated": "2025-10-14T22:01:18.901487",
+  "last_updated": "2025-10-19T00:24:05.274941",
   "researcher_id": "10966",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -39,6 +38,13 @@
       "pubmed_id": "40553455",
       "year": "2025",
       "journal": "34(9):1609-1617",
+      "authors": ""
+    },
+    {
+      "title": "Maura F, Bergsagel PL, Ziccheddu B, Kumar S, Maclachlan K, Derkach A, Garces JJ, Firestone R, Braggio E, Asmann Y, Durante M, Diamond BT, Papadimitriou M, Hultcrantz M, Marella A, Castellano G, Maeda A, Lionetti M, Matera A, Pioggia S, Da Vi\u00e0 MC, de Magistris C, Leongamornlert D, DeAvila D, Sudalagunta PR, Canevarolo RR, Siegel EM, Agius P, Teer J, McPherson A, Yamashita Y, Silva AS, Blaney P, Baz R, Patel KK, Campbell P, Morgan G, Fonseca R, Landgren O, Orlowski RZ, Shain KH, Bolli N, Usmani S, Rajkumar SV. Genomics Define Malignant Transformation in Myeloma Precursor Conditions. J Clin Oncol",
+      "pubmed_id": "41061199",
+      "year": "2025",
+      "journal": "JCO2501733",
       "authors": ""
     },
     {
@@ -103,13 +109,6 @@
       "year": "2025",
       "journal": "85(2):378-398",
       "authors": ""
-    },
-    {
-      "title": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq",
-      "pubmed_id": "39989973",
-      "pmc_id": "PMC11844656",
-      "year": "2025",
-      "authors": ""
     }
   ],
   "grants": [
@@ -137,6 +136,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10966"
   },
-  "content_hash": "1429ddaa3e6eba9264553570baba95e5adb9897c990193271517ba6e68eb4be7",
-  "researcher_name": "Jamie Teer"
+  "content_hash": "94235fc70a53008d4156fba00ca622e8800502387b3e2fcd9fa995051ead35bd",
+  "researcher_name": "Jamie Teer",
+  "department": "Biostatistics and Bioinformatics"
 }

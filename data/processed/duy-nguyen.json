@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/duy-nguyen",
-  "last_updated": "2025-10-14T22:03:44.157764",
+  "last_updated": "2025-10-19T00:23:51.603117",
   "researcher_id": "35679",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -107,6 +106,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35679"
   },
-  "content_hash": "bb0f18011ea3d11d1e23a3f2f9ea8399c1a49298eabf44e1365878d3d59d7f69",
-  "researcher_name": "Duy Nguyen"
+  "content_hash": "29a4e34c64d16d135b078790e6db4a329a9af3724a11aaa134324c49fcaf048d",
+  "researcher_name": "Duy Nguyen",
+  "department": "Tumor Microenvironment and Metastasis"
 }

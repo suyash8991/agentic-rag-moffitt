@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jessica-islam",
-  "last_updated": "2025-10-14T22:04:29.201809",
+  "last_updated": "2025-10-19T00:26:55.606017",
   "researcher_id": "28432",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -149,6 +148,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28432"
   },
-  "content_hash": "480af67e1d49aa093c3a50e7f34d80fbd1632abdbc19da403358ed6f5cc0cd7b",
-  "researcher_name": "Jessica Islam"
+  "content_hash": "2c920678b04cf231b220a280d7dc196964ea626db4fc4ab42a34c3c1196562ad",
+  "researcher_name": "Jessica Islam",
+  "department": "Cancer Epidemiology"
 }

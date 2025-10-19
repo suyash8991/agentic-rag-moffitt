@@ -322,13 +322,12 @@ if is_known_researcher and matched_researcher:
 
     for i, metadata in enumerate(metadatas):
         researcher_name = metadata.get("researcher_name", "").lower()
-        name_field = metadata.get("name", "").lower()
 
         # Check for exact matches first
-        if matched_researcher == researcher_name or matched_researcher == name_field:
+        if matched_researcher == researcher_name:
             direct_matches.append(Document(page_content=texts[i], metadata=metadata))
         # Then check for partial matches
-        elif matched_researcher in researcher_name or matched_researcher in name_field:
+        elif matched_researcher in researcher_name:
             partial_matches.append(Document(page_content=texts[i], metadata=metadata))
 
     # If we found direct matches, use them
@@ -346,7 +345,7 @@ if is_known_researcher and matched_researcher:
 **Process**:
 1. For known researchers, performs a direct lookup in the database
 2. Gets all documents and their metadata from the database
-3. Searches for exact matches in the metadata fields (researcher_name, name)
+3. Searches for exact matches in the researcher_name metadata field
 4. If no exact matches, tries partial matches
 5. Returns the matches if found, otherwise continues to hybrid search
 
@@ -425,23 +424,19 @@ for doc in results:
     researcher_id = doc.metadata["researcher_id"]
     profile_url = doc.metadata.get("profile_url", "")
 
-    # Prioritize researcher_name field, fall back to name or extract from URL/text if empty
+    # Get researcher name from metadata, fall back to extraction if empty
     display_name = doc.metadata.get("researcher_name", "").strip()
 
     if not display_name:
-        # Fall back to name field
-        display_name = doc.metadata.get("name", "").strip()
+        # Try to extract name from URL
+        url_name = extract_name_from_url(profile_url)
 
-        if not display_name:
-            # Try to extract name from URL
-            url_name = extract_name_from_url(profile_url)
+        # Try to extract name from text if URL extraction failed
+        text_name = extract_name_from_text(doc.page_content)
 
-            # Try to extract name from text if URL extraction failed
-            text_name = extract_name_from_text(doc.page_content)
-
-            # Use the best name we could find
-            display_name = text_name or url_name or "Unknown Researcher"
-            logger.info(f"Extracted name '{display_name}' for researcher_id {researcher_id} from {'text' if text_name else 'URL'}")
+        # Use the best name we could find
+        display_name = text_name or url_name or "Unknown Researcher"
+        logger.info(f"Extracted name '{display_name}' for researcher_id {researcher_id} from {'text' if text_name else 'URL'}")
 
     program = doc.metadata.get("program", "Unknown Program")
 
@@ -462,13 +457,12 @@ return "\n".join(formatted_results)
 
 **Process**:
 1. Extracts metadata from each document (researcher_id, profile_url)
-2. Prioritizes the researcher_name field for display
-3. Falls back to the name field if researcher_name is empty
-4. If both are empty, tries to extract the name from URL or text
-5. Gets the program information
-6. Extracts a relevant snippet based on the query
-7. Formats each result with researcher name, program, relevance snippet, and profile URL
-8. Joins all results with newlines
+2. Uses the researcher_name field for display
+3. If researcher_name is empty, tries to extract the name from URL or text
+4. Gets the program information
+5. Extracts a relevant snippet based on the query
+6. Formats each result with researcher name, program, relevance snippet, and profile URL
+7. Joins all results with newlines
 
 ## Async Support
 

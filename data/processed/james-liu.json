@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/james-liu",
-  "last_updated": "2025-10-14T22:07:50.192907",
+  "last_updated": "2025-10-19T00:29:56.412549",
   "researcher_id": "19911",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -129,6 +128,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19911"
   },
-  "content_hash": "325757f0a47f6f21036260f3ae43999f4f7e7aa7c00caf2f39444cd1edaf7931",
-  "researcher_name": "James Liu"
+  "content_hash": "5b49c394db4b159b8973cc607fdccf6bd51093c8e3eef41e949bef89ac88a6b8",
+  "researcher_name": "James Liu",
+  "department": "Tumor Microenvironment and Metastasis"
 }

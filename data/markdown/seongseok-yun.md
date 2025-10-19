@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -530,8 +531,8 @@ The current focus of my laboratory is defining the oncogenic mechanisms of MYC i
     * Oh M, McBride A, Yun S, Bhattacharjee S, Slack M, Martin JR, Jeter J, Abraham I. Response to Katona et al. J Natl Cancer Inst. 2019 May.111(5):524-525. Pubmedid: [30715401](https://www.ncbi.nlm.nih.gov/pubmed/30715401). 
     * Acharya UH, Dhawale T, Yun S, Jacobson CA, Chavez JC, Ramos JD, Appelbaum J, Maloney DG. Management of cytokine release syndrome and neurotoxicity in chimeric antigen receptor (CAR) T cell therapy. Expert Rev Hematol. 2019 Mar.12(3):195-205. Pubmedid: [30793644](https://www.ncbi.nlm.nih.gov/pubmed/30793644). 
     * Mirza AS, Yun S, Ali NA, Shin H, O'Neil JL, Elharake M, Schwartz D, Robinson K, Nowell E, Engle G, Badat I, Brimer T, Kuc A, Sequeira A, Mirza S, Sikaria D, Vera JD, Hackney N, Abusrur S, Jesurajan J, Kuang J, Patel S, Khalil S, Bhaskar S, Beard A, Abuelenen T, Ratnasamy K, Visweshwar N, Komrokji R, Jaglal M. Validation of the Khorana score in acute myeloid leukemia patients: a single-institution experience. Thromb J. 2019 Jul.17:13. Pubmedid: [31303864](https://www.ncbi.nlm.nih.gov/pubmed/31303864). Pmcid: PMC6604148. 
-    * Yun S, Vincelette ND. Ivosidenib in IDH1-Mutated Acute Myeloid Leukemia. N Engl J Med. 2018 Sep.379(12):1186. Pubmedid: [30260155](https://www.ncbi.nlm.nih.gov/pubmed/30260155). 
     * Yun S, Sokol L, Zhang L. Disseminated Cutaneous Lesions in a Patient With a Medical History of Myelodysplastic Syndrome. JAMA Oncol. 2018 Sep.4(9):1281-1282. Pubmedid: [29800978](https://www.ncbi.nlm.nih.gov/pubmed/29800978). 
+    * Yun S, Vincelette ND. Ivosidenib in IDH1-Mutated Acute Myeloid Leukemia. N Engl J Med. 2018 Sep.379(12):1186. Pubmedid: [30260155](https://www.ncbi.nlm.nih.gov/pubmed/30260155). 
     * Oh M, McBride A, Yun S, Bhattacharjee S, Slack M, Martin JR, Jeter J, Abraham I. BRCA1 and BRCA2 Gene Mutations and Colorectal Cancer Risk: Systematic Review and Meta-analysis. J Natl Cancer Inst. 2018 Nov.110(11):1178-1189. Pubmedid: [30380096](https://www.ncbi.nlm.nih.gov/pubmed/30380096). 
     * Yun S, Zhang L, Patel MR, Knepper TC, Chavez JC, Pinilla-Ibarz J. Transformation of chronic lymphocytic leukemia into B-cell acute lymphoblastic leukemia. Blood. 2018 Mar.131(11):1258-1261. Pubmedid: [29437555](https://www.ncbi.nlm.nih.gov/pubmed/29437555). 
     * Tenneti P, Zahid U, Iftikhar A, Yun S, Sohail A, Warraich Z, Anwer F. Role of High-Dose Chemotherapy and Autologous Hematopoietic Cell Transplantation for Children and Young Adults with Relapsed Ewing's Sarcoma: A Systematic Review. Sarcoma. 2018 Jun.2018:2640674. Pubmedid: [29973774](https://www.ncbi.nlm.nih.gov/pubmed/29973774). Pmcid: PMC6008812. 
@@ -725,7 +726,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -919,6 +920,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/seongseok-yun#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/seongseok-yun#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

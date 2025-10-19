@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -585,8 +586,8 @@ The main focus of my laboratory is to understand the overlapping and unique acti
     * Su X, Gi YJ, Chakravarti D, Chan IL, Zhang A, Xia X, Tsai KY, Flores ER. TAp63 is a master transcriptional regulator of lipid and glucose metabolism. Cell Metab. 2012 Oct.16(4):511-525. Pubmedid: [23040072](https://www.ncbi.nlm.nih.gov/pubmed/23040072). Pmcid: PMC3483083. 
     * Lee DF, Su J, Ang YS, Carvajal-Vergara X, Mulero-Navarro S, Pereira CF, Gingold J, Wang HL, Zhao R, Sevilla A, Darr H, Williamson AJ, Chang B, Niu X, Aguilo F, Flores ER, Sher YP, Hung MC, Whetton AD, Gelb BD, Moore KA, Snoeck HW, Ma'ayan A, Schaniel C, Lemischka IR. Regulation of embryonic and induced pluripotency by aurora kinase-p53 signaling. Cell Stem Cell. 2012 Aug.11(2):179-194. Pubmedid: [22862944](https://www.ncbi.nlm.nih.gov/pubmed/22862944). Pmcid: PMC3413175. 
     * Flores ER. p73 is critical for the persistence of memory. Cell Death Differ. 2011 Mar.18(3):381-382. Pubmedid: [21317911](https://www.ncbi.nlm.nih.gov/pubmed/21317911). Pmcid: PMC3131993. 
-    * Mitani Y, Li J, Weber RS, Lippman SL, Flores ER, Caulin C, El-Naggar AK. Expression and regulation of the ΔN and TAp63 isoforms in salivary gland tumorigenesis clinical and experimental findings. Am J Pathol. 2011 Jul.179(1):391-399. Pubmedid: [21703418](https://www.ncbi.nlm.nih.gov/pubmed/21703418). Pmcid: PMC3123859. 
     * Flores ER, Halder G. Stem cell proliferation in the skin: alpha-catenin takes over the hippo pathway. Sci Signal. 2011 Jul.4(183):pe34. Pubmedid: [21791701](https://www.ncbi.nlm.nih.gov/pubmed/21791701). 
+    * Mitani Y, Li J, Weber RS, Lippman SL, Flores ER, Caulin C, El-Naggar AK. Expression and regulation of the ΔN and TAp63 isoforms in salivary gland tumorigenesis clinical and experimental findings. Am J Pathol. 2011 Jul.179(1):391-399. Pubmedid: [21703418](https://www.ncbi.nlm.nih.gov/pubmed/21703418). Pmcid: PMC3123859. 
     * Wu H, Zeinab RA, Flores ER, Leng RP. Pirh2, a ubiquitin E3 ligase, inhibits p73 transcriptional activity by promoting its ubiquitination. Mol Cancer Res. 2011 Dec.9(12):1780-1790. Pubmedid: [21994467](https://www.ncbi.nlm.nih.gov/pubmed/21994467). 
     * Bornstein C, Brosh R, Molchadsky A, Madar S, Kogan-Sakin I, Goldstein I, Chakravarti D, Flores ER, Goldfinger N, Sarig R, Rotter V. SPATA18, a spermatogenesis-associated gene, is a novel transcriptional target of p53 and p63. Mol Cell Biol. 2011 Apr.31(8):1679-1689. Pubmedid: [21300779](https://www.ncbi.nlm.nih.gov/pubmed/21300779). Pmcid: PMC3126342. 
     * Su X, Chakravarti D, Cho MS, Liu L, Gi YJ, Lin YL, Leung ML, El-Naggar A, Creighton CJ, Suraokar MB, Wistuba I, Flores ER. TAp63 suppresses metastasis through coordinate regulation of Dicer and miRNAs. Nature. 2010 Oct.467(7318):986-990. Pubmedid: [20962848](https://www.ncbi.nlm.nih.gov/pubmed/20962848). Pmcid: PMC3055799. 
@@ -784,7 +785,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -978,6 +979,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/elsa-flores#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/elsa-flores#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

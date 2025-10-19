@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/dung-tsa-chen",
-  "last_updated": "2025-10-14T22:04:59.781917",
+  "last_updated": "2025-10-19T00:27:26.892979",
   "researcher_id": "3829",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -38,6 +37,14 @@
       "pubmed_id": "40553455",
       "year": "2025",
       "journal": "34(9):1609-1617",
+      "authors": ""
+    },
+    {
+      "title": "DeSomma A, Maletz S, Basinski TL, Morales R, de Castria TB, Bloomston M, Chen DT, Douglas WG, Huguet KL, Jeong D, Jiang K, Kim DW, Luthra A, Pimiento JM, Rajasekhara S, Velanovich V, Park MA, Shields GS, Slavich GM, Permuth JB. Lifetime stressor exposure and depression among patients with pancreatic cancer: insights from the Florida Pancreas Collaborative. BMC Cancer",
+      "pubmed_id": "41062956",
+      "pmc_id": "PMC12506433",
+      "year": "2025",
+      "journal": "25(1):1530",
       "authors": ""
     },
     {
@@ -99,14 +106,6 @@
       "year": "2025",
       "journal": "31(15):3249-3258",
       "authors": ""
-    },
-    {
-      "title": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA. Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma. J Immunol",
-      "pubmed_id": "39120462",
-      "pmc_id": "PMC11404669",
-      "year": "2024",
-      "journal": "213(7):1033-1041",
-      "authors": ""
     }
   ],
   "grants": [
@@ -123,6 +122,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3829"
   },
-  "content_hash": "3ec9191b57c1adfefd34e770223358a40be3a7756a8433a3ae3481aa90d09ab7",
-  "researcher_name": "Dung Tsa Chen"
+  "content_hash": "590ac4f646a1476c2f930c86f3eaf4436a539bb0fcc88e90bb3afe9e04ecf8d9",
+  "researcher_name": "Dung Tsa Chen",
+  "department": "Biostatistics and Bioinformatics"
 }

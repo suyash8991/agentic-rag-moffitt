@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/philippe-spiess",
-  "last_updated": "2025-10-14T22:07:42.184637",
+  "last_updated": "2025-10-19T00:29:47.837862",
   "researcher_id": "4110",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -43,8 +42,14 @@
   ],
   "publications": [
     {
-      "title": "Barrera Cardenas JC, Spiess PE, Garc\u00eda-Perdomo HA. Human papillomavirus vaccination and its effect on genital men's health. Considerations for a public health strategy. Urologia",
-      "pubmed_id": "40898707",
+      "title": "Fazili A, Jazayeri SB, Rose KM, Guske C, Wen L, Durant A, Prunty M, Bukavina L, Tyson MD, Grass GD, Xu H, Spiess PE, Gilbert SM, Sexton WJ, Zemp L, Pessoa RR, Poch M, Lerner SP, Li R. Cisplatin-ineligible patients with muscle-invasive bladder cancer demonstrate poor long-term survival following immediate radical cystectomy. BJU Int",
+      "pubmed_id": "40932312",
+      "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Wen L, Miyagi H, Spiess PE, Yu A, Mendelsohn CL, Tan WS, Psutka SP, Lerner SP, Cheng L, Dyrskj\u00f8t L, Meeks JJ, Shariat SF, Gontero P, Pradere B, Steinberg GD, Kamat AM, Li R. Low-grade non-muscle-invasive bladder cancer: molecular landscape, treatment strategies and emerging therapies. Nat Rev Urol",
+      "pubmed_id": "40931081",
       "year": "2025",
       "authors": ""
     },
@@ -54,6 +59,12 @@
       "pmc_id": "PMC12396133",
       "year": "2025",
       "journal": "123(1):171-182",
+      "authors": ""
+    },
+    {
+      "title": "Barrera Cardenas JC, Spiess PE, Garc\u00eda-Perdomo HA. Human papillomavirus vaccination and its effect on genital men's health. Considerations for a public health strategy. Urologia",
+      "pubmed_id": "40898707",
+      "year": "2025",
       "authors": ""
     },
     {
@@ -98,22 +109,6 @@
       "year": "2025",
       "journal": "23(5)",
       "authors": ""
-    },
-    {
-      "title": "Fazili A, Sirard RB, Elst L, Vandermaesen K, Xu H, Albersen M, Spiess PE. Novel Role Of DSNB in Staging of Primary Urethral Cancer: New Standard?. Int Braz J Urol",
-      "pubmed_id": "40079925",
-      "pmc_id": "PMC12052031",
-      "year": "2025",
-      "journal": "51(3)",
-      "authors": ""
-    },
-    {
-      "title": "Machado RD, Faria EF, J\u00fanior AAR, Stirpari F, Feres RN, Spiess PE, Shariat SF, Reis LO, Dos Reis RB. Is body mass index a risk factor for lymphnode metastasis in penile cancer?. BMC Cancer",
-      "pubmed_id": "40038702",
-      "pmc_id": "PMC11881301",
-      "year": "2025",
-      "journal": "25(1):394",
-      "authors": ""
     }
   ],
   "grants": [
@@ -128,6 +123,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4110"
   },
-  "content_hash": "3dd68a0bd6c511607f39ee276918abda7f851c7cd6f2fccf51d89a4116ebe5c6",
-  "researcher_name": "Philippe Spiess"
+  "content_hash": "7f55ff7372376680d5be6176ff33fb65d5c7e084acde21e46951458f1592559b",
+  "researcher_name": "Philippe Spiess",
+  "department": "Tumor Microenvironment and Metastasis"
 }

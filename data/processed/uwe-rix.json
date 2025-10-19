@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/uwe-rix",
-  "last_updated": "2025-10-14T22:06:16.251952",
+  "last_updated": "2025-10-19T00:28:31.669599",
   "researcher_id": "10126",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -155,6 +154,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10126"
   },
-  "content_hash": "6940ddaa9b2adad265f118dcddb3f13e1af66d8d31041a14ba7146ee77ef645b",
-  "researcher_name": "Uwe Rix"
+  "content_hash": "6e599f2ae33d20857bf483819c036725ac0328b6ddcf95e07480bbf01fc5ddfc",
+  "researcher_name": "Uwe Rix",
+  "department": "Drug Discovery"
 }

@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/vivien-yin",
-  "last_updated": "2025-10-14T22:05:14.597834",
+  "last_updated": "2025-10-19T00:27:43.342848",
   "researcher_id": "35662",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -119,6 +118,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35662"
   },
-  "content_hash": "9eb9d344b7d884ee89188c385408afa2c047bf859c6706b4ae12bc5f1c0d4cf1",
-  "researcher_name": "Vivien Yin"
+  "content_hash": "e978d999c9c8cd3f133b09c1fb0c13779e756a7c189d91959423828517890cec",
+  "researcher_name": "Vivien Yin",
+  "department": "Biostatistics and Bioinformatics"
 }

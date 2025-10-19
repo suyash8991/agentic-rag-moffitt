@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/karen-mann",
-  "last_updated": "2025-10-14T22:03:24.687806",
+  "last_updated": "2025-10-19T00:25:52.202630",
   "researcher_id": "17771",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -132,6 +131,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17771"
   },
-  "content_hash": "c0d2f0a8265f1b7e535f61025c73b6fe0d1c3df0451bfaf2e727cc8b7d19c22a",
-  "researcher_name": "Karen Mann"
+  "content_hash": "0a450f47ff6d90a3512ce321c2db8f3dbf4e89c5bb3844149ff8bc1abc09ee5f",
+  "researcher_name": "Karen Mann",
+  "department": "Molecular Oncology"
 }

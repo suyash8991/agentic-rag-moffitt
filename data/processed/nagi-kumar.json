@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/nagi-kumar",
-  "last_updated": "2025-10-14T22:04:42.759355",
+  "last_updated": "2025-10-19T00:27:06.728366",
   "researcher_id": "1278",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -128,6 +127,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1278"
   },
-  "content_hash": "5dbe64e66643b22eeb131536f015043c10785d3d3a9847b93d6a59377b2c6e3f",
-  "researcher_name": "Nagi Kumar"
+  "content_hash": "6c3a27231b2f75b6fb23f08d09591d6f90cb15b8c1ee6a293218d0615889c550",
+  "researcher_name": "Nagi Kumar",
+  "department": "Cancer Epidemiology"
 }

@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/theresa-boyle",
-  "last_updated": "2025-10-14T22:07:12.630107",
+  "last_updated": "2025-10-19T00:29:20.521138",
   "researcher_id": "16846",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -139,6 +138,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16846"
   },
-  "content_hash": "54bdc4e1ff51c3bb436ff5ca6ece92d0f6592e0f390bd8b78c5c97ef10d8e6b9",
-  "researcher_name": "Theresa Boyle"
+  "content_hash": "dfbc1246034ae20a15d65749b2c26692502294e56b4483f6c22c0e068934d25e",
+  "researcher_name": "Theresa Boyle",
+  "department": "Tumor Microenvironment and Metastasis"
 }

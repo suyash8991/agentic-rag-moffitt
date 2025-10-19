@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -509,8 +510,8 @@ Status: Open
 **If you believe you are eligible for one of these trials or studies, please call  
 [813-745-6100](tel:+813-745-6100) or toll-free [1-800-679-0775](tel:+1-800-679-0775). **
   * ## Publications
+    * Glenny EM, Lin T, Bandera VM, Mirminachi B, Khumukcham SS, Gigic B, Warby CA, Aksonova O, Coleman MF, Carpanese A, Busch C, Himbert C, Ose J, Nix DA, Boucher K, Schirmacher P, Strehli I, Hardikar S, Cohan JN, Jedrzkiewicz J, Brobeil A, Schneider MA, Kahlert C, Siegel EM, Byrd DA, Toriola AT, Shibata D, Li CI, Figueiredo JC, Tan AC, Roper J, Ulrich CM, Hursting SD. Obesity promotes conserved inflammatory and metabolic transcriptional programs in colon tumors: evidence from mouse models and the ColoCare Study Patient Cohort. Am J Clin Nutr. 2025 Sep. Pubmedid: [40998019](https://www.ncbi.nlm.nih.gov/pubmed/40998019). 
     * Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK. Comparison of volumetric and single-slice computed tomography body composition metrics for colorectal cancer survival. Eur J Radiol. 2025 Sep.190:112241. Pubmedid: [40532592](https://www.ncbi.nlm.nih.gov/pubmed/40532592). 
-    * Glenny EM, Lin T, Bandera VM, Mirminachi B, Khumukcham SS, Gigic B, Warby CA, Aksonova O, Coleman MF, Carpanese A, Busch C, Himbert C, Ose J, Nix DA, Boucher K, Schirmacher P, Strehli I, Hardikar S, Cohan JN, Jedrzkiewicz J, Brobeil A, Schneider MA, Kahlert C, Siegel EM, Byrd DA, Toriola AT, Shibata D, Li CI, Figueiredo JC, Tan AC, Roper J, Ulrich CM, Hursting SD. Obesity promotes conserved inflammatory and metabolic transcriptional programs in colon tumors: Evidence from mouse models and the ColoCare Study patient cohort. Am J Clin Nutr. 2025 Sep. Pubmedid: [40998019](https://www.ncbi.nlm.nih.gov/pubmed/40998019). 
     * Ilozumba MN, Gomez MF, Lin T, Himbert C, Round JL, Zac Stephens W, Warby CA, Hardikar S, Li CI, Figueiredo JC, Damerell V, Fillmore GC, Pickron B, Toriola AT, Shibata D, Holowatyj AN, Kahlert C, Sankar K, Siegel EM, Jedrzkiewicz J, Gigic B, Byrd DA, Ose J, Ulrich CM. Pre-surgery gut microbial diversity and abundance are associated with post-surgery onset of cachexia in colorectal cancer patients: the ColoCare Study. Cancer Causes Control. 2025 Sep. Pubmedid: [40906320](https://www.ncbi.nlm.nih.gov/pubmed/40906320). Pmcid: PMC12478455. 
     * Weis AM, Bauer KM, Tang WW, Stephen-Victor E, Bell R, Brown DG, Ekiz HA, Tran V, Klag KA, Swanson EA, Barrios L, Harwood M, Hill JH, Ost KS, Gigic B, Schneider M, Ose J, Hardikar S, Toriola AT, Shibata D, Li CI, Figueiredo JC, Byrd DA, Siegel EM, Arnolds K, Lozupone C, Ulrich CM, O'Connell RM, Stephens WZ, Round JL. A capsular polysaccharide from a healthy human microbiota member activates a Lag-3-NK cell axis to restrain colon cancer and augment immunotherapy. Cell Rep. 2025 Sep.44(9):116172. Pubmedid: [40849910](https://www.ncbi.nlm.nih.gov/pubmed/40849910). 
     * Byrd DA, Gomez M, Hogue S, Wan Y, Ortega-Villa A, Warner A, Dagnall C, Jones K, Hicks B, Albert P, Murphy G, Sinha R, Vogtmann E. Response to Hanif and Sholihah. J Natl Cancer Inst. 2025 Oct.117(10):2144-2145. Pubmedid: [40828889](https://www.ncbi.nlm.nih.gov/pubmed/40828889). Pmcid: PMC12505123. 
@@ -720,7 +721,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -914,6 +915,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/doratha-byrd#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/doratha-byrd#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

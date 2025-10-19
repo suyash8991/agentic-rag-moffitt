@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/stuart-maudsley",
-  "last_updated": "2025-10-14T22:06:04.005895",
+  "last_updated": "2025-10-19T00:28:21.544216",
   "researcher_id": "unknown",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -101,6 +100,7 @@
   "grants": [],
   "photo_url": "",
   "contact": {},
-  "content_hash": "e95557688c8c863ba2dd3af18745f54e7c5879fb361e6daa4bee1c81561c7419",
-  "researcher_name": "Stuart Maudsley"
+  "content_hash": "8d85b60d2c9f68722434a9eab829dcd1d944c22eb621b7492a1ac79c27074990",
+  "researcher_name": "Stuart Maudsley",
+  "department": "Drug Discovery"
 }

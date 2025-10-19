@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/xiaoqing-yu",
-  "last_updated": "2025-10-14T22:08:17.080941",
+  "last_updated": "2025-10-19T00:30:26.896814",
   "researcher_id": "18896",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -25,6 +24,13 @@
     }
   ],
   "publications": [
+    {
+      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
+      "pubmed_id": "40845845",
+      "year": "2025",
+      "journal": "43(10):1917-1936",
+      "authors": ""
+    },
     {
       "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
       "pubmed_id": "40341231",
@@ -92,13 +98,6 @@
       "year": "2025",
       "journal": "13(7)",
       "authors": ""
-    },
-    {
-      "title": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR. Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial. Nat Med",
-      "pubmed_id": "39521884",
-      "year": "2025",
-      "journal": "31(1):176-188",
-      "authors": ""
     }
   ],
   "grants": [
@@ -119,6 +118,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=18896"
   },
-  "content_hash": "a2e67e3cb8901df52b66af6cfb13c8af0f8f2991405029bbbee7891b50f253b6",
-  "researcher_name": "Xiaoqing Yu"
+  "content_hash": "0d118f054b413304fe9819811b1330932fdaac9aa51c6e8f6124bc54cae2ffd5",
+  "researcher_name": "Xiaoqing Yu",
+  "department": "Biostatistics and Bioinformatics"
 }

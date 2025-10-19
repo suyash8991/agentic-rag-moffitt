@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ghulam-rasool",
-  "last_updated": "2025-10-14T22:04:45.963438",
+  "last_updated": "2025-10-19T00:27:11.570563",
   "researcher_id": "32214",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -140,6 +139,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32214"
   },
-  "content_hash": "bea513f29c46aeb5541b69ebc9145d9ee6d7b03174a6cc3db49008f820aa266e",
-  "researcher_name": "Ghulam Rasool"
+  "content_hash": "90fa3a68608b18685b67c4a12a0480dcb6f02b9604287ad59c0e7dd87012dda1",
+  "researcher_name": "Ghulam Rasool",
+  "department": "Machine Learning"
 }

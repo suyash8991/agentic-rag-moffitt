@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/alex-jaeger",
-  "last_updated": "2025-10-14T22:03:14.931462",
+  "last_updated": "2025-10-19T00:25:44.942591",
   "researcher_id": "31015",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -66,14 +65,6 @@
       "authors": ""
     },
     {
-      "title": "Burger ML, Cruz AM, Crossland GE, Gaglia G, Ritch CC, Blatt SE, Bhutkar A, Canner D, Kienka T, Tavana SZ, Barandiaran AL, Garmilla A, Schenkel JM, Hillman M, de Los Rios Kobara I, Li A, Jaeger AM, Hwang WL, Westcott PMK, Manos MP, Holovatska MM, Hodi FS, Regev A, Santagata S, Jacks T. Antigen dominance hierarchies shape TCF1+ progenitor CD8 T cell phenotypes in tumors. Cell",
-      "pubmed_id": "34534464",
-      "pmc_id": "PMC8522630",
-      "year": "2021",
-      "journal": "184(19):4996-5014",
-      "authors": ""
-    },
-    {
       "title": "Nishida Y, Zhao R, Heese LE, Akiyama H, Patel S, Jaeger AM, Jacamo RO, Kojima K, Ma MCJ, Ruvolo VR, Chachad D, Devine W, Lindquist S, Davis RE, Porco JA, Whitesell L, Andreeff M, Ishizawa J. Inhibition of translation initiation factor eIF4a inactivates heat shock factor 1 (HSF1) and exerts anti-leukemia activity in AML. Leukemia",
       "pubmed_id": "34127794",
       "pmc_id": "PMC8764661",
@@ -82,11 +73,11 @@
       "authors": ""
     },
     {
-      "title": "Freed-Pastor WA, Lambert LJ, Ely ZA, Pattada NB, Bhutkar A, Eng G, Mercer KL, Garcia AP, Lin L, Rideout WM, Hwang WL, Schenkel JM, Jaeger AM, Bronson RT, Westcott PMK, Hether TD, Divakar P, Reeves JW, Deshpande V, Delorey T, Phillips D, Yilmaz OH, Regev A, Jacks T. The CD155/TIGIT axis promotes and maintains immune evasion in neoantigen-expressing pancreatic cancer. Cancer Cell",
-      "pubmed_id": "34358448",
-      "pmc_id": "PMC8511341",
+      "title": "Burger ML, Cruz AM, Crossland GE, Gaglia G, Ritch CC, Blatt SE, Bhutkar A, Canner D, Kienka T, Tavana SZ, Barandiaran AL, Garmilla A, Schenkel JM, Hillman M, de Los Rios Kobara I, Li A, Jaeger AM, Hwang WL, Westcott PMK, Manos MP, Holovatska MM, Hodi FS, Regev A, Santagata S, Jacks T. Antigen dominance hierarchies shape TCF1+ progenitor CD8 T cell phenotypes in tumors. Cell",
+      "pubmed_id": "34534464",
+      "pmc_id": "PMC8522630",
       "year": "2021",
-      "journal": "39(10):1342-1360",
+      "journal": "184(19):4996-5014",
       "authors": ""
     },
     {
@@ -95,6 +86,14 @@
       "pmc_id": "PMC8562866",
       "year": "2021",
       "journal": "2(10):1071-1085",
+      "authors": ""
+    },
+    {
+      "title": "Freed-Pastor WA, Lambert LJ, Ely ZA, Pattada NB, Bhutkar A, Eng G, Mercer KL, Garcia AP, Lin L, Rideout WM, Hwang WL, Schenkel JM, Jaeger AM, Bronson RT, Westcott PMK, Hether TD, Divakar P, Reeves JW, Deshpande V, Delorey T, Phillips D, Yilmaz OH, Regev A, Jacks T. The CD155/TIGIT axis promotes and maintains immune evasion in neoantigen-expressing pancreatic cancer. Cancer Cell",
+      "pubmed_id": "34358448",
+      "pmc_id": "PMC8511341",
+      "year": "2021",
+      "journal": "39(10):1342-1360",
       "authors": ""
     },
     {
@@ -144,6 +143,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=31015"
   },
-  "content_hash": "972ed4142dda81de0b7470040f4168ae30e2f6387326831d30eb9aced23a1470",
-  "researcher_name": "Alex Jaeger"
+  "content_hash": "b71432de6968ddfbdb76a6c90867507d41c8ccf72928f4d85a707add56714133",
+  "researcher_name": "Alex Jaeger",
+  "department": "Molecular Oncology"
 }

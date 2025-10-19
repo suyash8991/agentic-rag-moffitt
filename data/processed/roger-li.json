@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/roger-li",
-  "last_updated": "2025-10-14T22:08:55.167667",
+  "last_updated": "2025-10-19T00:30:56.342742",
   "researcher_id": "20904",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -65,6 +64,12 @@
       "authors": ""
     },
     {
+      "title": "Li R, Hensley PJ, Babjuk M, Bukavina L, Psutka SP, Lerner SP, O'Donnell MA, Lotan Y, Bree KK, Redorta JP, McConkey DJ, Lee BH, Mariappan P, Mertens LS, Soloway MS, Svatek RS, Tan WS, Williams SB, Gupta S, Buckley R, Kamat AM. Intermediate-risk Non-muscle-invasive Bladder Cancer: Recommendations for Definitions, Risk Stratification, Management Strategies, and Clinical Trial Design from the International Bladder Cancer Group. Eur Urol Oncol",
+      "pubmed_id": "41076366",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Chang SS, Launer B, Narayan V, Patil D, O'Donnell MA, Hensley PJ, Taylor JA, Li R, Fernandez MI, Zhang H, Krishna V, Vrabac D, Abuzeid WM, Nimgaonkar V, Watson D, Royce TJ, Kiedrowski LA, Joshi A, Konety BR, Spiess PE, Williams SB, Packiam VT, Kamat AM, Lotan Y, Daneshmand S. Computational Histology Artificial Intelligence (CHAI) Enhances Risk Stratification of High-grade Ta Non-muscle-invasive Bladder Cancer in a Multicenter Cohort: Comparison to Current European Association of Urology and American Urological Association Stra. Eur Urol",
       "pubmed_id": "40514253",
       "year": "2025",
@@ -100,14 +105,6 @@
       "year": "2025",
       "journal": "41(5)",
       "authors": ""
-    },
-    {
-      "title": "Galarza Fortuna GM, Grass D, Maughan BL, Jain RK, Dechet C, Beck J, Schuetz E, Sanchez A, O'Neil B, Poch M, Li R, Lloyd S, Tward J, Phunrab T, Hawks JL, Swami U, Boucher KM, Agarwal N, Gupta S. Nivolumab adjuvant to chemo-radiation in localized muscle-invasive urothelial cancer: primary analysis of a multicenter, single-arm, phase II, investigator-initiated trial (NEXT). J Immunother Cancer",
-      "pubmed_id": "40102029",
-      "pmc_id": "PMC11927433",
-      "year": "2025",
-      "journal": "13(3)",
-      "authors": ""
     }
   ],
   "grants": [
@@ -142,6 +139,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=20904"
   },
-  "content_hash": "21056f1df913f54409d0f036fb1b2d46fc281830e56fc59b45d4aecbb2fed0ed",
-  "researcher_name": "Roger Li"
+  "content_hash": "09aabce2f9f40974a0e0d608a538fc758b1132d8b2bcb3846575d5717de708c1",
+  "researcher_name": "Roger Li",
+  "department": "Immunology"
 }

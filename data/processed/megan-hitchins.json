@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/megan-hitchins",
-  "last_updated": "2025-10-14T22:04:26.002042",
+  "last_updated": "2025-10-19T00:26:50.951928",
   "researcher_id": "unknown",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -103,6 +102,7 @@
   "grants": [],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HitchinsMegan_42707.jpg",
   "contact": {},
-  "content_hash": "714f6a5781467eb8d26117bd3e60f3eaa05e6f07f0460808592e9e73125b1a17",
-  "researcher_name": "Megan Hitchins"
+  "content_hash": "319d768b0b2350856c151f79ba485d61e92d1acf4d046f6df0029187b83e40c8",
+  "researcher_name": "Megan Hitchins",
+  "department": "Cancer Epidemiology"
 }

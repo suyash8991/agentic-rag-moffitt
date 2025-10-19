@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mark-ji",
-  "last_updated": "2025-10-14T22:05:38.177847",
+  "last_updated": "2025-10-19T00:28:01.211318",
   "researcher_id": "17534",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -124,6 +123,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17534"
   },
-  "content_hash": "9ee2fe03d5399274e5cb8f0f6881155738bb15d38fec318283415d568d2d76c6",
-  "researcher_name": "Mark Ji"
+  "content_hash": "d8971c07a209926871625f98a32ceb1cc7967b5d1c8c188149bf4a51c33c5de8",
+  "researcher_name": "Mark Ji",
+  "department": "Drug Discovery"
 }

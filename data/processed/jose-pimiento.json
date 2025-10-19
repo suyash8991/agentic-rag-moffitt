@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jose-pimiento",
-  "last_updated": "2025-10-14T22:07:26.196397",
+  "last_updated": "2025-10-19T00:29:32.158007",
   "researcher_id": "6667",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -136,6 +135,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=6667"
   },
-  "content_hash": "20f6fa0d064711817d4270a4e669585dccceedbfb0b1377f7dce7b1a2319ba72",
-  "researcher_name": "Jose Pimiento"
+  "content_hash": "33d10fb77f4ebd679762bd663fd2e50a8d085701112818e4b6777564090a2b88",
+  "researcher_name": "Jose Pimiento",
+  "department": "Tumor Microenvironment and Metastasis"
 }

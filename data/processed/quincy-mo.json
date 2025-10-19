@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/quincy-mo",
-  "last_updated": "2025-10-14T22:01:13.915482",
+  "last_updated": "2025-10-19T00:24:00.700813",
   "researcher_id": "20205",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -33,6 +32,12 @@
       "pubmed_id": "40553455",
       "year": "2025",
       "journal": "34(9):1609-1617",
+      "authors": ""
+    },
+    {
+      "title": "Kazemian E, Mo Q, Matejcic M, Tsai YY, Sobieski D, Li X, Hoogland AI, Crowder SL, Gonzalez BD, Oswald LB, Sleight AG, Nguyen N, Loro\u00f1a NC, Damerell V, Komrokji KR, Mooney K, Playdon MC, Ulrich CM, Li CI, Shibata D, Toriola AT, Ose J, Peoples AR, Hardikar S, Kahlert C, Siegel EM, Bower JE, Schmit SL, Gigic B, Jim HSL, Figueiredo JC. Genetic predisposition to persistent fatigue after a diagnosis of colorectal cancer. J Natl Cancer Inst",
+      "pubmed_id": "40889272",
+      "year": "2025",
       "authors": ""
     },
     {
@@ -94,13 +99,6 @@
       "year": "2024",
       "journal": "8:e2300251",
       "authors": ""
-    },
-    {
-      "title": "Sarfraz H, Bari S, Whiting J, Sur M, Mo Q, Armitage M, Costa RLB. A Cohort Study of the Antitumor Efficacy and Toxicity Profile of Alpelisib for Metastatic or Locally Advanced HR+, HER2- Breast Cancer: A Single-Institution Experience. Oncology-Basel",
-      "pubmed_id": "38011835",
-      "year": "2024",
-      "journal": "102(5):414-424",
-      "authors": ""
     }
   ],
   "grants": [
@@ -121,6 +119,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=20205"
   },
-  "content_hash": "b7b7fa1b6ed5b8e07a20be25c1cd6c41173d297fb4e205b0ec50d9a86ee30a7a",
-  "researcher_name": "Quincy Mo"
+  "content_hash": "ddeabb5bb28695713c051a9ce45249f86a12069c21f7ea82b8898dda40e0a89f",
+  "researcher_name": "Quincy Mo",
+  "department": "Biostatistics and Bioinformatics"
 }

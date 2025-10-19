@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ken-shain",
-  "last_updated": "2025-10-14T22:07:34.348124",
+  "last_updated": "2025-10-19T00:29:38.289662",
   "researcher_id": "2060",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -139,6 +138,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2060"
   },
-  "content_hash": "2ec808f748c7b4c09fc5ed8b7b94faf58076d7a3cd0903f4706e588452c12a92",
-  "researcher_name": "Ken Shain"
+  "content_hash": "273d6d6749e2b654da4b294b3b1f9680323628f8d7aa471afadf61f4cee85b04",
+  "researcher_name": "Ken Shain",
+  "department": "Tumor Microenvironment and Metastasis"
 }

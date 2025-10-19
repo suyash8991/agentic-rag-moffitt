@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -564,8 +565,8 @@ Status: Open
     * Hembree TN, Teer JK, Hakam A, Chiappori AA. Genetic Investigation of Uterine Carcinosarcoma: Case Report and Cohort Analysis. Cancer Control. 2016 Jan.23(1):61-66. Pubmedid: [27009459](https://www.ncbi.nlm.nih.gov/pubmed/27009459). 
     * Raj S, Bui MM, Springett G, Conley A, Lavilla-Alonso S, Zhao X, Chen D, Haysek R, Gonzalez R, Letson GD, Finkelstein SE, Chiappori AA, Gabrilovitch DI, Antonia SJ. Long-Term Clinical Responses of Neoadjuvant Dendritic Cell Infusions and Radiation in Soft Tissue Sarcoma. Sarcoma. 2016 Feb.2015:614736. Pubmedid: [26880867](https://www.ncbi.nlm.nih.gov/pubmed/26880867). Pmcid: PMC4735941. 
     * Shaw AT, Gandhi L, Gadgeel S, Riely GJ, Cetnar J, West H, Camidge DR, Socinski MA, Chiappori A, Mekhail T, Chao BH, Borghaei H, Gold KA, Zeaiter A, Bordogna W, Balas B, Puig O, Henschel V, Ou SI. Alectinib in ALK-positive, crizotinib-resistant, non-small-cell lung cancer: a single-group, multicentre, phase 2 trial. Lancet Oncol. 2016 Feb.17(2):234-242. Pubmedid: [26708155](https://www.ncbi.nlm.nih.gov/pubmed/26708155). Pmcid: PMC4752892. 
-    * Chen L, Kurtyka CA, Welsh EA, Rivera JI, Engel BE, Muñoz-Antonia T, Yoder SJ, Eschrich SA, Creelan BC, Chiappori AA, Gray JE, Ramirez JL, Rosell R, Schabath MB, Haura EB, Chen DT, Cress WD. Early2 factor (E2F) deregulation is a prognostic and predictive biomarker in lung adenocarcinoma. Oncotarget. 2016 Dec.7(50):82254-82265. Pubmedid: [27756884](https://www.ncbi.nlm.nih.gov/pubmed/27756884). Pmcid: PMC5347689. 
     * Gadgeel SM, Shaw AT, Govindan R, Gandhi L, Socinski MA, Camidge DR, De Petris L, Kim DW, Chiappori A, Moro-Sibilot DL, Duruisseaux M, Crino L, De Pas T, Dansin E, Tessmer A, Yang JC, Han JY, Bordogna W, Golding S, Zeaiter A, Ou SI. Pooled Analysis of CNS Response to Alectinib in Two Studies of Pretreated Patients With ALK-Positive Non-Small-Cell Lung Cancer. J Clin Oncol. 2016 Dec.34(34):4079-4085. Pubmedid: [27863201](https://www.ncbi.nlm.nih.gov/pubmed/27863201). Pmcid: PMC7845943. 
+    * Chen L, Kurtyka CA, Welsh EA, Rivera JI, Engel BE, Muñoz-Antonia T, Yoder SJ, Eschrich SA, Creelan BC, Chiappori AA, Gray JE, Ramirez JL, Rosell R, Schabath MB, Haura EB, Chen DT, Cress WD. Early2 factor (E2F) deregulation is a prognostic and predictive biomarker in lung adenocarcinoma. Oncotarget. 2016 Dec.7(50):82254-82265. Pubmedid: [27756884](https://www.ncbi.nlm.nih.gov/pubmed/27756884). Pmcid: PMC5347689. 
     * Soliman HH, Minton SE, Han HS, Ismail-Khan R, Neuger A, Khambati F, Noyes D, Lush R, Chiappori AA, Roberts JD, Link C, Vahanian NN, Mautino M, Streicher H, Sullivan DM, Antonia SJ. A phase I study of indoximod in patients with advanced malignancies. Oncotarget. 2016 Apr.7(16):22928-22938. Pubmedid: [27008709](https://www.ncbi.nlm.nih.gov/pubmed/27008709). Pmcid: PMC5008412. 
     * Chiappori AA, Kolevska T, Spigel DR, Hager S, Rarick M, Gadgeel S, Blais N, Von Pawel J, Hart L, Reck M, Bassett E, Burington B, Schiller JH. A randomized phase II study of the telomerase inhibitor imetelstat as maintenance therapy for advanced non-small-cell lung cancer. Ann Oncol. 2015 Feb.26(2):354-362. Pubmedid: [25467017](https://www.ncbi.nlm.nih.gov/pubmed/25467017). Pmcid: PMC4304381. 
     * Tchekmedyian N, Gray JE, Creelan BC, Chiappori AA, Beg AA, Soliman H, Perez BA, Antonia SJ. Propelling Immunotherapy Combinations Into the Clinic. Oncology (Williston Park). 2015 Dec.29(12):990-1002. Pubmedid: [26680224](https://www.ncbi.nlm.nih.gov/pubmed/26680224). 
@@ -766,7 +767,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -960,6 +961,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/alberto-chiappori#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/alberto-chiappori#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/katarzyna-rejniak",
-  "last_updated": "2025-10-14T22:02:16.285104",
+  "last_updated": "2025-10-19T00:24:57.136106",
   "researcher_id": "4695",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -138,6 +137,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4695"
   },
-  "content_hash": "d705f8718bf58cc24a1cb565694303b3327b76900ea6a2e5be1c9a442babdd81",
-  "researcher_name": "Katarzyna Rejniak"
+  "content_hash": "e9a6d067555b35cf40e12fd45603b7de934a31dcd0f47ed33ae41920668e1e98",
+  "researcher_name": "Katarzyna Rejniak",
+  "department": "Integrated Mathematical Oncology"
 }

@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/brian-czerniecki",
-  "last_updated": "2025-10-14T22:08:38.875657",
+  "last_updated": "2025-10-19T00:30:46.085261",
   "researcher_id": "17054",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -113,15 +112,15 @@
       "authors": ""
     },
     {
+      "title": "Burgos E, Aiello P, Aldrich A, Weinfurtner R, Czerniecki BJ, Soyano AE. Dendritic Cell Immunotherapy for De Novo HER2+ Metastatic Breast Cancer. Ann Case Rep",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Basta A, Lien K, Sun W, Whiting J, Armitage M, Soyano AE, Armaghani A, Loftus L, O Apos Connor T, Dvir K, Han HS, Soliman H, Czerniecki BJ, Costa RLB. A Real-World Single-Center Cohort Study on the Tolerability of Trastuzumab Deruxtecan for HER2+ Metastatic Breast Cancer. Oncology-Basel",
       "pubmed_id": "40759100",
       "year": "2025",
       "journal": "1-10",
-      "authors": ""
-    },
-    {
-      "title": "Burgos E, Aiello P, Aldrich A, Weinfurtner R, Czerniecki BJ, Soyano AE. Dendritic Cell Immunotherapy for De Novo HER2+ Metastatic Breast Cancer. Ann Case Rep",
-      "year": "2025",
       "authors": ""
     }
   ],
@@ -158,6 +157,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17054"
   },
-  "content_hash": "f6e8471050c737804e5b1b86717a55f11763b6df3fee088e14eada9fc03b358c",
-  "researcher_name": "Brian Czerniecki"
+  "content_hash": "93e6b73078f7be703d8dc3921310a650cd92e45e3214331cabe52aaa02e7aed4",
+  "researcher_name": "Brian Czerniecki",
+  "department": "Immunology"
 }

@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/doug-letson",
-  "last_updated": "2025-10-14T22:07:46.832136",
+  "last_updated": "2025-10-19T00:29:52.661213",
   "researcher_id": "1337",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -122,6 +121,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1337"
   },
-  "content_hash": "b9fed77e9aad25bad601eaa372f99840b37a106aca435df0296c255f59ce0ff1",
-  "researcher_name": "Doug Letson"
+  "content_hash": "b0e219d5bfc7eeded78410f25b38bc96295bfddf10a24ba50e63a4ef9a5ab7ea",
+  "researcher_name": "Doug Letson",
+  "department": "Tumor Microenvironment and Metastasis"
 }

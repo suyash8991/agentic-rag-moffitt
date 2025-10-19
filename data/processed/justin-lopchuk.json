@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/justin-lopchuk",
-  "last_updated": "2025-10-14T22:05:51.728983",
+  "last_updated": "2025-10-19T00:28:11.786949",
   "researcher_id": "17775",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -130,6 +129,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17775"
   },
-  "content_hash": "da2b77f6e156dc26d853d42afc8a27e8f41352aa9ebe9897a70834a9010c7a09",
-  "researcher_name": "Justin Lopchuk"
+  "content_hash": "bb9d841acf53baff13916ab9041767b28ad36177b3193c9015170da3aad21cfa",
+  "researcher_name": "Justin Lopchuk",
+  "department": "Drug Discovery"
 }

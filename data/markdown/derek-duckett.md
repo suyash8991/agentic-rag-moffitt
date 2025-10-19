@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -504,8 +505,8 @@ Dr. Duckett earned his PhD degree in Biochemistry from the University of Dundee 
     * Ghosh P, Schmitz M, Pandurangan T, Zeleke ST, Chan SC, Mosior J, Sun L, Palve V, Grassie D, Anand K, Frydman S, Roush WR, Schönbrunn E, Geyer M, Duckett D, Monastyrskyi A. Discovery and design of molecular glue enhancers of CDK12-DDB1 interactions for targeted degradation of cyclin K. RSC Chem Biol. 2024 Oct. Pubmedid: [39450271](https://www.ncbi.nlm.nih.gov/pubmed/39450271). Pmcid: PMC11494886. 
     * Bhutada I, Khambati F, Cheng SY, Tiek DM, Duckett D, Lawrence H, Vogelbaum MA, Mo Q, Chellappan SP, Padmanabhan J. CDK7 and CDK9 inhibition interferes with transcription, translation, and stemness, and induces cytotoxicity in GBM irrespective of temozolomide sensitivity. Neurooncol. 2024 Jan.26(1):70-84. Pubmedid: [37551745](https://www.ncbi.nlm.nih.gov/pubmed/37551745). Pmcid: PMC10768977. 
     * Schmitz M, Kaltheuner IH, Anand K, Düster R, Moecking J, Monastyrskyi A, Duckett DR, Roush WR, Geyer M. The reversible inhibitor SR-4835 binds Cdk12/cyclin K in a noncanonical G-loop conformation. J Biol Chem. 2024 Jan.300(1):105501. Pubmedid: [38016516](https://www.ncbi.nlm.nih.gov/pubmed/38016516). Pmcid: PMC10767194. 
-    * Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L, Duckett DR, Teng M. An Epigenomic fingerprint of human cancers by landscape interrogation of super enhancers at the constituent level. PLoS Comput Biol. 2024 Feb.20(2):e1011873. Pubmedid: [38335222](https://www.ncbi.nlm.nih.gov/pubmed/38335222). Pmcid: PMC10883583. 
     * Morozova A, Chan SC, Bayle S, Sun L, Grassie D, Iermolaieva A, Kalaga MN, Frydman S, Sansil S, Schönbrunn E, Duckett D, Monastyrskyi A. Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties. Eur J Med Chem. 2024 Feb.266:116101. Pubmedid: [38232465](https://www.ncbi.nlm.nih.gov/pubmed/38232465). 
+    * Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L, Duckett DR, Teng M. An Epigenomic fingerprint of human cancers by landscape interrogation of super enhancers at the constituent level. PLoS Comput Biol. 2024 Feb.20(2):e1011873. Pubmedid: [38335222](https://www.ncbi.nlm.nih.gov/pubmed/38335222). Pmcid: PMC10883583. 
     * Choi JY, Noguchi Y, Alburger JM, Bayle S, Chung E, Grant W, Chaikuad A, Knapp S, Duckett DR, Roush WR. Structure-Based Development of Isoform-Selective Inhibitors of Casein Kinase 1ε vs Casein Kinase 1δ. J Med Chem. 2023 Jun.66(11):7162-7178. Pubmedid: [37204207](https://www.ncbi.nlm.nih.gov/pubmed/37204207). Pmcid: PMC10304650. 
     * Liao Y, Chin Chan S, Welsh EA, Fang B, Sun L, Schönbrunn E, Koomen JM, Duckett DR, Haura EB, Monastyrskyi A, Rix U. Chemical Proteomics with Novel Fully Functionalized Fragments and Stringent Target Prioritization Identifies the Glutathione-Dependent Isomerase GSTZ1 as a Lung Cancer Target. Acs Chem Biol. 2023 Feb.18(2):251-264. Pubmedid: [36630201](https://www.ncbi.nlm.nih.gov/pubmed/36630201). 
     * Law V, Chen Z, Vena F, Smalley I, Macaulay R, Evernden BR, Tran N, Pina Y, Puskas J, Caceres G, Bayle S, Johnson J, Liu JKC, Etame A, Vogelbaum M, Rodriguez P, Duckett D, Czerniecki B, Chen A, Smalley KSM, Forsyth PA. A preclinical model of patient-derived cerebrospinal fluid circulating tumor cells for experimental therapeutics in leptomeningeal disease from melanoma. Neurooncol. 2022 Oct.24(10):1673-1686. Pubmedid: [35213727](https://www.ncbi.nlm.nih.gov/pubmed/35213727). Pmcid: PMC9527526. 
@@ -513,8 +514,8 @@ Dr. Duckett earned his PhD degree in Biochemistry from the University of Dundee 
     * Bayer P, Gatenby RA, McDonald PH, Duckett DR, Staňková K, Brown JS. Coordination games in cancer. PLoS One. 2022 Jan.17(1):e0261578. Pubmedid: [35061724](https://www.ncbi.nlm.nih.gov/pubmed/35061724). Pmcid: PMC8782377. 
     * Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M. Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. Nucleic Acids Res. 2022 Apr.50(6):3115-3127. Pubmedid: [35234924](https://www.ncbi.nlm.nih.gov/pubmed/35234924). Pmcid: PMC8989535. 
     * Phadke MS, Chen Z, Li J, Mohamed E, Davies MA, Smalley I, Duckett D, Palve V, Czerniecki BJ, Forsyth PA, Noyes D, Adeegbe DO, Eroglu Z, Nguyen KT, Tsai KY, Rix U, Burd CE, Chen YA, Rodriguez PC, Smalley KSM. Targeted Therapy Given after Anti-PD-1 Leads to Prolonged Responses in Mouse Melanoma Models through Sustained Antitumor Immunity. Cancer Immunol Res. 2021 May.9(5):554-567. Pubmedid: [33653716](https://www.ncbi.nlm.nih.gov/pubmed/33653716). Pmcid: PMC8102376. 
-    * Law V, Baldwin M, Ramamoorthi G, Kodumudi K, Tran N, Smalley I, Duckett D, Kalinski P, Czerniecki B, Smalley KSM, Forsyth PA. A Murine Ommaya Xenograft Model to Study Direct-Targeted Therapy of Leptomeningeal Disease. J Vis Exp. 2021 Jan.(167). Pubmedid: [33586709](https://www.ncbi.nlm.nih.gov/pubmed/33586709). Pmcid: PMC9014476. 
     * Tadesse S, Duckett DR, Monastyrskyi A. The promise and current status of CDK12/13 inhibition for the treatment of cancer. Future Med Chem. 2021 Jan.13(2):117-141. Pubmedid: [33295810](https://www.ncbi.nlm.nih.gov/pubmed/33295810). 
+    * Law V, Baldwin M, Ramamoorthi G, Kodumudi K, Tran N, Smalley I, Duckett D, Kalinski P, Czerniecki B, Smalley KSM, Forsyth PA. A Murine Ommaya Xenograft Model to Study Direct-Targeted Therapy of Leptomeningeal Disease. J Vis Exp. 2021 Jan.(167). Pubmedid: [33586709](https://www.ncbi.nlm.nih.gov/pubmed/33586709). Pmcid: PMC9014476. 
     * Wang Z, Zhang M, Quereda V, Frydman SM, Ming Q, Luca VC, Duckett DR, Ji H. Discovery of an Orally Bioavailable Small-Molecule Inhibitor for the β-Catenin/B-Cell Lymphoma 9 Protein-Protein Interaction. J Med Chem. 2021 Aug.64(16):12109-12131. Pubmedid: [34382808](https://www.ncbi.nlm.nih.gov/pubmed/34382808). Pmcid: PMC8817233. 
     * Maharaj K, Powers JJ, Achille A, Mediavilla-Varela M, Gamal W, Burger KL, Fonseca R, Jiang K, Miskin HP, Maryanski D, Monastyrskyi A, Duckett DR, Roush WR, Cleveland JL, Sahakian E, Pinilla-Ibarz J. The dual PI3Kδ/CK1ε inhibitor umbralisib exhibits unique immunomodulatory effects on CLL T cells. Blood Adv. 2020 Jul.4(13):3072-3084. Pubmedid: [32634240](https://www.ncbi.nlm.nih.gov/pubmed/32634240). Pmcid: PMC7362385. 
     * Vena F, Bayle S, Nieto A, Quereda V, Aceti M, Frydman SM, Sansil SS, Grant W, Monastyrskyi A, McDonald P, Roush WR, Teng M, Duckett D. Targeting Casein Kinase 1 Delta Sensitizes Pancreatic and Bladder Cancer Cells to Gemcitabine Treatment by Upregulating Deoxycytidine Kinase. Mol Cancer Ther. 2020 Aug.19(8):1623-1635. Pubmedid: [32430484](https://www.ncbi.nlm.nih.gov/pubmed/32430484). Pmcid: PMC7415672. 
@@ -755,7 +756,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -949,6 +950,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/derek-duckett#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/derek-duckett#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

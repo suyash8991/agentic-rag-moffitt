@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jongphil-kim",
-  "last_updated": "2025-10-14T22:08:04.061362",
+  "last_updated": "2025-10-19T00:30:12.893425",
   "researcher_id": "4228",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -116,6 +115,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4228"
   },
-  "content_hash": "045f5b542e47bc7a90e81fd05a763f67528159d0673e24dda744dbdb40bd0a38",
-  "researcher_name": "Jongphil Kim"
+  "content_hash": "049fb5fcb8199a45121794a68801d6c4b0a0d04e9ba65225daf9dcd2b00af1bd",
+  "researcher_name": "Jongphil Kim",
+  "department": "Biostatistics and Bioinformatics"
 }

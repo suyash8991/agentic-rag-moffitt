@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/robert-haile",
-  "last_updated": "2025-10-14T22:04:17.908370",
+  "last_updated": "2025-10-19T00:26:44.389619",
   "researcher_id": "unknown",
-  "name": "",
   "degrees": [],
   "title": "",
   "primary_program": "Cancer Epidemiology",
@@ -61,6 +60,7 @@
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HaileRobert_42708.jpg",
   "contact": {},
-  "content_hash": "e8d64e392ffdf9dccfee1175156d03f0292a8f81ce41762628c391a55df0094a",
-  "researcher_name": "Robert Haile"
+  "content_hash": "e0bb9ab3f4d5f8321a1e46af9bd7d85f767d84da925cd9117299f963d76107a8",
+  "researcher_name": "Robert Haile",
+  "department": "Cancer Epidemiology"
 }

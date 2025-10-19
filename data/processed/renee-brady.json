@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/renee-brady",
-  "last_updated": "2025-10-14T22:02:03.136924",
+  "last_updated": "2025-10-19T00:24:47.176214",
   "researcher_id": "19089",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -114,6 +113,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19089"
   },
-  "content_hash": "0b35823b759370c1f51f1825cc2332ec1b3d770ba89e8b8970abb8417d6536dc",
-  "researcher_name": "Renee Brady"
+  "content_hash": "abfeb552f2dbe62ebd347dbd503bd6a58165f6ffb66972eb1ade1289cb41b52c",
+  "researcher_name": "Renee Brady",
+  "department": "Integrated Mathematical Oncology"
 }

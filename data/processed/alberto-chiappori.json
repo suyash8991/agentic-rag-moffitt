@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/alberto-chiappori",
-  "last_updated": "2025-10-14T22:07:17.358588",
+  "last_updated": "2025-10-19T00:29:23.896972",
   "researcher_id": "422",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -124,6 +123,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=422"
   },
-  "content_hash": "a66c0a57cb1034068a0b6a15f130bedf6356383dda13e199f54902b0e37f9cff",
-  "researcher_name": "Alberto Chiappori"
+  "content_hash": "9be75e6dd4c27f78885a21aa5f91ca060bcd53259588f9980e31184f8de304a9",
+  "researcher_name": "Alberto Chiappori",
+  "department": "Tumor Microenvironment and Metastasis"
 }

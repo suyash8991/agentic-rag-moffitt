@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -515,15 +516,15 @@ Research Interests: To develop assays, such as the proximity ligation assay (PLA
     * Saltos AN, Creelan BC, Tanvetyanon T, Chiappori AA, Antonia SJ, Shafique MR, Ugrenovic-Petrovic M, Sansil S, Neuger A, Ozakinci H, Boyle TA, Kim J, Haura EB, Gray JE. A phase I/IB trial of binimetinib in combination with erlotinib in NSCLC harboring activating KRAS or EGFR mutations. Lung Cancer. 2023 Sep.183:107313. Pubmedid: [37499521](https://www.ncbi.nlm.nih.gov/pubmed/37499521). 
     * Putty Reddy S, Alontaga AY, Welsh EA, Haura EB, Boyle TA, Eschrich SA, Koomen JM. Deciphering Phenotypes from Protein Biomarkers for Translational Research with PIPER. J Proteome Res. 2023 Jun.22(6):2055-2066. Pubmedid: [37171072](https://www.ncbi.nlm.nih.gov/pubmed/37171072). 
     * Lockhart JH, Ackerman HD, Lee K, Abdalah M, Davis AJ, Hackel N, Boyle TA, Saller J, Keske A, Hänggi K, Ruffell B, Stringfield O, Cress WD, Tan AC, Flores ER. Grading of lung adenocarcinomas with simultaneous segmentation by artificial intelligence (GLASS-AI). NPJ Precis Oncol. 2023 Jul.7(1):68. Pubmedid: [37464050](https://www.ncbi.nlm.nih.gov/pubmed/37464050). Pmcid: PMC10354042. 
-    * Boyle TA, Bossler AD. RNA sequencing steps toward the first line. Cancer. 2023 Aug.129(15):2294-2296. Pubmedid: [37096746](https://www.ncbi.nlm.nih.gov/pubmed/37096746). 
     * Knepper TC, Boyle TA, Hicks JK, Walko CM. Pharmacist-Driven Precision Medicine: A Ferry to Cross the Chasm of Interpreting Biomarker Testing Reports. JCO Oncol Pract. 2023 Aug.19(8):679-680. Pubmedid: [37335971](https://www.ncbi.nlm.nih.gov/pubmed/37335971). 
+    * Boyle TA, Bossler AD. RNA sequencing steps toward the first line. Cancer. 2023 Aug.129(15):2294-2296. Pubmedid: [37096746](https://www.ncbi.nlm.nih.gov/pubmed/37096746). 
     * Zheng H, Yu X, Ibrahim ML, Foresman D, Xie M, Johnson JO, Boyle TA, Ruffell B, Perez BA, Antonia SJ, Ready N, Saltos AN, Cantwell MJ, Beg AA. Combination IFNβ and Membrane-Stable CD40L Maximize Tumor Dendritic Cell Activation and Lymph Node Trafficking to Elicit Systemic T-cell Immunity. Cancer Immunol Res. 2023 Apr.11(4):466-485. Pubmedid: [36757308](https://www.ncbi.nlm.nih.gov/pubmed/36757308). Pmcid: PMC10165690. 
     * Saller JJ, Boyle TA. Molecular Pathology of Lung Cancer. Cold Spring Harb Perspect Med. 2022 Mar.12(3). Pubmedid: [34751163](https://www.ncbi.nlm.nih.gov/pubmed/34751163). Pmcid: PMC8886739. 
     * Chiappori AA, Creelan B, Tanvetyanon T, Gray JE, Haura EB, Thapa R, Barlow ML, Chen Z, Chen DT, Beg AA, Boyle TA, Castro J, Morgan L, Morris E, Aregay M, Hurtado FK, Manenti L, Antonia S. Phase I Study of Taminadenant (PBF509/NIR178), an Adenosine 2A Receptor Antagonist, with or without Spartalizumab (PDR001), in Patients with Advanced Non-Small Cell Lung Cancer. Clin Cancer Res. 2022 Jun.28(11):2313-2320. Pubmedid: [35254415](https://www.ncbi.nlm.nih.gov/pubmed/35254415). Pmcid: PMC9167697. 
     * Majumder A, Hosseinian S, Stroud M, Adhikari E, Saller JJ, Smith MA, Zhang G, Agarwal S, Creixell M, Meyer BS, Kinose F, Bowers K, Fang B, Stewart PA, Welsh EA, Boyle TA, Meyer AS, Koomen JM, Haura EB. Integrated Proteomics-Based Physical and Functional Mapping of AXL Kinase Signaling Pathways and Inhibitors Define Its Role in Cell Migration. Mol Cancer Res. 2022 Apr.20(4):542-555. Pubmedid: [35022314](https://www.ncbi.nlm.nih.gov/pubmed/35022314). Pmcid: PMC8983558. 
     * Boyle TA, Mondal AK, Saeed-Vafa D, Ananth S, Ahluwalia P, Kothapalli R, Chaubey A, Roberts E, Qin D, Magliocco AM, Rojiani AM, Kolhe R. Guideline-Adherent Clinical Validation of a Comprehensive 170-Gene DNA/RNA Panel for Determination of Small Variants, Copy Number Variations, Splice Variants, and Fusions on a Next-Generation Sequencing Platform in the CLIA Setting. Front Genet. 2021 May.12:503830. Pubmedid: [34093633](https://www.ncbi.nlm.nih.gov/pubmed/34093633). Pmcid: PMC8172991. 
-    * Shields MD, Hicks JK, Boyle TA, Haura EB, Creelan BC. Selpercatinib Overcomes CCDC6-RET-Mediated Resistance to Osimertinib. J Thorac Oncol. 2021 Mar.16(3):e15-e17. Pubmedid: [33641722](https://www.ncbi.nlm.nih.gov/pubmed/33641722). 
     * Zaman S, Hajiran A, Coba GA, Robinson T, Madanayake TW, Segarra DT, Chobrutskiy BI, Boyle TA, Zhou JM, Kim Y, Mulé JJ, Teer JK, Manley BJ. Aberrant Epidermal Growth Factor Receptor RNA Splice Products Are Among the Most Frequent Somatic Alterations in Clear Cell Renal Cell Carcinoma and Are Associated with a Poor Response to Immunotherapy. Eur Urol Focus. 2021 Mar.7(2):373-380. Pubmedid: [31901438](https://www.ncbi.nlm.nih.gov/pubmed/31901438). Pmcid: PMC7771328. 
+    * Shields MD, Hicks JK, Boyle TA, Haura EB, Creelan BC. Selpercatinib Overcomes CCDC6-RET-Mediated Resistance to Osimertinib. J Thorac Oncol. 2021 Mar.16(3):e15-e17. Pubmedid: [33641722](https://www.ncbi.nlm.nih.gov/pubmed/33641722). 
     * Bindal P, Gray JE, Boyle TA, Florou V, Puri S. Biomarkers of therapeutic response with immune checkpoint inhibitors. Ann Transl Med. 2021 Jun.9(12):1040. Pubmedid: [34277840](https://www.ncbi.nlm.nih.gov/pubmed/34277840). Pmcid: PMC8267267. 
     * Fusco MJ, Saeed-Vafa D, Carballido EM, Boyle TA, Malafa M, Blue KL, Teer JK, Walko CM, McLeod HL, Hicks JK, Extermann M, Fleming JB, Knepper TC, Kim DW. Identification of Targetable Gene Fusions and Structural Rearrangements to Foster Precision Medicine in KRAS Wild-Type Pancreatic Cancer. JCO Precis Oncol. 2021 Jan.5. Pubmedid: [34250383](https://www.ncbi.nlm.nih.gov/pubmed/34250383). Pmcid: PMC8232071. 
     * Perez BA, Kim S, Wang M, Karimi AM, Powell C, Li J, Dilling TJ, Chiappori A, Latifi K, Rose T, Lannon A, MacMillan G, Saller J, Grass GD, Rosenberg S, Gray J, Haura E, Creelan B, Tanvetyanon T, Saltos A, Shafique M, Boyle TA, Schell MJ, Conejo-Garcia JR, Antonia SJ. Prospective Single-Arm Phase 1 and 2 Study: Ipilimumab and Nivolumab With Thoracic Radiation Therapy After Platinum Chemotherapy in Extensive-Stage Small Cell Lung Cancer. Int J Radiat Oncol Biol Phys. 2021 Feb.109(2):425-435. Pubmedid: [33002543](https://www.ncbi.nlm.nih.gov/pubmed/33002543). Pmcid: PMC8465780. 
@@ -720,7 +721,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -914,6 +915,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/theresa-boyle#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/theresa-boyle#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

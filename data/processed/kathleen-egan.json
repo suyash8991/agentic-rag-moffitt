@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/kathleen-egan",
-  "last_updated": "2025-10-14T22:04:10.172753",
+  "last_updated": "2025-10-19T00:26:36.020879",
   "researcher_id": "3841",
-  "name": "",
   "degrees": [],
   "title": "",
   "primary_program": "Cancer Epidemiology",
@@ -121,6 +120,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3841"
   },
-  "content_hash": "b58096bf54b38a4c5b4cd0bc17f986f0b1d6f47370e995006f019ccf5ef448f4",
-  "researcher_name": "Kathleen Egan"
+  "content_hash": "f27d525cddd5e1e8730240a0067fa8474f2f7d1f92773e88f37857705577c992",
+  "researcher_name": "Kathleen Egan",
+  "department": "Cancer Epidemiology"
 }

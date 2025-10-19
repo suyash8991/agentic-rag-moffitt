@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jose-alejandro-guevara",
-  "last_updated": "2025-10-14T22:08:45.791376",
+  "last_updated": "2025-10-19T00:30:49.372073",
   "researcher_id": "29147",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -132,6 +131,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=29147"
   },
-  "content_hash": "93bc729f6fe153d35755a4634b7b26710fa4d256979c9bfbfd6a9fdc00091efb",
-  "researcher_name": "Jose Alejandro Guevara"
+  "content_hash": "bf6f4b6deb74da196f1cf3bccd6a9eada765859f08dfefa9fbe67d1dcbef67ef",
+  "researcher_name": "Jose Alejandro Guevara",
+  "department": "Immunology"
 }

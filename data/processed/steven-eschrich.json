@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/steven-eschrich",
-  "last_updated": "2025-10-14T22:05:03.856654",
+  "last_updated": "2025-10-19T00:27:30.339478",
   "researcher_id": "2765",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -121,6 +120,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2765"
   },
-  "content_hash": "da0254caceb032f0143c9c2d34f4a76fb4cbf49e5eb33d89d414c0601be23aa4",
-  "researcher_name": "Steven Eschrich"
+  "content_hash": "a5b8306bb4d4d92475ae02036406dee7a9c0ba3d72f0ccd4dff4d15bc353c77a",
+  "researcher_name": "Steven Eschrich",
+  "department": "Biostatistics and Bioinformatics"
 }

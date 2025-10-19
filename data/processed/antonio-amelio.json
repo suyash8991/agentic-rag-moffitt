@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/antonio-amelio",
-  "last_updated": "2025-10-14T22:03:32.971501",
+  "last_updated": "2025-10-19T00:25:59.492078",
   "researcher_id": "32357",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -86,10 +85,11 @@
       "authors": ""
     },
     {
-      "title": "West J, Marzban S, Srivast S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson A, Chung C, Amelio A. Spatial interactions modulate tumor growth and immune infiltration. Res Sq",
-      "pubmed_id": "38826398",
-      "pmc_id": "PMC11142313",
+      "title": "Whately KM, Sengottuvel N, Edatt L, Srivastava S, Woods AT, Tsai YS, Porrello A, Zimmerman MP, Chack AC, Jefferys SR, Yacovone G, Kim DJ, Dudley AC, Amelio AL, Pecot CV. Spon1+ inflammatory monocytes promote collagen remodeling and lung cancer metastasis through lipoprotein receptor 8 signaling. JCI Insight",
+      "pubmed_id": "38716730",
+      "pmc_id": "PMC11141919",
       "year": "2024",
+      "journal": "9(9)",
       "authors": ""
     }
   ],
@@ -119,6 +119,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32357"
   },
-  "content_hash": "971cbf32543e2b9ca6793d5aa5adb9987cbe86552c6c03470a0dc99114bb5159",
-  "researcher_name": "Antonio Amelio"
+  "content_hash": "a69e86ac8dfb2800bd34a913daa28425456a7cde1bce3e6b1c75e10749ba19cb",
+  "researcher_name": "Antonio Amelio",
+  "department": "Tumor Microenvironment and Metastasis"
 }

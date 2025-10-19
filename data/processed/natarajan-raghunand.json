@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/natarajan-raghunand",
-  "last_updated": "2025-10-14T22:05:23.581119",
+  "last_updated": "2025-10-19T00:27:51.225277",
   "researcher_id": "14306",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -119,6 +118,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14306"
   },
-  "content_hash": "a0826848e262d6b44ebb9be869db2c1689c549cbad80f77ddba525e56752adc0",
-  "researcher_name": "Natarajan Raghunand"
+  "content_hash": "1e48234d6a65410bd28a9c543c639fd7119daa4aa4654cf63b4bc4de68041863",
+  "researcher_name": "Natarajan Raghunand",
+  "department": "Metabolism and Physiology"
 }

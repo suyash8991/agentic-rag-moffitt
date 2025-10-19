@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/peter-forsyth",
-  "last_updated": "2025-10-14T22:07:22.216454",
+  "last_updated": "2025-10-19T00:29:27.867850",
   "researcher_id": "8808",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -151,6 +150,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=8808"
   },
-  "content_hash": "e3aab5bace48b1655fb955556c0e2b233360dadec86c2e489ee9212e6416b11e",
-  "researcher_name": "Peter Forsyth"
+  "content_hash": "6873861378d52b977bc976b92a5febf15ac70dfc2711a8d5b3f16c1faa833090",
+  "researcher_name": "Peter Forsyth",
+  "department": "Tumor Microenvironment and Metastasis"
 }

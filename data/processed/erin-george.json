@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/erin-george",
-  "last_updated": "2025-10-14T22:05:30.284633",
+  "last_updated": "2025-10-19T00:27:23.578612",
   "researcher_id": "34700",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -130,6 +129,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=34700"
   },
-  "content_hash": "3b86051a06ade59b19d2bd2a91f6936b2de68e3f954dc351799b58a2edd90c4e",
-  "researcher_name": "Erin George"
+  "content_hash": "43ccb38260d7661bba5103e04e23e314b30a575cd7eca6190fa598771fea8fc7",
+  "researcher_name": "Erin George",
+  "department": "Drug Discovery"
 }

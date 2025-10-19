@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/michael-dunne",
-  "last_updated": "2025-10-14T22:08:41.150010",
+  "last_updated": "2025-10-19T00:30:03.081286",
   "researcher_id": "unknown",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -38,6 +37,7 @@
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DunneMichael_37746.jpg",
   "contact": {},
-  "content_hash": "a22524c0e0e4de8d82899d7a196d285309fe595d7c24a312fa1bde623567b21f",
-  "researcher_name": "Michael Dunne"
+  "content_hash": "f9075b3c1d2a10b01ced18c2960329e85d9ca078ec6575d058cf9078ced262a0",
+  "researcher_name": "Michael Dunne",
+  "department": "Immunology"
 }

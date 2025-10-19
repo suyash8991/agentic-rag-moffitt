@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mingxiang-teng",
-  "last_updated": "2025-10-14T22:01:22.803615",
+  "last_updated": "2025-10-19T00:24:08.723520",
   "researcher_id": "22424",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -135,6 +134,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22424"
   },
-  "content_hash": "ea341ede5995b5004ed2b67fa8c3e3b1f3c8b03d73e5db07d616de5059f7b60c",
-  "researcher_name": "Mingxiang Teng"
+  "content_hash": "0619762e185ea77d0dc2b1f3094913ac4330e3747d8d40169f3dcbe9c5211ec5",
+  "researcher_name": "Mingxiang Teng",
+  "department": "Biostatistics and Bioinformatics"
 }

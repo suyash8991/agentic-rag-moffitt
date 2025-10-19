@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -499,6 +500,7 @@ My focus is in the evolutioanry dynamics and molecular mechanisms driving progre
   * ## Research Interest
 Evolution of tumor invasiveness and adaptive tumor microenvironment particularly in multiple myeloma; cancer metabolism
   * ## Publications
+    * Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F. Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma. Cancer Cell. 2025 Oct. Pubmedid: [41072416](https://www.ncbi.nlm.nih.gov/pubmed/41072416). 
     * Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC. Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma. Haematologica. 2025 Jun.110(6):1351-1367. Pubmedid: [39633543](https://www.ncbi.nlm.nih.gov/pubmed/39633543). Pmcid: PMC12130774. 
     * Persi E, Sudalagunta PR, Wolf YI, Canevarolo RR, Damaghi M, Shain KH, Silva AS, Koonin EV. Genome-level selection in tumors as a universal marker of resistance to therapy. Nat Commun. 2025 Jul.16(1):6535. Pubmedid: [40664650](https://www.ncbi.nlm.nih.gov/pubmed/40664650). Pmcid: PMC12263839. 
     * Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH. The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma. Cancer Res. 2025 Jan.85(2):378-398. Pubmedid: [39476082](https://www.ncbi.nlm.nih.gov/pubmed/39476082). Pmcid: PMC11733535. 
@@ -703,7 +705,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -897,6 +899,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/ariosto-silva#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/ariosto-silva#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

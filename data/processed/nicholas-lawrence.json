@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/nicholas-lawrence",
-  "last_updated": "2025-10-14T22:05:47.646574",
+  "last_updated": "2025-10-19T00:28:08.510346",
   "researcher_id": "3160",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -81,19 +80,19 @@
       "authors": ""
     },
     {
-      "title": "Davis RR, Li B, Yun SY, Chan A, Nareddy P, Gunawan S, Ayaz M, Lawrence HR, Reuther GW, Lawrence NJ, Sch\u00f6nbrunn E. Structural Insights into JAK2 Inhibition by Ruxolitinib, Fedratinib, and Derivatives Thereof. J Med Chem",
-      "pubmed_id": "33570945",
-      "pmc_id": "PMC8327781",
-      "year": "2021",
-      "journal": "64(4):2228-2241",
-      "authors": ""
-    },
-    {
       "title": "McGuire JJ, Frieling JS, Lo CH, Li T, Muhammad A, Lawrence HR, Lawrence NJ, Cook LM, Lynch CC. Mesenchymal stem cell-derived interleukin-28 drives the selection of apoptosis resistant bone metastatic prostate cancer. Nat Commun",
       "pubmed_id": "33526787",
       "pmc_id": "PMC7851397",
       "year": "2021",
       "journal": "12(1):723",
+      "authors": ""
+    },
+    {
+      "title": "Davis RR, Li B, Yun SY, Chan A, Nareddy P, Gunawan S, Ayaz M, Lawrence HR, Reuther GW, Lawrence NJ, Sch\u00f6nbrunn E. Structural Insights into JAK2 Inhibition by Ruxolitinib, Fedratinib, and Derivatives Thereof. J Med Chem",
+      "pubmed_id": "33570945",
+      "pmc_id": "PMC8327781",
+      "year": "2021",
+      "journal": "64(4):2228-2241",
       "authors": ""
     },
     {
@@ -119,6 +118,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3160"
   },
-  "content_hash": "b180eca1f45520c965de6b0f910a790b9a7ee7ccdca173170884d3f14c44b828",
-  "researcher_name": "Nicholas Lawrence"
+  "content_hash": "01582706e9164b99844c551b507ee89ed5d46774e8bbf9b2abb77ddb6ee06b7b",
+  "researcher_name": "Nicholas Lawrence",
+  "department": "Drug Discovery"
 }

@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -517,12 +518,12 @@ Status: Open
     * Tripathi A, Nielsen IE, Umer M, Ramachandran RP, Rasool G. Explainable AI in Genomics: Transcription Factor Binding Site Prediction with Mixture of Experts. ArXiv. 2025 Jul. Pubmedid: [40709306](https://www.ncbi.nlm.nih.gov/pubmed/40709306). Pmcid: PMC12288655. 
     * Waqas A, Tripathi A, Ahmed S, Mukund A, Farooq H, Johnson JO, Stewart PA, Naeini M, Schabath MB, Rasool G. Self-Normalizing Multi-Omics Neural Network for Pan-Cancer Prognostication. Int J Mol Sci. 2025 Jul.26(15). Pubmedid: [40806487](https://www.ncbi.nlm.nih.gov/pubmed/40806487). Pmcid: PMC12347193. 
     * Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq. 2025 Feb. Pubmedid: [39989973](https://www.ncbi.nlm.nih.gov/pubmed/39989973). Pmcid: PMC11844656. 
-    * Ahmed S, Parker N, Park M, Jeong D, Peres L, Davis EW, Permuth JB, Siegel E, Schabath MB, Yilmaz Y, Rasool G. Reliable Radiologic Skeletal Muscle Area Assessment - A Biomarker for Cancer Cachexia Diagnosis. medRxiv. 2025 Apr. Pubmedid: [40313262](https://www.ncbi.nlm.nih.gov/pubmed/40313262). Pmcid: PMC12045449. 
-    * Ullah E, Baig MM, Waqas A, Rasool G, Singh R, Shandilya A, GholamHossieni H, Parwani AV. Multimodal Generative AI for Anatomic Pathology-A Review of Current Applications to Envisage the Future Direction. Adv Anat Pathol. 2025 Apr. Pubmedid: [40298358](https://www.ncbi.nlm.nih.gov/pubmed/40298358). 
     * Waqas A, Khan A, Ozturk ZG, Saeed-Vafa D, Chen W, Dhillon J, Bychkov A, Bui MM, Ullah E, Khalil F, Chumbalkar V, Jameel Z, Bittar HT, Singh RS, Parwani AV, Schabath MB, Rasool G. REASONING BEYOND ACCURACY: EXPERT EVALUATION OF LARGE LANGUAGE MODELS IN DIAGNOSTIC PATHOLOGY. medRxiv. 2025 Apr. Pubmedid: [40297448](https://www.ncbi.nlm.nih.gov/pubmed/40297448). Pmcid: PMC12036407. 
     * Tripathi A, Waqas A, Venkatesan K, Ullah E, Khan A, Khalil F, Chen WS, Ozturk ZG, Saeed-Vafa D, Bui MM, Schabath MB, Rasool G. Employing Consensus-Based Reasoning with Locally Deployed LLMs for Enabling Structured Data Extraction from Surgical Pathology Reports. medRxiv. 2025 Apr. Pubmedid: [40343037](https://www.ncbi.nlm.nih.gov/pubmed/40343037). Pmcid: PMC12060942. 
     * Brodsky V, Ullah E, Bychkov A, Song AH, Walk EE, Louis P, Rasool G, Singh RS, Mahmood F, Bui MM, Parwani AV. Generative Artificial Intelligence in Anatomic Pathology. Arch Pathol Lab Med. 2025 Apr.149(4):298-318. Pubmedid: [39836377](https://www.ncbi.nlm.nih.gov/pubmed/39836377). 
     * Hartsock I, Araujo C, Folio L, Rasool G. Improving Radiology Report Conciseness and Structure via Local Large Language Models. J Imaging Inform Med. 2025 Apr. Pubmedid: [40259201](https://www.ncbi.nlm.nih.gov/pubmed/40259201). 
+    * Ullah E, Baig MM, Waqas A, Rasool G, Singh R, Shandilya A, GholamHossieni H, Parwani AV. Multimodal Generative AI for Anatomic Pathology-A Review of Current Applications to Envisage the Future Direction. Adv Anat Pathol. 2025 Apr. Pubmedid: [40298358](https://www.ncbi.nlm.nih.gov/pubmed/40298358). 
+    * Ahmed S, Parker N, Park M, Jeong D, Peres L, Davis EW, Permuth JB, Siegel E, Schabath MB, Yilmaz Y, Rasool G. Reliable Radiologic Skeletal Muscle Area Assessment - A Biomarker for Cancer Cachexia Diagnosis. medRxiv. 2025 Apr. Pubmedid: [40313262](https://www.ncbi.nlm.nih.gov/pubmed/40313262). Pmcid: PMC12045449. 
     * Villanueva-Meyer JE, Bakas S, Tiwari P, Lupo JM, Calabrese E, Davatzikos C, Bi WL, Ismail M, Akbari H, Lohmann P, Booth TC, Wiestler B, Aerts HJWL, Rasool G, Tonn JC, Nowosielski M, Jain R, Colen RR, Pati S, Baid U, Vollmuth P, Macdonald D, Vogelbaum MA, Chang SM, Huang RY, Galldiks N. Artificial Intelligence for Response Assessment in Neuro Oncology (AI-RANO), part 1: review of current advancements. Lancet Oncol. 2024 Nov.25(11):e581-e588. Pubmedid: [39481414](https://www.ncbi.nlm.nih.gov/pubmed/39481414). 
     * Bakas S, Vollmuth P, Galldiks N, Booth TC, Aerts HJWL, Bi WL, Wiestler B, Tiwari P, Pati S, Baid U, Calabrese E, Lohmann P, Nowosielski M, Jain R, Colen R, Ismail M, Rasool G, Lupo JM, Akbari H, Tonn JC, Macdonald D, Vogelbaum M, Chang SM, Davatzikos C, Villanueva-Meyer JE, Huang RY. Artificial Intelligence for Response Assessment in Neuro Oncology (AI-RANO), part 2: recommendations for standardisation, validation, and good clinical practice. Lancet Oncol. 2024 Nov.25(11):e589-e601. Pubmedid: [39481415](https://www.ncbi.nlm.nih.gov/pubmed/39481415). 
     * Hartsock I, Rasool G. Vision-language models for medical report generation and visual question answering: a review. Front Artif Intell. 2024 Nov.7:1430984. Pubmedid: [39628839](https://www.ncbi.nlm.nih.gov/pubmed/39628839). Pmcid: PMC11611889. 
@@ -719,7 +720,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -913,6 +914,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/ghulam-rasool#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/ghulam-rasool#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

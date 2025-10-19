@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/dorina-avram",
-  "last_updated": "2025-10-14T22:08:30.876080",
+  "last_updated": "2025-10-19T00:30:38.768175",
   "researcher_id": "27668",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -139,6 +138,7 @@
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27668",
     "email": "dorina.avram@moffitt.org"
   },
-  "content_hash": "401cc54ef4d694127f45f99c317b0c2cf1b4de97c7bd985dc1d8fe0007141a55",
-  "researcher_name": "Dorina Avram"
+  "content_hash": "e424d4431f5d56ef4c63952c72abfae051c3fde5d479b6ffd099d5c9e18a7159",
+  "researcher_name": "Dorina Avram",
+  "department": "Immunology"
 }

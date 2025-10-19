@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -587,9 +588,9 @@ My laboratory has a long-standing interest in studying the regulation of p53 by 
     * Chen L, Agrawal S, Zhou W, Zhang R, Chen J. Synergistic activation of p53 by inhibitation of mdm2 expression and DNA damage. Proc Natl Acad Sci U S A. 1998.95:195-200. Pubmedid: [9419352](https://www.ncbi.nlm.nih.gov/pubmed/9419352). 
     * Chen L, Marechal V, Moreau J, Levine A, Chen J. Proteolytic cleavage of the mdm2 oncoprotein during apoptosis. J Biol Chem. 1997.272:22966-22973. Pubmedid: [9278461](https://www.ncbi.nlm.nih.gov/pubmed/9278461). 
     * Chen J, Wu X, Lin J, Levine A. Mdm-2 inhibits the G1 arrest and apoptosis functions of the p53 tumor suppressor protein. Mol Cell Biol. 1996.16:2445-2452. Pubmedid: [8628312](https://www.ncbi.nlm.nih.gov/pubmed/8628312). 
-    * Chen J, Lin J, Levine A. Regulation of transcription functions of the p53 tumor supressor by the mdm-2 oncogene. Mol Med. 1995.1:142-152. Pubmedid: [8529093](https://www.ncbi.nlm.nih.gov/pubmed/8529093). 
     * Horikoshi N, Usheva A, Chen J, Levine A, Weinmann R, Shenk T. Two domains on p53 interat with the TATA-binding protein, and the adenovirus 13S E1A protein disrupts the association, relieving p53-mediated transcriptional repression. Mol Cell Biol. 1995.15:227-234. Pubmedid: [7799929](https://www.ncbi.nlm.nih.gov/pubmed/7799929). 
     * Xiao Z, Chen J, Levine A, Modjtahedi N, Xing J, Sellers W, Livingston D. Interation between the retinoblastoma protein and the oncoprotein. Nature. 1995.375:694-698. Pubmedid: [7791904](https://www.ncbi.nlm.nih.gov/pubmed/7791904). 
+    * Chen J, Lin J, Levine A. Regulation of transcription functions of the p53 tumor supressor by the mdm-2 oncogene. Mol Med. 1995.1:142-152. Pubmedid: [8529093](https://www.ncbi.nlm.nih.gov/pubmed/8529093). 
   * ## Grants
     * Title: Anti-tumor Potential of Temperature-Sensitive p53 Mutants  
 Award Number: 5R01CA260356-03  
@@ -760,7 +761,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -954,6 +955,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/jiandong-chen#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/jiandong-chen#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

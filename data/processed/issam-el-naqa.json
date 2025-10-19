@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/issam-el-naqa",
-  "last_updated": "2025-10-14T22:02:31.595943",
+  "last_updated": "2025-10-19T00:25:09.041042",
   "researcher_id": "27669",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -36,6 +35,22 @@
   ],
   "publications": [
     {
+      "title": "Huang Y, Wei L, Litzenberg D, Li B, Ma C, Kim H, Liu Y, Zhang C, Carson PL, Naqa IE, Zhang W, Wang X. Towards quantitative ionizing radiation acoustic imaging (iRAI) for radiation dose measurement: Validation from simulations to experiments. Med Phys",
+      "pubmed_id": "40891090",
+      "pmc_id": "PMC12402745",
+      "year": "2025",
+      "journal": "52(9):e18091",
+      "authors": ""
+    },
+    {
+      "title": "Tarhini AA, Dave P, El Naqa I. General artificial intelligence for the diagnosis and treatment of cancer: the rise of foundation models. BJR Artif Intell",
+      "pubmed_id": "41030612",
+      "pmc_id": "PMC12478997",
+      "year": "2025",
+      "journal": "2(1):ubaf015",
+      "authors": ""
+    },
+    {
       "title": "Gonzalez BD, Li X, Gudenkauf LM, Pullukkara JJ, Oswald LB, Hoogland AI, Le T, El Naqa I, Saltos AN, Haura EB, Luo Y. Using Bayesian Networks to Predict Urgent Care Visits in Patients Receiving Systemic Therapy for Non-Small Cell Lung Cancer. JCO Clin Cancer Inform",
       "pubmed_id": "40939115",
       "pmc_id": "PMC12483286",
@@ -66,18 +81,18 @@
       "authors": ""
     },
     {
-      "title": "Sharma M, Naqa IE, Sneed PK. Does Time to Retreatment Matter? A Normal Tissue Complication Probability Model to Predict Radionecrosis After Repeat Stereotactic Radiosurgery for Recurrent Brain Metastases Incorporating Time-dependent Discounted Dose. Int J Radiat Oncol Biol Phys",
-      "pubmed_id": "39900228",
-      "year": "2025",
-      "journal": "122(2):467-475",
-      "authors": ""
-    },
-    {
       "title": "El Naqa I, Pilon-Thomas S, Deutsch E. Editorial: Artificial intelligence for cancer immunotherapy. Front Immunol",
       "pubmed_id": "40568575",
       "pmc_id": "PMC12187814",
       "year": "2025",
       "journal": "16:1633422",
+      "authors": ""
+    },
+    {
+      "title": "Sharma M, Naqa IE, Sneed PK. Does Time to Retreatment Matter? A Normal Tissue Complication Probability Model to Predict Radionecrosis After Repeat Stereotactic Radiosurgery for Recurrent Brain Metastases Incorporating Time-dependent Discounted Dose. Int J Radiat Oncol Biol Phys",
+      "pubmed_id": "39900228",
+      "year": "2025",
+      "journal": "122(2):467-475",
       "authors": ""
     },
     {
@@ -93,20 +108,6 @@
       "pmc_id": "PMC12383113",
       "year": "2025",
       "journal": "14(8)",
-      "authors": ""
-    },
-    {
-      "title": "Keall PJ, El Naqa I, Fast MF, Hewson EA, Hindley N, Poulsen P, Sengupta C, Tyagi N, Waddington DEJ. Real-Time Dose-Guided Radiation Therapy. Int J Radiat Oncol Biol Phys",
-      "pubmed_id": "40327027",
-      "year": "2025",
-      "journal": "122(4):787-801",
-      "authors": ""
-    },
-    {
-      "title": "Song WY, Roumeliotis M, Lee J, Fenster A, Rodgers J, Trumpour T, Glicksman R, Berlin A, Carlsson Tedgren \u00c5, Vijande J, Beaulieu L, Mor\u00e9n B, Meyers SM, Rink A, Gao Y, Fahimian B, China D, Ding K, Podder T, Carver E, Rivard MJ, Richardson S, Grkovski M, Meftahi M, Gardner U, Kumar R, Scanderbeg D, Yashar C, El Naqa I, Viswanathan AN, Jia X. Roadmap: medical physics technologies in brachytherapy. Phys Med Biol",
-      "pubmed_id": "40480262",
-      "year": "2025",
-      "journal": "70(14)",
       "authors": ""
     }
   ],
@@ -153,6 +154,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27669"
   },
-  "content_hash": "6848cc870fe7a970401333d430aa96e03a4c80ac2add6fd316db4f9277c60a41",
-  "researcher_name": "Issam El Naqa"
+  "content_hash": "d5650de6209b67ec1f257efe0bf46bb543355042689331f642a72b2c143b518e",
+  "researcher_name": "Issam El Naqa",
+  "department": "Machine Learning"
 }

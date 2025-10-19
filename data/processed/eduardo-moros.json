@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/eduardo-moros",
-  "last_updated": "2025-10-14T22:02:39.900467",
+  "last_updated": "2025-10-19T00:25:15.640564",
   "researcher_id": "9068",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -66,18 +65,18 @@
       "authors": ""
     },
     {
-      "title": "Stern W, Alaei P, Berbeco R, DeWerd LA, Kamen J, MacKenzie C, Moros EG, Poirier Y, Potter CA, Schaue D, Patallo IS, Abend M, Swarts S, Trompier F. Achieving Consistent Reporting of Radiation Dosimetry by Adoption of Compatibility in Irradiation Research Protocols Expert Roundtable (CIRPER) Recommendations. Radiat Res",
-      "pubmed_id": "38205905",
-      "year": "2024",
-      "journal": "201(3):267-269",
-      "authors": ""
-    },
-    {
       "title": "Koo J, Caudell J, Latifi K, Moros EG, Feygelman V. Essentially unedited deep-learning-based OARs are suitable for rigorous oropharyngeal and laryngeal cancer treatment planning. J Appl Clin Med Phys",
       "pubmed_id": "37942993",
       "pmc_id": "PMC10930009",
       "year": "2024",
       "journal": "25(3):e14202",
+      "authors": ""
+    },
+    {
+      "title": "Stern W, Alaei P, Berbeco R, DeWerd LA, Kamen J, MacKenzie C, Moros EG, Poirier Y, Potter CA, Schaue D, Patallo IS, Abend M, Swarts S, Trompier F. Achieving Consistent Reporting of Radiation Dosimetry by Adoption of Compatibility in Irradiation Research Protocols Expert Roundtable (CIRPER) Recommendations. Radiat Res",
+      "pubmed_id": "38205905",
+      "year": "2024",
+      "journal": "201(3):267-269",
       "authors": ""
     },
     {
@@ -122,6 +121,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=9068"
   },
-  "content_hash": "7c8e9956965c6c77a01202af309f4d91878ff898a82cf04b4a08142526287b8a",
-  "researcher_name": "Eduardo Moros"
+  "content_hash": "20ffdb33e0e42e6550a6fad777b00e112fa933de84125addd3130036a997a2b6",
+  "researcher_name": "Eduardo Moros",
+  "department": "Machine Learning"
 }

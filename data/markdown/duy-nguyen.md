@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -491,8 +492,8 @@ My laboratory is dedicated to investigating the biophysical properties of solid 
 My laboratory will adopt an interdisciplinary approach, combining principles from engineering and systems biology to develop integrated tools and methodologies for basic cancer research. Specifically, my group will focus on three key objectives: 1) develop 3D ex vivo microtumor models for therapeutic drug screen, 2) investigate the physical science of cancer on immune evasion, drug delivery, and tumor progression, 3) define biophysical stressors that contribute to tumor invasion, metastasis, and dormancy.
   * ## Publications
     * Qdaisat S, Wummer B, Stover BD, Zhang D, McGuiness J, Weidert F, Chardon-Robles J, Grippin A, DeVries A, Zhao C, Marconi C, Karachi A, Xie C, Jobin G, Liu R, Michel S, Ma X, Moor RSF, von Roemeling C, Nguyen DT, Elliott L, Thomas N, Barpujari A, Geffrard H, Campaneria Y, Ogando-Rivas E, Rabideau C, Soni D, Huang J, Carrera-Justiz S, Fredenburg K, Silver NL, Sawyer WG, Rahman M, Ligon JA, Flores CT, Lee JH, Mitchell DA, Castillo P, Mendez-Gomez HR, Sayour EJ. Sensitization of tumours to immunotherapy by boosting early type-I interferon responses enables epitope spreading. Nat Biomed Eng. 2025 Sep.9(9):1437-1452. Pubmedid: [40681861](https://www.ncbi.nlm.nih.gov/pubmed/40681861). 
-    * Nguyen DT, Schaller MA, Terracina KP, Xu X, Pedro DI, Pepe A, Urueña JM, Dupee Z, Diodati N, Smolchek RA, Famiglietti JE, Nguyen NTY, Tushoski-Alemán GW, Cheng K, Chen L, Linn D, Vidimar V, Fatima A, Kwon SW, Sun D, Chen H, Xu H, Long B, Moy LY, Howell BJ, Addona GH, Sawyer WG. Patient-derived colorectal microtumors predict response to anti-PD-1 therapy. Front Immunol. 2025 Aug.16:1640500. Pubmedid: [40873566](https://www.ncbi.nlm.nih.gov/pubmed/40873566). Pmcid: PMC12378724. 
     * Tao H, Chen D, Yang C, Nguyen DT, Abboud G, Liu R, Liu T, Chakraborty A, Hou AY, Petit NA, Abbas M, Davis RW, Zhang J, Von Roemeling C, Gbadamosi MO, Jin L, Gu T, Lin T, Wang P, Pepe A, Pedro DI, Mendez-Gomez HR, Xie C, Karachi A, Weidert F, Jin D, Wang C, Long-James K, Molchan EK, Castillo P, Ligon JA, Ghiaseddin AP, Sayour EJ, Rahman M, Deleyrolle LP, Kim BY, Mitchell DA, Sawyer WG, Huang J. Targeting immune checkpoint LAIR1 with antibody blockade or 3-in-1 CAR T cells enhances antitumor response. J Clin Invest. 2025 Aug.135(16). Pubmedid: [40591413](https://www.ncbi.nlm.nih.gov/pubmed/40591413). Pmcid: PMC12352909. 
+    * Nguyen DT, Schaller MA, Terracina KP, Xu X, Pedro DI, Pepe A, Urueña JM, Dupee Z, Diodati N, Smolchek RA, Famiglietti JE, Nguyen NTY, Tushoski-Alemán GW, Cheng K, Chen L, Linn D, Vidimar V, Fatima A, Kwon SW, Sun D, Chen H, Xu H, Long B, Moy LY, Howell BJ, Addona GH, Sawyer WG. Patient-derived colorectal microtumors predict response to anti-PD-1 therapy. Front Immunol. 2025 Aug.16:1640500. Pubmedid: [40873566](https://www.ncbi.nlm.nih.gov/pubmed/40873566). Pmcid: PMC12378724. 
     * Diodati N, Dupee Z, Lima F, Famiglietti J, Smolchek R, Qu G, Goddard Y, Nguyen D, Sawyer G, Phelps E, Mehrad B, Schaller M. 3D Culture Analysis of Cancer Cell Adherence to Ex Vivo Lung Microexplants. Tissue Eng Part C Methods. 2024 Aug.30(8):343-352. Pubmedid: [39078332](https://www.ncbi.nlm.nih.gov/pubmed/39078332). 
     * Nguyen DT, Pedro DI, Pepe A, Rosa JG, Bowman JI, Trachsel L, Golde GR, Suzuki I, Lavrador JM, Nguyen NTY, Kis MA, Smolchek RA, Diodati N, Liu R, Phillpot SR, Webber AR, Castillo P, Sayour EJ, Sumerlin BS, Sawyer WG. Bioconjugation of COL1 protein on liquid-like solid surfaces to study tumor invasion dynamics. Biointerphases. 2023 Mar.18(2):021001. Pubmedid: [36898958](https://www.ncbi.nlm.nih.gov/pubmed/36898958). Pmcid: PMC10008099. 
     * Nguyen DT, Liu R, Ogando-Rivas E, Pepe A, Pedro D, Qdasait S, Nguyen NTY, Lavrador JM, Golde GR, Smolchek RA, Ligon J, Jin L, Tao H, Webber A, Phillpot S, Mitchell DA, Sayour EJ, Huang J, Castillo P, Sawyer WG. Three-Dimensional Bioconjugated Liquid-Like Solid (LLS) Enhance Characterization of Solid Tumor - Chimeric Antigen Receptor T cell interactions. bioRxiv. 2023 Feb. Pubmedid: [36865164](https://www.ncbi.nlm.nih.gov/pubmed/36865164). Pmcid: PMC9980005. 
@@ -656,7 +657,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -850,6 +851,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/duy-nguyen#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/duy-nguyen#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

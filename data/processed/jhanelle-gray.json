@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jhanelle-gray",
-  "last_updated": "2025-10-14T22:07:08.645943",
+  "last_updated": "2025-10-19T00:29:17.379988",
   "researcher_id": "3726",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -148,6 +147,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3726"
   },
-  "content_hash": "881e28073e1d6bde632b46bf518699bd07878c55e3055656afbffcbb85281c82",
-  "researcher_name": "Jhanelle Gray"
+  "content_hash": "5712b385cca898998bc387de9f79a3a003d023f34252e77bd9d0faadff92d329",
+  "researcher_name": "Jhanelle Gray",
+  "department": "Tumor Microenvironment and Metastasis"
 }

@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/david-morse",
-  "last_updated": "2025-10-14T22:05:19.587886",
+  "last_updated": "2025-10-19T00:27:46.827303",
   "researcher_id": "4682",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -142,6 +141,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4682"
   },
-  "content_hash": "ee4f20fe08a429202d66e37e18d596d636d0ad747ec8965fea575076d2b9a390",
-  "researcher_name": "David Morse"
+  "content_hash": "9359c3667260a741ad6802dbeeb9a8c8b42776240ae2780bd461963c88181454",
+  "researcher_name": "David Morse",
+  "department": "Metabolism and Physiology"
 }

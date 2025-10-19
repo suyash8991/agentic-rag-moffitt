@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/derek-duckett",
-  "last_updated": "2025-10-14T22:05:27.005046",
+  "last_updated": "2025-10-19T00:27:54.522435",
   "researcher_id": "22470",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -75,18 +74,18 @@
       "authors": ""
     },
     {
+      "title": "Morozova A, Chan SC, Bayle S, Sun L, Grassie D, Iermolaieva A, Kalaga MN, Frydman S, Sansil S, Sch\u00f6nbrunn E, Duckett D, Monastyrskyi A. Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties. Eur J Med Chem",
+      "pubmed_id": "38232465",
+      "year": "2024",
+      "journal": "266:116101",
+      "authors": ""
+    },
+    {
       "title": "Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L, Duckett DR, Teng M. An Epigenomic fingerprint of human cancers by landscape interrogation of super enhancers at the constituent level. PLoS Comput Biol",
       "pubmed_id": "38335222",
       "pmc_id": "PMC10883583",
       "year": "2024",
       "journal": "20(2):e1011873",
-      "authors": ""
-    },
-    {
-      "title": "Morozova A, Chan SC, Bayle S, Sun L, Grassie D, Iermolaieva A, Kalaga MN, Frydman S, Sansil S, Sch\u00f6nbrunn E, Duckett D, Monastyrskyi A. Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties. Eur J Med Chem",
-      "pubmed_id": "38232465",
-      "year": "2024",
-      "journal": "266:116101",
       "authors": ""
     },
     {
@@ -145,6 +144,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22470"
   },
-  "content_hash": "f4da574fda8419cb0db91c67e09ddcbe13d6688384ed5d1ffb579bccfea2489b",
-  "researcher_name": "Derek Duckett"
+  "content_hash": "d3bd9914ad20cd665be5b4c83db92027535c056db6e0058d9aa6bc672a28af2a",
+  "researcher_name": "Derek Duckett",
+  "department": "Drug Discovery"
 }

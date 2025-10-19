@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/aliya-qayyum",
-  "last_updated": "2025-10-14T22:06:53.031968",
+  "last_updated": "2025-10-19T00:29:00.842105",
   "researcher_id": "28587",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -127,6 +126,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28587"
   },
-  "content_hash": "b654e991c840017e91cae5a7d2dbfab293fadcb933ecb8d7d2d741366628068c",
-  "researcher_name": "Aliya Qayyum"
+  "content_hash": "daacdabf53dd041623d39767d723cc68ee408d4078c0b5be53b6ec7b334515b2",
+  "researcher_name": "Aliya Qayyum",
+  "department": "Machine Learning"
 }

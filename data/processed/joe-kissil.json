@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/joe-kissil",
-  "last_updated": "2025-10-14T22:02:43.273187",
+  "last_updated": "2025-10-19T00:25:18.748585",
   "researcher_id": "28058",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -125,6 +124,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28058"
   },
-  "content_hash": "14b4897481fe745afd89dd8e98894a7d66f5d5a30d49f084c543f2060d231e2c",
-  "researcher_name": "Joe Kissil"
+  "content_hash": "72786f100e211b6bebc1de2a4e78a478c1875b9fa09b4ee0159d3c70ad831719",
+  "researcher_name": "Joe Kissil",
+  "department": "Molecular Oncology"
 }

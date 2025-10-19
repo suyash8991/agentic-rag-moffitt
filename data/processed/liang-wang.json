@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/liang-wang",
-  "last_updated": "2025-10-14T22:04:52.549094",
+  "last_updated": "2025-10-19T00:27:19.996728",
   "researcher_id": "25224",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -40,6 +39,14 @@
     }
   ],
   "publications": [
+    {
+      "title": "Dong D, Wang Z, Liu M, Zhang Q, Xu W, Wei Y, Zhu J, Yang X, Zhang Q, Zhu Y, Wang L, Zhang P, Wei GH. Combined SNPs sequencing and allele specific proteomics capture reveal functional causality underpinning the 2p25 prostate cancer susceptibility locus. Nat Commun",
+      "pubmed_id": "41062477",
+      "pmc_id": "PMC12508145",
+      "year": "2025",
+      "journal": "16(1):8950",
+      "authors": ""
+    },
     {
       "title": "Sun Y, Zhu J, Zhong H, Zhang Z, Wang F, Nakamura A, Liu Y, Liu J, Yu J, Zeng G, Lin X, Zhou D, Wu C, Wang L, Deng Y, Wu L. Transcriptome-Wide Association Study Identified Novel Blood Tissue Gene Biomarkers for Prostate Cancer Risk. Prostate",
       "pubmed_id": "39878408",
@@ -108,14 +115,6 @@
       "year": "2025",
       "journal": "64(8):1316-1329",
       "authors": ""
-    },
-    {
-      "title": "Sinawang PD, Multani P, Ozen MO, Wong J, Akin D, Hanson C, Larsen M, Ampaw E, Rondina MT, Tolley ND, Wang L, Cunningham BT, Kohli M, Demirci U. Plasma Preparation Strategies for Extracellular Vesicle-Based Biomarkers in Metastatic Castration-Resistant Prostate Cancer. J Extracell Biol",
-      "pubmed_id": "40755906",
-      "pmc_id": "PMC12311838",
-      "year": "2025",
-      "journal": "4(8):e70071",
-      "authors": ""
     }
   ],
   "grants": [
@@ -158,6 +157,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=25224"
   },
-  "content_hash": "e91f04dcccba855a98659b2199e9b61700685a3fdd605d64491adef391d7cd2a",
-  "researcher_name": "Liang Wang"
+  "content_hash": "eee8a8a8b1d30ef81bc2e23478eddce1c439db9a15e500931c7fd8449354f498",
+  "researcher_name": "Liang Wang",
+  "department": "Tumor Microenvironment and Metastasis"
 }

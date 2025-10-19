@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/andriy-marusyk",
-  "last_updated": "2025-10-14T22:03:40.710357",
+  "last_updated": "2025-10-19T00:26:06.312861",
   "researcher_id": "16347",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -137,6 +136,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16347"
   },
-  "content_hash": "496b820ab9f0269e2c09eb2c161e265de7cc2454ecb79ce58724ab953c9816d7",
-  "researcher_name": "Andriy Marusyk"
+  "content_hash": "3f3cf6c163e136ac25c39406e16d55e09387e5db1b57d19679512ba72970cd53",
+  "researcher_name": "Andriy Marusyk",
+  "department": "Tumor Microenvironment and Metastasis"
 }

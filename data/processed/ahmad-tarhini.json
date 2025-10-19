@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ahmad-tarhini",
-  "last_updated": "2025-10-14T22:06:29.132821",
+  "last_updated": "2025-10-19T00:28:39.761351",
   "researcher_id": "24764",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -130,6 +129,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24764"
   },
-  "content_hash": "702622078a5967c70161a3489d63054e536fcec39bf6cbae8f30ec78c9007da9",
-  "researcher_name": "Ahmad Tarhini"
+  "content_hash": "95a7be07b9e2a21fc9741b89de8b5426755d0bec12ed2786e7896bf69351c7f2",
+  "researcher_name": "Ahmad Tarhini",
+  "department": "Immunology"
 }

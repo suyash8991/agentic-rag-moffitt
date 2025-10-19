@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/noemi-andor",
-  "last_updated": "2025-10-14T22:01:55.991033",
+  "last_updated": "2025-10-19T00:24:40.219926",
   "researcher_id": "24447",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -133,6 +132,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24447"
   },
-  "content_hash": "05eae001002a2c83bb448b64883510f37c90f81675366a54d8bac6ba173e9a39",
-  "researcher_name": "Noemi Andor"
+  "content_hash": "e3648c3df462fa4b996f75911df1927ceba3ea85b8ef01ef3ba19e47985d52fe",
+  "researcher_name": "Noemi Andor",
+  "department": "Integrated Mathematical Oncology"
 }

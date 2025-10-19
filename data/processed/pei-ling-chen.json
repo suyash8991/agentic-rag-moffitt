@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/pei-ling-chen",
-  "last_updated": "2025-10-14T22:09:07.665037",
+  "last_updated": "2025-10-19T00:31:14.224117",
   "researcher_id": "unknown",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -147,6 +146,7 @@
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChenPei-Ling_18684.jpg",
   "contact": {},
-  "content_hash": "97a6c307de0c112edc34154f13f1bdac80d9dd81061cee2105074632db620a9c",
-  "researcher_name": "Pei Ling Chen"
+  "content_hash": "d77fb25aaa34a51ce135b38ae357758a99f02815603a91e11239a4b919061774",
+  "researcher_name": "Pei Ling Chen",
+  "department": "Machine Learning"
 }

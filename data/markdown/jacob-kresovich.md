@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -511,8 +512,8 @@ Status: Open
     * Kresovich JK, Guranich C, Houghton S, Qian J, Jones ME, Boutot ME, Dowsett M, Eliassen AH, Garcia-Closas M, Kraft P, Norman A, Pollak M, Rinaldi S, Rosner B, Schoemaker MJ, Scott C, Swerdlow AJ, Milne RL, Tworoger SS, Vachon CM, Hankinson SE. Plasma prolactin and postmenopausal breast cancer risk: a pooled analysis of four prospective cohort studies. Breast Cancer Res. 2024 Nov.26(1):169. Pubmedid: [39593118](https://www.ncbi.nlm.nih.gov/pubmed/39593118). Pmcid: PMC11590566. 
     * Xu Z, Niu L, Kresovich JK, Taylor JA. methscore: a comprehensive R function for DNA methylation-based health predictors. Bioinformatics. 2024 May.40(5). Pubmedid: [38702768](https://www.ncbi.nlm.nih.gov/pubmed/38702768). Pmcid: PMC11105949. 
     * Chang CJ, O'Brien KM, Kresovich JK, Nwanaji-Enwerem JC, Xu Z, Gaston SA, Jackson CL, Sandler DP, Taylor JA, White AJ. Associations between use of chemical hair products and epigenetic age: Findings from the Sister Study. Environ Epidemiol. 2024 Jun.8(3):e311. Pubmedid: [38799263](https://www.ncbi.nlm.nih.gov/pubmed/38799263). Pmcid: PMC11115975. 
-    * Ergas IJ, Cheng RK, Roh JM, Kushi LH, Kresovich JK, Iribarren C, Nguyen-Huynh M, Rana JS, Rillamas-Sun E, Laurent CA, Lee VS, Quesenberry CP, Greenlee H, Kwan ML. Diet quality and cardiovascular disease risk among breast cancer survivors in the Pathways Study. JNCI Cancer Spectr. 2024 Feb.8(2). Pubmedid: [38627946](https://www.ncbi.nlm.nih.gov/pubmed/38627946). Pmcid: PMC11021810. 
     * Kresovich JK, O'Brien KM, Xu Z, Weinberg CR, Sandler DP, Taylor JA. Circulating Leukocyte Subsets Before and After a Breast Cancer Diagnosis and Therapy. JAMA Netw Open. 2024 Feb.7(2):e2356113. Pubmedid: [38358741](https://www.ncbi.nlm.nih.gov/pubmed/38358741). Pmcid: PMC10870180. 
+    * Ergas IJ, Cheng RK, Roh JM, Kushi LH, Kresovich JK, Iribarren C, Nguyen-Huynh M, Rana JS, Rillamas-Sun E, Laurent CA, Lee VS, Quesenberry CP, Greenlee H, Kwan ML. Diet quality and cardiovascular disease risk among breast cancer survivors in the Pathways Study. JNCI Cancer Spectr. 2024 Feb.8(2). Pubmedid: [38627946](https://www.ncbi.nlm.nih.gov/pubmed/38627946). Pmcid: PMC11021810. 
     * Berglund A, Yamoah K, Eschrich SA, Falahat R, Mulé JJ, Kim S, Matta J, Dutil J, Ruiz-Deya G, Ortiz Sanchez C, Wang L, Park H, Banerjee HN, Lotan T, Barry KH, Putney RM, Kim SJ, Gwede C, Kresovich JK, Kim Y, Lin HY, Dhillon J, Chakrabarti R, Park JY. Epigenome-wide association study of prostate cancer in African American men identified differentially methylated genes. Cancer Med. 2024 Aug.13(16):e70044. Pubmedid: [39162297](https://www.ncbi.nlm.nih.gov/pubmed/39162297). Pmcid: PMC11334050. 
     * Dickey BL, Putney RM, Suneja G, Kresovich JK, Spivak AM, Patel AB, Teng M, Extermann M, Giuliano AR, Gillis N, Berglund A, Coghill AE. Differences in epigenetic age by HIV status among patients with a non-AIDS defining cancer. Aids. 2023 Nov.37(13):2049-2057. Pubmedid: [37467055](https://www.ncbi.nlm.nih.gov/pubmed/37467055). Pmcid: PMC10538418. 
     * Koenigsberg SH, Chang CJ, Ish J, Xu Z, Kresovich JK, Lawrence KG, Kaufman JD, Sandler DP, Taylor JA, White AJ. Air pollution and epigenetic aging among Black and White women in the US. Environ Int. 2023 Nov.181:108270. Pubmedid: [37890265](https://www.ncbi.nlm.nih.gov/pubmed/37890265). 
@@ -710,7 +711,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -904,6 +905,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/jacob-kresovich#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/jacob-kresovich#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

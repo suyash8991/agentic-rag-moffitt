@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -503,8 +504,8 @@ We use an interdisciplinary approach that integrates a combination of bioinforma
     * Whately KM, Sengottuvel N, Edatt L, Srivastava S, Woods AT, Tsai YS, Porrello A, Zimmerman MP, Chack AC, Jefferys SR, Yacovone G, Kim DJ, Dudley AC, Amelio AL, Pecot CV. Spon1+ inflammatory monocytes promote collagen remodeling and lung cancer metastasis through lipoprotein receptor 8 signaling. JCI Insight. 2024 May.9(9). Pubmedid: [38716730](https://www.ncbi.nlm.nih.gov/pubmed/38716730). Pmcid: PMC11141919. 
     * West J, Marzban S, Srivast S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson A, Chung C, Amelio A. Spatial interactions modulate tumor growth and immune infiltration. Res Sq. 2024 May. Pubmedid: [38826398](https://www.ncbi.nlm.nih.gov/pubmed/38826398). Pmcid: PMC11142313. 
     * Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson A, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. bioRxiv. 2024 Mar. Pubmedid: [38370722](https://www.ncbi.nlm.nih.gov/pubmed/38370722). Pmcid: PMC10871273. 
-    * Tasoulas J, Schrank TP, Bharambe H, Mehta J, Johnson S, Divaris K, Hackman TG, Sheth S, Kirtane K, Hernandez-Prera JC, Chung CH, Yarbrough WG, Ferrarotto R, Issaeva N, Theocharis S, Amelio AL. Molecular characterization of the salivary adenoid cystic carcinoma immune landscape by anatomic subsites. Sci Rep. 2024 Jul.14(1):15821. Pubmedid: [38982149](https://www.ncbi.nlm.nih.gov/pubmed/38982149). Pmcid: PMC11233590. 
     * Park R, Li J, Slebos RJC, Chaudhary R, Poole MI, Ferraris C, Farinhas J, Hernandez-Prera J, Kirtane K, Teer JK, Song X, Hall MS, Tasoulas J, Amelio AL, Chung CH. Phase Ib trial of IRX-2 plus durvalumab in patients with recurrent and/or metastatic head and neck squamous cell carcinoma. Oral Oncol. 2024 Jul.154:106866. Pubmedid: [38820888](https://www.ncbi.nlm.nih.gov/pubmed/38820888). 
+    * Tasoulas J, Schrank TP, Bharambe H, Mehta J, Johnson S, Divaris K, Hackman TG, Sheth S, Kirtane K, Hernandez-Prera JC, Chung CH, Yarbrough WG, Ferrarotto R, Issaeva N, Theocharis S, Amelio AL. Molecular characterization of the salivary adenoid cystic carcinoma immune landscape by anatomic subsites. Sci Rep. 2024 Jul.14(1):15821. Pubmedid: [38982149](https://www.ncbi.nlm.nih.gov/pubmed/38982149). Pmcid: PMC11233590. 
     * Tasoulas J, Farquhar DR, Sheth S, Hackman T, Yarbrough WG, Agala CB, Koric A, Giraldi L, Fabianova E, Lissowska J, Świątkowska B, Vilensky M, Wünsch-Filho V, de Carvalho MB, López RVM, Holcátová I, Serraino D, Polesel J, Canova C, Richiardi L, Zevallos JP, Ness A, Pring M, Thomas SJ, Dudding T, Lee YA, Hashibe M, Boffetta P, Olshan AF, Divaris K, Amelio AL. Poor oral health influences head and neck cancer patient survival: an International Head and Neck Cancer Epidemiology Consortium pooled analysis. J Natl Cancer Inst. 2024 Jan.116(1):105-114. Pubmedid: [37725515](https://www.ncbi.nlm.nih.gov/pubmed/37725515). Pmcid: PMC10777670. 
     * Dickey BL, Putney RM, Schell MJ, Berglund AE, Amelio AL, Caudell JJ, Chung CH, Giuliano AR. Identification of a Biomarker Panel from Genome-Wide Methylation to Detect Early HPV-Associated Oropharyngeal Cancer. Cancer Prev Res (Phila). 2024 Apr.17(4):169-176. Pubmedid: [38286404](https://www.ncbi.nlm.nih.gov/pubmed/38286404). Pmcid: PMC10987272. 
     * Tasoulas J, Srivastava S, Xu X, Tarasova V, Maniakas A, Karreth FA, Amelio AL. Genetically engineered mouse models of head and neck cancers. Oncogene. 2023 Aug.42(35):2593-2609. Pubmedid: [37474617](https://www.ncbi.nlm.nih.gov/pubmed/37474617). Pmcid: PMC10457205. 
@@ -521,8 +522,8 @@ We use an interdisciplinary approach that integrates a combination of bioinforma
     * Dorronsoro A, Santiago FE, Grassi D, Zhang T, Lai RC, McGowan SJ, Angelini L, Lavasani M, Corbo L, Lu A, Brooks RW, Garcia-Contreras M, Stolz DB, Amelio A, Boregowda SV, Fallahi M, Reich A, Ricordi C, Phinney DG, Huard J, Lim SK, Niedernhofer LJ, Robbins PD. Mesenchymal stem cell-derived extracellular vesicles reduce senescence and extend health span in mouse models of aging. Aging Cell. 2021 04.20(4):e13337. Pubmedid: [33728821](https://www.ncbi.nlm.nih.gov/pubmed/33728821). Pmcid: PMC8045949. 
     * Parag-Sharma K, O'Banion CP, Henry EC, Musicant AM, Cleveland JL, Lawrence DS, Amelio AL. Engineered BRET-Based Biologic Light Sources Enable Spatiotemporal Control over Diverse Optogenetic Systems. ACS Synth Biol. 2020 Jan.9(1):1-9. Pubmedid: [31834783](https://www.ncbi.nlm.nih.gov/pubmed/31834783). Pmcid: PMC7875091. 
     * Carper MB, Troutman S, Wagner BL, Byrd KM, Selitsky SR, Parag-Sharma K, Henry EC, Li W, Parker JS, Montgomery SA, Cleveland JL, Williams SE, Kissil JL, Hayes DN, Amelio AL. An Immunocompetent Mouse Model of HPV16(+) Head and Neck Squamous Cell Carcinoma. Cell Rep. 2019 Nov.29(6):1660-1674.e7. Pubmedid: [31693903](https://www.ncbi.nlm.nih.gov/pubmed/31693903). Pmcid: PMC6870917. 
-    * Tang Y, Parag-Sharma K, Amelio AL, Cao Y. A Bioluminescence Resonance Energy Transfer-Based Approach for Determining Antibody-Receptor Occupancy In Vivo. iScience. 2019 May.15:439-451. Pubmedid: [31121469](https://www.ncbi.nlm.nih.gov/pubmed/31121469). Pmcid: PMC6529791. 
     * Saito T, Uzawa K, Terajima M, Shiiba M, Amelio AL, Tanzawa H, Yamauchi M. Aberrant Collagen Cross-linking in Human Oral Squamous Cell Carcinoma. J Dent Res. 2019 May.98(5):517-525. Pubmedid: [30786814](https://www.ncbi.nlm.nih.gov/pubmed/30786814). 
+    * Tang Y, Parag-Sharma K, Amelio AL, Cao Y. A Bioluminescence Resonance Energy Transfer-Based Approach for Determining Antibody-Receptor Occupancy In Vivo. iScience. 2019 May.15:439-451. Pubmedid: [31121469](https://www.ncbi.nlm.nih.gov/pubmed/31121469). Pmcid: PMC6529791. 
     * Getz GI, Parag-Sharma K, Reside J, Padilla RJ, Amelio AL. Identification of NSDHL mutations associated with CHILD syndrome in oral verruciform xanthoma. Oral Surg Oral Med Oral Pathol Oral Radiol. 2019 Jul.128(1):60-69. Pubmedid: [31078502](https://www.ncbi.nlm.nih.gov/pubmed/31078502). 
     * Tasoulas J, Rodon L, Kaye FJ, Montminy M, Amelio AL. Adaptive Transcriptional Responses by CRTC Coactivators in Cancer. Trends Cancer. 2019 Feb.5(2):111-127. Pubmedid: [30755304](https://www.ncbi.nlm.nih.gov/pubmed/30755304). Pmcid: PMC9682902. 
     * Uzawa K, Amelio AL, Kasamatsu A, Saito T, Kita A, Fukamachi M, Sawai Y, Toeda Y, Eizuka K, Hayashi F, Kato-Kase I, Sunohara M, Iyoda M, Koike K, Nakashima D, Ogawara K, Endo-Sakamoto Y, Shiiba M, Takiguchi Y, Yamauchi M, Tanzawa H. Resveratrol Targets Urokinase-Type Plasminogen Activator Receptor Expression to Overcome Cetuximab-Resistance in Oral Squamous Cell Carcinoma. Sci Rep. 2019 Aug.9(1):12179. Pubmedid: [31434965](https://www.ncbi.nlm.nih.gov/pubmed/31434965). Pmcid: PMC6704133. 
@@ -713,7 +714,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -907,6 +908,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/antonio-amelio#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/antonio-amelio#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/fabiana-perna",
-  "last_updated": "2025-10-14T22:08:00.763397",
+  "last_updated": "2025-10-19T00:30:08.159756",
   "researcher_id": "35899",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -52,6 +51,12 @@
       "pubmed_id": "40492500",
       "year": "2025",
       "journal": "100(9):1665-1669",
+      "authors": ""
+    },
+    {
+      "title": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F. Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma. Cancer Cell",
+      "pubmed_id": "41072416",
+      "year": "2025",
       "authors": ""
     },
     {
@@ -114,14 +119,6 @@
       "year": "2024",
       "journal": "13(11):6273-6281",
       "authors": ""
-    },
-    {
-      "title": "Marino S, Petrusca DN, Bishop RT, Anderson JL, Sabol HM, Ashby C, Layer JH, Cesarano A, Dav\u00e9 UP, Perna F, Delgado-Calle J, Chirgwin JM, Roodman GD. Pharmacologic targeting of the p62 ZZ domain enhances both anti-tumor and bone-anabolic effects of bortezomib in multiple myeloma. Haematologica",
-      "pubmed_id": "37981834",
-      "pmc_id": "PMC11063840",
-      "year": "2024",
-      "journal": "109(5):1501-1513",
-      "authors": ""
     }
   ],
   "grants": [
@@ -143,6 +140,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35899"
   },
-  "content_hash": "0168194e9c2d0bbe018581cda8a967281e7a2d7446ec8446642c6ba5c1c68f3f",
-  "researcher_name": "Fabiana Perna"
+  "content_hash": "ea832093def77a577ae9e0ee5a5faffb82d1bd17f4f4304a829118708b82ce6d",
+  "researcher_name": "Fabiana Perna",
+  "department": "BioEngineering"
 }

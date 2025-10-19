@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -500,9 +501,9 @@ Research interest focuses on the investigation of imaging tools for the evaluati
   * ## Research Interest
 Recent research has primarily involved imaging features of primary and secondary liver cancer including detection of early response of hepatocellular carcinoma to immunotherapy using MRI; investigation of CT feature association with molecular characteristics and tumor mutations in intra-hepatic cholangiocarcinoma and colorectal liver metastases. 
   * ## Publications
-    * Fang AM, Chapin BF, Shi CW, Sun J, Qayyum A, Kundra V, Corn PG, Kuban DA, Ravizzini GC, Surasi DSS, Ma J, Bathala TK. Whole-body magnetic resonance imaging for staging patients with high-risk prostate cancer. Prostate Cancer P D. 2025 Sep.28(3):761-766. Pubmedid: [39289537](https://www.ncbi.nlm.nih.gov/pubmed/39289537). 
     * Childers BG, Denbo JW, Kim RD, Hoffe SE, Glushko T, Qayyum A, Anaya DA. Intrahepatic cholangiocarcinoma: role of imaging as a critical component for multi-disciplinary treatment approach. Abdom Radiol (NY). 2025 Sep.50(9):4110-4124. Pubmedid: [40095023](https://www.ncbi.nlm.nih.gov/pubmed/40095023). 
     * El Homsi M, Hassan OT, O'Brien C, Singh C, Arif-Tiwari H, Becker-Weidman DJ, Karolyi D, Bonde A, Venkatesh SK, Brunsing RL, Cunha GM, Miller FH, Costello J, Qayyum A, Marks RM. Standardized reporting of extrahepatic cholangiocarcinoma. Abdom Radiol (NY). 2025 Sep. Pubmedid: [40944876](https://www.ncbi.nlm.nih.gov/pubmed/40944876). 
+    * Fang AM, Chapin BF, Shi CW, Sun J, Qayyum A, Kundra V, Corn PG, Kuban DA, Ravizzini GC, Surasi DSS, Ma J, Bathala TK. Whole-body magnetic resonance imaging for staging patients with high-risk prostate cancer. Prostate Cancer P D. 2025 Sep.28(3):761-766. Pubmedid: [39289537](https://www.ncbi.nlm.nih.gov/pubmed/39289537). 
     * Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Correction: Park et al. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers 2024, 16, 2364. Cancers (Basel). 2025 Mar.17(6). Pubmedid: [40149388](https://www.ncbi.nlm.nih.gov/pubmed/40149388). Pmcid: PMC11941415. 
     * Glushko T, Costello J, Chima R, McGettigan M, Kim R, Jeong D, Qayyum A. Molecular signatures of intrahepatic cholangiocarcinoma: role in targeted therapy selection. Eur J Radiol. 2025 Jun.187:112056. Pubmedid: [40222184](https://www.ncbi.nlm.nih.gov/pubmed/40222184). 
     * Khasawneh H, O'Brien C, Czeyda-Pommersheim F, Qayyum A, Miller FH, Arif Tiwari H, Paspulati RM, Kierans AS. Beyond cholangiocarcinoma: imaging features of mimicking pathologies in the biliary tract. Abdom Radiol (NY). 2025 Jul.50(7):2928-2943. Pubmedid: [39710762](https://www.ncbi.nlm.nih.gov/pubmed/39710762). 
@@ -790,7 +791,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -984,6 +985,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/aliya-qayyum#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/aliya-qayyum#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

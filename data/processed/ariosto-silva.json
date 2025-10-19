@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ariosto-silva",
-  "last_updated": "2025-10-14T22:01:34.570276",
+  "last_updated": "2025-10-19T00:24:20.917929",
   "researcher_id": "4634",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -33,6 +32,12 @@
     }
   ],
   "publications": [
+    {
+      "title": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F. Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma. Cancer Cell",
+      "pubmed_id": "41072416",
+      "year": "2025",
+      "authors": ""
+    },
     {
       "title": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC. Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma. Haematologica",
       "pubmed_id": "39633543",
@@ -101,14 +106,6 @@
       "year": "2024",
       "journal": "42(11):1229-1240",
       "authors": ""
-    },
-    {
-      "title": "Tantawy M, Yang G, Algubelli RR, DeAvila G, Rubinstein SM, Cornell RF, Fradley MG, Siegel EM, Hampton OA, Silva AS, Lenihan D, Shain KH, Baz RC, Gong Y. Whole-Exome sequencing analysis identified TMSB10/TRABD2A locus to be associated with carfilzomib-related cardiotoxicity among patients with multiple myeloma. Front Cardiovasc Med",
-      "pubmed_id": "37408649",
-      "pmc_id": "PMC10319068",
-      "year": "2023",
-      "journal": "10:1181806",
-      "authors": ""
     }
   ],
   "grants": [
@@ -125,6 +122,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4634"
   },
-  "content_hash": "5ce30710375487438c383f5b8e535d1b9ac439a666a4e1edb3f44078618b3187",
-  "researcher_name": "Ariosto Silva"
+  "content_hash": "afa116e3680c734ef59014a05e8f5452fc910d4f1d8a963e2786826f33385e8a",
+  "researcher_name": "Ariosto Silva",
+  "department": "Metabolism and Physiology"
 }

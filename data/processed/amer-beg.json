@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/amer-beg",
-  "last_updated": "2025-10-14T22:08:35.101621",
+  "last_updated": "2025-10-19T00:30:42.069081",
   "researcher_id": "3497",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -106,19 +105,19 @@
       "authors": ""
     },
     {
-      "title": "Chiappori AA, Creelan B, Tanvetyanon T, Gray JE, Haura EB, Thapa R, Barlow ML, Chen Z, Chen DT, Beg AA, Boyle TA, Castro J, Morgan L, Morris E, Aregay M, Hurtado FK, Manenti L, Antonia S. Phase I Study of Taminadenant (PBF509/NIR178), an Adenosine 2A Receptor Antagonist, with or without Spartalizumab (PDR001), in Patients with Advanced Non-Small Cell Lung Cancer. Clin Cancer Res",
-      "pubmed_id": "35254415",
-      "pmc_id": "PMC9167697",
-      "year": "2022",
-      "journal": "28(11):2313-2320",
-      "authors": ""
-    },
-    {
       "title": "Zhang T, Yin C, Fedorov A, Qiao L, Bao H, Beknazarov N, Wang S, Gautam A, Williams RM, Crawford JC, Peri S, Studitsky V, Beg AA, Thomas PG, Walkley C, Xu Y, Poptsova M, Herbert A, Balachandran S. ADAR1 masks the cancer immunotherapeutic promise of ZBP1-driven necroptosis. Nature",
       "pubmed_id": "35614224",
       "pmc_id": "PMC9373927",
       "year": "2022",
       "journal": "606(7914):594-602",
+      "authors": ""
+    },
+    {
+      "title": "Chiappori AA, Creelan B, Tanvetyanon T, Gray JE, Haura EB, Thapa R, Barlow ML, Chen Z, Chen DT, Beg AA, Boyle TA, Castro J, Morgan L, Morris E, Aregay M, Hurtado FK, Manenti L, Antonia S. Phase I Study of Taminadenant (PBF509/NIR178), an Adenosine 2A Receptor Antagonist, with or without Spartalizumab (PDR001), in Patients with Advanced Non-Small Cell Lung Cancer. Clin Cancer Res",
+      "pubmed_id": "35254415",
+      "pmc_id": "PMC9167697",
+      "year": "2022",
+      "journal": "28(11):2313-2320",
       "authors": ""
     }
   ],
@@ -139,6 +138,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3497"
   },
-  "content_hash": "24dd648fc49ad74e991c33ac3195e52398e3036aa6597731956f71269e55ed5a",
-  "researcher_name": "Amer Beg"
+  "content_hash": "83c7dddf9b5fab2a58cea42bf89bcb03dad057ff8613cf26eeb7753a167467b7",
+  "researcher_name": "Amer Beg",
+  "department": "Immunology"
 }

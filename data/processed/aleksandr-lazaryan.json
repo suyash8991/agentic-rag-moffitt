@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/aleksandr-lazaryan",
-  "last_updated": "2025-10-14T22:08:48.950225",
+  "last_updated": "2025-10-19T00:30:53.222371",
   "researcher_id": "20944",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -134,6 +133,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=20944"
   },
-  "content_hash": "520719f4de4d05dc26b71e92c4016999731f5bccc60dd4f02c8e09b76bf67f5c",
-  "researcher_name": "Aleksandr Lazaryan"
+  "content_hash": "8c2cb20161ba0fb4973cdb52b0e0d7b14b934567c62253a82a049982a34a17fe",
+  "researcher_name": "Aleksandr Lazaryan",
+  "department": "Immunology"
 }

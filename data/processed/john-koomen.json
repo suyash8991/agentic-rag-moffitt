@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/john-koomen",
-  "last_updated": "2025-10-14T22:06:58.062688",
+  "last_updated": "2025-10-19T00:29:04.172902",
   "researcher_id": "3419",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -123,6 +122,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3419"
   },
-  "content_hash": "bb86a9767cb2f140e211c313d469ee0dabab50f2bd0a5be64bb11af6ddce2edb",
-  "researcher_name": "John Koomen"
+  "content_hash": "8652ed12ed802cfeedd35277227e034bcdca41b76076d6638a306b2dbe609d12",
+  "researcher_name": "John Koomen",
+  "department": "Molecular Oncology"
 }

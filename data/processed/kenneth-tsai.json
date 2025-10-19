@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/kenneth-tsai",
-  "last_updated": "2025-10-14T22:03:48.866451",
+  "last_updated": "2025-10-19T00:26:10.687580",
   "researcher_id": "16980",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -71,6 +70,12 @@
       "authors": ""
     },
     {
+      "title": "Akaike T, Thakuria M, Silk AW, Hippe DS, Ch'en PY, Park SY, Urman NM, Chiu MW, Kim H, Kim EY, Hall ET, Bhatia S, Reddy S, Krainock M, Aleshin A, Choi JS, Tsai K, Yom SS, Yu SS, Choi J, Chandra S, Nghiem PT, Zaba LC. Circulating tumor DNA level is associated with time to clinical recurrence in Merkel cell carcinoma: Implications for patient management. J Am Acad Dermatol",
+      "pubmed_id": "41077138",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Gatenby RA, Teer JK, Tsai KY, Brown JS. Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas. Commun Biol",
       "pubmed_id": "40399443",
       "pmc_id": "PMC12095661",
@@ -116,13 +121,6 @@
       "year": "2025",
       "journal": "85(2):314-328",
       "authors": ""
-    },
-    {
-      "title": "Dugan MM, Shannon AB, DePalo DK, Tsai KY, Farma JM, Gonzalez RJ, Zager JS. In Brief. Curr Probl Surg",
-      "pubmed_id": "39922627",
-      "year": "2025",
-      "journal": "63:101564",
-      "authors": ""
     }
   ],
   "grants": [
@@ -137,12 +135,16 @@
     {
       "description": "Title: Deploying a Novel Model of Merkel Cell Carcinoma for Development of Novel Therapeutic Approaches  \nAward Number: W81XWH-22-1-0921  \nSponsor: Department of Defense (DOD)  \nTsai, K. (PD/PI)",
       "source": "DOD"
+    },
+    {
+      "description": "Title: To assess efficacy of anchored IL-12 in aggressive skin cancer in vivo models and understand its effects on function of immune cell subsets  \nAward Number: NA  \nSponsor: Ankyra Therapeutics  \nTsai, K. (PD/PI)"
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TsaiKenneth_16980.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16980"
   },
-  "content_hash": "ac25d5060da7b37809f066e3125e3436de88cea56120b458f0f19300f1553f6d",
-  "researcher_name": "Kenneth Tsai"
+  "content_hash": "fed90917142e62134c9cc828f22422dab6121506430c9f76a06a9536df5e2deb",
+  "researcher_name": "Kenneth Tsai",
+  "department": "Tumor Microenvironment and Metastasis"
 }

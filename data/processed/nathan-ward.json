@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/nathan-ward",
-  "last_updated": "2025-10-14T22:01:43.662513",
+  "last_updated": "2025-10-19T00:24:27.524632",
   "researcher_id": "12112",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -101,6 +100,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=12112"
   },
-  "content_hash": "f16b5558f7c080b2a53f0e55eef025b86711c2b432b60abcae3591a5916918c7",
-  "researcher_name": "Nathan Ward"
+  "content_hash": "690a3d53815f7b9e45f30c32df69fbd34993379e5d251dc28c53c03231be5549",
+  "researcher_name": "Nathan Ward",
+  "department": "Metabolism and Physiology"
 }

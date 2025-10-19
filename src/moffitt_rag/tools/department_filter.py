@@ -104,7 +104,7 @@ class DepartmentFilterTool(BaseTool):
         ]
 
         for doc in unique_results:
-            name = doc.metadata.get("name", "Unknown")
+            name = doc.metadata.get("researcher_name", "Unknown")
             program = doc.metadata.get("program", "Unknown Program")
             formatted_results.append(f"- {name} ({program})")
 

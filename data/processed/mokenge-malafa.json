@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mokenge-malafa",
-  "last_updated": "2025-10-14T22:06:00.240199",
+  "last_updated": "2025-10-19T00:28:18.385472",
   "researcher_id": "2725",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -142,6 +141,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2725"
   },
-  "content_hash": "30ce3898e0ad26a8aa18236313d09e30a51dae9ed13349d7a4a6b79186195d63",
-  "researcher_name": "Mokenge Malafa"
+  "content_hash": "a64fea7eb6d0232c804c693dd4a3e8d4987572c99570931115b6d4c3a9fee7d3",
+  "researcher_name": "Mokenge Malafa",
+  "department": "Drug Discovery"
 }

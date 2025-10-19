@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -535,8 +536,8 @@ My lab is interested in the intersection of oncogenic signaling pathways and non
     * Perna D, Karreth FA, Rust AG, Perez-Mancera PA, Rashid M, Iorio F, Alifrangis C, Arends MJ, Bosenberg MW, Bollag G, Tuveson DA, Adams DJ. BRAF inhibitor resistance mediated by the AKT pathway in an oncogenic BRAF mouse melanoma model. Proc Natl Acad Sci U S A. 2015 Feb.112(6):E536-E545. Pubmedid: [25624498](https://www.ncbi.nlm.nih.gov/pubmed/25624498). Pmcid: PMC4330752. 
     * Karreth FA, Reschke M, Ruocco A, Ng C, Chapuy B, Léopold V, Sjoberg M, Keane TM, Verma A, Ala U, Tay Y, Wu D, Seitzer N, Velasco-Herrera Mdel C, Bothmer A, Fung J, Langellotto F, Rodig SJ, Elemento O, Shipp MA, Adams DJ, Chiarle R, Pandolfi PP. The BRAF pseudogene functions as a competitive endogenous RNA and induces lymphoma in vivo. Cell. 2015 Apr.161(2):319-332. Pubmedid: [25843629](https://www.ncbi.nlm.nih.gov/pubmed/25843629). Pmcid: PMC6922011. 
     * Tay Y, Karreth FA, Pandolfi PP. Aberrant ceRNA activity drives lung cancer. Cell Res. 2014 Mar.24(3):259-260. Pubmedid: [24525785](https://www.ncbi.nlm.nih.gov/pubmed/24525785). Pmcid: PMC3945890. 
-    * Tay Y, Tan SM, Karreth FA, Lieberman J, Pandolfi PP. Characterization of dual PTEN and p53-targeting microRNAs identifies microRNA-638/Dnm2 as a two-hit oncogenic locus. Cell Rep. 2014 Aug.8(3):714-722. Pubmedid: [25088422](https://www.ncbi.nlm.nih.gov/pubmed/25088422). Pmcid: PMC4128194. 
     * Sadow PM, Priolo C, Nanni S, Karreth FA, Duquette M, Martinelli R, Husain A, Clohessy J, Kutzner H, Mentzel T, Carman CV, Farsetti A, Henske EP, Palescandolo E, Macconaill LE, Chung S, Fadda G, Lombardi CP, De Angelis AM, Durante O, Parker JA, Pontecorvi A, Dvorak HF, Fletcher C, Pandolfi PP, Lawler J, Nucera C. Role of BRAFV600E in the first preclinical model of multifocal infiltrating myopericytoma development and microenvironment. J Natl Cancer Inst. 2014 Aug.106(8). Pubmedid: [25063326](https://www.ncbi.nlm.nih.gov/pubmed/25063326). Pmcid: PMC4155429. 
+    * Tay Y, Tan SM, Karreth FA, Lieberman J, Pandolfi PP. Characterization of dual PTEN and p53-targeting microRNAs identifies microRNA-638/Dnm2 as a two-hit oncogenic locus. Cell Rep. 2014 Aug.8(3):714-722. Pubmedid: [25088422](https://www.ncbi.nlm.nih.gov/pubmed/25088422). Pmcid: PMC4128194. 
     * Karreth FA, Tay Y, Pandolfi PP. Target competition: transcription factors enter the limelight. Genome Biol. 2014 Apr.15(4):114. Pubmedid: [25001290](https://www.ncbi.nlm.nih.gov/pubmed/25001290). Pmcid: PMC4052382. 
     * Karreth FA, Pandolfi PP. ceRNA cross-talk in cancer: when ce-bling rivalries go awry. Cancer Discov. 2013 Oct.3(10):1113-1121. Pubmedid: [24072616](https://www.ncbi.nlm.nih.gov/pubmed/24072616). Pmcid: PMC3801300. 
     * Ala U, Karreth FA, Bosia C, Pagnani A, Taulli R, Léopold V, Tay Y, Provero P, Zecchina R, Pandolfi PP. Integrated transcriptional and competitive endogenous RNA networks are cross-regulated in permissive molecular environments. Proc Natl Acad Sci U S A. 2013 Apr.110(18):7154-7159. Pubmedid: [23536298](https://www.ncbi.nlm.nih.gov/pubmed/23536298). Pmcid: PMC3645534. 
@@ -741,7 +742,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -935,6 +936,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/florian-karreth#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/florian-karreth#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

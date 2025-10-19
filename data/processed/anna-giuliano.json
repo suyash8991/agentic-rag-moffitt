@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/anna-giuliano",
-  "last_updated": "2025-10-14T22:04:13.600196",
+  "last_updated": "2025-10-19T00:26:40.922961",
   "researcher_id": "2969",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -64,18 +63,18 @@
       "authors": ""
     },
     {
+      "title": "Deshmukh AA, Damgacioglu H, Sigel K, Palefsky JM, Clarke MA, Wentzensen N, Nyitray AG, Ortiz AP, Lin YY, Chiao EY, Stier E, Jay N, Gaisa M, Liu Y, Meissner EG, Lazenby G, Giuliano AR, Goldstone SE, Clifford GM, Sonawane K, Chhatwal J. Screening for Anal Cancer Among Men Who Have Sex With Men With HIV: Benefits, Harms, and Cost-Effectiveness Analyses. Ann Intern Med",
+      "pubmed_id": "40523287",
+      "year": "2025",
+      "journal": "178(7):975-986",
+      "authors": ""
+    },
+    {
       "title": "Alemany L, Felsher M, Giuliano AR, Waterboer T, Mirghani H, Mehanna H, Roberts C, Chen YT, Lara N, Lynam M, Torres M, Pedr\u00f3s M, Sanchez E, Spitzer J, Sirak B, Quir\u00f3s B, Carretero G, Paytubi S, Morais E, Pav\u00f3n MA. Erratum: Oral human papillomavirus (HPV) prevalence and genotyping among healthy adult populations in the United States and Europe: results from the PROGRESS (PRevalence of Oral hpv infection, a Global aSSessment) study. EClinicalMedicine",
       "pubmed_id": "40686674",
       "pmc_id": "PMC12274941",
       "year": "2025",
       "journal": "85:103335",
-      "authors": ""
-    },
-    {
-      "title": "Deshmukh AA, Damgacioglu H, Sigel K, Palefsky JM, Clarke MA, Wentzensen N, Nyitray AG, Ortiz AP, Lin YY, Chiao EY, Stier E, Jay N, Gaisa M, Liu Y, Meissner EG, Lazenby G, Giuliano AR, Goldstone SE, Clifford GM, Sonawane K, Chhatwal J. Screening for Anal Cancer Among Men Who Have Sex With Men With HIV: Benefits, Harms, and Cost-Effectiveness Analyses. Ann Intern Med",
-      "pubmed_id": "40523287",
-      "year": "2025",
-      "journal": "178(7):975-986",
       "authors": ""
     },
     {
@@ -126,7 +125,7 @@
       "description": "Title: The BROADEN (absolute burden of HPV-related head and neck cancers) Africa Study  \nAward Number: 23-0120  \nSponsor: MERCK SHARP & DOHME CORP  \nGiuliano, A. (PD/PI)"
     },
     {
-      "description": "Title: Oral HPV Research Among Latin Americans Living with HIV (ORAL - H)  \nAward Number: 5R01CA274950-04  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI)",
+      "description": "Title: Oral HPV Research Among Latin Americans Living with HIV (ORAL - H)  \nAward Number: 3R01CA274950-04S1  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI)",
       "source": "NCI",
       "period": "4950-04"
     },
@@ -170,6 +169,7 @@
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2969",
     "email": "demail@springer.com"
   },
-  "content_hash": "eb5cdd1fb3a8a1bfb224d2b2ca6529d80c4273a461535bd06622e371e1c16591",
-  "researcher_name": "Anna Giuliano"
+  "content_hash": "d84a4063bce08c74b06d72af1046ea6bb7ed48121d38bc5d579eb113e9396b01",
+  "researcher_name": "Anna Giuliano",
+  "department": "Cancer Epidemiology"
 }

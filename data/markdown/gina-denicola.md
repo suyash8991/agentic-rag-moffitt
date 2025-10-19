@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -506,8 +507,8 @@ Cells have energetic and anabolic needs for growth and proliferation. Dr. DeNico
     * Gantner BN, Palma FR, Pandkar MR, Sakiyama MJ, Arango D, DeNicola GM, Gomes AP, Bonini MG. Metabolism and epigenetics: drivers of tumor cell plasticity and treatment outcomes. Trends Cancer. 2024 Nov.10(11):992-1008. Pubmedid: [39277448](https://www.ncbi.nlm.nih.gov/pubmed/39277448). 
     * Ward NP, Yoon SJ, Flynn T, Sherwood AM, Olley MA, Madej J, DeNicola GM. Mitochondrial respiratory function is preserved under cysteine starvation via glutathione catabolism in NSCLC. Nat Commun. 2024 May.15(1):4244. Pubmedid: [38762605](https://www.ncbi.nlm.nih.gov/pubmed/38762605). Pmcid: PMC11102494. 
     * Rawat V, DeLear P, Prashanth P, Ozgurses ME, Tebeje A, Burns PA, Conger KO, Solís C, Hasnain Y, Novikova A, Endress JE, González-Sánchez P, Dong W, Stephanopoulos G, DeNicola GM, Harris I, Sept D, Mason FM, Coloff JL. Drug screening in human physiologic medium identifies uric acid as an inhibitor of rigosertib efficacy. JCI Insight. 2024 May.9(13). Pubmedid: [38815134](https://www.ncbi.nlm.nih.gov/pubmed/38815134). 
-    * Pezacki AT, Gonciarz RL, Okamura T, Matier CD, Torrente L, Cheng K, Miller SG, Ralle M, Ward NP, DeNicola GM, Renslo AR, Chang CJ. A tandem activity-based sensing and labeling strategy reveals antioxidant response element regulation of labile iron pools. Proc Natl Acad Sci U S A. 2024 Jul.121(28). Pubmedid: [38968123](https://www.ncbi.nlm.nih.gov/pubmed/38968123). Pmcid: PMC11252945. 
     * Asantewaa G, Tuttle ET, Ward NP, Kang YP, Kim Y, Kavanagh ME, Girnius N, Chen Y, Rodriguez K, Hecht F, Zocchi M, Smorodintsev-Schiller L, Scales TQ, Taylor K, Alimohammadi F, Duncan RP, Sechrist ZR, Agostini-Vulaj D, Schafer XL, Chang H, Smith ZR, O'Connor TN, Whelan S, Selfors LM, Crowdis J, Gray GK, Bronson RT, Brenner D, Rufini A, Dirksen RT, Hezel AF, Huber AR, Munger J, Cravatt BF, Vasiliou V, Cole CL, DeNicola GM, Harris IS. Glutathione synthesis in the mouse liver supports lipid abundance through NRF2 repression. Nat Commun. 2024 Jul.15(1):6152. Pubmedid: [39034312](https://www.ncbi.nlm.nih.gov/pubmed/39034312). Pmcid: PMC11271484. 
+    * Pezacki AT, Gonciarz RL, Okamura T, Matier CD, Torrente L, Cheng K, Miller SG, Ralle M, Ward NP, DeNicola GM, Renslo AR, Chang CJ. A tandem activity-based sensing and labeling strategy reveals antioxidant response element regulation of labile iron pools. Proc Natl Acad Sci U S A. 2024 Jul.121(28). Pubmedid: [38968123](https://www.ncbi.nlm.nih.gov/pubmed/38968123). Pmcid: PMC11252945. 
     * Jiang Y, El Khoury E, Pezacki AT, Qian N, Oi M, Torrente L, Miller SG, Ralle M, DeNicola GM, Min W, Chang CJ. An Activity-Based Sensing Approach to Multiplex Mapping of Labile Copper Pools by Stimulated Raman Scattering. J Am Chem Soc. 2024 Dec.146(49):33324-33337. Pubmedid: [39586074](https://www.ncbi.nlm.nih.gov/pubmed/39586074). 
     * Greenwood HE, Barber AR, Edwards RS, Tyrrell WE, George ME, Dos Santos SN, Baark F, Tanc M, Khalil E, Falzone A, Ward NP, DeBlasi JM, Torrente L, Soni PN, Pearce DR, Firth G, Smith LM, Vilhelmsson Timmermand O, Huebner A, Swanton C, Hynds RE, DeNicola GM, Witney TH. Imaging NRF2 activation in non-small cell lung cancer with positron emission tomography. Nat Commun. 2024 Dec.15(1):10484. Pubmedid: [39690148](https://www.ncbi.nlm.nih.gov/pubmed/39690148). Pmcid: PMC11652680. 
     * Conger KO, Chidley C, Ozgurses ME, Zhao H, Kim Y, Semina SE, Burns P, Rawat V, Lietuvninkas L, Sheldon R, Ben-Sahra I, Frasor J, Sorger PK, DeNicola GM, Coloff JL. ASCT2 is a major contributor to serine uptake in cancer cells. Cell Rep. 2024 Aug.43(8):114552. Pubmedid: [39068660](https://www.ncbi.nlm.nih.gov/pubmed/39068660). Pmcid: PMC11406281. 
@@ -739,7 +740,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -933,6 +934,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/gina-denicola#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/gina-denicola#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

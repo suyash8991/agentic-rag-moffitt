@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/andrii-monastyrskyi",
-  "last_updated": "2025-10-14T22:06:12.347904",
+  "last_updated": "2025-10-19T00:28:25.900380",
   "researcher_id": "24126",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -135,6 +134,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24126"
   },
-  "content_hash": "41f430ee0e6ab2040753e14b52a096a6431a48ad64d90b0c33f07d7526a0c4c1",
-  "researcher_name": "Andrii Monastyrskyi"
+  "content_hash": "aa1ee8a7cdf839841f3f5fd702a0b987a4efba9a3e88abc637822cc100b16370",
+  "researcher_name": "Andrii Monastyrskyi",
+  "department": "Drug Discovery"
 }

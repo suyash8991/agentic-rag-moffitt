@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jacob-kresovich",
-  "last_updated": "2025-10-14T22:04:37.630404",
+  "last_updated": "2025-10-19T00:27:03.381167",
   "researcher_id": "32219",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -129,6 +128,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32219"
   },
-  "content_hash": "255c3a45650d90143c4e1d7a8cc37f116f2280ecf2f02ef30c77cd6139115449",
-  "researcher_name": "Jacob Kresovich"
+  "content_hash": "4518bcbd4341c4c340bea2109371678eed1147394aade8ac0d926ce5d69b3ac3",
+  "researcher_name": "Jacob Kresovich",
+  "department": "Cancer Epidemiology"
 }

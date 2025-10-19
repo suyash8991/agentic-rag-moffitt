@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/youngchul-kim",
-  "last_updated": "2025-10-14T22:01:08.947332",
+  "last_updated": "2025-10-19T00:23:55.543369",
   "researcher_id": "14086",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -112,6 +111,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14086"
   },
-  "content_hash": "dcd157ccab6500be2359e4693358007a8f628126f2160101bb3d5e8ad8b488d3",
-  "researcher_name": "Youngchul Kim"
+  "content_hash": "639b6a3cd9ac6d7891cd4f9776b4567af5a9e7fb5b26a44b18a50af3f0a9fe73",
+  "researcher_name": "Youngchul Kim",
+  "department": "Biostatistics and Bioinformatics"
 }

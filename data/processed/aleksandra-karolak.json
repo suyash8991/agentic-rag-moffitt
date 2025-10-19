@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/aleksandra-karolak",
-  "last_updated": "2025-10-14T22:06:40.218213",
+  "last_updated": "2025-10-19T00:28:47.395051",
   "researcher_id": "16049",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -123,6 +122,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16049"
   },
-  "content_hash": "a363846c836c5c650f9a24f766cbf1f6c9aa7d8ccc2614ed1549b18eea70ca23",
-  "researcher_name": "Aleksandra Karolak"
+  "content_hash": "0ad21f5b06108d3a86ddca24e47e804dbe3ce306cc5820c70be14f500be215da",
+  "researcher_name": "Aleksandra Karolak",
+  "department": "Machine Learning"
 }

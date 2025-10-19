@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/nancy-gillis-johnson",
-  "last_updated": "2025-10-14T22:04:33.307857",
+  "last_updated": "2025-10-19T00:26:58.869723",
   "researcher_id": "6730",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -135,6 +134,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=6730"
   },
-  "content_hash": "ddc695bfc6860010cb3d590906f9fbc6fd1c23eafef05dbbee90f72e7b5bb909",
-  "researcher_name": "Nancy Gillis Johnson"
+  "content_hash": "7f7e123bf54fa724e407b45c4441f7cc7cd260e58fce1e9e6072807767fca4b7",
+  "researcher_name": "Nancy Gillis Johnson",
+  "department": "Cancer Epidemiology"
 }

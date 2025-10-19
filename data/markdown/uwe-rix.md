@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -517,8 +518,8 @@ My scientific interest centers on chemical biology, targeted drugs, drug-protein
     * Cocco E, Lee JE, Kannan S, Schram AM, Won HH, Shifman S, Kulick A, Baldino L, Toska E, Arruabarrena-Aristorena A, Kittane S, Wu F, Cai Y, Arena S, Mussolin B, Kannan R, Vasan N, Gorelick AN, Berger MF, Novoplansky O, Jagadeeshan S, Liao Y, Rix U, Misale S, Taylor BS, Bardelli A, Hechtman JF, Hyman DM, Elkabets M, de Stanchina E, Verma CS, Ventura A, Drilon A, Scaltriti M. TRK xDFG Mutations Trigger a Sensitivity Switch from Type I to II Kinase Inhibitors. Cancer Discov. 2021 Jan.11(1):126-141. Pubmedid: [33004339](https://www.ncbi.nlm.nih.gov/pubmed/33004339). Pmcid: PMC8012405. 
     * Palve V, Liao Y, Remsing Rix LL, Rix U. Turning liabilities into opportunities: Off-target based drug repurposing in cancer. Semin Cancer Biol. 2021 Jan.68:209-229. Pubmedid: [32044472](https://www.ncbi.nlm.nih.gov/pubmed/32044472). Pmcid: PMC7415607. 
     * Fang B, Izumi V, Rix LLR, Welsh E, Pike I, Reuther GW, Haura EB, Rix U, Koomen JM. Lowering Sample Requirements to Study Tyrosine Kinase Signaling Using Phosphoproteomics with the TMT Calibrator Approach. Proteomics. 2020 Dec.20(24):e2000116. Pubmedid: [32865326](https://www.ncbi.nlm.nih.gov/pubmed/32865326). Pmcid: PMC7771371. 
-    * Sumi NJ, Ctortecka C, Hu Q, Bryant AT, Fang B, Remsing Rix LL, Ayaz M, Kinose F, Welsh EA, Eschrich SA, Lawrence HR, Koomen JM, Haura EB, Rix U. Divergent Polypharmacology-Driven Cellular Activity of Structurally Similar Multi-Kinase Inhibitors through Cumulative Effects on Individual Targets. Cell Chem Biol. 2019 Sep.26(9):1240-1252.e11. Pubmedid: [31257184](https://www.ncbi.nlm.nih.gov/pubmed/31257184). Pmcid: PMC6754293. 
     * Faião-Flores F, Emmons MF, Durante MA, Kinose F, Saha B, Fang B, Koomen JM, Chellappan SP, Maria-Engler SS, Rix U, Licht JD, Harbour JW, Smalley KSM. HDAC Inhibition Enhances the In Vivo Efficacy of MEK Inhibitor Therapy in Uveal Melanoma. Clin Cancer Res. 2019 Sep.25(18):5686-5701. Pubmedid: [31227503](https://www.ncbi.nlm.nih.gov/pubmed/31227503). Pmcid: PMC6744978. 
+    * Sumi NJ, Ctortecka C, Hu Q, Bryant AT, Fang B, Remsing Rix LL, Ayaz M, Kinose F, Welsh EA, Eschrich SA, Lawrence HR, Koomen JM, Haura EB, Rix U. Divergent Polypharmacology-Driven Cellular Activity of Structurally Similar Multi-Kinase Inhibitors through Cumulative Effects on Individual Targets. Cell Chem Biol. 2019 Sep.26(9):1240-1252.e11. Pubmedid: [31257184](https://www.ncbi.nlm.nih.gov/pubmed/31257184). Pmcid: PMC6754293. 
     * Sarcar B, Gimbrone NT, Wright G, Remsing Rix LL, Gordian ER, Rix U, Chiappori AA, Reuther GW, Santiago-Cardona PG, Muñoz-Antonia T, Cress WD. Characterization of epidermal growth factor receptor (EGFR) P848L, an unusual EGFR variant present in lung cancer patients, in a murine Ba/F3 model. FEBS Open Bio. 2019 Oct.9(10):1689-1704. Pubmedid: [31314158](https://www.ncbi.nlm.nih.gov/pubmed/31314158). Pmcid: PMC6768113. 
     * Xie M, Zheng H, Madan-Lala R, Dai W, Gimbrone NT, Chen Z, Kinose F, Blackstone SA, Smalley KSM, Cress WD, Haura EB, Rix U, Beg AA. MEK Inhibition Modulates Cytokine Response to Mediate Therapeutic Efficacy in Lung Cancer. Cancer Res. 2019 Nov.79(22):5812-5825. Pubmedid: [31362929](https://www.ncbi.nlm.nih.gov/pubmed/31362929). Pmcid: PMC6881545. 
     * Kuenzi BM, Remsing Rix LL, Kinose F, Kroeger JL, Lancet JE, Padron E, Rix U. Off-target based drug repurposing opportunities for tivantinib in acute myeloid leukemia. Sci Rep. 2019 Jan.9(1):606. Pubmedid: [30679640](https://www.ncbi.nlm.nih.gov/pubmed/30679640). Pmcid: PMC6345777. 
@@ -531,8 +532,8 @@ My scientific interest centers on chemical biology, targeted drugs, drug-protein
     * Ctortecka C, Palve V, Kuenzi BM, Fang B, Sumi NJ, Izumi V, Novakova S, Kinose F, Remsing Rix LL, Haura EB, Koomen JM, Rix U. Functional Proteomics and Deep Network Interrogation Reveal a Complex Mechanism of Action of Midostaurin in Lung Cancer Cells. Mol Cell Proteomics. 2018 Dec.17(12):2434-2447. Pubmedid: [30217950](https://www.ncbi.nlm.nih.gov/pubmed/30217950). Pmcid: PMC6283294. 
     * Palve V, Kuenzi BM, Rix U. Unraveling the rewired network. Nat Chem Biol. 2018 Aug.14(8):746-747. Pubmedid: [29942077](https://www.ncbi.nlm.nih.gov/pubmed/29942077). 
     * Mishall KM, Beadnell TC, Kuenzi BM, Klimczak DM, Superti-Furga G, Rix U, Schweppe RE. Sustained activation of the AKT/mTOR and MAP kinase pathways mediate resistance to the Src inhibitor, dasatinib, in thyroid cancer. Oncotarget. 2017 Nov.8(61):103014-103031. Pubmedid: [29262541](https://www.ncbi.nlm.nih.gov/pubmed/29262541). Pmcid: PMC5732707. 
-    * Vaishnavi A, Schubert L, Rix U, Marek LA, Le AT, Keysar S, Glogowska MJ, Smith MA, Kako SL, Sumi NJ, Davies KD, Ware KE, Varella-Garcia M, Haura EB, Jimeno A, Heasley LE, Aisner DL, Doebele RC. EGFR Mediates Responses to Small-Molecule Drugs Targeting Oncogenic Fusion Kinases. Cancer Res. 2017 Jul.77(13):3551-3563. Pubmedid: [28428274](https://www.ncbi.nlm.nih.gov/pubmed/28428274). Pmcid: PMC5516930. 
     * Wright G, Golubeva V, Remsing Rix LL, Berndt N, Luo Y, Ward GA, Gray JE, Schönbrunn E, Lawrence HR, Monteiro ANA, Rix U. Dual Targeting of WEE1 and PLK1 by AZD1775 Elicits Single Agent Cellular Anticancer Activity. Acs Chem Biol. 2017 Jul.12(7):1883-1892. Pubmedid: [28557434](https://www.ncbi.nlm.nih.gov/pubmed/28557434). Pmcid: PMC5551971. 
+    * Vaishnavi A, Schubert L, Rix U, Marek LA, Le AT, Keysar S, Glogowska MJ, Smith MA, Kako SL, Sumi NJ, Davies KD, Ware KE, Varella-Garcia M, Haura EB, Jimeno A, Heasley LE, Aisner DL, Doebele RC. EGFR Mediates Responses to Small-Molecule Drugs Targeting Oncogenic Fusion Kinases. Cancer Res. 2017 Jul.77(13):3551-3563. Pubmedid: [28428274](https://www.ncbi.nlm.nih.gov/pubmed/28428274). Pmcid: PMC5516930. 
     * Gao B, Huang C, Kernstine K, Pelekanou V, Kluger Y, Jiang T, Peters-Hall JR, Coquelin M, Girard L, Zhang W, Huffman K, Oliver D, Kinose F, Haura E, Teer JK, Rix U, Le AT, Aisner DL, Varella-Garcia M, Doebele RC, Covington KR, Hampton OA, Doddapaneni HV, Jayaseelan JC, Hu J, Wheeler DA, Shay JW, Rimm DL, Gazdar A, Minna JD. Non-malignant respiratory epithelial cells preferentially proliferate from resected non-small cell lung cancer specimens cultured under conditionally reprogrammed conditions. Oncotarget. 2017 Feb.8(7):11114-11126. Pubmedid: [28052041](https://www.ncbi.nlm.nih.gov/pubmed/28052041). Pmcid: PMC5355251. 
     * Kuenzi BM, Remsing Rix LL, Stewart PA, Fang B, Kinose F, Bryant AT, Boyle TA, Koomen JM, Haura EB, Rix U. Polypharmacology-based ceritinib repurposing using integrated functional proteomics. Nat Chem Biol. 2017 Dec.13(12):1222-1231. Pubmedid: [28991240](https://www.ncbi.nlm.nih.gov/pubmed/28991240). Pmcid: PMC5909815. 
     * Jhuraney A, Woods NT, Wright G, Rix L, Kinose F, Kroeger JL, Remily-Wood E, Cress WD, Koomen JM, Brantley SG, Gray JE, Haura EB, Rix U, Monteiro AN. PAXIP1 Potentiates the Combination of WEE1 Inhibitor AZD1775 and Platinum Agents in Lung Cancer. Mol Cancer Ther. 2016 Jul.15(7):1669-1681. Pubmedid: [27196765](https://www.ncbi.nlm.nih.gov/pubmed/27196765). Pmcid: PMC4936941. 
@@ -757,7 +758,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -951,6 +952,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/uwe-rix#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/uwe-rix#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

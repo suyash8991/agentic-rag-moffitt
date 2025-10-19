@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/vince-luca",
-  "last_updated": "2025-10-14T22:06:19.991424",
+  "last_updated": "2025-10-19T00:28:14.936281",
   "researcher_id": "17757",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -146,6 +145,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17757"
   },
-  "content_hash": "cb6d0474e47b9e3a7372b5e6e0d3e81e435b90d22236e14886835250b144d889",
-  "researcher_name": "Vince Luca"
+  "content_hash": "0ae08b6552f05094677c21cbcf4bdc2ee7f51e5e2ba80db3489ee599236f5e6e",
+  "researcher_name": "Vince Luca",
+  "department": "Immunology"
 }

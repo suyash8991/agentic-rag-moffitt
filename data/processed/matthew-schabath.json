@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/matthew-schabath",
-  "last_updated": "2025-10-14T22:03:59.127832",
+  "last_updated": "2025-10-19T00:26:22.182171",
   "researcher_id": "4627",
-  "name": "",
   "degrees": [
     "PhD",
     "MD"
@@ -162,6 +161,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4627"
   },
-  "content_hash": "a4ae9a88c9f3c06baa7a2ef80869f133ac29896a500612240b7984de137f0dbe",
-  "researcher_name": "Matthew Schabath"
+  "content_hash": "575430b5edeea7257194b4dbf4b5cd74049ae70d6106a734cc8665a7565a01a7",
+  "researcher_name": "Matthew Schabath",
+  "department": "Cancer Epidemiology"
 }

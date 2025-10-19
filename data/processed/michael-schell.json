@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/michael-schell",
-  "last_updated": "2025-10-14T22:03:52.016687",
+  "last_updated": "2025-10-19T00:26:14.137478",
   "researcher_id": "3509",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -98,11 +97,11 @@
       "authors": ""
     },
     {
-      "title": "Dickey BL, Putney RM, Schell MJ, Berglund AE, Amelio AL, Caudell JJ, Chung CH, Giuliano AR. Identification of a Biomarker Panel from Genome-Wide Methylation to Detect Early HPV-Associated Oropharyngeal Cancer. Cancer Prev Res (Phila)",
-      "pubmed_id": "38286404",
-      "pmc_id": "PMC10987272",
+      "title": "Al-Toubah T, Schell MJ, Morse B, Haider M, Valone T, Strosberg J. Phase II study of pembrolizumab and lenvatinib in advanced well-differentiated neuroendocrine tumors. ESMO Open",
+      "pubmed_id": "38507897",
+      "pmc_id": "PMC10966166",
       "year": "2024",
-      "journal": "17(4):169-176",
+      "journal": "9(4):102386",
       "authors": ""
     }
   ],
@@ -117,6 +116,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3509"
   },
-  "content_hash": "adba785eab51238976dd7ba011543b6c46e936dbbddb8aa08cb87b976810c48b",
-  "researcher_name": "Michael Schell"
+  "content_hash": "7f8d345de3d34cf6995f8efb348f22232aa65afefd2e7890bdeef5f923ac207d",
+  "researcher_name": "Michael Schell",
+  "department": "Biostatistics and Bioinformatics"
 }

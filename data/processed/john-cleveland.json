@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/john-cleveland",
-  "last_updated": "2025-10-14T22:03:36.535283",
+  "last_updated": "2025-10-19T00:26:03.228854",
   "researcher_id": "14386",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -34,6 +33,13 @@
   ],
   "publications": [
     {
+      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
+      "pubmed_id": "40845845",
+      "year": "2025",
+      "journal": "43(10):1917-1936",
+      "authors": ""
+    },
+    {
       "title": "Yu X, Jain MD, Menges MA, Cen L, Noble JD, Atkins R, Mohammad TJ, Bachmeier CA, Naderinezhad S, Reid K, Corallo S, Yoder SJ, Zhang C, Zhang L, Miranda JA, Shah B, Chavez JC, Hesterberg RS, Delgado LC, Savid-Frontera C, Rodriguez PC, Cleveland JL, Wang X, Davila ML, Locke FL. Comparison of axicabtagene ciloleucel and tisagenlecleucel patient CAR-T cell products by single-cell RNA sequencing. J Immunother Cancer",
       "pubmed_id": "40730421",
       "pmc_id": "PMC12306477",
@@ -54,12 +60,6 @@
       "pmc_id": "PMC11733535",
       "year": "2025",
       "journal": "85(2):378-398",
-      "authors": ""
-    },
-    {
-      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
-      "pubmed_id": "40845845",
-      "year": "2025",
       "authors": ""
     },
     {
@@ -167,7 +167,7 @@
       "description": "Title: State of FL-License Plate Funds  \nAward Number: n/a  \nSponsor: Florida Department of Highway Safety & Motor Vehicles  \nCleveland, J. (PD/PI)"
     },
     {
-      "description": "Title: State of Florida Appropriation  \nAward Number: MOG21  \nSponsor: Florida Department of Health  \nCleveland, J. (PD/PI)"
+      "description": "Title: State of Florida Appropriation  \nAward Number: MOG21 Contract Renewal #2; Amendment #R1A3  \nSponsor: Florida Department of Health  \nCleveland, J. (PD/PI)"
     },
     {
       "description": "Title: Applying Large Language Models to Accelerate Abstraction of Cancer Pathology Reports for Cancer Registry (LLMs for Unstructured Data Extraction)  \nAward Number: 3P30CA076292-25S4  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI), Thieu, T. (PD/PI)",
@@ -179,6 +179,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14386"
   },
-  "content_hash": "5c26688feeb5c791689be8241995cb8d1e0683413f3e442d610acd4255e07c6c",
-  "researcher_name": "John Cleveland"
+  "content_hash": "5b18e2a6415ea769d77de3f0edd0df65337a2c325ec26d8297f0a2d023104a1d",
+  "researcher_name": "John Cleveland",
+  "department": "Tumor Microenvironment and Metastasis"
 }

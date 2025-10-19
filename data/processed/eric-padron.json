@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/eric-padron",
-  "last_updated": "2025-10-14T22:06:25.107390",
+  "last_updated": "2025-10-19T00:28:34.869363",
   "researcher_id": "7709",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -62,6 +61,13 @@
       "authors": ""
     },
     {
+      "title": "Neupane N, Padron E. The Role of Inflammation in CMML Pathobiology and Progression. Curr Hematol Malig Rep",
+      "pubmed_id": "41062769",
+      "year": "2025",
+      "journal": "20(1):14",
+      "authors": ""
+    },
+    {
       "title": "Ball S, Jain AG, Al Ali N, Aguirre LE, Bewersdorf JP, Kent A, Rose A, Hayden A, Siddon A, Lykon J, Madarang E, Swoboda DM, Padron E, Sweet K, Sallman DA, Lancet J, Carraway HE, Watts J, Zeidan A, Pollyea DA, Komrokji RS. Hypomethylating Agent and Venetoclax Combination Is a Safe and Effective Alternative to Intensive Chemotherapy in Older (\u2265 70 Years) Patients With Newly Diagnosed Favorable Risk Acute Myeloid Leukemia. Am J Hematol",
       "pubmed_id": "40772639",
       "year": "2025",
@@ -112,13 +118,6 @@
       "year": "2025",
       "journal": "9(7):e70164",
       "authors": ""
-    },
-    {
-      "title": "Komrokji RS, Ammad-Ud-Din M, Ali NHA, Xie Z, Chan O, Kuykendall AT, Yun S, Walker AR, Lancet J, Padron E, Sallman DA. Hematological Response to Frontline Treatment in Lower Risk Myelodysplastic Syndromes (LRMDS) is Associated With Better Overall Survival. Clin Lymphoma Myeloma Leuk",
-      "pubmed_id": "40113545",
-      "year": "2025",
-      "journal": "25(7):e487-e490",
-      "authors": ""
     }
   ],
   "grants": [
@@ -151,6 +150,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7709"
   },
-  "content_hash": "1e84d14eb38a788e45d031b37e55707f312b01b59b58e218b7108f8750fd81f6",
-  "researcher_name": "Eric Padron"
+  "content_hash": "c4dfbf8fda5bb146f7a69c3885735ab3800d8253709b4050baa4a38e8a6ffc9a",
+  "researcher_name": "Eric Padron",
+  "department": "Immunology"
 }

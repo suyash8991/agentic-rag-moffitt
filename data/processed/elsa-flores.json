@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/elsa-flores",
-  "last_updated": "2025-10-14T22:03:02.741491",
+  "last_updated": "2025-10-19T00:25:37.231295",
   "researcher_id": "17085",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -142,6 +141,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17085"
   },
-  "content_hash": "01255484788d9bb00cb6eed4e6c46484c79bf9da5133a33fc41baf34e5fb96c0",
-  "researcher_name": "Elsa Flores"
+  "content_hash": "683e203d1d3ff6ccf111dd45e927140c70a437a25fe8dde1afeea4b3dd70a1d8",
+  "researcher_name": "Elsa Flores",
+  "department": "Molecular Oncology"
 }

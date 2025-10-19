@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jeremy-goecks",
-  "last_updated": "2025-10-14T22:06:36.547228",
+  "last_updated": "2025-10-19T00:27:34.573529",
   "researcher_id": "unknown",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -115,6 +114,7 @@
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GoecksJeremy_36665.jpg",
   "contact": {},
-  "content_hash": "7329a8d1715e3c14537a124833fa28b7239be190d7266827aff532d3b13c1f89",
-  "researcher_name": "Jeremy Goecks"
+  "content_hash": "018a115e1cdb9cd1a31c9caa1e4742d9e0ff4db5c96050dfe9749a3c0821f99d",
+  "researcher_name": "Jeremy Goecks",
+  "department": "Machine Learning"
 }

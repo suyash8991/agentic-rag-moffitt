@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/doug-cress",
-  "last_updated": "2025-10-14T22:02:59.673668",
+  "last_updated": "2025-10-19T00:25:32.864025",
   "researcher_id": "501",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -99,11 +98,11 @@
       "authors": ""
     },
     {
-      "title": "Gordian E, Welsh EA, Gimbrone N, Siegel EM, Shibata D, Creelan BC, Cress WD, Eschrich SA, Haura EB, Mu\u00f1oz-Antonia T. Correction: Transforming growth factor \u03b2-induced epithelial-to-mesenchymal signature predicts metastasis-free survival in non-small cell lung cancer. Oncotarget",
-      "pubmed_id": "34194632",
-      "pmc_id": "PMC8238243",
+      "title": "Wright GM, Gimbrone NT, Sarcar B, Percy TR, Gordi\u00e1n ER, Kinose F, Sumi NJ, Rix U, Cress WD. CDK4/6 inhibition synergizes with inhibition of P21-Activated Kinases (PAKs) in lung cancer cell lines. PLoS One",
+      "pubmed_id": "34138895",
+      "pmc_id": "PMC8211232",
       "year": "2021",
-      "journal": "12(13):1325",
+      "journal": "16(6):e0252927",
       "authors": ""
     }
   ],
@@ -131,6 +130,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=501"
   },
-  "content_hash": "b3b8f34e94533adfbc33769531a3c3db0b541ecb6457c77ecdf8fadbe258555a",
-  "researcher_name": "Doug Cress"
+  "content_hash": "54ef5545dbac006d1c9bfcb2da1ecb5da3d46a7767b99001eb2b42c4b3b25b10",
+  "researcher_name": "Doug Cress",
+  "department": "Molecular Oncology"
 }

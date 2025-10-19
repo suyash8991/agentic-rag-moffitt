@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/xiaofei-song",
-  "last_updated": "2025-10-14T22:08:10.949514",
+  "last_updated": "2025-10-19T00:30:20.667765",
   "researcher_id": "32089",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -26,6 +25,19 @@
       "authors": ""
     },
     {
+      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
+      "pubmed_id": "40845845",
+      "year": "2025",
+      "journal": "43(10):1917-1936",
+      "authors": ""
+    },
+    {
+      "title": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F. Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma. Cancer Cell",
+      "pubmed_id": "41072416",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Song X, Yu X, Moran-Segura CM, Xu H, Li T, Davis JT, Vosoughi A, Grass GD, Li R, Wang X. ROICellTrack: a deep learning framework for integrating cellular imaging modalities in subcellular spatial transcriptomic profiling of tumor tissues. Bioinformatics",
       "pubmed_id": "40199763",
       "pmc_id": "PMC12085996",
@@ -37,12 +49,6 @@
       "title": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH. PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis. Mol Cancer Ther",
       "pubmed_id": "40552938",
       "pmc_id": "PMC12327362",
-      "year": "2025",
-      "authors": ""
-    },
-    {
-      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
-      "pubmed_id": "40845845",
       "year": "2025",
       "authors": ""
     },
@@ -84,14 +90,6 @@
       "year": "2024",
       "journal": "154:106866",
       "authors": ""
-    },
-    {
-      "title": "Serey-Gaut M, Cortes M, Makrythanasis P, Suri M, Taylor AMR, Sullivan JA, Asleh AN, Mitra J, Dar MA, McNamara A, Shashi V, Dugan S, Song X, Rosenfeld JA, Cabrol C, Iwaszkiewicz J, Zoete V, Pehlivan D, Akdemir ZC, Roeder ER, Littlejohn RO, Dibra HK, Byrd PJ, Stewart GS, Geckinli BB, Posey J, Westman R, Jungbluth C, Eason J, Sachdev R, Evans CA, Lemire G, VanNoy GE, O'Donnell-Luria A, Mau-Them FT, Juven A, Piard J, Nixon CY, Zhu Y, Ha T, Buckley MF, Thauvin C, Essien Umanah GK, Van Maldergem L, Lupski JR, Roscioli T, Dawson VL, Dawson TM, Antonarakis SE. Bi-allelic TTI1 variants cause an autosomal-recessive neurodevelopmental disorder with microcephaly. Am J Hum Genet",
-      "pubmed_id": "36724785",
-      "pmc_id": "PMC10027477",
-      "year": "2023",
-      "journal": "110(3):499-515",
-      "authors": ""
     }
   ],
   "grants": [
@@ -107,6 +105,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32089"
   },
-  "content_hash": "c5dd7c3713f6052b6bdc20ae8c1c7928fc212e659266eccae7da12df857f1d2e",
-  "researcher_name": "Xiaofei Song"
+  "content_hash": "28820a80796ead4168dbe01a48a91ed66202d73a4f1f2931b2e5883621f1396e",
+  "researcher_name": "Xiaofei Song",
+  "department": "Biostatistics and Bioinformatics"
 }

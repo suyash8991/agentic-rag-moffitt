@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ana-gomes",
-  "last_updated": "2025-10-14T22:03:11.555843",
+  "last_updated": "2025-10-19T00:25:40.826671",
   "researcher_id": "26666",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -158,6 +157,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=26666"
   },
-  "content_hash": "b54d2f223ef9579538a7f323156dc393e258d5a6449a406f624e53e696f3f104",
-  "researcher_name": "Ana Gomes"
+  "content_hash": "ac42419a18471cb6f361663f6d14bbae9220464d4633e6c396012942f3da4b04",
+  "researcher_name": "Ana Gomes",
+  "department": "Molecular Oncology"
 }

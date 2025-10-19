@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -513,8 +514,8 @@ Dr. Morse’s current research projects are focused on development of targeted a
     * Cohen AS, Khalil FK, Welsh EA, Schabath MB, Enkemann SA, Davis A, Zhou JM, Boulware DC, Kim J, Haura EB, Morse DL. Cell-surface marker discovery for lung cancer. Oncotarget. 2017 Dec.8(69):113373-113402. Pubmedid: [29371917](https://www.ncbi.nlm.nih.gov/pubmed/29371917). Pmcid: PMC5768334. 
     * Roy J, Putt KS, Coppola D, Leon ME, Khalil FK, Centeno BA, Clark N, Stark VE, Morse DL, Low PS. Assessment of cholecystokinin 2 receptor (CCK2R) in neoplastic tissue. Oncotarget. 2016 Mar.7(12):14605-14615. Pubmedid: [26910279](https://www.ncbi.nlm.nih.gov/pubmed/26910279). Pmcid: PMC4924738. 
     * Khabibullin AR, Karolak A, Budzevich MM, Woods LM, Martinez MV, McLaughlin ML, Morse DL. SU-C-204-03: DFT Calculations of the Stability of DOTA-Based-Radiopharmaceuticals. Med Phys. 2016 Jun.43(6):3314. 
-    * Cohen AS, Patek R, Enkemann SA, Johnson JO, Chen T, Toloza E, Vagner J, Morse DL. Delta-Opioid Receptor (δOR) Targeted Near-Infrared Fluorescent Agent for Imaging of Lung Cancer: Synthesis and Evaluation In Vitro and In Vivo. Bioconjug Chem. 2016 Feb.27(2):427-438. Pubmedid: [26488422](https://www.ncbi.nlm.nih.gov/pubmed/26488422). Pmcid: PMC5524213. 
     * Huynh AS, Estrella V, Stark VE, Cohen AS, Chen T, Casagni TJ, Josan JS, Lloyd MC, Johnson J, Kim J, Hruby VJ, Vagner J, Morse DL. Tumor Targeting and Pharmacokinetics of a Near-Infrared Fluorescent-Labeled δ-Opioid Receptor Antagonist Agent, Dmt-Tic-Cy5. Mol Pharm. 2016 Feb.13(2):534-544. Pubmedid: [26713599](https://www.ncbi.nlm.nih.gov/pubmed/26713599). Pmcid: PMC4936951. 
+    * Cohen AS, Patek R, Enkemann SA, Johnson JO, Chen T, Toloza E, Vagner J, Morse DL. Delta-Opioid Receptor (δOR) Targeted Near-Infrared Fluorescent Agent for Imaging of Lung Cancer: Synthesis and Evaluation In Vitro and In Vivo. Bioconjug Chem. 2016 Feb.27(2):427-438. Pubmedid: [26488422](https://www.ncbi.nlm.nih.gov/pubmed/26488422). Pmcid: PMC5524213. 
     * Sewda K, Coppola D, Enkemann S, Yue B, Kim J, Lopez AS, Wojtkowiak JW, Stark VE, Morse B, Shibata D, Vignesh S, Morse DL. Cell-surface markers for colon adenoma and adenocarcinoma. Oncotarget. 2016 Apr.7(14):17773-17789. Pubmedid: [26894861](https://www.ncbi.nlm.nih.gov/pubmed/26894861). Pmcid: PMC4951249. 
     * Tafreshi NK, Lloyd MC, Proemsey JB, Bui MM, Kim J, Gillies RJ, Morse DL. Evaluation of CAIX and CAXII Expression in Breast Cancer at Varied O2 Levels: CAIX is the Superior Surrogate Imaging Biomarker of Tumor Hypoxia. Mol Imaging Biol. 2016 Apr.18(2):219-231. Pubmedid: [26276155](https://www.ncbi.nlm.nih.gov/pubmed/26276155). Pmcid: PMC4754166. 
     * Damaghi M, Tafreshi NK, Lloyd MC, Sprung R, Estrella V, Wojtkowiak JW, Morse DL, Koomen JM, Bui MM, Gatenby RA, Gillies RJ. Chronic acidosis in the tumour microenvironment selects for overexpression of LAMP2 in the plasma membrane. Nat Commun. 2015 Dec.6:8752. Pubmedid: [26658462](https://www.ncbi.nlm.nih.gov/pubmed/26658462). Pmcid: PMC4682176. 
@@ -522,8 +523,8 @@ Dr. Morse’s current research projects are focused on development of targeted a
     * Tafreshi NK, Lloyd MC, Bui MM, Gillies RJ, Morse DL. Carbonic anhydrase IX as an imaging and therapeutic target for tumors and metastases. Subcell Biochem. 2014 May.75:221-254. Pubmedid: [24146382](https://www.ncbi.nlm.nih.gov/pubmed/24146382). Pmcid: PMC4282494. 
     * Alleti R, Vagner J, Dehigaspitiya DC, Moberg VE, Elshan NG, Tafreshi NK, Brabez N, Weber CS, Lynch RM, Hruby VJ, Gillies RJ, Morse DL, Mash EA. Synthesis and characterization of time-resolved fluorescence probes for evaluation of competitive binding to melanocortin receptors. Bioorg Med Chem. 2013 Sep.21(17):5029-5038. Pubmedid: [23890524](https://www.ncbi.nlm.nih.gov/pubmed/23890524). Pmcid: PMC3773999. 
     * Cubitt CL, Menth J, Dawson J, Martinez GV, Foroutan P, Morse DL, Bui MM, Letson GD, Sullivan DM, Reed DR. Rapid screening of novel agents for combination therapy in sarcomas. Sarcoma. 2013 Nov.2013:365723. Pubmedid: [24282374](https://www.ncbi.nlm.nih.gov/pubmed/24282374). Pmcid: PMC3824404. 
-    * Barkey NM, Preihs C, Cornnell HH, Martinez GV, Carie A, Vagner J, Xu L, Lloyd MC, Lynch VM, Hruby VJ, Sessler JL, Sill KN, Gillies RJ, Morse DL. Development and in vivo quantitative magnetic resonance imaging of polymer micelles targeted to the melanocortin 1 receptor. J Med Chem. 2013 Aug.56(16):6330-6338. Pubmedid: [23863078](https://www.ncbi.nlm.nih.gov/pubmed/23863078). Pmcid: PMC3807968. 
     * Tafreshi NK, Silva A, Estrella VC, McCardle TW, Chen T, Jeune-Smith Y, Lloyd MC, Enkemann SA, Smalley KS, Sondak VK, Vagner J, Morse DL. In vivo and in silico pharmacokinetics and biodistribution of a melanocortin receptor 1 targeted agent in preclinical models of melanoma. Mol Pharm. 2013 Aug.10(8):3175-3185. Pubmedid: [23763620](https://www.ncbi.nlm.nih.gov/pubmed/23763620). Pmcid: PMC3785103. 
+    * Barkey NM, Preihs C, Cornnell HH, Martinez GV, Carie A, Vagner J, Xu L, Lloyd MC, Lynch VM, Hruby VJ, Sessler JL, Sill KN, Gillies RJ, Morse DL. Development and in vivo quantitative magnetic resonance imaging of polymer micelles targeted to the melanocortin 1 receptor. J Med Chem. 2013 Aug.56(16):6330-6338. Pubmedid: [23863078](https://www.ncbi.nlm.nih.gov/pubmed/23863078). Pmcid: PMC3807968. 
     * Martinez GV, Navath S, Sewda K, Rao V, Foroutan P, Alleti R, Moberg VE, Ahad AM, Coppola D, Lloyd MC, Gillies RJ, Morse DL, Mash EA. Demonstration of a sucrose-derived contrast agent for magnetic resonance imaging of the GI tract. Bioorg Med Chem Lett. 2013 Apr.23(7):2061-2064. Pubmedid: [23481651](https://www.ncbi.nlm.nih.gov/pubmed/23481651). Pmcid: PMC3602218. 
     * Foroutan P, Kreahling JM, Morse DL, Grove O, Lloyd MC, Reed D, Raghavan M, Altiok S, Martinez GV, Gillies RJ. Diffusion MRI and novel texture analysis in osteosarcoma xenotransplants predicts response to anti-checkpoint therapy. PLoS One. 2013.8(12):e82875. Pubmedid: [24358232](https://www.ncbi.nlm.nih.gov/pubmed/24358232). Pmcid: PMC3865096. 
     * Rejniak KA, Estrella V, Chen T, Cohen AS, Lloyd MC, Morse DL. The role of tumor tissue architecture in treatment penetration and efficacy: an integrative study. Front Oncol. 2013.3:111. Pubmedid: [23717812](https://www.ncbi.nlm.nih.gov/pubmed/23717812). Pmcid: PMC3650652. 
@@ -753,7 +754,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -947,6 +948,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/david-morse#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/david-morse#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

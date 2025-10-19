@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jennifer-binning",
-  "last_updated": "2025-10-14T22:02:51.079017",
+  "last_updated": "2025-10-19T00:25:26.121548",
   "researcher_id": "24244",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -120,6 +119,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24244"
   },
-  "content_hash": "e0d2208dc051054eb586a48250f15e043dc1b624c93a309192d2585809a99e2a",
-  "researcher_name": "Jennifer Binning"
+  "content_hash": "01cf4d076434c786fff8c8fdd7b27013afd01df54a99a75bb3e2417e4fcccf2e",
+  "researcher_name": "Jennifer Binning",
+  "department": "Molecular Oncology"
 }

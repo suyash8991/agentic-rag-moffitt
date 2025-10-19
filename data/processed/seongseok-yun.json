@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/seongseok-yun",
-  "last_updated": "2025-10-14T22:07:05.403428",
+  "last_updated": "2025-10-19T00:29:11.757021",
   "researcher_id": "21916",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -132,6 +131,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=21916"
   },
-  "content_hash": "6d1368ab60061f9ba955f19ce2bf4d62c2feb6328ceda25904dbc2b3a288d8c1",
-  "researcher_name": "Seongseok Yun"
+  "content_hash": "e39f0f33d699b3422956f455b626fa02c5fbf164f872b3c8b129079ab43e445f",
+  "researcher_name": "Seongseok Yun",
+  "department": "Molecular Oncology"
 }

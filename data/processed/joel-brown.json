@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/joel-brown",
-  "last_updated": "2025-10-14T22:02:07.082387",
+  "last_updated": "2025-10-19T00:24:50.472321",
   "researcher_id": "18108",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -122,6 +121,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=18108"
   },
-  "content_hash": "4fff19be2bf388c48bfb178b1f2a961d87fa5663e94a2bdfe780c6242c1cea5c",
-  "researcher_name": "Joel Brown"
+  "content_hash": "4151fba7040eadd5a187192292435f76ef9c70e61e33983e9a8b39e5a07d8084",
+  "researcher_name": "Joel Brown",
+  "department": "Integrated Mathematical Oncology"
 }

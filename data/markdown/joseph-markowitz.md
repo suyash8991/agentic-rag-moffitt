@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -527,9 +528,9 @@ Dr. Markowitz's research interest is in studying immune suppressor cells, their 
     * Saha A, Dreyfuss I, Sarfraz H, Friedman M, Markowitz J. Dietary Considerations for Inflammatory Bowel Disease Are Useful for Treatment of Checkpoint Inhibitor-Induced Colitis. Cancers (Basel). 2022 Dec.15(1). Pubmedid: [36612082](https://www.ncbi.nlm.nih.gov/pubmed/36612082). Pmcid: PMC9817715. 
     * Hicks JK, Howard R, Reisman P, Adashek JJ, Fields KK, Gray JE, McIver B, McKee K, O'Leary MF, Perkins RM, Robinson E, Tandon A, Teer JK, Markowitz J, Rollison DE. Integrating Somatic and Germline Next-Generation Sequencing Into Routine Clinical Oncology Practice. JCO Precis Oncol. 2021 May.5. Pubmedid: [34095711](https://www.ncbi.nlm.nih.gov/pubmed/34095711). Pmcid: PMC8169076. 
     * Creed JH, Wilson CM, Soupir AC, Colin-Leitzinger CM, Kimmel GJ, Ospina OE, Chakiryan NH, Markowitz J, Peres LC, Coghill A, Fridley BL. spatialTIME and iTIME: R package and Shiny application for visualization and analysis of immunofluorescence data. Bioinformatics. 2021 Dec.37(23):4584-4586. Pubmedid: [34734969](https://www.ncbi.nlm.nih.gov/pubmed/34734969). Pmcid: PMC8652029. 
+    * Lin TA, Eroglu Z, Carvajal R, Markowitz J. Cohort Identification for Translational Bioinformatics Studies. Methods Mol Biol. 2020 Sep.2194:35-44. Pubmedid: [32926360](https://www.ncbi.nlm.nih.gov/pubmed/32926360). Pmcid: PMC7787345. 
     * Perkins RM, Markowitz J. Development and Optimization of Clinical Informatics Infrastructure to Support Bioinformatics at an Oncology Center. Methods Mol Biol. 2020 Sep.2194:1-19. Pubmedid: [32926358](https://www.ncbi.nlm.nih.gov/pubmed/32926358). 
     * Sun J, Kroeger JL, Markowitz J. Introduction to Multiparametric Flow Cytometry and Analysis of High-Dimensional Data. Methods Mol Biol. 2020 Sep.2194:239-253. Pubmedid: [32926370](https://www.ncbi.nlm.nih.gov/pubmed/32926370). Pmcid: PMC7868168. 
-    * Lin TA, Eroglu Z, Carvajal R, Markowitz J. Cohort Identification for Translational Bioinformatics Studies. Methods Mol Biol. 2020 Sep.2194:35-44. Pubmedid: [32926360](https://www.ncbi.nlm.nih.gov/pubmed/32926360). Pmcid: PMC7787345. 
     * Garg SK, Welsh EA, Fang B, Hernandez YI, Rose T, Gray J, Koomen JM, Berglund A, Mulé JJ, Markowitz J. Multi-Omics and Informatics Analysis of FFPE Tissues Derived from Melanoma Patients with Long/Short Responses to Anti-PD1 Therapy Reveals Pathways of Response. Cancers (Basel). 2020 Nov.12(12). Pubmedid: [33255891](https://www.ncbi.nlm.nih.gov/pubmed/33255891). Pmcid: PMC7768436. 
     * Perkins RM, Markowitz J. Correction to: Development and Optimization of Clinical Informatics Infrastructure to Support Bioinformatics at an Oncology Center. Methods Mol Biol. 2020 Nov.2194:C1. Pubmedid: [33169350](https://www.ncbi.nlm.nih.gov/pubmed/33169350). 
     * Eroglu Z, Eatrides J, Naqvi SMH, Kim Y, Rich J, Babacan NA, Brohl AS, Markowitz J, Sarnaik A, Zager J, Khushalani NI, Sondak VK, Messina J. Neoadjuvant BRAF-targeted therapy in regionally advanced and oligometastatic melanoma. Pigment Cell Melanoma Res. 2020 Jan.33(1):86-95. Pubmedid: [31329344](https://www.ncbi.nlm.nih.gov/pubmed/31329344). Pmcid: PMC6928428. 
@@ -554,8 +555,8 @@ Dr. Markowitz's research interest is in studying immune suppressor cells, their 
     * Markowitz J, Abrams Z, Jacob NK, Zhang X, Hassani JN, Latchana N, Wei L, Regan KE, Brooks TR, Uppati SR, Levine KM, Bekaii-Saab T, Kendra KL, Lesinski GB, Howard JH, Olencki T, Payne PR, Carson WE. MicroRNA profiling of patient plasma for clinical trials using bioinformatics and biostatistical approaches. Onco Targets Ther. 2016 Sep.9:5931-5941. Pubmedid: [27729802](https://www.ncbi.nlm.nih.gov/pubmed/27729802). Pmcid: PMC5047719. 
     * Markowitz J, Mal TK, Yuan C, Courtney NB, Patel M, Stiff AR, Blachly J, Walker C, Eisfeld AK, de la Chapelle A, Carson WE. Structural characterization of NRAS isoform 5. Protein Sci. 2016 May.25(5):1069-1074. Pubmedid: [26947772](https://www.ncbi.nlm.nih.gov/pubmed/26947772). Pmcid: PMC4838646. 
     * Brohl AS, Khushalani NI, Eroglu Z, Markowitz J, Thapa R, Chen YA, Kudchadkar R, Weber JS. A phase IB study of ipilimumab with peginterferon alfa-2b in patients with unresectable melanoma. J Immunother Cancer. 2016 Dec.4:85. Pubmedid: [28031816](https://www.ncbi.nlm.nih.gov/pubmed/28031816). Pmcid: PMC5170897. 
-    * Suarez-Kelly LP, Kemper GM, Duggan MC, Stiff A, Nole TC, Markowitz J, Luedke EA, Yildiz VO, Yu L, Jaime-Ramirez AC, Karpa V, Zhang X, Carson WE. The combination of MLN2238 (ixazomib) with interferon-alpha results in enhanced cell death in melanoma. Oncotarget. 2016 Dec.7(49):81172-81186. Pubmedid: [27783987](https://www.ncbi.nlm.nih.gov/pubmed/27783987). Pmcid: PMC5348384. 
     * Ozgun A, Sondak VK, Markowitz J. Resistance patterns to anti-PD-1 therapy in metastatic melanoma. Chin Clin Oncol. 2016 Dec.5(6):75. Pubmedid: [27701871](https://www.ncbi.nlm.nih.gov/pubmed/27701871). Pmcid: PMC6776879. 
+    * Suarez-Kelly LP, Kemper GM, Duggan MC, Stiff A, Nole TC, Markowitz J, Luedke EA, Yildiz VO, Yu L, Jaime-Ramirez AC, Karpa V, Zhang X, Carson WE. The combination of MLN2238 (ixazomib) with interferon-alpha results in enhanced cell death in melanoma. Oncotarget. 2016 Dec.7(49):81172-81186. Pubmedid: [27783987](https://www.ncbi.nlm.nih.gov/pubmed/27783987). Pmcid: PMC5348384. 
     * Liu JQ, Talebian F, Wu L, Liu Z, Li MS, Wu L, Zhu J, Markowitz J, Carson WE, Basu S, Bai XF. A Critical Role for CD200R Signaling in Limiting the Growth and Metastasis of CD200+ Melanoma. J Immunol. 2016 Aug.197(4):1489-1497. Pubmedid: [27385779](https://www.ncbi.nlm.nih.gov/pubmed/27385779). Pmcid: PMC4975953. 
     * Markowitz J, Brooks TR, Duggan MC, Paul BK, Pan X, Wei L, Abrams Z, Luedke E, Lesinski GB, Mundy-Bosse B, Bekaii-Saab T, Carson WE. Patients with pancreatic adenocarcinoma exhibit elevated levels of myeloid-derived suppressor cells upon progression of disease. Cancer Immunol Immun. 2015 Feb.64(2):149-159. Pubmedid: [25305035](https://www.ncbi.nlm.nih.gov/pubmed/25305035). Pmcid: PMC4504424. 
     * Lankenau MA, Patel R, Liyanarachchi S, Maharry SE, Hoag KW, Duggan M, Walker CJ, Markowitz J, Carson WE, Eisfeld AK, de la Chapelle A. MicroRNA-3151 inactivates TP53 in BRAF-mutated human malignancies. Proc Natl Acad Sci U S A. 2015 Dec.112(49):E6744-E6751. Pubmedid: [26582795](https://www.ncbi.nlm.nih.gov/pubmed/26582795). Pmcid: PMC4679059. 
@@ -733,7 +734,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -927,6 +928,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/joseph-markowitz#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/joseph-markowitz#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

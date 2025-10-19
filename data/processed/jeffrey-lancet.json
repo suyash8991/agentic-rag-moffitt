@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jeffrey-lancet",
-  "last_updated": "2025-10-14T22:05:43.106251",
+  "last_updated": "2025-10-19T00:28:05.444649",
   "researcher_id": "3177",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -139,6 +138,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3177"
   },
-  "content_hash": "d77fc8703e3d0b5c1d44fc17f9f0c8f31618e326bfbd599f37d3d3d5d78d1cb8",
-  "researcher_name": "Jeffrey Lancet"
+  "content_hash": "790bc2d5a59e967cf680720fbd71a4e981a512bd2c8b830be69f9f073df6a7a3",
+  "researcher_name": "Jeffrey Lancet",
+  "department": "Drug Discovery"
 }

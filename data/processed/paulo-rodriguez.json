@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/paulo-rodriguez",
-  "last_updated": "2025-10-14T22:08:19.591599",
+  "last_updated": "2025-10-19T00:30:30.152106",
   "researcher_id": "19146",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -48,6 +47,13 @@
       "title": "Perez DH, Antfolk D, Chang S, Bustos XE, Medina E, Ramadan AA, Gonzalez-Perez D, Abate-Daga D, Rodriguez PC, Luca VC. Engineering synthetic agonists for targeted activation of Notch signaling. Nat Chem Biol",
       "pubmed_id": "40993428",
       "year": "2025",
+      "authors": ""
+    },
+    {
+      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
+      "pubmed_id": "40845845",
+      "year": "2025",
+      "journal": "43(10):1917-1936",
       "authors": ""
     },
     {
@@ -102,12 +108,6 @@
       "year": "2025",
       "journal": "31(1):176-188",
       "authors": ""
-    },
-    {
-      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
-      "pubmed_id": "40845845",
-      "year": "2025",
-      "authors": ""
     }
   ],
   "grants": [
@@ -131,6 +131,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19146"
   },
-  "content_hash": "938d81b1605928d130f7504e1e19457b414e841a2a888ebb60b60160649d6fff",
-  "researcher_name": "Paulo Rodriguez"
+  "content_hash": "dd8a85559bc0e0207411c1f866559d42e3ab43e4dce71bbb78f42d8388f2116a",
+  "researcher_name": "Paulo Rodriguez",
+  "department": "Immunology"
 }

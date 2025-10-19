@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -488,6 +489,7 @@ Immunobiology of engineered CAR T cells
   * ## Research Interest
 Our general research interest is the understanding of how engineered CAR receptors modulate T cell function in response to tumor targets. Using locus-specific human CAR T cells, we study how distinct chimeric receptor designs drive T cell anti-tumor activity in response to tumor targets in both hematological and solid tumor animal models. In addition, we study the signaling and transcriptional programs that are established in diverse stimulation environments with the ultimate goal to leverage this information to design more efficacious T cell therapies for cancer.
   * ## Publications
+    * Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F. Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma. Cancer Cell. 2025 Oct. Pubmedid: [41072416](https://www.ncbi.nlm.nih.gov/pubmed/41072416). 
     * Milone MC, Mansilla-Soto J, Pardi N, George LA, Byrne BJ, Herzog RW. Clinical advances in gene, cell, and RNA therapies. Mol Ther. 2025 Jun.33(6):2311. Pubmedid: [40398418](https://www.ncbi.nlm.nih.gov/pubmed/40398418). Pmcid: PMC12172262. 
     * Mansilla-Soto J, Milone MC. Concept CARs are picking up speed. Mol Ther. 2025 Jun.33(6):2363-2367. Pubmedid: [40340247](https://www.ncbi.nlm.nih.gov/pubmed/40340247). Pmcid: PMC12172278. 
     * Park J, Lia Palomba M, Perica K, Devlin S, Shah G, Dahi P, Lin R, Salles G, Scordo M, Nath K, Valtis Y, Lynch A, Cathcart E, Zhang H, Schöder H, Leithner D, Liotta K, Yu A, Stocker K, Li J, Dey A, Sellner L, Singh R, Sundaresan V, Zhao F, Mansilla-Soto J, He C, Meyerson J, Hosszu K, McAvoy D, Wang X, Riviere I, Sadelain M. Calibrated CAR Signaling Enables Low-Dose Therapy in Large B-Cell Lymphoma. Res Sq. 2024 Jul. Pubmedid: [39011120](https://www.ncbi.nlm.nih.gov/pubmed/39011120). Pmcid: PMC11247921. 
@@ -666,7 +668,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -860,6 +862,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/jorge-mansilla-soto#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/jorge-mansilla-soto#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/chang-jiang",
-  "last_updated": "2025-10-14T22:03:18.149403",
+  "last_updated": "2025-10-19T00:23:47.256252",
   "researcher_id": "unknown",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -112,6 +111,7 @@
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JiangChang_23086.jpg",
   "contact": {},
-  "content_hash": "21228ac13526479bdce9780e677841e1c9ce7c8c29aefd683ade04ebfe18a571",
-  "researcher_name": "Chang Jiang"
+  "content_hash": "b2096d66a393d8882cea18c5b0ae186bd841b7507418c55f14aefa76d03e03f4",
+  "researcher_name": "Chang Jiang",
+  "department": "Molecular Oncology"
 }

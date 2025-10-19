@@ -282,23 +282,19 @@ class ResearcherSearchTool(BaseTool):
             researcher_id = doc.metadata["researcher_id"]
             profile_url = doc.metadata.get("profile_url", "")
 
-            # Prioritize researcher_name field, fall back to name or extract from URL/text if empty
+            # Get researcher name from metadata, fall back to extraction if empty
             display_name = doc.metadata.get("researcher_name", "").strip()
 
             if not display_name:
-                # Fall back to name field
-                display_name = doc.metadata.get("name", "").strip()
+                # Try to extract name from URL
+                url_name = extract_name_from_url(profile_url)
 
-                if not display_name:
-                    # Try to extract name from URL
-                    url_name = extract_name_from_url(profile_url)
+                # Try to extract name from text if URL extraction failed
+                text_name = extract_name_from_text(doc.page_content)
 
-                    # Try to extract name from text if URL extraction failed
-                    text_name = extract_name_from_text(doc.page_content)
-
-                    # Use the best name we could find
-                    display_name = text_name or url_name or "Unknown Researcher"
-                    logger.info(f"Extracted name '{display_name}' for researcher_id {researcher_id} from {'text' if text_name else 'URL'}")
+                # Use the best name we could find
+                display_name = text_name or url_name or "Unknown Researcher"
+                logger.info(f"Extracted name '{display_name}' for researcher_id {researcher_id} from {'text' if text_name else 'URL'}")
 
             program = doc.metadata.get("program", "Unknown Program")
 
@@ -386,12 +382,9 @@ class ResearcherSearchTool(BaseTool):
                 # Get the database
                 db = get_or_create_vector_db()
 
-                # First try direct name search with more flexible matching
+                # Direct name search
                 direct_filter = {
-                    "$or": [
-                        {"researcher_name": {"$eq": potential_name}},
-                        {"name": {"$eq": potential_name}}
-                    ]
+                    "researcher_name": {"$eq": potential_name}
                 }
 
                 # Search with direct filter first
@@ -416,10 +409,7 @@ class ResearcherSearchTool(BaseTool):
                 # Prioritize the core chunk type which contains the main researcher information
                 exact_filter = {
                     "$and": [
-                        {"$or": [
-                            {"researcher_name": {"$eq": potential_name}},
-                            {"name": {"$eq": potential_name}}
-                        ]},
+                        {"researcher_name": {"$eq": potential_name}},
                         {"chunk_type": {"$eq": "core"}}  # Prioritize core information chunks
                     ]
                 }
@@ -448,11 +438,10 @@ class ResearcherSearchTool(BaseTool):
 
                     for i, metadata in enumerate(metadatas):
                         researcher_name = metadata.get("researcher_name", "").lower()
-                        name = metadata.get("name", "").lower()
                         chunk_type = metadata.get("chunk_type", "")
 
-                        # Check if the name is contained in researcher_name or name fields
-                        if (potential_name.lower() in researcher_name) or (potential_name.lower() in name):
+                        # Check if the name is contained in researcher_name field
+                        if potential_name.lower() in researcher_name:
                             doc = Document(page_content=texts[i], metadata=metadata)
                             # Prioritize core chunks (basic researcher info)
                             if chunk_type == "core":

@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -499,8 +500,8 @@ The goal of Dr. West’s research group is to aid in targeting treatment resista
     * Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N. Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes. medRxiv. 2025 Sep. Pubmedid: [40950448](https://www.ncbi.nlm.nih.gov/pubmed/40950448). Pmcid: PMC12424905. 
     * Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys. 2025 Sep. Pubmedid: [40998270](https://www.ncbi.nlm.nih.gov/pubmed/40998270). 
     * Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Correction: Park et al. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers 2024, 16, 2364. Cancers (Basel). 2025 Mar.17(6). Pubmedid: [40149388](https://www.ncbi.nlm.nih.gov/pubmed/40149388). Pmcid: PMC11941415. 
-    * Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. NPJ Syst Biol Appl. 2024 Sep.10(1):106. Pubmedid: [39349537](https://www.ncbi.nlm.nih.gov/pubmed/39349537). Pmcid: PMC11442770. 
     * Emond R, West J, Grolmusz V, Cosgrove P, Nath A, Anderson ARA, Bild AH. A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind. bioRxiv. 2024 Sep. Pubmedid: [39282402](https://www.ncbi.nlm.nih.gov/pubmed/39282402). Pmcid: PMC11398327. 
+    * Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. NPJ Syst Biol Appl. 2024 Sep.10(1):106. Pubmedid: [39349537](https://www.ncbi.nlm.nih.gov/pubmed/39349537). Pmcid: PMC11442770. 
     * West J, Marzban S, Srivast S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson A, Chung C, Amelio A. Spatial interactions modulate tumor growth and immune infiltration. Res Sq. 2024 May. Pubmedid: [38826398](https://www.ncbi.nlm.nih.gov/pubmed/38826398). Pmcid: PMC11142313. 
     * Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson A, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. bioRxiv. 2024 Mar. Pubmedid: [38370722](https://www.ncbi.nlm.nih.gov/pubmed/38370722). Pmcid: PMC10871273. 
     * Pierik L, McDonald P, Anderson ARA, West J. Second-Order Effects of Chemotherapy Pharmacodynamics and Pharmacokinetics on Tumor Regression and Cachexia. Bull Math Biol. 2024 Mar.86(5):47. Pubmedid: [38546759](https://www.ncbi.nlm.nih.gov/pubmed/38546759). 
@@ -519,8 +520,8 @@ The goal of Dr. West’s research group is to aid in targeting treatment resista
     * Prabhakaran S, Gatenbee C, Robertson-Tessi M, West J, Beg AA, Gray J, Antonia S, Gatenby RA, Anderson ARA. Mistic: An open-source multiplexed image t-SNE viewer. Patterns (N Y). 2022 Jul.3(7):100523. Pubmedid: [35845830](https://www.ncbi.nlm.nih.gov/pubmed/35845830). Pmcid: PMC9278502. 
     * Schenck RO, Kim E, Bravo RR, West J, Leedham S, Shibata D, Anderson ARA. Homeostasis limits keratinocyte evolution. Proc Natl Acad Sci U S A. 2022 Aug.119(35). Pubmedid: [35998218](https://www.ncbi.nlm.nih.gov/pubmed/35998218). Pmcid: PMC9436311. 
     * Schenck RO, Brosula G, West J, Leedham S, Shibata D, Anderson AR. Gattaca: Base-Pair Resolution Mutation Tracking for Somatic Evolution Studies using Agent-based Models. Mol Biol Evol. 2022 Apr.39(4). Pubmedid: [35298641](https://www.ncbi.nlm.nih.gov/pubmed/35298641). Pmcid: PMC9034688. 
-    * Strobl MAR, Gallaher J, West J, Robertson-Tessi M, Maini PK, Anderson ARA. Spatial structure impacts adaptive therapy by shaping intra-tumoral competition. Commun Med (Lond). 2022 Apr.2:46. Pubmedid: [35603284](https://www.ncbi.nlm.nih.gov/pubmed/35603284). Pmcid: PMC9053239. 
     * Gatenbee CD, Baker AM, Schenck RO, Strobl M, West J, Neves MP, Hasan SY, Lakatos E, Martinez P, Cross WCH, Jansen M, Rodriguez-Justo M, Whelan CJ, Sottoriva A, Leedham S, Robertson-Tessi M, Graham TA, Anderson ARA. Immunosuppressive niche engineering at the onset of human colorectal cancer. Nat Commun. 2022 Apr.13(1):1798. Pubmedid: [35379804](https://www.ncbi.nlm.nih.gov/pubmed/35379804). Pmcid: PMC8979971. 
+    * Strobl MAR, Gallaher J, West J, Robertson-Tessi M, Maini PK, Anderson ARA. Spatial structure impacts adaptive therapy by shaping intra-tumoral competition. Commun Med (Lond). 2022 Apr.2:46. Pubmedid: [35603284](https://www.ncbi.nlm.nih.gov/pubmed/35603284). Pmcid: PMC9053239. 
     * Damaghi M, West J, Robertson-Tessi M, Xu L, Ferrall-Fairbanks MC, Stewart PA, Persi E, Fridley BL, Altrock PM, Gatenby RA, Sims PA, Anderson ARA, Gillies RJ. The harsh microenvironment in early breast cancer selects for a Warburg phenotype. Proc Natl Acad Sci U S A. 2021 Jan.118(3). Pubmedid: [33452133](https://www.ncbi.nlm.nih.gov/pubmed/33452133). Pmcid: PMC7826394. 
     * Strobl MAR, West J, Viossat Y, Damaghi M, Robertson-Tessi M, Brown JS, Gatenby RA, Maini PK, Anderson ARA. Turnover Modulates the Need for a Cost of Resistance in Adaptive Therapy. Cancer Res. 2021 Feb.81(4):1135-1147. Pubmedid: [33172930](https://www.ncbi.nlm.nih.gov/pubmed/33172930). Pmcid: PMC8455086. 
     * West J, Schenck RO, Gatenbee C, Robertson-Tessi M, Anderson ARA. Normal tissue architecture determines the evolutionary course of cancer. Nat Commun. 2021 Apr.12(1):2060. Pubmedid: [33824323](https://www.ncbi.nlm.nih.gov/pubmed/33824323). Pmcid: PMC8024392. 
@@ -696,7 +697,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -890,6 +891,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/jeffrey-west#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/jeffrey-west#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

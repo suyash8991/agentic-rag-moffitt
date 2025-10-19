@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jingsong-zhang",
-  "last_updated": "2025-10-14T22:06:32.826874",
+  "last_updated": "2025-10-19T00:28:43.274482",
   "researcher_id": "7285",
-  "name": "",
   "degrees": [
     "MD",
     "PhD"
@@ -130,6 +129,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7285"
   },
-  "content_hash": "596c8281d8f56b02a533f7fb32a2821eef7bb5346d4e9abe06eeb6c912f8acc5",
-  "researcher_name": "Jingsong Zhang"
+  "content_hash": "ee86ff267135956e74786f347c5b0555f11f519804fbf38a55183c17ebe065d1",
+  "researcher_name": "Jingsong Zhang",
+  "department": "Integrated Mathematical Oncology"
 }

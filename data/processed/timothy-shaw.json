@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/timothy-shaw",
-  "last_updated": "2025-10-14T22:08:07.631139",
+  "last_updated": "2025-10-19T00:30:17.422132",
   "researcher_id": "28108",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -28,6 +27,13 @@
     }
   ],
   "publications": [
+    {
+      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
+      "pubmed_id": "40845845",
+      "year": "2025",
+      "journal": "43(10):1917-1936",
+      "authors": ""
+    },
     {
       "title": "Gamal W, Goedhart NB, Simon-Molas H, Mediavilla-Varela M, Uriepero-Palma A, Peters FS, Maharaj K, Chavez JC, Powers JJ, Obermayer A, Shaw TI, Conejo-Garcia JR, Rodriguez PC, Sahakian E, Pinilla-Ibarz J, Kater AP. Mitigating T-cell mitochondrial dysfunction in CLL to augment CAR T-cell therapy: evaluation in an immunocompetent model. Blood Adv",
       "pubmed_id": "39938006",
@@ -70,12 +76,6 @@
       "pmc_id": "PMC12461658",
       "year": "2025",
       "journal": "5(8):101122",
-      "authors": ""
-    },
-    {
-      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
-      "pubmed_id": "40845845",
-      "year": "2025",
       "authors": ""
     },
     {
@@ -124,6 +124,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28108"
   },
-  "content_hash": "e406609ca31f3921fa079aabf4deb616683a312336b9285080dc11ea01a69217",
-  "researcher_name": "Timothy Shaw"
+  "content_hash": "07a06be2fa8c70eed0627cf26730725a10b5404d36772e582924f7d983b7543a",
+  "researcher_name": "Timothy Shaw",
+  "department": "Biostatistics and Bioinformatics"
 }

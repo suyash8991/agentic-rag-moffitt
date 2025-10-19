@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/gilmer-valdes",
-  "last_updated": "2025-10-14T22:04:49.115371",
+  "last_updated": "2025-10-19T00:27:14.840472",
   "researcher_id": "unknown",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -41,6 +40,7 @@
   "grants": [],
   "photo_url": "",
   "contact": {},
-  "content_hash": "5c2374f6e25a54be1ca0746bcbd7b35997e059e0640d3904e05cc323f5e710ab",
-  "researcher_name": "Gilmer Valdes"
+  "content_hash": "8a3dcd4515108f989c87b8e475f398ee3ccfbec292a1d31cd57ad317844f431b",
+  "researcher_name": "Gilmer Valdes",
+  "department": "Machine Learning"
 }

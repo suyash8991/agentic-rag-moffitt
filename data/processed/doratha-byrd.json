@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/doratha-byrd",
-  "last_updated": "2025-10-14T22:04:02.239468",
+  "last_updated": "2025-10-19T00:26:26.946336",
   "researcher_id": "28607",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -30,7 +29,7 @@
   ],
   "publications": [
     {
-      "title": "Glenny EM, Lin T, Bandera VM, Mirminachi B, Khumukcham SS, Gigic B, Warby CA, Aksonova O, Coleman MF, Carpanese A, Busch C, Himbert C, Ose J, Nix DA, Boucher K, Schirmacher P, Strehli I, Hardikar S, Cohan JN, Jedrzkiewicz J, Brobeil A, Schneider MA, Kahlert C, Siegel EM, Byrd DA, Toriola AT, Shibata D, Li CI, Figueiredo JC, Tan AC, Roper J, Ulrich CM, Hursting SD. Obesity promotes conserved inflammatory and metabolic transcriptional programs in colon tumors: Evidence from mouse models and the ColoCare Study patient cohort. Am J Clin Nutr",
+      "title": "Glenny EM, Lin T, Bandera VM, Mirminachi B, Khumukcham SS, Gigic B, Warby CA, Aksonova O, Coleman MF, Carpanese A, Busch C, Himbert C, Ose J, Nix DA, Boucher K, Schirmacher P, Strehli I, Hardikar S, Cohan JN, Jedrzkiewicz J, Brobeil A, Schneider MA, Kahlert C, Siegel EM, Byrd DA, Toriola AT, Shibata D, Li CI, Figueiredo JC, Tan AC, Roper J, Ulrich CM, Hursting SD. Obesity promotes conserved inflammatory and metabolic transcriptional programs in colon tumors: evidence from mouse models and the ColoCare Study Patient Cohort. Am J Clin Nutr",
       "pubmed_id": "40998019",
       "year": "2025",
       "authors": ""
@@ -132,6 +131,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28607"
   },
-  "content_hash": "b73551471756443ea993278f79129f67d15032964b58db25584902e78b982f83",
-  "researcher_name": "Doratha Byrd"
+  "content_hash": "436fe9210cea4f074c9aef69bffa66e790ada14e5cbe6778f2aff9a4be1091b4",
+  "researcher_name": "Doratha Byrd",
+  "department": "Cancer Epidemiology"
 }

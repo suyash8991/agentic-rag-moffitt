@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/florian-karreth",
-  "last_updated": "2025-10-14T22:03:21.395199",
+  "last_updated": "2025-10-19T00:25:48.839555",
   "researcher_id": "17021",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -156,6 +155,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17021"
   },
-  "content_hash": "2dc879cfab239911de7895d197460b437e97a1115e9f90adb6c6162c57fa869a",
-  "researcher_name": "Florian Karreth"
+  "content_hash": "d7af163e71a9d9c4944081387f31f149b4fd75a9ad741b9661d25356fc29565f",
+  "researcher_name": "Florian Karreth",
+  "department": "Molecular Oncology"
 }

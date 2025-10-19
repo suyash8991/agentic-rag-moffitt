@@ -16,7 +16,6 @@ Here's an example of a researcher profile JSON structure:
   "profile_url": "https://www.moffitt.org/research-science/researchers/ahmad-tarhini",
   "last_updated": "2025-10-14T22:06:29.132821",
   "researcher_id": "24764",
-  "name": "",
   "researcher_name": "Ahmad Tarhini",
   "degrees": ["MD", "PhD"],
   "title": "",
@@ -107,8 +106,7 @@ The ChromaDB database is organized as follows:
 - **Embeddings**: Vector representations of the text chunks
 - **Metadata**: Additional information for filtering and retrieval, including:
   - `researcher_id`: Unique identifier for the researcher
-  - `name`: Researcher's name
-  - `researcher_name`: Another field for researcher's name (added to fix issues)
+  - `researcher_name`: Researcher's name
   - `program`: Researcher's primary program
   - `department`: Researcher's department
   - `research_interests`: Research interests (converted to string)
@@ -128,8 +126,7 @@ class ResearcherProfile(BaseModel):
     last_updated: datetime
 
     # Biographical information
-    name: str = ""
-    researcher_name: str = ""  # Added field to match JSON structure
+    researcher_name: str = ""  # Primary name field
     degrees: List[str] = Field(default_factory=list)
     title: Optional[str] = None
     primary_program: Optional[str] = None

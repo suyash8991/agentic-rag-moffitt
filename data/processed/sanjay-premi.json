@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/sanjay-premi",
-  "last_updated": "2025-10-14T22:07:29.314459",
+  "last_updated": "2025-10-19T00:29:35.232493",
   "researcher_id": "22108",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -129,6 +128,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22108"
   },
-  "content_hash": "1ec33a0b747f47258dc6ea8015c9c12ae62bf7b2385d101b4afa11ae9ecb1323",
-  "researcher_name": "Sanjay Premi"
+  "content_hash": "4d9d9bd2df5f7a5fdb0699db2edf83d2caaef9f1e6f3f8f18da816fbc234178f",
+  "researcher_name": "Sanjay Premi",
+  "department": "Tumor Microenvironment and Metastasis"
 }

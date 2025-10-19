@@ -29,7 +29,7 @@ English
       * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
       * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
       * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-      * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
       * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -192,6 +192,7 @@ English
       * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
       * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
     * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
       * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
       * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
       * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
@@ -509,13 +510,13 @@ Status: Open
 [813-745-6100](tel:+813-745-6100) or toll-free [1-800-679-0775](tel:+1-800-679-0775). **
   * ## Publications
     * Zhang W, Zhou Q, Nguyen JV, Egal E, Yang Q, Freeman MR, Hu-Lieskovan S, Suneja G, Coghill A, Knudsen BS. Comparison of QuPath and HALO platforms for analysis of the tumor microenvironment in prostate cancer. Lab Invest. 2025 Sep.104246. Pubmedid: [41005710](https://www.ncbi.nlm.nih.gov/pubmed/41005710). 
+    * Jackson SS, Francis J, Pfeiffer RM, Proietti C, Coghill AE, Yu KJ, Sarathkumara YD, Hsu WL, Argirion I, Wang CP, Chen CJ, Rothman N, Lan Q, Hildesheim A, Doolan DL, Liu Z. Sex Differences in Anti-Epstein-Barr Virus Antibody Responses. J Infect Dis. 2025 Oct.232(4):e671-e675. Pubmedid: [39932888](https://www.ncbi.nlm.nih.gov/pubmed/39932888). Pmcid: PMC12372535. 
     * Coghill AE, Van Bibber N, Baiocchi RA, Arnold SM, Riedlinger G, Schneider BP, Zhang Y, Suneja G, Gomez Fontela M, Abate-Daga D, Teer JK. Elevated Tumor Mutation Burden in Cancer Patients with Underlying HIV Infection: Data from the Oncology Research Information Exchange Network (ORIEN). Cancer Epidemiol Biomarkers Prev. 2025 May.34(5):774-779. Pubmedid: [40019488](https://www.ncbi.nlm.nih.gov/pubmed/40019488). Pmcid: PMC12048233. 
     * Islam JY, Guo Y, McGee-Avila JK, Turner K, Tabriz AA, Lin YC, Vadaparampil ST, Coghill AE, Camacho-Rivera M, Suneja G. Inequities by race and ethnicity in cancer treatment receipt among people living with HIV and cancer in the U.S. (2004-2020). BMC Cancer. 2025 May.25(1):897. Pubmedid: [40394520](https://www.ncbi.nlm.nih.gov/pubmed/40394520). Pmcid: PMC12090492. 
     * Islam JY, Zhou X, Baggett C, Jamjian C, Coghill A, Suneja G, Lund JL. Potential drug-drug interactions between cancer therapies and active antiretroviral treatments among Medicare-enrolled patients with cancer and HIV. Geriatr Oncol. 2025 Mar.16(2):102158. Pubmedid: [39592281](https://www.ncbi.nlm.nih.gov/pubmed/39592281). 
     * Islam JY, Guo Y, Turner K, Tabriz AA, Lin YC, Vidot DC, Vadaparampil ST, Coghill AE, ScD MC, Suneja G. Inequities in palliative care delivery to patients with HIV and stage IV cancers in the United States (2004-2020). JNCI Cancer Spectr. 2025 Mar.9(2). Pubmedid: [39579085](https://www.ncbi.nlm.nih.gov/pubmed/39579085). Pmcid: PMC11897894. 
     * Fenlon J, Van Bibber N, Mahlow J, Yamoah K, Soupir AC, Nguyen JV, Moran Segura C, Spivak AM, Knudsen BS, Zhou Q, Hu-Lieskovan S, Puri S, Zhang W, DeRose YS, Suneja G, Coghill AE. Human Immunodeficiency Virus-Associated Differences in the Tumor Immune Microenvironment of Lung, Breast, and Prostate Cancers. Cancer Epidemiol Biomarkers Prev. 2025 Jun.34(6):860-867. Pubmedid: [40183760](https://www.ncbi.nlm.nih.gov/pubmed/40183760). Pmcid: PMC12133412. 
     * Coghill AE, Thompson Z, Bamford L, Burkholder G, Enron J, Gopal S, Kitahata MM, Mayer KH, Moore R, Yendewa G, Dickey BL, Yanik E, Achenbach C. The association of immunosuppression and HIV control with Kaposi sarcoma among patients on antiretroviral therapy. Aids. 2025 Jul. Pubmedid: [40704994](https://www.ncbi.nlm.nih.gov/pubmed/40704994). 
-    * Jackson SS, Francis J, Pfeiffer RM, Proietti C, Coghill AE, Yu KJ, Sarathkumara YD, Hsu WL, Argirion I, Wang CP, Chen CJ, Rothman N, Lan Q, Hildesheim A, Doolan DL, Liu Z. Sex differences in anti-EBV antibody responses. J Infect Dis. 2025 Feb. Pubmedid: [39932888](https://www.ncbi.nlm.nih.gov/pubmed/39932888). 
     * Yoder AK, Thomas RJ, Huang A, Mandalapu A, Roque DM, Bowles K, Albuquerque K, Son C, Ludwig MS, Levinson K, Coghill AE, Chiao EY, Lin LL. Cervical Cancer Outcomes in Women With HIV in the Age of Antiretroviral Therapy. JAMA Netw Open. 2025 Aug.8(8):e2527389. Pubmedid: [40815516](https://www.ncbi.nlm.nih.gov/pubmed/40815516). Pmcid: PMC12357181. 
     * Scholte LLS, Mello ES, Ibrahim KY, Uno M, da Costa VM, Miazima ES, Moniz CMV, de Souza GD, Amorim LO, de Souza IC, Oliveira K, Chammas R, Bowles K, Das L, Coghill AE, Rimsza L, Segurado A, Bethony JM. Advancing HIV and Cancer Research: Implementing an AIDS and Cancer Specimen Resource in Latin America. Biopreserv Biobank. 2025 Aug. Pubmedid: [40780813](https://www.ncbi.nlm.nih.gov/pubmed/40780813). 
     * Barger LN, Wang D, Saravia A, Mezzano V, Ward G, Loomis C, Feldman C, Tuluc M, Seedor RS, Gaskill PJ, Coghill AE, Suneja G, Dehzangi I, Hope JL, Jour G, Romano G. Population analysis and immunologic landscape of melanoma in people living with HIV. bioRxiv. 2025 Apr. Pubmedid: [40313919](https://www.ncbi.nlm.nih.gov/pubmed/40313919). Pmcid: PMC12045344. 
@@ -778,7 +779,7 @@ English
   * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
   * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
   * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
-  * [Chronic Lymphocytic Leukemia](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
   * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
@@ -972,6 +973,7 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/anna-coghill#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/anna-coghill#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
   * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
   * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
   * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")

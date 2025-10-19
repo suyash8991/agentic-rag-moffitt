@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/hatem-soliman",
-  "last_updated": "2025-10-14T22:09:12.192822",
+  "last_updated": "2025-10-19T00:31:17.619917",
   "researcher_id": "4606",
-  "name": "",
   "degrees": [
     "MD"
   ],
@@ -46,16 +45,16 @@
       "authors": ""
     },
     {
+      "title": "Hudson K, Gathirua-Mwangi W, Williams LA, Cui ZL, Richey M, Grimes B, Wang J, Liepa AM, Brechtelsbauer E, Volodarsky R, Moreira K, Soliman H. Abemaciclib Persistence in Patients with HR+, HER2-, Node-Positive Early Breast Cancer: a Real-World Analysis. Oncol Ther",
+      "pubmed_id": "41039165",
+      "year": "2025",
+      "authors": ""
+    },
+    {
       "title": "Weinfurtner RJ, Ataya D, Funaro K, Bhatt A, Abdalah M, Stringfield O, Raghunand N, Thompson Z, Lee MC, Czerniecki B, Muller AS, Soliman H, Han H. Quantitative habitat concentration analysis of triple negative breast cancer on MRI correlates with pathologic response to combination neoadjuvant immuno/chemotherapy. Clin Imaging",
       "pubmed_id": "40945432",
       "year": "2025",
       "journal": "127:110618",
-      "authors": ""
-    },
-    {
-      "title": "Hudson K, Gathirua-Mwangi W, Williams LA, Cui ZL, Richey M, Grimes B, Wang J, Liepa AM, Brechtelsbauer E, Volodarsky R, Moreira K, Soliman H. Abemaciclib Persistence in Patients with HR+, HER2-, Node-Positive Early Breast Cancer: a Real-World Analysis. Oncol Ther",
-      "pubmed_id": "41039165",
-      "year": "2025",
       "authors": ""
     },
     {
@@ -127,6 +126,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4606"
   },
-  "content_hash": "7af2c90d29b10a402262b3349d06868caa9af31b05b0442ab1518b8fa1ca76ce",
-  "researcher_name": "Hatem Soliman"
+  "content_hash": "d23570b0808c12e3fe273849a7ccd35bc9aa810dfaa4d46106ee03a9ce74e9d8",
+  "researcher_name": "Hatem Soliman",
+  "department": "Tumor Microenvironment and Metastasis"
 }

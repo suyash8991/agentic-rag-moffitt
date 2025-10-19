@@ -1,8 +1,7 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/john-heine",
-  "last_updated": "2025-10-14T22:04:21.070014",
+  "last_updated": "2025-10-19T00:26:47.641019",
   "researcher_id": "1000",
-  "name": "",
   "degrees": [
     "PhD"
   ],
@@ -131,6 +130,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1000"
   },
-  "content_hash": "e4f90f2a42a9d4281c420710b973b3adeac5ae8be92bffff1481e31b1807236f",
-  "researcher_name": "John Heine"
+  "content_hash": "5addb7c63d656c6941db456e4100787afaf303cefbbaea9ee0458aef087b4a92",
+  "researcher_name": "John Heine",
+  "department": "Cancer Epidemiology"
 }
