@@ -108,7 +108,7 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
 
     # Add core information chunk
     core_info = "\n".join([
-        f"Name: {profile.full_name}",
+        f"Name: {profile.full_name}", # gets researcher name with degrees
         f"Title: {profile.title}" if profile.title else "",
         f"Program: {profile.primary_program}" if profile.primary_program else "",
         f"Department: {profile.department}" if profile.department else "",
@@ -249,65 +249,6 @@ def load_all_chunks() -> List[ResearcherChunk]:
     logger.info(f"Created {len(all_chunks)} chunks total")
     return all_chunks
 
-
-def find_duplicates(items: List[str]) -> List[str]:
-    """
-    Find duplicate items in a list.
-
-    Args:
-        items (List[str]): The list of items to check for duplicates
-
-    Returns:
-        List[str]: The list of duplicate items
-    """
-    seen = set()
-    duplicates = set()
-    for item in items:
-        if item in seen:
-            duplicates.add(item)
-        else:
-            seen.add(item)
-    return list(duplicates)
-
-
-def deduplicate_chunks(chunks: List[ResearcherChunk]) -> List[ResearcherChunk]:
-    """
-    Make chunk IDs unique by adding a counter suffix when duplicates are found.
-
-    Args:
-        chunks (List[ResearcherChunk]): The list of chunks to deduplicate
-
-    Returns:
-        List[ResearcherChunk]: The list of chunks with unique IDs
-    """
-    id_count = {}
-    deduplicated_chunks = []
-
-    for chunk in chunks:
-        # If this ID has been seen before, add a suffix
-        if chunk.chunk_id in id_count:
-            id_count[chunk.chunk_id] += 1
-            new_id = f"{chunk.chunk_id}_{id_count[chunk.chunk_id]}"
-            logger.debug(f"Renamed duplicate chunk ID {chunk.chunk_id} to {new_id}")
-
-            # Create a new chunk with the updated ID
-            new_chunk = ResearcherChunk(
-                chunk_id=new_id,
-                text=chunk.text,
-                researcher_id=chunk.researcher_id,
-                researcher_name=chunk.researcher_name,
-                program=chunk.program,
-                department=chunk.department,
-                research_interests=chunk.research_interests,
-                chunk_type=chunk.chunk_type,
-                profile_url=chunk.profile_url
-            )
-            deduplicated_chunks.append(new_chunk)
-        else:
-            id_count[chunk.chunk_id] = 1
-            deduplicated_chunks.append(chunk)
-
-    return deduplicated_chunks
 
 
 def get_researcher_stats() -> Dict[str, Any]:

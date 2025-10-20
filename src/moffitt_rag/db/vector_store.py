@@ -15,7 +15,7 @@ from langchain_core.vectorstores import VectorStoreRetriever
 
 from ..config.config import get_settings
 from ..data.models import ResearcherChunk
-from ..data.loader import load_all_chunks, find_duplicates, deduplicate_chunks
+from ..data.loader import load_all_chunks
 
 # Get settings
 settings = get_settings()
@@ -59,18 +59,8 @@ def create_vector_db(chunks: Optional[List[ResearcherChunk]] = None):
         if chunks is None:
             chunks = load_all_chunks()
 
-        # Check for duplicate chunk IDs before proceeding
-        chunk_ids = [chunk.chunk_id for chunk in chunks]
-        duplicate_ids = find_duplicates(chunk_ids)
-
-        # If duplicates are found, deduplicate them
-        if duplicate_ids:
-            logger.warning(f"Found {len(duplicate_ids)} duplicate chunk IDs. Deduplicating...")
-            logger.debug(f"Duplicate IDs: {', '.join(duplicate_ids[:10])}...")
-
-            # Use the deduplicate_chunks function to make IDs unique
-            chunks = deduplicate_chunks(chunks)
-            logger.info(f"Deduplication complete. Proceeding with {len(chunks)} chunks.")
+        # Proceed with chunk processing directly
+        logger.info(f"Processing {len(chunks)} chunks for vector database creation.")
 
         # Create texts and metadatas
         texts = []
@@ -83,8 +73,7 @@ def create_vector_db(chunks: Optional[List[ResearcherChunk]] = None):
             research_interests_str = "; ".join(chunk.research_interests) if chunk.research_interests else ""
             metadatas.append({
                 "researcher_id": chunk.researcher_id,
-                "name": chunk.name,
-                "researcher_name": chunk.researcher_name,  # Added researcher_name field
+                "researcher_name": chunk.researcher_name,
                 "program": chunk.program,
                 "department": chunk.department,
                 "research_interests": research_interests_str,  # Convert list to string
@@ -93,13 +82,11 @@ def create_vector_db(chunks: Optional[List[ResearcherChunk]] = None):
             })
             ids.append(chunk.chunk_id)
 
-        # Final check for duplicates (just to be sure)
-        duplicate_ids = find_duplicates(ids)
-        if duplicate_ids:
-            # If we still have duplicates, raise a more informative error
+        # Ensure no duplicate IDs exist using basic Python set operations
+        if len(ids) != len(set(ids)):
+            # If duplicates are found, raise an error
             raise ValueError(
-                f"Duplicate chunk IDs found after deduplication attempt: {duplicate_ids[:10]}... "
-                "This indicates a problem with the chunk creation process."
+                "Duplicate chunk IDs found. Each chunk must have a unique ID."
             )
 
         # Create the vector database

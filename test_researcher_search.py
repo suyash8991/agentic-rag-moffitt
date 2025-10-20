@@ -167,18 +167,24 @@ def test_direct_vector_similarity(name: str, k: int = 5):
     return results
 
 
-def test_researcher_search_tool(name: str):
+def test_researcher_search_tool(name: str, is_name_search: bool = None):
     """
     Test the ResearcherSearchTool directly for the given researcher name.
     This helps diagnose what the agent is actually using.
+
+    Args:
+        name (str): The researcher name to search for
+        is_name_search (bool, optional): Explicitly specify if this is a name search.
+            If None, will be auto-detected. Defaults to None.
     """
-    print(f"\n=== Testing ResearcherSearchTool for: {name} ===")
+    param_text = "with auto-detection" if is_name_search is None else f"with is_name_search={is_name_search}"
+    print(f"\n=== Testing ResearcherSearchTool for: {name} {param_text} ===")
 
     # Initialize the tool
     tool = ResearcherSearchTool()
 
     # Run the tool with the name
-    result = tool._run(name)
+    result = tool._run(name, is_name_search=is_name_search)
 
     # Print the result
     print("Tool Output:")
@@ -332,14 +338,22 @@ def test_all_known_researchers():
             else:
                 print(f"  No results from hybrid search (alpha={alpha})")
 
-        # Test ResearcherSearchTool
-        print("\nTesting ResearcherSearchTool:")
+        # Test ResearcherSearchTool with auto-detection
+        print("\nTesting ResearcherSearchTool with auto-detection:")
         tool = ResearcherSearchTool()
         result = tool._run(name)
         if name.lower() in result.lower():
-            print(f"  FOUND with ResearcherSearchTool")
+            print(f"  FOUND with ResearcherSearchTool (auto-detection)")
         else:
-            print(f"  NOT FOUND with ResearcherSearchTool")
+            print(f"  NOT FOUND with ResearcherSearchTool (auto-detection)")
+
+        # Test ResearcherSearchTool with explicit is_name_search=True
+        print("\nTesting ResearcherSearchTool with explicit is_name_search=True:")
+        result_explicit = tool._run(name, is_name_search=True)
+        if name.lower() in result_explicit.lower():
+            print(f"  FOUND with ResearcherSearchTool (is_name_search=True)")
+        else:
+            print(f"  NOT FOUND with ResearcherSearchTool (is_name_search=True)")
 
 
 def main():
@@ -355,6 +369,7 @@ def main():
     parser.add_argument("--alphas", action="store_true", help="Test different alpha values")
     parser.add_argument("--vector", action="store_true", help="Test direct vector similarity")
     parser.add_argument("--tool", action="store_true", help="Test the ResearcherSearchTool")
+    parser.add_argument("--explicit-name", action="store_true", help="Test with explicit is_name_search=True")
     parser.add_argument("--detection", action="store_true", help="Test name detection")
     parser.add_argument("--extraction", action="store_true", help="Test name extraction")
 
@@ -398,8 +413,12 @@ def main():
         vector_results = test_direct_vector_similarity(name)
 
     if run_all or args.tool:
-        # Test the ResearcherSearchTool
+        # Test the ResearcherSearchTool with auto-detection
         tool_result = test_researcher_search_tool(name)
+
+        # Test with explicit is_name_search if requested
+        if args.explicit_name:
+            tool_explicit_result = test_researcher_search_tool(name, is_name_search=True)
 
     if run_all or args.detection:
         # Test name detection logic

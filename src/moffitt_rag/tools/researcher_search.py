@@ -123,10 +123,13 @@ class ResearcherSearchTool(BaseTool):
 
     This tool uses metadata filtering for name searches and hybrid search
     for topic searches to find the most relevant researchers.
+
+    For optimal results when searching for a specific researcher by name,
+    set is_name_search=True to ensure more accurate results.
     """
 
     name: str = "ResearcherSearch"
-    description: str = "Search for researchers by their expertise, interests, or background"
+    description: str = "Search for researchers by their expertise, interests, or background. Set is_name_search=True for name-based searches for better accuracy."
 
     # Class-level tracking of queries and attempts
     _query_attempts = {}
@@ -345,12 +348,14 @@ class ResearcherSearchTool(BaseTool):
         # Default case - information may not be sufficient
         return False, result_text
 
-    def _run(self, query: str) -> str:
+    def _run(self, query: str, is_name_search: bool = None) -> str:
         """
         Run the tool with the given query.
 
         Args:
             query (str): The search query
+            is_name_search (bool, optional): Explicitly specify if this is a name search.
+                If None, will be auto-detected. Defaults to None.
 
         Returns:
             str: The search results formatted as a string
@@ -367,9 +372,12 @@ class ResearcherSearchTool(BaseTool):
                 f"with similar expertise."
             )
 
-        # Determine if this is likely a name search
-        is_name_search = self._is_name_search(query)
-        logger.info(f"Query detected as {'name search' if is_name_search else 'topic search'}")
+        # Determine if this is likely a name search (use provided value or auto-detect)
+        if is_name_search is None:
+            is_name_search = self._is_name_search(query)
+            logger.info(f"Query auto-detected as {'name search' if is_name_search else 'topic search'}")
+        else:
+            logger.info(f"Query explicitly marked as {'name search' if is_name_search else 'topic search'}")
 
         # If this is a name search, use metadata filtering with higher priority
         if is_name_search:
@@ -488,15 +496,17 @@ class ResearcherSearchTool(BaseTool):
         is_sufficient, enhanced_result = self._check_information_sufficiency(formatted_result, query)
         return enhanced_result
 
-    async def _arun(self, query: str) -> str:
+    async def _arun(self, query: str, is_name_search: bool = None) -> str:
         """
         Run the tool asynchronously with the given query.
 
         Args:
             query (str): The search query
+            is_name_search (bool, optional): Explicitly specify if this is a name search.
+                If None, will be auto-detected. Defaults to None.
 
         Returns:
             str: The search results formatted as a string
         """
         # For now, just call the synchronous version
-        return self._run(query)
+        return self._run(query, is_name_search)

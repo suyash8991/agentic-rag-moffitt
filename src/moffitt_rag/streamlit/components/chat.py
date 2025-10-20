@@ -56,18 +56,6 @@ def invoke_agent(query: str) -> Optional[Dict[str, Any]]:
         if 'vector_db' in st.session_state and st.session_state.vector_db is not None:
             print(f"Vector database is available with {st.session_state.vector_db._collection.count()} chunks")
 
-            # Test direct vector DB query
-            print("Testing vector database direct query...")
-            try:
-                from moffitt_rag.db.vector_store import similarity_search
-                test_results = similarity_search("cancer", k=1)
-                print(f"Vector DB test search successful: {len(test_results)} results")
-                print(f"First result: {test_results[0].page_content[:100]}...")
-            except Exception as e:
-                print(f"Vector DB test search failed: {type(e).__name__}: {str(e)}")
-                print(traceback.format_exc())
-                current_error = f"Vector DB test search failed: {type(e).__name__}: {str(e)}"
-
             try:
                 # Use st.cache_resource to avoid recreating the agent on each rerun
                 @st.cache_resource
