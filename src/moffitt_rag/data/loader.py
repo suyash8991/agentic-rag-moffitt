@@ -87,8 +87,8 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
     chunks = []
 
     # Create a unique identifier based on multiple fields to ensure uniqueness
-    # Use a combination of name, profile_url, and any available program/department
-    unique_data = f"{profile.name}_{profile.profile_url}_{profile.primary_program or ''}_{profile.department or ''}"
+    # Use a combination of researcher_name, profile_url, and any available program/department
+    unique_data = f"{profile.researcher_name}_{profile.profile_url}_{profile.primary_program or ''}_{profile.department or ''}"
 
     # Make sure we have at least some non-empty string for the hash
     if not unique_data.strip('_'):
@@ -119,8 +119,7 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
         chunk_id=f"{prefix}core",
         text=core_info,
         researcher_id=profile.researcher_id,
-        name=profile.name,
-        researcher_name=profile.researcher_name,  # Added researcher_name
+        researcher_name=profile.researcher_name,
         program=profile.primary_program,
         department=profile.department,
         research_interests=profile.research_interests,
@@ -136,8 +135,7 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
             chunk_id=f"{prefix}interests",
             text=interests_text,
             researcher_id=profile.researcher_id,
-            name=profile.name,
-            researcher_name=profile.researcher_name,  
+            researcher_name=profile.researcher_name,
             program=profile.primary_program,
             department=profile.department,
             research_interests=profile.research_interests,
@@ -181,8 +179,7 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
                 chunk_id=f"{prefix}pubs_{i}",
                 text=f"Publications:\n{chunk_text}",
                 researcher_id=profile.researcher_id,
-                name=profile.name,
-                researcher_name=profile.researcher_name,  # Added researcher_name
+                researcher_name=profile.researcher_name,
                 program=profile.primary_program,
                 department=profile.department,
                 research_interests=profile.research_interests,
@@ -221,8 +218,7 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
                 chunk_id=f"{prefix}grants_{i}",
                 text=f"Grants:\n{chunk_text}",
                 researcher_id=profile.researcher_id,
-                name=profile.name,
-                researcher_name=profile.researcher_name,  # Added researcher_name
+                researcher_name=profile.researcher_name,
                 program=profile.primary_program,
                 department=profile.department,
                 research_interests=profile.research_interests,
@@ -231,7 +227,7 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
             )
             chunks.append(grant_chunk)
 
-    logger.debug(f"Created {len(chunks)} chunks for researcher {profile.name}")
+    logger.debug(f"Created {len(chunks)} chunks for researcher {profile.researcher_name}")
     return chunks
 
 
@@ -299,8 +295,7 @@ def deduplicate_chunks(chunks: List[ResearcherChunk]) -> List[ResearcherChunk]:
                 chunk_id=new_id,
                 text=chunk.text,
                 researcher_id=chunk.researcher_id,
-                name=chunk.name,
-                researcher_name=chunk.researcher_name,  # Added researcher_name
+                researcher_name=chunk.researcher_name,
                 program=chunk.program,
                 department=chunk.department,
                 research_interests=chunk.research_interests,
