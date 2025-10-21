@@ -6,7 +6,7 @@ querying the vector database for researcher profiles.
 """
 
 import os
-import logging
+import time
 from typing import List, Dict, Any, Optional, Union
 
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -16,13 +16,13 @@ from langchain_core.vectorstores import VectorStoreRetriever
 from ..config.config import get_settings
 from ..data.models import ResearcherChunk
 from ..data.loader import load_all_chunks
+from ..utils.logging import get_logger, log_vector_db_event
 
 # Get settings
 settings = get_settings()
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Get a logger for this module
+logger = get_logger(__name__)
 
 
 def get_embedding_function():
@@ -163,11 +163,32 @@ def get_or_create_vector_db():
     Returns:
         Chroma: The vector database
     """
+    start_time = time.time()
+    log_vector_db_event("db_access_start", {
+        "operation": "get_or_create",
+        "db_path": settings.vector_db_dir,
+        "collection_name": settings.collection_name
+    })
+
     db = load_vector_db()
 
     if db is None:
         logger.info("Vector database not found, creating a new one...")
         db = create_vector_db()
+
+        log_vector_db_event("db_created", {
+            "operation": "create_new_db",
+            "db_path": settings.vector_db_dir,
+            "collection_name": settings.collection_name
+        })
+    else:
+        # Log successful load
+        log_vector_db_event("db_loaded", {
+            "operation": "load_existing_db",
+            "db_path": settings.vector_db_dir,
+            "collection_name": settings.collection_name,
+            "elapsed_time_ms": round((time.time() - start_time) * 1000)
+        })
 
     return db
 
@@ -226,12 +247,45 @@ def similarity_search(query: str, k: int = 4,
     Returns:
         List[Document]: The search results
     """
+    start_time = time.time()
+
+    # Log search start
+    log_vector_db_event("search_start", {
+        "operation": "similarity_search",
+        "query": query[:100] if query else "",  # Truncate long queries
+        "k": k,
+        "filter": str(filter)[:100] if filter else "None"
+    })
+
     # If db is None, load the database
     if db is None:
         db = get_or_create_vector_db()
 
     # Perform the search
-    return db.similarity_search(query, k=k, filter=filter)
+    try:
+        results = db.similarity_search(query, k=k, filter=filter)
+
+        # Calculate execution time
+        elapsed_time = time.time() - start_time
+
+        # Log successful search
+        log_vector_db_event("search_complete", {
+            "operation": "similarity_search",
+            "query": query[:100] if query else "",
+            "results_count": len(results),
+            "elapsed_time_ms": round(elapsed_time * 1000)
+        })
+
+        return results
+    except Exception as e:
+        # Log search error
+        log_vector_db_event("search_error", {
+            "operation": "similarity_search",
+            "query": query[:100] if query else "",
+            "error": str(e),
+            "elapsed_time_ms": round((time.time() - start_time) * 1000)
+        })
+        raise
 
 
 def similarity_search_with_score(query: str, k: int = 4,
