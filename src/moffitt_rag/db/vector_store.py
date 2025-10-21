@@ -33,7 +33,7 @@ def get_embedding_function():
         HuggingFaceEmbeddings: The embedding function
     """
     logger.info(f"Loading embedding model: {settings.embedding_model_name}")
-    return HuggingFaceEmbeddings(model_name=settings.embedding_model_name)
+    return HuggingFaceEmbeddings(model_name=settings.embedding_model_name,model_kwargs={"trust_remote_code": "true"})
 
 
 def create_vector_db(chunks: Optional[List[ResearcherChunk]] = None):

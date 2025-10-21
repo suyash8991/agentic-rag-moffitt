@@ -23,7 +23,7 @@ VECTOR_DB_DIR = os.path.join(ROOT_DIR, "vector_db")
 DEFAULT_COLLECTION_NAME = "moffitt_researchers"
 
 # Model settings
-EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME", "BAAI/bge-m3")
+EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME", "all-MiniLM-L6-v2")
 LLM_MODEL_NAME = os.getenv("LLM_MODEL_NAME", "llama3")
 OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
 

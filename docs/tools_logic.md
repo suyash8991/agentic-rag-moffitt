@@ -24,14 +24,17 @@ The Moffitt Agentic RAG system uses several specialized tools that implement dif
    - Fallback mechanisms for low-quality matches
 
 4. **Result Formatting**:
-   - Extracts relevant snippets from content
-   - Formats results with researcher name, program, relevance, and profile link
+   - Includes full content from each chunk (up to 1024 characters per chunk)
+   - Returns all chunks without deduplication (up to 5 chunks by default)
+   - Formats results with researcher name, program, chunk type, content, and profile link
+   - Uses clear separators between chunks to improve readability
 
 **Key Features**:
 - Rate limiting to prevent excessive search attempts
 - Special handling for known researchers
 - Name extraction from URLs and text content
-- Relevance snippet extraction
+- Complete content inclusion instead of limited snippets
+- Chunk type identification for better context
 
 **Class Definition**:
 ```python

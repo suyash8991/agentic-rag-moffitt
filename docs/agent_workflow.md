@@ -155,7 +155,9 @@ The selected tool (e.g., `ResearcherSearchTool`) is executed with the following 
 
 3. **Result Formatting**:
    - The tool formats the results as a string
-   - Includes researcher names, programs, relevant snippets, and profile URLs
+   - Includes researcher names, programs, chunk types, full content, and profile URLs
+   - Returns all chunks without deduplication (up to 5 by default)
+   - Uses clear separators between chunks for better readability
    - Returns the formatted results to the agent
 
 ## Database Interaction

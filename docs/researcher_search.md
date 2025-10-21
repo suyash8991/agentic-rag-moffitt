@@ -419,50 +419,48 @@ if not results:
 ### Result Formatting
 
 ```python
+# Previously, the code used to deduplicate results by researcher_id:
+# seen_researcher_ids = set()
+# unique_results = []
+# for doc in results:
+#     researcher_id = doc.metadata.get("researcher_id", "unknown")
+#     if researcher_id not in seen_researcher_ids:
+#         seen_researcher_ids.add(researcher_id)
+#         unique_results.append(doc)
+
+# Updated code to include all chunks without deduplication:
 formatted_results = []
 for doc in results:
-    researcher_id = doc.metadata["researcher_id"]
     profile_url = doc.metadata.get("profile_url", "")
-
-    # Get researcher name from metadata, fall back to extraction if empty
-    display_name = doc.metadata.get("researcher_name", "").strip()
-
-    if not display_name:
-        # Try to extract name from URL
-        url_name = extract_name_from_url(profile_url)
-
-        # Try to extract name from text if URL extraction failed
-        text_name = extract_name_from_text(doc.page_content)
-
-        # Use the best name we could find
-        display_name = text_name or url_name or "Unknown Researcher"
-        logger.info(f"Extracted name '{display_name}' for researcher_id {researcher_id} from {'text' if text_name else 'URL'}")
-
+    display_name = doc.metadata.get("researcher_name", "").strip() or extract_name_from_url(profile_url) or extract_name_from_text(doc.page_content) or "Unknown Researcher"
     program = doc.metadata.get("program", "Unknown Program")
+    chunk_type = doc.metadata.get("chunk_type", "Unknown Type")
 
-    # Extract the most relevant snippet from the content
-    snippet = extract_relevant_snippet(doc.page_content, query)
+    # Use full content instead of a limited snippet
+    full_content = doc.page_content
 
     formatted_results.append(
         f"Researcher: {display_name}\n"
         f"Program: {program}\n"
-        f"Relevance: {snippet}\n"
+        f"Chunk Type: {chunk_type}\n"
+        f"Content: {full_content}\n"
         f"Profile: {profile_url}\n"
     )
 
-return "\n".join(formatted_results)
+# Use a clearer separator between chunks
+return "\n\n---\n\n".join(formatted_results)
 ```
 
 **Purpose**: Formats search results into a readable string for the agent.
 
 **Process**:
-1. Extracts metadata from each document (researcher_id, profile_url)
-2. Uses the researcher_name field for display
-3. If researcher_name is empty, tries to extract the name from URL or text
-4. Gets the program information
-5. Extracts a relevant snippet based on the query
-6. Formats each result with researcher name, program, relevance snippet, and profile URL
-7. Joins all results with newlines
+1. Uses all chunks returned by the hybrid search (up to 5) without deduplication
+2. Extracts metadata from each document (profile_url, researcher_name, program, chunk_type)
+3. Uses the researcher_name field for display, with fallbacks to extraction from URL or text
+4. Includes the full chunk content instead of extracting a limited snippet
+5. Adds the chunk_type to the output to indicate what kind of information is being shown (core, interests, publications, grants)
+6. Formats each result with researcher name, program, chunk type, full content, and profile URL
+7. Joins results with a clear separator (---) to help distinguish between different chunks
 
 ## Async Support
 

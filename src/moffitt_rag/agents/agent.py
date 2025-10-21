@@ -40,17 +40,20 @@ IMPORTANT TOOL USAGE INSTRUCTIONS:
 1. You have specialized tools to search for researchers. Use these tools by following the exact format:
    - First state your thought process
    - Then specify the tool name EXACTLY as provided (e.g., "ResearcherSearch")
-   - Finally provide only the necessary input for the tool
+   - Finally provide only the necessary input for the tool in a structured format.
 
 2. When using tools, follow this exact pattern:
    Thought: [Your reasoning about what tool to use and why]
    Action: [EXACT TOOL NAME]
-   Action Input: [Only the search query or filter term]
+   Action Input: [JSON object with the correct arguments for the tool]
 
 3. Available tools and when to use them:
    - For queries about a specific research topic (e.g., "who works in immunology?"), you should first try to see if there is a relevant research program or department. Use the ProgramFilter or DepartmentFilter tools for this.
    - If you don't find a relevant program or department, or if the query is more general, use the ResearcherSearch tool.
-   - ResearcherSearch: Find researchers by expertise, interests, or name
+   - ResearcherSearch: Find researchers by name or by research topic.
+     - To search by name, provide the person's full name to the 'researcher_name' argument (e.g., Action Input: {"researcher_name": "Conor Lynch"}).
+     - To search by topic, provide the subject matter to the 'topic' argument (e.g., Action Input: {"topic": "cancer genomics"}).
+     - You must provide EITHER 'researcher_name' OR 'topic'.
    - DepartmentFilter: Find researchers in a specific academic department
    - ProgramFilter: Find researchers in a specific research program
    - InterestMatch: Find researchers with similar research interests
@@ -126,12 +129,12 @@ Follow these guidelines for tool selection:
 Example of CORRECT tool usage:
 Thought: I need to find information about Dr. Smith and his research.
 Action: ResearcherSearch
-Action Input: Dr. Smith
+Action Input: {{"researcher_name": "Dr. Smith"}}
 
 Example of EFFICIENT search behavior and CORRECT final answer format:
 Thought: I need information about Theresa Boyle.
 Action: ResearcherSearch
-Action Input: Theresa Boyle
+Action Input: {{"researcher_name": "Theresa Boyle"}}
 [After receiving search results with basic information]
 Thought: The search provided sufficient information about Theresa Boyle, including her program (Pathology) and research focus. I will now synthesize this information to answer the query.
 Final Answer: Theresa Boyle is a researcher at Moffitt Cancer Center in the Pathology program. She is involved in RNA Panel Research funded by the Salah Foundation, working with collaborators E. Haura and F. Pellini. Her profile can be found at https://www.moffitt.org/research-science/researchers/theresa-boyle.
