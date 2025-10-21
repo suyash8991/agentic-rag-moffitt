@@ -5,7 +5,6 @@ This module provides functions for creating and using a researcher agent
 that can answer queries about Moffitt Cancer Center researchers.
 """
 
-import logging
 import json
 from typing import List, Dict, Any, Optional, Union
 
@@ -23,9 +22,11 @@ from ..tools import (
 from ..models.llm import get_llm_model, LLMProvider
 from .limited_call import create_limited_call_agent_executor
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Import our structured logging system
+from ..utils.logging import get_logger, log_agent_event, log_tool_event
+
+# Get a logger for this module
+logger = get_logger(__name__)
 
 # Default system prompt for the researcher agent
 DEFAULT_SYSTEM_PROMPT = """
@@ -173,6 +174,15 @@ def create_researcher_agent(
         # Log the start of agent creation
         logger.info(f"Creating researcher agent: provider={llm_provider}, model={model_name}, reflection={enable_reflection}")
 
+        # Structured logging for agent creation
+        log_agent_event("agent_creation_start", {
+            "provider": str(llm_provider) if llm_provider else "default",
+            "model_name": model_name if model_name else "default",
+            "enable_reflection": enable_reflection,
+            "temperature": temperature,
+            "max_llm_calls": max_llm_calls
+        })
+
         # Get the language model
         logger.info("Initializing language model...")
         try:
@@ -292,6 +302,15 @@ def create_researcher_agent(
             logger.warning("Continuing without call limiting due to error")
 
         logger.info("Researcher agent created successfully")
+
+        # Structured logging for agent creation completion
+        log_agent_event("agent_creation_complete", {
+            "provider": str(llm_provider) if llm_provider else "default",
+            "model_name": model_name if model_name else "default",
+            "enable_reflection": enable_reflection,
+            "tool_count": len(tools) if 'tools' in locals() else 0
+        })
+
         return agent_executor
 
     except Exception as e:
