@@ -283,6 +283,127 @@ def render_settings():
         st.success("Conversation history cleared")
         st.rerun()
 
+    # Logging Settings
+    st.subheader("Logging Settings")
+
+    with st.expander("Configure Logging", expanded=False):
+        # Create columns for log levels
+        col1, col2 = st.columns(2)
+
+        with col1:
+            # Console log level
+            console_level = st.selectbox(
+                "Console Log Level",
+                options=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"],
+                index=1,  # Default to INFO
+                key="console_log_level"
+            )
+
+            # Enable query logging
+            enable_query_log = st.checkbox(
+                "Enable Query Logging",
+                value=True,
+                key="enable_query_log"
+            )
+
+            # Enable structured logging
+            enable_structured_logs = st.checkbox(
+                "Enable Structured Logging",
+                value=True,
+                key="enable_structured_logs"
+            )
+
+        with col2:
+            # File log level
+            file_level = st.selectbox(
+                "File Log Level",
+                options=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"],
+                index=0,  # Default to DEBUG
+                key="file_log_level"
+            )
+
+            # Enable error logging
+            enable_error_log = st.checkbox(
+                "Enable Error Logging",
+                value=True,
+                key="enable_error_log"
+            )
+
+        # Apply button for logging settings
+        if st.button("Apply Logging Settings"):
+            # Import logging utils
+            from moffitt_rag.utils.logging import init_logging
+            import logging
+
+            # Convert string levels to logging constants
+            log_levels = {
+                "DEBUG": logging.DEBUG,
+                "INFO": logging.INFO,
+                "WARNING": logging.WARNING,
+                "ERROR": logging.ERROR,
+                "CRITICAL": logging.CRITICAL
+            }
+
+            # Re-initialize logging with new settings
+            init_logging(
+                console_level=log_levels[console_level],
+                file_level=log_levels[file_level],
+                enable_query_log=enable_query_log,
+                enable_error_log=enable_error_log,
+                enable_structured_logs=enable_structured_logs
+            )
+
+            # Log the change
+            log_ui_event("logging_settings_changed", {
+                "console_level": console_level,
+                "file_level": file_level,
+                "enable_query_log": enable_query_log,
+                "enable_error_log": enable_error_log,
+                "enable_structured_logs": enable_structured_logs
+            })
+
+            st.success(f"Logging settings updated: Console={console_level}, File={file_level}")
+
+    # Log file viewer
+    with st.expander("View Recent Logs", expanded=False):
+        log_type = st.selectbox(
+            "Log Type",
+            options=["Application Log", "Error Log", "Query Log", "Agent Log", "Vector DB Log", "LLM Log"],
+            index=0
+        )
+
+        # Map selection to file
+        log_file_map = {
+            "Application Log": "app.log",
+            "Error Log": "errors.log",
+            "Query Log": "queries.log",
+            "Agent Log": "structured/agent.json",
+            "Vector DB Log": "structured/vector_db.json",
+            "LLM Log": "structured/llm.json"
+        }
+
+        if st.button("Load Recent Logs"):
+            selected_file = log_file_map.get(log_type)
+            if selected_file:
+                try:
+                    # Find logs directory
+                    from pathlib import Path
+                    from moffitt_rag.utils.logging import DEFAULT_LOG_DIR
+
+                    log_path = DEFAULT_LOG_DIR / selected_file
+
+                    if log_path.exists():
+                        # Read the last 100 lines of the log file
+                        with open(log_path, "r") as file:
+                            lines = file.readlines()
+                            # Show the most recent logs (last 100 lines)
+                            recent_logs = "".join(lines[-100:])
+                            st.text_area("Recent Logs", recent_logs, height=300)
+                    else:
+                        st.warning(f"Log file not found: {selected_file}")
+                except Exception as e:
+                    st.error(f"Error loading log file: {e}")
+
 def main():
     """Main application entry point"""
     # Log application start
