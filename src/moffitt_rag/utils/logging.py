@@ -3,10 +3,12 @@ Logging module for the Moffitt Agentic RAG system.
 
 This module provides a central configuration for logging across the system,
 including file and console handlers with proper formatting and log rotation.
+It also supports structured logging with JSON format for better analysis.
 """
 
 import os
 import sys
+import json
 import logging
 import logging.handlers
 import datetime
@@ -32,8 +34,70 @@ DETAILED_FORMAT = "%(asctime)s [%(levelname)s] %(name)s (%(filename)s:%(lineno)d
 QUERY_FORMAT = "%(asctime)s [%(levelname)s] QUERY %(message)s"
 ERROR_FORMAT = "%(asctime)s [%(levelname)s] %(name)s (%(filename)s:%(lineno)d): %(message)s\n%(exc_info)s"
 
+# Define structured log types
+STRUCTURED_LOG_TYPES = [
+    "agent",     # Agent-related logs
+    "query",     # User queries
+    "tool",      # Tool usage
+    "vector_db", # Vector database operations
+    "llm",       # LLM-related logs
+    "api",       # API-related logs
+    "ui"         # UI-related logs
+]
+
 # Get environment from environment variable or default to "dev"
 ENV = os.environ.get("MOFFITT_ENV", "dev").lower()
+
+# JSON formatter for structured logging
+class JsonFormatter(logging.Formatter):
+    """
+    Formatter that outputs JSON strings after parsing the log record.
+
+    This formatter is used to generate structured logs in JSON format
+    for better analysis and filtering.
+    """
+
+    def __init__(self, time_format=None):
+        """
+        Initialize the formatter with the specified time format.
+
+        Args:
+            time_format: Format string for the timestamp. If None, uses ISO format.
+        """
+        self.time_format = time_format
+
+    def format(self, record):
+        """
+        Format the record as JSON.
+
+        Args:
+            record: The log record to format.
+
+        Returns:
+            str: JSON-formatted log entry
+        """
+        log_data = {
+            "timestamp": self.formatTime(record, self.time_format),
+            "level": record.levelname,
+            "name": record.name,
+            "message": record.getMessage(),
+            "module": record.module,
+            "filename": record.filename,
+            "lineno": record.lineno,
+            "process": record.process,
+            "thread": record.thread
+        }
+
+        # Add exception info if available
+        if record.exc_info:
+            log_data["exc_info"] = self.formatException(record.exc_info)
+
+        # Add extra fields from record
+        if hasattr(record, "data") and isinstance(record.data, dict):
+            log_data.update(record.data)
+
+        # Convert to JSON and return
+        return json.dumps(log_data)
 
 # Create the logs directory if it doesn't exist
 def ensure_log_directory(log_dir: Path = DEFAULT_LOG_DIR) -> Path:
@@ -58,13 +122,15 @@ def init_logging(
     log_dir: Optional[Union[str, Path]] = None,
     enable_query_log: bool = True,
     enable_error_log: bool = True,
+    enable_structured_logs: bool = True,
     module_specific_levels: Optional[Dict[str, int]] = None
 ) -> None:
     """
     Initialize the logging system.
 
     This function sets up the root logger with console and file handlers,
-    and configures additional handlers for query and error logs.
+    and configures additional handlers for query and error logs, as well as
+    structured JSON logs for each component.
 
     Args:
         console_level (Optional[int], optional): Logging level for console output.
@@ -76,6 +142,8 @@ def init_logging(
         enable_query_log (bool, optional): Whether to enable query logging.
             Defaults to True.
         enable_error_log (bool, optional): Whether to enable error logging.
+            Defaults to True.
+        enable_structured_logs (bool, optional): Whether to enable structured JSON logging.
             Defaults to True.
         module_specific_levels (Optional[Dict[str, int]], optional):
             Dictionary mapping module names to specific log levels.
@@ -158,6 +226,37 @@ def init_logging(
         error_file_handler.addFilter(ErrorFilter())
         root_logger.addHandler(error_file_handler)
 
+    # Create structured log handlers for each component
+    if enable_structured_logs:
+        # Create a structured logs subdirectory
+        structured_log_dir = log_dir / "structured"
+        if not structured_log_dir.exists():
+            structured_log_dir.mkdir(parents=True, exist_ok=True)
+
+        # Create JSON formatter
+        json_formatter = JsonFormatter()
+
+        # Create a handler for each component type
+        for log_type in STRUCTURED_LOG_TYPES:
+            # Create the log file with daily rotation
+            log_file = structured_log_dir / f"{log_type}.json"
+            handler = logging.handlers.TimedRotatingFileHandler(
+                filename=log_file,
+                when="midnight",
+                interval=1,
+                backupCount=30  # Keep 30 days of logs
+            )
+            handler.setLevel(logging.INFO)  # Use INFO level for structured logs
+            handler.setFormatter(json_formatter)
+
+            # Create a logger for this component
+            component_logger = logging.getLogger(f"moffitt_rag.structured.{log_type}")
+            component_logger.setLevel(logging.INFO)
+            component_logger.addHandler(handler)
+            component_logger.propagate = False  # Don't propagate to root logger
+
+        logging.info(f"Structured logging enabled with {len(STRUCTURED_LOG_TYPES)} component loggers")
+
     # Set up module-specific logging levels
     if module_specific_levels:
         for module_name, level in module_specific_levels.items():
@@ -167,7 +266,7 @@ def init_logging(
     # Log configuration details
     logging.info(f"Logging initialized: console={logging.getLevelName(console_level)}, "
                 f"file={logging.getLevelName(file_level)}, env={ENV}, "
-                f"log_dir={log_dir}")
+                f"log_dir={log_dir}, structured_logs={enable_structured_logs}")
 
 
 # Utility function to get a logger for a module
@@ -352,6 +451,132 @@ def log_exception(
         logger.log(level, message)
 
 
+# Structured logging helper functions
+def log_structured(
+    component: str,
+    event: str,
+    level: int = logging.INFO,
+    data: Optional[Dict[str, Any]] = None,
+    message: Optional[str] = None
+) -> None:
+    """
+    Log a structured event to the appropriate component logger.
+
+    Args:
+        component (str): The component type (must be one of STRUCTURED_LOG_TYPES)
+        event (str): The event name/type
+        level (int, optional): Log level. Defaults to logging.INFO.
+        data (Optional[Dict[str, Any]], optional): Additional data to log.
+            Defaults to None.
+        message (Optional[str], optional): Optional human-readable message.
+            Defaults to None.
+    """
+    if component not in STRUCTURED_LOG_TYPES:
+        # Fall back to a general structured logger if component not recognized
+        component = "agent"
+
+    # Get the appropriate logger
+    logger = logging.getLogger(f"moffitt_rag.structured.{component}")
+
+    # Prepare the log record
+    if data is None:
+        data = {}
+
+    # Add the event type to the data
+    data["event"] = event
+
+    # Use a default message if none provided
+    if message is None:
+        message = f"{component.upper()} {event}"
+
+    # Create a log record with the data
+    record = logging.LogRecord(
+        name=logger.name,
+        level=level,
+        pathname=__file__,
+        lineno=0,  # We don't have a specific line number for this
+        msg=message,
+        args=(),
+        exc_info=None
+    )
+
+    # Add the data to the record
+    setattr(record, "data", data)
+
+    # Log the record
+    logger.handle(record)
+
+
+def log_agent_event(
+    event: str,
+    data: Optional[Dict[str, Any]] = None,
+    level: int = logging.INFO,
+    message: Optional[str] = None
+) -> None:
+    """Log an agent-related event."""
+    log_structured("agent", event, level, data, message)
+
+
+def log_query_event(
+    event: str,
+    data: Optional[Dict[str, Any]] = None,
+    level: int = logging.INFO,
+    message: Optional[str] = None
+) -> None:
+    """Log a query-related event."""
+    log_structured("query", event, level, data, message)
+
+
+def log_tool_event(
+    event: str,
+    data: Optional[Dict[str, Any]] = None,
+    level: int = logging.INFO,
+    message: Optional[str] = None
+) -> None:
+    """Log a tool usage event."""
+    log_structured("tool", event, level, data, message)
+
+
+def log_vector_db_event(
+    event: str,
+    data: Optional[Dict[str, Any]] = None,
+    level: int = logging.INFO,
+    message: Optional[str] = None
+) -> None:
+    """Log a vector database event."""
+    log_structured("vector_db", event, level, data, message)
+
+
+def log_llm_event(
+    event: str,
+    data: Optional[Dict[str, Any]] = None,
+    level: int = logging.INFO,
+    message: Optional[str] = None
+) -> None:
+    """Log an LLM-related event."""
+    log_structured("llm", event, level, data, message)
+
+
+def log_api_event(
+    event: str,
+    data: Optional[Dict[str, Any]] = None,
+    level: int = logging.INFO,
+    message: Optional[str] = None
+) -> None:
+    """Log an API-related event."""
+    log_structured("api", event, level, data, message)
+
+
+def log_ui_event(
+    event: str,
+    data: Optional[Dict[str, Any]] = None,
+    level: int = logging.INFO,
+    message: Optional[str] = None
+) -> None:
+    """Log a UI-related event."""
+    log_structured("ui", event, level, data, message)
+
+
 # Configure global exception hook to log unhandled exceptions
 def configure_exception_logging():
     """Configure global exception hook to log unhandled exceptions."""
@@ -368,6 +593,13 @@ def configure_exception_logging():
             "Uncaught exception",
             exc_info=(exc_type, exc_value, exc_traceback)
         )
+
+        # Log to structured error log as well
+        log_structured("agent", "uncaught_exception", logging.CRITICAL, {
+            "exception_type": str(exc_type.__name__),
+            "exception_value": str(exc_value),
+            "traceback": traceback.format_exception(exc_type, exc_value, exc_traceback)
+        })
 
         # Call the default exception handler
         sys.__excepthook__(exc_type, exc_value, exc_traceback)
