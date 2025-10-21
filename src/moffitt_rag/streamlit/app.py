@@ -63,9 +63,22 @@ except ImportError:
     from moffitt_rag.streamlit.components.sidebar import render_sidebar
     from moffitt_rag.streamlit.components.chat import render_chat_interface
 
-# Configure logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Import our custom logging configuration
+from moffitt_rag.utils.logging import (
+    init_logging,
+    configure_exception_logging,
+    get_logger,
+    log_ui_event
+)
+
+# Initialize structured logging system
+init_logging()
+
+# Configure exception logging
+configure_exception_logging()
+
+# Get logger for this module
+logger = get_logger(__name__)
 
 # Define app states
 APP_STATES = ["chat", "explore", "settings"]
@@ -272,6 +285,13 @@ def render_settings():
 
 def main():
     """Main application entry point"""
+    # Log application start
+    logger.info("Starting Moffitt Agentic RAG application")
+    log_ui_event("application_start", {
+        "timestamp": datetime.datetime.now().isoformat(),
+        "environment": os.environ.get("MOFFITT_ENV", "dev")
+    })
+
     # Set page configuration
     set_page_config()
 
