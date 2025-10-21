@@ -170,6 +170,15 @@ class ResearcherProfile(BaseModel):
         if self.associations:
             text_parts.append(f"Associations: {', '.join(self.associations)}")
 
+        # Education information
+        if self.education:
+            text_parts.append("Education:")
+            for edu in self.education:
+                edu_text = f"  - {edu.type} at {edu.institution}"
+                if edu.specialty:
+                    edu_text += f", Specialty: {edu.specialty}"
+                text_parts.append(edu_text)
+
         # Publications
         if self.publications:
             text_parts.append("Publications:")

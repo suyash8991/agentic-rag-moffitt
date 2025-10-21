@@ -106,13 +106,25 @@ def create_researcher_chunks(profile: ResearcherProfile, chunk_size: int = 1024)
         prefix = f"{profile.researcher_id}_{unique_hash[:4]}_"
 
     # Add core information chunk
-    core_info = "\n".join([
+    core_info_parts = [
         f"Name: {profile.full_name}", # gets researcher name with degrees
         f"Title: {profile.title}" if profile.title else "",
         f"Program: {profile.primary_program}" if profile.primary_program else "",
         f"Department: {profile.department}" if profile.department else "",
         f"Overview: {profile.overview}" if profile.overview else ""
-    ])
+    ]
+
+    # Add education information if available
+    if profile.education:
+        education_lines = ["Education:"]
+        for edu in profile.education:
+            edu_parts = [f"  - {edu.type} at {edu.institution}"]
+            if edu.specialty:
+                edu_parts.append(f", Specialty: {edu.specialty}")
+            education_lines.append("".join(edu_parts))
+        core_info_parts.extend(education_lines)
+
+    core_info = "\n".join(core_info_parts)
 
     core_chunk = ResearcherChunk(
         chunk_id=f"{prefix}core",
