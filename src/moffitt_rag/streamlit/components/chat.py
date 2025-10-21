@@ -68,9 +68,7 @@ def invoke_agent(query: str) -> Optional[Dict[str, Any]]:
                         from moffitt_rag.tools import (
                             ResearcherSearchTool,
                             DepartmentFilterTool,
-                            ProgramFilterTool,
-                            InterestMatchTool,
-                            CollaborationTool
+                            ProgramFilterTool
                         )
 
                         print("Imported tools modules successfully")
@@ -104,21 +102,6 @@ def invoke_agent(query: str) -> Optional[Dict[str, Any]]:
                             print(error)
                             tool_errors.append(error)
 
-                        try:
-                            interest_tool = InterestMatchTool()
-                            print(f"InterestMatchTool created successfully")
-                        except Exception as e:
-                            error = f"InterestMatchTool creation error: {type(e).__name__}: {str(e)}"
-                            print(error)
-                            tool_errors.append(error)
-
-                        try:
-                            collab_tool = CollaborationTool()
-                            print(f"CollaborationTool created successfully")
-                        except Exception as e:
-                            error = f"CollaborationTool creation error: {type(e).__name__}: {str(e)}"
-                            print(error)
-                            tool_errors.append(error)
 
                         if tool_errors:
                             print(f"WARNING: {len(tool_errors)} tools had creation errors")
@@ -285,8 +268,8 @@ def render_example_queries():
         example_queries = [
             "Who studies cancer evolution at Moffitt?",
             "Tell me about researchers in the Immunology department",
-            "Find researchers similar to Robert Gatenby",
-            "What potential collaborations exist between Biostatistics and Cancer Epidemiology?",
+            "Find researchers who work on cancer immunotherapy",
+            "Which researchers at Moffitt study genomics?",
             "Which researchers at Moffitt study immunotherapy resistance mechanisms?"
         ]
 

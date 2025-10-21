@@ -18,9 +18,7 @@ from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 from ..tools import (
     ResearcherSearchTool,
     DepartmentFilterTool,
-    ProgramFilterTool,
-    InterestMatchTool,
-    CollaborationTool
+    ProgramFilterTool
 )
 from ..models.llm import get_llm_model, LLMProvider
 from .limited_call import create_limited_call_agent_executor
@@ -56,13 +54,10 @@ IMPORTANT TOOL USAGE INSTRUCTIONS:
      - You must provide EITHER 'researcher_name' OR 'topic'.
    - DepartmentFilter: Find researchers in a specific academic department
    - ProgramFilter: Find researchers in a specific research program
-   - InterestMatch: Find researchers with similar research interests
-   - Collaboration: Discover potential collaborations between research areas
 
    IMPORTANT TOOL RESTRICTIONS:
    - These are the ONLY available tools - you CANNOT use any other tools
    - You CANNOT visit websites directly - there is no 'Visit' tool
-   - Use 'Collaboration' NOT 'CollaborationTool'
 
 4. Wait for each tool's response before using another tool.
 
@@ -117,14 +112,11 @@ IMPORTANT GUIDELINES:
 TOOL RESTRICTIONS:
 - ONLY use the tools listed above ({tool_names}) - no other tools are available.
 - You CANNOT directly visit websites - there is no "Visit" tool.
-- You CANNOT use made-up tools like "CollaborationTool" (use "Collaboration" instead).
 
 Follow these guidelines for tool selection:
 1. For general researcher searches, use ResearcherSearch.
 2. To find researchers in a specific department, use DepartmentFilter.
 3. To find researchers in a specific program, use ProgramFilter.
-4. To find researchers with similar interests, use InterestMatch.
-5. To discover potential collaborations, use Collaboration.
 
 Example of CORRECT tool usage:
 Thought: I need to find information about Dr. Smith and his research.
@@ -212,9 +204,7 @@ def create_researcher_agent(
             tools = [
                 ResearcherSearchTool(),
                 DepartmentFilterTool(),
-                ProgramFilterTool(),
-                InterestMatchTool(),
-                CollaborationTool()
+                ProgramFilterTool()
             ]
             logger.info(f"Successfully created {len(tools)} tools")
         except Exception as e:
