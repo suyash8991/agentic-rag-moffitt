@@ -88,31 +88,6 @@ def extract_name_from_text(text: str) -> str:
     return ""
 
 
-def extract_relevant_snippet(text: str, query: str, max_length: int = 200) -> str:
-    """
-    Extract the most relevant snippet from a text based on a query.
-    """
-    if len(text) <= max_length:
-        return text
-    query_terms = set(re.findall(r'\w+', query.lower()))
-    sentences = re.split(r'(?<=[.!?])\s+', text)
-    scored_sentences = []
-    for sentence in sentences:
-        sentence_terms = set(re.findall(r'\w+', sentence.lower()))
-        score = len(query_terms.intersection(sentence_terms))
-        scored_sentences.append((sentence, score))
-    scored_sentences.sort(key=lambda x: x[1], reverse=True)
-    snippet = ""
-    for sentence, _ in scored_sentences:
-        if len(snippet) + len(sentence) + 1 <= max_length:
-            snippet += sentence + " "
-        else:
-            break
-    if not snippet:
-        snippet = text[:max_length].rsplit(" ", 1)[0] + "..."
-    return snippet.strip()
-
-
 class ResearcherSearchInput(BaseModel):
     """Input model for the ResearcherSearchTool."""
     researcher_name: Optional[str] = Field(None, description="The full name of the researcher to search for. Use for specific person-related queries.")
