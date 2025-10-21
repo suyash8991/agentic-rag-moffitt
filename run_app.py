@@ -19,7 +19,7 @@ def main():
     sys.path.insert(0, str(src_path))
 
     # Initialize logging system
-    from moffitt_rag.utils.logging import init_logging, configure_exception_logging, get_logger
+    from utils.logging import init_logging, configure_exception_logging, get_logger
     
     # Initialize logging
     init_logging(
@@ -37,7 +37,7 @@ def main():
     logger = get_logger(__name__)
 
     # Path to the app file
-    app_path = project_root / "src" / "moffitt_rag" / "streamlit" / "app.py"
+    app_path = project_root / "src" / "web_app" / "app.py"
 
     # Check if the app file exists
     if not app_path.exists():
