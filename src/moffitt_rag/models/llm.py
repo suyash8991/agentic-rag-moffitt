@@ -6,7 +6,6 @@ from various providers (OpenAI, Groq) for the agent's reasoning.
 """
 
 import os
-import logging
 from enum import Enum
 from typing import Optional, Dict, Any, List, Union, Literal
 
@@ -22,13 +21,13 @@ from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from .euron_chat import ChatEuron
 
 from ..config.config import get_settings
+from ..utils.logging import get_logger, log_llm_event
 
 # Get settings
 settings = get_settings()
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Get logger for this module
+logger = get_logger(__name__)
 
 
 class LLMProvider(str, Enum):
@@ -72,6 +71,17 @@ def get_llm_model(
     Returns:
         BaseChatModel: The language model
     """
+    logger.info(f"Getting LLM model: provider={provider}, model={model_name}, stream={stream}, temperature={temperature}")
+    
+    # Log structured event for LLM model request
+    log_llm_event("llm_model_request", {
+        "provider": str(provider) if provider else "default",
+        "model_name": model_name if model_name else "default",
+        "stream": stream,
+        "temperature": temperature,
+        "fallback_on_rate_limit": fallback_on_rate_limit
+    })
+    
     # Available providers to try in order if rate limiting occurs
     # This will be used if fallback_on_rate_limit is True
     provider_fallbacks = [
@@ -213,12 +223,31 @@ def get_llm_model(
                 )
 
             logger.info(f"Successfully initialized LLM: {provider_to_try.value}/{model_to_try}")
+            
+            # Log successful completion
+            log_llm_event("llm_model_success", {
+                "provider": provider_to_try.value,
+                "model_name": model_to_try,
+                "stream": stream,
+                "temperature": temperature
+            })
+            
             return llm
 
         except Exception as e:
             import traceback
             logger.warning(f"Error initializing LLM with provider {provider_to_try.value}: {type(e).__name__}: {str(e)}")
             logger.debug(f"Traceback for {provider_to_try.value} error: {traceback.format_exc()}")
+            
+            # Log structured error event
+            log_llm_event("llm_model_error", {
+                "provider": provider_to_try.value,
+                "model_name": model_to_try,
+                "error": str(e),
+                "error_type": type(e).__name__,
+                "is_rate_limit": "429" in str(e) or "rate limit" in str(e).lower() or "too many requests" in str(e).lower()
+            })
+            
             last_exception = e
 
             # Check if this is a rate limit error and we should try the next provider
@@ -229,6 +258,14 @@ def get_llm_model(
     # If we get here, all providers failed
     import traceback
     logger.error("All LLM providers failed to initialize")
+    
+    # Log final failure event
+    log_llm_event("llm_model_failure", {
+        "error": str(last_exception) if last_exception else "unknown",
+        "error_type": type(last_exception).__name__ if last_exception else "unknown",
+        "providers_tried": len(providers_to_try)
+    })
+    
     if last_exception:
         logger.error(f"Last error: {type(last_exception).__name__}: {str(last_exception)}")
         logger.error(f"Traceback: {traceback.format_exc()}")

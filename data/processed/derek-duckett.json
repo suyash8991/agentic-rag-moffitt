@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/derek-duckett",
-  "last_updated": "2025-10-19T00:27:54.522435",
+  "last_updated": "2025-10-21T16:36:57.761187",
   "researcher_id": "22470",
   "degrees": [
     "PhD"
@@ -28,123 +28,226 @@
   ],
   "publications": [
     {
-      "title": "Junyent M, Noori H, De Schepper R, Frajdenberg S, Elsaigh RKAH, McDonald PH, Duckett D, Maudsley S. Unravelling Convergent Signaling Mechanisms Underlying the Aging-Disease Nexus Using Computational Language Analysis. Curr Issues Mol Biol",
+      "title": "Unravelling Convergent Signaling Mechanisms Underlying the Aging-Disease Nexus Using Computational Language Analysis",
       "pubmed_id": "40136443",
       "pmc_id": "PMC11941692",
       "year": "2025",
-      "journal": "47(3)",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Junyent M, Noori H, De Schepper R, Frajdenberg S, Elsaigh RKAH, McDonald PH, Duckett D, Maudsley S",
+      "journal": "Curr Issues Mol Biol"
     },
     {
-      "title": "Karolak A, Urbaniak K, Monastyrskyi A, Duckett DR, Branciamore S, Stewart PA. Structure-independent machine-learning predictions of the CDK12 interactome. Biophys J",
+      "title": "Structure-independent machine-learning predictions of the CDK12 interactome",
       "pubmed_id": "38762754",
       "pmc_id": "PMC11393676",
       "year": "2024",
-      "journal": "123(17):2910-2920",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Karolak A, Urbaniak K, Monastyrskyi A, Duckett DR, Branciamore S, Stewart PA",
+      "journal": "Biophys J"
     },
     {
-      "title": "Gonz\u00e1lez-Rodriguez MA, Troutman S, Bayle S, Lester DK, Grove M, Duckett D, Kareta MS, Kissil JL. Synergistic effects of combined BET and FAK inhibition against Vestibular Schwannomas in NF2-related Schwannomatosis. Oncogene",
+      "title": "Synergistic effects of combined BET and FAK inhibition against Vestibular Schwannomas in NF2-related Schwannomatosis",
       "pubmed_id": "39209965",
       "year": "2024",
-      "journal": "43(40):2995-3002",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Gonz\u00e1lez-Rodriguez MA, Troutman S, Bayle S, Lester DK, Grove M, Duckett D, Kareta MS, Kissil JL",
+      "journal": "Oncogene"
     },
     {
-      "title": "Ghosh P, Schmitz M, Pandurangan T, Zeleke ST, Chan SC, Mosior J, Sun L, Palve V, Grassie D, Anand K, Frydman S, Roush WR, Sch\u00f6nbrunn E, Geyer M, Duckett D, Monastyrskyi A. Discovery and design of molecular glue enhancers of CDK12-DDB1 interactions for targeted degradation of cyclin K. RSC Chem Biol",
+      "title": "Discovery and design of molecular glue enhancers of CDK12-DDB1 interactions for targeted degradation of cyclin K",
       "pubmed_id": "39450271",
       "pmc_id": "PMC11494886",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Ghosh P, Schmitz M, Pandurangan T, Zeleke ST, Chan SC, Mosior J, Sun L, Palve V, Grassie D, Anand K, Frydman S, Roush WR, Sch\u00f6nbrunn E, Geyer M, Duckett D, Monastyrskyi A",
+      "journal": "RSC Chem Biol"
     },
     {
-      "title": "Bhutada I, Khambati F, Cheng SY, Tiek DM, Duckett D, Lawrence H, Vogelbaum MA, Mo Q, Chellappan SP, Padmanabhan J. CDK7 and CDK9 inhibition interferes with transcription, translation, and stemness, and induces cytotoxicity in GBM irrespective of temozolomide sensitivity. Neurooncol",
+      "title": "CDK7 and CDK9 inhibition interferes with transcription, translation, and stemness, and induces cytotoxicity in GBM irrespective of temozolomide sensitivity",
       "pubmed_id": "37551745",
       "pmc_id": "PMC10768977",
       "year": "2024",
-      "journal": "26(1):70-84",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Bhutada I, Khambati F, Cheng SY, Tiek DM, Duckett D, Lawrence H, Vogelbaum MA, Mo Q, Chellappan SP, Padmanabhan J",
+      "journal": "Neurooncol"
     },
     {
-      "title": "Schmitz M, Kaltheuner IH, Anand K, D\u00fcster R, Moecking J, Monastyrskyi A, Duckett DR, Roush WR, Geyer M. The reversible inhibitor SR-4835 binds Cdk12/cyclin K in a noncanonical G-loop conformation. J Biol Chem",
+      "title": "The reversible inhibitor SR-4835 binds Cdk12/cyclin K in a noncanonical G-loop conformation",
       "pubmed_id": "38016516",
       "pmc_id": "PMC10767194",
       "year": "2024",
-      "journal": "300(1):105501",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Schmitz M, Kaltheuner IH, Anand K, D\u00fcster R, Moecking J, Monastyrskyi A, Duckett DR, Roush WR, Geyer M",
+      "journal": "J Biol Chem"
     },
     {
-      "title": "Morozova A, Chan SC, Bayle S, Sun L, Grassie D, Iermolaieva A, Kalaga MN, Frydman S, Sansil S, Sch\u00f6nbrunn E, Duckett D, Monastyrskyi A. Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties. Eur J Med Chem",
-      "pubmed_id": "38232465",
-      "year": "2024",
-      "journal": "266:116101",
-      "authors": ""
-    },
-    {
-      "title": "Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L, Duckett DR, Teng M. An Epigenomic fingerprint of human cancers by landscape interrogation of super enhancers at the constituent level. PLoS Comput Biol",
+      "title": "An Epigenomic fingerprint of human cancers by landscape interrogation of super enhancers at the constituent level",
       "pubmed_id": "38335222",
       "pmc_id": "PMC10883583",
       "year": "2024",
-      "journal": "20(2):e1011873",
-      "authors": ""
+      "publication_date": "2024 Feb",
+      "authors": "Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L, Duckett DR, Teng M",
+      "journal": "PLoS Comput Biol"
     },
     {
-      "title": "Choi JY, Noguchi Y, Alburger JM, Bayle S, Chung E, Grant W, Chaikuad A, Knapp S, Duckett DR, Roush WR. Structure-Based Development of Isoform-Selective Inhibitors of Casein Kinase 1\u03b5 vs Casein Kinase 1\u03b4. J Med Chem",
+      "title": "Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties",
+      "pubmed_id": "38232465",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Morozova A, Chan SC, Bayle S, Sun L, Grassie D, Iermolaieva A, Kalaga MN, Frydman S, Sansil S, Sch\u00f6nbrunn E, Duckett D, Monastyrskyi A",
+      "journal": "Eur J Med Chem"
+    },
+    {
+      "title": "Structure-Based Development of Isoform-Selective Inhibitors of Casein Kinase 1\u03b5 vs Casein Kinase 1\u03b4",
       "pubmed_id": "37204207",
       "pmc_id": "PMC10304650",
       "year": "2023",
-      "journal": "66(11):7162-7178",
-      "authors": ""
+      "publication_date": "2023 Jun",
+      "authors": "Choi JY, Noguchi Y, Alburger JM, Bayle S, Chung E, Grant W, Chaikuad A, Knapp S, Duckett DR, Roush WR",
+      "journal": "J Med Chem"
     },
     {
-      "title": "Liao Y, Chin Chan S, Welsh EA, Fang B, Sun L, Sch\u00f6nbrunn E, Koomen JM, Duckett DR, Haura EB, Monastyrskyi A, Rix U. Chemical Proteomics with Novel Fully Functionalized Fragments and Stringent Target Prioritization Identifies the Glutathione-Dependent Isomerase GSTZ1 as a Lung Cancer Target. Acs Chem Biol",
+      "title": "Chemical Proteomics with Novel Fully Functionalized Fragments and Stringent Target Prioritization Identifies the Glutathione-Dependent Isomerase GSTZ1 as a Lung Cancer Target",
       "pubmed_id": "36630201",
       "year": "2023",
-      "journal": "18(2):251-264",
-      "authors": ""
+      "publication_date": "2023 Feb",
+      "authors": "Liao Y, Chin Chan S, Welsh EA, Fang B, Sun L, Sch\u00f6nbrunn E, Koomen JM, Duckett DR, Haura EB, Monastyrskyi A, Rix U",
+      "journal": "Acs Chem Biol"
     }
   ],
   "grants": [
     {
-      "description": "Title: Reprogramming Cancer: A Paradigm Shift in Oncology Treatment  \nAward Number: 25C11  \nSponsor: Florida Department of Health  \nDuckett, D. (PD/PI)"
+      "description": "Title: Reprogramming Cancer: A Paradigm Shift in Oncology Treatment  \nAward Number: 25C11  \nSponsor: Florida Department of Health  \nDuckett, D. (PD/PI)",
+      "title": "Reprogramming Cancer: A Paradigm Shift in Oncology Treatment",
+      "award_number": "25C11",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Development of New Casein Kinase 1 Inhibitor for the Treatment of BrainCancers  \nAward Number: 5R01CA227073-06  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI)",
+      "title": "Development of New Casein Kinase 1 Inhibitor for the Treatment of BrainCancers",
+      "award_number": "5R01CA227073-06",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "7073-06"
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers  \nAward Number: 5R01CA262530-04  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI), Haura, E. (PD/PI), Monastyrskyi, A. (PD/PI)",
+      "title": "Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers",
+      "award_number": "5R01CA262530-04",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2530-04"
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Monastyrskyi, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers supplement  \nAward Number: 3R01CA262530-02S1  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI), Monastyrskyi, A. (PD/PI)",
+      "title": "Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers supplement",
+      "award_number": "3R01CA262530-02S1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2530-02"
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Monastyrskyi, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Transcriptional and Epigenetic Adaptation as Novel Therapeutic Vulnerabilities for Mantle Cell Lymphoma  \nAward Number: 5R01CA233601-04  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI)",
+      "title": "Transcriptional and Epigenetic Adaptation as Novel Therapeutic Vulnerabilities for Mantle Cell Lymphoma",
+      "award_number": "5R01CA233601-04",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "3601-04"
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Harnessing CDK12 inhibition for the treatment of HER2+ brain metastatic breast cancers  \nAward Number: W81XWH-22-1-0025  \nSponsor: Department of Defense (DOD)  \nDuckett, D. (PD/PI)",
-      "source": "DOD"
+      "title": "Harnessing CDK12 inhibition for the treatment of HER2+ brain metastatic breast cancers",
+      "award_number": "W81XWH-22-1-0025",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Developing a First-in-Class -Catenin/BCL9 PPI Inhibitor  \nAward Number: 21-0038-S1, Work Plan No. 1, Amendment 2  \nSponsor: BAYFIELD THERAPEUTICS, LLC  \nJi, H. (PD/PI), Duckett, D. (Co-PD/PI)"
+      "description": "Title: Developing a First-in-Class -Catenin/BCL9 PPI Inhibitor  \nAward Number: 21-0038-S1, Work Plan No. 1, Amendment 2  \nSponsor: BAYFIELD THERAPEUTICS, LLC  \nJi, H. (PD/PI), Duckett, D. (Co-PD/PI)",
+      "title": "Developing a First-in-Class -Catenin/BCL9 PPI Inhibitor",
+      "award_number": "21-0038-S1, Work Plan No. 1, Amendment 2",
+      "sponsor": "BAYFIELD THERAPEUTICS, LLC",
+      "investigators": [
+        {
+          "name": "Ji, H.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Duckett, D.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Orexin receptor agonist discovery for development of colon cancer targeted alpha particle therapy  \nAward Number: NA  \nSponsor: Foundation Support-Rsch  \nDuckett, D. (PD/PI), Ji, H. (PD/PI), Morse, D. (PD/PI)",
-      "source": "Foundation"
+      "title": "Orexin receptor agonist discovery for development of colon cancer targeted alpha particle therapy",
+      "award_number": "NA",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Ji, H.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Morse, D.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DuckettDerek_22470.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22470"
   },
-  "content_hash": "d3bd9914ad20cd665be5b4c83db92027535c056db6e0058d9aa6bc672a28af2a",
+  "content_hash": "320e4014cf0b50aaa8f9937088bc13fb88d03a45a1836250f0074a91e340ae2b",
   "researcher_name": "Derek Duckett",
   "department": "Drug Discovery"
 }

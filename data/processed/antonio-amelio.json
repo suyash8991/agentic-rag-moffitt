@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/antonio-amelio",
-  "last_updated": "2025-10-19T00:25:59.492078",
+  "last_updated": "2025-10-21T16:35:05.887823",
   "researcher_id": "32357",
   "degrees": [
     "PhD"
@@ -20,106 +20,165 @@
   "education": [],
   "publications": [
     {
-      "title": "Park R, Rind F, Kristoff T, Li J, Schell M, Slebos RJC, Thatikonda S, Chaudhary R, Biernacki MI, Meshkovska Y, Kaldas D, Kim HS, Farinhas J, Hernandez-Prera J, Kirtane K, Hall MS, Amelio AL, Rocco JW, Bhateja P, Steuer C, Bonomi M, Saba NF, Chung CH. Evaluation of Neutrophil to Lymphocyte Ratio in Patients With Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma Treated With a Combination of Cetuximab and Nivolumab in a Phase II Clinical Trial. Am J Clin Oncol",
+      "title": "Evaluation of Neutrophil to Lymphocyte Ratio in Patients With Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma Treated With a Combination of Cetuximab and Nivolumab in a Phase II Clinical Trial",
       "pubmed_id": "40905435",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Park R, Rind F, Kristoff T, Li J, Schell M, Slebos RJC, Thatikonda S, Chaudhary R, Biernacki MI, Meshkovska Y, Kaldas D, Kim HS, Farinhas J, Hernandez-Prera J, Kirtane K, Hall MS, Amelio AL, Rocco JW, Bhateja P, Steuer C, Bonomi M, Saba NF, Chung CH",
+      "journal": "Am J Clin Oncol"
     },
     {
-      "title": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH. PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis. Mol Cancer Ther",
+      "title": "PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis",
       "pubmed_id": "40552938",
       "pmc_id": "PMC12327362",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH",
+      "journal": "Mol Cancer Ther"
     },
     {
-      "title": "Echevarria M, Park R, Caudell JJ, Kim Y, Yang GQ, Kirtane K, Chaudhary R, Kumar S, Amelio AL, Giuliano AR, Chung CH. Plasma Cell-Free Human Papillomavirus DNA and Oral Gargle HPV DNA in Patients with HPV-Related Oropharyngeal Cancer Treated with Radiotherapy. Cancer Res Commun",
+      "title": "Plasma Cell-Free Human Papillomavirus DNA and Oral Gargle HPV DNA in Patients with HPV-Related Oropharyngeal Cancer Treated with Radiotherapy",
       "pubmed_id": "40643202",
       "pmc_id": "PMC12281097",
       "year": "2025",
-      "journal": "5(7):1194-1202",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Echevarria M, Park R, Caudell JJ, Kim Y, Yang GQ, Kirtane K, Chaudhary R, Kumar S, Amelio AL, Giuliano AR, Chung CH",
+      "journal": "Cancer Res Commun"
     },
     {
-      "title": "Hu E, An J, Gersten AJ, Wu N, Kawachi N, Zhu J, Rosenblatt G, Augustine S, Smith RV, Segall JE, Ostrer H, Amelio AL, Chung CH, Prystowsky MB, Ow TJ, Deng W, Yin S. Virusplot: a web server for viral integration analysis and visualization. Front Oncol",
+      "title": "Virusplot: a web server for viral integration analysis and visualization",
       "pubmed_id": "40046621",
       "pmc_id": "PMC11880266",
       "year": "2025",
-      "journal": "15:1539782",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Hu E, An J, Gersten AJ, Wu N, Kawachi N, Zhu J, Rosenblatt G, Augustine S, Smith RV, Segall JE, Ostrer H, Amelio AL, Chung CH, Prystowsky MB, Ow TJ, Deng W, Yin S",
+      "journal": "Front Oncol"
     },
     {
-      "title": "Kim SG, Tasoulas J, Sheth S, Yarbrough WG, Hackman T, Amelio AL, Sullivan CB. The Role of Immunotherapy in Salivary Gland Cancer: A Systematic Review. Ear Nose Throat J",
+      "title": "The Role of Immunotherapy in Salivary Gland Cancer: A Systematic Review",
       "pubmed_id": "40018983",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Kim SG, Tasoulas J, Sheth S, Yarbrough WG, Hackman T, Amelio AL, Sullivan CB",
+      "journal": "Ear Nose Throat J"
     },
     {
-      "title": "Musicant AM, Billington JMR, Damrauer JS, Modliszewski JL, Landau LJB, Tsai YH, Mehta JH, Powers J, Betancourt R, Sekhri R, Padilla RJ, Hernandez-Prera JC, Hayes DN, Hackman TG, Gokcumen O, Knox SM, Amelio AL. Correction: An FGFR-p53 developmental signaling axis drives salivary cancer progression. Oncogene",
+      "title": "Correction: An FGFR-p53 developmental signaling axis drives salivary cancer progression",
       "pubmed_id": "40542202",
       "year": "2025",
-      "journal": "44(32):2924",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Musicant AM, Billington JMR, Damrauer JS, Modliszewski JL, Landau LJB, Tsai YH, Mehta JH, Powers J, Betancourt R, Sekhri R, Padilla RJ, Hernandez-Prera JC, Hayes DN, Hackman TG, Gokcumen O, Knox SM, Amelio AL",
+      "journal": "Oncogene"
     },
     {
-      "title": "Musicant AM, Billington JMR, Damrauer JS, Modliszewski JL, Landuau LJB, Tsai YH, Mehta JH, Powers J, Betancourt R, Sekhri R, Padilla RJ, Hernandez-Prera JC, Hayes DN, Hackman TG, Gokcumen O, Knox SM, Amelio AL. An FGFR-p53 developmental signaling axis drives salivary cancer progression. Oncogene",
+      "title": "An FGFR-p53 developmental signaling axis drives salivary cancer progression",
       "pubmed_id": "40456865",
       "year": "2025",
-      "journal": "44(32):2876-2892",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Musicant AM, Billington JMR, Damrauer JS, Modliszewski JL, Landuau LJB, Tsai YH, Mehta JH, Powers J, Betancourt R, Sekhri R, Padilla RJ, Hernandez-Prera JC, Hayes DN, Hackman TG, Gokcumen O, Knox SM, Amelio AL",
+      "journal": "Oncogene"
     },
     {
-      "title": "Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. NPJ Syst Biol Appl",
+      "title": "Spatial interactions modulate tumor growth and immune infiltration",
       "pubmed_id": "39349537",
       "pmc_id": "PMC11442770",
       "year": "2024",
-      "journal": "10(1):106",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J",
+      "journal": "NPJ Syst Biol Appl"
     },
     {
-      "title": "Labra B, Parag-Sharma K, Powers JJ, Srivastava S, Walker JR, Kirkland TA, Brennan CK, Prescher JA, Amelio AL. Optimized in vivo multispectral bioluminescent imaging of tumor biology using engineered BRET reporters. iScience",
+      "title": "Optimized in vivo multispectral bioluminescent imaging of tumor biology using engineered BRET reporters",
       "pubmed_id": "39252965",
       "pmc_id": "PMC11381837",
       "year": "2024",
-      "journal": "27(9):110655",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Labra B, Parag-Sharma K, Powers JJ, Srivastava S, Walker JR, Kirkland TA, Brennan CK, Prescher JA, Amelio AL",
+      "journal": "iScience"
     },
     {
-      "title": "Whately KM, Sengottuvel N, Edatt L, Srivastava S, Woods AT, Tsai YS, Porrello A, Zimmerman MP, Chack AC, Jefferys SR, Yacovone G, Kim DJ, Dudley AC, Amelio AL, Pecot CV. Spon1+ inflammatory monocytes promote collagen remodeling and lung cancer metastasis through lipoprotein receptor 8 signaling. JCI Insight",
+      "title": "Spon1+ inflammatory monocytes promote collagen remodeling and lung cancer metastasis through lipoprotein receptor 8 signaling",
       "pubmed_id": "38716730",
       "pmc_id": "PMC11141919",
       "year": "2024",
-      "journal": "9(9)",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Whately KM, Sengottuvel N, Edatt L, Srivastava S, Woods AT, Tsai YS, Porrello A, Zimmerman MP, Chack AC, Jefferys SR, Yacovone G, Kim DJ, Dudley AC, Amelio AL, Pecot CV",
+      "journal": "JCI Insight"
     }
   ],
   "grants": [
     {
-      "description": "Title: Molecular Characterization of the Salivary Adenoid Cystic Carcinoma Tumor Immune Landscape by Anatomic Subsite  \nAward Number:   \nSponsor: ADENOID CYSTIC CARCINOMA RSCH  \nAmelio, A. (PD/PI)"
+      "description": "Title: Molecular Characterization of the Salivary Adenoid Cystic Carcinoma Tumor Immune Landscape by Anatomic Subsite  \nAward Number:   \nSponsor: ADENOID CYSTIC CARCINOMA RSCH  \nAmelio, A. (PD/PI)",
+      "title": "Molecular Characterization of the Salivary Adenoid Cystic Carcinoma Tumor Immune Landscape by Anatomic Subsite",
+      "award_number": "",
+      "sponsor": "ADENOID CYSTIC CARCINOMA RSCH",
+      "investigators": [
+        {
+          "name": "Amelio, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Evaluation of TP53 mutations and gene fusions as a prognostic biomarker in salivary cancers (NRG-RTOG 1008)  \nAward Number: 3U10CA180868-11S1  \nSponsor: National Cancer Institute (NCI)  \nAmelio, A. (PD/PI)",
+      "title": "Evaluation of TP53 mutations and gene fusions as a prognostic biomarker in salivary cancers (NRG-RTOG 1008)",
+      "award_number": "3U10CA180868-11S1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0868-11"
+      "investigators": [
+        {
+          "name": "Amelio, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Role of CRTC1-MAML2 in Salivary Mucoepidermoid Carcinoma Pathobiology  \nAward Number: 5R01DE030123-06  \nSponsor: National Institute of Dental and Craniofacial Research (NIDCR)  \nAmelio, A. (PD/PI)",
-      "period": "0123-06"
+      "title": "Role of CRTC1-MAML2 in Salivary Mucoepidermoid Carcinoma Pathobiology",
+      "award_number": "5R01DE030123-06",
+      "sponsor": "National Institute of Dental and Craniofacial Research (NIDCR)",
+      "investigators": [
+        {
+          "name": "Amelio, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Dissecting Tumor-Immune Interactions in HIV-HPV Co-Infection-Associated Oropharyngeal Cancer using Single Cell Sequencing and Novel Mouse Models  \nAward Number: R01CA291607  \nSponsor: National Cancer Institute (NCI)  \nAmelio, A. (PD/PI)",
-      "source": "NCI"
+      "title": "Dissecting Tumor-Immune Interactions in HIV-HPV Co-Infection-Associated Oropharyngeal Cancer using Single Cell Sequencing and Novel Mouse Models",
+      "award_number": "R01CA291607",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Amelio, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Biomarker Approach to Screening for the early detection of HPV-related Oropharyngeal Cancer (BASH OPC)  \nAward Number: 5U01DE033329-03  \nSponsor: National Institute of Dental and Craniofacial Research (NIDCR)  \nAmelio, A. (PD/PI), Giuliano, A. (PD/PI)",
-      "period": "3329-03"
+      "title": "Biomarker Approach to Screening for the early detection of HPV-related Oropharyngeal Cancer (BASH OPC)",
+      "award_number": "5U01DE033329-03",
+      "sponsor": "National Institute of Dental and Craniofacial Research (NIDCR)",
+      "investigators": [
+        {
+          "name": "Amelio, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Giuliano, A.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AmelioAntonio_32357.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32357"
   },
-  "content_hash": "a69e86ac8dfb2800bd34a913daa28425456a7cde1bce3e6b1c75e10749ba19cb",
+  "content_hash": "bd162709ca478a917adb9a081f884f229d59a61618b14faffa7968459a8a74ea",
   "researcher_name": "Antonio Amelio",
   "department": "Tumor Microenvironment and Metastasis"
 }

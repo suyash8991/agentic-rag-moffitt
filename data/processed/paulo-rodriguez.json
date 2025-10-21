@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/paulo-rodriguez",
-  "last_updated": "2025-10-19T00:30:30.152106",
+  "last_updated": "2025-10-21T16:39:35.703277",
   "researcher_id": "19146",
   "degrees": [
     "PhD"
@@ -36,102 +36,139 @@
   ],
   "publications": [
     {
-      "title": "Hwang SM, Chang S, Rodriguez PC, Cubillos-Ruiz JR. Endoplasmic reticulum stress responses in anticancer immunity. Nat Rev Cancer",
+      "title": "Endoplasmic reticulum stress responses in anticancer immunity",
       "pubmed_id": "40555746",
       "pmc_id": "PMC12486299",
       "year": "2025",
-      "journal": "25(9):684-702",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Hwang SM, Chang S, Rodriguez PC, Cubillos-Ruiz JR",
+      "journal": "Nat Rev Cancer"
     },
     {
-      "title": "Perez DH, Antfolk D, Chang S, Bustos XE, Medina E, Ramadan AA, Gonzalez-Perez D, Abate-Daga D, Rodriguez PC, Luca VC. Engineering synthetic agonists for targeted activation of Notch signaling. Nat Chem Biol",
+      "title": "Engineering synthetic agonists for targeted activation of Notch signaling",
       "pubmed_id": "40993428",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Perez DH, Antfolk D, Chang S, Bustos XE, Medina E, Ramadan AA, Gonzalez-Perez D, Abate-Daga D, Rodriguez PC, Luca VC",
+      "journal": "Nat Chem Biol"
     },
     {
-      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
+      "title": "Lymphoma accelerates T cell and tissue aging",
       "pubmed_id": "40845845",
       "year": "2025",
-      "journal": "43(10):1917-1936",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Gamal W, Goedhart NB, Simon-Molas H, Mediavilla-Varela M, Uriepero-Palma A, Peters FS, Maharaj K, Chavez JC, Powers JJ, Obermayer A, Shaw TI, Conejo-Garcia JR, Rodriguez PC, Sahakian E, Pinilla-Ibarz J, Kater AP. Mitigating T-cell mitochondrial dysfunction in CLL to augment CAR T-cell therapy: evaluation in an immunocompetent model. Blood Adv",
+      "title": "Mitigating T-cell mitochondrial dysfunction in CLL to augment CAR T-cell therapy: evaluation in an immunocompetent model",
       "pubmed_id": "39938006",
       "pmc_id": "PMC12148389",
       "year": "2025",
-      "journal": "9(10):2511-2529",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Gamal W, Goedhart NB, Simon-Molas H, Mediavilla-Varela M, Uriepero-Palma A, Peters FS, Maharaj K, Chavez JC, Powers JJ, Obermayer A, Shaw TI, Conejo-Garcia JR, Rodriguez PC, Sahakian E, Pinilla-Ibarz J, Kater AP",
+      "journal": "Blood Adv"
     },
     {
-      "title": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J. CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma. Res Sq",
+      "title": "CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma",
       "pubmed_id": "40235478",
       "pmc_id": "PMC11998770",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J",
+      "journal": "Res Sq"
     },
     {
-      "title": "Ugolini A, De Leo A, Yu X, Scirocchi F, Liu X, Peixoto B, Scocozza D, Pace A, Perego M, Gardini A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F. Functional Reprogramming of Neutrophils within the Brain Tumor Microenvironment by Hypoxia-Driven Histone Lactylation. Cancer Discov",
-      "pubmed_id": "40014923",
-      "pmc_id": "PMC12133432",
-      "year": "2025",
-      "journal": "15(6):1270-1296",
-      "authors": ""
-    },
-    {
-      "title": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S. Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors. Cancer Res",
+      "title": "Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors",
       "pubmed_id": "40287947",
       "pmc_id": "PMC12167936",
       "year": "2025",
-      "journal": "85(12):2268-2287",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Gallagher K, Sousa RS, Gatenbee C, Schenck R, Chen P, Citak T, Leither S, Mazzacurati L, Xella A, Zhou Z, Lemanne D, Rodriguez P, George E, Strobl MAR. Controlling treatment toxicity in ovarian cancer to prime the patient for tumor extinction therapy. bioRxiv",
-      "pubmed_id": "40791474",
-      "pmc_id": "PMC12338546",
+      "title": "Functional Reprogramming of Neutrophils within the Brain Tumor Microenvironment by Hypoxia-Driven Histone Lactylation",
+      "pubmed_id": "40014923",
+      "pmc_id": "PMC12133432",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Ugolini A, De Leo A, Yu X, Scirocchi F, Liu X, Peixoto B, Scocozza D, Pace A, Perego M, Gardini A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F",
+      "journal": "Cancer Discov"
     },
     {
-      "title": "Yu X, Jain MD, Menges MA, Cen L, Noble JD, Atkins R, Mohammad TJ, Bachmeier CA, Naderinezhad S, Reid K, Corallo S, Yoder SJ, Zhang C, Zhang L, Miranda JA, Shah B, Chavez JC, Hesterberg RS, Delgado LC, Savid-Frontera C, Rodriguez PC, Cleveland JL, Wang X, Davila ML, Locke FL. Comparison of axicabtagene ciloleucel and tisagenlecleucel patient CAR-T cell products by single-cell RNA sequencing. J Immunother Cancer",
+      "title": "Comparison of axicabtagene ciloleucel and tisagenlecleucel patient CAR-T cell products by single-cell RNA sequencing",
       "pubmed_id": "40730421",
       "pmc_id": "PMC12306477",
       "year": "2025",
-      "journal": "13(7)",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Yu X, Jain MD, Menges MA, Cen L, Noble JD, Atkins R, Mohammad TJ, Bachmeier CA, Naderinezhad S, Reid K, Corallo S, Yoder SJ, Zhang C, Zhang L, Miranda JA, Shah B, Chavez JC, Hesterberg RS, Delgado LC, Savid-Frontera C, Rodriguez PC, Cleveland JL, Wang X, Davila ML, Locke FL",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR. Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial. Nat Med",
+      "title": "Controlling treatment toxicity in ovarian cancer to prime the patient for tumor extinction therapy",
+      "pubmed_id": "40791474",
+      "pmc_id": "PMC12338546",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Gallagher K, Sousa RS, Gatenbee C, Schenck R, Chen P, Citak T, Leither S, Mazzacurati L, Xella A, Zhou Z, Lemanne D, Rodriguez P, George E, Strobl MAR",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial",
       "pubmed_id": "39521884",
       "year": "2025",
-      "journal": "31(1):176-188",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR",
+      "journal": "Nat Med"
     }
   ],
   "grants": [
     {
       "description": "Title: Bile acids restrict functional reprogramming of myeloid-derived suppressor cells in tumor beds  \nAward Number: 5R01CA262121-02  \nSponsor: National Cancer Institute (NCI)  \nRodriguez, P. (PD/PI)",
+      "title": "Bile acids restrict functional reprogramming of myeloid-derived suppressor cells in tumor beds",
+      "award_number": "5R01CA262121-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2121-02"
+      "investigators": [
+        {
+          "name": "Rodriguez, P.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Plant-derived extracts regulate immunosuppressive myelopoiesis in Breast cancer patients  \nAward Number: 3R01CA262121-02S1  \nSponsor: National Cancer Institute (NCI)  \nRodriguez, P. (PD/PI)",
+      "title": "Plant-derived extracts regulate immunosuppressive myelopoiesis in Breast cancer patients",
+      "award_number": "3R01CA262121-02S1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2121-02"
+      "investigators": [
+        {
+          "name": "Rodriguez, P.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Mitochondrial stress promotes immunosuppressive potential of myeloid subsets in tumors  \nAward Number: 1R01CA273034-01  \nSponsor: National Cancer Institute (NCI)  \nRodriguez, P. (PD/PI)",
+      "title": "Mitochondrial stress promotes immunosuppressive potential of myeloid subsets in tumors",
+      "award_number": "1R01CA273034-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "3034-01"
+      "investigators": [
+        {
+          "name": "Rodriguez, P.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/RodriguezPaulo_19146.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19146"
   },
-  "content_hash": "dd8a85559bc0e0207411c1f866559d42e3ab43e4dce71bbb78f42d8388f2116a",
+  "content_hash": "6fc7196f7d838aa2907c55db8e44d1572ae09bbea18099dff793bee615b8529e",
   "researcher_name": "Paulo Rodriguez",
   "department": "Immunology"
 }

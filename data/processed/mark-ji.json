@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mark-ji",
-  "last_updated": "2025-10-19T00:28:01.211318",
+  "last_updated": "2025-10-21T16:37:04.895264",
   "researcher_id": "17534",
   "degrees": [
     "PhD"
@@ -30,100 +30,148 @@
   ],
   "publications": [
     {
-      "title": "Kell SR, Wang Z, Ji H. Fragment hopping protocol for the design of small-molecule protein-protein interaction inhibitors. Bioorg Med Chem",
+      "title": "Fragment hopping protocol for the design of small-molecule protein-protein interaction inhibitors",
       "pubmed_id": "35749838",
       "year": "2022",
-      "journal": "69:116879",
-      "authors": ""
+      "publication_date": "2022 Sep",
+      "authors": "Kell SR, Wang Z, Ji H",
+      "journal": "Bioorg Med Chem"
     },
     {
-      "title": "Kell SR, Wang Z, Ji H. Common Structural Features of Hydrophobic \u03b1-Helical Hot Spots: Insights for the Design of Novel \u03b1-Helix Mimetics. ACS Med Chem Lett",
+      "title": "Common Structural Features of Hydrophobic \u03b1-Helical Hot Spots: Insights for the Design of Novel \u03b1-Helix Mimetics",
       "pubmed_id": "36262397",
       "pmc_id": "PMC9575182",
       "year": "2022",
-      "journal": "13(10):1670-1677",
-      "authors": ""
+      "publication_date": "2022 Oct",
+      "authors": "Kell SR, Wang Z, Ji H",
+      "journal": "ACS Med Chem Lett"
     },
     {
-      "title": "Wang Z, Zhang M, Thompson HM, Ji H. New ZW4864 Derivatives as Small-Molecule Inhibitors for the \u03b2-Catenin/BCL9 Protein-Protein Interaction. ACS Med Chem Lett",
+      "title": "New ZW4864 Derivatives as Small-Molecule Inhibitors for the \u03b2-Catenin/BCL9 Protein-Protein Interaction",
       "pubmed_id": "35586435",
       "pmc_id": "PMC9109161",
       "year": "2022",
-      "journal": "13(5):865-870",
-      "authors": ""
+      "publication_date": "2022 May",
+      "authors": "Wang Z, Zhang M, Thompson HM, Ji H",
+      "journal": "ACS Med Chem Lett"
     },
     {
-      "title": "Wang Z, Ji H. Characterization of Hydrophilic \u03b1-Helical Hot Spots on the Protein-Protein Interaction Interfaces for the Design of \u03b1-Helix Mimetics. J Chem Inf Model",
+      "title": "Characterization of Hydrophilic \u03b1-Helical Hot Spots on the Protein-Protein Interaction Interfaces for the Design of \u03b1-Helix Mimetics",
       "pubmed_id": "35385659",
       "year": "2022",
-      "journal": "62(8):1873-1890",
-      "authors": ""
+      "publication_date": "2022 Apr",
+      "authors": "Wang Z, Ji H",
+      "journal": "J Chem Inf Model"
     },
     {
-      "title": "Tafreshi NK, Pandya DN, Tichacek CJ, Budzevich MM, Wang Z, Reff JN, Engelman RW, Boulware DC, Chiappori AA, Strosberg JR, Ji H, Wadas TJ, El-Haddad G, Morse DL. Preclinical evaluation of [225Ac]Ac-DOTA-TATE for treatment of lung neuroendocrine neoplasms. Eur J Nucl Med Mol Imaging",
+      "title": "Preclinical evaluation of [225Ac]Ac-DOTA-TATE for treatment of lung neuroendocrine neoplasms",
       "pubmed_id": "33772332",
       "year": "2021",
-      "journal": "48(11):3408-3421",
-      "authors": ""
+      "publication_date": "2021 Oct",
+      "authors": "Tafreshi NK, Pandya DN, Tichacek CJ, Budzevich MM, Wang Z, Reff JN, Engelman RW, Boulware DC, Chiappori AA, Strosberg JR, Ji H, Wadas TJ, El-Haddad G, Morse DL",
+      "journal": "Eur J Nucl Med Mol Imaging"
     },
     {
-      "title": "Xiao T, Sun L, Zhang M, Li Z, Haura EB, Schonbrunn E, Ji H. Synthesis and structural characterization of a monocarboxylic inhibitor for GRB2 SH2 domain. Bioorg Med Chem Lett",
+      "title": "Synthesis and structural characterization of a monocarboxylic inhibitor for GRB2 SH2 domain",
       "pubmed_id": "34506932",
       "pmc_id": "PMC8526398",
       "year": "2021",
-      "journal": "51:128354",
-      "authors": ""
+      "publication_date": "2021 Nov",
+      "authors": "Xiao T, Sun L, Zhang M, Li Z, Haura EB, Schonbrunn E, Ji H",
+      "journal": "Bioorg Med Chem Lett"
     },
     {
-      "title": "Wang Z, Zhang M, Luo W, Zhang Y, Ji H. Discovery of 2-(3-(3-Carbamoylpiperidin-1-yl)phenoxy)acetic Acid Derivatives as Novel Small-Molecule Inhibitors of the \u03b2-Catenin/B-Cell Lymphoma 9 Protein-Protein Interaction. J Med Chem",
+      "title": "Discovery of 2-(3-(3-Carbamoylpiperidin-1-yl)phenoxy)acetic Acid Derivatives as Novel Small-Molecule Inhibitors of the \u03b2-Catenin/B-Cell Lymphoma 9 Protein-Protein Interaction",
       "pubmed_id": "33902288",
       "year": "2021",
-      "journal": "64(9):5886-5904",
-      "authors": ""
+      "publication_date": "2021 May",
+      "authors": "Wang Z, Zhang M, Luo W, Zhang Y, Ji H",
+      "journal": "J Med Chem"
     },
     {
-      "title": "Wang Z, Li Z, Ji H. Direct targeting of \u03b2-catenin in the Wnt signaling pathway: Current progress and perspectives. Med Res Rev",
+      "title": "Direct targeting of \u03b2-catenin in the Wnt signaling pathway: Current progress and perspectives",
       "pubmed_id": "33475177",
       "pmc_id": "PMC8217106",
       "year": "2021",
-      "journal": "41(4):2109-2129",
-      "authors": ""
+      "publication_date": "2021 Jul",
+      "authors": "Wang Z, Li Z, Ji H",
+      "journal": "Med Res Rev"
     },
     {
-      "title": "Li Z, Zhang M, Teuscher KB, Ji H. Discovery of 1-Benzoyl 4-Phenoxypiperidines as Small-Molecule Inhibitors of the \u03b2-Catenin/B-Cell Lymphoma 9 Protein-Protein Interaction. J Med Chem",
+      "title": "Discovery of 1-Benzoyl 4-Phenoxypiperidines as Small-Molecule Inhibitors of the \u03b2-Catenin/B-Cell Lymphoma 9 Protein-Protein Interaction",
       "pubmed_id": "34270257",
       "year": "2021",
-      "journal": "64(15):11195-11218",
-      "authors": ""
+      "publication_date": "2021 Aug",
+      "authors": "Li Z, Zhang M, Teuscher KB, Ji H",
+      "journal": "J Med Chem"
     },
     {
-      "title": "Wang Z, Zhang M, Quereda V, Frydman SM, Ming Q, Luca VC, Duckett DR, Ji H. Discovery of an Orally Bioavailable Small-Molecule Inhibitor for the \u03b2-Catenin/B-Cell Lymphoma 9 Protein-Protein Interaction. J Med Chem",
+      "title": "Discovery of an Orally Bioavailable Small-Molecule Inhibitor for the \u03b2-Catenin/B-Cell Lymphoma 9 Protein-Protein Interaction",
       "pubmed_id": "34382808",
       "pmc_id": "PMC8817233",
       "year": "2021",
-      "journal": "64(16):12109-12131",
-      "authors": ""
+      "publication_date": "2021 Aug",
+      "authors": "Wang Z, Zhang M, Quereda V, Frydman SM, Ming Q, Luca VC, Duckett DR, Ji H",
+      "journal": "J Med Chem"
     }
   ],
   "grants": [
     {
-      "description": "Title: Developing a First-in-Class -Catenin/BCL9 PPI Inhibitor  \nAward Number: 21-0038-S1, Work Plan No. 1, Amendment 2  \nSponsor: BAYFIELD THERAPEUTICS, LLC  \nJi, H. (PD/PI), Duckett, D. (Co-PD/PI)"
+      "description": "Title: Developing a First-in-Class -Catenin/BCL9 PPI Inhibitor  \nAward Number: 21-0038-S1, Work Plan No. 1, Amendment 2  \nSponsor: BAYFIELD THERAPEUTICS, LLC  \nJi, H. (PD/PI), Duckett, D. (Co-PD/PI)",
+      "title": "Developing a First-in-Class -Catenin/BCL9 PPI Inhibitor",
+      "award_number": "21-0038-S1, Work Plan No. 1, Amendment 2",
+      "sponsor": "BAYFIELD THERAPEUTICS, LLC",
+      "investigators": [
+        {
+          "name": "Ji, H.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Duckett, D.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Developing GRB2-PROTACs for Treatment of Lung Cancer  \nAward Number: 1R21CA267283-02  \nSponsor: National Cancer Institute (NCI)  \nJi, H. (PD/PI)",
+      "title": "Developing GRB2-PROTACs for Treatment of Lung Cancer",
+      "award_number": "1R21CA267283-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "7283-02"
+      "investigators": [
+        {
+          "name": "Ji, H.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Orexin receptor agonist discovery for development of colon cancer targeted alpha particle therapy  \nAward Number: NA  \nSponsor: Foundation Support-Rsch  \nDuckett, D. (PD/PI), Ji, H. (PD/PI), Morse, D. (PD/PI)",
-      "source": "Foundation"
+      "title": "Orexin receptor agonist discovery for development of colon cancer targeted alpha particle therapy",
+      "award_number": "NA",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Ji, H.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Morse, D.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JiMark_17534.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17534"
   },
-  "content_hash": "d8971c07a209926871625f98a32ceb1cc7967b5d1c8c188149bf4a51c33c5de8",
+  "content_hash": "7e0ccb6507484c6b0ef23426142ee77854f3e0c877220075226094bfe4827c0f",
   "researcher_name": "Mark Ji",
   "department": "Drug Discovery"
 }

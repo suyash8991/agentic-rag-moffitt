@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mingxiang-teng",
-  "last_updated": "2025-10-19T00:24:08.723520",
+  "last_updated": "2025-10-21T16:33:11.060632",
   "researcher_id": "22424",
   "degrees": [
     "PhD"
@@ -34,107 +34,163 @@
   ],
   "publications": [
     {
-      "title": "Shepard A, Lester DK, Troutman S, Hoxha S, Khaled WT, Smith ESJ, Park TJ, Buffenstein R, Du D, Teng M, Dengler-Crish CM, Tsai KY, Flores ER, Ventura A, Kissil JL. An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat. Cancer Discov",
+      "title": "An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat",
       "pubmed_id": "40920097",
       "pmc_id": "PMC12486303",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Shepard A, Lester DK, Troutman S, Hoxha S, Khaled WT, Smith ESJ, Park TJ, Buffenstein R, Du D, Teng M, Dengler-Crish CM, Tsai KY, Flores ER, Ventura A, Kissil JL",
+      "journal": "Cancer Discov"
     },
     {
-      "title": "Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N. Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes. medRxiv",
+      "title": "Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes",
       "pubmed_id": "40950448",
       "pmc_id": "PMC12424905",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N",
+      "journal": "medRxiv"
     },
     {
-      "title": "Wang H, Mou Z, Yeo YY, Ge Q, Liu X, Narita Y, Li Z, Wang C, Li W, Zhao KR, Li J, Bu W, Gewurz B, Cohen JI, Teng M, Dai X, Liu X, Jiang S, Zhao B. Epstein-Barr virus exploits desmocollin 2 as the principal epithelial cell entry receptor. Nat Microbiol",
+      "title": "Epstein-Barr virus exploits desmocollin 2 as the principal epithelial cell entry receptor",
       "pubmed_id": "41006833",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Wang H, Mou Z, Yeo YY, Ge Q, Liu X, Narita Y, Li Z, Wang C, Li W, Zhao KR, Li J, Bu W, Gewurz B, Cohen JI, Teng M, Dai X, Liu X, Jiang S, Zhao B",
+      "journal": "Nat Microbiol"
     },
     {
-      "title": "Liu X, Tang YH, Blachly J, Edge S, Jakubek YA, McCarter M, Naqash AR, Nepple KG, Osman A, Reilley MJ, Riedlinger G, Salhia B, Schneider BP, Shriver C, Churchman ML, Rounbehler RJ, Teer JK, Gillis N, Teng M. qcCHIP: an R package to identify clonal hematopoiesis variants using cohort-specific data characteristics. Bioinformatics",
+      "title": "qcCHIP: an R package to identify clonal hematopoiesis variants using cohort-specific data characteristics",
       "pubmed_id": "40973027",
       "pmc_id": "PMC12466928",
       "year": "2025",
-      "journal": "41(9)",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Liu X, Tang YH, Blachly J, Edge S, Jakubek YA, McCarter M, Naqash AR, Nepple KG, Osman A, Reilley MJ, Riedlinger G, Salhia B, Schneider BP, Shriver C, Churchman ML, Rounbehler RJ, Teer JK, Gillis N, Teng M",
+      "journal": "Bioinformatics"
     },
     {
-      "title": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J. PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo. Mol Cancer Ther",
+      "title": "PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo",
       "pubmed_id": "40376796",
       "year": "2025",
-      "journal": "OF1-OF10",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J",
+      "journal": "Mol Cancer Ther"
     },
     {
-      "title": "Colin-Leitzinger C, Tang YH, Teng M, Gillis N. Peripheral blood somatic mosaicism and clonal hematopoiesis across ancestry backgrounds. medRxiv",
+      "title": "Peripheral blood somatic mosaicism and clonal hematopoiesis across ancestry backgrounds",
       "pubmed_id": "40166537",
       "pmc_id": "PMC11957158",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Colin-Leitzinger C, Tang YH, Teng M, Gillis N",
+      "journal": "medRxiv"
     },
     {
-      "title": "Wang C, Leong MM, Ding W, Narita Y, Liu X, Wang H, Yiu SPT, Lee J, Zhao KRS, Cui A, Gewurz B, Hammerschmidt W, Teng M, Zhao B. Viral oncogene EBNALP regulates YY1 DNA binding and alters host 3D genome organization. EMBO Rep",
+      "title": "Viral oncogene EBNALP regulates YY1 DNA binding and alters host 3D genome organization",
       "pubmed_id": "39747661",
       "pmc_id": "PMC11811279",
       "year": "2025",
-      "journal": "26(3):810-835",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Wang C, Leong MM, Ding W, Narita Y, Liu X, Wang H, Yiu SPT, Lee J, Zhao KRS, Cui A, Gewurz B, Hammerschmidt W, Teng M, Zhao B",
+      "journal": "EMBO Rep"
     },
     {
-      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "title": "ShinyEvents: harmonizing longitudinal data for real world survival estimation",
       "pubmed_id": "40799741",
       "pmc_id": "PMC12340904",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI",
+      "journal": "Res Sq"
     },
     {
-      "title": "Renatino Canevarolo R, Sudalagunta PR, Meads MB, Silva M, Zhao X, Magaletti D, Alugubelli RR, DeAvila G, Persi E, Maura F, Bell ET, Bishop RT, Cubitt CL, Sansil SS, Zhang W, Teer JK, Teng M, Yoder SJ, Siegel EM, Shah BD, Nishihori T, Hazlehurst LA, Lynch CC, Landgren O, Hampton O, Gatenby RA, Sullivan DM, Brayer JB, Dalton WS, Cleveland JL, Alsina M, Baz R, Shain KH, Silva AS. Epigenetic Plasticity Drives Carcinogenesis and Multi-Therapy Resistance in Multiple Myeloma. Res Sq",
+      "title": "Epigenetic Plasticity Drives Carcinogenesis and Multi-Therapy Resistance in Multiple Myeloma",
       "pubmed_id": "40321765",
       "pmc_id": "PMC12048002",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Renatino Canevarolo R, Sudalagunta PR, Meads MB, Silva M, Zhao X, Magaletti D, Alugubelli RR, DeAvila G, Persi E, Maura F, Bell ET, Bishop RT, Cubitt CL, Sansil SS, Zhang W, Teer JK, Teng M, Yoder SJ, Siegel EM, Shah BD, Nishihori T, Hazlehurst LA, Lynch CC, Landgren O, Hampton O, Gatenby RA, Sullivan DM, Brayer JB, Dalton WS, Cleveland JL, Alsina M, Baz R, Shain KH, Silva AS",
+      "journal": "Res Sq"
     },
     {
-      "title": "Gillis N, Dickey BL, Colin-Leitzinger C, Tang YH, Putney RM, Mesa TE, Yoder SJ, Suneja G, Spivak AM, Patel AB, Extermann M, Giuliano AR, Teng M, Kresovich J, Berglund A, Coghill AE. Clonal Hematopoiesis in Patients With Human Immunodeficiency Virus and Cancer. J Infect Dis",
+      "title": "Clonal Hematopoiesis in Patients With Human Immunodeficiency Virus and Cancer",
       "pubmed_id": "38657098",
       "year": "2024",
-      "journal": "230(3):680-688",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Gillis N, Dickey BL, Colin-Leitzinger C, Tang YH, Putney RM, Mesa TE, Yoder SJ, Suneja G, Spivak AM, Patel AB, Extermann M, Giuliano AR, Teng M, Kresovich J, Berglund A, Coghill AE",
+      "journal": "J Infect Dis"
     }
   ],
   "grants": [
     {
       "description": "Title: Cdk13 function in heart development and congenital heart disease  \nAward Number: 1R01HL177546-01A1  \nSponsor: National Institutes of Health (NIH)  \nTeng, M. (PD/PI)",
+      "title": "Cdk13 function in heart development and congenital heart disease",
+      "award_number": "1R01HL177546-01A1",
+      "sponsor": "National Institutes of Health (NIH)",
       "source": "NIH",
-      "period": "7546-01"
+      "investigators": [
+        {
+          "name": "Teng, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Epstein-Barr virus LMP1 mediated oncogenicity  \nAward Number: 2R01CA228700-06A1  \nSponsor: National Cancer Institute (NCI)  \nTeng, M. (PD/PI)",
+      "title": "Epstein-Barr virus LMP1 mediated oncogenicity",
+      "award_number": "2R01CA228700-06A1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "8700-06"
+      "investigators": [
+        {
+          "name": "Teng, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Integrative Analysis to Identify Genomic Biomarkers in HPV Positive Oral Cancer  \nAward Number: 5R03DE030580-02  \nSponsor: National Institutes of Health (NIH)  \nTeng, M. (PD/PI)",
+      "title": "Integrative Analysis to Identify Genomic Biomarkers in HPV Positive Oral Cancer",
+      "award_number": "5R03DE030580-02",
+      "sponsor": "National Institutes of Health (NIH)",
       "source": "NIH",
-      "period": "0580-02"
+      "investigators": [
+        {
+          "name": "Teng, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Dissecting Enhancer Function Through Integrative Genomics  \nAward Number: 1R35GM155298-01  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nTeng, M. (PD/PI)",
-      "period": "5298-01"
+      "title": "Dissecting Enhancer Function Through Integrative Genomics",
+      "award_number": "1R35GM155298-01",
+      "sponsor": "National Institute of General Medical Sciences (NIGMS)",
+      "investigators": [
+        {
+          "name": "Teng, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Epstein-Barr Virus Driven Tonsillar Versus Peripheral B-cell One-Carbon Metabolic Network Remodeling  \nAward Number: 1R01DE033907-01  \nSponsor: National Institute of Dental and Craniofacial Research (NIDCR)  \nTeng, M. (PD/PI)",
-      "period": "3907-01"
+      "title": "Epstein-Barr Virus Driven Tonsillar Versus Peripheral B-cell One-Carbon Metabolic Network Remodeling",
+      "award_number": "1R01DE033907-01",
+      "sponsor": "National Institute of Dental and Craniofacial Research (NIDCR)",
+      "investigators": [
+        {
+          "name": "Teng, M.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TengMingxiang_22424.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22424"
   },
-  "content_hash": "0619762e185ea77d0dc2b1f3094913ac4330e3747d8d40169f3dcbe9c5211ec5",
+  "content_hash": "29d6fa9b18274c30fa06676a316c6ab4f436aea98b87ac52e54e3944ace6abe3",
   "researcher_name": "Mingxiang Teng",
   "department": "Biostatistics and Bioinformatics"
 }

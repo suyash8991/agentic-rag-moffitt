@@ -7,7 +7,6 @@ from the JSON files in the processed directory.
 
 import os
 import json
-import logging
 import hashlib
 from typing import List, Dict, Any, Optional, Generator, Tuple
 from pathlib import Path
@@ -15,13 +14,13 @@ from pathlib import Path
 from tqdm import tqdm
 from ..config.config import get_settings
 from .models import ResearcherProfile, ResearcherChunk
+from ..utils.logging import get_logger
 
 # Get settings
 settings = get_settings()
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Get logger for this module
+logger = get_logger(__name__)
 
 
 def load_researcher_profile(file_path: str) -> Optional[ResearcherProfile]:

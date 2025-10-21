@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/doug-cress",
-  "last_updated": "2025-10-19T00:25:32.864025",
+  "last_updated": "2025-10-21T16:34:37.583287",
   "researcher_id": "501",
   "degrees": [
     "PhD"
@@ -31,106 +31,164 @@
   ],
   "publications": [
     {
-      "title": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD. Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida. Cancer Res Commun",
+      "title": "Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida",
       "pubmed_id": "40309949",
       "pmc_id": "PMC12082392",
       "year": "2025",
-      "journal": "5(5):804-813",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD",
+      "journal": "Cancer Res Commun"
     },
     {
-      "title": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL. Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles. Cancer Res",
+      "title": "Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles",
       "pubmed_id": "40126181",
       "pmc_id": "PMC12234169",
       "year": "2025",
-      "journal": "85(10):1928-1944",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Garc\u00eda-Irizarry KD, Rojas-Brenes ME, Oliveras-Torres JA, Ortiz-Ortiz CN, Cress WD, Gordi\u00e1n E, Mart\u00ednez RG, Quintana-Gonz\u00e1lez FJ, Escobar-Rodr\u00edguez PF, Mu\u00f1oz-Antonia T, Flores I. Profiling Sociodemographic Risk Factors and Clinical Outcomes of Women with Endometrial Cancer in Puerto Rico: The Central Role of Obesity and Obstetric Features. J Racial Ethn Health Disparities",
+      "title": "Profiling Sociodemographic Risk Factors and Clinical Outcomes of Women with Endometrial Cancer in Puerto Rico: The Central Role of Obesity and Obstetric Features",
       "pubmed_id": "39833653",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Garc\u00eda-Irizarry KD, Rojas-Brenes ME, Oliveras-Torres JA, Ortiz-Ortiz CN, Cress WD, Gordi\u00e1n E, Mart\u00ednez RG, Quintana-Gonz\u00e1lez FJ, Escobar-Rodr\u00edguez PF, Mu\u00f1oz-Antonia T, Flores I",
+      "journal": "J Racial Ethn Health Disparities"
     },
     {
-      "title": "Schmit SL, Loro\u00f1a NC, Sobieski D, Matejcic M, Nguyen NT, Hoehn HJ, Diaz DB, Shankar K, Cockman EM, Jean-Baptiste E, Tsai YY, Buchalter RB, Brito K, Wilson R, Coppola D, Fulmer C, Saglam O, Tassielli AF, Beato F, Dai R, Freedman JA, Purrington K, Hu B, Mcgrail D, Gibson H, Jiang K, Mu\u00f1oz-Antonia T, Flores I, Gordian E, Oliveras Torres JA, Cheng I, Van Blarigan EL, Felder SI, Sanchez JA, Fleming JB, Siegel EM, Cress D, Thompson P, Stern MC, Teer JK, Figueiredo JC. Building research infrastructure to advance precision medicine in colorectal cancer. JNCI Cancer Spectr",
+      "title": "Building research infrastructure to advance precision medicine in colorectal cancer",
       "pubmed_id": "40111849",
       "pmc_id": "PMC12140009",
       "year": "2025",
-      "journal": "9(3)",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Schmit SL, Loro\u00f1a NC, Sobieski D, Matejcic M, Nguyen NT, Hoehn HJ, Diaz DB, Shankar K, Cockman EM, Jean-Baptiste E, Tsai YY, Buchalter RB, Brito K, Wilson R, Coppola D, Fulmer C, Saglam O, Tassielli AF, Beato F, Dai R, Freedman JA, Purrington K, Hu B, Mcgrail D, Gibson H, Jiang K, Mu\u00f1oz-Antonia T, Flores I, Gordian E, Oliveras Torres JA, Cheng I, Van Blarigan EL, Felder SI, Sanchez JA, Fleming JB, Siegel EM, Cress D, Thompson P, Stern MC, Teer JK, Figueiredo JC",
+      "journal": "JNCI Cancer Spectr"
     },
     {
-      "title": "Lantz AE, Gebert R, Li J, Oliveras JA, Gordi\u00e1n ER, Perez-Morales J, Eschrich S, Chen DT, Rosa M, Dutil J, Saavedra HI, Mu\u00f1oz-Antonia T, Flores I, Cress WD. Worse Clinical and Survival Outcomes in Breast Cancer Patients Living in Puerto Rico Compared to Hispanics, Non-Hispanic Blacks, and Non-Hispanic Whites from Florida. J Racial Ethn Health Disparities",
+      "title": "Worse Clinical and Survival Outcomes in Breast Cancer Patients Living in Puerto Rico Compared to Hispanics, Non-Hispanic Blacks, and Non-Hispanic Whites from Florida",
       "pubmed_id": "39543072",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Lantz AE, Gebert R, Li J, Oliveras JA, Gordi\u00e1n ER, Perez-Morales J, Eschrich S, Chen DT, Rosa M, Dutil J, Saavedra HI, Mu\u00f1oz-Antonia T, Flores I, Cress WD",
+      "journal": "J Racial Ethn Health Disparities"
     },
     {
-      "title": "Alhaddad H, Ospina OE, Khaled ML, Ren Y, Vallebuona E, Boozo MB, Forsyth PA, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I. Spatial transcriptomics analysis identifies a tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease. Cell Rep Med",
+      "title": "Spatial transcriptomics analysis identifies a tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease",
       "pubmed_id": "38866016",
       "pmc_id": "PMC11228800",
       "year": "2024",
-      "journal": "5(6):101606",
-      "authors": ""
+      "publication_date": "2024 Jun",
+      "authors": "Alhaddad H, Ospina OE, Khaled ML, Ren Y, Vallebuona E, Boozo MB, Forsyth PA, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I",
+      "journal": "Cell Rep Med"
     },
     {
-      "title": "Lockhart JH, Ackerman HD, Lee K, Abdalah M, Davis AJ, Hackel N, Boyle TA, Saller J, Keske A, H\u00e4nggi K, Ruffell B, Stringfield O, Cress WD, Tan AC, Flores ER. Grading of lung adenocarcinomas with simultaneous segmentation by artificial intelligence (GLASS-AI). NPJ Precis Oncol",
+      "title": "Grading of lung adenocarcinomas with simultaneous segmentation by artificial intelligence (GLASS-AI)",
       "pubmed_id": "37464050",
       "pmc_id": "PMC10354042",
       "year": "2023",
-      "journal": "7(1):68",
-      "authors": ""
+      "publication_date": "2023 Jul",
+      "authors": "Lockhart JH, Ackerman HD, Lee K, Abdalah M, Davis AJ, Hackel N, Boyle TA, Saller J, Keske A, H\u00e4nggi K, Ruffell B, Stringfield O, Cress WD, Tan AC, Flores ER",
+      "journal": "NPJ Precis Oncol"
     },
     {
-      "title": "Alhaddad H, Ospina OE, Khaled ML, Ren Y, Forsyth P, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I. Spatial transcriptomics analysis identifies a unique tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease. bioRxiv",
+      "title": "Spatial transcriptomics analysis identifies a unique tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease",
       "pubmed_id": "38187574",
       "pmc_id": "PMC10769278",
       "year": "2023",
-      "authors": ""
+      "publication_date": "2023 Dec",
+      "authors": "Alhaddad H, Ospina OE, Khaled ML, Ren Y, Forsyth P, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Trinh T, Adams WA, Calescibetta A, Tu N, Dalton R, So T, Wei M, Ward G, Kostenko E, Christiansen S, Cen L, McLemore A, Reed K, Whiting J, Gilvary D, Blanco NL, Segura CM, Nguyen J, Kandell W, Chen X, Cheng P, Wright GM, Cress WD, Liu J, Wright KL, Wei S, Eksioglu EA. CX3CR1 deficiency-induced TIL tumor restriction as a novel addition for CAR-T design in solid malignancies. iScience",
+      "title": "CX3CR1 deficiency-induced TIL tumor restriction as a novel addition for CAR-T design in solid malignancies",
       "pubmed_id": "37070068",
       "pmc_id": "PMC10105289",
       "year": "2023",
-      "journal": "26(4):106443",
-      "authors": ""
+      "publication_date": "2023 Apr",
+      "authors": "Trinh T, Adams WA, Calescibetta A, Tu N, Dalton R, So T, Wei M, Ward G, Kostenko E, Christiansen S, Cen L, McLemore A, Reed K, Whiting J, Gilvary D, Blanco NL, Segura CM, Nguyen J, Kandell W, Chen X, Cheng P, Wright GM, Cress WD, Liu J, Wright KL, Wei S, Eksioglu EA",
+      "journal": "iScience"
     },
     {
-      "title": "Wright GM, Gimbrone NT, Sarcar B, Percy TR, Gordi\u00e1n ER, Kinose F, Sumi NJ, Rix U, Cress WD. CDK4/6 inhibition synergizes with inhibition of P21-Activated Kinases (PAKs) in lung cancer cell lines. PLoS One",
-      "pubmed_id": "34138895",
-      "pmc_id": "PMC8211232",
+      "title": "Correction: Transforming growth factor \u03b2-induced epithelial-to-mesenchymal signature predicts metastasis-free survival in non-small cell lung cancer",
+      "pubmed_id": "34194632",
+      "pmc_id": "PMC8238243",
       "year": "2021",
-      "journal": "16(6):e0252927",
-      "authors": ""
+      "publication_date": "2021 Jun",
+      "authors": "Gordian E, Welsh EA, Gimbrone N, Siegel EM, Shibata D, Creelan BC, Cress WD, Eschrich SA, Haura EB, Mu\u00f1oz-Antonia T",
+      "journal": "Oncotarget"
     }
   ],
   "grants": [
     {
       "description": "Title: Molecular Drivers of Lung Cancer in Hispanics  \nAward Number: 5R21CA259215-02  \nSponsor: National Cancer Institute (NCI)  \nCress, W. (PD/PI), Teer, J. (PD/PI)",
+      "title": "Molecular Drivers of Lung Cancer in Hispanics",
+      "award_number": "5R21CA259215-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "9215-02"
+      "investigators": [
+        {
+          "name": "Cress, W.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Teer, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Integrated Program in Cancer and Data Science  \nAward Number: 5T32CA233399-04  \nSponsor: National Cancer Institute (NCI)  \nCress, W. (PD/PI), Flores, E. (PD/PI), Fridley, B. (PD/PI)",
+      "title": "Integrated Program in Cancer and Data Science",
+      "award_number": "5T32CA233399-04",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "3399-04"
+      "investigators": [
+        {
+          "name": "Cress, W.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Flores, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Fridley, B.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Targeting centrosomemitotic kinases as a novel therapeutic approach against breast cancers in Hispanic/Latinas  \nAward Number: 5R01CA266046-03  \nSponsor: National Cancer Institute (NCI)  \nCress, W. (PD/PI)",
+      "title": "Targeting centrosomemitotic kinases as a novel therapeutic approach against breast cancers in Hispanic/Latinas",
+      "award_number": "5R01CA266046-03",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "6046-03"
+      "investigators": [
+        {
+          "name": "Cress, W.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Understanding the mechanisms by which STK11 loss in lung cancer leads to immune invasion  \nAward Number: 23K02  \nSponsor: Florida Department of Health  \nCress, W. (PD/PI)"
+      "description": "Title: Understanding the mechanisms by which STK11 loss in lung cancer leads to immune invasion  \nAward Number: 23K02  \nSponsor: Florida Department of Health  \nCress, W. (PD/PI)",
+      "title": "Understanding the mechanisms by which STK11 loss in lung cancer leads to immune invasion",
+      "award_number": "23K02",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Cress, W.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/CressDoug_501.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=501"
   },
-  "content_hash": "54ef5545dbac006d1c9bfcb2da1ecb5da3d46a7767b99001eb2b42c4b3b25b10",
+  "content_hash": "27f2f32321eb125fb0b1f1108621d2186b8dd7996c28cf83687d1639d9f2dc87",
   "researcher_name": "Doug Cress",
   "department": "Molecular Oncology"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/quincy-mo",
-  "last_updated": "2025-10-19T00:24:00.700813",
+  "last_updated": "2025-10-21T16:33:03.883164",
   "researcher_id": "20205",
   "degrees": [
     "PhD"
@@ -28,98 +28,141 @@
   ],
   "publications": [
     {
-      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "title": "The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma",
       "pubmed_id": "40553455",
       "year": "2025",
-      "journal": "34(9):1609-1617",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
-      "title": "Kazemian E, Mo Q, Matejcic M, Tsai YY, Sobieski D, Li X, Hoogland AI, Crowder SL, Gonzalez BD, Oswald LB, Sleight AG, Nguyen N, Loro\u00f1a NC, Damerell V, Komrokji KR, Mooney K, Playdon MC, Ulrich CM, Li CI, Shibata D, Toriola AT, Ose J, Peoples AR, Hardikar S, Kahlert C, Siegel EM, Bower JE, Schmit SL, Gigic B, Jim HSL, Figueiredo JC. Genetic predisposition to persistent fatigue after a diagnosis of colorectal cancer. J Natl Cancer Inst",
+      "title": "Genetic predisposition to persistent fatigue after a diagnosis of colorectal cancer",
       "pubmed_id": "40889272",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Kazemian E, Mo Q, Matejcic M, Tsai YY, Sobieski D, Li X, Hoogland AI, Crowder SL, Gonzalez BD, Oswald LB, Sleight AG, Nguyen N, Loro\u00f1a NC, Damerell V, Komrokji KR, Mooney K, Playdon MC, Ulrich CM, Li CI, Shibata D, Toriola AT, Ose J, Peoples AR, Hardikar S, Kahlert C, Siegel EM, Bower JE, Schmit SL, Gigic B, Jim HSL, Figueiredo JC",
+      "journal": "J Natl Cancer Inst"
     },
     {
-      "title": "Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK. Comparison of volumetric and single-slice computed tomography body composition metrics for colorectal cancer survival. Eur J Radiol",
+      "title": "Comparison of volumetric and single-slice computed tomography body composition metrics for colorectal cancer survival",
       "pubmed_id": "40532592",
       "year": "2025",
-      "journal": "190:112241",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK",
+      "journal": "Eur J Radiol"
     },
     {
-      "title": "Gao H, Wong SQR, Subel E, Huang YH, Lee YC, Hayashi K, Alonzo ME, Karabicici M, Hoi XP, Kasabyan A, Mo Q, Melchiode Z, El-Zaatari Z, Shen S, Satkunasivam R, Nikolos F, Chan KS. Caspase-1-dependent pyroptosis converts \u03b1SMA+ CAFs into collagen-IIIhigh iCAFs to fuel chemoresistant cancer stem cells. Sci Adv",
+      "title": "Caspase-1-dependent pyroptosis converts \u03b1SMA+ CAFs into collagen-IIIhigh iCAFs to fuel chemoresistant cancer stem cells",
       "pubmed_id": "40498841",
       "pmc_id": "PMC12154229",
       "year": "2025",
-      "journal": "11(24):eadt8697",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Gao H, Wong SQR, Subel E, Huang YH, Lee YC, Hayashi K, Alonzo ME, Karabicici M, Hoi XP, Kasabyan A, Mo Q, Melchiode Z, El-Zaatari Z, Shen S, Satkunasivam R, Nikolos F, Chan KS",
+      "journal": "Sci Adv"
     },
     {
-      "title": "Sallman DA, Komrokji RS, Dezern AE, Sebert M, Garcia-Manero G, Rahm\u00e9 R, Winer ES, Lehmann-Che J, Roboz GJ, Madelaine I, Sekeres MA, Peterlin P, Chan O, Beyne-Rauzy O, Kuykendall A, Recher C, McLemore A, Stamatoullas A, Zhang L, Willems L, Mo Q, Raffoux E, Nardelli L, Berthon C, Al Ali NH, Quesnel B, Padron E, Kantarjian HM, List AF, Ades L, Lancet JE, Fenaux P, Cluzeau T. Long-term follow-up and combined Phase 2 results of eprenetapopt and azacitidine in patients with TP53 mutant MDS/AML. Hemasphere",
+      "title": "Long-term follow-up and combined Phase 2 results of eprenetapopt and azacitidine in patients with TP53 mutant MDS/AML",
       "pubmed_id": "40657305",
       "pmc_id": "PMC12255903",
       "year": "2025",
-      "journal": "9(7):e70164",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Sallman DA, Komrokji RS, Dezern AE, Sebert M, Garcia-Manero G, Rahm\u00e9 R, Winer ES, Lehmann-Che J, Roboz GJ, Madelaine I, Sekeres MA, Peterlin P, Chan O, Beyne-Rauzy O, Kuykendall A, Recher C, McLemore A, Stamatoullas A, Zhang L, Willems L, Mo Q, Raffoux E, Nardelli L, Berthon C, Al Ali NH, Quesnel B, Padron E, Kantarjian HM, List AF, Ades L, Lancet JE, Fenaux P, Cluzeau T",
+      "journal": "Hemasphere"
     },
     {
-      "title": "Nardella N, Xia BT, Allenson K, Oraiqat A, Fan W, Mo Q, Permuth J, Kim DW, Hodul P. Influence of Coping, Esteem, and Resilience on Caregiver Distress in Pancreatic Cancer Patient-Caregiver Dyads. Healthcare (Basel)",
+      "title": "Influence of Coping, Esteem, and Resilience on Caregiver Distress in Pancreatic Cancer Patient-Caregiver Dyads",
       "pubmed_id": "39857142",
       "pmc_id": "PMC11765500",
       "year": "2025",
-      "journal": "13(2)",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Nardella N, Xia BT, Allenson K, Oraiqat A, Fan W, Mo Q, Permuth J, Kim DW, Hodul P",
+      "journal": "Healthcare (Basel)"
     },
     {
-      "title": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq",
+      "title": "Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma",
       "pubmed_id": "39989973",
       "pmc_id": "PMC11844656",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Han HS, Aldrich AL, Garg SK, Weinfurtner RJ, Nguyen JV, Mo Q, Whiting J, Childress J, Soliman H, Costa R, Armaghani A, Soyano A, Kiluk J, Hoover S, Lee MC, Khakpour N, Shenoi N, Jameel Z, Koski GK, Czerniecki BJ. Alteration of the Tumor Microenvironment With Intratumoral Dendritic Cells Before Chemotherapy in ERBB2 Breast Cancer: A Nonrandomized Clinical Trial. JAMA Oncol",
+      "title": "Alteration of the Tumor Microenvironment With Intratumoral Dendritic Cells Before Chemotherapy in ERBB2 Breast Cancer: A Nonrandomized Clinical Trial",
       "pubmed_id": "39636623",
       "pmc_id": "PMC11622104",
       "year": "2025",
-      "journal": "11(2):119-127",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Han HS, Aldrich AL, Garg SK, Weinfurtner RJ, Nguyen JV, Mo Q, Whiting J, Childress J, Soliman H, Costa R, Armaghani A, Soyano A, Kiluk J, Hoover S, Lee MC, Khakpour N, Shenoi N, Jameel Z, Koski GK, Czerniecki BJ",
+      "journal": "JAMA Oncol"
     },
     {
-      "title": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA. Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses. Neurooncol",
+      "title": "Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses",
       "pubmed_id": "40888040",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA",
+      "journal": "Neurooncol"
     },
     {
-      "title": "Nepomuceno TC, Lyra P, Zhu J, Yi F, Martin RH, Lupu D, Peterson L, Peres LC, Berry A, Iversen ES, Couch FJ, Mo Q, Monteiro AN. Assessment of BRCA1 and BRCA2 Germline Variant Data From Patients With Breast Cancer in a Real-World Data Registry. JCO Clin Cancer Inform",
+      "title": "Assessment of BRCA1 and BRCA2 Germline Variant Data From Patients With Breast Cancer in a Real-World Data Registry",
       "pubmed_id": "38709234",
       "pmc_id": "PMC11161245",
       "year": "2024",
-      "journal": "8:e2300251",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Nepomuceno TC, Lyra P, Zhu J, Yi F, Martin RH, Lupu D, Peterson L, Peres LC, Berry A, Iversen ES, Couch FJ, Mo Q, Monteiro AN",
+      "journal": "JCO Clin Cancer Inform"
     }
   ],
   "grants": [
     {
       "description": "Title: (00014262) Mechanisms of Radioresistance and Strategies for Radiosensitization in Ovarian Clear Cell Carcinoma  \nAward Number: 5R01CA181663  \nSponsor: National Cancer Institute (NCI)  \nMo, Q. (PD/PI)",
-      "source": "NCI"
+      "title": "(00014262) Mechanisms of Radioresistance and Strategies for Radiosensitization in Ovarian Clear Cell Carcinoma",
+      "award_number": "5R01CA181663",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Mo, Q.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Targeting Tumor Repopulation and the Immune Microenvironment to Overcome Chemoresistance  \nAward Number: 5R01CA255609-04  \nSponsor: National Cancer Institute (NCI)  \nMo, Q. (PD/PI)",
+      "title": "Targeting Tumor Repopulation and the Immune Microenvironment to Overcome Chemoresistance",
+      "award_number": "5R01CA255609-04",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "5609-04"
+      "investigators": [
+        {
+          "name": "Mo, Q.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Improving the understanding and optimal utilization of Revumenib in Acute Myeloid Leukemia   \nAward Number: 100216  \nSponsor: Syndax Pharmaceuticals  \nSallman, D. (PD/PI), Mo, Q. (Co-PD/PI)"
+      "description": "Title: Improving the understanding and optimal utilization of Revumenib in Acute Myeloid Leukemia   \nAward Number: 100216  \nSponsor: Syndax Pharmaceuticals  \nSallman, D. (PD/PI), Mo, Q. (Co-PD/PI)",
+      "title": "Improving the understanding and optimal utilization of Revumenib in Acute Myeloid Leukemia",
+      "award_number": "100216",
+      "sponsor": "Syndax Pharmaceuticals",
+      "investigators": [
+        {
+          "name": "Sallman, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Mo, Q.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers/MoQuincy_20205.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=20205"
   },
-  "content_hash": "ddeabb5bb28695713c051a9ce45249f86a12069c21f7ea82b8898dda40e0a89f",
+  "content_hash": "30b27bfd1f7aef07213dc00e917240973c40ec3704eb67fa5029a1242dcf7d78",
   "researcher_name": "Quincy Mo",
   "department": "Biostatistics and Bioinformatics"
 }

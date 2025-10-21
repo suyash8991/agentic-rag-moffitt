@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/stuart-maudsley",
-  "last_updated": "2025-10-19T00:28:21.544216",
+  "last_updated": "2025-10-21T16:37:28.360020",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
@@ -19,88 +19,98 @@
   "education": [],
   "publications": [
     {
-      "title": "Junyent M, Noori H, De Schepper R, Frajdenberg S, Elsaigh RKAH, McDonald PH, Duckett D, Maudsley S. Unravelling Convergent Signaling Mechanisms Underlying the Aging-Disease Nexus Using Computational Language Analysis. Curr Issues Mol Biol",
+      "title": "Unravelling Convergent Signaling Mechanisms Underlying the Aging-Disease Nexus Using Computational Language Analysis",
       "pubmed_id": "40136443",
       "pmc_id": "PMC11941692",
       "year": "2025",
-      "journal": "47(3)",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Junyent M, Noori H, De Schepper R, Frajdenberg S, Elsaigh RKAH, McDonald PH, Duckett D, Maudsley S",
+      "journal": "Curr Issues Mol Biol"
     },
     {
-      "title": "Leopoldo M, Contino M, Maudsley S, Vrecl M. Editorial: Macromolecular interactions in signaling pathways: from classical approaches to virtual reality. Front Endocrinol (Lausanne)",
+      "title": "Editorial: Macromolecular interactions in signaling pathways: from classical approaches to virtual reality",
       "pubmed_id": "38481449",
       "pmc_id": "PMC10933126",
       "year": "2024",
-      "journal": "15:1388849",
-      "authors": ""
+      "publication_date": "2024 Feb",
+      "authors": "Leopoldo M, Contino M, Maudsley S, Vrecl M",
+      "journal": "Front Endocrinol (Lausanne)"
     },
     {
-      "title": "Perry-Hauser N, Maudsley S, Berchiche YA, Slosky LM. Editorial: GPCRs: signal transduction. Front Mol Biosci",
+      "title": "Editorial: GPCRs: signal transduction",
       "pubmed_id": "38660374",
       "pmc_id": "PMC11040204",
       "year": "2024",
-      "journal": "11:1403161",
-      "authors": ""
+      "publication_date": "2024 Apr",
+      "authors": "Perry-Hauser N, Maudsley S, Berchiche YA, Slosky LM",
+      "journal": "Front Mol Biosci"
     },
     {
-      "title": "Schreurs G, Maudsley S, Nast C, Praet M, Da Silva Fernandes S, Boor P, D'Haese P, De Broe ME, Vervaet BA. Chronic dehydration induces injury pathways in rats, but does not mimic histopathology of chronic interstitial nephritis in agricultural communities. Sci Rep",
+      "title": "Chronic dehydration induces injury pathways in rats, but does not mimic histopathology of chronic interstitial nephritis in agricultural communities",
       "pubmed_id": "37872220",
       "pmc_id": "PMC10593944",
       "year": "2023",
-      "journal": "13(1):18119",
-      "authors": ""
+      "publication_date": "2023 Oct",
+      "authors": "Schreurs G, Maudsley S, Nast C, Praet M, Da Silva Fernandes S, Boor P, D'Haese P, De Broe ME, Vervaet BA",
+      "journal": "Sci Rep"
     },
     {
-      "title": "Maudsley S, Schrauwen C, Harputluo\u011flu \u0130, Walter D, Leysen H, McDonald P. GPR19 Coordinates Multiple Molecular Aspects of Stress Responses Associated with the Aging Process. Int J Mol Sci",
+      "title": "GPR19 Coordinates Multiple Molecular Aspects of Stress Responses Associated with the Aging Process",
       "pubmed_id": "37239845",
       "pmc_id": "PMC10218176",
       "year": "2023",
-      "journal": "24(10)",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Maudsley S, Schrauwen C, Harputluo\u011flu \u0130, Walter D, Leysen H, McDonald P",
+      "journal": "Int J Mol Sci"
     },
     {
-      "title": "Opdebeeck B, Neven E, Maudsley S, Leysen H, Walter D, Geryl H, D'Haese PC, Verhulst A. A Proteomic Screen to Unravel the Molecular Pathways Associated with Warfarin-Induced or TNAP-Inhibited Arterial Calcification in Rats. Int J Mol Sci",
+      "title": "A Proteomic Screen to Unravel the Molecular Pathways Associated with Warfarin-Induced or TNAP-Inhibited Arterial Calcification in Rats",
       "pubmed_id": "36835062",
       "pmc_id": "PMC9963640",
       "year": "2023",
-      "journal": "24(4)",
-      "authors": ""
+      "publication_date": "2023 Feb",
+      "authors": "Opdebeeck B, Neven E, Maudsley S, Leysen H, Walter D, Geryl H, D'Haese PC, Verhulst A",
+      "journal": "Int J Mol Sci"
     },
     {
-      "title": "Chadwick W, Maudsley S, Hull W, Havolli E, Boshoff E, Hill MDW, Goetghebeur PJD, Harrison DC, Nizami S, Bedford DC, Coope G, Real K, Thiemermann C, Maycox P, Carlton M, Cole SL. The oDGal Mouse: A Novel, Physiologically Relevant Rodent Model of Sporadic Alzheimer's Disease. Int J Mol Sci",
+      "title": "The oDGal Mouse: A Novel, Physiologically Relevant Rodent Model of Sporadic Alzheimer's Disease",
       "pubmed_id": "37108119",
       "pmc_id": "PMC10138655",
       "year": "2023",
-      "journal": "24(8)",
-      "authors": ""
+      "publication_date": "2023 Apr",
+      "authors": "Chadwick W, Maudsley S, Hull W, Havolli E, Boshoff E, Hill MDW, Goetghebeur PJD, Harrison DC, Nizami S, Bedford DC, Coope G, Real K, Thiemermann C, Maycox P, Carlton M, Cole SL",
+      "journal": "Int J Mol Sci"
     },
     {
-      "title": "Maudsley S, Walter D, Schrauwen C, Van Loon N, Harputluo\u011flu \u0130, Lenaerts J, McDonald P. Intersection of the Orphan G Protein-Coupled Receptor, GPR19, with the Aging Process. Int J Mol Sci",
+      "title": "Intersection of the Orphan G Protein-Coupled Receptor, GPR19, with the Aging Process",
       "pubmed_id": "36362387",
       "pmc_id": "PMC9653598",
       "year": "2022",
-      "journal": "23(21)",
-      "authors": ""
+      "publication_date": "2022 Nov",
+      "authors": "Maudsley S, Walter D, Schrauwen C, Van Loon N, Harputluo\u011flu \u0130, Lenaerts J, McDonald P",
+      "journal": "Int J Mol Sci"
     },
     {
-      "title": "Corremans R, Neven E, Maudsley S, Leysen H, De Broe ME, D'Haese PC, Vervaet BA, Verhulst A. Progression of established non-diabetic chronic kidney disease is halted by metformin treatment in rats. Kidney Int",
+      "title": "Progression of established non-diabetic chronic kidney disease is halted by metformin treatment in rats",
       "pubmed_id": "35271933",
       "year": "2022",
-      "journal": "101(5):929-944",
-      "authors": ""
+      "publication_date": "2022 May",
+      "authors": "Corremans R, Neven E, Maudsley S, Leysen H, De Broe ME, D'Haese PC, Vervaet BA, Verhulst A",
+      "journal": "Kidney Int"
     },
     {
-      "title": "Van Meenen J, Leysen H, Chen H, Baccarne R, Walter D, Martin B, Maudsley S. Making Biomedical Sciences publications more accessible for machines. Med Health Care Phil",
+      "title": "Making Biomedical Sciences publications more accessible for machines",
       "pubmed_id": "35039972",
       "year": "2022",
-      "journal": "25(2):179-190",
-      "authors": ""
+      "publication_date": "2022 Jun",
+      "authors": "Van Meenen J, Leysen H, Chen H, Baccarne R, Walter D, Martin B, Maudsley S",
+      "journal": "Med Health Care Phil"
     }
   ],
   "grants": [],
   "photo_url": "",
   "contact": {},
-  "content_hash": "8d85b60d2c9f68722434a9eab829dcd1d944c22eb621b7492a1ac79c27074990",
+  "content_hash": "fce7d71691a3a021cc1cd64060eb86d455d697f8fc3ccf08ec91c76f788ecf90",
   "researcher_name": "Stuart Maudsley",
   "department": "Drug Discovery"
 }

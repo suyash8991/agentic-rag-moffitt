@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/robert-gatenby",
-  "last_updated": "2025-10-19T00:24:53.980862",
+  "last_updated": "2025-10-21T16:33:56.788487",
   "researcher_id": "4306",
   "degrees": [
     "MD"
@@ -43,100 +43,155 @@
   ],
   "publications": [
     {
-      "title": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys",
+      "title": "Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer",
       "pubmed_id": "40998270",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C",
+      "journal": "Int J Radiat Oncol Biol Phys"
     },
     {
-      "title": "Gatenby RA, Teer JK, Tsai KY, Brown JS. Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas. Commun Biol",
+      "title": "Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas",
       "pubmed_id": "40399443",
       "pmc_id": "PMC12095661",
       "year": "2025",
-      "journal": "8(1):775",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Gatenby RA, Teer JK, Tsai KY, Brown JS",
+      "journal": "Commun Biol"
     },
     {
-      "title": "Hosny N, Shen K, Zhao Y, Qu J, Sun Y, Butler G, Amend S, Hammarlund EU, Gatenby R, Brown J, Pienta KJ, Phan TV, Boyer-Paulet S, Li S, Austin RH. Phosphorescence-based sensing reveals size-dependent survival and motility of metastatic prostate cancer cells in self-generated hypoxia. iScience",
+      "title": "Phosphorescence-based sensing reveals size-dependent survival and motility of metastatic prostate cancer cells in self-generated hypoxia",
       "pubmed_id": "40475852",
       "pmc_id": "PMC12139443",
       "year": "2025",
-      "journal": "28(5):112325",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Hosny N, Shen K, Zhao Y, Qu J, Sun Y, Butler G, Amend S, Hammarlund EU, Gatenby R, Brown J, Pienta KJ, Phan TV, Boyer-Paulet S, Li S, Austin RH",
+      "journal": "iScience"
     },
     {
-      "title": "Ramamoorthi G, Lee MC, Farrell CM, Snyder C, Garg SK, Aldrich AL, Lok V, Dominguez-Viqueira W, Olson-Mcpeek SK, Rosa M, Gautam N, Pilon-Thomas S, Cen L, Kodumudi KN, Wiener D, Oskarsson T, Gomes AP, Gatenby RA, Czerniecki BJ. Antitumor CD4+ T Helper 1 Cells Target and Control the Outgrowth of Disseminated Cancer Cells. Cancer Immunol Res",
+      "title": "Antitumor CD4+ T Helper 1 Cells Target and Control the Outgrowth of Disseminated Cancer Cells",
       "pubmed_id": "40249209",
       "pmc_id": "PMC12046335",
       "year": "2025",
-      "journal": "13(5):729-748",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Ramamoorthi G, Lee MC, Farrell CM, Snyder C, Garg SK, Aldrich AL, Lok V, Dominguez-Viqueira W, Olson-Mcpeek SK, Rosa M, Gautam N, Pilon-Thomas S, Cen L, Kodumudi KN, Wiener D, Oskarsson T, Gomes AP, Gatenby RA, Czerniecki BJ",
+      "journal": "Cancer Immunol Res"
     },
     {
-      "title": "Hammarlund EU, Bukkuri A, Norling MD, Islam M, Posth NR, Baratchart E, Carroll C, Amend SR, Gatenby RA, Pienta KJ, Brown JS, Peters SE, Hancke K. Benthic diel oxygen variability and stress as potential drivers for animal diversification in the Neoproterozoic-Palaeozoic. Nat Commun",
+      "title": "Benthic diel oxygen variability and stress as potential drivers for animal diversification in the Neoproterozoic-Palaeozoic",
       "pubmed_id": "40118825",
       "pmc_id": "PMC11928486",
       "year": "2025",
-      "journal": "16(1):2223",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Hammarlund EU, Bukkuri A, Norling MD, Islam M, Posth NR, Baratchart E, Carroll C, Amend SR, Gatenby RA, Pienta KJ, Brown JS, Peters SE, Hancke K",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Dabi A, Brown JS, Gatenby RA, Jones CD, Schrider DR. Evolutionary rescue model informs strategies for driving cancer cell populations to extinction. bioRxiv",
-      "pubmed_id": "39651238",
-      "pmc_id": "PMC11623570",
-      "year": "2025",
-      "authors": ""
-    },
-    {
-      "title": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH. The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma. Cancer Res",
+      "title": "The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma",
       "pubmed_id": "39476082",
       "pmc_id": "PMC11733535",
       "year": "2025",
-      "journal": "85(2):378-398",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y. Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study. Cancers (Basel)",
+      "title": "Evolutionary rescue model informs strategies for driving cancer cell populations to extinction",
+      "pubmed_id": "39651238",
+      "pmc_id": "PMC11623570",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Dabi A, Brown JS, Gatenby RA, Jones CD, Schrider DR",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study",
       "pubmed_id": "40075682",
       "pmc_id": "PMC11898942",
       "year": "2025",
-      "journal": "17(5)",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Gatenby RA, Gallaher J, Subramanian H, Hammarlund EU, Whelan CJ. On the Origin of Information Dynamics in Early Life. Life (Basel)",
+      "title": "On the Origin of Information Dynamics in Early Life",
       "pubmed_id": "40003644",
       "pmc_id": "PMC11856217",
       "year": "2025",
-      "journal": "15(2)",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Gatenby RA, Gallaher J, Subramanian H, Hammarlund EU, Whelan CJ",
+      "journal": "Life (Basel)"
     },
     {
-      "title": "Gatenby RA, Anderson ARA, Brown JS, Gallaher J, Krolick J, Lemanne D. Directed Evolution Restored Castrate Sensitivity in a Patient With Castrate Resistant Metastatic Prostate Cancer. Prostate",
+      "title": "Directed Evolution Restored Castrate Sensitivity in a Patient With Castrate Resistant Metastatic Prostate Cancer",
       "pubmed_id": "40878050",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Gatenby RA, Anderson ARA, Brown JS, Gallaher J, Krolick J, Lemanne D",
+      "journal": "Prostate"
     }
   ],
   "grants": [
     {
-      "description": "Title: Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice  \nAward Number: 24-0147-AR  \nSponsor: MITSUI & CO. (USA), INC  \nAnderson, A. (PD/PI), Gatenby, R. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)"
+      "description": "Title: Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice  \nAward Number: 24-0147-AR  \nSponsor: MITSUI & CO. (USA), INC  \nAnderson, A. (PD/PI), Gatenby, R. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)",
+      "title": "Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice",
+      "award_number": "24-0147-AR",
+      "sponsor": "MITSUI & CO. (USA), INC",
+      "investigators": [
+        {
+          "name": "Anderson, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Gatenby, R.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Tessi, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: The Delta Ecology of NSCLC Treatment  \nAward Number: 5U54CA274507  \nSponsor: National Cancer Institute (NCI)  \nAnderson, A. (PD/PI), Gatenby, R. (PD/PI)",
-      "source": "NCI"
+      "title": "The Delta Ecology of NSCLC Treatment",
+      "award_number": "5U54CA274507",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Anderson, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Gatenby, R.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: The Delta Ecology of NSCLC Treatment - Diversity Supplement  \nAward Number: 1U54CA274507-03S1  \nSponsor: National Cancer Institute (NCI)  \nAnderson, A. (PD/PI), Gatenby, R. (PD/PI)",
+      "title": "The Delta Ecology of NSCLC Treatment - Diversity Supplement",
+      "award_number": "1U54CA274507-03S1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "4507-03"
+      "investigators": [
+        {
+          "name": "Anderson, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Gatenby, R.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GatenbyRobert_4306.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4306"
   },
-  "content_hash": "eb4bc5acfb8628eadd8182f5089e6d0de64ed7eb90a88d2a776ac95c19809b7c",
+  "content_hash": "259069976d5741470663fec5c6ca07fc529487929c9fddb3dd770cdf56a24d11",
   "researcher_name": "Robert Gatenby",
   "department": "Molecular Oncology"
 }

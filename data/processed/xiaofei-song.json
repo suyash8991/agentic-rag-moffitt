@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/xiaofei-song",
-  "last_updated": "2025-10-19T00:30:20.667765",
+  "last_updated": "2025-10-21T16:39:22.164253",
   "researcher_id": "32089",
   "degrees": [
     "PhD"
@@ -19,93 +19,128 @@
   "education": [],
   "publications": [
     {
-      "title": "Meads MB, Zhao X, Noyes DR, Sudalagunta P, Achille A, Zhang C, Renatino Canevarolo R, Silva M, Magaletti D, DeAvila D, Toska S, Oates A, Lastorino D, Idiaquez DW, Song J, Sansil S, Yoder SJ, Grajales-Cruz AF, Blue BJ, Freeman CL, Kim J, Alsina M, Brayer J, Siqueira Silva A, Song X, Shain KH, Baz RC. Target antigen and plasma cell phenotype are critical factors for sensitivity to response-adapted daratumumab therapy. Blood",
+      "title": "Target antigen and plasma cell phenotype are critical factors for sensitivity to response-adapted daratumumab therapy",
       "pubmed_id": "40983035",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Meads MB, Zhao X, Noyes DR, Sudalagunta P, Achille A, Zhang C, Renatino Canevarolo R, Silva M, Magaletti D, DeAvila D, Toska S, Oates A, Lastorino D, Idiaquez DW, Song J, Sansil S, Yoder SJ, Grajales-Cruz AF, Blue BJ, Freeman CL, Kim J, Alsina M, Brayer J, Siqueira Silva A, Song X, Shain KH, Baz RC",
+      "journal": "Blood"
     },
     {
-      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
+      "title": "Lymphoma accelerates T cell and tissue aging",
       "pubmed_id": "40845845",
       "year": "2025",
-      "journal": "43(10):1917-1936",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F. Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma. Cancer Cell",
+      "title": "Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma",
       "pubmed_id": "41072416",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Song X, Yu X, Moran-Segura CM, Xu H, Li T, Davis JT, Vosoughi A, Grass GD, Li R, Wang X. ROICellTrack: a deep learning framework for integrating cellular imaging modalities in subcellular spatial transcriptomic profiling of tumor tissues. Bioinformatics",
+      "title": "ROICellTrack: a deep learning framework for integrating cellular imaging modalities in subcellular spatial transcriptomic profiling of tumor tissues",
       "pubmed_id": "40199763",
       "pmc_id": "PMC12085996",
       "year": "2025",
-      "journal": "41(5)",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Song X, Yu X, Moran-Segura CM, Xu H, Li T, Davis JT, Vosoughi A, Grass GD, Li R, Wang X",
+      "journal": "Bioinformatics"
     },
     {
-      "title": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH. PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis. Mol Cancer Ther",
+      "title": "PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis",
       "pubmed_id": "40552938",
       "pmc_id": "PMC12327362",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH",
+      "journal": "Mol Cancer Ther"
     },
     {
-      "title": "Saba NF, Chaudhary R, Kirtane K, Marra A, Ekpenyong A, McCook-Veal A, Schmitt NC, Gross JH, Patel MR, Remick J, Bates JE, McDonald MW, Rudra SF, Stokes WA, Biernacki M, Song X, Slebos RJC, Liu Y, Steuer CE, Shin DM, Teng Y, Chung CH. Pembrolizumab and Cabozantinib in Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma: Long-term Survival Update with a Biomarker Analysis. Clin Cancer Res",
-      "pubmed_id": "39167623",
-      "pmc_id": "PMC11479816",
-      "year": "2024",
-      "journal": "30(20):4601-4608",
-      "authors": ""
-    },
-    {
-      "title": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA. Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma. J Immunol",
+      "title": "Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma",
       "pubmed_id": "39120462",
       "pmc_id": "PMC11404669",
       "year": "2024",
-      "journal": "213(7):1033-1041",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA",
+      "journal": "J Immunol"
     },
     {
-      "title": "Karapetyan L, Li A, Vargas De Stefano D, Abushukair HM, Al-Bzour AN, Knight A, Layding C, Wang H, Xu J, Yao J, Song X, Joy M, Nguyen J, Moran-Segura C, Bruno S, Sander C, Messina J, Mule JJ, Storkus WJ, Kirkwood JM. Differences in the pathological, transcriptomic, and prognostic implications of lymphoid structures between primary and metastatic cutaneous melanomas. J Immunother Cancer",
+      "title": "Pembrolizumab and Cabozantinib in Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma: Long-term Survival Update with a Biomarker Analysis",
+      "pubmed_id": "39167623",
+      "pmc_id": "PMC11479816",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Saba NF, Chaudhary R, Kirtane K, Marra A, Ekpenyong A, McCook-Veal A, Schmitt NC, Gross JH, Patel MR, Remick J, Bates JE, McDonald MW, Rudra SF, Stokes WA, Biernacki M, Song X, Slebos RJC, Liu Y, Steuer CE, Shin DM, Teng Y, Chung CH",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Differences in the pathological, transcriptomic, and prognostic implications of lymphoid structures between primary and metastatic cutaneous melanomas",
       "pubmed_id": "39537211",
       "pmc_id": "PMC11575263",
       "year": "2024",
-      "journal": "12(11)",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Karapetyan L, Li A, Vargas De Stefano D, Abushukair HM, Al-Bzour AN, Knight A, Layding C, Wang H, Xu J, Yao J, Song X, Joy M, Nguyen J, Moran-Segura C, Bruno S, Sander C, Messina J, Mule JJ, Storkus WJ, Kirkwood JM",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Anselmino N, Labanca E, Shepherd PDA, Dong J, Yang J, Song X, Nandakumar S, Kundra R, Lee CJ, Schultz N, Zhang J, Araujo JC, Aparicio AM, Subudhi SK, Corn PG, Pisters LL, Ward JF, Davis JW, Vazquez ES, Gueron G, Logothetis CJ, Futreal A, Troncoso P, Chen Y, Navone NM. Integrative Molecular Analyses of the MD Anderson Prostate Cancer Patient-derived Xenograft (MDA PCa PDX) Series. Clin Cancer Res",
+      "title": "Integrative Molecular Analyses of the MD Anderson Prostate Cancer Patient-derived Xenograft (MDA PCa PDX) Series",
       "pubmed_id": "38488813",
       "pmc_id": "PMC11094415",
       "year": "2024",
-      "journal": "30(10):2272-2285",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Anselmino N, Labanca E, Shepherd PDA, Dong J, Yang J, Song X, Nandakumar S, Kundra R, Lee CJ, Schultz N, Zhang J, Araujo JC, Aparicio AM, Subudhi SK, Corn PG, Pisters LL, Ward JF, Davis JW, Vazquez ES, Gueron G, Logothetis CJ, Futreal A, Troncoso P, Chen Y, Navone NM",
+      "journal": "Clin Cancer Res"
     },
     {
-      "title": "Park R, Li J, Slebos RJC, Chaudhary R, Poole MI, Ferraris C, Farinhas J, Hernandez-Prera J, Kirtane K, Teer JK, Song X, Hall MS, Tasoulas J, Amelio AL, Chung CH. Phase Ib trial of IRX-2 plus durvalumab in patients with recurrent and/or metastatic head and neck squamous cell carcinoma. Oral Oncol",
+      "title": "Phase Ib trial of IRX-2 plus durvalumab in patients with recurrent and/or metastatic head and neck squamous cell carcinoma",
       "pubmed_id": "38820888",
       "year": "2024",
-      "journal": "154:106866",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Park R, Li J, Slebos RJC, Chaudhary R, Poole MI, Ferraris C, Farinhas J, Hernandez-Prera J, Kirtane K, Teer JK, Song X, Hall MS, Tasoulas J, Amelio AL, Chung CH",
+      "journal": "Oral Oncol"
     }
   ],
   "grants": [
     {
-      "description": "Title: Effects of hypoxia in tumor immune microenvironment in tobacco-related head and neck squamous cell carcinoma (HNSCC)  \nAward Number: 21K04  \nSponsor: Florida Department of Health  \nChung, C. (PD/PI), Song, X. (Co-PD/PI)"
+      "description": "Title: Effects of hypoxia in tumor immune microenvironment in tobacco-related head and neck squamous cell carcinoma (HNSCC)  \nAward Number: 21K04  \nSponsor: Florida Department of Health  \nChung, C. (PD/PI), Song, X. (Co-PD/PI)",
+      "title": "Effects of hypoxia in tumor immune microenvironment in tobacco-related head and neck squamous cell carcinoma (HNSCC)",
+      "award_number": "21K04",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Chung, C.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Song, X.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Investigating Tumor Cell Transcriptomic Heterogeneity Associated with Proximity to Tertiary Lymphoid Structures for Biomarker Discovery in HNSCC  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nSong, X. (PD/PI)",
-      "source": "American Cancer Society"
+      "title": "Investigating Tumor Cell Transcriptomic Heterogeneity Associated with Proximity to Tertiary Lymphoid Structures for Biomarker Discovery in HNSCC",
+      "award_number": "",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Song, X.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SongXiaofei_32089.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32089"
   },
-  "content_hash": "28820a80796ead4168dbe01a48a91ed66202d73a4f1f2931b2e5883621f1396e",
+  "content_hash": "ae93369fa5e1feab2c2776d28031f10066264e002d612903c0cbd6fb0e230d35",
   "researcher_name": "Xiaofei Song",
   "department": "Biostatistics and Bioinformatics"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/megan-hitchins",
-  "last_updated": "2025-10-19T00:26:50.951928",
+  "last_updated": "2025-10-21T16:35:57.404934",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
@@ -19,90 +19,99 @@
   "education": [],
   "publications": [
     {
-      "title": "Alvarez R, Climent-Cant\u00f3 P, Shin G, Aguirre FP, Zhou L, Hazelett DJ, Larson BK, Vara C, Capell\u00e1 G, Castellanos VL, Rubio PG, Desseigne F, Ji H, Cook J, Durkie M, Pineda M, Leclerc J, Hitchins MP. MLH1 c.27G>A (p.Arg9=) is a synonymous likely/pathogenic variant underlying variably mosaic constitutional MLH1 methylation in Lynch syndrome. Familial Cancer",
+      "title": "MLH1 c",
       "pubmed_id": "40715574",
       "pmc_id": "PMC12330223",
       "year": "2025",
-      "journal": "24(3):59",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Alvarez R, Climent-Cant\u00f3 P, Shin G, Aguirre FP, Zhou L, Hazelett DJ, Larson BK, Vara C, Capell\u00e1 G, Castellanos VL, Rubio PG, Desseigne F, Ji H, Cook J, Durkie M, Pineda M, Leclerc J, Hitchins MP"
     },
     {
-      "title": "Hussain Y, Bannaga A, Fisher N, Krishnamoorthy A, Kimani P, Malik A, Truslove M, Joshi S, Hitchins M, Abbasi A, Corbett C, Brookes M, Randeva H, Than NN, Arasaradnam RP. The Fatty Liver, Cirrhosis, and Liver Cancer Study (TENDENCY): Protocol for a Multicenter Case-Control Study. JMIR Res Protoc",
+      "title": "The Fatty Liver, Cirrhosis, and Liver Cancer Study (TENDENCY): Protocol for a Multicenter Case-Control Study",
       "pubmed_id": "37256650",
       "pmc_id": "PMC10267778",
       "year": "2023",
-      "journal": "12:e44264",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Hussain Y, Bannaga A, Fisher N, Krishnamoorthy A, Kimani P, Malik A, Truslove M, Joshi S, Hitchins M, Abbasi A, Corbett C, Brookes M, Randeva H, Than NN, Arasaradnam RP",
+      "journal": "JMIR Res Protoc"
     },
     {
-      "title": "Bikhchandani M, Amersi F, Hendifar A, Gangi A, Osipov A, Zaghiyan K, Atkins K, Cho M, Aguirre F, Hazelett D, Alvarez R, Zhou L, Hitchins M, Gong J. POLE-Mutant Colon Cancer Treated with PD-1 Blockade Showing Clearance of Circulating Tumor DNA and Prolonged Disease-Free Interval. Genes (Basel)",
+      "title": "POLE-Mutant Colon Cancer Treated with PD-1 Blockade Showing Clearance of Circulating Tumor DNA and Prolonged Disease-Free Interval",
       "pubmed_id": "37239414",
       "pmc_id": "PMC10218075",
       "year": "2023",
-      "journal": "14(5)",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Bikhchandani M, Amersi F, Hendifar A, Gangi A, Osipov A, Zaghiyan K, Atkins K, Cho M, Aguirre F, Hazelett D, Alvarez R, Zhou L, Hitchins M, Gong J",
+      "journal": "Genes (Basel)"
     },
     {
-      "title": "Hitchins MP, D\u00e1maso E, Alvarez R, Zhou L, Hu Y, Diniz MA, Pineda M, Capella G, Pearlman R, Hampel H. Constitutional MLH1 Methylation Is a Major Contributor to Mismatch Repair-Deficient, MLH1-Methylated Colorectal Cancer in Patients Aged 55 Years and Younger. J Natl Compr Canc Ne",
+      "title": "Constitutional MLH1 Methylation Is a Major Contributor to Mismatch Repair-Deficient, MLH1-Methylated Colorectal Cancer in Patients Aged 55 Years and Younger",
       "pubmed_id": "37433431",
       "pmc_id": "PMC11578100",
       "year": "2023",
-      "journal": "21(7):743-752",
-      "authors": ""
+      "publication_date": "2023 Jul",
+      "authors": "Hitchins MP, D\u00e1maso E, Alvarez R, Zhou L, Hu Y, Diniz MA, Pineda M, Capella G, Pearlman R, Hampel H",
+      "journal": "J Natl Compr Canc Ne"
     },
     {
-      "title": "Ebia MI, Hitchins MP, Hendifar AE. Immunotherapy for deficient mismatch repair (dMMR) pancreatic ductal adenocarcinoma. J Gastrointest Oncol",
+      "title": "Immunotherapy for deficient mismatch repair (dMMR) pancreatic ductal adenocarcinoma",
       "pubmed_id": "37201064",
       "pmc_id": "PMC10186511",
       "year": "2023",
-      "journal": "14(2):1175-1177",
-      "authors": ""
+      "publication_date": "2023 Apr",
+      "authors": "Ebia MI, Hitchins MP, Hendifar AE",
+      "journal": "J Gastrointest Oncol"
     },
     {
-      "title": "Qureshi N, Hoffman TL, Kaneva K, Zomorrodian S, Scapa JV, Hitchins MP, Federman N. Pediatric Rectal Adenocarcinoma With Mismatch Repair Deficiency Responds to Immunotherapy. JCO Precis Oncol",
+      "title": "Pediatric Rectal Adenocarcinoma With Mismatch Repair Deficiency Responds to Immunotherapy",
       "pubmed_id": "37053536",
       "pmc_id": "PMC10309547",
       "year": "2023",
-      "journal": "7:e2200378",
-      "authors": ""
+      "publication_date": "2023 Apr",
+      "authors": "Qureshi N, Hoffman TL, Kaneva K, Zomorrodian S, Scapa JV, Hitchins MP, Federman N",
+      "journal": "JCO Precis Oncol"
     },
     {
-      "title": "Hitchins MP, Alvarez R, Zhou L, Aguirre F, D\u00e1maso E, Pineda M, Capella G, Wong JJ, Yuan X, Ryan SR, Sathe DS, Baxter MD, Cannon T, Biswas R, DeMarco T, Grzelak D, Hampel H, Pearlman R. MLH1-methylated endometrial cancer under 60 years of age as the \"sentinel\" cancer in female carriers of high-risk constitutional MLH1 epimutation. Gynecol Oncol",
+      "title": "MLH1-methylated endometrial cancer under 60 years of age as the \"sentinel\" cancer in female carriers of high-risk constitutional MLH1 epimutation",
       "pubmed_id": "36893489",
       "pmc_id": "PMC10153467",
       "year": "2023",
-      "journal": "171:129-140",
-      "authors": ""
+      "publication_date": "2023 Apr",
+      "authors": "Hitchins MP, Alvarez R, Zhou L, Aguirre F, D\u00e1maso E, Pineda M, Capella G, Wong JJ, Yuan X, Ryan SR, Sathe DS, Baxter MD, Cannon T, Biswas R, DeMarco T, Grzelak D, Hampel H, Pearlman R",
+      "journal": "Gynecol Oncol"
     },
     {
-      "title": "Gong J, Aguirre F, Hazelett D, Alvarez R, Zhou L, Hendifar A, Osipov A, Zaghiyan K, Cho M, Gangi A, Hitchins M. Circulating tumor DNA dynamics and response to immunotherapy in colorectal cancer. Mol Clin Oncol",
+      "title": "Circulating tumor DNA dynamics and response to immunotherapy in colorectal cancer",
       "pubmed_id": "35463213",
       "pmc_id": "PMC9022091",
       "year": "2022",
-      "journal": "16(5):100",
-      "authors": ""
+      "publication_date": "2022 May",
+      "authors": "Gong J, Aguirre F, Hazelett D, Alvarez R, Zhou L, Hendifar A, Osipov A, Zaghiyan K, Cho M, Gangi A, Hitchins M",
+      "journal": "Mol Clin Oncol"
     },
     {
-      "title": "Loomans-Kropp HA, Song Y, Gala M, Parikh AR, Van Seventer EE, Alvarez R, Hitchins MP, Shoemaker RH, Umar A. Methylated Septin9 (mSEPT9): A promising blood-based biomarker for the detection and screening of early-onset colorectal cancer. Cancer Res Commun",
+      "title": "Methylated Septin9 (mSEPT9): A promising blood-based biomarker for the detection and screening of early-onset colorectal cancer",
       "pubmed_id": "35992328",
       "pmc_id": "PMC9387652",
       "year": "2022",
-      "journal": "2(2):90-98",
-      "authors": ""
+      "publication_date": "2022 Feb",
+      "authors": "Loomans-Kropp HA, Song Y, Gala M, Parikh AR, Van Seventer EE, Alvarez R, Hitchins MP, Shoemaker RH, Umar A",
+      "journal": "Cancer Res Commun"
     },
     {
-      "title": "Vogelaar IP, Greer S, Wang F, Shin G, Lau B, Hu Y, Haraldsdottir S, Alvarez R, Hazelett D, Nguyen P, Aguirre FP, Guindi M, Hendifar A, Balcom J, Leininger A, Fairbank B, Ji H, Hitchins MP. Large Cancer Pedigree Involving Multiple Cancer Genes including Likely Digenic MSH2 and MSH6 Lynch Syndrome (LS) and an Instance of Recombinational Rescue from LS. Cancers (Basel)",
+      "title": "Large Cancer Pedigree Involving Multiple Cancer Genes including Likely Digenic MSH2 and MSH6 Lynch Syndrome (LS) and an Instance of Recombinational Rescue from LS",
       "pubmed_id": "36612224",
       "pmc_id": "PMC9818763",
       "year": "2022",
-      "journal": "15(1)",
-      "authors": ""
+      "publication_date": "2022 Dec",
+      "authors": "Vogelaar IP, Greer S, Wang F, Shin G, Lau B, Hu Y, Haraldsdottir S, Alvarez R, Hazelett D, Nguyen P, Aguirre FP, Guindi M, Hendifar A, Balcom J, Leininger A, Fairbank B, Ji H, Hitchins MP",
+      "journal": "Cancers (Basel)"
     }
   ],
   "grants": [],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HitchinsMegan_42707.jpg",
   "contact": {},
-  "content_hash": "319d768b0b2350856c151f79ba485d61e92d1acf4d046f6df0029187b83e40c8",
+  "content_hash": "061104c4c464ebbfd84d01d5c1d1417a73f5dcf28d4fbfe17539544ac9e5c21c",
   "researcher_name": "Megan Hitchins",
   "department": "Cancer Epidemiology"
 }

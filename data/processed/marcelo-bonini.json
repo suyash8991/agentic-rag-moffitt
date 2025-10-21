@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/marcelo-bonini",
-  "last_updated": "2025-10-19T00:24:13.098355",
+  "last_updated": "2025-10-21T16:33:15.933558",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
@@ -21,19 +21,44 @@
   "grants": [
     {
       "description": "Title: A redox-sensitive switch in the macrophage nucleus regulates acute phase inflammatory injury  \nAward Number: 7R01HL163820-04  \nSponsor: National Heart, Lung, and Blood Institute (NHLBI)  \nBonini, M. (PD/PI)",
-      "period": "3820-04"
+      "title": "A redox-sensitive switch in the macrophage nucleus regulates acute phase inflammatory injury",
+      "award_number": "7R01HL163820-04",
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "investigators": [
+        {
+          "name": "Bonini, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Suppression of progesterone receptor signaling by heavy metals promotes tamoxifen resistance and metastasis or ER+ breast cancer  \nAward Number: 7R01ES035353  \nSponsor: National Institute of Environmental Health Sciences (NIEHS)  \nBonini, M. (PD/PI)"
+      "description": "Title: Suppression of progesterone receptor signaling by heavy metals promotes tamoxifen resistance and metastasis or ER+ breast cancer  \nAward Number: 7R01ES035353  \nSponsor: National Institute of Environmental Health Sciences (NIEHS)  \nBonini, M. (PD/PI)",
+      "title": "Suppression of progesterone receptor signaling by heavy metals promotes tamoxifen resistance and metastasis or ER+ breast cancer",
+      "award_number": "7R01ES035353",
+      "sponsor": "National Institute of Environmental Health Sciences (NIEHS)",
+      "investigators": [
+        {
+          "name": "Bonini, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Every Day Counts: A lifestyle program for women with metastatic breast cancer  \nAward Number: 5R01CA258759-04  \nSponsor: Medical College of Wisconsin  \nBonini, M. (PD/PI)",
-      "period": "8759-04"
+      "title": "Every Day Counts: A lifestyle program for women with metastatic breast cancer",
+      "award_number": "5R01CA258759-04",
+      "sponsor": "Medical College of Wisconsin",
+      "investigators": [
+        {
+          "name": "Bonini, M.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BoniniMarcelo_42703.jpg",
   "contact": {},
-  "content_hash": "5bcff6355f3f721b9d7a55d67f210473e96a50e85d9473961e9b03e1b7f8bdb9",
+  "content_hash": "2a96f24289b805554a039f640ef4d5dfcbcba575c2bd033a28b2e31619afe22d",
   "researcher_name": "Marcelo Bonini",
   "department": "Metabolism and Physiology"
 }

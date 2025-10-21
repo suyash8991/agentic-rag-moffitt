@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mark-robertson-tessi",
-  "last_updated": "2025-10-19T00:25:00.939833",
+  "last_updated": "2025-10-21T16:34:03.195271",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
@@ -19,92 +19,145 @@
   "education": [],
   "publications": [
     {
-      "title": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys",
+      "title": "Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer",
       "pubmed_id": "40998270",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C",
+      "journal": "Int J Radiat Oncol Biol Phys"
     },
     {
-      "title": "Reed DR, Tulpule A, Metts J, Trucco M, Robertson-Tessi M, O'Donohue TJ, Iglesias-Cardenas F, Isakoff MS, Mauguen A, Shukla N, Dela Cruz FS, Tap W, Kentsis A, Morris CD, Hameed M, Honeyman JN, Behr GG, Sulis ML, Ortiz MV, Slotkin E. Pediatric Leukemia Roadmaps Are a Guide for Positive Metastatic Bone Sarcoma Trials. J Clin Oncol",
+      "title": "Mathematical Oncology: How Modeling Is Transforming Clinical Decision Making",
+      "pubmed_id": "41105675",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Scibilia KR, Gallagher K, Masud MA, Robertson-Tessi M, Gatenbee CD, West J, Llamas P, Prabhakaran S, Gallaher J, Anderson ARA",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Pediatric Leukemia Roadmaps Are a Guide for Positive Metastatic Bone Sarcoma Trials",
       "pubmed_id": "38843482",
       "year": "2024",
-      "journal": "42(25):2955-2960",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Reed DR, Tulpule A, Metts J, Trucco M, Robertson-Tessi M, O'Donohue TJ, Iglesias-Cardenas F, Isakoff MS, Mauguen A, Shukla N, Dela Cruz FS, Tap W, Kentsis A, Morris CD, Hameed M, Honeyman JN, Behr GG, Sulis ML, Ortiz MV, Slotkin E",
+      "journal": "J Clin Oncol"
     },
     {
-      "title": "Metts JL, Aye JM, Crane JN, Oberoi S, Balis FM, Bhatia S, Bona K, Carleton B, Dasgupta R, Dela Cruz FS, Greenzang KA, Kaufman JL, Linardic CM, Parsons SK, Robertson-Tessi M, Rudzinski ER, Soragni A, Stewart E, Weigel BJ, Wolden SL, Weiss AR, Venkatramani R, Heske CM. Roadmap for the next generation of Children's Oncology Group rhabdomyosarcoma trials. Cancer",
+      "title": "Roadmap for the next generation of Children's Oncology Group rhabdomyosarcoma trials",
       "pubmed_id": "38941509",
       "pmc_id": "PMC11511643",
       "year": "2024",
-      "journal": "130(22):3785-3796",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Metts JL, Aye JM, Crane JN, Oberoi S, Balis FM, Bhatia S, Bona K, Carleton B, Dasgupta R, Dela Cruz FS, Greenzang KA, Kaufman JL, Linardic CM, Parsons SK, Robertson-Tessi M, Rudzinski ER, Soragni A, Stewart E, Weigel BJ, Wolden SL, Weiss AR, Venkatramani R, Heske CM",
+      "journal": "Cancer"
     },
     {
-      "title": "Strobl MAR, Martin AL, West J, Gallaher J, Robertson-Tessi M, Gatenby R, Wenham R, Maini PK, Damaghi M, Anderson ARA. To modulate or to skip: De-escalating PARP inhibitor maintenance therapy in ovarian cancer using adaptive therapy. Cell Syst",
+      "title": "To modulate or to skip: De-escalating PARP inhibitor maintenance therapy in ovarian cancer using adaptive therapy",
       "pubmed_id": "38772367",
       "pmc_id": "PMC11190943",
       "year": "2024",
-      "journal": "15(6):510-525",
-      "authors": ""
+      "publication_date": "2024 Jun",
+      "authors": "Strobl MAR, Martin AL, West J, Gallaher J, Robertson-Tessi M, Gatenby R, Wenham R, Maini PK, Damaghi M, Anderson ARA",
+      "journal": "Cell Syst"
     },
     {
-      "title": "West J, Rentzeperis F, Adam C, Bravo R, Luddy KA, Robertson-Tessi M, Anderson ARA. Tumor-immune metaphenotypes orchestrate an evolutionary bottleneck that promotes metabolic transformation. Front Immunol",
+      "title": "Tumor-immune metaphenotypes orchestrate an evolutionary bottleneck that promotes metabolic transformation",
       "pubmed_id": "38426105",
       "pmc_id": "PMC10902449",
       "year": "2024",
-      "journal": "15:1323319",
-      "authors": ""
+      "publication_date": "2024 Feb",
+      "authors": "West J, Rentzeperis F, Adam C, Bravo R, Luddy KA, Robertson-Tessi M, Anderson ARA",
+      "journal": "Front Immunol"
     },
     {
-      "title": "Strobl MAR, Gallaher J, Robertson-Tessi M, West J, Anderson ARA. Treatment of evolving cancers will require dynamic decision support. Ann Oncol",
+      "title": "Treatment of evolving cancers will require dynamic decision support",
       "pubmed_id": "37777307",
       "year": "2023",
-      "journal": "34(10):867-884",
-      "authors": ""
+      "publication_date": "2023 Oct",
+      "authors": "Strobl MAR, Gallaher J, Robertson-Tessi M, West J, Anderson ARA",
+      "journal": "Ann Oncol"
     },
     {
-      "title": "Welch DL, Fridley BL, Cen L, Teer JK, Yoder SJ, Pettersson F, Xu L, Cheng CH, Zhang Y, Alexandrow MG, Xiang S, Robertson-Tessi M, Brown JS, Metts J, Brohl AS, Reed DR. Modeling phenotypic heterogeneity towards evolutionarily inspired osteosarcoma therapy. Sci Rep",
+      "title": "Modeling phenotypic heterogeneity towards evolutionarily inspired osteosarcoma therapy",
       "pubmed_id": "37978271",
       "pmc_id": "PMC10656496",
       "year": "2023",
-      "journal": "13(1):20125",
-      "authors": ""
+      "publication_date": "2023 Nov",
+      "authors": "Welch DL, Fridley BL, Cen L, Teer JK, Yoder SJ, Pettersson F, Xu L, Cheng CH, Zhang Y, Alexandrow MG, Xiang S, Robertson-Tessi M, Brown JS, Metts J, Brohl AS, Reed DR",
+      "journal": "Sci Rep"
     },
     {
-      "title": "West J, Adler F, Gallaher J, Strobl M, Brady-Nicholls R, Brown J, Robertson-Tessi M, Kim E, Noble R, Viossat Y, Basanta D, Anderson ARA. A survey of open questions in adaptive therapy: Bridging mathematics and clinical translation. Elife",
+      "title": "A survey of open questions in adaptive therapy: Bridging mathematics and clinical translation",
       "pubmed_id": "36952376",
       "pmc_id": "PMC10036119",
       "year": "2023",
-      "journal": "12",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "West J, Adler F, Gallaher J, Strobl M, Brady-Nicholls R, Brown J, Robertson-Tessi M, Kim E, Noble R, Viossat Y, Basanta D, Anderson ARA",
+      "journal": "Elife"
     },
     {
-      "title": "Strobl M, Martin AL, West J, Gallaher J, Robertson-Tessi M, Gatenby R, Wenham R, Maini P, Damaghi M, Anderson A. Adaptive therapy for ovarian cancer: An integrated approach to PARP inhibitor scheduling. bioRxiv",
+      "title": "Adaptive therapy for ovarian cancer: An integrated approach to PARP inhibitor scheduling",
       "pubmed_id": "36993591",
       "pmc_id": "PMC10055330",
       "year": "2023",
-      "authors": ""
-    },
-    {
-      "title": "Gatenbee CD, Baker AM, Prabhakaran S, Swinyard O, Slebos RJC, Mandal G, Mulholland E, Andor N, Marusyk A, Leedham S, Conejo-Garcia JR, Chung CH, Robertson-Tessi M, Graham TA, Anderson ARA. Virtual alignment of pathology image series for multi-gigapixel whole slide images. Nat Commun",
-      "pubmed_id": "37495577",
-      "pmc_id": "PMC10372014",
-      "year": "2023",
-      "journal": "14(1):4502",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Strobl M, Martin AL, West J, Gallaher J, Robertson-Tessi M, Gatenby R, Wenham R, Maini P, Damaghi M, Anderson A",
+      "journal": "bioRxiv"
     }
   ],
   "grants": [
     {
-      "description": "Title: Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice  \nAward Number: 24-0147-AR  \nSponsor: MITSUI & CO. (USA), INC  \nAnderson, A. (PD/PI), Gatenby, R. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)"
+      "description": "Title: Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice  \nAward Number: 24-0147-AR  \nSponsor: MITSUI & CO. (USA), INC  \nAnderson, A. (PD/PI), Gatenby, R. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)",
+      "title": "Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice",
+      "award_number": "24-0147-AR",
+      "sponsor": "MITSUI & CO. (USA), INC",
+      "investigators": [
+        {
+          "name": "Anderson, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Gatenby, R.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Tessi, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB  \nAward Number: 23L11  \nSponsor: Florida Department of Health  \nMetts, J. (PD/PI), Anderson, A. (Co-PD/PI), Brown, J. (Co-PD/PI), Marusyk, A. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)"
+      "description": "Title: Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB  \nAward Number: 23L11  \nSponsor: Florida Department of Health  \nMetts, J. (PD/PI), Anderson, A. (Co-PD/PI), Brown, J. (Co-PD/PI), Marusyk, A. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)",
+      "title": "Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB",
+      "award_number": "23L11",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Metts, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Anderson, A.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Brown, J.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Marusyk, A.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Tessi, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "",
   "contact": {},
-  "content_hash": "31ea4ceed0688986f1d8f6d43889a0681133e338c1560fa459c6f0e000f65fe3",
+  "content_hash": "4dbda17f9e3a5366bb2959a6c2046a8e57cef9a6eb4a5c6e76dd0c88d8c9260e",
   "researcher_name": "Mark Robertson Tessi",
   "department": "Integrated Mathematical Oncology"
 }

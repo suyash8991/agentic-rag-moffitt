@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/eduardo-moros",
-  "last_updated": "2025-10-19T00:25:15.640564",
+  "last_updated": "2025-10-21T16:34:18.505668",
   "researcher_id": "9068",
   "degrees": [
     "PhD"
@@ -35,93 +35,123 @@
   ],
   "publications": [
     {
-      "title": "Fajemisin JA, Bryant JM, Saghand PG, Mills MN, Latifi K, Moros EG, Feygelman V, Frakes JM, Hoffe SE, Mittauer KE, Kutuk T, Kotecha R, El Naqa I, Rosenberg SA. Delta-Radiomics Using Machine Learning Classifiers With Auxiliary Data Sets to Predict Disease Progression During Magnetic Resonance-Guided Radiotherapy in Adrenal Metastases. JCO Clin Cancer Inform",
+      "title": "Delta-Radiomics Using Machine Learning Classifiers With Auxiliary Data Sets to Predict Disease Progression During Magnetic Resonance-Guided Radiotherapy in Adrenal Metastases",
       "pubmed_id": "39854670",
       "year": "2025",
-      "journal": "9:e2400002",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Fajemisin JA, Bryant JM, Saghand PG, Mills MN, Latifi K, Moros EG, Feygelman V, Frakes JM, Hoffe SE, Mittauer KE, Kutuk T, Kotecha R, El Naqa I, Rosenberg SA",
+      "journal": "JCO Clin Cancer Inform"
     },
     {
-      "title": "Bekker RA, Obertopp N, Redler G, Penagaricano J, Caudell JJ, Yamoah K, Pilon-Thomas S, Moros EG, Enderling H. Spatially fractionated GRID radiation potentiates immune-mediated tumor control. Radiat Oncol",
+      "title": "Spatially fractionated GRID radiation potentiates immune-mediated tumor control",
       "pubmed_id": "39272128",
       "pmc_id": "PMC11401399",
       "year": "2024",
-      "journal": "19(1):121",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Bekker RA, Obertopp N, Redler G, Penagaricano J, Caudell JJ, Yamoah K, Pilon-Thomas S, Moros EG, Enderling H",
+      "journal": "Radiat Oncol"
     },
     {
-      "title": "Fajemisin JA, Gonzalez G, Rosenberg SA, Ullah G, Redler G, Latifi K, Moros EG, El Naqa I. Magnetic Resonance-Guided Cancer Therapy Radiomics and Machine Learning Models for Response Prediction. Tomography",
+      "title": "Magnetic Resonance-Guided Cancer Therapy Radiomics and Machine Learning Models for Response Prediction",
       "pubmed_id": "39330753",
       "pmc_id": "PMC11435563",
       "year": "2024",
-      "journal": "10(9):1439-1454",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Fajemisin JA, Gonzalez G, Rosenberg SA, Ullah G, Redler G, Latifi K, Moros EG, El Naqa I",
+      "journal": "Tomography"
     },
     {
-      "title": "Stern W, Alaei P, Berbeco R, DeWerd LA, Kamen J, MacKenzie C, Moros EG, Poirier Y, Potter CA, Schaue D, Patallo IS, Abend M, Swarts S, Trompier F. Recommendations for harmonized reporting of radiation Dosimetry by adoption of Compatibility in Irradiation Research Protocols Expert Roundtable (CIRPER). Int J Radiat Biol",
+      "title": "Recommendations for harmonized reporting of radiation Dosimetry by adoption of Compatibility in Irradiation Research Protocols Expert Roundtable (CIRPER)",
       "pubmed_id": "38568854",
       "year": "2024",
-      "journal": "100(6):821-823",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Stern W, Alaei P, Berbeco R, DeWerd LA, Kamen J, MacKenzie C, Moros EG, Poirier Y, Potter CA, Schaue D, Patallo IS, Abend M, Swarts S, Trompier F",
+      "journal": "Int J Radiat Biol"
     },
     {
-      "title": "Koo J, Caudell J, Latifi K, Moros EG, Feygelman V. Essentially unedited deep-learning-based OARs are suitable for rigorous oropharyngeal and laryngeal cancer treatment planning. J Appl Clin Med Phys",
+      "title": "Achieving Consistent Reporting of Radiation Dosimetry by Adoption of Compatibility in Irradiation Research Protocols Expert Roundtable (CIRPER) Recommendations",
+      "pubmed_id": "38205905",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Stern W, Alaei P, Berbeco R, DeWerd LA, Kamen J, MacKenzie C, Moros EG, Poirier Y, Potter CA, Schaue D, Patallo IS, Abend M, Swarts S, Trompier F",
+      "journal": "Radiat Res"
+    },
+    {
+      "title": "Essentially unedited deep-learning-based OARs are suitable for rigorous oropharyngeal and laryngeal cancer treatment planning",
       "pubmed_id": "37942993",
       "pmc_id": "PMC10930009",
       "year": "2024",
-      "journal": "25(3):e14202",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Koo J, Caudell J, Latifi K, Moros EG, Feygelman V",
+      "journal": "J Appl Clin Med Phys"
     },
     {
-      "title": "Stern W, Alaei P, Berbeco R, DeWerd LA, Kamen J, MacKenzie C, Moros EG, Poirier Y, Potter CA, Schaue D, Patallo IS, Abend M, Swarts S, Trompier F. Achieving Consistent Reporting of Radiation Dosimetry by Adoption of Compatibility in Irradiation Research Protocols Expert Roundtable (CIRPER) Recommendations. Radiat Res",
-      "pubmed_id": "38205905",
-      "year": "2024",
-      "journal": "201(3):267-269",
-      "authors": ""
-    },
-    {
-      "title": "Nasser N, Perez BA, Penagaricano JA, Caudell JJ, Oliver DE, Latifi K, Moros EG, Redler G. Technical feasibility of novel immunostimulatory low-dose radiation for polymetastatic disease with CBCT-based online adaptive and conventional approaches. J Appl Clin Med Phys",
+      "title": "Technical feasibility of novel immunostimulatory low-dose radiation for polymetastatic disease with CBCT-based online adaptive and conventional approaches",
       "pubmed_id": "38377378",
       "pmc_id": "PMC11163490",
       "year": "2024",
-      "journal": "25(6):e14303",
-      "authors": ""
+      "publication_date": "2024 Jun",
+      "authors": "Nasser N, Perez BA, Penagaricano JA, Caudell JJ, Oliver DE, Latifi K, Moros EG, Redler G",
+      "journal": "J Appl Clin Med Phys"
     },
     {
-      "title": "Browning AP, Lewin TD, Baker RE, Maini PK, Moros EG, Caudell J, Byrne HM, Enderling H. Predicting Radiotherapy Patient Outcomes with Real-Time Clinical Data Using Mathematical Modelling. Bull Math Biol",
+      "title": "Predicting Radiotherapy Patient Outcomes with Real-Time Clinical Data Using Mathematical Modelling",
       "pubmed_id": "38238433",
       "pmc_id": "PMC10796515",
       "year": "2024",
-      "journal": "86(2):19",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Browning AP, Lewin TD, Baker RE, Maini PK, Moros EG, Caudell J, Byrne HM, Enderling H",
+      "journal": "Bull Math Biol"
     },
     {
-      "title": "Browning AP, Lewin TD, Baker RE, Maini PK, Moros EG, Caudell J, Byrne HM, Enderling H. Correction to: Predicting Radiotherapy Patient Outcomes with Real-Time Clinical Data Using Mathematical Modelling. Bull Math Biol",
+      "title": "Correction to: Predicting Radiotherapy Patient Outcomes with Real-Time Clinical Data Using Mathematical Modelling",
       "pubmed_id": "38416252",
       "pmc_id": "PMC10901960",
       "year": "2024",
-      "journal": "86(4):35",
-      "authors": ""
+      "publication_date": "2024 Feb",
+      "authors": "Browning AP, Lewin TD, Baker RE, Maini PK, Moros EG, Caudell J, Byrne HM, Enderling H",
+      "journal": "Bull Math Biol"
     },
     {
-      "title": "Weygand J, Armstrong T, Bryant JM, Andreozzi JM, Oraiqat IM, Nichols S, Liveringhouse CL, Latifi K, Yamoah K, Costello JR, Frakes JM, Moros EG, El Naqa IM, Naghavi AO, Rosenberg SA, Redler G. Accurate, repeatable, and geometrically precise diffusion-weighted imaging on a 0.35 T magnetic resonance imaging-guided linear accelerator. Phys Imaging Radiat Oncol",
+      "title": "Accurate, repeatable, and geometrically precise diffusion-weighted imaging on a 0",
       "pubmed_id": "38045642",
       "pmc_id": "PMC10692914",
       "year": "2023",
-      "journal": "28:100505",
-      "authors": ""
+      "publication_date": "2023 Oct",
+      "authors": "Weygand J, Armstrong T, Bryant JM, Andreozzi JM, Oraiqat IM, Nichols S, Liveringhouse CL, Latifi K, Yamoah K, Costello JR, Frakes JM, Moros EG, El Naqa IM, Naghavi AO, Rosenberg SA, Redler G"
     }
   ],
   "grants": [
     {
-      "description": "Title: Objective Evaluation of Machine Learning Potential for Automated Segmentation and Generation of Head and Neck Plans with Proven Reduced Toxicity  \nAward Number: 22A028-S1.01  \nSponsor: VARIAN MEDICAL SYSTEMS, INC.  \nFeygelman, V. (PD/PI), Caudell, J. (Co-PD/PI), Latifi, K. (Co-PD/PI), Moros, E. (Co-PD/PI)"
+      "description": "Title: Objective Evaluation of Machine Learning Potential for Automated Segmentation and Generation of Head and Neck Plans with Proven Reduced Toxicity  \nAward Number: 22A028-S1.01  \nSponsor: VARIAN MEDICAL SYSTEMS, INC.  \nFeygelman, V. (PD/PI), Caudell, J. (Co-PD/PI), Latifi, K. (Co-PD/PI), Moros, E. (Co-PD/PI)",
+      "title": "Objective Evaluation of Machine Learning Potential for Automated Segmentation and Generation of Head and Neck Plans with Proven Reduced Toxicity",
+      "award_number": "22A028-S1.01",
+      "sponsor": "VARIAN MEDICAL SYSTEMS, INC.",
+      "investigators": [
+        {
+          "name": "Feygelman, V.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Caudell, J.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Latifi, K.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Moros, E.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MorosEduardo_9068.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=9068"
   },
-  "content_hash": "20ffdb33e0e42e6550a6fad777b00e112fa933de84125addd3130036a997a2b6",
+  "content_hash": "539d91b7ad051b219c4b2f1eade1666a49326da69658107b52fae4c50f166b3a",
   "researcher_name": "Eduardo Moros",
   "department": "Machine Learning"
 }

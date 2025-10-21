@@ -8,10 +8,15 @@ access to researcher information using natural language queries.
 import os
 import sys
 import streamlit as st
-import logging
 from typing import List, Dict, Any, Optional
 from pathlib import Path
+import datetime
 
+# Import centralized logging
+from ..utils.logging import get_logger, log_ui_event, init_logging, configure_exception_logging
+
+# Get logger for this module
+logger = get_logger(__name__)
 # Handle imports in a way that works both when imported as a module and when run directly
 try:
     # First try relative imports (when imported as a module)
@@ -406,6 +411,21 @@ def render_settings():
 
 def main():
     """Main application entry point"""
+    # Initialize logging system if not already initialized
+    try:
+        init_logging(
+            console_level=None,  # Use environment-based level
+            file_level=None,     # Use DEBUG for files
+            enable_query_log=True,
+            enable_error_log=True,
+            enable_structured_logs=True
+        )
+        configure_exception_logging()
+        logger.info("Logging system initialized successfully")
+    except Exception as e:
+        # If logging initialization fails, continue without it
+        print(f"Warning: Could not initialize logging system: {e}")
+    
     # Log application start
     logger.info("Starting Moffitt Agentic RAG application")
     log_ui_event("application_start", {

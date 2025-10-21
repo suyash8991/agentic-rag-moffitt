@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/matthew-schabath",
-  "last_updated": "2025-10-19T00:26:22.182171",
+  "last_updated": "2025-10-21T16:35:31.572511",
   "researcher_id": "4627",
   "degrees": [
     "PhD",
@@ -38,130 +38,270 @@
   ],
   "publications": [
     {
-      "title": "Ho WLJ, Fetisov N, Hall LO, Goldgof D, Schabath MB. Utilizing Clinicopathological and Radiomic Features for Risk Stratification of Lung Cancer Recurrence. Acad Radiol",
+      "title": "Utilizing Clinicopathological and Radiomic Features for Risk Stratification of Lung Cancer Recurrence",
       "pubmed_id": "40379589",
       "year": "2025",
-      "journal": "32(9):5557-5566",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Ho WLJ, Fetisov N, Hall LO, Goldgof D, Schabath MB",
+      "journal": "Acad Radiol"
     },
     {
-      "title": "Mohammed-Ali S, Umutoni V, Schabath MB, Nyitray AG, Sirak B, Lazcano-Ponce E, Villa L, Giuliano AR, Sudenga SL. The Association Between Alcohol Consumption and Anal Human Papillomavirus in the HPV Infection in Men Study. medRxiv",
+      "title": "The Association Between Alcohol Consumption and Anal Human Papillomavirus in the HPV Infection in Men Study",
       "pubmed_id": "40475161",
       "pmc_id": "PMC12140543",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Mohammed-Ali S, Umutoni V, Schabath MB, Nyitray AG, Sirak B, Lazcano-Ponce E, Villa L, Giuliano AR, Sudenga SL",
+      "journal": "medRxiv"
     },
     {
-      "title": "Kim K, Syeed S, Au T, Diaz A, Schabath MB, Cass A, Hall R, Pai L, Li C, Balmaceda N, Palumbo A, Carey A, Lalla M, Henry M, Brixner D, Stenehjem D. Real-world comparative outcomes of EGFR-TKIs for first-line treatment of EGFR+ metastatic non-small-cell lung cancer. Cancer Treat Res Commun",
+      "title": "Real-world comparative outcomes of EGFR-TKIs for first-line treatment of EGFR+ metastatic non-small-cell lung cancer",
       "pubmed_id": "40120239",
       "year": "2025",
-      "journal": "43:100898",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Kim K, Syeed S, Au T, Diaz A, Schabath MB, Cass A, Hall R, Pai L, Li C, Balmaceda N, Palumbo A, Carey A, Lalla M, Henry M, Brixner D, Stenehjem D",
+      "journal": "Cancer Treat Res Commun"
     },
     {
-      "title": "Zhang T, Zhao W, Wirth C, D\u00edaz-Gay M, Yin J, Cecati M, Marchegiani F, Hoang PH, Leduc C, Baine MK, Travis WD, Sholl LM, Joubert P, Sang J, McElderry JP, Klein A, Khandekar A, Hartman C, Rosenbaum J, Col\u00f3n-Matos FJ, Miraftab M, Saha M, Lee OW, Jones KM, Caporaso NE, Wong MP, Leung KC, Agnes Hsiung C, Chen CY, Edell ES, Mart\u00ednez Santamar\u00eda J, Schabath MB, Yendamuri SS, Manczuk M, Lissowska J, \u015awi\u0105tkowska B, Mukeria A, Shangina O, Zaridze D, Holcatova I, Mates D, Milosavljevic S, Savic M, Boss\u00e9 Y, Gould Rothberg BE, Christiani DC, Gaborieau V, Brennan P, Liu G, Hofman P, Homer R, Yang SR, Pesatori AC, Consonni D, Yang L, Zhu B, Shi J, Brown K, Rothman N, Chanock SJ, Alexandrov LB, Choi J, Cardelli M, Lan Q, Nowak MA, Wedge DC, Landi MT. Deciphering lung adenocarcinoma evolution and the role of LINE-1 retrotransposition. bioRxiv",
-      "pubmed_id": "40161734",
-      "pmc_id": "PMC11952568",
-      "year": "2025",
-      "authors": ""
-    },
-    {
-      "title": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Correction: Park et al. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers 2024, 16, 2364. Cancers (Basel)",
+      "title": "Correction: Park et al",
       "pubmed_id": "40149388",
       "pmc_id": "PMC11941415",
       "year": "2025",
-      "journal": "17(6)",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB",
+      "journal": "Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration"
     },
     {
-      "title": "Pratt-Chapman ML, Miech EJ, Mullins MA, Chang S, Quinn GP, Maingi S, Schabath MB, Kamen C. Difference-Makers for Collecting Sexual Orientation and Gender Identity Data in Oncology Settings. Cancer Med",
+      "title": "Deciphering lung adenocarcinoma evolution and the role of LINE-1 retrotransposition",
+      "pubmed_id": "40161734",
+      "pmc_id": "PMC11952568",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Zhang T, Zhao W, Wirth C, D\u00edaz-Gay M, Yin J, Cecati M, Marchegiani F, Hoang PH, Leduc C, Baine MK, Travis WD, Sholl LM, Joubert P, Sang J, McElderry JP, Klein A, Khandekar A, Hartman C, Rosenbaum J, Col\u00f3n-Matos FJ, Miraftab M, Saha M, Lee OW, Jones KM, Caporaso NE, Wong MP, Leung KC, Agnes Hsiung C, Chen CY, Edell ES, Mart\u00ednez Santamar\u00eda J, Schabath MB, Yendamuri SS, Manczuk M, Lissowska J, \u015awi\u0105tkowska B, Mukeria A, Shangina O, Zaridze D, Holcatova I, Mates D, Milosavljevic S, Savic M, Boss\u00e9 Y, Gould Rothberg BE, Christiani DC, Gaborieau V, Brennan P, Liu G, Hofman P, Homer R, Yang SR, Pesatori AC, Consonni D, Yang L, Zhu B, Shi J, Brown K, Rothman N, Chanock SJ, Alexandrov LB, Choi J, Cardelli M, Lan Q, Nowak MA, Wedge DC, Landi MT",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "Difference-Makers for Collecting Sexual Orientation and Gender Identity Data in Oncology Settings",
       "pubmed_id": "40047060",
       "pmc_id": "PMC11883291",
       "year": "2025",
-      "journal": "14(5):e70727",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Pratt-Chapman ML, Miech EJ, Mullins MA, Chang S, Quinn GP, Maingi S, Schabath MB, Kamen C",
+      "journal": "Cancer Med"
     },
     {
-      "title": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y. Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data. JNCI Cancer Spectr",
+      "title": "Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data",
       "pubmed_id": "40111867",
       "pmc_id": "PMC11986816",
       "year": "2025",
-      "journal": "9(2)",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y",
+      "journal": "JNCI Cancer Spectr"
     },
     {
-      "title": "Koutsoubis N, Waqas A, Yilmaz Y, Ramachandran RP, Schabath MB, Rasool G. Privacy-preserving Federated Learning and Uncertainty Quantification in Medical Imaging. Radiol Artif Intell",
+      "title": "Privacy-preserving Federated Learning and Uncertainty Quantification in Medical Imaging",
       "pubmed_id": "40366260",
       "pmc_id": "PMC12319697",
       "year": "2025",
-      "journal": "7(4):e240637",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Koutsoubis N, Waqas A, Yilmaz Y, Ramachandran RP, Schabath MB, Rasool G",
+      "journal": "Radiol Artif Intell"
     },
     {
-      "title": "Byun J, Han Y, Choi J, Sun R, Shaw VR, Zhu C, Xiao X, Lusk C, Badr H, Lee HS, Jang HJ, Li Y, Lim H, Long E, Liu Y, Kachuri L, Walsh KM, Wiencke JK, Albanes D, Lam S, Tardon A, Neuhouser ML, Barnett MJ, Chen C, Bojesen S, Brenner H, Landi MT, Johansson M, Risch A, Wichmann HE, Bickeb\u00f6ller H, Christiani DC, Rennert G, Arnold S, Field JK, Shete S, Le Marchand L, Liu G, Andrew AS, Zienolddiny S, Grankvist K, Johansson M, Caporaso N, Taylor F, Lazarus P, Schabath MB, Aldrich MC, Patel A, Lin X, Zanetti KA, Harris CC, Chanock S, McKay J, Schwartz AG, Hung RJ, Amos CI. Genome-wide association study for lung cancer in 6531 African Americans reveals new susceptibility loci. Hum Mol Genet",
-      "pubmed_id": "40341939",
-      "year": "2025",
-      "journal": "34(14):1227-1237",
-      "authors": ""
-    },
-    {
-      "title": "Waqas A, Tripathi A, Ahmed S, Mukund A, Farooq H, Johnson JO, Stewart PA, Naeini M, Schabath MB, Rasool G. Self-Normalizing Multi-Omics Neural Network for Pan-Cancer Prognostication. Int J Mol Sci",
+      "title": "Self-Normalizing Multi-Omics Neural Network for Pan-Cancer Prognostication",
       "pubmed_id": "40806487",
       "pmc_id": "PMC12347193",
       "year": "2025",
-      "journal": "26(15)",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Waqas A, Tripathi A, Ahmed S, Mukund A, Farooq H, Johnson JO, Stewart PA, Naeini M, Schabath MB, Rasool G",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Genome-wide association study for lung cancer in 6531 African Americans reveals new susceptibility loci",
+      "pubmed_id": "40341939",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Byun J, Han Y, Choi J, Sun R, Shaw VR, Zhu C, Xiao X, Lusk C, Badr H, Lee HS, Jang HJ, Li Y, Lim H, Long E, Liu Y, Kachuri L, Walsh KM, Wiencke JK, Albanes D, Lam S, Tardon A, Neuhouser ML, Barnett MJ, Chen C, Bojesen S, Brenner H, Landi MT, Johansson M, Risch A, Wichmann HE, Bickeb\u00f6ller H, Christiani DC, Rennert G, Arnold S, Field JK, Shete S, Le Marchand L, Liu G, Andrew AS, Zienolddiny S, Grankvist K, Johansson M, Caporaso N, Taylor F, Lazarus P, Schabath MB, Aldrich MC, Patel A, Lin X, Zanetti KA, Harris CC, Chanock S, McKay J, Schwartz AG, Hung RJ, Amos CI",
+      "journal": "Hum Mol Genet"
     }
   ],
   "grants": [
     {
       "description": "Title: Quantitative Imaging Clinical Validation Center at Moffitt Cancer Center  \nAward Number: 5U01CA200464-08  \nSponsor: National Cancer Institute (NCI)  \nHeine, J. (PD/PI), Schabath, M. (PD/PI)",
+      "title": "Quantitative Imaging Clinical Validation Center at Moffitt Cancer Center",
+      "award_number": "5U01CA200464-08",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0464-08"
+      "investigators": [
+        {
+          "name": "Heine, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Patient-Reported Outcomes as Novel Biomarkers for Monitoring Cancer Progression and Response to Treatment: A Validation Study  \nAward Number: 25C20  \nSponsor: Florida Department of Health  \nJim, H. (PD/PI), Brady, R. (Co-PD/PI), Schabath, M. (Co-PD/PI)"
+      "description": "Title: Patient-Reported Outcomes as Novel Biomarkers for Monitoring Cancer Progression and Response to Treatment: A Validation Study  \nAward Number: 25C20  \nSponsor: Florida Department of Health  \nJim, H. (PD/PI), Brady, R. (Co-PD/PI), Schabath, M. (Co-PD/PI)",
+      "title": "Patient-Reported Outcomes as Novel Biomarkers for Monitoring Cancer Progression and Response to Treatment: A Validation Study",
+      "award_number": "25C20",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Jim, H.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Brady, R.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Schabath, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Radiomic Biomarkers for Clinical Decision Support That Predict Patient Outcomes in Serous Ovarian Carcinoma  \nAward Number: 1R56CA279060-01A1  \nSponsor: National Cancer Institute (NCI)  \nPeres, L. (PD/PI), Schabath, M. (PD/PI)",
+      "title": "Radiomic Biomarkers for Clinical Decision Support That Predict Patient Outcomes in Serous Ovarian Carcinoma",
+      "award_number": "1R56CA279060-01A1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "9060-01"
+      "investigators": [
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Automated De-Identification of Pathology and Radiology Data  \nAward Number: Federal Contract75N91023C00041  \nSponsor: National Cancer Institute (NCI)  \nRasool, G. (PD/PI), Bui, M. (Co-PD/PI), Farinhas, J. (Co-PD/PI), Schabath, M. (Co-PD/PI)",
-      "source": "NCI"
+      "title": "Automated De-Identification of Pathology and Radiology Data",
+      "award_number": "Federal Contract75N91023C00041",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Rasool, G.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Bui, M.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Farinhas, J.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Schabath, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Pre- and Post-Diagnosis Metformin Use and Ovarian Cancer Survival  \nAward Number: RSG-22-047-01 - HOPS  \nSponsor: American Cancer Society, Inc. (ACS)  \nSchabath, M. (PD/PI)",
-      "source": "American Cancer Society"
+      "title": "Pre- and Post-Diagnosis Metformin Use and Ovarian Cancer Survival",
+      "award_number": "RSG-22-047-01 - HOPS",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Identification of Ovarian Cancer Risk Factors Among Women with Endometriosis  \nAward Number: CARE-R-2024-2-1275012  \nSponsor: Ovarian Cancer Research Alliance (OCRA)  \nSchabath, M. (PD/PI)"
+      "description": "Title: Identification of Ovarian Cancer Risk Factors Among Women with Endometriosis  \nAward Number: CARE-R-2024-2-1275012  \nSponsor: Ovarian Cancer Research Alliance (OCRA)  \nSchabath, M. (PD/PI)",
+      "title": "Identification of Ovarian Cancer Risk Factors Among Women with Endometriosis",
+      "award_number": "CARE-R-2024-2-1275012",
+      "sponsor": "Ovarian Cancer Research Alliance (OCRA)",
+      "investigators": [
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: A Pilot Study of a Novel Lung Cancer Diagnostic Using an Exhaled Breath Platform  \nAward Number: 23-0154-S1  \nSponsor: DETECT-ION  \nSchabath, M. (PD/PI)"
+      "description": "Title: A Pilot Study of a Novel Lung Cancer Diagnostic Using an Exhaled Breath Platform  \nAward Number: 23-0154-S1  \nSponsor: DETECT-ION  \nSchabath, M. (PD/PI)",
+      "title": "A Pilot Study of a Novel Lung Cancer Diagnostic Using an Exhaled Breath Platform",
+      "award_number": "23-0154-S1",
+      "sponsor": "DETECT-ION",
+      "investigators": [
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Intratumoral Microbiota and Immune Predictors of Response to Immunotherapy in Lung Cancer  \nAward Number: 5R01CA285882-02  \nSponsor: National Cancer Institute (NCI)  \nSchabath, M. (PD/PI)",
+      "title": "Intratumoral Microbiota and Immune Predictors of Response to Immunotherapy in Lung Cancer",
+      "award_number": "5R01CA285882-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "5882-02"
+      "investigators": [
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Non-invasive radiomic biomarkers to predict treatment response for immunotherapy of lung cancer  \nAward Number: 21B12  \nSponsor: Florida Department of Health  \nSchabath, M. (PD/PI)"
+      "description": "Title: Non-invasive radiomic biomarkers to predict treatment response for immunotherapy of lung cancer  \nAward Number: 21B12  \nSponsor: Florida Department of Health  \nSchabath, M. (PD/PI)",
+      "title": "Non-invasive radiomic biomarkers to predict treatment response for immunotherapy of lung cancer",
+      "award_number": "21B12",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Infrastructure Expansion for an Enduring Rapid Tissue Donation Program  \nAward Number: 24K02  \nSponsor: Florida Department of Health  \nSchabath, M. (PD/PI), Boyle, T. (Co-PD/PI)"
+      "description": "Title: Infrastructure Expansion for an Enduring Rapid Tissue Donation Program  \nAward Number: 24K02  \nSponsor: Florida Department of Health  \nSchabath, M. (PD/PI), Boyle, T. (Co-PD/PI)",
+      "title": "Infrastructure Expansion for an Enduring Rapid Tissue Donation Program",
+      "award_number": "24K02",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Boyle, T.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Landscape of Lung Cancer Survivorship Survey  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nSchabath, M. (PD/PI)",
-      "source": "American Cancer Society"
+      "title": "Landscape of Lung Cancer Survivorship Survey",
+      "award_number": "",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SchabathMatthew_4627.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4627"
   },
-  "content_hash": "575430b5edeea7257194b4dbf4b5cd74049ae70d6106a734cc8665a7565a01a7",
+  "content_hash": "2b0a2ea7996e56a770f7bff9c004e881ee10a22bf7ec0e51ea90ced3f79b41c6",
   "researcher_name": "Matthew Schabath",
   "department": "Cancer Epidemiology"
 }

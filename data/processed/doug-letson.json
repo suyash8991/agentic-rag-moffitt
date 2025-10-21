@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/doug-letson",
-  "last_updated": "2025-10-19T00:29:52.661213",
+  "last_updated": "2025-10-21T16:38:53.755116",
   "researcher_id": "1337",
   "degrees": [
     "MD"
@@ -41,79 +41,89 @@
   ],
   "publications": [
     {
-      "title": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS. Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes. Nat Commun",
+      "title": "Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes",
       "pubmed_id": "40328759",
       "pmc_id": "PMC12055966",
       "year": "2025",
-      "journal": "16(1):4206",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Kuruvilla D, Huynh T, Nester M, Chose C, Zervoudakis G, Letson GD, Joyce DM, Binitie OT, Figura NB, Costello JR, Freeman CL, Lazarides AL. Management of bone disease with concurrent chimeric antigen receptor T-cell therapy for multiple myeloma. Crit Rev Oncol Hematol",
+      "title": "Management of bone disease with concurrent chimeric antigen receptor T-cell therapy for multiple myeloma",
       "pubmed_id": "38942219",
       "year": "2024",
-      "journal": "201:104429",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Kuruvilla D, Huynh T, Nester M, Chose C, Zervoudakis G, Letson GD, Joyce DM, Binitie OT, Figura NB, Costello JR, Freeman CL, Lazarides AL",
+      "journal": "Crit Rev Oncol Hematol"
     },
     {
-      "title": "West W, Moore A, Gerhardt C, Webb P, Binitie O, Lazarides A, Letson D, Joyce D. Dual plating in the metastatic distal humerus: Benefits may outweigh the risks. J Orthop",
+      "title": "Dual plating in the metastatic distal humerus: Benefits may outweigh the risks",
       "pubmed_id": "38361983",
       "pmc_id": "PMC10864758",
       "year": "2024",
-      "journal": "51:103-108",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "West W, Moore A, Gerhardt C, Webb P, Binitie O, Lazarides A, Letson D, Joyce D",
+      "journal": "J Orthop"
     },
     {
-      "title": "Karadimas T, Huynh TH, Chose C, Zervoudakis G, Clampitt B, Lapp S, Joyce D, Letson GD, Metts J, Binitie O, Mullinax JE, Lazarides A. Oncolytic Viral Therapy in Osteosarcoma. Viruses",
+      "title": "Oncolytic Viral Therapy in Osteosarcoma",
       "pubmed_id": "39066301",
       "pmc_id": "PMC11281467",
       "year": "2024",
-      "journal": "16(7)",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Karadimas T, Huynh TH, Chose C, Zervoudakis G, Clampitt B, Lapp S, Joyce D, Letson GD, Metts J, Binitie O, Mullinax JE, Lazarides A",
+      "journal": "Viruses"
     },
     {
-      "title": "Belzarena AC, Binitie O, Letson GD, Joyce DM. Unplanned Sarcoma Excisions: Understanding How They Happen. J Am Acad Orthop Surg Glob Res Rev",
+      "title": "Unplanned Sarcoma Excisions: Understanding How They Happen",
       "pubmed_id": "38252542",
       "pmc_id": "PMC10805420",
       "year": "2024",
-      "journal": "8(1)",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Belzarena AC, Binitie O, Letson GD, Joyce DM",
+      "journal": "J Am Acad Orthop Surg Glob Res Rev"
     },
     {
-      "title": "Caracciolo JT, Ali S, Chang CY, Degnan AJ, Flemming DJ, Henderson ER, Kransdorf MJ, Letson GD, Madewell JE, Murphey MD. Bone Tumor Risk Stratification and Management System: A Consensus Guideline from the ACR Bone Reporting and Data System Committee. J Am Coll Radiol",
+      "title": "Bone Tumor Risk Stratification and Management System: A Consensus Guideline from the ACR Bone Reporting and Data System Committee",
       "pubmed_id": "37855758",
       "year": "2023",
-      "journal": "20(10):1044-1058",
-      "authors": ""
+      "publication_date": "2023 Oct",
+      "authors": "Caracciolo JT, Ali S, Chang CY, Degnan AJ, Flemming DJ, Henderson ER, Kransdorf MJ, Letson GD, Madewell JE, Murphey MD",
+      "journal": "J Am Coll Radiol"
     },
     {
-      "title": "Crim\u00ec A, Joyce DM, Binitie O, Ruggieri P, Letson GD. The history of resection prosthesis. Int Orthop",
+      "title": "The history of resection prosthesis",
       "pubmed_id": "36651984",
       "year": "2023",
-      "journal": "47(3):873-883",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Crim\u00ec A, Joyce DM, Binitie O, Ruggieri P, Letson GD",
+      "journal": "Int Orthop"
     },
     {
-      "title": "Huynh THN, Kuruvilla DR, Nester MD, Zervoudakis G, Letson GD, Joyce DM, Binitie OT, Lazarides AL. Limb Amputations in Cancer: Modern Perspectives, Outcomes, and Alternatives. Curr Oncol Rep",
+      "title": "Limb Amputations in Cancer: Modern Perspectives, Outcomes, and Alternatives",
       "pubmed_id": "37999825",
       "year": "2023",
-      "journal": "25(12):1457-1465",
-      "authors": ""
+      "publication_date": "2023 Dec",
+      "authors": "Huynh THN, Kuruvilla DR, Nester MD, Zervoudakis G, Letson GD, Joyce DM, Binitie OT, Lazarides AL",
+      "journal": "Curr Oncol Rep"
     },
     {
-      "title": "Yang G, Yuan Z, Ahmed K, Welsh EA, Fulp WJ, Gonzalez RJ, Mullinax JE, Letson D, Bui M, Harrison LB, Scott JG, Torres-Roca JF, Naghavi AO. Genomic identification of sarcoma radiosensitivity and the clinical implications for radiation dose personalization. Transl Oncol",
+      "title": "Genomic identification of sarcoma radiosensitivity and the clinical implications for radiation dose personalization",
       "pubmed_id": "34246048",
       "pmc_id": "PMC8274330",
       "year": "2021",
-      "journal": "14(10):101165",
-      "authors": ""
+      "publication_date": "2021 Oct",
+      "authors": "Yang G, Yuan Z, Ahmed K, Welsh EA, Fulp WJ, Gonzalez RJ, Mullinax JE, Letson D, Bui M, Harrison LB, Scott JG, Torres-Roca JF, Naghavi AO",
+      "journal": "Transl Oncol"
     },
     {
-      "title": "Alexander JH, Binitie OT, Letson GD, Joyce DM. Osteosarcoma: An Evolving Understanding of a Complex Disease. J Am Acad Orthop Surg",
+      "title": "Osteosarcoma: An Evolving Understanding of a Complex Disease",
       "pubmed_id": "34623342",
       "year": "2021",
-      "journal": "29(20):e993-e1004",
-      "authors": ""
+      "publication_date": "2021 Oct",
+      "authors": "Alexander JH, Binitie OT, Letson GD, Joyce DM",
+      "journal": "J Am Acad Orthop Surg"
     }
   ],
   "grants": [],
@@ -121,7 +131,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1337"
   },
-  "content_hash": "b0e219d5bfc7eeded78410f25b38bc96295bfddf10a24ba50e63a4ef9a5ab7ea",
+  "content_hash": "d413a70a6408043f5a8ba7ce795abb8608a02e4862faadfd9faa405a84d307d4",
   "researcher_name": "Doug Letson",
   "department": "Tumor Microenvironment and Metastasis"
 }

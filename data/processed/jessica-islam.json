@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jessica-islam",
-  "last_updated": "2025-10-19T00:26:55.606017",
+  "last_updated": "2025-10-21T16:36:00.680149",
   "researcher_id": "28432",
   "degrees": [
     "PhD"
@@ -33,122 +33,216 @@
   ],
   "publications": [
     {
-      "title": "Yang S, Li Y, Wheldon CW, Islam JY, Prosperi M, George TJ, Shenkman EA, Wang F, Bian J, Guo Y. The Burden of Cancer and Precancerous Conditions Among Transgender Individuals in a Large Health Care Network: Retrospective Cohort Study. JMIR Cancer",
+      "title": "The Burden of Cancer and Precancerous Conditions Among Transgender Individuals in a Large Health Care Network: Retrospective Cohort Study",
       "pubmed_id": "40921087",
       "pmc_id": "PMC12416876",
       "year": "2025",
-      "journal": "11:e73843",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Yang S, Li Y, Wheldon CW, Islam JY, Prosperi M, George TJ, Shenkman EA, Wang F, Bian J, Guo Y",
+      "journal": "JMIR Cancer"
     },
     {
-      "title": "Lin YC, Turner K, Rajasekhara S, Kim DW, de Castria TB, Nguyen OT, Hume E, Sprow O, Santiago C, Milano J, Riccardi D, Nardella N, Al-Jumayli M, Permuth JB, Hoffe S, Hembree T, Hong YR, Islam JY, Tabriz AA, Hodul PJ. Early Supportive and Nutritional Care For Adults With Pancreatic Cancer: A Pilot Study. J Pain Symptom Manag",
+      "title": "Early Supportive and Nutritional Care For Adults With Pancreatic Cancer: A Pilot Study",
       "pubmed_id": "40816695",
       "year": "2025",
-      "journal": "70(5):490-502",
-      "authors": ""
+      "publication_date": "2025 Nov",
+      "authors": "Lin YC, Turner K, Rajasekhara S, Kim DW, de Castria TB, Nguyen OT, Hume E, Sprow O, Santiago C, Milano J, Riccardi D, Nardella N, Al-Jumayli M, Permuth JB, Hoffe S, Hembree T, Hong YR, Islam JY, Tabriz AA, Hodul PJ",
+      "journal": "J Pain Symptom Manag"
     },
     {
-      "title": "Islam JY, Suneja G, Lin YC, McGee-Avila JK, Turner K, Alishahi Tabriz A, Vadaparampil ST, D'Souza G, Friedman MR, Guo Y, Camacho-Rivera M. Investigating structural inequities in area-level socioeconomic and health care access measures among people with HIV and cancer (2004-2020). Cancer",
+      "title": "Investigating structural inequities in area-level socioeconomic and health care access measures among people with HIV and cancer (2004-2020)",
       "pubmed_id": "40305646",
       "year": "2025",
-      "journal": "131(9):e35881",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Islam JY, Suneja G, Lin YC, McGee-Avila JK, Turner K, Alishahi Tabriz A, Vadaparampil ST, D'Souza G, Friedman MR, Guo Y, Camacho-Rivera M",
+      "journal": "Cancer"
     },
     {
-      "title": "Islam JY, Guo Y, McGee-Avila JK, Turner K, Tabriz AA, Lin YC, Vadaparampil ST, Coghill AE, Camacho-Rivera M, Suneja G. Inequities by race and ethnicity in cancer treatment receipt among people living with HIV and cancer in the U.S. (2004-2020). BMC Cancer",
+      "title": "Inequities by race and ethnicity in cancer treatment receipt among people living with HIV and cancer in the U",
       "pubmed_id": "40394520",
       "pmc_id": "PMC12090492",
       "year": "2025",
-      "journal": "25(1):897",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Islam JY, Guo Y, McGee-Avila JK, Turner K, Tabriz AA, Lin YC, Vadaparampil ST, Coghill AE, Camacho-Rivera M, Suneja G",
+      "journal": "S"
     },
     {
-      "title": "Islam JY, Zhou X, Baggett C, Jamjian C, Coghill A, Suneja G, Lund JL. Potential drug-drug interactions between cancer therapies and active antiretroviral treatments among Medicare-enrolled patients with cancer and HIV. Geriatr Oncol",
+      "title": "Potential drug-drug interactions between cancer therapies and active antiretroviral treatments among Medicare-enrolled patients with cancer and HIV",
       "pubmed_id": "39592281",
       "year": "2025",
-      "journal": "16(2):102158",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Islam JY, Zhou X, Baggett C, Jamjian C, Coghill A, Suneja G, Lund JL",
+      "journal": "Geriatr Oncol"
     },
     {
-      "title": "Ashrafi A, Lin Y, Fong AJ, Islam JY, Anderson TCT, Ganesan S, Heckman CJ, Llanos AAM. Differences in COVID-19-Related Hospitalization, Treatment, Complications, and Death by Race and Ethnicity and Area-Level Measures Among Individuals with Cancer in the ASCO Registry. Cancers (Basel)",
+      "title": "Differences in COVID-19-Related Hospitalization, Treatment, Complications, and Death by Race and Ethnicity and Area-Level Measures Among Individuals with Cancer in the ASCO Registry",
       "pubmed_id": "40075704",
       "pmc_id": "PMC11898501",
       "year": "2025",
-      "journal": "17(5)",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Ashrafi A, Lin Y, Fong AJ, Islam JY, Anderson TCT, Ganesan S, Heckman CJ, Llanos AAM",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Islam JY, Guo Y, Turner K, Tabriz AA, Lin YC, Vidot DC, Vadaparampil ST, Coghill AE, ScD MC, Suneja G. Inequities in palliative care delivery to patients with HIV and stage IV cancers in the United States (2004-2020). JNCI Cancer Spectr",
+      "title": "Inequities in palliative care delivery to patients with HIV and stage IV cancers in the United States (2004-2020)",
       "pubmed_id": "39579085",
       "pmc_id": "PMC11897894",
       "year": "2025",
-      "journal": "9(2)",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Islam JY, Guo Y, Turner K, Tabriz AA, Lin YC, Vidot DC, Vadaparampil ST, Coghill AE, ScD MC, Suneja G",
+      "journal": "JNCI Cancer Spectr"
     },
     {
-      "title": "Baral A, Diggs BA, Greengold J, Foronda C, Anglade D, Camacho-Rivera M, Islam JY, Vidot DC. State of the Science: Health Care Provider Communication of Cannabis Use Among Adults Living with Cancer. J Cancer Educ",
+      "title": "State of the Science: Health Care Provider Communication of Cannabis Use Among Adults Living with Cancer",
       "pubmed_id": "39160419",
       "pmc_id": "PMC12177019",
       "year": "2025",
-      "journal": "40(3):329-347",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Baral A, Diggs BA, Greengold J, Foronda C, Anglade D, Camacho-Rivera M, Islam JY, Vidot DC",
+      "journal": "J Cancer Educ"
     },
     {
-      "title": "Lee F, Islam JY, Mutua MM, Kabare E, Manguro G, Waweru W, Mandaliya KN, Shafi J, McClelland RS, Smith JS. Self-collection for high-risk HPV-RNA detection among HIV-seropositive and HIV-seronegative women engaged in sex work in Kenya. Sex Transm Infect",
-      "pubmed_id": "40169350",
-      "year": "2025",
-      "journal": "101(5):301-306",
-      "authors": ""
-    },
-    {
-      "title": "Hurwitz E, Varley CD, Anzolone AJ, Madhira V, Olex AL, Sun J, Vaidya D, Fadul N, Islam JY, Jackson LE, Wilkins KJ, Butzin-Dozier Z, Li D, Safo SE, McMurry JA, Maheria P, Williams T, Hassan SA, Haendel MA, Patel RC. Identifying People Living With or Those at Risk for HIV in a Nationally Sampled Electronic Health Record Repository Called the National Clinical Cohort Collaborative: Computational Phenotyping Study. JMIR Med Inform",
+      "title": "Identifying People Living With or Those at Risk for HIV in a Nationally Sampled Electronic Health Record Repository Called the National Clinical Cohort Collaborative: Computational Phenotyping Study",
       "pubmed_id": "40644699",
       "pmc_id": "PMC12299939",
       "year": "2025",
-      "journal": "13:e68143",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Hurwitz E, Varley CD, Anzolone AJ, Madhira V, Olex AL, Sun J, Vaidya D, Fadul N, Islam JY, Jackson LE, Wilkins KJ, Butzin-Dozier Z, Li D, Safo SE, McMurry JA, Maheria P, Williams T, Hassan SA, Haendel MA, Patel RC",
+      "journal": "JMIR Med Inform"
+    },
+    {
+      "title": "Self-collection for high-risk HPV-RNA detection among HIV-seropositive and HIV-seronegative women engaged in sex work in Kenya",
+      "pubmed_id": "40169350",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Lee F, Islam JY, Mutua MM, Kabare E, Manguro G, Waweru W, Mandaliya KN, Shafi J, McClelland RS, Smith JS",
+      "journal": "Sex Transm Infect"
     }
   ],
   "grants": [
     {
-      "description": "Title: Investigating the Associations of SDOH and Cardiometabolic Characteristics with Disparities in Treatment Outcomes and Survivorship Among Colorectal Cancer Patients  \nAward Number:   \nSponsor: Support Accounts-Oper  \nByrd, D. (PD/PI), Islam, J. (Co-PD/PI)"
+      "description": "Title: Investigating the Associations of SDOH and Cardiometabolic Characteristics with Disparities in Treatment Outcomes and Survivorship Among Colorectal Cancer Patients  \nAward Number:   \nSponsor: Support Accounts-Oper  \nByrd, D. (PD/PI), Islam, J. (Co-PD/PI)",
+      "title": "Investigating the Associations of SDOH and Cardiometabolic Characteristics with Disparities in Treatment Outcomes and Survivorship Among Colorectal Cancer Patients",
+      "award_number": "",
+      "sponsor": "Support Accounts-Oper",
+      "investigators": [
+        {
+          "name": "Byrd, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Islam, J.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Harnessing Big Data to Understand the Confluence of HIV and Cancer Stigma in the US Southeast  \nAward Number: 1R01CA305812-01  \nSponsor: National Cancer Institute (NCI)  \nIslam, J. (PD/PI)",
+      "title": "Harnessing Big Data to Understand the Confluence of HIV and Cancer Stigma in the US Southeast",
+      "award_number": "1R01CA305812-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "5812-01"
+      "investigators": [
+        {
+          "name": "Islam, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Evaluating the role of structural racism on cancer outcomes among People Living with HIV and Cancer  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nIslam, J. (PD/PI), Coghill, A. (Co-PD/PI)",
-      "source": "Foundation"
+      "title": "Evaluating the role of structural racism on cancer outcomes among People Living with HIV and Cancer",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Islam, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Coghill, A.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Trends and outcomes of lung cancer screening among people with and without HIV in the US  \nAward Number: 1R01CA302303-01  \nSponsor: National Cancer Institute (NCI)  \nIslam, J. (PD/PI)",
+      "title": "Trends and outcomes of lung cancer screening among people with and without HIV in the US",
+      "award_number": "1R01CA302303-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2303-01"
+      "investigators": [
+        {
+          "name": "Islam, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Health-Related Quality of Life and Patient Reported Outcomes Among People Living with HIV and Cancer  \nAward Number: 1R03CA278603-01A1  \nSponsor: DRAWDOWN CUSTOMER-00A2P  \nIslam, J. (PD/PI)",
-      "period": "8603-01"
+      "title": "Health-Related Quality of Life and Patient Reported Outcomes Among People Living with HIV and Cancer",
+      "award_number": "1R03CA278603-01A1",
+      "sponsor": "DRAWDOWN CUSTOMER-00A2P",
+      "investigators": [
+        {
+          "name": "Islam, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: The Tale of Two Pandemics: Insights from the Collision of the HIV and COVID-19 Epidemics in the U.S.  \nAward Number: 5R01MH131542-05  \nSponsor: National Cancer Institute (NCI)  \nIslam, J. (PD/PI)",
+      "title": "The Tale of Two Pandemics: Insights from the Collision of the HIV and COVID-19 Epidemics in the U.S.",
+      "award_number": "5R01MH131542-05",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "1542-05"
+      "investigators": [
+        {
+          "name": "Islam, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Characterizing inequities in cancer treatment uptake and outcomes among patients with HIV and cancer in the US  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nIslam, J. (PD/PI)",
-      "source": "American Cancer Society"
+      "title": "Characterizing inequities in cancer treatment uptake and outcomes among patients with HIV and cancer in the US",
+      "award_number": "",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Islam, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Leveraging Electronic Health Record Clinical Notes to Understand Cancer Care Equity Among People with HIV and Cancer at Moffitt Cancer Center  \nAward Number:   \nSponsor: Support Accounts-Oper  \nRasool, G. (PD/PI), Coghill, A. (Co-PD/PI), Islam, J. (Co-PD/PI)"
+      "description": "Title: Leveraging Electronic Health Record Clinical Notes to Understand Cancer Care Equity Among People with HIV and Cancer at Moffitt Cancer Center  \nAward Number:   \nSponsor: Support Accounts-Oper  \nRasool, G. (PD/PI), Coghill, A. (Co-PD/PI), Islam, J. (Co-PD/PI)",
+      "title": "Leveraging Electronic Health Record Clinical Notes to Understand Cancer Care Equity Among People with HIV and Cancer at Moffitt Cancer Center",
+      "award_number": "",
+      "sponsor": "Support Accounts-Oper",
+      "investigators": [
+        {
+          "name": "Rasool, G.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Coghill, A.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Islam, J.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/IslamJessica_28432.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28432"
   },
-  "content_hash": "2c920678b04cf231b220a280d7dc196964ea626db4fc4ab42a34c3c1196562ad",
+  "content_hash": "fb68b71f48a002df7b8c1388cf98e68fe1d396d4b43b8c3e09e49d497452c5cc",
   "researcher_name": "Jessica Islam",
   "department": "Cancer Epidemiology"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/john-koomen",
-  "last_updated": "2025-10-19T00:29:04.172902",
+  "last_updated": "2025-10-21T16:38:05.890128",
   "researcher_id": "3419",
   "degrees": [
     "PhD"
@@ -34,95 +34,125 @@
   ],
   "publications": [
     {
-      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "title": "The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma",
       "pubmed_id": "40553455",
       "year": "2025",
-      "journal": "34(9):1609-1617",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
-      "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
+      "title": "Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy",
       "pubmed_id": "40341231",
       "year": "2025",
-      "journal": "6(5):801-819",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC",
+      "journal": "Nat Cancer"
     },
     {
-      "title": "Nagai R, Milam OL, Niwa T, Howell WJ, Best JA, Yoshida H, Freeburg CD, Koomen JM, Fujii K. Ribosomal expansion segment contributes to translation fidelity via N-terminal processing of ribosomal proteins. Nucleic Acids Res",
+      "title": "Ribosomal expansion segment contributes to translation fidelity via N-terminal processing of ribosomal proteins",
       "pubmed_id": "40433980",
       "pmc_id": "PMC12117404",
       "year": "2025",
-      "journal": "53(10)",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Nagai R, Milam OL, Niwa T, Howell WJ, Best JA, Yoshida H, Freeburg CD, Koomen JM, Fujii K",
+      "journal": "Nucleic Acids Res"
     },
     {
-      "title": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J. CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma. Res Sq",
+      "title": "CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma",
       "pubmed_id": "40235478",
       "pmc_id": "PMC11998770",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J",
+      "journal": "Res Sq"
     },
     {
-      "title": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC. Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma. Haematologica",
-      "pubmed_id": "39633543",
-      "pmc_id": "PMC12130774",
-      "year": "2025",
-      "journal": "110(6):1351-1367",
-      "authors": ""
-    },
-    {
-      "title": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S. Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors. Cancer Res",
+      "title": "Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors",
       "pubmed_id": "40287947",
       "pmc_id": "PMC12167936",
       "year": "2025",
-      "journal": "85(12):2268-2287",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq",
+      "title": "Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma",
+      "pubmed_id": "39633543",
+      "pmc_id": "PMC12130774",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC",
+      "journal": "Haematologica"
+    },
+    {
+      "title": "Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma",
       "pubmed_id": "39989973",
       "pmc_id": "PMC11844656",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Guergues J, Wohlfahrt J, Koomen JM, Krieger JR, Varma S, Stevens SM. A semi-automated workflow for DIA-based global discovery to pathway-driven PRM analysis. Proteomics",
+      "title": "A semi-automated workflow for DIA-based global discovery to pathway-driven PRM analysis",
       "pubmed_id": "39235396",
       "pmc_id": "PMC11798701",
       "year": "2025",
-      "journal": "25(3):e2400129",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Guergues J, Wohlfahrt J, Koomen JM, Krieger JR, Varma S, Stevens SM",
+      "journal": "Proteomics"
     },
     {
-      "title": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL. Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes. Blood",
+      "title": "Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes",
       "pubmed_id": "39652773",
       "year": "2025",
-      "journal": "145(15):1645-1657",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL",
+      "journal": "Blood"
     },
     {
-      "title": "Di Meo F, Kale B, Koomen JM, Perna F. Mapping the cancer surface proteome in search of target antigens for immunotherapy. Mol Ther",
+      "title": "Mapping the cancer surface proteome in search of target antigens for immunotherapy",
       "pubmed_id": "39068512",
       "pmc_id": "PMC11403220",
       "year": "2024",
-      "journal": "32(9):2892-2904",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Di Meo F, Kale B, Koomen JM, Perna F",
+      "journal": "Mol Ther"
     }
   ],
   "grants": [
     {
-      "description": "Title: Innovative Proteogenomics to Investigate Tertiary Lymphoid Structures in Lung Cancer  \nAward Number: CRI4226  \nSponsor: CANCER RESEARCH INSTITUTE  \nKoomen, J. (PD/PI)"
+      "description": "Title: Innovative Proteogenomics to Investigate Tertiary Lymphoid Structures in Lung Cancer  \nAward Number: CRI4226  \nSponsor: CANCER RESEARCH INSTITUTE  \nKoomen, J. (PD/PI)",
+      "title": "Innovative Proteogenomics to Investigate Tertiary Lymphoid Structures in Lung Cancer",
+      "award_number": "CRI4226",
+      "sponsor": "CANCER RESEARCH INSTITUTE",
+      "investigators": [
+        {
+          "name": "Koomen, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: CPTAC Phase III  \nAward Number: 75N91020F00030  \nSponsor: National Cancer Institute (NCI)  \nKoomen, J. (PD/PI)",
-      "source": "NCI"
+      "title": "CPTAC Phase III",
+      "award_number": "75N91020F00030",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Koomen, J.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KoomenJohn_3419.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3419"
   },
-  "content_hash": "8652ed12ed802cfeedd35277227e034bcdca41b76076d6638a306b2dbe609d12",
+  "content_hash": "f8cad6cdb87480a8b9ddc9c7e95c53d35b4b10639b0cdbf34a6996acbe2c8846",
   "researcher_name": "John Koomen",
   "department": "Molecular Oncology"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/philippe-spiess",
-  "last_updated": "2025-10-19T00:29:47.837862",
+  "last_updated": "2025-10-21T16:38:50.144262",
   "researcher_id": "4110",
   "degrees": [
     "MD"
@@ -42,78 +42,99 @@
   ],
   "publications": [
     {
-      "title": "Fazili A, Jazayeri SB, Rose KM, Guske C, Wen L, Durant A, Prunty M, Bukavina L, Tyson MD, Grass GD, Xu H, Spiess PE, Gilbert SM, Sexton WJ, Zemp L, Pessoa RR, Poch M, Lerner SP, Li R. Cisplatin-ineligible patients with muscle-invasive bladder cancer demonstrate poor long-term survival following immediate radical cystectomy. BJU Int",
+      "title": "Cisplatin-ineligible patients with muscle-invasive bladder cancer demonstrate poor long-term survival following immediate radical cystectomy",
       "pubmed_id": "40932312",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Fazili A, Jazayeri SB, Rose KM, Guske C, Wen L, Durant A, Prunty M, Bukavina L, Tyson MD, Grass GD, Xu H, Spiess PE, Gilbert SM, Sexton WJ, Zemp L, Pessoa RR, Poch M, Lerner SP, Li R",
+      "journal": "BJU Int"
     },
     {
-      "title": "Wen L, Miyagi H, Spiess PE, Yu A, Mendelsohn CL, Tan WS, Psutka SP, Lerner SP, Cheng L, Dyrskj\u00f8t L, Meeks JJ, Shariat SF, Gontero P, Pradere B, Steinberg GD, Kamat AM, Li R. Low-grade non-muscle-invasive bladder cancer: molecular landscape, treatment strategies and emerging therapies. Nat Rev Urol",
+      "title": "Low-grade non-muscle-invasive bladder cancer: molecular landscape, treatment strategies and emerging therapies",
       "pubmed_id": "40931081",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Wen L, Miyagi H, Spiess PE, Yu A, Mendelsohn CL, Tan WS, Psutka SP, Lerner SP, Cheng L, Dyrskj\u00f8t L, Meeks JJ, Shariat SF, Gontero P, Pradere B, Steinberg GD, Kamat AM, Li R",
+      "journal": "Nat Rev Urol"
     },
     {
-      "title": "Cooper S, Nicholson S, Crook J, Watkin N, Pettaway C, Barber J, Mitra A, Woodley O, Millin A, Hall E, Pathmanathan A, Penegar S, Burnett S, Spiess P, Miles E, Hoffman K, Yang H, Tree AC. Standardization of Radiation Therapy to Inguinal and Pelvic Lymph Nodes in Locally Advanced Cancer of the Penis, as Defined by the International Penile Advanced Cancer Trial (InPACT). Int J Radiat Oncol Biol Phys",
+      "title": "Standardization of Radiation Therapy to Inguinal and Pelvic Lymph Nodes in Locally Advanced Cancer of the Penis, as Defined by the International Penile Advanced Cancer Trial (InPACT)",
       "pubmed_id": "40180061",
       "pmc_id": "PMC12396133",
       "year": "2025",
-      "journal": "123(1):171-182",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Cooper S, Nicholson S, Crook J, Watkin N, Pettaway C, Barber J, Mitra A, Woodley O, Millin A, Hall E, Pathmanathan A, Penegar S, Burnett S, Spiess P, Miles E, Hoffman K, Yang H, Tree AC",
+      "journal": "Int J Radiat Oncol Biol Phys"
     },
     {
-      "title": "Barrera Cardenas JC, Spiess PE, Garc\u00eda-Perdomo HA. Human papillomavirus vaccination and its effect on genital men's health. Considerations for a public health strategy. Urologia",
-      "pubmed_id": "40898707",
-      "year": "2025",
-      "authors": ""
-    },
-    {
-      "title": "Cobb JK, Miyagi H, Chahoud J, Bassil C, Spiess PE. Management and optimization of chronic renal insufficiency in the setting of kidney cancer A Systematic Review. Int Braz J Urol",
+      "title": "Management and optimization of chronic renal insufficiency in the setting of kidney cancer A Systematic Review",
       "pubmed_id": "40658472",
       "year": "2025",
-      "journal": "51(5)",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Cobb JK, Miyagi H, Chahoud J, Bassil C, Spiess PE",
+      "journal": "Int Braz J Urol"
     },
     {
-      "title": "Chang SS, Launer B, Narayan V, Patil D, O'Donnell MA, Hensley PJ, Taylor JA, Li R, Fernandez MI, Zhang H, Krishna V, Vrabac D, Abuzeid WM, Nimgaonkar V, Watson D, Royce TJ, Kiedrowski LA, Joshi A, Konety BR, Spiess PE, Williams SB, Packiam VT, Kamat AM, Lotan Y, Daneshmand S. Computational Histology Artificial Intelligence (CHAI) Enhances Risk Stratification of High-grade Ta Non-muscle-invasive Bladder Cancer in a Multicenter Cohort: Comparison to Current European Association of Urology and American Urological Association Stra. Eur Urol",
+      "title": "Human papillomavirus vaccination and its effect on genital men's health",
+      "pubmed_id": "40898707",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Barrera Cardenas JC, Spiess PE, Garc\u00eda-Perdomo HA",
+      "journal": "Considerations for a public health strategy"
+    },
+    {
+      "title": "Computational Histology Artificial Intelligence (CHAI) Enhances Risk Stratification of High-grade Ta Non-muscle-invasive Bladder Cancer in a Multicenter Cohort: Comparison to Current European Association of Urology and American Urological Association Stra",
       "pubmed_id": "40514253",
       "year": "2025",
-      "journal": "88(4):411-413",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Chang SS, Launer B, Narayan V, Patil D, O'Donnell MA, Hensley PJ, Taylor JA, Li R, Fernandez MI, Zhang H, Krishna V, Vrabac D, Abuzeid WM, Nimgaonkar V, Watson D, Royce TJ, Kiedrowski LA, Joshi A, Konety BR, Spiess PE, Williams SB, Packiam VT, Kamat AM, Lotan Y, Daneshmand S",
+      "journal": "Eur Urol"
     },
     {
-      "title": "Katims AB, Tin AL, Assel M, Hensley P, Li R, Margulis V, Matin S, Pallauf M, Clark RK, Raman JD, Singla N, Spiess PE, Coleman J. Predictors and Patterns of Nonurothelial Recurrence After Nephroureterectomy for Upper Tract Urothelial Carcinoma (UCAN Collaboration). J Urol",
+      "title": "Predictors and Patterns of Nonurothelial Recurrence After Nephroureterectomy for Upper Tract Urothelial Carcinoma (UCAN Collaboration)",
       "pubmed_id": "40526449",
       "pmc_id": "PMC12355653",
       "year": "2025",
-      "journal": "214(4):407-414",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Katims AB, Tin AL, Assel M, Hensley P, Li R, Margulis V, Matin S, Pallauf M, Clark RK, Raman JD, Singla N, Spiess PE, Coleman J",
+      "journal": "J Urol"
     },
     {
-      "title": "Lee MS, Hensley PJ, Igel D, Li R, Clark RK, Bingham N, Pallauf M, Thapa P, Boorjian SA, Raman JD, Singla N, Coleman J, Margulis V, Spiess PE, Matin SF, Potretzke AM. Oncologic and survival outcomes in patients undergoing radical nephroureterectomy with preoperative or iatrogenic dialysis dependence. Urol Oncol",
+      "title": "Oncologic and survival outcomes in patients undergoing radical nephroureterectomy with preoperative or iatrogenic dialysis dependence",
       "pubmed_id": "40754548",
       "year": "2025",
-      "journal": "43(11):662",
-      "authors": ""
+      "publication_date": "2025 Nov",
+      "authors": "Lee MS, Hensley PJ, Igel D, Li R, Clark RK, Bingham N, Pallauf M, Thapa P, Boorjian SA, Raman JD, Singla N, Coleman J, Margulis V, Spiess PE, Matin SF, Potretzke AM",
+      "journal": "Urol Oncol"
     },
     {
-      "title": "An X, Guo SJ, Yan R, Xue T, Xiong LB, Ma HL, Xue C, Zhang YC, Li JB, Chen MT, Li ZS, Liu TY, Zhang ZL, Dong P, Li YH, Yao K, Hu ZQ, Chen XF, Luo JX, Lei YH, Liang PY, Liu ZZ, Qi L, Xu WF, Cao ZG, Chen NH, Li X, Sheng XN, Luo GH, Shi BK, Xie Q, Liu ZW, Zhou FJ, Spiess PE, Shi YX, Han H. Neoadjuvant toripalimab plus nimotuzumab combined with taxol-based chemotherapy in locally advanced penile squamous cell carcinoma. Cancer Cell",
+      "title": "Neoadjuvant toripalimab plus nimotuzumab combined with taxol-based chemotherapy in locally advanced penile squamous cell carcinoma",
       "pubmed_id": "40215977",
       "year": "2025",
-      "journal": "43(5):970-980",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "An X, Guo SJ, Yan R, Xue T, Xiong LB, Ma HL, Xue C, Zhang YC, Li JB, Chen MT, Li ZS, Liu TY, Zhang ZL, Dong P, Li YH, Yao K, Hu ZQ, Chen XF, Luo JX, Lei YH, Liang PY, Liu ZZ, Qi L, Xu WF, Cao ZG, Chen NH, Li X, Sheng XN, Luo GH, Shi BK, Xie Q, Liu ZW, Zhou FJ, Spiess PE, Shi YX, Han H",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Chahoud J, Spiess PE. Authors' Reply to the Letter to the Editor by May et al: Optimized Prognostic Stratification in PSCC. J Natl Compr Canc Ne",
+      "title": "Authors' Reply to the Letter to the Editor by May et al: Optimized Prognostic Stratification in PSCC",
       "pubmed_id": "40340844",
       "year": "2025",
-      "journal": "23(5)",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Chahoud J, Spiess PE",
+      "journal": "J Natl Compr Canc Ne"
     }
   ],
   "grants": [
     {
-      "description": "Title: Advancements in HPV-related Penile Cancer  \nAward Number: N/A  \nSponsor: R.S. EVANS FOUNDATION  \nSpiess, P. (PD/PI)"
+      "description": "Title: Advancements in HPV-related Penile Cancer  \nAward Number: N/A  \nSponsor: R.S. EVANS FOUNDATION  \nSpiess, P. (PD/PI)",
+      "title": "Advancements in HPV-related Penile Cancer",
+      "sponsor": "R.S. EVANS FOUNDATION",
+      "investigators": [
+        {
+          "name": "Spiess, P.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": ""
@@ -123,7 +144,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4110"
   },
-  "content_hash": "7f55ff7372376680d5be6176ff33fb65d5c7e084acde21e46951458f1592559b",
+  "content_hash": "4c8ddc57f4b5ce524da4109dc48dbab2dee3a34b283fde4b51d122e48a9585a8",
   "researcher_name": "Philippe Spiess",
   "department": "Tumor Microenvironment and Metastasis"
 }

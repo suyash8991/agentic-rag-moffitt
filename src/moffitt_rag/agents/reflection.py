@@ -5,16 +5,15 @@ This module provides functions for the agent to reflect on its answers
 and improve them before responding.
 """
 
-import logging
 import re
 from typing import Dict, Any, List, Optional
 
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 from ..models.llm import get_llm_model, LLMProvider
+from ..utils.logging import get_logger, log_agent_event
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Get logger for this module
+logger = get_logger(__name__)
 
 # Reflection prompt for improving answers
 REFLECTION_PROMPT = """
@@ -78,21 +77,36 @@ def reflect_on_answer(
     Returns:
         str: The improved answer
     """
-    logger.info("Reflecting on answer")
+    logger.info("Starting reflection on answer")
+    
+    # Log structured event for reflection start
+    log_agent_event("reflection_start", {
+        "question_length": len(question),
+        "answer_length": len(answer),
+        "provider": str(llm_provider) if llm_provider else "default",
+        "model_name": model_name if model_name else "default"
+    })
 
     # Check if this is a simple identity query that might not need complex reflection
     is_simple_identity_query = False
     if re.search(r'^who\s+is\s+\w+', question.lower()):
         is_simple_identity_query = True
         logger.info("Detected simple identity query - will use more focused reflection")
+        log_agent_event("simple_identity_query_detected", {"question": question[:100]})
 
     # Get the language model
-    llm = get_llm_model(
-        provider=llm_provider,
-        model_name=model_name,
-        # Use even lower temperature for simple identity queries to ensure concise, focused answers
-        temperature=0.2 if is_simple_identity_query else 0.3
-    )
+    try:
+        llm = get_llm_model(
+            provider=llm_provider,
+            model_name=model_name,
+            # Use even lower temperature for simple identity queries to ensure concise, focused answers
+            temperature=0.2 if is_simple_identity_query else 0.3
+        )
+        logger.info("Language model initialized for reflection")
+    except Exception as e:
+        logger.error(f"Failed to initialize language model for reflection: {e}")
+        log_agent_event("reflection_error", {"error": str(e), "stage": "llm_initialization"})
+        raise
 
     # Format the reflection prompt
     reflection_input = REFLECTION_PROMPT.format(
@@ -108,25 +122,48 @@ def reflect_on_answer(
 
         if has_researcher_info and has_profile_info and len(answer) < 1500:
             logger.info("Answer appears to already contain essential information for identity query")
+            log_agent_event("sufficient_info_detected", {
+                "has_researcher_info": has_researcher_info,
+                "has_profile_info": has_profile_info,
+                "answer_length": len(answer)
+            })
             reflection_input += "\n\nNote: This is a simple identity question with an answer that already contains basic researcher information. Focus on ensuring the answer is direct, concise, and properly formatted rather than seeking additional information."
 
     # Generate the improved answer
-    improved_answer = llm.invoke(reflection_input)
-
-    # If the LLM returned a message object, extract the content
-    if hasattr(improved_answer, 'content'):
-        improved_answer = improved_answer.content
+    try:
+        logger.info("Generating improved answer via LLM")
+        improved_answer = llm.invoke(reflection_input)
+        
+        # If the LLM returned a message object, extract the content
+        if hasattr(improved_answer, 'content'):
+            improved_answer = improved_answer.content
+            
+        logger.info(f"Generated improved answer (length: {len(improved_answer)})")
+        
+    except Exception as e:
+        logger.error(f"Failed to generate improved answer: {e}")
+        log_agent_event("reflection_error", {"error": str(e), "stage": "llm_generation"})
+        # Return original answer if reflection fails
+        return answer
 
     # Post-processing for simple identity queries to ensure conciseness
     if is_simple_identity_query:
         # If the improved answer is very long, it might be overthinking
         if len(improved_answer) > 2000:
             logger.warning("Reflected answer for simple identity query is too long - applying post-processing")
+            log_agent_event("post_processing_applied", {"original_length": len(improved_answer)})
             # Extract the most relevant parts (first few paragraphs often contain the core answer)
             paragraphs = improved_answer.split("\n\n")
             # Keep first 2-3 substantive paragraphs
             substantive_paragraphs = [p for p in paragraphs if len(p) > 50][:3]
             improved_answer = "\n\n".join(substantive_paragraphs)
+            logger.info(f"Post-processed answer length: {len(improved_answer)}")
+
+    # Log completion of reflection
+    log_agent_event("reflection_complete", {
+        "improved_answer_length": len(improved_answer),
+        "reflection_type": "minimal" if is_simple_identity_query else "full"
+    })
 
     return improved_answer
 
@@ -145,6 +182,7 @@ class ReflectiveAgentExecutor:
         """
         self.agent_executor = agent_executor
         logger.info("Created ReflectiveAgentExecutor wrapper")
+        log_agent_event("reflective_executor_created", {})
 
     def invoke(self, inputs: Dict[str, Any], **kwargs):
         """
@@ -158,12 +196,24 @@ class ReflectiveAgentExecutor:
             The improved result
         """
         logger.info("Invoking agent with reflection")
+        
+        # Extract question for logging
+        question = inputs if isinstance(inputs, str) else inputs.get("input", "")
+        log_agent_event("reflective_invoke_start", {
+            "question_length": len(question),
+            "has_kwargs": bool(kwargs)
+        })
 
         # Call the original invoke method
-        preliminary_result = self.agent_executor.invoke(inputs, **kwargs)
+        try:
+            preliminary_result = self.agent_executor.invoke(inputs, **kwargs)
+            logger.info("Preliminary agent invocation completed")
+        except Exception as e:
+            logger.error(f"Preliminary agent invocation failed: {e}")
+            log_agent_event("reflective_invoke_error", {"error": str(e), "stage": "preliminary"})
+            raise
 
         # Extract the question and answer
-        question = inputs if isinstance(inputs, str) else inputs.get("input", "")
         if isinstance(preliminary_result, dict):
             answer = preliminary_result.get("output", "")
         else:
@@ -171,7 +221,7 @@ class ReflectiveAgentExecutor:
 
         # Reflect on the answer
         try:
-            logger.info("Reflecting on agent's answer")
+            logger.info("Starting reflection on agent's answer")
             improved_answer = reflect_on_answer(
                 question=question,
                 answer=answer
@@ -181,12 +231,22 @@ class ReflectiveAgentExecutor:
             # Update the result
             if isinstance(preliminary_result, dict):
                 preliminary_result["output"] = improved_answer
-                return preliminary_result
+                result = preliminary_result
             else:
-                return improved_answer
+                result = improved_answer
+                
+            log_agent_event("reflective_invoke_complete", {
+                "question_length": len(question),
+                "original_answer_length": len(answer),
+                "improved_answer_length": len(improved_answer)
+            })
+            
+            return result
+
         except Exception as e:
-            logger.error(f"Error in reflection: {e}")
-            # If reflection fails, return the original result
+            logger.error(f"Reflection failed: {e}")
+            log_agent_event("reflective_invoke_error", {"error": str(e), "stage": "reflection"})
+            # Return the original result if reflection fails
             return preliminary_result
 
     def __getattr__(self, name):

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/steven-eschrich",
-  "last_updated": "2025-10-19T00:27:30.339478",
+  "last_updated": "2025-10-21T16:36:36.170068",
   "researcher_id": "2765",
   "degrees": [
     "PhD"
@@ -32,95 +32,125 @@
   ],
   "publications": [
     {
-      "title": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST. Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study. Contemp Clin Trials",
+      "title": "Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study",
       "pubmed_id": "40992541",
       "year": "2025",
-      "journal": "158:108096",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST",
+      "journal": "Contemp Clin Trials"
     },
     {
-      "title": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD. Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida. Cancer Res Commun",
+      "title": "Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida",
       "pubmed_id": "40309949",
       "pmc_id": "PMC12082392",
       "year": "2025",
-      "journal": "5(5):804-813",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD",
+      "journal": "Cancer Res Commun"
     },
     {
-      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL. spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis. Cancer Res",
+      "title": "spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis",
       "pubmed_id": "39636739",
       "pmc_id": "PMC11873723",
       "year": "2025",
-      "journal": "85(5):848-858",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Berglund AE, Puskas J, Yoder SJ, Smith AT, Marchion DC, Qin D, Mul\u00e9 JJ, Torres-Roca JF, Eschrich SA. Evaluating the Radiation Sensitivity Index and 12-Chemokine Gene Expression Signature for Clinical Use in a CLIA Laboratory. Cancer Res Commun",
+      "title": "Evaluating the Radiation Sensitivity Index and 12-Chemokine Gene Expression Signature for Clinical Use in a CLIA Laboratory",
       "pubmed_id": "39932296",
       "pmc_id": "PMC11873780",
       "year": "2025",
-      "journal": "5(3):389-397",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Berglund AE, Puskas J, Yoder SJ, Smith AT, Marchion DC, Qin D, Mul\u00e9 JJ, Torres-Roca JF, Eschrich SA",
+      "journal": "Cancer Res Commun"
     },
     {
-      "title": "Eschrich SA, Torres-Roca JF. In Reply to Li. Int J Radiat Oncol Biol Phys",
+      "title": "In Reply to Li",
       "pubmed_id": "40382168",
       "year": "2025",
-      "journal": "122(2):513-514",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Eschrich SA, Torres-Roca JF",
+      "journal": "Int J Radiat Oncol Biol Phys"
     },
     {
-      "title": "Veith T, Beck R, Tagal V, Li T, Alahmari S, Cole J, Hannaby D, Kyei J, Yu X, Maksin K, Schultz A, Lee H, El Naqa I, Eschrich S, Ji HP, Diaz A, Andor N. CLONEID: A Framework for Longitudinal Integration of Phenotypic and Genotypic Data to Monitor and Steer Subclonal Dynamics. bioRxiv",
+      "title": "CLONEID: A Framework for Longitudinal Integration of Phenotypic and Genotypic Data to Monitor and Steer Subclonal Dynamics",
       "pubmed_id": "40631300",
       "pmc_id": "PMC12236826",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Veith T, Beck R, Tagal V, Li T, Alahmari S, Cole J, Hannaby D, Kyei J, Yu X, Maksin K, Schultz A, Lee H, El Naqa I, Eschrich S, Ji HP, Diaz A, Andor N",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Garcia M, Geiss C, Blackwell R, Maconi ML, Amorrortu RP, Tapia-Kwan E, Turner K, Fuzzell L, Zhao Y, Eschrich SA, Rollison DE, Vadaparampil ST. A Formative Evaluation of Interventions to Enhance Clinical Trial Diversity Guided by the Socioecological Model. Cancers (Basel)",
+      "title": "A Formative Evaluation of Interventions to Enhance Clinical Trial Diversity Guided by the Socioecological Model",
       "pubmed_id": "40723166",
       "pmc_id": "PMC12293947",
       "year": "2025",
-      "journal": "17(14)",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Garcia M, Geiss C, Blackwell R, Maconi ML, Amorrortu RP, Tapia-Kwan E, Turner K, Fuzzell L, Zhao Y, Eschrich SA, Rollison DE, Vadaparampil ST",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Mustasam A, Parza K, Ionescu F, Gullapalli K, Paravathaneni M, Kim Y, Sandstrom RE, Al Assaad M, Grass GD, Johnstone P, Eschrich S, Safa H, Chadha J, Roman Souza G, David J, Semaan A, Zacharias NM, Pettaway C, Giuliano AR, Spiess PE, Chahoud J. The Prognostic Role of HPV or p16INK4a Status in Penile Squamous Cell Carcinoma: A Meta-Analysis. J Natl Compr Canc Ne",
+      "title": "The Prognostic Role of HPV or p16INK4a Status in Penile Squamous Cell Carcinoma: A Meta-Analysis",
       "pubmed_id": "39752880",
       "year": "2025",
-      "journal": "23(2)",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Mustasam A, Parza K, Ionescu F, Gullapalli K, Paravathaneni M, Kim Y, Sandstrom RE, Al Assaad M, Grass GD, Johnstone P, Eschrich S, Safa H, Chadha J, Roman Souza G, David J, Semaan A, Zacharias NM, Pettaway C, Giuliano AR, Spiess PE, Chahoud J",
+      "journal": "J Natl Compr Canc Ne"
     },
     {
-      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "title": "ShinyEvents: harmonizing longitudinal data for real world survival estimation",
       "pubmed_id": "40799741",
       "pmc_id": "PMC12340904",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI",
+      "journal": "Res Sq"
     },
     {
-      "title": "Berglund A, Puskas J, Yoder S, Smith AT, Marchion DC, Qian D, Mul\u00e9 JJ, Torres-Roca JF, Eschrich SA. Evaluating the Radiation Sensitivity Index and 12-chemokine gene expression signature for clinical use in a CLIA laboratory. bioRxiv",
+      "title": "Evaluating the Radiation Sensitivity Index and 12-chemokine gene expression signature for clinical use in a CLIA laboratory",
       "pubmed_id": "39345465",
       "pmc_id": "PMC11429982",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Berglund A, Puskas J, Yoder S, Smith AT, Marchion DC, Qian D, Mul\u00e9 JJ, Torres-Roca JF, Eschrich SA",
+      "journal": "bioRxiv"
     }
   ],
   "grants": [
     {
       "description": "Title: Tampa Bay Life Sciences Computing Commons (TBLSCC)  \nAward Number: S101S10OD032423-01  \nSponsor: National Institutes of Health (NIH)  \nEschrich, S. (PD/PI)",
+      "title": "Tampa Bay Life Sciences Computing Commons (TBLSCC)",
+      "award_number": "S101S10OD032423-01",
+      "sponsor": "National Institutes of Health (NIH)",
       "source": "NIH",
-      "period": "2423-01"
+      "investigators": [
+        {
+          "name": "Eschrich, S.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Large-Language Models for Enabling Ubiquitous Access to Cancer Clinical Trials  \nAward Number: MOAAY  \nSponsor: Florida Department of Health  \nEschrich, S. (PD/PI)"
+      "description": "Title: Large-Language Models for Enabling Ubiquitous Access to Cancer Clinical Trials  \nAward Number: MOAAY  \nSponsor: Florida Department of Health  \nEschrich, S. (PD/PI)",
+      "title": "Large-Language Models for Enabling Ubiquitous Access to Cancer Clinical Trials",
+      "award_number": "MOAAY",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Eschrich, S.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/EschrichSteven_2765.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2765"
   },
-  "content_hash": "a5b8306bb4d4d92475ae02036406dee7a9c0ba3d72f0ccd4dff4d15bc353c77a",
+  "content_hash": "133a26981363ea166036bf11f767a8a14618dea63ea13b65ffa388c605e3916d",
   "researcher_name": "Steven Eschrich",
   "department": "Biostatistics and Bioinformatics"
 }

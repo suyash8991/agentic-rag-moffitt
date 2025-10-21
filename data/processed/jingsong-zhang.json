@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jingsong-zhang",
-  "last_updated": "2025-10-19T00:28:43.274482",
+  "last_updated": "2025-10-21T16:37:46.185860",
   "researcher_id": "7285",
   "degrees": [
     "MD",
@@ -44,92 +44,115 @@
   ],
   "publications": [
     {
-      "title": "Yap TA, Tan DSP, Stathis A, Shapiro GI, Iwasa S, Joerger M, Zhang J, Plummer R, Sawyer MB, Tan DSW, Castonguay V, Gabrail NY, Matsubara N, Wilkinson G, Ludwig M, Schlicker A, Zhou Y, Merz C, D\u00e4britz JHM, Jeffers M, Hreiki J, de Bono JS. Phase Ib Basket Expansion Trial and Alternative-Schedule Dose-Escalation Study of ATR Inhibitor Elimusertib in Advanced Solid Tumors with DNA Damage Response Defects. Cancer Discov",
+      "title": "Phase Ib Basket Expansion Trial and Alternative-Schedule Dose-Escalation Study of ATR Inhibitor Elimusertib in Advanced Solid Tumors with DNA Damage Response Defects",
       "pubmed_id": "40516108",
       "year": "2025",
-      "journal": "15(10):2019-2035",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Yap TA, Tan DSP, Stathis A, Shapiro GI, Iwasa S, Joerger M, Zhang J, Plummer R, Sawyer MB, Tan DSW, Castonguay V, Gabrail NY, Matsubara N, Wilkinson G, Ludwig M, Schlicker A, Zhou Y, Merz C, D\u00e4britz JHM, Jeffers M, Hreiki J, de Bono JS",
+      "journal": "Cancer Discov"
     },
     {
-      "title": "Li Q, Huang CC, Huang S, Tian Y, Huang J, Bitaraf A, Dong X, Nevalainen MT, Patel M, Wong J, Zhang J, Manley BJ, Park JY, Kohli M, Gore EM, Kilari D, Wang L. 5-hydroxymethylcytosine sequencing of plasma cell-free DNA identifies epigenomic features in prostate cancer patients receiving androgen deprivation therapies. Commun Med (Lond)",
+      "title": "5-hydroxymethylcytosine sequencing of plasma cell-free DNA identifies epigenomic features in prostate cancer patients receiving androgen deprivation therapies",
       "pubmed_id": "40038525",
       "pmc_id": "PMC11880319",
       "year": "2025",
-      "journal": "5(1):61",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Li Q, Huang CC, Huang S, Tian Y, Huang J, Bitaraf A, Dong X, Nevalainen MT, Patel M, Wong J, Zhang J, Manley BJ, Park JY, Kohli M, Gore EM, Kilari D, Wang L",
+      "journal": "Commun Med (Lond)"
     },
     {
-      "title": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR. Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial. Nat Med",
+      "title": "Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial",
       "pubmed_id": "39521884",
       "year": "2025",
-      "journal": "31(1):176-188",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR",
+      "journal": "Nat Med"
     },
     {
-      "title": "Lara PN, Mayerson E, Gertz E, Tangen C, Goldkorn A, van Loan M, Hussain M, Gupta S, Zhang J, Parikh M, Twardowski P, Quinn DI, LeBlanc M, Thompson I, Agarwal N. Markers of bone metabolism and overall survival in men with bone-metastatic hormone sensitive prostate cancer (HSPC): A subset analysis of SWOG S1216, a phase III trial of androgen deprivation with or without orteronel. Prostate Cancer P D",
+      "title": "Markers of bone metabolism and overall survival in men with bone-metastatic hormone sensitive prostate cancer (HSPC): A subset analysis of SWOG S1216, a phase III trial of androgen deprivation with or without orteronel",
       "pubmed_id": "38424319",
       "year": "2024",
-      "journal": "27(3):566-570",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Lara PN, Mayerson E, Gertz E, Tangen C, Goldkorn A, van Loan M, Hussain M, Gupta S, Zhang J, Parikh M, Twardowski P, Quinn DI, LeBlanc M, Thompson I, Agarwal N",
+      "journal": "Prostate Cancer P D"
     },
     {
-      "title": "Zhang J, Chadha JS. Developmental Therapeutics in Metastatic Prostate Cancer: New Targets and New Strategies. Cancers (Basel)",
+      "title": "Developmental Therapeutics in Metastatic Prostate Cancer: New Targets and New Strategies",
       "pubmed_id": "39272956",
       "pmc_id": "PMC11393880",
       "year": "2024",
-      "journal": "16(17)",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Zhang J, Chadha JS",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Hussain M, Kocherginsky M, Agarwal N, Adra N, Zhang J, Paller CJ, Picus J, Reichert ZR, Szmulewitz RZ, Tagawa ST, Kuzel TM, Bazzi LA, Daignault-Newton S, Whang YE, Dreicer R, Stephenson RD, Rettig MB, Shevrin D, Gerke T, Chinnaiyan AM, Antonarakis ES. Abiraterone, Olaparib, or Abiraterone + Olaparib in First-Line Metastatic Castration-Resistant Prostate Cancer with DNA Repair Defects (BRCAAway). Clin Cancer Res",
+      "title": "Abiraterone, Olaparib, or Abiraterone + Olaparib in First-Line Metastatic Castration-Resistant Prostate Cancer with DNA Repair Defects (BRCAAway)",
       "pubmed_id": "39115414",
       "year": "2024",
-      "journal": "30(19):4318-4328",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Hussain M, Kocherginsky M, Agarwal N, Adra N, Zhang J, Paller CJ, Picus J, Reichert ZR, Szmulewitz RZ, Tagawa ST, Kuzel TM, Bazzi LA, Daignault-Newton S, Whang YE, Dreicer R, Stephenson RD, Rettig MB, Shevrin D, Gerke T, Chinnaiyan AM, Antonarakis ES",
+      "journal": "Clin Cancer Res"
     },
     {
-      "title": "Parikh M, Tangen C, Hussain MHA, Gupta S, Callis S, Jo Y, Harzstark A, Paller CJ, George S, Zibelman MR, Cheng HH, Maughan BL, Zhang J, Pachynski RK, Bryce AH, Lin DW, Quinn DI, Lerner SP, Thompson IM, Dorff TB, Lara PN, Agarwal N. Three- and Seven-month Prostate-specific Antigen Levels as Prognostic Markers for Overall Survival in Metastatic Hormone-sensitive Prostate Cancer: Results from SWOG S1216, a Phase 3 Randomized Trial of Androgen Deprivation Plus Orteronel or Bicalutamide. Eur Urol Oncol",
+      "title": "Three- and Seven-month Prostate-specific Antigen Levels as Prognostic Markers for Overall Survival in Metastatic Hormone-sensitive Prostate Cancer: Results from SWOG S1216, a Phase 3 Randomized Trial of Androgen Deprivation Plus Orteronel or Bicalutamide",
       "pubmed_id": "38523017",
       "year": "2024",
-      "journal": "7(5):1097-1104",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Parikh M, Tangen C, Hussain MHA, Gupta S, Callis S, Jo Y, Harzstark A, Paller CJ, George S, Zibelman MR, Cheng HH, Maughan BL, Zhang J, Pachynski RK, Bryce AH, Lin DW, Quinn DI, Lerner SP, Thompson IM, Dorff TB, Lara PN, Agarwal N",
+      "journal": "Eur Urol Oncol"
     },
     {
-      "title": "Mohammed T, Yu J, Qiao Y, Kim Y, Mortensen E, Swede H, Wu Z, Zhang J. Marijuana Use May Be Associated with Reduced Prevalence of Prostate Cancer: A National Survey on Drug Use and Health Study from United States of America. Biomedicines",
+      "title": "Marijuana Use May Be Associated with Reduced Prevalence of Prostate Cancer: A National Survey on Drug Use and Health Study from United States of America",
       "pubmed_id": "38790970",
       "pmc_id": "PMC11118915",
       "year": "2024",
-      "journal": "12(5)",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Mohammed T, Yu J, Qiao Y, Kim Y, Mortensen E, Swede H, Wu Z, Zhang J",
+      "journal": "Biomedicines"
     },
     {
-      "title": "Alonso-Gordoa T, Goodman M, Vulsteke C, Roubaud G, Zhang J, Parikh M, Piulats JM, Azaro A, James GD, Cavazzina R, Gangl ET, Thompson J, Pouliot G, Kumar R, Sweeney C. A phase II study (AARDVARC) of AZD4635 in combination with durvalumab and cabazitaxel in patients with progressive, metastatic, castration-resistant prostate cancer. ESMO Open",
+      "title": "A phase II study (AARDVARC) of AZD4635 in combination with durvalumab and cabazitaxel in patients with progressive, metastatic, castration-resistant prostate cancer",
       "pubmed_id": "38838502",
       "pmc_id": "PMC11190476",
       "year": "2024",
-      "journal": "9(6):103446",
-      "authors": ""
+      "publication_date": "2024 Jun",
+      "authors": "Alonso-Gordoa T, Goodman M, Vulsteke C, Roubaud G, Zhang J, Parikh M, Piulats JM, Azaro A, James GD, Cavazzina R, Gangl ET, Thompson J, Pouliot G, Kumar R, Sweeney C",
+      "journal": "ESMO Open"
     },
     {
-      "title": "Ionescu F, Zhang J. How We Treat Metastatic Castration-Sensitive Prostate Cancer. Cancer Control",
+      "title": "How We Treat Metastatic Castration-Sensitive Prostate Cancer",
       "pubmed_id": "39150340",
       "pmc_id": "PMC11329962",
       "year": "2024",
-      "journal": "31",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Ionescu F, Zhang J",
+      "journal": "Cancer Control"
     }
   ],
   "grants": [
     {
       "description": "Title: Gamma Delta 2.0 CAR-T: Pre-Clinical Studies and Clinical Trial  \nAward Number: N/A Gift Award   \nSponsor: The Todd and Karen Wanek Family Foundation   \nAbate-Daga, D. (PD/PI), Zhang, J. (Co-PD/PI)",
-      "source": "Foundation"
+      "title": "Gamma Delta 2.0 CAR-T: Pre-Clinical Studies and Clinical Trial",
+      "award_number": "N/A Gift Award",
+      "sponsor": "The Todd and Karen Wanek Family Foundation   \nAbate-",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Daga, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Zhang, J.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ZhangJingsong_7285.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7285"
   },
-  "content_hash": "ee86ff267135956e74786f347c5b0555f11f519804fbf38a55183c17ebe065d1",
+  "content_hash": "e4237f47b0633ae71092664d551528ae2b8ea9e0fcf6ba9fe4d92ed40ca4ef87",
   "researcher_name": "Jingsong Zhang",
   "department": "Integrated Mathematical Oncology"
 }

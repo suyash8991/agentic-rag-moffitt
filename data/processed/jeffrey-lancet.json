@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jeffrey-lancet",
-  "last_updated": "2025-10-19T00:28:05.444649",
+  "last_updated": "2025-10-21T16:37:08.493440",
   "researcher_id": "3177",
   "degrees": [
     "MD"
@@ -54,91 +54,109 @@
   ],
   "publications": [
     {
-      "title": "Aguirre LE, Ball S, Jain A, Ali NA, Sallman DA, Kuykendall A, Sweet K, Lancet JE, Padron E, Komrokji RS. Characterization of Indolent Chronic Myelomonocytic Leukemia Phenotypes and Dynamic Features of Disease Progression. Clin Lymphoma Myeloma Leuk",
+      "title": "Characterization of Indolent Chronic Myelomonocytic Leukemia Phenotypes and Dynamic Features of Disease Progression",
       "pubmed_id": "40254502",
       "year": "2025",
-      "journal": "25(9):661-671",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Aguirre LE, Ball S, Jain A, Ali NA, Sallman DA, Kuykendall A, Sweet K, Lancet JE, Padron E, Komrokji RS",
+      "journal": "Clin Lymphoma Myeloma Leuk"
     },
     {
-      "title": "Ball S, Jain AG, Al Ali N, Aguirre LE, Bewersdorf JP, Kent A, Rose A, Hayden A, Siddon A, Lykon J, Madarang E, Swoboda DM, Padron E, Sweet K, Sallman DA, Lancet J, Carraway HE, Watts J, Zeidan A, Pollyea DA, Komrokji RS. Hypomethylating Agent and Venetoclax Combination Is a Safe and Effective Alternative to Intensive Chemotherapy in Older (\u2265 70 Years) Patients With Newly Diagnosed Favorable Risk Acute Myeloid Leukemia. Am J Hematol",
+      "title": "Hypomethylating Agent and Venetoclax Combination Is a Safe and Effective Alternative to Intensive Chemotherapy in Older (\u2265 70 Years) Patients With Newly Diagnosed Favorable Risk Acute Myeloid Leukemia",
       "pubmed_id": "40772639",
       "year": "2025",
-      "journal": "100(10):1920-1923",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Ball S, Jain AG, Al Ali N, Aguirre LE, Bewersdorf JP, Kent A, Rose A, Hayden A, Siddon A, Lykon J, Madarang E, Swoboda DM, Padron E, Sweet K, Sallman DA, Lancet J, Carraway HE, Watts J, Zeidan A, Pollyea DA, Komrokji RS",
+      "journal": "Am J Hematol"
     },
     {
-      "title": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS. Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm. Blood Neoplasia",
+      "title": "Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm",
       "pubmed_id": "40453136",
       "pmc_id": "PMC12067887",
       "year": "2025",
-      "journal": "2(2):100062",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS",
+      "journal": "Blood Neoplasia"
     },
     {
-      "title": "Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS. Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML). Leuk Res",
+      "title": "Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML)",
       "pubmed_id": "39921921",
       "year": "2025",
-      "journal": "150:107662",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS",
+      "journal": "Leuk Res"
     },
     {
-      "title": "Sallman DA, Komrokji RS, Dezern AE, Sebert M, Garcia-Manero G, Rahm\u00e9 R, Winer ES, Lehmann-Che J, Roboz GJ, Madelaine I, Sekeres MA, Peterlin P, Chan O, Beyne-Rauzy O, Kuykendall A, Recher C, McLemore A, Stamatoullas A, Zhang L, Willems L, Mo Q, Raffoux E, Nardelli L, Berthon C, Al Ali NH, Quesnel B, Padron E, Kantarjian HM, List AF, Ades L, Lancet JE, Fenaux P, Cluzeau T. Long-term follow-up and combined Phase 2 results of eprenetapopt and azacitidine in patients with TP53 mutant MDS/AML. Hemasphere",
+      "title": "Long-term follow-up and combined Phase 2 results of eprenetapopt and azacitidine in patients with TP53 mutant MDS/AML",
       "pubmed_id": "40657305",
       "pmc_id": "PMC12255903",
       "year": "2025",
-      "journal": "9(7):e70164",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Sallman DA, Komrokji RS, Dezern AE, Sebert M, Garcia-Manero G, Rahm\u00e9 R, Winer ES, Lehmann-Che J, Roboz GJ, Madelaine I, Sekeres MA, Peterlin P, Chan O, Beyne-Rauzy O, Kuykendall A, Recher C, McLemore A, Stamatoullas A, Zhang L, Willems L, Mo Q, Raffoux E, Nardelli L, Berthon C, Al Ali NH, Quesnel B, Padron E, Kantarjian HM, List AF, Ades L, Lancet JE, Fenaux P, Cluzeau T",
+      "journal": "Hemasphere"
     },
     {
-      "title": "Komrokji RS, Ammad-Ud-Din M, Ali NHA, Xie Z, Chan O, Kuykendall AT, Yun S, Walker AR, Lancet J, Padron E, Sallman DA. Hematological Response to Frontline Treatment in Lower Risk Myelodysplastic Syndromes (LRMDS) is Associated With Better Overall Survival. Clin Lymphoma Myeloma Leuk",
+      "title": "Hematological Response to Frontline Treatment in Lower Risk Myelodysplastic Syndromes (LRMDS) is Associated With Better Overall Survival",
       "pubmed_id": "40113545",
       "year": "2025",
-      "journal": "25(7):e487-e490",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Komrokji RS, Ammad-Ud-Din M, Ali NHA, Xie Z, Chan O, Kuykendall AT, Yun S, Walker AR, Lancet J, Padron E, Sallman DA",
+      "journal": "Clin Lymphoma Myeloma Leuk"
     },
     {
-      "title": "Jain AG, Volpe VO, Wang C, Ball S, Tobon K, Chan O, Padron E, Kuykendall A, Lancet JE, Komrokji R, Sallman DA, Sweet KL. Outcomes by best response with hypomethylating agent plus venetoclax in adults with previously untreated acute myeloid leukemia. Ann Hematol",
+      "title": "Outcomes by best response with hypomethylating agent plus venetoclax in adults with previously untreated acute myeloid leukemia",
       "pubmed_id": "39243312",
       "year": "2025",
-      "journal": "104(1):307-315",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Jain AG, Volpe VO, Wang C, Ball S, Tobon K, Chan O, Padron E, Kuykendall A, Lancet JE, Komrokji R, Sallman DA, Sweet KL",
+      "journal": "Ann Hematol"
     },
     {
-      "title": "Consagra A, Lanino L, Al Ali NH, Aguirre L, Xie Z, Chan O, Andreossi G, Raddi MG, Rigodanza L, Sanna A, Mattiuz G, Tofacchi E, Amato C, Tanturli M, De Pourcq S, Walker A, Kuykendall A, Lancet J, Padron E, Sallman DA, Restuccia F, Perego A, Ubezio M, Fattizzo B, Riva M, Maggioni G, Campagna A, Della Porta MG, Santini V, Komrokji RS. Response to luspatercept can be predicted and improves overall survival in the real-life treatment of LR-MDS. Hemasphere",
+      "title": "Response to luspatercept can be predicted and improves overall survival in the real-life treatment of LR-MDS",
       "pubmed_id": "39944234",
       "pmc_id": "PMC11814532",
       "year": "2025",
-      "journal": "9(2):e70086",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Consagra A, Lanino L, Al Ali NH, Aguirre L, Xie Z, Chan O, Andreossi G, Raddi MG, Rigodanza L, Sanna A, Mattiuz G, Tofacchi E, Amato C, Tanturli M, De Pourcq S, Walker A, Kuykendall A, Lancet J, Padron E, Sallman DA, Restuccia F, Perego A, Ubezio M, Fattizzo B, Riva M, Maggioni G, Campagna A, Della Porta MG, Santini V, Komrokji RS",
+      "journal": "Hemasphere"
     },
     {
-      "title": "Garciaz S, Dumas PY, Bertoli S, Sallman DA, Decroocq J, Belhabri A, Orvain C, Aspas Requena G, Simand C, Laribi K, Carr\u00e9 M, Santagostino A, Himberlin C, Peterlin P, Bonnet S, Chan O, Lancet J, Komrokji R, Vergez F, Chapuis N, Raskovalova T, Plesa A, Lhoumeau AC, Mineur A, Hospital MA, Pigneux A, Vey N, R\u00e9cher C. Outcomes of acute myeloid leukemia patients who responded to venetoclax and azacitidine and stopped treatment. Am J Hematol",
+      "title": "Outcomes of acute myeloid leukemia patients who responded to venetoclax and azacitidine and stopped treatment",
       "pubmed_id": "38899566",
       "year": "2024",
-      "journal": "99(10):1870-1876",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Garciaz S, Dumas PY, Bertoli S, Sallman DA, Decroocq J, Belhabri A, Orvain C, Aspas Requena G, Simand C, Laribi K, Carr\u00e9 M, Santagostino A, Himberlin C, Peterlin P, Bonnet S, Chan O, Lancet J, Komrokji R, Vergez F, Chapuis N, Raskovalova T, Plesa A, Lhoumeau AC, Mineur A, Hospital MA, Pigneux A, Vey N, R\u00e9cher C",
+      "journal": "Am J Hematol"
     },
     {
-      "title": "Albanyan O, Elmariah H, Kalos D, Kim J, Faramand R, Sallman D, Mishra A, Sweet K, Perez L, Ochoa-Bayona J, Nieder M, Komrokji R, Lancet J, Fernandez H, Nishihori T, Pidala J, Anasetti C, Bejanyan N. Melphalan Dose in Combination With Fludarabine Affects Gastrointestinal Toxicity and Graft-Versus-Host Disease After Allogeneic Transplantation in Acute Myeloid Leukemia and Myelodysplastic Syndromes. Transplant Cell Ther",
+      "title": "Melphalan Dose in Combination With Fludarabine Affects Gastrointestinal Toxicity and Graft-Versus-Host Disease After Allogeneic Transplantation in Acute Myeloid Leukemia and Myelodysplastic Syndromes",
       "pubmed_id": "39147136",
       "year": "2024",
-      "journal": "30(11):1090",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Albanyan O, Elmariah H, Kalos D, Kim J, Faramand R, Sallman D, Mishra A, Sweet K, Perez L, Ochoa-Bayona J, Nieder M, Komrokji R, Lancet J, Fernandez H, Nishihori T, Pidala J, Anasetti C, Bejanyan N",
+      "journal": "Transplant Cell Ther"
     }
   ],
   "grants": [
     {
       "description": "Title: North American Star Consortium  \nAward Number: 4UM1CA186644-08  \nSponsor: National Cancer Institute (NCI)  \nLancet, J. (PD/PI)",
+      "title": "North American Star Consortium",
+      "award_number": "4UM1CA186644-08",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "6644-08"
+      "investigators": [
+        {
+          "name": "Lancet, J.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LancetJeffrey_3177.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3177"
   },
-  "content_hash": "790bc2d5a59e967cf680720fbd71a4e981a512bd2c8b830be69f9f073df6a7a3",
+  "content_hash": "7f4bfb05a5cdca4a85b02163a98a7c027afb67e24a5de715cfc612fff41dae69",
   "researcher_name": "Jeffrey Lancet",
   "department": "Drug Discovery"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/joseph-markowitz",
-  "last_updated": "2025-10-19T00:31:04.635293",
+  "last_updated": "2025-10-21T16:40:14.488701",
   "researcher_id": "15867",
   "degrees": [
     "MD",
@@ -55,95 +55,122 @@
   ],
   "publications": [
     {
-      "title": "Weiss SA, Djureinovic D, Wei W, Tran T, Austin M, Markowitz J, Eroglu Z, Khushalani NI, Hegde U, Cohen J, Sznol M, Anderson G, Johnson B, Piteo C, Mahajan A, Adeniran A, Jilaveanu L, Goldberg S, Chiang V, Forsyth P, Kluger HM. Phase II Trial of Pembrolizumab in Combination With Bevacizumab for Untreated Melanoma Brain Metastases. J Clin Oncol",
+      "title": "Phase II Trial of Pembrolizumab in Combination With Bevacizumab for Untreated Melanoma Brain Metastases",
       "pubmed_id": "40048689",
       "pmc_id": "PMC12058415",
       "year": "2025",
-      "journal": "43(14):1685-1694",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Weiss SA, Djureinovic D, Wei W, Tran T, Austin M, Markowitz J, Eroglu Z, Khushalani NI, Hegde U, Cohen J, Sznol M, Anderson G, Johnson B, Piteo C, Mahajan A, Adeniran A, Jilaveanu L, Goldberg S, Chiang V, Forsyth P, Kluger HM",
+      "journal": "J Clin Oncol"
     },
     {
-      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL. spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis. Cancer Res",
+      "title": "spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis",
       "pubmed_id": "39636739",
       "pmc_id": "PMC11873723",
       "year": "2025",
-      "journal": "85(5):848-858",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Khushalani NI, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A",
-      "pubmed_id": "40858972",
-      "year": "1512",
-      "journal": "Nat Med",
-      "authors": "Publisher Correction: Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S"
-    },
-    {
-      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "title": "ShinyEvents: harmonizing longitudinal data for real world survival estimation",
       "pubmed_id": "40799741",
       "pmc_id": "PMC12340904",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI",
+      "journal": "Res Sq"
     },
     {
-      "title": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Nikhil IK, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A",
+      "title": "Publisher Correction: Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S",
+      "pubmed_id": "40858972",
+      "year": "1512",
+      "publication_date": "1512 trial",
+      "authors": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Khushalani NI, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A"
+    },
+    {
+      "title": "Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S",
       "pubmed_id": "40813711",
       "pmc_id": "PMC12419231",
       "year": "1512",
-      "journal": "Nat Med",
-      "authors": "Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S"
+      "publication_date": "1512 trial",
+      "authors": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Nikhil IK, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A"
     },
     {
-      "title": "Ramadoss T, Nichols M, Palacios C, Eroglu Z, Markowitz J, Karapetyan L, Tarhini AA, Wuthrick EJ, Sondak VK, Khushalani NI, Tsai KY, Brohl AS. Durability of response to immune checkpoint blockade following treatment discontinuation and efficacy of rechallenge in advanced Merkel cell carcinoma. J Immunother Cancer",
+      "title": "Durability of response to immune checkpoint blockade following treatment discontinuation and efficacy of rechallenge in advanced Merkel cell carcinoma",
       "pubmed_id": "39242118",
       "pmc_id": "PMC11381633",
       "year": "2024",
-      "journal": "12(9)",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Ramadoss T, Nichols M, Palacios C, Eroglu Z, Markowitz J, Karapetyan L, Tarhini AA, Wuthrick EJ, Sondak VK, Khushalani NI, Tsai KY, Brohl AS",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Tometich DB, Geiss C, Maconi ML, Chavez M, Hoogland AI, Li X, Nieves-Lopez A, Rodriguez Y, Bryant C, Brohl AS, Eroglu Z, Markowitz J, Tarhini AA, Hwu P, Khushalani NI, Jim HSL. Patient reported outcomes and patient experiences of immune checkpoint modulators for advanced or recurrent melanoma: a mixed methods study. Support Care Cancer",
+      "title": "Patient reported outcomes and patient experiences of immune checkpoint modulators for advanced or recurrent melanoma: a mixed methods study",
       "pubmed_id": "38709312",
       "year": "2024",
-      "journal": "32(6):330",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Tometich DB, Geiss C, Maconi ML, Chavez M, Hoogland AI, Li X, Nieves-Lopez A, Rodriguez Y, Bryant C, Brohl AS, Eroglu Z, Markowitz J, Tarhini AA, Hwu P, Khushalani NI, Jim HSL",
+      "journal": "Support Care Cancer"
     },
     {
-      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai K, Markowitz J, Vallebuona E, Berglund A, Eschrich S, Yu X, Fridley BL. spatialGE: A user-friendly web application to democratize spatial transcriptomics analysis. bioRxiv",
+      "title": "spatialGE: A user-friendly web application to democratize spatial transcriptomics analysis",
       "pubmed_id": "39005315",
       "pmc_id": "PMC11244876",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai K, Markowitz J, Vallebuona E, Berglund A, Eschrich S, Yu X, Fridley BL",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Jimenez J, Dubey P, Carter B, Koomen J, Markowitz J. A metabolic perspective on nitric oxide function in melanoma. BBA. Reviews on cancer",
+      "title": "A metabolic perspective on nitric oxide function in melanoma",
       "pubmed_id": "38061664",
       "year": "2024",
-      "journal": "1879(1):189038",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Jimenez J, Dubey P, Carter B, Koomen J, Markowitz J",
+      "journal": "BBA"
     },
     {
-      "title": "Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM. Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma. Cancer",
+      "title": "Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma",
       "pubmed_id": "37776537",
       "year": "2024",
-      "journal": "130(2):232-243",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM",
+      "journal": "Cancer"
     }
   ],
   "grants": [
     {
       "description": "Title: Nitric Oxide Immune Dependent Resistance Mechanisms to Anti-PD-1 Therapy  \nAward Number: 5K08CA252164-03  \nSponsor: National Cancer Institute (NCI)  \nMarkowitz, J. (PD/PI)",
+      "title": "Nitric Oxide Immune Dependent Resistance Mechanisms to Anti-PD-1 Therapy",
+      "award_number": "5K08CA252164-03",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2164-03"
+      "investigators": [
+        {
+          "name": "Markowitz, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: IFx-Hu2.0 facilitates immune responses in melanoma  \nAward Number: 23B05  \nSponsor: Florida Department of Health  \nMarkowitz, J. (PD/PI)"
+      "description": "Title: IFx-Hu2.0 facilitates immune responses in melanoma  \nAward Number: 23B05  \nSponsor: Florida Department of Health  \nMarkowitz, J. (PD/PI)",
+      "title": "IFx-Hu2.0 facilitates immune responses in melanoma",
+      "award_number": "23B05",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Markowitz, J.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MarkowitzJoseph_15867.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15867"
   },
-  "content_hash": "b5d097cbab04766d5a473f92c3c9d2592083fab80b29582938d1e1c2851b497c",
+  "content_hash": "aebbc7994ed9103c15fb9008b2841d4e9ef2b5eaab10bfea815f648a8a1f87d1",
   "researcher_name": "Joseph Markowitz",
   "department": "Immunology"
 }

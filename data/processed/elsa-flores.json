@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/elsa-flores",
-  "last_updated": "2025-10-19T00:25:37.231295",
+  "last_updated": "2025-10-21T16:34:41.661901",
   "researcher_id": "17085",
   "degrees": [
     "PhD"
@@ -34,114 +34,212 @@
   ],
   "publications": [
     {
-      "title": "Shepard A, Lester DK, Troutman S, Hoxha S, Khaled WT, Smith ESJ, Park TJ, Buffenstein R, Du D, Teng M, Dengler-Crish CM, Tsai KY, Flores ER, Ventura A, Kissil JL. An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat. Cancer Discov",
+      "title": "An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat",
       "pubmed_id": "40920097",
       "pmc_id": "PMC12486303",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Shepard A, Lester DK, Troutman S, Hoxha S, Khaled WT, Smith ESJ, Park TJ, Buffenstein R, Du D, Teng M, Dengler-Crish CM, Tsai KY, Flores ER, Ventura A, Kissil JL",
+      "journal": "Cancer Discov"
     },
     {
-      "title": "Lazure F, Drapela S, Liu X, Lockhart JH, Kashfi H, Sarigul N, Ilter D, Flores ER, Wang X, Smalley I, Jaeger A, Yu X, Gomes AP. Aging directs the differential evolution of KRAS-driven lung adenocarcinoma. bioRxiv",
+      "title": "Aging directs the differential evolution of KRAS-driven lung adenocarcinoma",
       "pubmed_id": "39896625",
       "pmc_id": "PMC11785146",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Lazure F, Drapela S, Liu X, Lockhart JH, Kashfi H, Sarigul N, Ilter D, Flores ER, Wang X, Smalley I, Jaeger A, Yu X, Gomes AP",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Jinesh GG, Smallin MT, Mtchedlidze N, Napoli M, Lockhart JH, Flores ER, Brohl AS. C19MC drives nucleolar invasion of mitochondria and meiotic nuclear division in human cancers. iScience",
+      "title": "C19MC drives nucleolar invasion of mitochondria and meiotic nuclear division in human cancers",
       "pubmed_id": "39563898",
       "pmc_id": "PMC11575172",
       "year": "2024",
-      "journal": "27(11):111132",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Jinesh GG, Smallin MT, Mtchedlidze N, Napoli M, Lockhart JH, Flores ER, Brohl AS",
+      "journal": "iScience"
     },
     {
-      "title": "Flores ER, Sawyer WG. Engineering cancer's end: An interdisciplinary approach to confront the complexities of cancer. Cancer Cell",
+      "title": "Engineering cancer's end: An interdisciplinary approach to confront the complexities of cancer",
       "pubmed_id": "38848721",
       "year": "2024",
-      "journal": "42(7):1133-1137",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Flores ER, Sawyer WG",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Jinesh GG, Smallin MT, Mtchedlidze N, Godwin I, Napoli M, Hackel N, Phadke MS, Deshpande AA, Li X, Lockhart JH, Baldwin JR, Acevedo-Acevedo S, Gao Y, Reiser MA, Smalley KSM, Flores ER, Brohl AS. C19MC miRNA-520G induces SP100 antiviral gene transcription and inhibits melanin production in skin cutaneous melanoma. Genes Dis",
+      "title": "C19MC miRNA-520G induces SP100 antiviral gene transcription and inhibits melanin production in skin cutaneous melanoma",
       "pubmed_id": "37588194",
       "pmc_id": "PMC10425800",
       "year": "2024",
-      "journal": "11(1):60-63",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Jinesh GG, Smallin MT, Mtchedlidze N, Godwin I, Napoli M, Hackel N, Phadke MS, Deshpande AA, Li X, Lockhart JH, Baldwin JR, Acevedo-Acevedo S, Gao Y, Reiser MA, Smalley KSM, Flores ER, Brohl AS",
+      "journal": "Genes Dis"
     },
     {
-      "title": "Napoli M, Deshpande AA, Chakravarti D, Rajapakshe K, Gunaratne PH, Coarfa C, Flores ER. Genome-wide p63-Target Gene Analyses Reveal TAp63/NRF2-Dependent Oxidative Stress Responses. Cancer Res Commun",
+      "title": "Genome-wide p63-Target Gene Analyses Reveal TAp63/NRF2-Dependent Oxidative Stress Responses",
       "pubmed_id": "38165157",
       "pmc_id": "PMC10832605",
       "year": "2024",
-      "journal": "4(2):264-278",
-      "authors": ""
+      "publication_date": "2024 Feb",
+      "authors": "Napoli M, Deshpande AA, Chakravarti D, Rajapakshe K, Gunaratne PH, Coarfa C, Flores ER",
+      "journal": "Cancer Res Commun"
     },
     {
-      "title": "Narv\u00e1ez-Bandera I, Lui A, Ayalew Mekonnen Y, Rubio V, Sulman N, Wilson C, Ackerman HD, Ospina OE, Gonzalez-Calderon G, Flores E, Li Q, Chen A, Fridley B, Stewart P. iModMix: Integrative Module Analysis for Multi-omics Data. bioRxiv",
+      "title": "iModMix: Integrative Module Analysis for Multi-omics Data",
       "pubmed_id": "39605665",
       "pmc_id": "PMC11601443",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Dec",
+      "authors": "Narv\u00e1ez-Bandera I, Lui A, Ayalew Mekonnen Y, Rubio V, Sulman N, Wilson C, Ackerman HD, Ospina OE, Gonzalez-Calderon G, Flores E, Li Q, Chen A, Fridley B, Stewart P",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Su X, Chakravarti D, Cho MS, Liu L, Gi YJ, Lin YL, Leung ML, El-Naggar A, Creighton CJ, Suraokar MB, Wistuba I, Flores ER. Author Correction: TAp63 suppresses metastasis through coordinate regulation of Dicer and miRNAs. Nature",
+      "title": "Author Correction: TAp63 suppresses metastasis through coordinate regulation of Dicer and miRNAs",
       "pubmed_id": "39030431",
       "year": "2024",
-      "journal": "632(8024):E2",
-      "authors": ""
+      "publication_date": "2024 Aug",
+      "authors": "Su X, Chakravarti D, Cho MS, Liu L, Gi YJ, Lin YL, Leung ML, El-Naggar A, Creighton CJ, Suraokar MB, Wistuba I, Flores ER",
+      "journal": "Nature"
     },
     {
-      "title": "Yoon SJ, Combs JA, Falzone A, Prieto-Farigua N, Caldwell S, Ackerman HD, Flores ER, DeNicola GM. Comprehensive Metabolic Tracing Reveals the Origin and Catabolism of Cysteine in Mammalian Tissues and Tumors. Cancer Res",
+      "title": "Comprehensive Metabolic Tracing Reveals the Origin and Catabolism of Cysteine in Mammalian Tissues and Tumors",
       "pubmed_id": "36862034",
       "pmc_id": "PMC10152234",
       "year": "2023",
-      "journal": "83(9):1426-1442",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Yoon SJ, Combs JA, Falzone A, Prieto-Farigua N, Caldwell S, Ackerman HD, Flores ER, DeNicola GM",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Lockhart JH, Ackerman HD, Lee K, Abdalah M, Davis AJ, Hackel N, Boyle TA, Saller J, Keske A, H\u00e4nggi K, Ruffell B, Stringfield O, Cress WD, Tan AC, Flores ER. Grading of lung adenocarcinomas with simultaneous segmentation by artificial intelligence (GLASS-AI). NPJ Precis Oncol",
+      "title": "Grading of lung adenocarcinomas with simultaneous segmentation by artificial intelligence (GLASS-AI)",
       "pubmed_id": "37464050",
       "pmc_id": "PMC10354042",
       "year": "2023",
-      "journal": "7(1):68",
-      "authors": ""
+      "publication_date": "2023 Jul",
+      "authors": "Lockhart JH, Ackerman HD, Lee K, Abdalah M, Davis AJ, Hackel N, Boyle TA, Saller J, Keske A, H\u00e4nggi K, Ruffell B, Stringfield O, Cress WD, Tan AC, Flores ER",
+      "journal": "NPJ Precis Oncol"
     }
   ],
   "grants": [
     {
       "description": "Title: Integrated Program in Cancer and Data Science  \nAward Number: 5T32CA233399-04  \nSponsor: National Cancer Institute (NCI)  \nCress, W. (PD/PI), Flores, E. (PD/PI), Fridley, B. (PD/PI)",
+      "title": "Integrated Program in Cancer and Data Science",
+      "award_number": "5T32CA233399-04",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "3399-04"
+      "investigators": [
+        {
+          "name": "Cress, W.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Flores, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Fridley, B.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Identifying Metabolic Vulnerabilities in Lung Cancer  \nAward Number: 5P01CA250984-05  \nSponsor: National Cancer Institute (NCI)  \nFlores, E. (PD/PI), Haura, E. (PD/PI)",
+      "title": "Identifying Metabolic Vulnerabilities in Lung Cancer",
+      "award_number": "5P01CA250984-05",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0984-05"
+      "investigators": [
+        {
+          "name": "Flores, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Community Project Funding/Congressionally Directed Spending Construction  \nAward Number: 1CE1HS52143?01?00  \nSponsor: Health Resources and Services Administration (HRSA)  \nFlores, E. (PD/PI)"
+      "description": "Title: Community Project Funding/Congressionally Directed Spending Construction  \nAward Number: 1CE1HS52143?01?00  \nSponsor: Health Resources and Services Administration (HRSA)  \nFlores, E. (PD/PI)",
+      "title": "Community Project Funding/Congressionally Directed Spending Construction",
+      "award_number": "1CE1HS52143?01?00",
+      "sponsor": "Health Resources and Services Administration (HRSA)",
+      "investigators": [
+        {
+          "name": "Flores, E.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Targeting \"Undruggable\" Pathways  \nAward Number: MOAAZ  \nSponsor: Florida Department of Health  \nFlores, E. (PD/PI)"
+      "description": "Title: Targeting \"Undruggable\" Pathways  \nAward Number: MOAAZ  \nSponsor: Florida Department of Health  \nFlores, E. (PD/PI)",
+      "title": "Targeting \"Undruggable\" Pathways",
+      "award_number": "MOAAZ",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Flores, E.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: TAp63 Regulated Long noncoding RNAs (TROLLs) as novel therapeutic targets in high grade serous ovarian cancer  \nAward Number: Dr. Robert C. Knapp Fellowship  \nSponsor: Hearing the Ovarian Cancer Whisper (HOW)  \nFlores, E. (), Lui, A. (PD/PI)"
+      "description": "Title: TAp63 Regulated Long noncoding RNAs (TROLLs) as novel therapeutic targets in high grade serous ovarian cancer  \nAward Number: Dr. Robert C. Knapp Fellowship  \nSponsor: Hearing the Ovarian Cancer Whisper (HOW)  \nFlores, E. (), Lui, A. (PD/PI)",
+      "title": "TAp63 Regulated Long noncoding RNAs (TROLLs) as novel therapeutic targets in high grade serous ovarian cancer",
+      "award_number": "Dr. Robert C. Knapp Fellowship",
+      "sponsor": "Hearing the Ovarian Cancer Whisper (HOW)",
+      "investigators": [
+        {
+          "name": "Flores, E.",
+          "role": ""
+        },
+        {
+          "name": "Lui, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Dual Up- and Downstream Targeting of POU2F3 in Small Cell Lung Cancer  \nAward Number: HT94252410567 Log No. LC230490  \nSponsor: Department of Defense (DOD)  \nRix, U. (PD/PI), Flores, E. (Co-PD/PI)",
-      "source": "DOD"
+      "title": "Dual Up- and Downstream Targeting of POU2F3 in Small Cell Lung Cancer",
+      "award_number": "HT94252410567 Log No. LC230490",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Rix, U.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Flores, E.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Novel combination approaches for targeting oncogenic signaling dependencies in POU2F3- driven small cell lung cancer  \nAward Number: 24B02  \nSponsor: Florida Department of Health  \nFlores, E. (PD/PI), Rix, U. (PD/PI)"
+      "description": "Title: Novel combination approaches for targeting oncogenic signaling dependencies in POU2F3- driven small cell lung cancer  \nAward Number: 24B02  \nSponsor: Florida Department of Health  \nFlores, E. (PD/PI), Rix, U. (PD/PI)",
+      "title": "Novel combination approaches for targeting oncogenic signaling dependencies in POU2F3- driven small cell lung cancer",
+      "award_number": "24B02",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Flores, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Rix, U.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/FloresElsa_17085.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17085"
   },
-  "content_hash": "683e203d1d3ff6ccf111dd45e927140c70a437a25fe8dde1afeea4b3dd70a1d8",
+  "content_hash": "a39e81744d0dbe27863ad66e360cc66eefb5e0927929f5e1131bea4c0dac5f2e",
   "researcher_name": "Elsa Flores",
   "department": "Molecular Oncology"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ahmad-tarhini",
-  "last_updated": "2025-10-19T00:28:39.761351",
+  "last_updated": "2025-10-21T16:37:42.772959",
   "researcher_id": "24764",
   "degrees": [
     "MD",
@@ -45,91 +45,122 @@
   ],
   "publications": [
     {
-      "title": "Long GV, Nair N, Marbach D, Scolyer RA, Wilson S, Cotting D, Staedler N, Amaria RN, Ascierto PA, Tarhini AA, Robert C, Hamid O, Gaudy-Marqueste C, Lebbe C, Munoz-Couselo E, Menzies AM, Pages C, Curigliano G, Mandala M, Jessop N, Bader U, Perdicchio M, Teichgr\u00e4ber V, Muecke M, Markert C, Blank C. Neoadjuvant PD-1 and LAG-3-targeting bispecific antibody and other immune checkpoint inhibitor combinations in resectable melanoma: the randomized phase 1b/2 Morpheus-Melanoma trial. Nat Med",
+      "title": "Neoadjuvant PD-1 and LAG-3-targeting bispecific antibody and other immune checkpoint inhibitor combinations in resectable melanoma: the randomized phase 1b/2 Morpheus-Melanoma trial",
       "pubmed_id": "40993242",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Long GV, Nair N, Marbach D, Scolyer RA, Wilson S, Cotting D, Staedler N, Amaria RN, Ascierto PA, Tarhini AA, Robert C, Hamid O, Gaudy-Marqueste C, Lebbe C, Munoz-Couselo E, Menzies AM, Pages C, Curigliano G, Mandala M, Jessop N, Bader U, Perdicchio M, Teichgr\u00e4ber V, Muecke M, Markert C, Blank C",
+      "journal": "Nat Med"
     },
     {
-      "title": "Eljilany I, Garcia JR, Jamal B, Tarhini AA. Monoclonal antibodies as adjuvant therapies for resected melanoma. Expert Opin Biol Ther",
+      "title": "Monoclonal antibodies as adjuvant therapies for resected melanoma",
       "pubmed_id": "40125987",
       "year": "2025",
-      "journal": "25(5):1-14",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Eljilany I, Garcia JR, Jamal B, Tarhini AA",
+      "journal": "Expert Opin Biol Ther"
     },
     {
-      "title": "Parajuli B, Midya V, Kiddle R, De Jager N, Eggers S, Spakowicz D, Hoyd R, Salhia B, Chan CHF, Churchman ML, Rounbehler RJ, Yao S, Rutkowski MR, Tarhini AA, Mudaranthakam DP, Masood A, Bocklage TJ, Lentz RW, Hatoum H, Ilozumba MN, Hardikar S, Ulrich CM, Round JL, Riedlinger G, Shriver CD, Bosch DE. Primary tumor microbiomes predict distant metastasis of colorectal cancer. bioRxiv",
+      "title": "Primary tumor microbiomes predict distant metastasis of colorectal cancer",
       "pubmed_id": "40661479",
       "pmc_id": "PMC12258887",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Parajuli B, Midya V, Kiddle R, De Jager N, Eggers S, Spakowicz D, Hoyd R, Salhia B, Chan CHF, Churchman ML, Rounbehler RJ, Yao S, Rutkowski MR, Tarhini AA, Mudaranthakam DP, Masood A, Bocklage TJ, Lentz RW, Hatoum H, Ilozumba MN, Hardikar S, Ulrich CM, Round JL, Riedlinger G, Shriver CD, Bosch DE",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Dent J, Jorge M, Sobrevilla N, Uldrick TS, Adoubi I, Bajpai J, Burotto M, Bulhan H, Dosunmu GT, Ekpo L, Gopal S, Espinoza-Gutarra MR, Homian NM, Kingham TP, Mathias C, Ngwa W, Niyonzima N, Nkegoum B, Olopade OI, Odeny TA, Posey AD, Sahebjam S, Switzer R, Tarhini AA, Vanderpuye V, Kaufman DR. Cancer immunotherapy clinical trials to support urgently needed access in low- and middle-income countries: a report from the SITC global access and impact committee. J Immunother Cancer",
+      "title": "Cancer immunotherapy clinical trials to support urgently needed access in low- and middle-income countries: a report from the SITC global access and impact committee",
       "pubmed_id": "40550565",
       "pmc_id": "PMC12184393",
       "year": "2025",
-      "journal": "13(6)",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Dent J, Jorge M, Sobrevilla N, Uldrick TS, Adoubi I, Bajpai J, Burotto M, Bulhan H, Dosunmu GT, Ekpo L, Gopal S, Espinoza-Gutarra MR, Homian NM, Kingham TP, Mathias C, Ngwa W, Niyonzima N, Nkegoum B, Olopade OI, Odeny TA, Posey AD, Sahebjam S, Switzer R, Tarhini AA, Vanderpuye V, Kaufman DR",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Nagy MZ, Plaza-Rojas LB, Boucher JC, Kostenko E, Austin AL, Tarhini AA, Chen Z, Du D, Ojwang' AME, Davis J, Obermayer A, Rejniak KA, Shaw TI, Guevara-Patino JA. Effector T cells under hypoxia have an altered transcriptome similar to tumor-stressed T cells found in non-responsive melanoma patients. J Immunother Cancer",
+      "title": "Effector T cells under hypoxia have an altered transcriptome similar to tumor-stressed T cells found in non-responsive melanoma patients",
       "pubmed_id": "40010774",
       "year": "2025",
-      "journal": "13(2)",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Nagy MZ, Plaza-Rojas LB, Boucher JC, Kostenko E, Austin AL, Tarhini AA, Chen Z, Du D, Ojwang' AME, Davis J, Obermayer A, Rejniak KA, Shaw TI, Guevara-Patino JA",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "title": "ShinyEvents: harmonizing longitudinal data for real world survival estimation",
       "pubmed_id": "40799741",
       "pmc_id": "PMC12340904",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI",
+      "journal": "Res Sq"
     },
     {
-      "title": "Tarhini AA, Obermayer A, Lee SJ, LaFramboise WA, Hodi FS, Karunamurthy AD, Eljilany I, Chen DT, Hwu P, El Naqa IM, Streicher H, Sondak VK, Storkus WJ, Butterfield LH, Shaw TI, Kirkwood JM. Integrative Immune Signature of Complementary Circulating and Tumoral Biomarkers Maximizes the Predictive Power of Adjuvant Immunotherapeutic Benefits in High-risk Melanoma. Clin Cancer Res",
+      "title": "Integrative Immune Signature of Complementary Circulating and Tumoral Biomarkers Maximizes the Predictive Power of Adjuvant Immunotherapeutic Benefits in High-risk Melanoma",
       "pubmed_id": "40392969",
       "pmc_id": "PMC12316551",
       "year": "2025",
-      "journal": "31(15):3249-3258",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Tarhini AA, Obermayer A, Lee SJ, LaFramboise WA, Hodi FS, Karunamurthy AD, Eljilany I, Chen DT, Hwu P, El Naqa IM, Streicher H, Sondak VK, Storkus WJ, Butterfield LH, Shaw TI, Kirkwood JM",
+      "journal": "Clin Cancer Res"
     },
     {
-      "title": "Ramadoss T, Nichols M, Palacios C, Eroglu Z, Markowitz J, Karapetyan L, Tarhini AA, Wuthrick EJ, Sondak VK, Khushalani NI, Tsai KY, Brohl AS. Durability of response to immune checkpoint blockade following treatment discontinuation and efficacy of rechallenge in advanced Merkel cell carcinoma. J Immunother Cancer",
+      "title": "Durability of response to immune checkpoint blockade following treatment discontinuation and efficacy of rechallenge in advanced Merkel cell carcinoma",
       "pubmed_id": "39242118",
       "pmc_id": "PMC11381633",
       "year": "2024",
-      "journal": "12(9)",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Ramadoss T, Nichols M, Palacios C, Eroglu Z, Markowitz J, Karapetyan L, Tarhini AA, Wuthrick EJ, Sondak VK, Khushalani NI, Tsai KY, Brohl AS",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Samson SC, Rojas A, Zitnay RG, Carney KR, Hettinga W, Schaelling MC, Sicard D, Zhang W, Gilbert-Ross M, Dy GK, Cavnar MJ, Furqan M, Browning RF, Naqash AR, Schneider BP, Tarhini A, Tschumperlin DJ, Venosa A, Marcus AI, Emerson LL, Spike BT, Knudsen BS, Mendoza MC. Tenascin-C in the early lung cancer tumor microenvironment promotes progression through integrin \u03b1v\u03b21 and FAK. bioRxiv",
+      "title": "Tenascin-C in the early lung cancer tumor microenvironment promotes progression through integrin \u03b1v\u03b21 and FAK",
       "pubmed_id": "39345541",
       "pmc_id": "PMC11429853",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Samson SC, Rojas A, Zitnay RG, Carney KR, Hettinga W, Schaelling MC, Sicard D, Zhang W, Gilbert-Ross M, Dy GK, Cavnar MJ, Furqan M, Browning RF, Naqash AR, Schneider BP, Tarhini A, Tschumperlin DJ, Venosa A, Marcus AI, Emerson LL, Spike BT, Knudsen BS, Mendoza MC",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Tometich DB, Geiss C, Maconi ML, Chavez M, Hoogland AI, Li X, Nieves-Lopez A, Rodriguez Y, Bryant C, Brohl AS, Eroglu Z, Markowitz J, Tarhini AA, Hwu P, Khushalani NI, Jim HSL. Patient reported outcomes and patient experiences of immune checkpoint modulators for advanced or recurrent melanoma: a mixed methods study. Support Care Cancer",
+      "title": "Patient reported outcomes and patient experiences of immune checkpoint modulators for advanced or recurrent melanoma: a mixed methods study",
       "pubmed_id": "38709312",
       "year": "2024",
-      "journal": "32(6):330",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Tometich DB, Geiss C, Maconi ML, Chavez M, Hoogland AI, Li X, Nieves-Lopez A, Rodriguez Y, Bryant C, Brohl AS, Eroglu Z, Markowitz J, Tarhini AA, Hwu P, Khushalani NI, Jim HSL",
+      "journal": "Support Care Cancer"
     }
   ],
   "grants": [
     {
-      "description": "Title: Predictors of Immunotherapeutic Benefits in Patients with Advanced Solid Tumors Treated with Immune Checkpoint Inhibitors  \nAward Number: N/A  \nSponsor: COMMUNITY FOUNDATION OF TAMPA  \nTarhini, A. (PD/PI)"
+      "description": "Title: Predictors of Immunotherapeutic Benefits in Patients with Advanced Solid Tumors Treated with Immune Checkpoint Inhibitors  \nAward Number: N/A  \nSponsor: COMMUNITY FOUNDATION OF TAMPA  \nTarhini, A. (PD/PI)",
+      "title": "Predictors of Immunotherapeutic Benefits in Patients with Advanced Solid Tumors Treated with Immune Checkpoint Inhibitors",
+      "sponsor": "COMMUNITY FOUNDATION OF TAMPA",
+      "investigators": [
+        {
+          "name": "Tarhini, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Inherited genetic variation as a predictor of the risk of immune related adverse events and the likelihood of clinical benefit  \nAward Number: 22B09  \nSponsor: Florida Department of Health  \nTarhini, A. (PD/PI)"
+      "description": "Title: Inherited genetic variation as a predictor of the risk of immune related adverse events and the likelihood of clinical benefit  \nAward Number: 22B09  \nSponsor: Florida Department of Health  \nTarhini, A. (PD/PI)",
+      "title": "Inherited genetic variation as a predictor of the risk of immune related adverse events and the likelihood of clinical benefit",
+      "award_number": "22B09",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Tarhini, A.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TarhiniAhmad_24764.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24764"
   },
-  "content_hash": "95a7be07b9e2a21fc9741b89de8b5426755d0bec12ed2786e7896bf69351c7f2",
+  "content_hash": "a4f8afc1208d17894f7b61140c2659296ae0e747c4556c4db6cbe5a8f9e80799",
   "researcher_name": "Ahmad Tarhini",
   "department": "Immunology"
 }

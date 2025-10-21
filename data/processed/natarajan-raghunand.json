@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/natarajan-raghunand",
-  "last_updated": "2025-10-19T00:27:51.225277",
+  "last_updated": "2025-10-21T16:36:54.406035",
   "researcher_id": "14306",
   "degrees": [
     "PhD"
@@ -28,97 +28,130 @@
   ],
   "publications": [
     {
-      "title": "Weinfurtner RJ, Ataya D, Funaro K, Bhatt A, Abdalah M, Stringfield O, Raghunand N, Thompson Z, Lee MC, Czerniecki B, Muller AS, Soliman H, Han H. Quantitative habitat concentration analysis of triple negative breast cancer on MRI correlates with pathologic response to combination neoadjuvant immuno/chemotherapy. Clin Imaging",
+      "title": "Quantitative habitat concentration analysis of triple negative breast cancer on MRI correlates with pathologic response to combination neoadjuvant immuno/chemotherapy",
       "pubmed_id": "40945432",
       "year": "2025",
-      "journal": "127:110618",
-      "authors": ""
+      "publication_date": "2025 Nov",
+      "authors": "Weinfurtner RJ, Ataya D, Funaro K, Bhatt A, Abdalah M, Stringfield O, Raghunand N, Thompson Z, Lee MC, Czerniecki B, Muller AS, Soliman H, Han H",
+      "journal": "Clin Imaging"
     },
     {
-      "title": "Mayfield JD, Ataya D, Abdalah M, Stringfield O, Bui MM, Raghunand N, Niell B, El Naqa I. Presurgical Upgrade Prediction of DCIS to Invasive Ductal Carcinoma Using Time-dependent Deep Learning Models with DCE MRI. Radiol Artif Intell",
+      "title": "Presurgical Upgrade Prediction of DCIS to Invasive Ductal Carcinoma Using Time-dependent Deep Learning Models with DCE MRI",
       "pubmed_id": "38900042",
       "pmc_id": "PMC11427917",
       "year": "2024",
-      "journal": "6(5):e230348",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Mayfield JD, Ataya D, Abdalah M, Stringfield O, Bui MM, Raghunand N, Niell B, El Naqa I",
+      "journal": "Radiol Artif Intell"
     },
     {
-      "title": "Arias-Lorza AM, Costello JR, Hingorani SR, Von Hoff DD, Korn RL, Raghunand N. Magnetic resonance imaging of tumor response to stroma-modifying pegvorhyaluronidase alpha (PEGPH20) therapy in early-phase clinical trials. Sci Rep",
+      "title": "Magnetic resonance imaging of tumor response to stroma-modifying pegvorhyaluronidase alpha (PEGPH20) therapy in early-phase clinical trials",
       "pubmed_id": "38773189",
       "pmc_id": "PMC11109088",
       "year": "2024",
-      "journal": "14(1):11570",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Arias-Lorza AM, Costello JR, Hingorani SR, Von Hoff DD, Korn RL, Raghunand N",
+      "journal": "Sci Rep"
     },
     {
-      "title": "Pandey S, Kutuk T, Abdalah MA, Stringfield O, Ravi H, Mills MN, Graham JA, Latifi K, Moreno WA, Ahmed KA, Raghunand N. Prediction of radiologic outcome-optimized dose plans and post-treatment magnetic resonance images: A proof-of-concept study in breast cancer brain metastases treated with stereotactic radiosurgery. Phys Imaging Radiat Oncol",
+      "title": "Prediction of radiologic outcome-optimized dose plans and post-treatment magnetic resonance images: A proof-of-concept study in breast cancer brain metastases treated with stereotactic radiosurgery",
       "pubmed_id": "39040435",
       "pmc_id": "PMC11261135",
       "year": "2024",
-      "journal": "31:100602",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Pandey S, Kutuk T, Abdalah MA, Stringfield O, Ravi H, Mills MN, Graham JA, Latifi K, Moreno WA, Ahmed KA, Raghunand N",
+      "journal": "Phys Imaging Radiat Oncol"
     },
     {
-      "title": "Jeong D, Morse B, Polk SL, Chen DT, Li J, Hodul P, Centeno BA, Costello J, Jiang K, Machado S, El Naqa I, Farah PT, Huynh T, Raghunand N, Mok S, Dam A, Malafa M, Qayyum A, Fleming JB, Permuth JB. Pancreatic Cyst Size Measurement on Magnetic Resonance Imaging Compared to Pathology. Cancers (Basel)",
+      "title": "Pancreatic Cyst Size Measurement on Magnetic Resonance Imaging Compared to Pathology",
       "pubmed_id": "38201633",
       "pmc_id": "PMC10778543",
       "year": "2024",
-      "journal": "16(1)",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Jeong D, Morse B, Polk SL, Chen DT, Li J, Hodul P, Centeno BA, Costello J, Jiang K, Machado S, El Naqa I, Farah PT, Huynh T, Raghunand N, Mok S, Dam A, Malafa M, Qayyum A, Fleming JB, Permuth JB",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Arias-Lorza AM, Costello JR, Hingorani SR, Von Hoff DD, Korn RL, Raghunand N. Tumor Response to Stroma-Modifying Therapy: Magnetic Resonance Imaging Findings in Early-Phase Clinical Trials of Pegvorhyaluronidase alpha (PEGPH20). Res Sq",
+      "title": "Tumor Response to Stroma-Modifying Therapy: Magnetic Resonance Imaging Findings in Early-Phase Clinical Trials of Pegvorhyaluronidase alpha (PEGPH20)",
       "pubmed_id": "37720027",
       "pmc_id": "PMC10503830",
       "year": "2023",
-      "authors": ""
+      "publication_date": "2023 Sep",
+      "authors": "Arias-Lorza AM, Costello JR, Hingorani SR, Von Hoff DD, Korn RL, Raghunand N",
+      "journal": "Res Sq"
     },
     {
-      "title": "Ravi H, Hawkins SH, Stringfield O, Pereira M, Chen DT, Enderling H, Michael Yu HH, Arrington JA, Sahebjam S, Raghunand N. Rules-based Volumetric Segmentation of Multiparametric MRI for Response Assessment in Recurrent High-Grade Glioma. Res Sq",
+      "title": "Rules-based Volumetric Segmentation of Multiparametric MRI for Response Assessment in Recurrent High-Grade Glioma",
       "pubmed_id": "37790451",
       "pmc_id": "PMC10543497",
       "year": "2023",
-      "authors": ""
+      "publication_date": "2023 Sep",
+      "authors": "Ravi H, Hawkins SH, Stringfield O, Pereira M, Chen DT, Enderling H, Michael Yu HH, Arrington JA, Sahebjam S, Raghunand N",
+      "journal": "Res Sq"
     },
     {
-      "title": "Ravi H, Arias-Lorza AM, Costello JR, Han HS, Jeong DK, Klinz SG, Sachdev JC, Korn RL, Raghunand N. Pretherapy Ferumoxytol-enhanced MRI to Predict Response to Liposomal Irinotecan in Metastatic Breast Cancer. Radiol Imaging Cancer",
+      "title": "Pretherapy Ferumoxytol-enhanced MRI to Predict Response to Liposomal Irinotecan in Metastatic Breast Cancer",
       "pubmed_id": "36734848",
       "pmc_id": "PMC10077095",
       "year": "2023",
-      "journal": "5(2):e220022",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Ravi H, Arias-Lorza AM, Costello JR, Han HS, Jeong DK, Klinz SG, Sachdev JC, Korn RL, Raghunand N",
+      "journal": "Radiol Imaging Cancer"
     },
     {
-      "title": "Weinfurtner RJ, Abdalah M, Stringfield O, Ataya D, Williams A, Mooney B, Rosa M, Lee MC, Khakpour N, Laronga C, Czerniecki B, Diaz R, Ahmed K, Washington I, Latifi K, Niell B, Montejo M, Raghunand N. Quantitative Changes in Intratumoral Habitats on MRI Correlate With Pathologic Response in Early-stage ER/PR+ HER2\u2212 Breast Cancer Treated With Preoperative Stereotactic Ablative Body Radiotherapy. J Breast Imaging",
+      "title": "Quantitative Changes in Intratumoral Habitats on MRI Correlate With Pathologic Response in Early-stage ER/PR+ HER2\u2212 Breast Cancer Treated With Preoperative Stereotactic Ablative Body Radiotherapy",
       "pubmed_id": "36686407",
       "pmc_id": "PMC9851176",
       "year": "2022",
-      "journal": "4(3):273-284",
-      "authors": ""
+      "publication_date": "2022 May",
+      "authors": "Weinfurtner RJ, Abdalah M, Stringfield O, Ataya D, Williams A, Mooney B, Rosa M, Lee MC, Khakpour N, Laronga C, Czerniecki B, Diaz R, Ahmed K, Washington I, Latifi K, Niell B, Montejo M, Raghunand N",
+      "journal": "J Breast Imaging"
     },
     {
-      "title": "Youssef I, Poch M, Raghunand N, Pow-Sang J, Johnstone PAS. Analysis of MRI radiomic pelvimetry and correlation with margin status after robotic prostatectomy. Can J Urol",
+      "title": "Analysis of MRI radiomic pelvimetry and correlation with margin status after robotic prostatectomy",
       "pubmed_id": "35150217",
       "year": "2022",
-      "journal": "29(1):10976-10978",
-      "authors": ""
+      "publication_date": "2022 Feb",
+      "authors": "Youssef I, Poch M, Raghunand N, Pow-Sang J, Johnstone PAS",
+      "journal": "Can J Urol"
     }
   ],
   "grants": [
     {
       "description": "Title: Radiomics and Pathomics to Predict Upstaging of DCIS  \nAward Number: 5R01CA249016-05  \nSponsor: National Cancer Institute (NCI)  \nNiell, B. (PD/PI), Raghunand, N. (PD/PI)",
+      "title": "Radiomics and Pathomics to Predict Upstaging of DCIS",
+      "award_number": "5R01CA249016-05",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "9016-05"
+      "investigators": [
+        {
+          "name": "Niell, B.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Raghunand, N.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: SOW#02: A Phase 1, Multicenter, Open-Label, Dose Escalation, and Dose Expansion Study to Assess the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Antitumor Activity of DCSZ11 as a Monotherapy in Patients with Advanced or Metastatic Solid Tumors  \nAward Number: SOW# 02  \nSponsor: IMAGING ENDPOINTS II, LLC  \nRaghunand, N. (PD/PI)"
+      "description": "Title: SOW#02: A Phase 1, Multicenter, Open-Label, Dose Escalation, and Dose Expansion Study to Assess the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Antitumor Activity of DCSZ11 as a Monotherapy in Patients with Advanced or Metastatic Solid Tumors  \nAward Number: SOW# 02  \nSponsor: IMAGING ENDPOINTS II, LLC  \nRaghunand, N. (PD/PI)",
+      "title": "SOW#02: A Phase 1, Multicenter, Open-Label, Dose Escalation, and Dose Expansion Study to Assess the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Antitumor Activity of DCSZ11 as a Monotherapy in Patients with Advanced or Metastatic Solid Tumors",
+      "award_number": "SOW# 02",
+      "sponsor": "IMAGING ENDPOINTS II, LLC",
+      "investigators": [
+        {
+          "name": "Raghunand, N.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/RaghunandNatarajan_14306.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14306"
   },
-  "content_hash": "1e48234d6a65410bd28a9c543c639fd7119daa4aa4654cf63b4bc4de68041863",
+  "content_hash": "ef6e3be258bb236783e20afbc95589b5ed73c0edac0c0212474e61da1532df70",
   "researcher_name": "Natarajan Raghunand",
   "department": "Metabolism and Physiology"
 }

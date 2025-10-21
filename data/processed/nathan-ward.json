@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/nathan-ward",
-  "last_updated": "2025-10-19T00:24:27.524632",
+  "last_updated": "2025-10-21T16:33:29.775063",
   "researcher_id": "12112",
   "degrees": [
     "PhD"
@@ -19,80 +19,92 @@
   "education": [],
   "publications": [
     {
-      "title": "Messina MS, Torrente L, Pezacki AT, Humpel HI, Li EL, Miller SG, Verdejo-Torres O, Padilla-Benavides T, Brady DC, Killilea DW, Killilea AN, Ralle M, Ward NP, Ohata J, DeNicola GM, Chang CJ. A histochemical approach to activity-based copper sensing reveals cuproplasia-dependent vulnerabilities in cancer. Proc Natl Acad Sci U S A",
+      "title": "A histochemical approach to activity-based copper sensing reveals cuproplasia-dependent vulnerabilities in cancer",
       "pubmed_id": "39813247",
       "pmc_id": "PMC11761388",
       "year": "2025",
-      "journal": "122(3)",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Messina MS, Torrente L, Pezacki AT, Humpel HI, Li EL, Miller SG, Verdejo-Torres O, Padilla-Benavides T, Brady DC, Killilea DW, Killilea AN, Ralle M, Ward NP, Ohata J, DeNicola GM, Chang CJ",
+      "journal": "Proc Natl Acad Sci U S A"
     },
     {
-      "title": "Hecht F, Zocchi M, Tuttle ET, Ward NP, Smith B, Kang YP, Cazarin J, Soares ZG, Ozgurses ME, Zhao H, Sheehan C, Alimohammadi F, Munger LD, Trivedi D, Asantewaa G, Blick-Nitko SK, Zoeller JJ, Chen Y, Vasiliou V, Turner BM, Muir A, Coloff JL, Munger J, DeNicola GM, Harris IS. Catabolism of extracellular glutathione supplies amino acids to support tumor growth. bioRxiv",
+      "title": "Catabolism of extracellular glutathione supplies amino acids to support tumor growth",
       "pubmed_id": "39416022",
       "pmc_id": "PMC11482906",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Hecht F, Zocchi M, Tuttle ET, Ward NP, Smith B, Kang YP, Cazarin J, Soares ZG, Ozgurses ME, Zhao H, Sheehan C, Alimohammadi F, Munger LD, Trivedi D, Asantewaa G, Blick-Nitko SK, Zoeller JJ, Chen Y, Vasiliou V, Turner BM, Muir A, Coloff JL, Munger J, DeNicola GM, Harris IS",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Ward NP, Yoon SJ, Flynn T, Sherwood AM, Olley MA, Madej J, DeNicola GM. Mitochondrial respiratory function is preserved under cysteine starvation via glutathione catabolism in NSCLC. Nat Commun",
+      "title": "Mitochondrial respiratory function is preserved under cysteine starvation via glutathione catabolism in NSCLC",
       "pubmed_id": "38762605",
       "pmc_id": "PMC11102494",
       "year": "2024",
-      "journal": "15(1):4244",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Ward NP, Yoon SJ, Flynn T, Sherwood AM, Olley MA, Madej J, DeNicola GM",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Pezacki AT, Gonciarz RL, Okamura T, Matier CD, Torrente L, Cheng K, Miller SG, Ralle M, Ward NP, DeNicola GM, Renslo AR, Chang CJ. A tandem activity-based sensing and labeling strategy reveals antioxidant response element regulation of labile iron pools. Proc Natl Acad Sci U S A",
+      "title": "A tandem activity-based sensing and labeling strategy reveals antioxidant response element regulation of labile iron pools",
       "pubmed_id": "38968123",
       "pmc_id": "PMC11252945",
       "year": "2024",
-      "journal": "121(28)",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Pezacki AT, Gonciarz RL, Okamura T, Matier CD, Torrente L, Cheng K, Miller SG, Ralle M, Ward NP, DeNicola GM, Renslo AR, Chang CJ",
+      "journal": "Proc Natl Acad Sci U S A"
     },
     {
-      "title": "Asantewaa G, Tuttle ET, Ward NP, Kang YP, Kim Y, Kavanagh ME, Girnius N, Chen Y, Rodriguez K, Hecht F, Zocchi M, Smorodintsev-Schiller L, Scales TQ, Taylor K, Alimohammadi F, Duncan RP, Sechrist ZR, Agostini-Vulaj D, Schafer XL, Chang H, Smith ZR, O'Connor TN, Whelan S, Selfors LM, Crowdis J, Gray GK, Bronson RT, Brenner D, Rufini A, Dirksen RT, Hezel AF, Huber AR, Munger J, Cravatt BF, Vasiliou V, Cole CL, DeNicola GM, Harris IS. Glutathione synthesis in the mouse liver supports lipid abundance through NRF2 repression. Nat Commun",
+      "title": "Glutathione synthesis in the mouse liver supports lipid abundance through NRF2 repression",
       "pubmed_id": "39034312",
       "pmc_id": "PMC11271484",
       "year": "2024",
-      "journal": "15(1):6152",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Asantewaa G, Tuttle ET, Ward NP, Kang YP, Kim Y, Kavanagh ME, Girnius N, Chen Y, Rodriguez K, Hecht F, Zocchi M, Smorodintsev-Schiller L, Scales TQ, Taylor K, Alimohammadi F, Duncan RP, Sechrist ZR, Agostini-Vulaj D, Schafer XL, Chang H, Smith ZR, O'Connor TN, Whelan S, Selfors LM, Crowdis J, Gray GK, Bronson RT, Brenner D, Rufini A, Dirksen RT, Hezel AF, Huber AR, Munger J, Cravatt BF, Vasiliou V, Cole CL, DeNicola GM, Harris IS",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Greenwood HE, Barber AR, Edwards RS, Tyrrell WE, George ME, Dos Santos SN, Baark F, Tanc M, Khalil E, Falzone A, Ward NP, DeBlasi JM, Torrente L, Soni PN, Pearce DR, Firth G, Smith LM, Vilhelmsson Timmermand O, Huebner A, Swanton C, Hynds RE, DeNicola GM, Witney TH. Imaging NRF2 activation in non-small cell lung cancer with positron emission tomography. Nat Commun",
+      "title": "Imaging NRF2 activation in non-small cell lung cancer with positron emission tomography",
       "pubmed_id": "39690148",
       "pmc_id": "PMC11652680",
       "year": "2024",
-      "journal": "15(1):10484",
-      "authors": ""
+      "publication_date": "2024 Dec",
+      "authors": "Greenwood HE, Barber AR, Edwards RS, Tyrrell WE, George ME, Dos Santos SN, Baark F, Tanc M, Khalil E, Falzone A, Ward NP, DeBlasi JM, Torrente L, Soni PN, Pearce DR, Firth G, Smith LM, Vilhelmsson Timmermand O, Huebner A, Swanton C, Hynds RE, DeNicola GM, Witney TH",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Ward NP. Cys-regulation: oxidized CHK1 controls cross-compartment circuit of chemoresistance. Trends Cancer",
+      "title": "Cys-regulation: oxidized CHK1 controls cross-compartment circuit of chemoresistance",
       "pubmed_id": "37532649",
       "year": "2023",
-      "journal": "9(9):700-702",
-      "authors": ""
+      "publication_date": "2023 Sep",
+      "authors": "Ward NP",
+      "journal": "Trends Cancer"
     },
     {
-      "title": "Ilter D, Drapela S, Schild T, Ward NP, Adhikari E, Low V, Asara J, Oskarsson T, Lau EK, DeNicola GM, McReynolds MR, Gomes AP. NADK-mediated de novo NADP(H) synthesis is a metabolic adaptation essential for breast cancer metastasis. Redox Biol",
+      "title": "NADK-mediated de novo NADP(H) synthesis is a metabolic adaptation essential for breast cancer metastasis",
       "pubmed_id": "36841051",
       "pmc_id": "PMC9982641",
       "year": "2023",
-      "journal": "61:102627",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Ilter D, Drapela S, Schild T, Ward NP, Adhikari E, Low V, Asara J, Oskarsson T, Lau EK, DeNicola GM, McReynolds MR, Gomes AP",
+      "journal": "Redox Biol"
     },
     {
-      "title": "Dutta T, Kapoor N, Mathew M, Chakraborty SS, Ward NP, Prieto-Farigua N, Falzone A, DeLany JP, Smith SR, Coen PM, DeNicola GM, Gardell SJ. Source of nicotinamide governs its metabolic fate in cultured cells, mice, and humans. Cell Rep",
+      "title": "Source of nicotinamide governs its metabolic fate in cultured cells, mice, and humans",
       "pubmed_id": "36897780",
       "year": "2023",
-      "journal": "42(3):112218",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Dutta T, Kapoor N, Mathew M, Chakraborty SS, Ward NP, Prieto-Farigua N, Falzone A, DeLany JP, Smith SR, Coen PM, DeNicola GM, Gardell SJ",
+      "journal": "Cell Rep"
     },
     {
-      "title": "Asantewaa G, Tuttle ET, Ward NP, Kang YP, Kim Y, Kavanagh ME, Girnius N, Chen Y, Duncan R, Rodriguez K, Hecht F, Zocchi M, Smorodintsev-Schiller L, Scales TQ, Taylor K, Alimohammadi F, Sechrist ZR, Agostini-Vulaj D, Schafer XL, Chang H, Smith Z, O'Connor TN, Whelan S, Selfors LM, Crowdis J, Gray GK, Bronson RT, Brenner D, Rufini A, Dirksen RT, Hezel AF, Huber AR, Munger J, Cravatt BF, Vasiliou V, Cole CL, DeNicola GM, Harris IS. Glutathione supports lipid abundance in vivo. bioRxiv",
+      "title": "Glutathione supports lipid abundance in vivo",
       "pubmed_id": "36798186",
       "pmc_id": "PMC9934595",
       "year": "2023",
-      "authors": ""
+      "publication_date": "2023 Feb",
+      "authors": "Asantewaa G, Tuttle ET, Ward NP, Kang YP, Kim Y, Kavanagh ME, Girnius N, Chen Y, Duncan R, Rodriguez K, Hecht F, Zocchi M, Smorodintsev-Schiller L, Scales TQ, Taylor K, Alimohammadi F, Sechrist ZR, Agostini-Vulaj D, Schafer XL, Chang H, Smith Z, O'Connor TN, Whelan S, Selfors LM, Crowdis J, Gray GK, Bronson RT, Brenner D, Rufini A, Dirksen RT, Hezel AF, Huber AR, Munger J, Cravatt BF, Vasiliou V, Cole CL, DeNicola GM, Harris IS",
+      "journal": "bioRxiv"
     }
   ],
   "grants": [],
@@ -100,7 +112,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=12112"
   },
-  "content_hash": "690a3d53815f7b9e45f30c32df69fbd34993379e5d251dc28c53c03231be5549",
+  "content_hash": "eaac321201f4c1028d69de473817f6ca3d9b7c05097baddd16dd482a63808114",
   "researcher_name": "Nathan Ward",
   "department": "Metabolism and Physiology"
 }

@@ -16,6 +16,21 @@ def main():
     src_dir = root_dir / "src"
     sys.path.insert(0, str(src_dir))
 
+    # Initialize logging system
+    from moffitt_rag.utils.logging import init_logging, configure_exception_logging
+    
+    # Initialize logging with appropriate settings for Streamlit
+    init_logging(
+        console_level=None,  # Use environment-based level
+        file_level=None,     # Use DEBUG for files
+        enable_query_log=True,
+        enable_error_log=True,
+        enable_structured_logs=True
+    )
+    
+    # Configure global exception logging
+    configure_exception_logging()
+
     # Import and run the Streamlit app
     from moffitt_rag.streamlit.app import main as app_main
     app_main()

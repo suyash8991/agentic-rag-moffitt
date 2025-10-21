@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ana-gomes",
-  "last_updated": "2025-10-19T00:25:40.826671",
+  "last_updated": "2025-10-21T16:34:47.034137",
   "researcher_id": "26666",
   "degrees": [
     "PhD"
@@ -36,128 +36,188 @@
   ],
   "publications": [
     {
-      "title": "Lazure F, Gomes AP. Cancer progression through the lens of age-induced metabolic reprogramming. Nat Rev Cancer",
+      "title": "Cancer progression through the lens of age-induced metabolic reprogramming",
       "pubmed_id": "40646271",
       "year": "2025",
-      "journal": "25(10):801-817",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Lazure F, Gomes AP",
+      "journal": "Nat Rev Cancer"
     },
     {
-      "title": "Beck R, Tagal V, Amin S, Bakhoum SF, Maley C, Verhaak RGW, Gomes AP, Andor N. Energetics of whole genome doubling and genomic instability. Cancer Lett",
+      "title": "Energetics of whole genome doubling and genomic instability",
       "pubmed_id": "40517938",
       "year": "2025",
-      "journal": "630:217878",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Beck R, Tagal V, Amin S, Bakhoum SF, Maley C, Verhaak RGW, Gomes AP, Andor N",
+      "journal": "Cancer Lett"
     },
     {
-      "title": "Ramamoorthi G, Lee MC, Farrell CM, Snyder C, Garg SK, Aldrich AL, Lok V, Dominguez-Viqueira W, Olson-Mcpeek SK, Rosa M, Gautam N, Pilon-Thomas S, Cen L, Kodumudi KN, Wiener D, Oskarsson T, Gomes AP, Gatenby RA, Czerniecki BJ. Antitumor CD4+ T Helper 1 Cells Target and Control the Outgrowth of Disseminated Cancer Cells. Cancer Immunol Res",
+      "title": "Antitumor CD4+ T Helper 1 Cells Target and Control the Outgrowth of Disseminated Cancer Cells",
       "pubmed_id": "40249209",
       "pmc_id": "PMC12046335",
       "year": "2025",
-      "journal": "13(5):729-748",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Ramamoorthi G, Lee MC, Farrell CM, Snyder C, Garg SK, Aldrich AL, Lok V, Dominguez-Viqueira W, Olson-Mcpeek SK, Rosa M, Gautam N, Pilon-Thomas S, Cen L, Kodumudi KN, Wiener D, Oskarsson T, Gomes AP, Gatenby RA, Czerniecki BJ",
+      "journal": "Cancer Immunol Res"
     },
     {
-      "title": "Elkholi IE, Robert A, Malouf C, Wu JL, Kuasne H, Drapela S, Macleod G, H\u00e9bert S, Pacis A, Calderon V, Kleinman CL, Gomes AP, Alvarez JV, Aguirre-Ghiso JA, Park M, Angers S, C\u00f4t\u00e9 JF. Targeting the Dependence on PIK3C3-mTORC1 Signaling in Dormancy-Prone Breast Cancer Cells Blunts Metastasis Initiation. Cancer Res",
+      "title": "Targeting the Dependence on PIK3C3-mTORC1 Signaling in Dormancy-Prone Breast Cancer Cells Blunts Metastasis Initiation",
       "pubmed_id": "40372253",
       "pmc_id": "PMC12167933",
       "year": "2025",
-      "journal": "85(12):2179-2198",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Elkholi IE, Robert A, Malouf C, Wu JL, Kuasne H, Drapela S, Macleod G, H\u00e9bert S, Pacis A, Calderon V, Kleinman CL, Gomes AP, Alvarez JV, Aguirre-Ghiso JA, Park M, Angers S, C\u00f4t\u00e9 JF",
+      "journal": "Cancer Res"
     },
     {
-      "title": "De Martino D, Zapater\u00eda B, Dunne JB, Drapela S, Matteson K, Oruko D, Humphrey T, Jonhston T, Varghese BA, Riggio AI, Tiwary K, Bresnahan E, Barra J, Sowa A, Jenssen W, Sidoli S, Welm AL, Barroso M, Stallaert W, Gomes AP, Angel PM, Arias E, Bravo-Cordero JJ. Collagen hydroxylation couples NAD+/NADH dynamics to tumor dormancy and reactivation. Res Sq",
+      "title": "Collagen hydroxylation couples NAD+/NADH dynamics to tumor dormancy and reactivation",
       "pubmed_id": "40671813",
       "pmc_id": "PMC12265173",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "De Martino D, Zapater\u00eda B, Dunne JB, Drapela S, Matteson K, Oruko D, Humphrey T, Jonhston T, Varghese BA, Riggio AI, Tiwary K, Bresnahan E, Barra J, Sowa A, Jenssen W, Sidoli S, Welm AL, Barroso M, Stallaert W, Gomes AP, Angel PM, Arias E, Bravo-Cordero JJ",
+      "journal": "Res Sq"
     },
     {
-      "title": "Tejero JD, Hesterberg RS, Drapela S, Ilter D, Raizada D, Lazure F, Kashfi H, Liu M, Silvane L, Avram D, Fern\u00e1ndez-Garc\u00eda J, Asara JM, Fendt SM, Cleveland JL, Gomes AP. Methylmalonic acid induces metabolic abnormalities and exhaustion in CD8+ T cells to suppress anti-tumor immunity. Oncogene",
+      "title": "Methylmalonic acid induces metabolic abnormalities and exhaustion in CD8+ T cells to suppress anti-tumor immunity",
       "pubmed_id": "39472497",
       "year": "2025",
-      "journal": "44(2):105-114",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Tejero JD, Hesterberg RS, Drapela S, Ilter D, Raizada D, Lazure F, Kashfi H, Liu M, Silvane L, Avram D, Fern\u00e1ndez-Garc\u00eda J, Asara JM, Fendt SM, Cleveland JL, Gomes AP",
+      "journal": "Oncogene"
     },
     {
-      "title": "Lazure F, Drapela S, Liu X, Lockhart JH, Kashfi H, Sarigul N, Ilter D, Flores ER, Wang X, Smalley I, Jaeger A, Yu X, Gomes AP. Aging directs the differential evolution of KRAS-driven lung adenocarcinoma. bioRxiv",
+      "title": "Aging directs the differential evolution of KRAS-driven lung adenocarcinoma",
       "pubmed_id": "39896625",
       "pmc_id": "PMC11785146",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Lazure F, Drapela S, Liu X, Lockhart JH, Kashfi H, Sarigul N, Ilter D, Flores ER, Wang X, Smalley I, Jaeger A, Yu X, Gomes AP",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Cole AR, Buj R, Uboveja A, Levasseur E, Wang H, Kedziora KM, Chatoff A, Huacachino AA, Marcinkiewicz MM, Amalric A, Yang B, Tangudu NK, Danielson J, Elwah A, White S, Li D, Wallace CT, Lazure F, Elishaev E, Borho L, Jazwinska DE, Laird MS, Atiya H, Bitler BG, Dangaj D, Coffman LG, Tseng G, Oesterreich S, Gomes AP, Gurkar AU, Schopfer FJ, Modugno F, Watkins SC, Zervantonakis IK, Stallaert W, Hempel N, Snyder NW, Aird KM. The chemotherapy-induced senescence-associated secretome promotes cell detachment and metastatic dissemination through metabolic reprogramming. bioRxiv",
+      "title": "The chemotherapy-induced senescence-associated secretome promotes cell detachment and metastatic dissemination through metabolic reprogramming",
       "pubmed_id": "40832218",
       "pmc_id": "PMC12363692",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Cole AR, Buj R, Uboveja A, Levasseur E, Wang H, Kedziora KM, Chatoff A, Huacachino AA, Marcinkiewicz MM, Amalric A, Yang B, Tangudu NK, Danielson J, Elwah A, White S, Li D, Wallace CT, Lazure F, Elishaev E, Borho L, Jazwinska DE, Laird MS, Atiya H, Bitler BG, Dangaj D, Coffman LG, Tseng G, Oesterreich S, Gomes AP, Gurkar AU, Schopfer FJ, Modugno F, Watkins SC, Zervantonakis IK, Stallaert W, Hempel N, Snyder NW, Aird KM",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Drapela S, Garcia BM, Gomes AP, Correia AL. Metabolic landscape of disseminated cancer dormancy. Trends Cancer",
+      "title": "Metabolic landscape of disseminated cancer dormancy",
       "pubmed_id": "39510896",
       "pmc_id": "PMC11981868",
       "year": "2025",
-      "journal": "11(4):321-333",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Drapela S, Garcia BM, Gomes AP, Correia AL",
+      "journal": "Trends Cancer"
     },
     {
-      "title": "Nowicka Z, Rentzeperis F, Tagal V, Teer JK, Ilter D, Beck RJ, Cole JP, Forero Pinto AM, Tejero JD, Scanu E, Veith T, Dominguez-Viqueira W, Maksin K, Carrillo-Perez FM, Gevaert O, Xu X, Karreth FA, Abdalah MA, Fiandaca G, Pasetto S, Prabhakaran S, Schultz A, Ojwang' AME, Barnholtz-Sloan JS, Farinhas JM, Gomes AP, Katira P, Andor N. Interactions between Ploidy and Resource Availability Shape Clonal Evolution in Glioblastoma. Cancer Res",
+      "title": "Interactions between Ploidy and Resource Availability Shape Clonal Evolution in Glioblastoma",
       "pubmed_id": "39933186",
       "year": "2025",
-      "journal": "85(8):1544-1559",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Nowicka Z, Rentzeperis F, Tagal V, Teer JK, Ilter D, Beck RJ, Cole JP, Forero Pinto AM, Tejero JD, Scanu E, Veith T, Dominguez-Viqueira W, Maksin K, Carrillo-Perez FM, Gevaert O, Xu X, Karreth FA, Abdalah MA, Fiandaca G, Pasetto S, Prabhakaran S, Schultz A, Ojwang' AME, Barnholtz-Sloan JS, Farinhas JM, Gomes AP, Katira P, Andor N",
+      "journal": "Cancer Res"
     }
   ],
   "grants": [
     {
-      "description": "Title: Metabolic vulnerabilities of dormant disseminated breast cancer cells  \nAward Number:   \nSponsor: METAVIVOR RESEARCH AND SUPPORT  \nDa S. (PD/PI)"
+      "description": "Title: Metabolic vulnerabilities of dormant disseminated breast cancer cells  \nAward Number:   \nSponsor: METAVIVOR RESEARCH AND SUPPORT  \nDa S. (PD/PI)",
+      "title": "Metabolic vulnerabilities of dormant disseminated breast cancer cells",
+      "award_number": "",
+      "sponsor": "METAVIVOR RESEARCH AND SUPPORT  \nDa S. (PD/PI)"
     },
     {
-      "description": "Title: CD320-mediated vitamin B12 uptake in triple negative breast cancer  \nAward Number:   \nSponsor: FLORIDA BREAST CANCER  \nDa S. (PD/PI)"
+      "description": "Title: CD320-mediated vitamin B12 uptake in triple negative breast cancer  \nAward Number:   \nSponsor: FLORIDA BREAST CANCER  \nDa S. (PD/PI)",
+      "title": "CD320-mediated vitamin B12 uptake in triple negative breast cancer",
+      "award_number": "",
+      "sponsor": "FLORIDA BREAST CANCER  \nDa S. (PD/PI)"
     },
     {
       "description": "Title: Epigenetic and Metabolic Bottlenecks of Tumorigenesis  \nAward Number: R01CA279023-01A1  \nSponsor: National Cancer Institute (NCI)  \nDa S. (PD/PI)",
-      "source": "NCI",
-      "period": "9023-01"
+      "title": "Epigenetic and Metabolic Bottlenecks of Tumorigenesis",
+      "award_number": "R01CA279023-01A1",
+      "sponsor": "National Cancer Institute (NCI)  \nDa S. (PD/PI)",
+      "source": "NCI"
     },
     {
       "description": "Title: Adaptations of breast cancer metastasis to the aging lung  \nAward Number: 1R21AG083720-01  \nSponsor: National Cancer Institute (NCI)  \nDa S. (PD/PI)",
-      "source": "NCI",
-      "period": "3720-01"
+      "title": "Adaptations of breast cancer metastasis to the aging lung",
+      "award_number": "1R21AG083720-01",
+      "sponsor": "National Cancer Institute (NCI)  \nDa S. (PD/PI)",
+      "source": "NCI"
     },
     {
       "description": "Title: AGING AS A SELECTIVE PRESSURE THAT DRIVES TUMOR PROGRESSION  \nAward Number: 4DP2AG077698-02  \nSponsor: National Cancer Institute (NCI)  \nDa S. (PD/PI)",
-      "source": "NCI",
-      "period": "7698-02"
+      "title": "AGING AS A SELECTIVE PRESSURE THAT DRIVES TUMOR PROGRESSION",
+      "award_number": "4DP2AG077698-02",
+      "sponsor": "National Cancer Institute (NCI)  \nDa S. (PD/PI)",
+      "source": "NCI"
     },
     {
-      "description": "Title: Metabolic factors that condition breast cancer metastasis  \nAward Number: 24B03  \nSponsor: Florida Department of Health  \nDa S. (PD/PI)"
+      "description": "Title: Metabolic factors that condition breast cancer metastasis  \nAward Number: 24B03  \nSponsor: Florida Department of Health  \nDa S. (PD/PI)",
+      "title": "Metabolic factors that condition breast cancer metastasis",
+      "award_number": "24B03",
+      "sponsor": "Florida Department of Health  \nDa S. (PD/PI)"
     },
     {
       "description": "Title: Epigenetic mechanisms that underlie breast cancer dormancy  \nAward Number: RSG-22-164-01-MM  \nSponsor: American Cancer Society, Inc. (ACS)  \nDa S. (PD/PI)",
+      "title": "Epigenetic mechanisms that underlie breast cancer dormancy",
+      "award_number": "RSG-22-164-01-MM",
+      "sponsor": "American Cancer Society, Inc. (ACS)  \nDa S. (PD/PI)",
       "source": "American Cancer Society"
     },
     {
       "description": "Title: How the aging tumor microenvironment affects outgrowth of leptomeningeal metastases  \nAward Number: TLC-23-1180696-01-TLC  \nSponsor: American Cancer Society, Inc. (ACS)  \nDa S. (PD/PI)",
-      "source": "American Cancer Society",
-      "period": "0696-01"
+      "title": "How the aging tumor microenvironment affects outgrowth of leptomeningeal metastases",
+      "award_number": "TLC-23-1180696-01-TLC",
+      "sponsor": "American Cancer Society, Inc. (ACS)  \nDa S. (PD/PI)",
+      "source": "American Cancer Society"
     },
     {
-      "description": "Title: Defining the age-induced metabolic liabilities of lung adenocarcinoma  \nAward Number:   \nSponsor: Support Accounts-Oper  \nDa S. (PD/PI), Jiang, C. (PD/PI)"
+      "description": "Title: Defining the age-induced metabolic liabilities of lung adenocarcinoma  \nAward Number:   \nSponsor: Support Accounts-Oper  \nDa S. (PD/PI), Jiang, C. (PD/PI)",
+      "title": "Defining the age-induced metabolic liabilities of lung adenocarcinoma",
+      "award_number": "",
+      "sponsor": "Support Accounts-Oper  \nDa S. (PD/PI),",
+      "investigators": [
+        {
+          "name": "Jiang, C.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Mechanisms of aging-induced differential evolution of KRAS-driven lung adenocarcinoma  \nAward Number: 1443630  \nSponsor: American Lung Association  \nDa S. (), Lazure, F. (PD/PI)"
+      "description": "Title: Mechanisms of aging-induced differential evolution of KRAS-driven lung adenocarcinoma  \nAward Number: 1443630  \nSponsor: American Lung Association  \nDa S. (), Lazure, F. (PD/PI)",
+      "title": "Mechanisms of aging-induced differential evolution of KRAS-driven lung adenocarcinoma",
+      "award_number": "1443630",
+      "sponsor": "American Lung Association  \nDa S. (),",
+      "investigators": [
+        {
+          "name": "Lazure, F.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: How the aging tumor microenvironment affects development of leptomeningeal metastases  \nAward Number:   \nSponsor: Florida Department of Health  \nDa S. (PD/PI), Smalley, I. (PD/PI)"
+      "description": "Title: How the aging tumor microenvironment affects development of leptomeningeal metastases  \nAward Number:   \nSponsor: Florida Department of Health  \nDa S. (PD/PI), Smalley, I. (PD/PI)",
+      "title": "How the aging tumor microenvironment affects development of leptomeningeal metastases",
+      "award_number": "",
+      "sponsor": "Florida Department of Health  \nDa S. (PD/PI),",
+      "investigators": [
+        {
+          "name": "Smalley, I.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GomesAna_26666.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=26666"
   },
-  "content_hash": "ac42419a18471cb6f361663f6d14bbae9220464d4633e6c396012942f3da4b04",
+  "content_hash": "fb32f11bf2b65264699592e7ba63e37afd0474da9321ed1474f8cb2a0d8e9cff",
   "researcher_name": "Ana Gomes",
   "department": "Molecular Oncology"
 }

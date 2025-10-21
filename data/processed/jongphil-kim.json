@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jongphil-kim",
-  "last_updated": "2025-10-19T00:30:12.893425",
+  "last_updated": "2025-10-21T16:39:14.964292",
   "researcher_id": "4228",
   "degrees": [
     "PhD"
@@ -39,75 +39,87 @@
   ],
   "publications": [
     {
-      "title": "Elmariah H, Kim J, Gonzalez R, DiMaggio E, Sansil S, Mishra A, Faramand R, Perez L, Lazaryan A, Mirza AS, Khimani F, Liu H, Ochoa-Bayona JL, Nieder M, Perna F, Figura N, Robinson TJ, Nishihori T, Anasetti C, Pidala JA, Bejanyan N. Phase II Trial of Reduced-Intensity Fludarabine, Melphalan, and Total Body Irradiation Conditioning With Haploidentical Donor Peripheral Blood Stem Cell Transplant. Am J Hematol",
+      "title": "Phase II Trial of Reduced-Intensity Fludarabine, Melphalan, and Total Body Irradiation Conditioning With Haploidentical Donor Peripheral Blood Stem Cell Transplant",
       "pubmed_id": "40492500",
       "year": "2025",
-      "journal": "100(9):1665-1669",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Elmariah H, Kim J, Gonzalez R, DiMaggio E, Sansil S, Mishra A, Faramand R, Perez L, Lazaryan A, Mirza AS, Khimani F, Liu H, Ochoa-Bayona JL, Nieder M, Perna F, Figura N, Robinson TJ, Nishihori T, Anasetti C, Pidala JA, Bejanyan N",
+      "journal": "Am J Hematol"
     },
     {
-      "title": "Meads MB, Zhao X, Noyes DR, Sudalagunta P, Achille A, Zhang C, Renatino Canevarolo R, Silva M, Magaletti D, DeAvila D, Toska S, Oates A, Lastorino D, Idiaquez DW, Song J, Sansil S, Yoder SJ, Grajales-Cruz AF, Blue BJ, Freeman CL, Kim J, Alsina M, Brayer J, Siqueira Silva A, Song X, Shain KH, Baz RC. Target antigen and plasma cell phenotype are critical factors for sensitivity to response-adapted daratumumab therapy. Blood",
+      "title": "Target antigen and plasma cell phenotype are critical factors for sensitivity to response-adapted daratumumab therapy",
       "pubmed_id": "40983035",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Meads MB, Zhao X, Noyes DR, Sudalagunta P, Achille A, Zhang C, Renatino Canevarolo R, Silva M, Magaletti D, DeAvila D, Toska S, Oates A, Lastorino D, Idiaquez DW, Song J, Sansil S, Yoder SJ, Grajales-Cruz AF, Blue BJ, Freeman CL, Kim J, Alsina M, Brayer J, Siqueira Silva A, Song X, Shain KH, Baz RC",
+      "journal": "Blood"
     },
     {
-      "title": "Pidala JA, Kim J, Kalos D, Cutler CS, DeFilipp Z, Flowers ME, Hamilton BK, Chin KK, Rotta M, El Jurdi N, Hamadani M, Ahmed G, Kitko CL, Ponce DM, Sung AD, Tang H, Farhadfar N, Nemecek ER, Pusic I, Qayed M, Rangarajan HG, Hogan WJ, Etra AM, Jaglowski SM. Ibrutinib for therapy of steroid-refractory chronic graft-versus-host disease: a multicenter real-world analysis. Blood Adv",
+      "title": "Ibrutinib for therapy of steroid-refractory chronic graft-versus-host disease: a multicenter real-world analysis",
       "pubmed_id": "39454280",
       "pmc_id": "PMC11909441",
       "year": "2025",
-      "journal": "9(5):1040-1048",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Pidala JA, Kim J, Kalos D, Cutler CS, DeFilipp Z, Flowers ME, Hamilton BK, Chin KK, Rotta M, El Jurdi N, Hamadani M, Ahmed G, Kitko CL, Ponce DM, Sung AD, Tang H, Farhadfar N, Nemecek ER, Pusic I, Qayed M, Rangarajan HG, Hogan WJ, Etra AM, Jaglowski SM",
+      "journal": "Blood Adv"
     },
     {
-      "title": "Schmitz J, Gaskill E, Price S, Cao B, Kim J, Baluch A, Klinkova O, Faramand R, Mishra A, Perez L, Khimani F, Lazaryan A, Ochoa-Bayona JL, Liu H, Mirza AS, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H. Letermovir reduces cytomegalovirus in HLA-matched and mismatched allogeneic hematopoietic cell transplant patients receiving post-transplant cyclophosphamide. Bone Marrow Transplant",
+      "title": "Letermovir reduces cytomegalovirus in HLA-matched and mismatched allogeneic hematopoietic cell transplant patients receiving post-transplant cyclophosphamide",
       "pubmed_id": "40617898",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Schmitz J, Gaskill E, Price S, Cao B, Kim J, Baluch A, Klinkova O, Faramand R, Mishra A, Perez L, Khimani F, Lazaryan A, Ochoa-Bayona JL, Liu H, Mirza AS, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H",
+      "journal": "Bone Marrow Transplant"
     },
     {
-      "title": "Morse B, Jeong D, Ahmed A, Kim J, Spiess P, Chahoud J. Preoperative prediction of high-risk lymph nodes in penile cancer: Graafland criteria vs radiomics. BJU Int",
+      "title": "Preoperative prediction of high-risk lymph nodes in penile cancer: Graafland criteria vs radiomics",
       "pubmed_id": "40130666",
       "year": "2025",
-      "journal": "136(1):45-46",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Morse B, Jeong D, Ahmed A, Kim J, Spiess P, Chahoud J",
+      "journal": "BJU Int"
     },
     {
-      "title": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL. Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes. Blood",
+      "title": "Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes",
       "pubmed_id": "39652773",
       "year": "2025",
-      "journal": "145(15):1645-1657",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL",
+      "journal": "Blood"
     },
     {
-      "title": "Zhang Y, Rose A, Khadka S, Cao B, Eatrides J, Saeed H, Shah BD, Chavez J, Bello C, Lazaryan A, Khimani F, Ibarz JP, Liu HD, Locke FL, Jain MD, Zhang L, Kharfan-Dabaja MA, Kim J, Ayala E, Nishihori T, Sokol L. Autologous Hematopoietic Cell Transplantation Consolidation for First Response is Associated With Longer Survival Among Patients With Nodal Peripheral T Cell Lymphoma. Transplant Cell Ther",
+      "title": "Autologous Hematopoietic Cell Transplantation Consolidation for First Response is Associated With Longer Survival Among Patients With Nodal Peripheral T Cell Lymphoma",
       "pubmed_id": "38740140",
       "year": "2024",
-      "journal": "30(9):887",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Zhang Y, Rose A, Khadka S, Cao B, Eatrides J, Saeed H, Shah BD, Chavez J, Bello C, Lazaryan A, Khimani F, Ibarz JP, Liu HD, Locke FL, Jain MD, Zhang L, Kharfan-Dabaja MA, Kim J, Ayala E, Nishihori T, Sokol L",
+      "journal": "Transplant Cell Ther"
     },
     {
-      "title": "Handley G, Yepes A, Eliassen E, Dominguez G, Pasikhova Y, Klinkova O, Baluch A, Febres-Aldana AJ, Alsina M, Elmariah H, Khimani F, Hansen DK, Freeman CL, Jain MD, Locke F, Lazaryan A, Liu HD, Mishra A, Mirza AS, Nishihori T, Ochoa L, Perez L, Pidala J, Puglianini OC, Nieder M, Perna F, Kim J, Bejanyan N, Faramand R. Outcomes of Haploidentical Stem Cell Transplant Recipients With HHV-6B Reactivation. Open Forum Infect Dis",
+      "title": "Outcomes of Haploidentical Stem Cell Transplant Recipients With HHV-6B Reactivation",
       "pubmed_id": "39411216",
       "pmc_id": "PMC11475747",
       "year": "2024",
-      "journal": "11(10):ofae564",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Handley G, Yepes A, Eliassen E, Dominguez G, Pasikhova Y, Klinkova O, Baluch A, Febres-Aldana AJ, Alsina M, Elmariah H, Khimani F, Hansen DK, Freeman CL, Jain MD, Locke F, Lazaryan A, Liu HD, Mishra A, Mirza AS, Nishihori T, Ochoa L, Perez L, Pidala J, Puglianini OC, Nieder M, Perna F, Kim J, Bejanyan N, Faramand R",
+      "journal": "Open Forum Infect Dis"
     },
     {
-      "title": "Pidala JA, Holtan SG, Walton K, Kim J, Cao B, Elmariah H, Mishra A, Bejanyan N, Nishihori T, Khimani F, Perez LE, Faramand RG, Davila ML, McSain S, Pleskow J, Baron J, Anasetti C, Moran Segura CM, Weisdorf DJ, Blazar BR, Miller JS, Bachanova V, El Jurdi N, Betts BC. JAK2/mTOR inhibition fails to prevent acute GVHD despite reduced Th1/Th17 cells: final phase 2 trial results. Blood",
+      "title": "JAK2/mTOR inhibition fails to prevent acute GVHD despite reduced Th1/Th17 cells: final phase 2 trial results",
       "pubmed_id": "39046783",
       "pmc_id": "PMC11619790",
       "year": "2024",
-      "journal": "144(22):2295-2307",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Pidala JA, Holtan SG, Walton K, Kim J, Cao B, Elmariah H, Mishra A, Bejanyan N, Nishihori T, Khimani F, Perez LE, Faramand RG, Davila ML, McSain S, Pleskow J, Baron J, Anasetti C, Moran Segura CM, Weisdorf DJ, Blazar BR, Miller JS, Bachanova V, El Jurdi N, Betts BC",
+      "journal": "Blood"
     },
     {
-      "title": "Albanyan O, Elmariah H, Kalos D, Kim J, Faramand R, Sallman D, Mishra A, Sweet K, Perez L, Ochoa-Bayona J, Nieder M, Komrokji R, Lancet J, Fernandez H, Nishihori T, Pidala J, Anasetti C, Bejanyan N. Melphalan Dose in Combination With Fludarabine Affects Gastrointestinal Toxicity and Graft-Versus-Host Disease After Allogeneic Transplantation in Acute Myeloid Leukemia and Myelodysplastic Syndromes. Transplant Cell Ther",
+      "title": "Melphalan Dose in Combination With Fludarabine Affects Gastrointestinal Toxicity and Graft-Versus-Host Disease After Allogeneic Transplantation in Acute Myeloid Leukemia and Myelodysplastic Syndromes",
       "pubmed_id": "39147136",
       "year": "2024",
-      "journal": "30(11):1090",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Albanyan O, Elmariah H, Kalos D, Kim J, Faramand R, Sallman D, Mishra A, Sweet K, Perez L, Ochoa-Bayona J, Nieder M, Komrokji R, Lancet J, Fernandez H, Nishihori T, Pidala J, Anasetti C, Bejanyan N",
+      "journal": "Transplant Cell Ther"
     }
   ],
   "grants": [],
@@ -115,7 +127,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4228"
   },
-  "content_hash": "049fb5fcb8199a45121794a68801d6c4b0a0d04e9ba65225daf9dcd2b00af1bd",
+  "content_hash": "b4aade5af487816982da383b70ec05b30671ec1e8684ed90c3f33a03a9ac61ca",
   "researcher_name": "Jongphil Kim",
   "department": "Biostatistics and Bioinformatics"
 }

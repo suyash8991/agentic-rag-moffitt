@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez",
-  "last_updated": "2025-10-19T00:24:43.795418",
+  "last_updated": "2025-10-21T16:33:45.769530",
   "researcher_id": "4771",
   "degrees": [
     "PhD"
@@ -35,101 +35,129 @@
   ],
   "publications": [
     {
-      "title": "Tyczynska Weh M, Kumar P, Marusyk V, Marusyk A, Basanta D. The adaptive state determines the impact of mutations on evolving populations. Proc Natl Acad Sci U S A",
+      "title": "The adaptive state determines the impact of mutations on evolving populations",
       "pubmed_id": "40569384",
       "pmc_id": "PMC12232665",
       "year": "2025",
-      "journal": "122(26)",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Tyczynska Weh M, Kumar P, Marusyk V, Marusyk A, Basanta D",
+      "journal": "Proc Natl Acad Sci U S A"
     },
     {
-      "title": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A. Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers. Res Sq",
+      "title": "Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers",
       "pubmed_id": "40313737",
       "pmc_id": "PMC12045365",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Colyer B, Bak M, Basanta D, Noble R. A seven-step guide to spatial, agent-based modelling of tumour evolution. Evol Appl",
+      "title": "A seven-step guide to spatial, agent-based modelling of tumour evolution",
       "pubmed_id": "38707992",
       "pmc_id": "PMC11064804",
       "year": "2024",
-      "journal": "17(5):e13687",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Colyer B, Bak M, Basanta D, Noble R",
+      "journal": "Evol Appl"
     },
     {
-      "title": "Bishop RT, Miller AK, Froid M, Nerlakanti N, Li T, Frieling JS, Nasr MM, Nyman KJ, Sudalagunta PR, Canevarolo RR, Silva AS, Shain KH, Lynch CC, Basanta D. The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease. Nat Commun",
+      "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
       "pubmed_id": "38503736",
       "pmc_id": "PMC10951361",
       "year": "2024",
-      "journal": "15(1):2458",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Bishop RT, Miller AK, Froid M, Nerlakanti N, Li T, Frieling JS, Nasr MM, Nyman KJ, Sudalagunta PR, Canevarolo RR, Silva AS, Shain KH, Lynch CC, Basanta D",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Miti T, Desai B, Miroshnychenko D, Basanta D, Marusyk A. Dissecting the Spatially Restricted Effects of Microenvironment-Mediated Resistance on Targeted Therapy Responses. Cancers (Basel)",
+      "title": "Dissecting the Spatially Restricted Effects of Microenvironment-Mediated Resistance on Targeted Therapy Responses",
       "pubmed_id": "39001467",
       "pmc_id": "PMC11240540",
       "year": "2024",
-      "journal": "16(13)",
-      "authors": ""
+      "publication_date": "2024 Jun",
+      "authors": "Miti T, Desai B, Miroshnychenko D, Basanta D, Marusyk A",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Miroshnychenko D, Miti T, Kumar P, Miller A, Laurie M, Giraldo N, Bui MM, Altrock PM, Basanta D, Marusyk A. Stroma-Mediated Breast Cancer Cell Proliferation Indirectly Drives Chemoresistance by Accelerating Tumor Recovery between Chemotherapy Cycles. Cancer Res",
+      "title": "Stroma-Mediated Breast Cancer Cell Proliferation Indirectly Drives Chemoresistance by Accelerating Tumor Recovery between Chemotherapy Cycles",
       "pubmed_id": "37791818",
       "pmc_id": "PMC10646478",
       "year": "2023",
-      "journal": "83(22):3681-3692",
-      "authors": ""
+      "publication_date": "2023 Nov",
+      "authors": "Miroshnychenko D, Miti T, Kumar P, Miller A, Laurie M, Giraldo N, Bui MM, Altrock PM, Basanta D, Marusyk A",
+      "journal": "Cancer Res"
     },
     {
-      "title": "West J, Adler F, Gallaher J, Strobl M, Brady-Nicholls R, Brown J, Robertson-Tessi M, Kim E, Noble R, Viossat Y, Basanta D, Anderson ARA. A survey of open questions in adaptive therapy: Bridging mathematics and clinical translation. Elife",
+      "title": "A survey of open questions in adaptive therapy: Bridging mathematics and clinical translation",
       "pubmed_id": "36952376",
       "pmc_id": "PMC10036119",
       "year": "2023",
-      "journal": "12",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "West J, Adler F, Gallaher J, Strobl M, Brady-Nicholls R, Brown J, Robertson-Tessi M, Kim E, Noble R, Viossat Y, Basanta D, Anderson ARA",
+      "journal": "Elife"
     },
     {
-      "title": "Miroshnychenko D, Miti T, Miller A, Kumar P, Laurie M, Bui MM, Altrock PM, Basanta D, Marusyk A. Paracrine enhancement of tumor cell proliferation provides indirect stroma-mediated chemoresistance via acceleration of tumor recovery between chemotherapy cycles. bioRxiv",
+      "title": "Paracrine enhancement of tumor cell proliferation provides indirect stroma-mediated chemoresistance via acceleration of tumor recovery between chemotherapy cycles",
       "pubmed_id": "36798328",
       "pmc_id": "PMC9934626",
       "year": "2023",
-      "authors": ""
+      "publication_date": "2023 Feb",
+      "authors": "Miroshnychenko D, Miti T, Miller A, Kumar P, Laurie M, Bui MM, Altrock PM, Basanta D, Marusyk A",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Baratchart E, Lo CH, Lynch CC, Basanta D. Integrated computational and in vivo models reveal Key Insights into macrophage behavior during bone healing. PLoS Comput Biol",
+      "title": "Integrated computational and in vivo models reveal Key Insights into macrophage behavior during bone healing",
       "pubmed_id": "35559958",
       "pmc_id": "PMC9106165",
       "year": "2022",
-      "journal": "18(5):e1009839",
-      "authors": ""
+      "publication_date": "2022 May",
+      "authors": "Baratchart E, Lo CH, Lynch CC, Basanta D",
+      "journal": "PLoS Comput Biol"
     },
     {
-      "title": "Foo J, Basanta D, Rockne RC, Strelez C, Shah C, Ghaffarian K, Mumenthaler SM, Mitchell K, Lathia JD, Frankhouser D, Branciamore S, Kuo YH, Marcucci G, Vander Velde R, Marusyk A, Hang S, Hari K, Jolly MK, Hatzikirou H, Poels K, Spilker M, Shtylla B, Robertson-Tessi M, Anderson ARA. Roadmap on plasticity and epigenetics in cancer. Phys Biol",
+      "title": "Roadmap on plasticity and epigenetics in cancer",
       "pubmed_id": "35078159",
       "pmc_id": "PMC9190291",
       "year": "2022",
-      "journal": "19(3)",
-      "authors": ""
+      "publication_date": "2022 Apr",
+      "authors": "Foo J, Basanta D, Rockne RC, Strelez C, Shah C, Ghaffarian K, Mumenthaler SM, Mitchell K, Lathia JD, Frankhouser D, Branciamore S, Kuo YH, Marcucci G, Vander Velde R, Marusyk A, Hang S, Hari K, Jolly MK, Hatzikirou H, Poels K, Spilker M, Shtylla B, Robertson-Tessi M, Anderson ARA",
+      "journal": "Phys Biol"
     }
   ],
   "grants": [
     {
       "description": "Title: An integrated mathematical modeling approach to define how the aging bone ecosystem drives multiple myeloma evolution and treatment response  \nAward Number: 1R01CA290007-01A1   \nSponsor: National Cancer Institute (NCI)  \nLynch, C. (PD/PI), Basanta G. (Co-PD/PI)",
+      "title": "An integrated mathematical modeling approach to define how the aging bone ecosystem drives multiple myeloma evolution and treatment response",
+      "award_number": "1R01CA290007-01A1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0007-01"
+      "investigators": [
+        {
+          "name": "Lynch, C.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Defining bone ecosystem effects on metastatic prostate cancer evolution and treatment response using an integrated mathematical modeling approach  \nAward Number: 5U01CA244101-04  \nSponsor: National Cancer Institute (NCI)  \nBasanta G. (PD/PI), Lynch, C. (PD/PI)",
+      "title": "Defining bone ecosystem effects on metastatic prostate cancer evolution and treatment response using an integrated mathematical modeling approach",
+      "award_number": "5U01CA244101-04",
+      "sponsor": "National Cancer Institute (NCI)  \nBasanta G. (PD/PI),",
       "source": "NCI",
-      "period": "4101-04"
+      "investigators": [
+        {
+          "name": "Lynch, C.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BasantaGutierrezDavid_4771.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4771"
   },
-  "content_hash": "1bd161ef89d7cc0e7ebff0c2a8a19e3e2f37a451053a87524aa675568f237777",
+  "content_hash": "1aaf260cc3fdb2f3af61fdbd681e9b32d15b2bcddae0275e5add1a3777d8262b",
   "researcher_name": "David Basanta Gutierrez",
   "department": "Integrated Mathematical Oncology"
 }

@@ -1,5 +1,4 @@
-2025-10-16 13:00:17,996 [INFO] QUERY START QUERY: Who is John Doe?
-2025-10-16 13:00:19,011 [INFO] QUERY FINISH QUERY: Who is John Doe? | Time: 1.02s | Result: {'name': 'John Doe', 'info': 'Test researcher'}
-2025-10-16 13:00:19,013 [INFO] QUERY QUERY CONTEXT: Who is John Doe? | {'source': 'test', 'response_time': '1s'}
-2025-10-16 13:00:19,013 [INFO] QUERY START QUERY: Who is Jane Doe?
-2025-10-16 13:00:19,014 [ERROR] QUERY ERROR QUERY: Who is Jane Doe? | Time: 0.00s | Error: Test failure
+2025-10-21 12:08:12,906 [INFO] QUERY START QUERY: Where did Conor Lynch earn his PhD?
+2025-10-21 12:08:22,630 [INFO] QUERY FINISH QUERY: Where did Conor Lynch earn his PhD? | Time: 9.72s | Result: {'output': "I apologize, but I wasn't able to generate a complete response within the allowed number of steps. Please try asking a more specific question or breaking your query into smaller parts."}
+2025-10-21 12:08:45,271 [INFO] QUERY START QUERY: What grants does Conor Lynch currently hold?
+2025-10-21 12:08:52,167 [INFO] QUERY FINISH QUERY: What grants does Conor Lynch currently hold? | Time: 6.90s | Result: {'input': 'What grants does Conor Lynch currently hold?', 'output': 'Conor Lynch currently holds the following grants:\n\n1. Local and Systemic Control of Multiple Myeloma Colonization and Growth by MMP-13 (5R01CA239214-05) - National Cancer Institute (NCI), PD/PI\n2. Defining bone ecosystem effects on metastatic prostate cancer evolution and treatment response using an integrated mathematical modeling approach (5U01CA244101-04) - National Cancer Institute (NCI), Co-PD/PI\n3. Role of ULK3 in Sen...

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/theresa-boyle",
-  "last_updated": "2025-10-19T00:29:20.521138",
+  "last_updated": "2025-10-21T16:38:22.300602",
   "researcher_id": "16846",
   "degrees": [
     "MD",
@@ -48,97 +48,133 @@
   ],
   "publications": [
     {
-      "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
+      "title": "Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy",
       "pubmed_id": "40341231",
       "year": "2025",
-      "journal": "6(5):801-819",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC",
+      "journal": "Nat Cancer"
     },
     {
-      "title": "Kato R, Solanki HS, Ozakinci H, Desai B, Gundlapalli H, Yang YC, Aronchik I, Singh M, Johnson J, Marusyk A, Boyle TA, Haura EB. In Situ RAS:RAF Binding Correlates with Response to KRASG12C Inhibitors in KRASG12C-Mutant Non-Small Cell Lung Cancer. Clin Cancer Res",
+      "title": "In Situ RAS:RAF Binding Correlates with Response to KRASG12C Inhibitors in KRASG12C-Mutant Non-Small Cell Lung Cancer",
       "pubmed_id": "39836411",
       "pmc_id": "PMC11924342",
       "year": "2025",
-      "journal": "31(6):1150-1162",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Kato R, Solanki HS, Ozakinci H, Desai B, Gundlapalli H, Yang YC, Aronchik I, Singh M, Johnson J, Marusyk A, Boyle TA, Haura EB",
+      "journal": "Clin Cancer Res"
     },
     {
-      "title": "Sen T, Dotsu Y, Corbett V, Puri S, Sen U, Boyle TA, Mack P, Hirsch F, Aljumaily R, Naqash AR, Sukrithan V, Karim NA. Pulmonary neuroendocrine neoplasms: the molecular landscape, therapeutic challenges, and diagnosis and management strategies. Lancet Oncol",
+      "title": "Pulmonary neuroendocrine neoplasms: the molecular landscape, therapeutic challenges, and diagnosis and management strategies",
       "pubmed_id": "39756451",
       "year": "2025",
-      "journal": "26(1):e13-e33",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Sen T, Dotsu Y, Corbett V, Puri S, Sen U, Boyle TA, Mack P, Hirsch F, Aljumaily R, Naqash AR, Sukrithan V, Karim NA",
+      "journal": "Lancet Oncol"
     },
     {
-      "title": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A. Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers. Res Sq",
+      "title": "Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers",
       "pubmed_id": "40313737",
       "pmc_id": "PMC12045365",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA. Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma. J Immunol",
+      "title": "Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma",
       "pubmed_id": "39120462",
       "pmc_id": "PMC11404669",
       "year": "2024",
-      "journal": "213(7):1033-1041",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA",
+      "journal": "J Immunol"
     },
     {
-      "title": "Ozakinci H, Alontaga AY, Cano P, Koomen JM, Perez BA, Beg AA, Chiappori AA, Haura EB, Boyle TA. Unveiling the Molecular Features of SCLC With a Clinical RNA Expression Panel. JTO Clin Res Rep",
+      "title": "Unveiling the Molecular Features of SCLC With a Clinical RNA Expression Panel",
       "pubmed_id": "39386315",
       "pmc_id": "PMC11459576",
       "year": "2024",
-      "journal": "5(11):100723",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Ozakinci H, Alontaga AY, Cano P, Koomen JM, Perez BA, Beg AA, Chiappori AA, Haura EB, Boyle TA",
+      "journal": "JTO Clin Res Rep"
     },
     {
-      "title": "Saeed-Vafa D, Chatzopoulos K, Hernandez-Prera J, Cano P, Saller JJ, Hallanger Johnson JE, McIver B, Boyle TA. RET splice site variants in medullary thyroid carcinoma. Front Genet",
+      "title": "RET splice site variants in medullary thyroid carcinoma",
       "pubmed_id": "38566816",
       "pmc_id": "PMC10985236",
       "year": "2024",
-      "journal": "15:1377158",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Saeed-Vafa D, Chatzopoulos K, Hernandez-Prera J, Cano P, Saller JJ, Hallanger Johnson JE, McIver B, Boyle TA",
+      "journal": "Front Genet"
     },
     {
-      "title": "Furlan KC, Saeed-Vafa D, Mathew TM, Saller JJ, Tabbara SO, Boyle TA, Wenig BM, Hernandez-Prera JC. Utility of UV Signature Mutations in the Diagnostic Assessment of Metastatic Head and Neck Carcinomas of Unknown Primary. Head Neck Pathol",
+      "title": "Utility of UV Signature Mutations in the Diagnostic Assessment of Metastatic Head and Neck Carcinomas of Unknown Primary",
       "pubmed_id": "38393464",
       "pmc_id": "PMC10891032",
       "year": "2024",
-      "journal": "18(1):11",
-      "authors": ""
+      "publication_date": "2024 Feb",
+      "authors": "Furlan KC, Saeed-Vafa D, Mathew TM, Saller JJ, Tabbara SO, Boyle TA, Wenig BM, Hernandez-Prera JC",
+      "journal": "Head Neck Pathol"
     },
     {
-      "title": "Chakraborty S, Sen U, Ventura K, Jethalia V, Coleman C, Sridhar S, Banerjee A, Ozakinci H, Mahendravarman Y, Snioch K, de Stanchina E, Shields MD, Tomalin LE, Demircioglu D, Boyle TA, Tocheva A, Hasson D, Sen T. Lurbinectedin sensitizes PD-L1 blockade therapy by activating STING-IFN signaling in small-cell lung cancer. Cell Rep Med",
+      "title": "Lurbinectedin sensitizes PD-L1 blockade therapy by activating STING-IFN signaling in small-cell lung cancer",
       "pubmed_id": "39657664",
       "pmc_id": "PMC11722101",
       "year": "2024",
-      "journal": "5(12):101852",
-      "authors": ""
+      "publication_date": "2024 Dec",
+      "authors": "Chakraborty S, Sen U, Ventura K, Jethalia V, Coleman C, Sridhar S, Banerjee A, Ozakinci H, Mahendravarman Y, Snioch K, de Stanchina E, Shields MD, Tomalin LE, Demircioglu D, Boyle TA, Tocheva A, Hasson D, Sen T",
+      "journal": "Cell Rep Med"
     },
     {
-      "title": "Alontaga AY, Cano P, Ozakinci H, Puskas JA, Stewart PA, Welsh EA, Yoder SJ, Hicks JK, Saltos AN, Bossler AD, Haura EB, Koomen JM, Boyle TA. Implementation of a High-Accuracy Targeted Gene Expression Panel for Clinical Care. J Mol Diagn",
+      "title": "Implementation of a High-Accuracy Targeted Gene Expression Panel for Clinical Care",
       "pubmed_id": "38777037",
       "pmc_id": "PMC11299514",
       "year": "2024",
-      "journal": "26(8):685-699",
-      "authors": ""
+      "publication_date": "2024 Aug",
+      "authors": "Alontaga AY, Cano P, Ozakinci H, Puskas JA, Stewart PA, Welsh EA, Yoder SJ, Hicks JK, Saltos AN, Bossler AD, Haura EB, Koomen JM, Boyle TA",
+      "journal": "J Mol Diagn"
     }
   ],
   "grants": [
     {
       "description": "Title: Salah RNA Panel Research  \nAward Number: Haura_Salah Foundation  \nSponsor: THE SALAH FOUNDATION  \nHaura, E. (PD/PI), Boyle, T. (Co-PD/PI), Pellini F. (Co-PD/PI)",
-      "source": "Foundation"
+      "title": "Salah RNA Panel Research",
+      "award_number": "Haura_Salah Foundation",
+      "sponsor": "THE SALAH FOUNDATION",
+      "investigators": [
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Boyle, T.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Infrastructure Expansion for an Enduring Rapid Tissue Donation Program  \nAward Number: 24K02  \nSponsor: Florida Department of Health  \nSchabath, M. (PD/PI), Boyle, T. (Co-PD/PI)"
+      "description": "Title: Infrastructure Expansion for an Enduring Rapid Tissue Donation Program  \nAward Number: 24K02  \nSponsor: Florida Department of Health  \nSchabath, M. (PD/PI), Boyle, T. (Co-PD/PI)",
+      "title": "Infrastructure Expansion for an Enduring Rapid Tissue Donation Program",
+      "award_number": "24K02",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Boyle, T.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BoyleTheresa_16846.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16846"
   },
-  "content_hash": "dfbc1246034ae20a15d65749b2c26692502294e56b4483f6c22c0e068934d25e",
+  "content_hash": "7af21144ecb80bb9dcdc95e2650f79115b8c8cd37fc68f0f2e50f2ecd119ecd7",
   "researcher_name": "Theresa Boyle",
   "department": "Tumor Microenvironment and Metastasis"
 }

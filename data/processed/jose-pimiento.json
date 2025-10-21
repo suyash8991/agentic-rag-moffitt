@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jose-pimiento",
-  "last_updated": "2025-10-19T00:29:32.158007",
+  "last_updated": "2025-10-21T16:38:33.866698",
   "researcher_id": "6667",
   "degrees": [
     "MD"
@@ -51,91 +51,122 @@
   ],
   "publications": [
     {
-      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "title": "The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma",
       "pubmed_id": "40553455",
       "year": "2025",
-      "journal": "34(9):1609-1617",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
-      "title": "Shannon AB, Mohammed MA, Lauwers GY, Pena LR, Mok SR, Sinnamon AJ, Araujo CR, Pimiento JM. Analysis of the Incidence of Lymph Node Metastases in High-Risk Early Stage (T1) Esophageal Adenocarcinomas: A Single-Institution Experience. J Surg Oncol",
+      "title": "Analysis of the Incidence of Lymph Node Metastases in High-Risk Early Stage (T1) Esophageal Adenocarcinomas: A Single-Institution Experience",
       "pubmed_id": "40717528",
       "year": "2025",
-      "journal": "132(4):754-762",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Shannon AB, Mohammed MA, Lauwers GY, Pena LR, Mok SR, Sinnamon AJ, Araujo CR, Pimiento JM",
+      "journal": "J Surg Oncol"
     },
     {
-      "title": "Ajani JA, D'Amico TA, Bentrem DJ, Corvera CU, Das P, Enzinger PC, Enzler T, Gerdes H, Gibson MK, Grierson P, Gupta G, Hofstetter WL, Ilson DH, Jalal S, Kim S, Kleinberg LR, Klempner S, Lacy J, Lee B, Licciardi F, Lloyd S, Ly QP, Matsukuma K, McNamara M, Merkow RP, Miller AM, Mukherjee S, Mulcahy MF, Perry KA, Pimiento JM, Reddi DM, Reznik S, Roses RE, Strong VE, Su S, Uboha N, Wainberg ZA, Willett CG, Woo Y, Yoon HH, McMillian NR, Stein M. Gastric Cancer, Version 2.2025, NCCN Clinical Practice Guidelines In Oncology. J Natl Compr Canc Ne",
-      "pubmed_id": "40341199",
-      "year": "2025",
-      "journal": "23(5):169-191",
-      "authors": ""
-    },
-    {
-      "title": "Yu J, Laborde JM, Park R, Shahzad M, Kim Y, Cheon J, Imanirad I, Kim RD, Biachi de Castria T, Nardella NL, Malafa M, Denbo JW, Fleming JB, Hoffe SE, Frakes JM, Sinnamon AJ, Pimiento JM, Hodul PJ, Kim DW. Association of Pathologic Response and Adjuvant Chemotherapy with Survival in Resected Pancreatic Ductal Adenocarcinoma Following Neoadjuvant Therapy. Cancers (Basel)",
+      "title": "Association of Pathologic Response and Adjuvant Chemotherapy with Survival in Resected Pancreatic Ductal Adenocarcinoma Following Neoadjuvant Therapy",
       "pubmed_id": "40507279",
       "pmc_id": "PMC12153592",
       "year": "2025",
-      "journal": "17(11)",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Yu J, Laborde JM, Park R, Shahzad M, Kim Y, Cheon J, Imanirad I, Kim RD, Biachi de Castria T, Nardella NL, Malafa M, Denbo JW, Fleming JB, Hoffe SE, Frakes JM, Sinnamon AJ, Pimiento JM, Hodul PJ, Kim DW",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Shannon AB, Mehta R, Mok SR, Lauwers GY, Baldonado JJAR, Fontaine J, Pimiento JM, Sinnamon AJ. ASO Visual Abstract: Clinical and Pathologic Response to Neoadjuvant Immunotherapy in DNA Mismatch Repair Protein-Deficient Gastroesophageal Cancers. Ann Surg Oncol",
+      "title": "Gastric Cancer, Version 2",
+      "pubmed_id": "40341199",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Ajani JA, D'Amico TA, Bentrem DJ, Corvera CU, Das P, Enzinger PC, Enzler T, Gerdes H, Gibson MK, Grierson P, Gupta G, Hofstetter WL, Ilson DH, Jalal S, Kim S, Kleinberg LR, Klempner S, Lacy J, Lee B, Licciardi F, Lloyd S, Ly QP, Matsukuma K, McNamara M, Merkow RP, Miller AM, Mukherjee S, Mulcahy MF, Perry KA, Pimiento JM, Reddi DM, Reznik S, Roses RE, Strong VE, Su S, Uboha N, Wainberg ZA, Willett CG, Woo Y, Yoon HH, McMillian NR, Stein M"
+    },
+    {
+      "title": "ASO Visual Abstract: Clinical and Pathologic Response to Neoadjuvant Immunotherapy in DNA Mismatch Repair Protein-Deficient Gastroesophageal Cancers",
       "pubmed_id": "39412693",
       "year": "2025",
-      "journal": "32(1):581-582",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Shannon AB, Mehta R, Mok SR, Lauwers GY, Baldonado JJAR, Fontaine J, Pimiento JM, Sinnamon AJ",
+      "journal": "Ann Surg Oncol"
     },
     {
-      "title": "Teja T, Sinnamon AJ, Pena LS, Reyna Forero SA, Dineen S, Mehta RJ, Gurd EN, Pimiento JM. Feasibility of Oral Vitamin B12 Supplementation After Total Gastrectomy: Single Institution Cohort. Journal of Surgery Research and Practice",
+      "title": "Feasibility of Oral Vitamin B12 Supplementation After Total Gastrectomy: Single Institution Cohort",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Teja T, Sinnamon AJ, Pena LS, Reyna Forero SA, Dineen S, Mehta RJ, Gurd EN, Pimiento JM",
+      "journal": "Journal of Surgery Research and Practice"
     },
     {
-      "title": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq",
+      "title": "Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma",
       "pubmed_id": "39989973",
       "pmc_id": "PMC11844656",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Lin YC, Pimiento JM, Milano J, Riccardi D, Mckinnie N, Hume E, Sprow O, Diaz-Carraway S, Budnetz M, Hagen R, Al-Jumayli M, Pereira AL, Sinnamon AJ, Somasundaram A, Permuth JB, Tabriz AA, Turner K. Feasibility trial of STRONG: A digital intervention to improve nutritional management for individuals with esophageal and gastroesophageal junction cancer. Contemp Clin Trials Commun",
+      "title": "Feasibility trial of STRONG: A digital intervention to improve nutritional management for individuals with esophageal and gastroesophageal junction cancer",
       "pubmed_id": "39810840",
       "pmc_id": "PMC11732474",
       "year": "2025",
-      "journal": "43:101421",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Lin YC, Pimiento JM, Milano J, Riccardi D, Mckinnie N, Hume E, Sprow O, Diaz-Carraway S, Budnetz M, Hagen R, Al-Jumayli M, Pereira AL, Sinnamon AJ, Somasundaram A, Permuth JB, Tabriz AA, Turner K",
+      "journal": "Contemp Clin Trials Commun"
     },
     {
-      "title": "Sinnamon AJ, Pimiento JM. Invited commentary on \"Outcomes of minimally invasive vs open total gastrectomy for gastric adenocarcinoma\". J Gastrointest Surg",
-      "pubmed_id": "40480420",
-      "year": "2025",
-      "journal": "29(8):102108",
-      "authors": ""
-    },
-    {
-      "title": "Saeed SH, Sinnamon AJ, Fontaine JP, Mehta RJ, Baldonado JJR, Pena LR, Pereira AAL, Hoffe SE, Frakes JM, Pimiento JM. Survival after esophagectomy for metastatic esophageal cancer: should the role of surgery be reconsidered?. J Gastrointest Surg",
+      "title": "Survival after esophagectomy for metastatic esophageal cancer: should the role of surgery be reconsidered?",
       "pubmed_id": "40513811",
       "year": "2025",
-      "journal": "29(8):102118",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Saeed SH, Sinnamon AJ, Fontaine JP, Mehta RJ, Baldonado JJR, Pena LR, Pereira AAL, Hoffe SE, Frakes JM, Pimiento JM",
+      "journal": "J Gastrointest Surg"
+    },
+    {
+      "title": "Invited commentary on \"Outcomes of minimally invasive vs open total gastrectomy for gastric adenocarcinoma\"",
+      "pubmed_id": "40480420",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Sinnamon AJ, Pimiento JM",
+      "journal": "J Gastrointest Surg"
     }
   ],
   "grants": [
     {
-      "description": "Title: Exercise Prehabilitation for Locoregional Esophageal Cancer  \nAward Number: N/A  \nSponsor: SALGI ESOPHAGEAL CANCER RESEAR  \nParker, N. (PD/PI), Pimiento, J. (Co-PD/PI)"
+      "description": "Title: Exercise Prehabilitation for Locoregional Esophageal Cancer  \nAward Number: N/A  \nSponsor: SALGI ESOPHAGEAL CANCER RESEAR  \nParker, N. (PD/PI), Pimiento, J. (Co-PD/PI)",
+      "title": "Exercise Prehabilitation for Locoregional Esophageal Cancer",
+      "sponsor": "SALGI ESOPHAGEAL CANCER RESEAR",
+      "investigators": [
+        {
+          "name": "Parker, N.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Pimiento, J.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Support through Remote Observation and Nutrition Guidance (STRONG) program to reduce malnutrition among gastroesophageal cancer patients  \nAward Number: HT9425-24-1-0496  \nSponsor: Department of Defense (DOD)  \nPimiento, J. (PD/PI)",
+      "title": "Support through Remote Observation and Nutrition Guidance (STRONG) program to reduce malnutrition among gastroesophageal cancer patients",
+      "award_number": "HT9425-24-1-0496",
+      "sponsor": "Department of Defense (DOD)",
       "source": "DOD",
-      "period": "9425-24"
+      "investigators": [
+        {
+          "name": "Pimiento, J.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/PimientoJose_6667.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=6667"
   },
-  "content_hash": "33d10fb77f4ebd679762bd663fd2e50a8d085701112818e4b6777564090a2b88",
+  "content_hash": "97f8919dfeb8d22132c1c2e1cde3b275c4146dc8e98e5a4eb20d45ff08704919",
   "researcher_name": "Jose Pimiento",
   "department": "Tumor Microenvironment and Metastasis"
 }

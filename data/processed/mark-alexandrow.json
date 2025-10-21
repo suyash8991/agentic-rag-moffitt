@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mark-alexandrow",
-  "last_updated": "2025-10-19T00:25:22.477043",
+  "last_updated": "2025-10-21T16:34:25.368488",
   "researcher_id": "3471",
   "degrees": [
     "PhD"
@@ -36,96 +36,114 @@
   ],
   "publications": [
     {
-      "title": "Xiang S, Craig KC, Luo X, Welch DL, Ferreira RB, Lawrence HR, Lawrence NJ, Reed DR, Alexandrow MG. Identification of ATP-Competitive Human CMG Helicase Inhibitors for Cancer Intervention that Disrupt CMG-Replisome Function. Mol Cancer Ther",
+      "title": "Identification of ATP-Competitive Human CMG Helicase Inhibitors for Cancer Intervention that Disrupt CMG-Replisome Function",
       "pubmed_id": "38982858",
       "pmc_id": "PMC11532780",
       "year": "2024",
-      "journal": "23(11):1568-1585",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Xiang S, Craig KC, Luo X, Welch DL, Ferreira RB, Lawrence HR, Lawrence NJ, Reed DR, Alexandrow MG",
+      "journal": "Mol Cancer Ther"
     },
     {
-      "title": "Welch DL, Fridley BL, Cen L, Teer JK, Yoder SJ, Pettersson F, Xu L, Cheng CH, Zhang Y, Alexandrow MG, Xiang S, Robertson-Tessi M, Brown JS, Metts J, Brohl AS, Reed DR. Modeling phenotypic heterogeneity towards evolutionarily inspired osteosarcoma therapy. Sci Rep",
+      "title": "Modeling phenotypic heterogeneity towards evolutionarily inspired osteosarcoma therapy",
       "pubmed_id": "37978271",
       "pmc_id": "PMC10656496",
       "year": "2023",
-      "journal": "13(1):20125",
-      "authors": ""
+      "publication_date": "2023 Nov",
+      "authors": "Welch DL, Fridley BL, Cen L, Teer JK, Yoder SJ, Pettersson F, Xu L, Cheng CH, Zhang Y, Alexandrow MG, Xiang S, Robertson-Tessi M, Brown JS, Metts J, Brohl AS, Reed DR",
+      "journal": "Sci Rep"
     },
     {
-      "title": "Xiang S, Reed DR, Alexandrow MG. The CMG helicase and cancer: a tumor \"engine\" and weakness with missing mutations. Oncogene",
+      "title": "The CMG helicase and cancer: a tumor \"engine\" and weakness with missing mutations",
       "pubmed_id": "36522488",
       "pmc_id": "PMC9948756",
       "year": "2023",
-      "journal": "42(7):473-490",
-      "authors": ""
+      "publication_date": "2023 Feb",
+      "authors": "Xiang S, Reed DR, Alexandrow MG",
+      "journal": "Oncogene"
     },
     {
-      "title": "Reed DR, Metts J, Pressley M, Fridley BL, Hayashi M, Isakoff MS, Loeb DM, Makanji R, Roberts RD, Trucco M, Wagner LM, Alexandrow MG, Gatenby RA, Brown JS. An evolutionary framework for treating pediatric sarcomas. Cancer",
+      "title": "An evolutionary framework for treating pediatric sarcomas",
       "pubmed_id": "32176331",
       "pmc_id": "PMC7318114",
       "year": "2020",
-      "journal": "126(11):2577-2587",
-      "authors": ""
+      "publication_date": "2020 Jun",
+      "authors": "Reed DR, Metts J, Pressley M, Fridley BL, Hayashi M, Isakoff MS, Loeb DM, Makanji R, Roberts RD, Trucco M, Wagner LM, Alexandrow MG, Gatenby RA, Brown JS",
+      "journal": "Cancer"
     },
     {
-      "title": "Reed DR, Alexandrow MG. Myc and the Replicative CMG Helicase: The Creation and Destruction of Cancer: Myc Over-Activation of CMG Helicases Drives Tumorigenesis and Creates a Vulnerability in CMGs for Therapeutic Intervention. Bioessays",
+      "title": "Myc and the Replicative CMG Helicase: The Creation and Destruction of Cancer: Myc Over-Activation of CMG Helicases Drives Tumorigenesis and Creates a Vulnerability in CMGs for Therapeutic Intervention",
       "pubmed_id": "32080866",
       "pmc_id": "PMC8223603",
       "year": "2020",
-      "journal": "42(4):e1900218",
-      "authors": ""
+      "publication_date": "2020 Apr",
+      "authors": "Reed DR, Alexandrow MG",
+      "journal": "Bioessays"
     },
     {
-      "title": "Nepon-Sixt BS, Bryant VL, Alexandrow MG. Myc-driven chromatin accessibility regulates Cdc45 assembly into CMG helicases. Commun Biol",
+      "title": "Myc-driven chromatin accessibility regulates Cdc45 assembly into CMG helicases",
       "pubmed_id": "31924949",
       "year": "2019",
-      "journal": "2(1):110",
-      "authors": ""
+      "publication_date": "2019 Mar",
+      "authors": "Nepon-Sixt BS, Bryant VL, Alexandrow MG",
+      "journal": "Commun Biol"
     },
     {
-      "title": "Nepon-Sixt BS, Bryant VL, Alexandrow MG. Myc-driven chromatin accessibility regulates Cdc45 assembly into CMG helicases. Commun Biol",
+      "title": "Myc-driven chromatin accessibility regulates Cdc45 assembly into CMG helicases",
       "pubmed_id": "30911685",
       "pmc_id": "PMC6430796",
       "year": "2019",
-      "journal": "2:110",
-      "authors": ""
+      "publication_date": "2019 Mar",
+      "authors": "Nepon-Sixt BS, Bryant VL, Alexandrow MG",
+      "journal": "Commun Biol"
     },
     {
-      "title": "Nepon-Sixt BS, Alexandrow MG. TGF\u03b21 Cell Cycle Arrest Is Mediated by Inhibition of MCM Assembly in Rb-Deficient Conditions. Mol Cancer Res",
+      "title": "TGF\u03b21 Cell Cycle Arrest Is Mediated by Inhibition of MCM Assembly in Rb-Deficient Conditions",
       "pubmed_id": "30257992",
       "pmc_id": "PMC6318023",
       "year": "2019",
-      "journal": "17(1):277-288",
-      "authors": ""
+      "publication_date": "2019 Jan",
+      "authors": "Nepon-Sixt BS, Alexandrow MG",
+      "journal": "Mol Cancer Res"
     },
     {
-      "title": "Nepon-Sixt BS, Alexandrow MG. DNase I Chromatin Accessibility Analysis. Bio Protoc",
+      "title": "DNase I Chromatin Accessibility Analysis",
       "pubmed_id": "33654939",
       "pmc_id": "PMC7854364",
       "year": "2019",
-      "journal": "9(23):e3444",
-      "authors": ""
+      "publication_date": "2019 Dec",
+      "authors": "Nepon-Sixt BS, Alexandrow MG",
+      "journal": "Bio Protoc"
     },
     {
-      "title": "Alexander LMM, Watters J, Reusch JA, Maurin M, Nepon-Sixt BS, Vrzalikova K, Alexandrow MG, Murray PG, Wright KL. Selective expression of the transcription elongation factor ELL3 in B cells prior to ELL2 drives proliferation and survival. Mol Immunol",
+      "title": "Selective expression of the transcription elongation factor ELL3 in B cells prior to ELL2 drives proliferation and survival",
       "pubmed_id": "28858629",
       "pmc_id": "PMC5653440",
       "year": "2017",
-      "journal": "91:8-16",
-      "authors": ""
+      "publication_date": "2017 Nov",
+      "authors": "Alexander LMM, Watters J, Reusch JA, Maurin M, Nepon-Sixt BS, Vrzalikova K, Alexandrow MG, Murray PG, Wright KL",
+      "journal": "Mol Immunol"
     }
   ],
   "grants": [
     {
       "description": "Title: Direct Control of the human CMG Helicase by Myc and Rb  \nAward Number: 5R01GM140140-02  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nAlexandrow, M. (PD/PI)",
-      "period": "0140-02"
+      "title": "Direct Control of the human CMG Helicase by Myc and Rb",
+      "award_number": "5R01GM140140-02",
+      "sponsor": "National Institute of General Medical Sciences (NIGMS)",
+      "investigators": [
+        {
+          "name": "Alexandrow, M.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AlexandrowMark_3471.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3471"
   },
-  "content_hash": "5dd8997c343d40016741d2d33851e155c0e4af1d878fc77fe4db2cd8a4f4ab7e",
+  "content_hash": "d067404f6a721157058db3d4e20fca57e4de54c8d3dffb9f62fc1e8fbf58afff",
   "researcher_name": "Mark Alexandrow",
   "department": "Molecular Oncology"
 }

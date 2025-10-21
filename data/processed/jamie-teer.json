@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jamie-teer",
-  "last_updated": "2025-10-19T00:24:05.274941",
+  "last_updated": "2025-10-21T16:33:07.473794",
   "researcher_id": "10966",
   "degrees": [
     "PhD"
@@ -34,109 +34,155 @@
   ],
   "publications": [
     {
-      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "title": "The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma",
       "pubmed_id": "40553455",
       "year": "2025",
-      "journal": "34(9):1609-1617",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
-      "title": "Maura F, Bergsagel PL, Ziccheddu B, Kumar S, Maclachlan K, Derkach A, Garces JJ, Firestone R, Braggio E, Asmann Y, Durante M, Diamond BT, Papadimitriou M, Hultcrantz M, Marella A, Castellano G, Maeda A, Lionetti M, Matera A, Pioggia S, Da Vi\u00e0 MC, de Magistris C, Leongamornlert D, DeAvila D, Sudalagunta PR, Canevarolo RR, Siegel EM, Agius P, Teer J, McPherson A, Yamashita Y, Silva AS, Blaney P, Baz R, Patel KK, Campbell P, Morgan G, Fonseca R, Landgren O, Orlowski RZ, Shain KH, Bolli N, Usmani S, Rajkumar SV. Genomics Define Malignant Transformation in Myeloma Precursor Conditions. J Clin Oncol",
+      "title": "Genomics Define Malignant Transformation in Myeloma Precursor Conditions",
       "pubmed_id": "41061199",
       "year": "2025",
-      "journal": "JCO2501733",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Maura F, Bergsagel PL, Ziccheddu B, Kumar S, Maclachlan K, Derkach A, Garces JJ, Firestone R, Braggio E, Asmann Y, Durante M, Diamond BT, Papadimitriou M, Hultcrantz M, Marella A, Castellano G, Maeda A, Lionetti M, Matera A, Pioggia S, Da Vi\u00e0 MC, de Magistris C, Leongamornlert D, DeAvila D, Sudalagunta PR, Canevarolo RR, Siegel EM, Agius P, Teer J, McPherson A, Yamashita Y, Silva AS, Blaney P, Baz R, Patel KK, Campbell P, Morgan G, Fonseca R, Landgren O, Orlowski RZ, Shain KH, Bolli N, Usmani S, Rajkumar SV",
+      "journal": "J Clin Oncol"
     },
     {
-      "title": "Gatenby RA, Teer JK, Tsai KY, Brown JS. Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas. Commun Biol",
-      "pubmed_id": "40399443",
-      "pmc_id": "PMC12095661",
-      "year": "2025",
-      "journal": "8(1):775",
-      "authors": ""
-    },
-    {
-      "title": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS. Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes. Nat Commun",
-      "pubmed_id": "40328759",
-      "pmc_id": "PMC12055966",
-      "year": "2025",
-      "journal": "16(1):4206",
-      "authors": ""
-    },
-    {
-      "title": "Coghill AE, Van Bibber N, Baiocchi RA, Arnold SM, Riedlinger G, Schneider BP, Zhang Y, Suneja G, Gomez Fontela M, Abate-Daga D, Teer JK. Elevated Tumor Mutation Burden in Cancer Patients with Underlying HIV Infection: Data from the Oncology Research Information Exchange Network (ORIEN). Cancer Epidemiol Biomarkers Prev",
-      "pubmed_id": "40019488",
-      "pmc_id": "PMC12048233",
-      "year": "2025",
-      "journal": "34(5):774-779",
-      "authors": ""
-    },
-    {
-      "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
+      "title": "Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy",
       "pubmed_id": "40341231",
       "year": "2025",
-      "journal": "6(5):801-819",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC",
+      "journal": "Nat Cancer"
     },
     {
-      "title": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL. Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles. Cancer Res",
+      "title": "Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles",
       "pubmed_id": "40126181",
       "pmc_id": "PMC12234169",
       "year": "2025",
-      "journal": "85(10):1928-1944",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Bari S, Matejcic M, Kim RD, Xie H, Sahin IH, Powers BD, Teer JK, Chan TA, Felder SI, Schmit SL. Practice Patterns and Survival Outcomes of Immunotherapy for Metastatic Colorectal Cancer. JAMA Netw Open",
+      "title": "Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas",
+      "pubmed_id": "40399443",
+      "pmc_id": "PMC12095661",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Gatenby RA, Teer JK, Tsai KY, Brown JS",
+      "journal": "Commun Biol"
+    },
+    {
+      "title": "Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes",
+      "pubmed_id": "40328759",
+      "pmc_id": "PMC12055966",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Elevated Tumor Mutation Burden in Cancer Patients with Underlying HIV Infection: Data from the Oncology Research Information Exchange Network (ORIEN)",
+      "pubmed_id": "40019488",
+      "pmc_id": "PMC12048233",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Coghill AE, Van Bibber N, Baiocchi RA, Arnold SM, Riedlinger G, Schneider BP, Zhang Y, Suneja G, Gomez Fontela M, Abate-Daga D, Teer JK",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
+    },
+    {
+      "title": "Practice Patterns and Survival Outcomes of Immunotherapy for Metastatic Colorectal Cancer",
       "pubmed_id": "40111368",
       "pmc_id": "PMC11926646",
       "year": "2025",
-      "journal": "8(3):e251186",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Bari S, Matejcic M, Kim RD, Xie H, Sahin IH, Powers BD, Teer JK, Chan TA, Felder SI, Schmit SL",
+      "journal": "JAMA Netw Open"
     },
     {
-      "title": "Peeri NC, Teer JK, Thompson ZJ, Nabors LB, Brooks M, Sologon CM, Williams SL, Egan KM. Glioma grade and mortality in relation to sequence variation in the mitochondrial genome. Cancer Genet",
+      "title": "Glioma grade and mortality in relation to sequence variation in the mitochondrial genome",
       "pubmed_id": "40382795",
       "pmc_id": "PMC12124938",
       "year": "2025",
-      "journal": "294-295:171-180",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Peeri NC, Teer JK, Thompson ZJ, Nabors LB, Brooks M, Sologon CM, Williams SL, Egan KM",
+      "journal": "Cancer Genet"
     },
     {
-      "title": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH. The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma. Cancer Res",
+      "title": "The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma",
       "pubmed_id": "39476082",
       "pmc_id": "PMC11733535",
       "year": "2025",
-      "journal": "85(2):378-398",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH",
+      "journal": "Cancer Res"
     }
   ],
   "grants": [
     {
       "description": "Title: Molecular Drivers of Lung Cancer in Hispanics  \nAward Number: 5R21CA259215-02  \nSponsor: National Cancer Institute (NCI)  \nCress, W. (PD/PI), Teer, J. (PD/PI)",
+      "title": "Molecular Drivers of Lung Cancer in Hispanics",
+      "award_number": "5R21CA259215-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "9215-02"
+      "investigators": [
+        {
+          "name": "Cress, W.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Teer, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Analysis of Genetic Ancestry Across the ORIEN Network  \nAward Number: 014487-00001  \nSponsor: COMMUNITY FOUNDATION OF TAMPA  \nTeer, J. (PD/PI)",
-      "period": "4487-0000"
+      "title": "Analysis of Genetic Ancestry Across the ORIEN Network",
+      "award_number": "014487-00001",
+      "sponsor": "COMMUNITY FOUNDATION OF TAMPA",
+      "investigators": [
+        {
+          "name": "Teer, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Biological Determinants of Colorectal Cancer Outcomes in Latinos of Diverse Ancestral Origins  \nAward Number: 5R01CA238087-05  \nSponsor: National Cancer Institute (NCI)  \nTeer, J. (PD/PI)",
+      "title": "Biological Determinants of Colorectal Cancer Outcomes in Latinos of Diverse Ancestral Origins",
+      "award_number": "5R01CA238087-05",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "8087-05"
+      "investigators": [
+        {
+          "name": "Teer, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Variation in Tumor-Associated Immune Profiles and Colorectal Cancer Outcomes Across Populations of Diverse Ancestral Origins  \nAward Number: 5R01CA248931-03  \nSponsor: National Cancer Institute (NCI)  \nTeer, J. (PD/PI)",
+      "title": "Variation in Tumor-Associated Immune Profiles and Colorectal Cancer Outcomes Across Populations of Diverse Ancestral Origins",
+      "award_number": "5R01CA248931-03",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "8931-03"
+      "investigators": [
+        {
+          "name": "Teer, J.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TeerJamie_10966.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10966"
   },
-  "content_hash": "94235fc70a53008d4156fba00ca622e8800502387b3e2fcd9fa995051ead35bd",
+  "content_hash": "8a194faafbb05cc2f493f4c02d1d23657039c76892ff58619382dff162457336",
   "researcher_name": "Jamie Teer",
   "department": "Biostatistics and Bioinformatics"
 }

@@ -49,6 +49,14 @@ def create_vector_db(chunks: Optional[List[ResearcherChunk]] = None):
         Chroma: The vector database
     """
     try:
+        logger.info("Starting vector database creation")
+        
+        # Log structured event for database creation start
+        log_vector_db_event("db_creation_start", {
+            "chunks_provided": chunks is not None,
+            "chunk_count": len(chunks) if chunks else 0
+        })
+        
         # Create the directory for the vector database if it doesn't exist
         os.makedirs(settings.vector_db_dir, exist_ok=True)
 
@@ -57,6 +65,7 @@ def create_vector_db(chunks: Optional[List[ResearcherChunk]] = None):
 
         # If chunks is None, load all chunks
         if chunks is None:
+            logger.info("Loading all chunks from data loader")
             chunks = load_all_chunks()
 
         # Proceed with chunk processing directly
@@ -101,10 +110,27 @@ def create_vector_db(chunks: Optional[List[ResearcherChunk]] = None):
         )
 
         logger.info(f"Vector database created with {len(chunks)} chunks")
+        
+        # Log successful completion
+        log_vector_db_event("db_creation_complete", {
+            "chunk_count": len(chunks),
+            "text_count": len(texts),
+            "metadata_count": len(metadatas),
+            "id_count": len(ids)
+        })
+        
         return db
 
     except Exception as e:
         logger.error(f"Failed to create vector database: {e}")
+        
+        # Log structured error event
+        log_vector_db_event("db_creation_error", {
+            "error": str(e),
+            "error_type": type(e).__name__,
+            "chunk_count": len(chunks) if chunks else 0
+        })
+        
         if "Expected IDs to be unique" in str(e):
             # Provide detailed information about the duplicates
             logger.error("Duplicate ID error detected in Chroma. Investigating...")

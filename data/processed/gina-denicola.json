@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/gina-denicola",
-  "last_updated": "2025-10-19T00:24:16.532618",
+  "last_updated": "2025-10-21T16:33:19.493503",
   "researcher_id": "17020",
   "degrees": [
     "PhD"
@@ -31,99 +31,127 @@
   ],
   "publications": [
     {
-      "title": "Sherwood AM, Yasseen BA, DeBlasi JM, Caldwell S, DeNicola GM. Distinct roles for the thioredoxin and glutathione antioxidant systems in Nrf2-Mediated lung tumor initiation and progression. Redox Biol",
+      "title": "Distinct roles for the thioredoxin and glutathione antioxidant systems in Nrf2-Mediated lung tumor initiation and progression",
       "pubmed_id": "40334547",
       "pmc_id": "PMC12133717",
       "year": "2025",
-      "journal": "83:103653",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Sherwood AM, Yasseen BA, DeBlasi JM, Caldwell S, DeNicola GM",
+      "journal": "Redox Biol"
     },
     {
-      "title": "Andreani C, Bartolacci C, Melegari M, Sargentoni N, Luciani L, Marucci A, Galeazzi R, DeNicola GM, Kilgore J, Williams N, Berto S, Gaetani M, Pattabhi P, Osman SS, Mansour AT, Pucciarelli S, Galassi R, Scaglioni PP. Thioredoxin Reductase 1 inhibition triggers ferroptosis in KRAS-independent lung cancers. bioRxiv",
+      "title": "Thioredoxin Reductase 1 inhibition triggers ferroptosis in KRAS-independent lung cancers",
       "pubmed_id": "40766571",
       "pmc_id": "PMC12324224",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Andreani C, Bartolacci C, Melegari M, Sargentoni N, Luciani L, Marucci A, Galeazzi R, DeNicola GM, Kilgore J, Williams N, Berto S, Gaetani M, Pattabhi P, Osman SS, Mansour AT, Pucciarelli S, Galassi R, Scaglioni PP",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Jasani N, Xu X, Posorske B, Kim Y, Wang K, Vera O, Tsai KY, DeNicola GM, Karreth FA. PHGDH Induction by MAPK Is Essential for Melanoma Formation and Creates an Actionable Metabolic Vulnerability. Cancer Res",
+      "title": "PHGDH Induction by MAPK Is Essential for Melanoma Formation and Creates an Actionable Metabolic Vulnerability",
       "pubmed_id": "39495254",
       "pmc_id": "PMC11735329",
       "year": "2025",
-      "journal": "85(2):314-328",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Jasani N, Xu X, Posorske B, Kim Y, Wang K, Vera O, Tsai KY, DeNicola GM, Karreth FA",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Messina MS, Torrente L, Pezacki AT, Humpel HI, Li EL, Miller SG, Verdejo-Torres O, Padilla-Benavides T, Brady DC, Killilea DW, Killilea AN, Ralle M, Ward NP, Ohata J, DeNicola GM, Chang CJ. A histochemical approach to activity-based copper sensing reveals cuproplasia-dependent vulnerabilities in cancer. Proc Natl Acad Sci U S A",
+      "title": "A histochemical approach to activity-based copper sensing reveals cuproplasia-dependent vulnerabilities in cancer",
       "pubmed_id": "39813247",
       "pmc_id": "PMC11761388",
       "year": "2025",
-      "journal": "122(3)",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Messina MS, Torrente L, Pezacki AT, Humpel HI, Li EL, Miller SG, Verdejo-Torres O, Padilla-Benavides T, Brady DC, Killilea DW, Killilea AN, Ralle M, Ward NP, Ohata J, DeNicola GM, Chang CJ",
+      "journal": "Proc Natl Acad Sci U S A"
     },
     {
-      "title": "Cuadrado A, Cazalla E, Bach A, Bathish B, Naidu SD, DeNicola GM, Dinkova-Kostova AT, Fern\u00e1ndez-Gin\u00e9s R, Grochot-Przeczek A, Hayes JD, Kensler TW, Le\u00f3n R, Liby KT, L\u00f3pez MG, Manda G, Shivakumar AK, Hakom\u00e4ki H, Moerland JA, Motohashi H, Rojo AI, Sykiotis GP, Taguchi K, Valverde \u00c1M, Yamamoto M, Levonen AL. Health position paper and redox perspectives - Bench to bedside transition for pharmacological regulation of NRF2 in noncommunicable diseases. Redox Biol",
+      "title": "Health position paper and redox perspectives - Bench to bedside transition for pharmacological regulation of NRF2 in noncommunicable diseases",
       "pubmed_id": "40059038",
       "pmc_id": "PMC11970334",
       "year": "2025",
-      "journal": "81:103569",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Cuadrado A, Cazalla E, Bach A, Bathish B, Naidu SD, DeNicola GM, Dinkova-Kostova AT, Fern\u00e1ndez-Gin\u00e9s R, Grochot-Przeczek A, Hayes JD, Kensler TW, Le\u00f3n R, Liby KT, L\u00f3pez MG, Manda G, Shivakumar AK, Hakom\u00e4ki H, Moerland JA, Motohashi H, Rojo AI, Sykiotis GP, Taguchi K, Valverde \u00c1M, Yamamoto M, Levonen AL",
+      "journal": "Redox Biol"
     },
     {
-      "title": "Berndt C, Alborzinia H, Amen VS, Ayton S, Barayeu U, Bartelt A, Bayir H, Bebber CM, Birsoy K, B\u00f6ttcher JP, Brabletz S, Brabletz T, Brown AR, Br\u00fcne B, Bulli G, Bruneau A, Chen Q, DeNicola GM, Dick TP, Dist\u00e9fano A, Dixon SJ, Engler JB, Esser-von Bieren J, Fedorova M, Friedmann Angeli JP, Friese MA, Fuhrmann DC, Garc\u00eda-S\u00e1ez AJ, Garbowicz K, G\u00f6tz M, Gu W, Hammerich L, Hassannia B, Jiang X, Jeridi A, Kang YP, Kagan VE, Konrad DB, Kotschi S, Lei P, Le Tertre M, Lev S, Liang D, Linkermann A, Lohr C, Lorenz S, Luedde T, Methner A, Michalke B, Milton AV, Min J, Mishima E, M\u00fcller S, Motohashi H, Muckenthaler MU, Murakami S, Olzmann JA, Pagnussat G, Pan Z, Papagiannakopoulos T, Pedrera Puentes L, Pratt DA, Proneth B, Ramsauer L, Rodriguez R, Saito Y, Schmidt F, Schmitt C, Schulze A, Schwab A, Schwantes A, Soula M, Spitzlberger B, Stockwell BR, Thewes L, Thorn-Seshold O, Toyokuni S, Tonnus W, Trumpp A, Vandenabeele P, Vanden Berghe T, Venkataramani V, Vogel FCE, von Karstedt S, Wang F, Westermann F, Wientjens C, Wilhelm C, W\u00f6lk M, Wu K, Yang X, Yu F, Zou Y, Conrad M. Ferroptosis in health and disease. Redox Biol",
+      "title": "Ferroptosis in health and disease",
       "pubmed_id": "38908072",
       "pmc_id": "PMC11253697",
       "year": "2024",
-      "journal": "75:103211",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Berndt C, Alborzinia H, Amen VS, Ayton S, Barayeu U, Bartelt A, Bayir H, Bebber CM, Birsoy K, B\u00f6ttcher JP, Brabletz S, Brabletz T, Brown AR, Br\u00fcne B, Bulli G, Bruneau A, Chen Q, DeNicola GM, Dick TP, Dist\u00e9fano A, Dixon SJ, Engler JB, Esser-von Bieren J, Fedorova M, Friedmann Angeli JP, Friese MA, Fuhrmann DC, Garc\u00eda-S\u00e1ez AJ, Garbowicz K, G\u00f6tz M, Gu W, Hammerich L, Hassannia B, Jiang X, Jeridi A, Kang YP, Kagan VE, Konrad DB, Kotschi S, Lei P, Le Tertre M, Lev S, Liang D, Linkermann A, Lohr C, Lorenz S, Luedde T, Methner A, Michalke B, Milton AV, Min J, Mishima E, M\u00fcller S, Motohashi H, Muckenthaler MU, Murakami S, Olzmann JA, Pagnussat G, Pan Z, Papagiannakopoulos T, Pedrera Puentes L, Pratt DA, Proneth B, Ramsauer L, Rodriguez R, Saito Y, Schmidt F, Schmitt C, Schulze A, Schwab A, Schwantes A, Soula M, Spitzlberger B, Stockwell BR, Thewes L, Thorn-Seshold O, Toyokuni S, Tonnus W, Trumpp A, Vandenabeele P, Vanden Berghe T, Venkataramani V, Vogel FCE, von Karstedt S, Wang F, Westermann F, Wientjens C, Wilhelm C, W\u00f6lk M, Wu K, Yang X, Yu F, Zou Y, Conrad M",
+      "journal": "Redox Biol"
     },
     {
-      "title": "Hecht F, Zocchi M, Tuttle ET, Ward NP, Smith B, Kang YP, Cazarin J, Soares ZG, Ozgurses ME, Zhao H, Sheehan C, Alimohammadi F, Munger LD, Trivedi D, Asantewaa G, Blick-Nitko SK, Zoeller JJ, Chen Y, Vasiliou V, Turner BM, Muir A, Coloff JL, Munger J, DeNicola GM, Harris IS. Catabolism of extracellular glutathione supplies amino acids to support tumor growth. bioRxiv",
+      "title": "Catabolism of extracellular glutathione supplies amino acids to support tumor growth",
       "pubmed_id": "39416022",
       "pmc_id": "PMC11482906",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Hecht F, Zocchi M, Tuttle ET, Ward NP, Smith B, Kang YP, Cazarin J, Soares ZG, Ozgurses ME, Zhao H, Sheehan C, Alimohammadi F, Munger LD, Trivedi D, Asantewaa G, Blick-Nitko SK, Zoeller JJ, Chen Y, Vasiliou V, Turner BM, Muir A, Coloff JL, Munger J, DeNicola GM, Harris IS",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Gantner BN, Palma FR, Pandkar MR, Sakiyama MJ, Arango D, DeNicola GM, Gomes AP, Bonini MG. Metabolism and epigenetics: drivers of tumor cell plasticity and treatment outcomes. Trends Cancer",
+      "title": "Metabolism and epigenetics: drivers of tumor cell plasticity and treatment outcomes",
       "pubmed_id": "39277448",
       "year": "2024",
-      "journal": "10(11):992-1008",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Gantner BN, Palma FR, Pandkar MR, Sakiyama MJ, Arango D, DeNicola GM, Gomes AP, Bonini MG",
+      "journal": "Trends Cancer"
     },
     {
-      "title": "Ward NP, Yoon SJ, Flynn T, Sherwood AM, Olley MA, Madej J, DeNicola GM. Mitochondrial respiratory function is preserved under cysteine starvation via glutathione catabolism in NSCLC. Nat Commun",
+      "title": "Mitochondrial respiratory function is preserved under cysteine starvation via glutathione catabolism in NSCLC",
       "pubmed_id": "38762605",
       "pmc_id": "PMC11102494",
       "year": "2024",
-      "journal": "15(1):4244",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Ward NP, Yoon SJ, Flynn T, Sherwood AM, Olley MA, Madej J, DeNicola GM",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Rawat V, DeLear P, Prashanth P, Ozgurses ME, Tebeje A, Burns PA, Conger KO, Sol\u00eds C, Hasnain Y, Novikova A, Endress JE, Gonz\u00e1lez-S\u00e1nchez P, Dong W, Stephanopoulos G, DeNicola GM, Harris I, Sept D, Mason FM, Coloff JL. Drug screening in human physiologic medium identifies uric acid as an inhibitor of rigosertib efficacy. JCI Insight",
+      "title": "Drug screening in human physiologic medium identifies uric acid as an inhibitor of rigosertib efficacy",
       "pubmed_id": "38815134",
       "year": "2024",
-      "journal": "9(13)",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Rawat V, DeLear P, Prashanth P, Ozgurses ME, Tebeje A, Burns PA, Conger KO, Sol\u00eds C, Hasnain Y, Novikova A, Endress JE, Gonz\u00e1lez-S\u00e1nchez P, Dong W, Stephanopoulos G, DeNicola GM, Harris I, Sept D, Mason FM, Coloff JL",
+      "journal": "JCI Insight"
     }
   ],
   "grants": [
     {
       "description": "Title: Investigation of NRF2-Dependent Metabolic Liabilities (R37 MERIT award)  \nAward Number: 4R37CA230042-06  \nSponsor: National Cancer Institute (NCI)  \nDeNicola, G. (PD/PI)",
+      "title": "Investigation of NRF2-Dependent Metabolic Liabilities (R37 MERIT award)",
+      "award_number": "4R37CA230042-06",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0042-06"
+      "investigators": [
+        {
+          "name": "DeNicola, G.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Impact of extracellular glutathione catabolism on triple-negative breast cancer  \nAward Number: 5R01CA269813-02  \nSponsor: National Cancer Institute (NCI)  \nDeNicola, G. (PD/PI)",
+      "title": "Impact of extracellular glutathione catabolism on triple-negative breast cancer",
+      "award_number": "5R01CA269813-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "9813-02"
+      "investigators": [
+        {
+          "name": "DeNicola, G.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DeNicolaGina_17020.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17020"
   },
-  "content_hash": "88f64c7d9d88c0dff764002ff85b6b1346a62462f45fec9c343a427bc09ce6ab",
+  "content_hash": "d26499b310560e4a3684b5eef02ce99c99aa7491823261000cad074fc60d66f6",
   "researcher_name": "Gina Denicola",
   "department": "Metabolism and Physiology"
 }

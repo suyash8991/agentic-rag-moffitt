@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/erin-george",
-  "last_updated": "2025-10-19T00:27:23.578612",
+  "last_updated": "2025-10-21T16:36:26.568270",
   "researcher_id": "34700",
   "degrees": [
     "MD"
@@ -37,99 +37,147 @@
   ],
   "publications": [
     {
-      "title": "Gallagher K, Sousa RS, Gatenbee C, Schenck R, Chen P, Citak T, Leither S, Mazzacurati L, Xella A, Zhou Z, Lemanne D, Rodriguez P, George E, Strobl MAR. Controlling treatment toxicity in ovarian cancer to prime the patient for tumor extinction therapy. bioRxiv",
+      "title": "Controlling treatment toxicity in ovarian cancer to prime the patient for tumor extinction therapy",
       "pubmed_id": "40791474",
       "pmc_id": "PMC12338546",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Gallagher K, Sousa RS, Gatenbee C, Schenck R, Chen P, Citak T, Leither S, Mazzacurati L, Xella A, Zhou Z, Lemanne D, Rodriguez P, George E, Strobl MAR",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Xu H, George E, Gallo D, Medvedev S, Wang X, Datta A, Kryczka R, Hyer ML, Fourtounis J, Stocco R, Aguado-Fraile E, Petrone A, Yin SY, Shiwram A, Liu F, Anderson M, Kim H, Greenberg RA, Marshall CG, Simpkins F. Targeting CCNE1 amplified ovarian and endometrial cancers by combined inhibition of PKMYT1 and ATR. Nat Commun",
+      "title": "Targeting CCNE1 amplified ovarian and endometrial cancers by combined inhibition of PKMYT1 and ATR",
       "pubmed_id": "40169546",
       "pmc_id": "PMC11962063",
       "year": "2025",
-      "journal": "16(1):3112",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Xu H, George E, Gallo D, Medvedev S, Wang X, Datta A, Kryczka R, Hyer ML, Fourtounis J, Stocco R, Aguado-Fraile E, Petrone A, Yin SY, Shiwram A, Liu F, Anderson M, Kim H, Greenberg RA, Marshall CG, Simpkins F",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Xu H, George E, Gallo D, Medvedev S, Wang X, Kryczka R, Hyer ML, Fourtounis J, Stocco R, Aguado-Fraile E, Petrone A, Yin SY, Shiwram A, Anderson M, Kim H, Liu F, Marshall CG, Simpkins F. Targeting CCNE1 amplified ovarian and endometrial cancers by combined inhibition of PKMYT1 and ATR. Res Sq",
+      "title": "Targeting CCNE1 amplified ovarian and endometrial cancers by combined inhibition of PKMYT1 and ATR",
       "pubmed_id": "38410486",
       "pmc_id": "PMC10896384",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Feb",
+      "authors": "Xu H, George E, Gallo D, Medvedev S, Wang X, Kryczka R, Hyer ML, Fourtounis J, Stocco R, Aguado-Fraile E, Petrone A, Yin SY, Shiwram A, Anderson M, Kim H, Liu F, Marshall CG, Simpkins F",
+      "journal": "Res Sq"
     },
     {
-      "title": "Cutri-French C, Nasioudis D, George E, Tanyi JL. CAR-T Cell Therapy in Ovarian Cancer: Where Are We Now?. Diagnostics (Basel)",
+      "title": "CAR-T Cell Therapy in Ovarian Cancer: Where Are We Now?",
       "pubmed_id": "38667465",
       "pmc_id": "PMC11049291",
       "year": "2024",
-      "journal": "14(8)",
-      "authors": ""
+      "publication_date": "2024 Apr",
+      "authors": "Cutri-French C, Nasioudis D, George E, Tanyi JL",
+      "journal": "Diagnostics (Basel)"
     },
     {
-      "title": "Kinose Y, Xu H, Kim H, Kumar S, Shan X, George E, Wang X, Medvedev S, Ferman B, Gitto SB, Whicker M, D'Andrea K, Wubbenhorst B, Hallberg D, O'Connor M, Schwartz LE, Hwang WT, Nathanson KL, Mills GB, Velculescu VE, Wang TL, Brown EJ, Drapkin R, Simpkins F. Dual blockade of BRD4 and ATR/WEE1 pathways exploits ARID1A loss in clear cell ovarian cancer. Res Sq",
+      "title": "Dual blockade of BRD4 and ATR/WEE1 pathways exploits ARID1A loss in clear cell ovarian cancer",
       "pubmed_id": "37841875",
       "pmc_id": "PMC10571599",
       "year": "2023",
-      "authors": ""
+      "publication_date": "2023 Sep",
+      "authors": "Kinose Y, Xu H, Kim H, Kumar S, Shan X, George E, Wang X, Medvedev S, Ferman B, Gitto SB, Whicker M, D'Andrea K, Wubbenhorst B, Hallberg D, O'Connor M, Schwartz LE, Hwang WT, Nathanson KL, Mills GB, Velculescu VE, Wang TL, Brown EJ, Drapkin R, Simpkins F",
+      "journal": "Res Sq"
     },
     {
-      "title": "Gitto SB, George E, Medvedev S, Simpkins F, Powell DJ. Humanized Patient-Derived Xenograft Models of Ovarian Cancer. Methods Mol Biol",
+      "title": "Humanized Patient-Derived Xenograft Models of Ovarian Cancer",
       "pubmed_id": "34918300",
       "year": "2022",
-      "journal": "2424:255-274",
-      "authors": ""
+      "publication_date": "2022 Jan",
+      "authors": "Gitto SB, George E, Medvedev S, Simpkins F, Powell DJ",
+      "journal": "Methods Mol Biol"
     },
     {
-      "title": "Xu H, George E, Kinose Y, Kim H, Shah JB, Peake JD, Ferman B, Medvedev S, Murtha T, Barger CJ, Devins KM, D'Andrea K, Wubbenhorst B, Schwartz LE, Hwang WT, Mills GB, Nathanson KL, Karpf AR, Drapkin R, Brown EJ, Simpkins F. CCNE1 copy number is a biomarker for response to combination WEE1-ATR inhibition in ovarian and endometrial cancer models. Cell Rep Med",
+      "title": "CCNE1 copy number is a biomarker for response to combination WEE1-ATR inhibition in ovarian and endometrial cancer models",
       "pubmed_id": "34622231",
       "pmc_id": "PMC8484689",
       "year": "2021",
-      "journal": "2(9):100394",
-      "authors": ""
+      "publication_date": "2021 Sep",
+      "authors": "Xu H, George E, Kinose Y, Kim H, Shah JB, Peake JD, Ferman B, Medvedev S, Murtha T, Barger CJ, Devins KM, D'Andrea K, Wubbenhorst B, Schwartz LE, Hwang WT, Mills GB, Nathanson KL, Karpf AR, Drapkin R, Brown EJ, Simpkins F",
+      "journal": "Cell Rep Med"
     },
     {
-      "title": "K\u00f3der G, Olasz J, Tanyi JL, George E, T\u00f3th L, Antal-Szalm\u00e1s P, Nagy B, Bub\u00e1n T, Andr\u00e1s C, Urbancsek H, Laczik M, Csuka O, Damjanovich L, Tanyi M. Identification of Novel Pathogenic Sequence Variants of the Mismatch Repair Genes During Screening for Lynch Syndrome in a Single Centre of Eastern Hungary. J Gastrointest Cancer",
+      "title": "Identification of Novel Pathogenic Sequence Variants of the Mismatch Repair Genes During Screening for Lynch Syndrome in a Single Centre of Eastern Hungary",
       "pubmed_id": "31939059",
       "pmc_id": "PMC7399673",
       "year": "2020",
-      "journal": "51(3):1007-1015",
-      "authors": ""
+      "publication_date": "2020 Sep",
+      "authors": "K\u00f3der G, Olasz J, Tanyi JL, George E, T\u00f3th L, Antal-Szalm\u00e1s P, Nagy B, Bub\u00e1n T, Andr\u00e1s C, Urbancsek H, Laczik M, Csuka O, Damjanovich L, Tanyi M",
+      "journal": "J Gastrointest Cancer"
     },
     {
-      "title": "Kim H, Xu H, George E, Hallberg D, Kumar S, Jagannathan V, Medvedev S, Kinose Y, Devins K, Verma P, Ly K, Wang Y, Greenberg RA, Schwartz L, Johnson N, Scharpf RB, Mills GB, Zhang R, Velculescu VE, Brown EJ, Simpkins F. Combining PARP with ATR inhibition overcomes PARP inhibitor and platinum resistance in ovarian cancer models. Nat Commun",
+      "title": "Combining PARP with ATR inhibition overcomes PARP inhibitor and platinum resistance in ovarian cancer models",
       "pubmed_id": "32709856",
       "pmc_id": "PMC7381609",
       "year": "2020",
-      "journal": "11(1):3726",
-      "authors": ""
+      "publication_date": "2020 Jul",
+      "authors": "Kim H, Xu H, George E, Hallberg D, Kumar S, Jagannathan V, Medvedev S, Kinose Y, Devins K, Verma P, Ly K, Wang Y, Greenberg RA, Schwartz L, Johnson N, Scharpf RB, Mills GB, Zhang R, Velculescu VE, Brown EJ, Simpkins F",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Tanyi JL, George E. Personalized vaccination against ovarian cancer: what are the possibilities?. Expert Rev Vaccines",
+      "title": "Personalized vaccination against ovarian cancer: what are the possibilities?",
       "pubmed_id": "30362844",
       "pmc_id": "PMC6592278",
       "year": "2018",
-      "journal": "17(11):955-958",
-      "authors": ""
+      "publication_date": "2018 Nov",
+      "authors": "Tanyi JL, George E",
+      "journal": "Expert Rev Vaccines"
     }
   ],
   "grants": [
     {
-      "description": "Title: Evolutionarily informed therapies in recurrent ovarian cancer  \nAward Number: ECIG-2025-3-1874  \nSponsor: Ovarian Cancer Research Alliance (OCRA)  \nGeorge, E. (PD/PI)"
+      "description": "Title: Evolutionarily informed therapies in recurrent ovarian cancer  \nAward Number: ECIG-2025-3-1874  \nSponsor: Ovarian Cancer Research Alliance (OCRA)  \nGeorge, E. (PD/PI)",
+      "title": "Evolutionarily informed therapies in recurrent ovarian cancer",
+      "award_number": "ECIG-2025-3-1874",
+      "sponsor": "Ovarian Cancer Research Alliance (OCRA)",
+      "investigators": [
+        {
+          "name": "George, E.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Patient derived 3D microtumor explant culture in ovarian cancer to inform therapeutic approaches  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nGeorge, E. (PD/PI)",
-      "source": "American Cancer Society"
+      "title": "Patient derived 3D microtumor explant culture in ovarian cancer to inform therapeutic approaches",
+      "award_number": "",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "George, E.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Lab Studies Using in Vitro 3D Model  \nAward Number: 23VA012  \nSponsor: MERCK & CO., INC.  \nSawyer, W. (PD/PI), George, E. (Co-PD/PI), Nguyen, D. (Co-PD/PI)"
+      "description": "Title: Lab Studies Using in Vitro 3D Model  \nAward Number: 23VA012  \nSponsor: MERCK & CO., INC.  \nSawyer, W. (PD/PI), George, E. (Co-PD/PI), Nguyen, D. (Co-PD/PI)",
+      "title": "Lab Studies Using in Vitro 3D Model",
+      "award_number": "23VA012",
+      "sponsor": "MERCK & CO., INC.",
+      "investigators": [
+        {
+          "name": "Sawyer, W.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "George, E.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Nguyen, D.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GeorgeErin_34700.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=34700"
   },
-  "content_hash": "43ccb38260d7661bba5103e04e23e314b30a575cd7eca6190fa598771fea8fc7",
+  "content_hash": "c03c25acaf4e992b978dad938b9082707277690c488519db58882766d000cdb6",
   "researcher_name": "Erin George",
   "department": "Drug Discovery"
 }

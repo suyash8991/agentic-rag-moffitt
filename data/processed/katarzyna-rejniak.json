@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/katarzyna-rejniak",
-  "last_updated": "2025-10-19T00:24:57.136106",
+  "last_updated": "2025-10-21T16:33:59.974682",
   "researcher_id": "4695",
   "degrees": [
     "PhD"
@@ -43,101 +43,145 @@
   ],
   "publications": [
     {
-      "title": "Chamseddine I, Kambara M, Bhatt P, Pilon-Thomas S, Rejniak KA. Optimizing the Efficacy of Vaccine-Induced Immunotherapy in Melanomas. Bull Math Biol",
+      "title": "Optimizing the Efficacy of Vaccine-Induced Immunotherapy in Melanomas",
       "pubmed_id": "40434675",
       "pmc_id": "PMC12279038",
       "year": "2025",
-      "journal": "87(7):86",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Chamseddine I, Kambara M, Bhatt P, Pilon-Thomas S, Rejniak KA",
+      "journal": "Bull Math Biol"
     },
     {
-      "title": "Chamseddine I, Kambara M, Bhatt P, Pilon-Thomas S, Rejniak KA. Optimizing the Efficacy of Vaccine-Induced Immunotherapy in Melanomas. bioRxiv",
+      "title": "Optimizing the Efficacy of Vaccine-Induced Immunotherapy in Melanomas",
       "pubmed_id": "39829889",
       "pmc_id": "PMC11741369",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Chamseddine I, Kambara M, Bhatt P, Pilon-Thomas S, Rejniak KA",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq",
+      "title": "Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma",
       "pubmed_id": "39989973",
       "pmc_id": "PMC11844656",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Nagy MZ, Plaza-Rojas LB, Boucher JC, Kostenko E, Austin AL, Tarhini AA, Chen Z, Du D, Ojwang' AME, Davis J, Obermayer A, Rejniak KA, Shaw TI, Guevara-Patino JA. Effector T cells under hypoxia have an altered transcriptome similar to tumor-stressed T cells found in non-responsive melanoma patients. J Immunother Cancer",
+      "title": "Effector T cells under hypoxia have an altered transcriptome similar to tumor-stressed T cells found in non-responsive melanoma patients",
       "pubmed_id": "40010774",
       "year": "2025",
-      "journal": "13(2)",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Nagy MZ, Plaza-Rojas LB, Boucher JC, Kostenko E, Austin AL, Tarhini AA, Chen Z, Du D, Ojwang' AME, Davis J, Obermayer A, Rejniak KA, Shaw TI, Guevara-Patino JA",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Hu A, Ojwang' AME, Olumoyin KD, Rejniak KA. LinG3D: visualizing the spatio-temporal dynamics of clonal evolution. BMC Bioinformatics",
+      "title": "LinG3D: visualizing the spatio-temporal dynamics of clonal evolution",
       "pubmed_id": "38802748",
       "pmc_id": "PMC11131251",
       "year": "2024",
-      "journal": "25(1):201",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Hu A, Ojwang' AME, Olumoyin KD, Rejniak KA",
+      "journal": "BMC Bioinformatics"
     },
     {
-      "title": "Ojwang' AME, Bazargan S, Johnson JO, Pilon-Thomas S, Rejniak KA. Histology-guided mathematical model of tumor oxygenation: sensitivity analysis of physical and computational parameters. bioRxiv",
+      "title": "Histology-guided mathematical model of tumor oxygenation: sensitivity analysis of physical and computational parameters",
       "pubmed_id": "38496532",
       "pmc_id": "PMC10942376",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Ojwang' AME, Bazargan S, Johnson JO, Pilon-Thomas S, Rejniak KA",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Hu A, Ojwang' AME, Olumoyin KD, Rejniak KA. Visualizing the Spatio-Temporal Dynamics of Clonal Evolution with LinG3D software. bioRxiv",
+      "title": "Visualizing the Spatio-Temporal Dynamics of Clonal Evolution with LinG3D software",
       "pubmed_id": "38496472",
       "pmc_id": "PMC10942425",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Hu A, Ojwang' AME, Olumoyin KD, Rejniak KA",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Mathur S, Chen S, Rejniak KA. Exploring chronic and transient tumor hypoxia for predicting the efficacy of hypoxia-activated pro-drugs. NPJ Syst Biol Appl",
+      "title": "Exploring chronic and transient tumor hypoxia for predicting the efficacy of hypoxia-activated pro-drugs",
       "pubmed_id": "38182612",
       "pmc_id": "PMC10770176",
       "year": "2024",
-      "journal": "10(1):1",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Mathur S, Chen S, Rejniak KA",
+      "journal": "NPJ Syst Biol Appl"
     },
     {
-      "title": "Bazargan S, Bunch B, Ojwang' AME, Blauvelt J, Landin A, Ali J, Abrahams D, Cox C, Hall AM, Beatty MS, Poch M, Rejniak KA, Pilon-Thomas S. Targeting myeloid-derived suppressor cells with gemcitabine to enhance efficacy of adoptive cell therapy in bladder cancer. Front Immunol",
+      "title": "Targeting myeloid-derived suppressor cells with gemcitabine to enhance efficacy of adoptive cell therapy in bladder cancer",
       "pubmed_id": "37901214",
       "pmc_id": "PMC10602731",
       "year": "2023",
-      "journal": "14:1275375",
-      "authors": ""
+      "publication_date": "2023 Oct",
+      "authors": "Bazargan S, Bunch B, Ojwang' AME, Blauvelt J, Landin A, Ali J, Abrahams D, Cox C, Hall AM, Beatty MS, Poch M, Rejniak KA, Pilon-Thomas S",
+      "journal": "Front Immunol"
     },
     {
-      "title": "Poonja S, Forero Pinto A, Lloyd MC, Damaghi M, Rejniak KA. Dynamics of Fibril Collagen Remodeling by Tumor Cells: A Model of Tumor-Associated Collagen Signatures. Cells",
+      "title": "Dynamics of Fibril Collagen Remodeling by Tumor Cells: A Model of Tumor-Associated Collagen Signatures",
       "pubmed_id": "38067116",
       "pmc_id": "PMC10705683",
       "year": "2023",
-      "journal": "12(23)",
-      "authors": ""
+      "publication_date": "2023 Nov",
+      "authors": "Poonja S, Forero Pinto A, Lloyd MC, Damaghi M, Rejniak KA",
+      "journal": "Cells"
     }
   ],
   "grants": [
     {
       "description": "Title: Mathematical Model-Guided Adoptive Immunotherapy in Bladder Cancer  \nAward Number: 5R01CA259387-04  \nSponsor: National Cancer Institute (NCI)  \nPilon-Thomas, S. (PD/PI), Rejniak, K. (PD/PI)",
+      "title": "Mathematical Model-Guided Adoptive Immunotherapy in Bladder Cancer",
+      "award_number": "5R01CA259387-04",
+      "sponsor": "National Cancer Institute (NCI)  \nPilon-",
       "source": "NCI",
-      "period": "9387-04"
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Rejniak, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Modeling the Role and Regulation of Reactive Stroma in Breast Ductal Carcinoma Microinvasions  \nAward Number: 5R01CA272601  \nSponsor: National Cancer Institute (NCI)  \nRejniak, K. (PD/PI)",
-      "source": "NCI"
+      "title": "Modeling the Role and Regulation of Reactive Stroma in Breast Ductal Carcinoma Microinvasions",
+      "award_number": "5R01CA272601",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Rejniak, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Development of Adoptive T-Cell Therapy in Bladder Cancer Incorporating Patient-Specific Tumor Microenvironment  \nAward Number: W81XWH2210340  \nSponsor: Department of Defense (DOD)  \nRejniak, K. (PD/PI)",
-      "source": "DOD"
+      "title": "Development of Adoptive T-Cell Therapy in Bladder Cancer Incorporating Patient-Specific Tumor Microenvironment",
+      "award_number": "W81XWH2210340",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Rejniak, K.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers/RejniakKatarzyna_4695.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4695"
   },
-  "content_hash": "e9a6d067555b35cf40e12fd45603b7de934a31dcd0f47ed33ae41920668e1e98",
+  "content_hash": "4f47c5a0b59941bae97c26fdc9e6340eade932e7e2ea6a20a6e20b149c81d5b2",
   "researcher_name": "Katarzyna Rejniak",
   "department": "Integrated Mathematical Oncology"
 }

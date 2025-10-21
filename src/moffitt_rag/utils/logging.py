@@ -21,9 +21,15 @@ from typing import Optional, Dict, Any, Callable, Type, Union, List, Tuple
 # By default, logs will be stored in a 'logs' directory at the project root
 DEFAULT_LOG_DIR = Path(__file__).parent.parent.parent.parent / "logs"
 
+# Global flag to track if logging has been initialized
+_LOGGING_INITIALIZED = False
+
+# Dictionary to track initialized structured loggers to prevent duplicates
+_INITIALIZED_STRUCTURED_LOGGERS = {}
+
 # Define log levels for different environments
 LOG_LEVELS = {
-    "dev": logging.DEBUG,
+    "dev": logging.INFO,  # Changed from DEBUG to INFO to reduce verbosity
     "test": logging.INFO,
     "prod": logging.WARNING
 }
@@ -123,49 +129,72 @@ def init_logging(
     enable_query_log: bool = True,
     enable_error_log: bool = True,
     enable_structured_logs: bool = True,
-    module_specific_levels: Optional[Dict[str, int]] = None
+    module_specific_levels: Optional[Dict[str, int]] = None,
+    force_reinit: bool = False
 ) -> None:
     """
     Initialize the logging system.
 
-    This function sets up the root logger with console and file handlers,
-    and configures additional handlers for query and error logs, as well as
-    structured JSON logs for each component.
-
     Args:
-        console_level (Optional[int], optional): Logging level for console output.
-            Defaults to the level based on environment.
-        file_level (Optional[int], optional): Logging level for file output.
-            Defaults to DEBUG.
-        log_dir (Optional[Union[str, Path]], optional): Directory to store log files.
-            Defaults to DEFAULT_LOG_DIR.
-        enable_query_log (bool, optional): Whether to enable query logging.
-            Defaults to True.
-        enable_error_log (bool, optional): Whether to enable error logging.
-            Defaults to True.
-        enable_structured_logs (bool, optional): Whether to enable structured JSON logging.
-            Defaults to True.
-        module_specific_levels (Optional[Dict[str, int]], optional):
-            Dictionary mapping module names to specific log levels.
-            Defaults to None.
+        console_level: Logging level for console output. Defaults to the level based on environment.
+        file_level: Logging level for file output. Defaults to INFO.
+        log_dir: Directory to store log files. Defaults to DEFAULT_LOG_DIR.
+        enable_query_log: Whether to enable query logging. Defaults to True.
+        enable_error_log: Whether to enable error logging. Defaults to True.
+        enable_structured_logs: Whether to enable structured JSON logging. Defaults to True.
+        module_specific_levels: Dictionary mapping module names to specific log levels.
+        force_reinit: Force reinitialization even if logging was already initialized. Defaults to False.
+
+    Returns:
+        None
     """
+    # Declare globals at the beginning of the function
+    global _LOGGING_INITIALIZED
+    global _INITIALIZED_STRUCTURED_LOGGERS
+
+    # Skip initialization if already done, unless forced
+    if _LOGGING_INITIALIZED and not force_reinit:
+        return
+
+    # If we're reinitializing, clear the structured loggers tracking dictionary
+    if force_reinit:
+        _INITIALIZED_STRUCTURED_LOGGERS = {}
     # Determine log levels
     default_level = LOG_LEVELS.get(ENV, logging.INFO)
     console_level = console_level if console_level is not None else default_level
-    file_level = file_level if file_level is not None else logging.DEBUG
+    file_level = file_level if file_level is not None else logging.INFO  # Changed from DEBUG to INFO
 
     # Ensure log directory exists
     log_dir = Path(log_dir) if log_dir else DEFAULT_LOG_DIR
     log_dir = ensure_log_directory(log_dir)
 
-    # Reset root logger
-    root_logger = logging.getLogger()
-    for handler in root_logger.handlers:
-        root_logger.removeHandler(handler)
+    # Clean up existing loggers to prevent duplicate handlers
+    def clean_logger(logger):
+        for handler in list(logger.handlers):  # Use a copy of the list to avoid modification during iteration
+            logger.removeHandler(handler)
+            # Close the handler to ensure proper resource cleanup
+            try:
+                handler.close()
+            except:
+                pass  # Ignore errors during cleanup
 
-    # Set root logger level to the lowest of all handlers to ensure all messages
-    # are propagated to the appropriate handlers
-    root_logger.setLevel(min(console_level, file_level, logging.DEBUG))
+    # Clean up root logger
+    root_logger = logging.getLogger()
+    clean_logger(root_logger)
+
+    # Clean up query logger if it exists
+    if enable_query_log:
+        query_logger = logging.getLogger("moffitt_rag.queries")
+        clean_logger(query_logger)
+
+    # Clean up all structured loggers if using structured logging
+    if enable_structured_logs:
+        for log_type in STRUCTURED_LOG_TYPES:
+            structured_logger = logging.getLogger(f"moffitt_rag.structured.{log_type}")
+            clean_logger(structured_logger)
+
+    # Set root logger level to INFO to ensure we don't log DEBUG messages
+    root_logger.setLevel(min(console_level, file_level))
 
     # Create formatters
     simple_formatter = logging.Formatter(SIMPLE_FORMAT)
@@ -173,10 +202,13 @@ def init_logging(
     query_formatter = logging.Formatter(QUERY_FORMAT)
     error_formatter = logging.Formatter(ERROR_FORMAT)
 
-    # Create console handler
+    # Create console handler with proper encoding
     console_handler = logging.StreamHandler(sys.stdout)
     console_handler.setLevel(console_level)
     console_handler.setFormatter(simple_formatter)
+    # Set the stream encoding to UTF-8 if available
+    if hasattr(console_handler.stream, 'reconfigure'):
+        console_handler.stream.reconfigure(encoding='utf-8')
     root_logger.addHandler(console_handler)
 
     # Create main log file handler with daily rotation
@@ -185,9 +217,10 @@ def init_logging(
         filename=main_log_file,
         when="midnight",
         interval=1,
-        backupCount=30  # Keep 30 days of logs
+        backupCount=30,  # Keep 30 days of logs
+        encoding='utf-8'  # Use UTF-8 encoding for international characters
     )
-    main_file_handler.setLevel(file_level)
+    main_file_handler.setLevel(logging.INFO)  # Force INFO level regardless of file_level setting
     main_file_handler.setFormatter(detailed_formatter)
     root_logger.addHandler(main_file_handler)
 
@@ -197,7 +230,8 @@ def init_logging(
         query_file_handler = logging.handlers.RotatingFileHandler(
             filename=query_log_file,
             maxBytes=10 * 1024 * 1024,  # 10MB
-            backupCount=10
+            backupCount=10,
+            encoding='utf-8'  # Use UTF-8 encoding for international characters
         )
         query_file_handler.setLevel(logging.INFO)
         query_file_handler.setFormatter(query_formatter)
@@ -213,7 +247,8 @@ def init_logging(
             filename=error_log_file,
             when="midnight",
             interval=1,
-            backupCount=90  # Keep 90 days of error logs
+            backupCount=90,  # Keep 90 days of error logs
+            encoding='utf-8'  # Use UTF-8 encoding for international characters
         )
         error_file_handler.setLevel(logging.ERROR)
         error_file_handler.setFormatter(error_formatter)
@@ -238,22 +273,31 @@ def init_logging(
 
         # Create a handler for each component type
         for log_type in STRUCTURED_LOG_TYPES:
+            # Skip if this structured logger was already initialized in this session
+            logger_name = f"moffitt_rag.structured.{log_type}"
+            if logger_name in _INITIALIZED_STRUCTURED_LOGGERS:
+                continue
+
             # Create the log file with daily rotation
             log_file = structured_log_dir / f"{log_type}.json"
             handler = logging.handlers.TimedRotatingFileHandler(
                 filename=log_file,
                 when="midnight",
                 interval=1,
-                backupCount=30  # Keep 30 days of logs
+                backupCount=30,  # Keep 30 days of logs
+                encoding='utf-8'  # Use UTF-8 encoding for international characters
             )
             handler.setLevel(logging.INFO)  # Use INFO level for structured logs
             handler.setFormatter(json_formatter)
 
             # Create a logger for this component
-            component_logger = logging.getLogger(f"moffitt_rag.structured.{log_type}")
+            component_logger = logging.getLogger(logger_name)
             component_logger.setLevel(logging.INFO)
             component_logger.addHandler(handler)
             component_logger.propagate = False  # Don't propagate to root logger
+
+            # Track that we've initialized this logger
+            _INITIALIZED_STRUCTURED_LOGGERS[logger_name] = True
 
         logging.info(f"Structured logging enabled with {len(STRUCTURED_LOG_TYPES)} component loggers")
 
@@ -267,6 +311,9 @@ def init_logging(
     logging.info(f"Logging initialized: console={logging.getLevelName(console_level)}, "
                 f"file={logging.getLevelName(file_level)}, env={ENV}, "
                 f"log_dir={log_dir}, structured_logs={enable_structured_logs}")
+
+    # Set the global initialization flag
+    _LOGGING_INITIALIZED = True
 
 
 # Utility function to get a logger for a module

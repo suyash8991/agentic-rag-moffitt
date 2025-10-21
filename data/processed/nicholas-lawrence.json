@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/nicholas-lawrence",
-  "last_updated": "2025-10-19T00:28:08.510346",
+  "last_updated": "2025-10-21T16:37:11.719750",
   "researcher_id": "3160",
   "degrees": [
     "PhD"
@@ -27,98 +27,135 @@
   ],
   "publications": [
     {
-      "title": "Yadav VK, Srivastava J, Venkatachalam A, Tantak MP, Lawrence NJ, Fisher DE, Lawrence HR, Premi S. Melanin-Driven Delayed CPD Formation Is Independent of Melanin Biosynthesis Pathway. J Invest Dermatol",
+      "title": "Melanin-Driven Delayed CPD Formation Is Independent of Melanin Biosynthesis Pathway",
       "pubmed_id": "40992685",
       "pmc_id": "PMC12507450",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Yadav VK, Srivastava J, Venkatachalam A, Tantak MP, Lawrence NJ, Fisher DE, Lawrence HR, Premi S",
+      "journal": "J Invest Dermatol"
     },
     {
-      "title": "Tauro M, Li T, Sudalagunta PR, Meads M, Canevarolo RR, Nerlakanti N, Alugubelli RR, Lawrence HR, Gunawan S, Ayaz M, Nareddy P, Yun SY, Shay G, Yang K, Tran TH, Bishop RT, Nasr MM, Lawrence NNJ, Sch\u00f6nbrunn E, Cleveland JL, Silva AS, Shain KH, Lynch CC. Unc-51 Like Kinase 3 (ULK3) is essential for autophagy and cell survival in multiple myeloma. Res Sq",
+      "title": "Unc-51 Like Kinase 3 (ULK3) is essential for autophagy and cell survival in multiple myeloma",
       "pubmed_id": "40831505",
       "pmc_id": "PMC12363935",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Tauro M, Li T, Sudalagunta PR, Meads M, Canevarolo RR, Nerlakanti N, Alugubelli RR, Lawrence HR, Gunawan S, Ayaz M, Nareddy P, Yun SY, Shay G, Yang K, Tran TH, Bishop RT, Nasr MM, Lawrence NNJ, Sch\u00f6nbrunn E, Cleveland JL, Silva AS, Shain KH, Lynch CC",
+      "journal": "Res Sq"
     },
     {
-      "title": "Xiang S, Craig KC, Luo X, Welch DL, Ferreira RB, Lawrence HR, Lawrence NJ, Reed DR, Alexandrow MG. Identification of ATP-Competitive Human CMG Helicase Inhibitors for Cancer Intervention that Disrupt CMG-Replisome Function. Mol Cancer Ther",
+      "title": "Identification of ATP-Competitive Human CMG Helicase Inhibitors for Cancer Intervention that Disrupt CMG-Replisome Function",
       "pubmed_id": "38982858",
       "pmc_id": "PMC11532780",
       "year": "2024",
-      "journal": "23(11):1568-1585",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Xiang S, Craig KC, Luo X, Welch DL, Ferreira RB, Lawrence HR, Lawrence NJ, Reed DR, Alexandrow MG",
+      "journal": "Mol Cancer Ther"
     },
     {
-      "title": "Walton K, Walker K, Riddle M, Koehn BH, Reff J, Sagatys EM, Linden MA, Pidala J, Kim J, Lee MC, Kiluk JV, Hui JYC, Yun SY, Xing Y, Stefanski H, Lawrence HR, Lawrence NJ, Tolar J, Anasetti C, Blazar BR, Sebti SM, Betts BC. Dual JAK2/Aurora kinase A inhibition prevents human skin graft rejection by allo-inactivation and ILC2-mediated tissue repair. Am J Transplant",
+      "title": "Dual JAK2/Aurora kinase A inhibition prevents human skin graft rejection by allo-inactivation and ILC2-mediated tissue repair",
       "pubmed_id": "34668635",
       "pmc_id": "PMC8897228",
       "year": "2022",
-      "journal": "22(3):717-730",
-      "authors": ""
+      "publication_date": "2022 Mar",
+      "authors": "Walton K, Walker K, Riddle M, Koehn BH, Reff J, Sagatys EM, Linden MA, Pidala J, Kim J, Lee MC, Kiluk JV, Hui JYC, Yun SY, Xing Y, Stefanski H, Lawrence HR, Lawrence NJ, Tolar J, Anasetti C, Blazar BR, Sebti SM, Betts BC",
+      "journal": "Am J Transplant"
     },
     {
-      "title": "Sawant M, Mahajan K, Renganathan A, Weimholt C, Luo J, Kukshal V, Jez JM, Jeon MS, Zhang B, Li T, Fang B, Luo Y, Lawrence NJ, Lawrence HR, Feng FY, Mahajan NP. Chronologically modified androgen receptor in recurrent castration-resistant prostate cancer and its therapeutic targeting. Sci Transl Med",
+      "title": "Chronologically modified androgen receptor in recurrent castration-resistant prostate cancer and its therapeutic targeting",
       "pubmed_id": "35704598",
       "year": "2022",
-      "journal": "14(649):eabg4132",
-      "authors": ""
+      "publication_date": "2022 Jun",
+      "authors": "Sawant M, Mahajan K, Renganathan A, Weimholt C, Luo J, Kukshal V, Jez JM, Jeon MS, Zhang B, Li T, Fang B, Luo Y, Lawrence NJ, Lawrence HR, Feng FY, Mahajan NP",
+      "journal": "Sci Transl Med"
     },
     {
-      "title": "Bian Y, Alem D, Beato F, Hogenson TL, Yang X, Jiang K, Cai J, Ma WW, Fernandez-Zapico M, Tan AC, Lawrence NJ, Fleming JB, Yuan Y, Xie H. Development of SOS1 Inhibitor-Based Degraders to Target KRAS-Mutant Colorectal Cancer. J Med Chem",
+      "title": "Development of SOS1 Inhibitor-Based Degraders to Target KRAS-Mutant Colorectal Cancer",
       "pubmed_id": "36459180",
       "pmc_id": "PMC10113742",
       "year": "2022",
-      "journal": "65(24):16432-16450",
-      "authors": ""
+      "publication_date": "2022 Dec",
+      "authors": "Bian Y, Alem D, Beato F, Hogenson TL, Yang X, Jiang K, Cai J, Ma WW, Fernandez-Zapico M, Tan AC, Lawrence NJ, Fleming JB, Yuan Y, Xie H",
+      "journal": "J Med Chem"
     },
     {
-      "title": "Pidala J, Walton K, Elmariah H, Kim J, Mishra A, Bejanyan N, Nishihori T, Khimani F, Perez L, Faramand RG, Davila ML, Nieder ML, Sagatys EM, Holtan SG, Lawrence NJ, Lawrence HR, Blazar BR, Anasetti C, Sebti SM, Betts BC. Pacritinib Combined with Sirolimus and Low-Dose Tacrolimus for GVHD Prevention after Allogeneic Hematopoietic Cell Transplantation: Preclinical and Phase I Trial Results. Clin Cancer Res",
+      "title": "Pacritinib Combined with Sirolimus and Low-Dose Tacrolimus for GVHD Prevention after Allogeneic Hematopoietic Cell Transplantation: Preclinical and Phase I Trial Results",
       "pubmed_id": "33753457",
       "pmc_id": "PMC8127396",
       "year": "2021",
-      "journal": "27(10):2712-2722",
-      "authors": ""
+      "publication_date": "2021 May",
+      "authors": "Pidala J, Walton K, Elmariah H, Kim J, Mishra A, Bejanyan N, Nishihori T, Khimani F, Perez L, Faramand RG, Davila ML, Nieder ML, Sagatys EM, Holtan SG, Lawrence NJ, Lawrence HR, Blazar BR, Anasetti C, Sebti SM, Betts BC",
+      "journal": "Clin Cancer Res"
     },
     {
-      "title": "McGuire JJ, Frieling JS, Lo CH, Li T, Muhammad A, Lawrence HR, Lawrence NJ, Cook LM, Lynch CC. Mesenchymal stem cell-derived interleukin-28 drives the selection of apoptosis resistant bone metastatic prostate cancer. Nat Commun",
+      "title": "Mesenchymal stem cell-derived interleukin-28 drives the selection of apoptosis resistant bone metastatic prostate cancer",
       "pubmed_id": "33526787",
       "pmc_id": "PMC7851397",
       "year": "2021",
-      "journal": "12(1):723",
-      "authors": ""
+      "publication_date": "2021 Feb",
+      "authors": "McGuire JJ, Frieling JS, Lo CH, Li T, Muhammad A, Lawrence HR, Lawrence NJ, Cook LM, Lynch CC",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Davis RR, Li B, Yun SY, Chan A, Nareddy P, Gunawan S, Ayaz M, Lawrence HR, Reuther GW, Lawrence NJ, Sch\u00f6nbrunn E. Structural Insights into JAK2 Inhibition by Ruxolitinib, Fedratinib, and Derivatives Thereof. J Med Chem",
+      "title": "Structural Insights into JAK2 Inhibition by Ruxolitinib, Fedratinib, and Derivatives Thereof",
       "pubmed_id": "33570945",
       "pmc_id": "PMC8327781",
       "year": "2021",
-      "journal": "64(4):2228-2241",
-      "authors": ""
+      "publication_date": "2021 Feb",
+      "authors": "Davis RR, Li B, Yun SY, Chan A, Nareddy P, Gunawan S, Ayaz M, Lawrence HR, Reuther GW, Lawrence NJ, Sch\u00f6nbrunn E",
+      "journal": "J Med Chem"
     },
     {
-      "title": "Walton K, Fernandez MR, Sagatys EM, Reff J, Kim J, Lee MC, Kiluk JV, Hui JYC, McKenna D, Hupp M, Forster C, Linden MA, Lawrence NJ, Lawrence HR, Pidala J, Pavletic SZ, Blazar BR, Sebti SM, Cleveland JL, Anasetti C, Betts BC. Metabolic reprogramming augments potency of human pSTAT3-inhibited iTregs to suppress alloreactivity. JCI Insight",
+      "title": "Metabolic reprogramming augments potency of human pSTAT3-inhibited iTregs to suppress alloreactivity",
       "pubmed_id": "32255769",
       "pmc_id": "PMC7253027",
       "year": "2020",
-      "journal": "5(9)",
-      "authors": ""
+      "publication_date": "2020 May",
+      "authors": "Walton K, Fernandez MR, Sagatys EM, Reff J, Kim J, Lee MC, Kiluk JV, Hui JYC, McKenna D, Hupp M, Forster C, Linden MA, Lawrence NJ, Lawrence HR, Pidala J, Pavletic SZ, Blazar BR, Sebti SM, Cleveland JL, Anasetti C, Betts BC",
+      "journal": "JCI Insight"
     }
   ],
   "grants": [
     {
       "description": "Title: Characterization of Plant-Based Phenolic Alkanones as Next-Generation Sun Protectants for Skin Cancer Prevention  \nAward Number: HT9425-24-1-0752 Log # ME230101P1  \nSponsor: Department of Defense (DOD)  \nLawrence, N. (PD/PI)",
+      "title": "Characterization of Plant-Based Phenolic Alkanones as Next-Generation Sun Protectants for Skin Cancer Prevention",
+      "award_number": "HT9425-24-1-0752 Log # ME230101P1",
+      "sponsor": "Department of Defense (DOD)",
       "source": "DOD",
-      "period": "9425-24"
+      "investigators": [
+        {
+          "name": "Lawrence, N.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Developing ULK3 inhibitors for the treatment of Multiple Myeloma  \nAward Number: 24B06  \nSponsor: Florida Department of Health  \nLawrence, N. (PD/PI), Lynch, C. (Co-PD/PI), Shain, K. (Co-PD/PI)"
+      "description": "Title: Developing ULK3 inhibitors for the treatment of Multiple Myeloma  \nAward Number: 24B06  \nSponsor: Florida Department of Health  \nLawrence, N. (PD/PI), Lynch, C. (Co-PD/PI), Shain, K. (Co-PD/PI)",
+      "title": "Developing ULK3 inhibitors for the treatment of Multiple Myeloma",
+      "award_number": "24B06",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Lawrence, N.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Lynch, C.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Shain, K.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LawrenceNicholas_3160.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3160"
   },
-  "content_hash": "01582706e9164b99844c551b507ee89ed5d46774e8bbf9b2abb77ddb6ee06b7b",
+  "content_hash": "3e94d87bf5e978cdb85249388b165dcb1c04f99e74d91ed243d1a0af7f79e0bf",
   "researcher_name": "Nicholas Lawrence",
   "department": "Drug Discovery"
 }

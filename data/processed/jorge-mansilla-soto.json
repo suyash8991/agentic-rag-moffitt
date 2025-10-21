@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jorge-mansilla-soto",
-  "last_updated": "2025-10-19T00:31:01.329982",
+  "last_updated": "2025-10-21T16:40:09.966349",
   "researcher_id": "35941",
   "degrees": [
     "PhD"
@@ -20,80 +20,92 @@
   "education": [],
   "publications": [
     {
-      "title": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F. Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma. Cancer Cell",
+      "title": "Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma",
       "pubmed_id": "41072416",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Milone MC, Mansilla-Soto J, Pardi N, George LA, Byrne BJ, Herzog RW. Clinical advances in gene, cell, and RNA therapies. Mol Ther",
+      "title": "Clinical advances in gene, cell, and RNA therapies",
       "pubmed_id": "40398418",
       "pmc_id": "PMC12172262",
       "year": "2025",
-      "journal": "33(6):2311",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Milone MC, Mansilla-Soto J, Pardi N, George LA, Byrne BJ, Herzog RW",
+      "journal": "Mol Ther"
     },
     {
-      "title": "Mansilla-Soto J, Milone MC. Concept CARs are picking up speed. Mol Ther",
+      "title": "Concept CARs are picking up speed",
       "pubmed_id": "40340247",
       "pmc_id": "PMC12172278",
       "year": "2025",
-      "journal": "33(6):2363-2367",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Mansilla-Soto J, Milone MC",
+      "journal": "Mol Ther"
     },
     {
-      "title": "Park J, Lia Palomba M, Perica K, Devlin S, Shah G, Dahi P, Lin R, Salles G, Scordo M, Nath K, Valtis Y, Lynch A, Cathcart E, Zhang H, Sch\u00f6der H, Leithner D, Liotta K, Yu A, Stocker K, Li J, Dey A, Sellner L, Singh R, Sundaresan V, Zhao F, Mansilla-Soto J, He C, Meyerson J, Hosszu K, McAvoy D, Wang X, Riviere I, Sadelain M. Calibrated CAR Signaling Enables Low-Dose Therapy in Large B-Cell Lymphoma. Res Sq",
+      "title": "Calibrated CAR Signaling Enables Low-Dose Therapy in Large B-Cell Lymphoma",
       "pubmed_id": "39011120",
       "pmc_id": "PMC11247921",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Park J, Lia Palomba M, Perica K, Devlin S, Shah G, Dahi P, Lin R, Salles G, Scordo M, Nath K, Valtis Y, Lynch A, Cathcart E, Zhang H, Sch\u00f6der H, Leithner D, Liotta K, Yu A, Stocker K, Li J, Dey A, Sellner L, Singh R, Sundaresan V, Zhao F, Mansilla-Soto J, He C, Meyerson J, Hosszu K, McAvoy D, Wang X, Riviere I, Sadelain M",
+      "journal": "Res Sq"
     },
     {
-      "title": "Haubner S, Mansilla-Soto J, Nataraj S, Kogel F, Chang Q, de Stanchina E, Lopez M, Ng MR, Fraser K, Subklewe M, Park JH, Wang X, Rivi\u00e8re I, Sadelain M. Cooperative CAR targeting to selectively eliminate AML and minimize escape. Cancer Cell",
+      "title": "Cooperative CAR targeting to selectively eliminate AML and minimize escape",
       "pubmed_id": "37802054",
       "year": "2023",
-      "journal": "41(11):1871-1891",
-      "authors": ""
+      "publication_date": "2023 Nov",
+      "authors": "Haubner S, Mansilla-Soto J, Nataraj S, Kogel F, Chang Q, de Stanchina E, Lopez M, Ng MR, Fraser K, Subklewe M, Park JH, Wang X, Rivi\u00e8re I, Sadelain M",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Jain N, Zhao Z, Feucht J, Koche R, Iyer A, Dobrin A, Mansilla-Soto J, Yang J, Zhan Y, Lopez M, Gunset G, Sadelain M. TET2 guards against unchecked BATF3-induced CAR T cell expansion. Nature",
+      "title": "TET2 guards against unchecked BATF3-induced CAR T cell expansion",
       "pubmed_id": "36755094",
       "pmc_id": "PMC10511001",
       "year": "2023",
-      "journal": "615(7951):315-322",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Jain N, Zhao Z, Feucht J, Koche R, Iyer A, Dobrin A, Mansilla-Soto J, Yang J, Zhan Y, Lopez M, Gunset G, Sadelain M",
+      "journal": "Nature"
     },
     {
-      "title": "He C, Mansilla-Soto J, Khanra N, Hamieh M, Bustos V, Paquette AJ, Garcia Angus A, Shore DM, Rice WJ, Khelashvili G, Sadelain M, Meyerson JR. CD19 CAR antigen engagement mechanisms and affinity tuning. Sci Immunol",
+      "title": "CD19 CAR antigen engagement mechanisms and affinity tuning",
       "pubmed_id": "36867678",
       "pmc_id": "PMC10228544",
       "year": "2023",
-      "journal": "8(81):eadf1426",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "He C, Mansilla-Soto J, Khanra N, Hamieh M, Bustos V, Paquette AJ, Garcia Angus A, Shore DM, Rice WJ, Khelashvili G, Sadelain M, Meyerson JR",
+      "journal": "Sci Immunol"
     },
     {
-      "title": "Odak A, Yuan H, Feucht J, Cantu VA, Mansilla-Soto J, Kogel F, Eyquem J, Everett J, Bushman FD, Leslie CS, Sadelain M. Novel extragenic genomic safe harbors for precise therapeutic T-cell engineering. Blood",
+      "title": "Novel extragenic genomic safe harbors for precise therapeutic T-cell engineering",
       "pubmed_id": "36745870",
       "pmc_id": "PMC10273162",
       "year": "2023",
-      "journal": "141(22):2698-2712",
-      "authors": ""
+      "publication_date": "2023 Jun",
+      "authors": "Odak A, Yuan H, Feucht J, Cantu VA, Mansilla-Soto J, Kogel F, Eyquem J, Everett J, Bushman FD, Leslie CS, Sadelain M",
+      "journal": "Blood"
     },
     {
-      "title": "Chow A, Uddin FZ, Liu M, Dobrin A, Nabet BY, Mangarin L, Lavin Y, Rizvi H, Tischfield SE, Quintanal-Villalonga A, Chan JM, Shah N, Allaj V, Manoj P, Mattar M, Meneses M, Landau R, Ward M, Kulick A, Kwong C, Wierzbicki M, Yavner J, Egger J, Chavan SS, Farillas A, Holland A, Sridhar H, Ciampricotti M, Hirschhorn D, Guan X, Richards AL, Heller G, Mansilla-Soto J, Sadelain M, Klebanoff CA, Hellmann MD, Sen T, de Stanchina E, Wolchok JD, Merghoub T, Rudin CM. The ectonucleotidase CD39 identifies tumor-reactive CD8+ T cells predictive of immune checkpoint blockade efficacy in human lung cancer. Immunity",
+      "title": "The ectonucleotidase CD39 identifies tumor-reactive CD8+ T cells predictive of immune checkpoint blockade efficacy in human lung cancer",
       "pubmed_id": "36574773",
       "pmc_id": "PMC9887636",
       "year": "2023",
-      "journal": "56(1):93-106",
-      "authors": ""
+      "publication_date": "2023 Jan",
+      "authors": "Chow A, Uddin FZ, Liu M, Dobrin A, Nabet BY, Mangarin L, Lavin Y, Rizvi H, Tischfield SE, Quintanal-Villalonga A, Chan JM, Shah N, Allaj V, Manoj P, Mattar M, Meneses M, Landau R, Ward M, Kulick A, Kwong C, Wierzbicki M, Yavner J, Egger J, Chavan SS, Farillas A, Holland A, Sridhar H, Ciampricotti M, Hirschhorn D, Guan X, Richards AL, Heller G, Mansilla-Soto J, Sadelain M, Klebanoff CA, Hellmann MD, Sen T, de Stanchina E, Wolchok JD, Merghoub T, Rudin CM",
+      "journal": "Immunity"
     },
     {
-      "title": "Hamieh M, Mansilla-Soto J, Rivi\u00e8re I, Sadelain M. Programming CAR T Cell Tumor Recognition: Tuned Antigen Sensing and Logic Gating. Cancer Discov",
+      "title": "Programming CAR T Cell Tumor Recognition: Tuned Antigen Sensing and Logic Gating",
       "pubmed_id": "36961206",
       "pmc_id": "PMC10068450",
       "year": "2023",
-      "journal": "13(4):829-843",
-      "authors": ""
+      "publication_date": "2023 Apr",
+      "authors": "Hamieh M, Mansilla-Soto J, Rivi\u00e8re I, Sadelain M",
+      "journal": "Cancer Discov"
     }
   ],
   "grants": [],
@@ -101,7 +113,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35941"
   },
-  "content_hash": "42d224f94c210bcd0b42f4f2450022bb607830144474945010d14409470b38a3",
+  "content_hash": "21e4c7ba6e3841015f3c25d1a5e979fe952a299095cc717efe353734666ca0eb",
   "researcher_name": "Jorge Mansilla Soto",
   "department": "Immunology"
 }

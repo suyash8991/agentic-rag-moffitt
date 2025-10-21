@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/seongseok-yun",
-  "last_updated": "2025-10-19T00:29:11.757021",
+  "last_updated": "2025-10-21T16:38:13.281223",
   "researcher_id": "21916",
   "degrees": [
     "MD",
@@ -41,97 +41,124 @@
   ],
   "publications": [
     {
-      "title": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS. Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm. Blood Neoplasia",
+      "title": "Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm",
       "pubmed_id": "40453136",
       "pmc_id": "PMC12067887",
       "year": "2025",
-      "journal": "2(2):100062",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS",
+      "journal": "Blood Neoplasia"
     },
     {
-      "title": "Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS. Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML). Leuk Res",
+      "title": "Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML)",
       "pubmed_id": "39921921",
       "year": "2025",
-      "journal": "150:107662",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS",
+      "journal": "Leuk Res"
     },
     {
-      "title": "Komrokji RS, Ammad-Ud-Din M, Ali NHA, Xie Z, Chan O, Kuykendall AT, Yun S, Walker AR, Lancet J, Padron E, Sallman DA. Hematological Response to Frontline Treatment in Lower Risk Myelodysplastic Syndromes (LRMDS) is Associated With Better Overall Survival. Clin Lymphoma Myeloma Leuk",
+      "title": "Hematological Response to Frontline Treatment in Lower Risk Myelodysplastic Syndromes (LRMDS) is Associated With Better Overall Survival",
       "pubmed_id": "40113545",
       "year": "2025",
-      "journal": "25(7):e487-e490",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Komrokji RS, Ammad-Ud-Din M, Ali NHA, Xie Z, Chan O, Kuykendall AT, Yun S, Walker AR, Lancet J, Padron E, Sallman DA",
+      "journal": "Clin Lymphoma Myeloma Leuk"
     },
     {
-      "title": "Chan O, Al Ali NH, Tashkandi H, Ellis A, Ball S, Grenet J, Hana C, Deutsch Y, Zhang L, Hussaini MO, Song J, Yun S, Talati C, Kuykendall AT, Padron E, Walker AR, Roboz GJ, Desai P, Sallman DA, Sweet KL, Komrokji RS, Lancet JE. Mutations highly specific for secondary AML are associated with poor outcomes in ELN favorable risk NPM1-mutated AML. Blood Adv",
+      "title": "Mutations highly specific for secondary AML are associated with poor outcomes in ELN favorable risk NPM1-mutated AML",
       "pubmed_id": "38170740",
       "pmc_id": "PMC10907389",
       "year": "2024",
-      "journal": "8(5):1075-1083",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Chan O, Al Ali NH, Tashkandi H, Ellis A, Ball S, Grenet J, Hana C, Deutsch Y, Zhang L, Hussaini MO, Song J, Yun S, Talati C, Kuykendall AT, Padron E, Walker AR, Roboz GJ, Desai P, Sallman DA, Sweet KL, Komrokji RS, Lancet JE",
+      "journal": "Blood Adv"
     },
     {
-      "title": "Vincelette ND, Yu X, Kuykendall AT, Moon J, Su S, Cheng CH, Sammut R, Razabdouski TN, Nguyen HV, Eksioglu EA, Chan O, Al Ali N, Patel PC, Lee DH, Nakanishi S, Ferreira RB, Hyjek E, Mo Q, Cory S, Lawrence HR, Zhang L, Murphy DJ, Komrokji RS, Lee D, Kaufmann SH, Cleveland JL, Yun S. Trisomy 8 Defines a Distinct Subtype of Myeloproliferative Neoplasms Driven by the MYC-Alarmin Axis. Blood Cancer Discov",
+      "title": "Trisomy 8 Defines a Distinct Subtype of Myeloproliferative Neoplasms Driven by the MYC-Alarmin Axis",
       "pubmed_id": "38713018",
       "pmc_id": "PMC11215389",
       "year": "2024",
-      "journal": "5(4):276-297",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Vincelette ND, Yu X, Kuykendall AT, Moon J, Su S, Cheng CH, Sammut R, Razabdouski TN, Nguyen HV, Eksioglu EA, Chan O, Al Ali N, Patel PC, Lee DH, Nakanishi S, Ferreira RB, Hyjek E, Mo Q, Cory S, Lawrence HR, Zhang L, Murphy DJ, Komrokji RS, Lee D, Kaufmann SH, Cleveland JL, Yun S",
+      "journal": "Blood Cancer Discov"
     },
     {
-      "title": "Aguirre LE, Jain A, Ball S, Ali NA, Volpe VO, Tinsley-Vance S, Sallman D, Sweet K, Lancet J, Padron E, Yun S, Kuykendall A, Komrokji R. Triple-Negative Myelofibrosis: Disease Features, Response to Treatment and Outcomes. Clin Lymphoma Myeloma Leuk",
+      "title": "Triple-Negative Myelofibrosis: Disease Features, Response to Treatment and Outcomes",
       "pubmed_id": "38548563",
       "year": "2024",
-      "journal": "24(7):459-467",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Aguirre LE, Jain A, Ball S, Ali NA, Volpe VO, Tinsley-Vance S, Sallman D, Sweet K, Lancet J, Padron E, Yun S, Kuykendall A, Komrokji R",
+      "journal": "Clin Lymphoma Myeloma Leuk"
     },
     {
-      "title": "Horvat NP, Abdallah EF, Xie Z, Al Ali N, Yun S, Walker A, Padron E, Sallman D, Chan O, Lancet J, Komrokji R, Kuykendall AT. Young patients with myelofibrosis have distinct clinicomolecular features, favorable prognosis, and commonly exhibit inflammatory comorbidities. Ann Hematol",
+      "title": "Young patients with myelofibrosis have distinct clinicomolecular features, favorable prognosis, and commonly exhibit inflammatory comorbidities",
       "pubmed_id": "38030891",
       "year": "2024",
-      "journal": "103(1):117-123",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Horvat NP, Abdallah EF, Xie Z, Al Ali N, Yun S, Walker A, Padron E, Sallman D, Chan O, Lancet J, Komrokji R, Kuykendall AT",
+      "journal": "Ann Hematol"
     },
     {
-      "title": "Yun S, Cleveland JL. Transcriptional Plasticity Drives IMiD and p300 Inhibitor Resistance in Multiple Myeloma. Blood Cancer Discov",
+      "title": "Transcriptional Plasticity Drives IMiD and p300 Inhibitor Resistance in Multiple Myeloma",
       "pubmed_id": "38085608",
       "pmc_id": "PMC10772544",
       "year": "2024",
-      "journal": "5(1):5-7",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Yun S, Cleveland JL",
+      "journal": "Blood Cancer Discov"
     },
     {
-      "title": "Ben-Crentsil NA, Mohammed Ismail W, Balasis ME, Newman H, Quintana A, Binder M, Kruer T, Neupane S, Ferrall-Fairbanks MC, Fernandez J, Lasho TL, Finke CM, Ibrahim ML, McGraw KL, Wysota M, Aldrich AL, Ryder CB, Letson CT, Traina J, McLemore AF, Droin N, Shastri A, Yun S, Solary E, Sallman DA, Beg AA, Ma L, Gaspar-Maia A, Patnaik MM, Padron E. RNA Shielding of p65 Is Required to Potentiate Oncogenic Inflammation in TET2-Mutated Clonal Hematopoiesis. Cancer Discov",
+      "title": "RNA Shielding of p65 Is Required to Potentiate Oncogenic Inflammation in TET2-Mutated Clonal Hematopoiesis",
       "pubmed_id": "39189614",
       "pmc_id": "PMC11611684",
       "year": "2024",
-      "journal": "14(12):2509-2531",
-      "authors": ""
+      "publication_date": "2024 Dec",
+      "authors": "Ben-Crentsil NA, Mohammed Ismail W, Balasis ME, Newman H, Quintana A, Binder M, Kruer T, Neupane S, Ferrall-Fairbanks MC, Fernandez J, Lasho TL, Finke CM, Ibrahim ML, McGraw KL, Wysota M, Aldrich AL, Ryder CB, Letson CT, Traina J, McLemore AF, Droin N, Shastri A, Yun S, Solary E, Sallman DA, Beg AA, Ma L, Gaspar-Maia A, Patnaik MM, Padron E",
+      "journal": "Cancer Discov"
     },
     {
-      "title": "Mo Q, Yun S, Sallman DA, Vincelette ND, Peng G, Zhang L, Lancet JE, Padron E. Integrative molecular subtypes of acute myeloid leukemia. Blood Cancer J",
+      "title": "Integrative molecular subtypes of acute myeloid leukemia",
       "pubmed_id": "37156780",
       "pmc_id": "PMC10167212",
       "year": "2023",
-      "journal": "13(1):71",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Mo Q, Yun S, Sallman DA, Vincelette ND, Peng G, Zhang L, Lancet JE, Padron E",
+      "journal": "Blood Cancer J"
     }
   ],
   "grants": [
     {
-      "description": "Title: Strategic Therapeutic Targeting to Overcome Venetoclax Resistance in AML  \nAward Number:   \nSponsor: American Society of Clinical Oncology (ASCO)  \nYun, S. (PD/PI)"
+      "description": "Title: Strategic Therapeutic Targeting to Overcome Venetoclax Resistance in AML  \nAward Number:   \nSponsor: American Society of Clinical Oncology (ASCO)  \nYun, S. (PD/PI)",
+      "title": "Strategic Therapeutic Targeting to Overcome Venetoclax Resistance in AML",
+      "award_number": "",
+      "sponsor": "American Society of Clinical Oncology (ASCO)",
+      "investigators": [
+        {
+          "name": "Yun, S.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: MYC-alarmin axis as a novel therapeutic vulnerability in myelofibrosis  \nAward Number: 5R01CA280116-02  \nSponsor: National Cancer Institute (NCI)  \nYun, S. (PD/PI)",
+      "title": "MYC-alarmin axis as a novel therapeutic vulnerability in myelofibrosis",
+      "award_number": "5R01CA280116-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0116-02"
+      "investigators": [
+        {
+          "name": "Yun, S.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/YunSeongseok_21916.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=21916"
   },
-  "content_hash": "e39f0f33d699b3422956f455b626fa02c5fbf164f872b3c8b129079ab43e445f",
+  "content_hash": "6252dc6a64e66521f2288d600ffb6ad619d9edcea00d9f217df1b5a35a055bfd",
   "researcher_name": "Seongseok Yun",
   "department": "Molecular Oncology"
 }

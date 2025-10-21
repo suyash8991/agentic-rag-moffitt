@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/alexander-anderson",
-  "last_updated": "2025-10-19T00:24:36.582323",
+  "last_updated": "2025-10-21T16:33:38.541945",
   "researcher_id": "4617",
   "degrees": [
     "PhD"
@@ -37,106 +37,211 @@
   ],
   "publications": [
     {
-      "title": "Gallagher K, Strobl MAR, Anderson ARA, Maini PK. Deriving Optimal Treatment Timing for Adaptive Therapy: Matching the Model to the Tumor Dynamics. Bull Math Biol",
+      "title": "Deriving Optimal Treatment Timing for Adaptive Therapy: Matching the Model to the Tumor Dynamics",
       "pubmed_id": "40921859",
       "pmc_id": "PMC12417256",
       "year": "2025",
-      "journal": "87(10):146",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Gallagher K, Strobl MAR, Anderson ARA, Maini PK",
+      "journal": "Bull Math Biol"
     },
     {
-      "title": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys",
+      "title": "Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer",
       "pubmed_id": "40998270",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C",
+      "journal": "Int J Radiat Oncol Biol Phys"
     },
     {
-      "title": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR. Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial. Nat Med",
+      "title": "Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial",
       "pubmed_id": "39521884",
       "year": "2025",
-      "journal": "31(1):176-188",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR",
+      "journal": "Nat Med"
     },
     {
-      "title": "Gatenby RA, Anderson ARA, Brown JS, Gallaher J, Krolick J, Lemanne D. Directed Evolution Restored Castrate Sensitivity in a Patient With Castrate Resistant Metastatic Prostate Cancer. Prostate",
+      "title": "Directed Evolution Restored Castrate Sensitivity in a Patient With Castrate Resistant Metastatic Prostate Cancer",
       "pubmed_id": "40878050",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Gatenby RA, Anderson ARA, Brown JS, Gallaher J, Krolick J, Lemanne D",
+      "journal": "Prostate"
     },
     {
-      "title": "Milne A, Marusyk A, Maini PK, Anderson ARA, Picco N. The role of environmentally mediated drug resistance in facilitating the spatial distribution of residual disease. Commun Biol",
+      "title": "The role of environmentally mediated drug resistance in facilitating the spatial distribution of residual disease",
       "pubmed_id": "40783466",
       "pmc_id": "PMC12335614",
       "year": "2025",
-      "journal": "8(1):1189",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Milne A, Marusyk A, Maini PK, Anderson ARA, Picco N",
+      "journal": "Commun Biol"
     },
     {
-      "title": "Gallagher K, Strobl MAR, Anderson ARA, Maini PK. Deriving Optimal Treatment Timing for Adaptive Therapy: Matching the Model to the Tumor Dynamics. medRxiv",
-      "pubmed_id": "40236415",
-      "pmc_id": "PMC11998818",
-      "year": "2025",
-      "authors": ""
-    },
-    {
-      "title": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A. Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers. Res Sq",
+      "title": "Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers",
       "pubmed_id": "40313737",
       "pmc_id": "PMC12045365",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. NPJ Syst Biol Appl",
+      "title": "Deriving Optimal Treatment Timing for Adaptive Therapy: Matching the Model to the Tumor Dynamics",
+      "pubmed_id": "40236415",
+      "pmc_id": "PMC11998818",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Gallagher K, Strobl MAR, Anderson ARA, Maini PK",
+      "journal": "medRxiv"
+    },
+    {
+      "title": "Spatial interactions modulate tumor growth and immune infiltration",
       "pubmed_id": "39349537",
       "pmc_id": "PMC11442770",
       "year": "2024",
-      "journal": "10(1):106",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J",
+      "journal": "NPJ Syst Biol Appl"
     },
     {
-      "title": "Emond R, West J, Grolmusz V, Cosgrove P, Nath A, Anderson ARA, Bild AH. A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind. bioRxiv",
+      "title": "Modeling tumors as complex ecosystems",
+      "pubmed_id": "39280631",
+      "pmc_id": "PMC11402243",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Aguad\u00e9-Gorgori\u00f3 G, Anderson ARA, Sol\u00e9 R",
+      "journal": "iScience"
+    },
+    {
+      "title": "A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind",
       "pubmed_id": "39282402",
       "pmc_id": "PMC11398327",
       "year": "2024",
-      "authors": ""
-    },
-    {
-      "title": "Alahmari S, Schultz A, Albrecht J, Tagal V, Siddiqui Z, Prabhakaran S, El Naqa I, Anderson A, Heiser L, Andor N. Cell identity revealed by precise cell cycle state mapping links data modalities. bioRxiv",
-      "pubmed_id": "39282313",
-      "pmc_id": "PMC11398313",
-      "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Emond R, West J, Grolmusz V, Cosgrove P, Nath A, Anderson ARA, Bild AH",
+      "journal": "bioRxiv"
     }
   ],
   "grants": [
     {
-      "description": "Title: Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice  \nAward Number: 24-0147-AR  \nSponsor: MITSUI & CO. (USA), INC  \nAnderson, A. (PD/PI), Gatenby, R. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)"
+      "description": "Title: Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice  \nAward Number: 24-0147-AR  \nSponsor: MITSUI & CO. (USA), INC  \nAnderson, A. (PD/PI), Gatenby, R. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)",
+      "title": "Creating a digitally enabled clinical R&D platform to delivery precision medicine adaptable to every-changing patient conditions in real-world practice",
+      "award_number": "24-0147-AR",
+      "sponsor": "MITSUI & CO. (USA), INC",
+      "investigators": [
+        {
+          "name": "Anderson, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Gatenby, R.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Tessi, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Institutional Support for Research Center for Cancer Systems Biology U54Grant The Delta Ecology of NSCLC Treatment  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nAnderson, A. (PD/PI)",
-      "source": "Foundation"
+      "title": "Institutional Support for Research Center for Cancer Systems Biology U54Grant The Delta Ecology of NSCLC Treatment",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Anderson, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: The Delta Ecology of NSCLC Treatment  \nAward Number: 5U54CA274507  \nSponsor: National Cancer Institute (NCI)  \nAnderson, A. (PD/PI), Gatenby, R. (PD/PI)",
-      "source": "NCI"
+      "title": "The Delta Ecology of NSCLC Treatment",
+      "award_number": "5U54CA274507",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Anderson, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Gatenby, R.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: The Delta Ecology of NSCLC Treatment - Diversity Supplement  \nAward Number: 1U54CA274507-03S1  \nSponsor: National Cancer Institute (NCI)  \nAnderson, A. (PD/PI), Gatenby, R. (PD/PI)",
+      "title": "The Delta Ecology of NSCLC Treatment - Diversity Supplement",
+      "award_number": "1U54CA274507-03S1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "4507-03"
+      "investigators": [
+        {
+          "name": "Anderson, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Gatenby, R.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB  \nAward Number: 23L11  \nSponsor: Florida Department of Health  \nMetts, J. (PD/PI), Anderson, A. (Co-PD/PI), Brown, J. (Co-PD/PI), Marusyk, A. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)"
+      "description": "Title: Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB  \nAward Number: 23L11  \nSponsor: Florida Department of Health  \nMetts, J. (PD/PI), Anderson, A. (Co-PD/PI), Brown, J. (Co-PD/PI), Marusyk, A. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)",
+      "title": "Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB",
+      "award_number": "23L11",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Metts, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Anderson, A.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Brown, J.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Marusyk, A.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Tessi, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: To develop use cases and a business model around the idea of creating a digitally enabled clinical R&D platform to deliver precision medicine adaptable to ever-changing patient conditions in real-world practice  \nAward Number: 24-0147  \nSponsor: MITSUI & CO. (USA), INC  \nRollison, D. (PD/PI), Anderson, A. (Co-PD/PI)"
+      "description": "Title: To develop use cases and a business model around the idea of creating a digitally enabled clinical R&D platform to deliver precision medicine adaptable to ever-changing patient conditions in real-world practice  \nAward Number: 24-0147  \nSponsor: MITSUI & CO. (USA), INC  \nRollison, D. (PD/PI), Anderson, A. (Co-PD/PI)",
+      "title": "To develop use cases and a business model around the idea of creating a digitally enabled clinical R&D platform to deliver precision medicine adaptable to ever-changing patient conditions in real-world practice",
+      "award_number": "24-0147",
+      "sponsor": "MITSUI & CO. (USA), INC",
+      "investigators": [
+        {
+          "name": "Rollison, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Anderson, A.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AndersonAlexander_4617.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4617"
   },
-  "content_hash": "7c7ed2c9a3b35646f09af633a3ba1260e8907ee804005e2beba52d46e8c0ae47",
+  "content_hash": "33e7b9a9713c3882ab1dec6be2808cba64df25598dd1313572a17b99c4a08ef8",
   "researcher_name": "Alexander Anderson",
   "department": "Integrated Mathematical Oncology"
 }

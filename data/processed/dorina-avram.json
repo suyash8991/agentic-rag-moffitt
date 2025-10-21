@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/dorina-avram",
-  "last_updated": "2025-10-19T00:30:38.768175",
+  "last_updated": "2025-10-21T16:39:42.754232",
   "researcher_id": "27668",
   "degrees": [
     "PhD"
@@ -30,107 +30,161 @@
   ],
   "publications": [
     {
-      "title": "Gao Y, Yin Q, Gamallat Y, Grant MG, Snell AH, Shi X, Ulstad LN, Singh A, Chen T, Johnson JO, Avram D, Wan L. Linear ubiquitination of p31comet by HOIP couples cytokine response with mitotic regulation. Cell Biosci",
+      "title": "Linear ubiquitination of p31comet by HOIP couples cytokine response with mitotic regulation",
       "pubmed_id": "40462232",
       "pmc_id": "PMC12135451",
       "year": "2025",
-      "journal": "15(1):75",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Gao Y, Yin Q, Gamallat Y, Grant MG, Snell AH, Shi X, Ulstad LN, Singh A, Chen T, Johnson JO, Avram D, Wan L",
+      "journal": "Cell Biosci"
     },
     {
-      "title": "Feng Y, Yuan Q, Zuniga A, Islam S, Avram D, Guryanova OA. Optimized Mouse Model to Induce Colitis-Associated Colon Cancer using Azoxymethane and Dextran Sulfate Sodium for Tumor Immunology and Therapy Studies. J Vis Exp",
+      "title": "Optimized Mouse Model to Induce Colitis-Associated Colon Cancer using Azoxymethane and Dextran Sulfate Sodium for Tumor Immunology and Therapy Studies",
       "pubmed_id": "40788861",
       "year": "2025",
-      "journal": "(221)",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Feng Y, Yuan Q, Zuniga A, Islam S, Avram D, Guryanova OA",
+      "journal": "J Vis Exp"
     },
     {
-      "title": "Tejero JD, Hesterberg RS, Drapela S, Ilter D, Raizada D, Lazure F, Kashfi H, Liu M, Silvane L, Avram D, Fern\u00e1ndez-Garc\u00eda J, Asara JM, Fendt SM, Cleveland JL, Gomes AP. Methylmalonic acid induces metabolic abnormalities and exhaustion in CD8+ T cells to suppress anti-tumor immunity. Oncogene",
+      "title": "Methylmalonic acid induces metabolic abnormalities and exhaustion in CD8+ T cells to suppress anti-tumor immunity",
       "pubmed_id": "39472497",
       "year": "2025",
-      "journal": "44(2):105-114",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Tejero JD, Hesterberg RS, Drapela S, Ilter D, Raizada D, Lazure F, Kashfi H, Liu M, Silvane L, Avram D, Fern\u00e1ndez-Garc\u00eda J, Asara JM, Fendt SM, Cleveland JL, Gomes AP",
+      "journal": "Oncogene"
     },
     {
-      "title": "Davis JT, Obermayer AN, Soupir AC, Hesterberg RS, Duong T, Yang CY, Dao KP, Manley BJ, Grass GD, Avram D, Rodriguez PC, Fridley BL, Yu X, Teng M, Wang X, Shaw TI. BatchFLEX: feature-level equalization of X-batch. Bioinformatics",
+      "title": "BatchFLEX: feature-level equalization of X-batch",
       "pubmed_id": "39360977",
       "pmc_id": "PMC11486499",
       "year": "2024",
-      "journal": "40(10)",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Davis JT, Obermayer AN, Soupir AC, Hesterberg RS, Duong T, Yang CY, Dao KP, Manley BJ, Grass GD, Avram D, Rodriguez PC, Fridley BL, Yu X, Teng M, Wang X, Shaw TI",
+      "journal": "Bioinformatics"
     },
     {
-      "title": "Burton C, Bitaraf A, Snyder K, Zhang C, Yoder SJ, Avram D, Du D, Yu X, Lau EK. The functional role of L-fucose on dendritic cell function and polarization. Front Immunol",
+      "title": "The functional role of L-fucose on dendritic cell function and polarization",
       "pubmed_id": "38646527",
       "pmc_id": "PMC11026564",
       "year": "2024",
-      "journal": "15:1353570",
-      "authors": ""
+      "publication_date": "2024 Apr",
+      "authors": "Burton C, Bitaraf A, Snyder K, Zhang C, Yoder SJ, Avram D, Du D, Yu X, Lau EK",
+      "journal": "Front Immunol"
     },
     {
-      "title": "Bracho-Sanchez E, Rocha FG, Bedingfield SK, Partain BD, Macias SL, Brusko MA, Colazo JM, Fettis MM, Farhadi SA, Helm EY, Koenders K, Kwiatkowski AJ, Restuccia A, Morales BS, Wanchoo A, Avram D, Allen KD, Duvall CL, Wallet SM, Hudalla GA, Keselowsky BG. Suppression of local inflammation via galectin-anchored indoleamine 2,3-dioxygenase. Nat Biomed Eng",
+      "title": "Suppression of local inflammation via galectin-anchored indoleamine 2,3-dioxygenase",
       "pubmed_id": "37127708",
       "pmc_id": "PMC10504068",
       "year": "2023",
-      "journal": "7(9):1156-1169",
-      "authors": ""
+      "publication_date": "2023 Sep",
+      "authors": "Bracho-Sanchez E, Rocha FG, Bedingfield SK, Partain BD, Macias SL, Brusko MA, Colazo JM, Fettis MM, Farhadi SA, Helm EY, Koenders K, Kwiatkowski AJ, Restuccia A, Morales BS, Wanchoo A, Avram D, Allen KD, Duvall CL, Wallet SM, Hudalla GA, Keselowsky BG",
+      "journal": "Nat Biomed Eng"
     },
     {
-      "title": "Feng Y, Yuan Q, Newsome RC, Robinson T, Bowman RL, Zuniga AN, Hall KN, Bernsten CM, Shabashvili DE, Krajcik KI, Gunaratne C, Zaroogian ZJ, Venugopal K, Casellas Roman HL, Levine RL, Chatila WK, Yaeger R, Riva A, Jobin C, Kopinke D, Avram D, Guryanova OA. Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer. J Exp Med",
+      "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
       "pubmed_id": "37615936",
       "pmc_id": "PMC10450614",
       "year": "2023",
-      "journal": "220(11)",
-      "authors": ""
+      "publication_date": "2023 Nov",
+      "authors": "Feng Y, Yuan Q, Newsome RC, Robinson T, Bowman RL, Zuniga AN, Hall KN, Bernsten CM, Shabashvili DE, Krajcik KI, Gunaratne C, Zaroogian ZJ, Venugopal K, Casellas Roman HL, Levine RL, Chatila WK, Yaeger R, Riva A, Jobin C, Kopinke D, Avram D, Guryanova OA",
+      "journal": "J Exp Med"
     },
     {
-      "title": "Kwiatkowski AJ, Helm EY, Stewart J, Leon J, Drashansky T, Avram D, Keselowsky B. Design principles of microparticle size and immunomodulatory factor formulation dictate antigen-specific amelioration of multiple sclerosis in a mouse model. Biomaterials",
+      "title": "Design principles of microparticle size and immunomodulatory factor formulation dictate antigen-specific amelioration of multiple sclerosis in a mouse model",
       "pubmed_id": "36716589",
       "year": "2023",
-      "journal": "294:122001",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Kwiatkowski AJ, Helm EY, Stewart J, Leon J, Drashansky T, Avram D, Keselowsky B",
+      "journal": "Biomaterials"
     },
     {
-      "title": "Dean JW, Helm EY, Fu Z, Xiong L, Sun N, Oliff KN, Muehlbauer M, Avram D, Zhou L. The aryl hydrocarbon receptor cell intrinsically promotes resident memory CD8+ T cell differentiation and function. Cell Rep",
+      "title": "The aryl hydrocarbon receptor cell intrinsically promotes resident memory CD8+ T cell differentiation and function",
       "pubmed_id": "36640340",
       "pmc_id": "PMC9940759",
       "year": "2023",
-      "journal": "42(1):111963",
-      "authors": ""
+      "publication_date": "2023 Jan",
+      "authors": "Dean JW, Helm EY, Fu Z, Xiong L, Sun N, Oliff KN, Muehlbauer M, Avram D, Zhou L",
+      "journal": "Cell Rep"
     },
     {
-      "title": "Helm EY, Zelenka T, Cismasiu VB, Islam S, Silvane L, Zitti B, Holmes TD, Drashansky TT, Kwiatkowski AJ, Tao C, Dean J, Obermayer AN, Chen X, Keselowsky BG, Zhang W, Huo Z, Zhou L, Sheridan BS, Conejo-Garcia JR, Shaw TI, Bryceson YT, Avram D. Bcl11b sustains multipotency and restricts effector programs of intestinal-resident memory CD8+ T cells. Sci Immunol",
+      "title": "Bcl11b sustains multipotency and restricts effector programs of intestinal-resident memory CD8+ T cells",
       "pubmed_id": "37115913",
       "pmc_id": "PMC10231135",
       "year": "2023",
-      "journal": "8(82):eabn0484",
-      "authors": ""
+      "publication_date": "2023 Apr",
+      "authors": "Helm EY, Zelenka T, Cismasiu VB, Islam S, Silvane L, Zitti B, Holmes TD, Drashansky TT, Kwiatkowski AJ, Tao C, Dean J, Obermayer AN, Chen X, Keselowsky BG, Zhang W, Huo Z, Zhou L, Sheridan BS, Conejo-Garcia JR, Shaw TI, Bryceson YT, Avram D",
+      "journal": "Sci Immunol"
     }
   ],
   "grants": [
     {
       "description": "Title: Program control of CD8+ T cell response to tumors and tumor memory  \nAward Number: 1R01CA293755-01A1  \nSponsor: National Institutes of Health (NIH)  \nAvram, D. (PD/PI), Shaw, T. (Co-PD/PI)",
+      "title": "Program control of CD8+ T cell response to tumors and tumor memory",
+      "award_number": "1R01CA293755-01A1",
+      "sponsor": "National Institutes of Health (NIH)",
       "source": "NIH",
-      "period": "3755-01"
+      "investigators": [
+        {
+          "name": "Avram, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Shaw, T.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Platinum-induced lipid reprogramming and tumor immune microenvironment in SCLC  \nAward Number: 1R01CA269782-01  \nSponsor: National Cancer Institute (NCI)  \nAvram, D. (PD/PI)",
+      "title": "Platinum-induced lipid reprogramming and tumor immune microenvironment in SCLC",
+      "award_number": "1R01CA269782-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "9782-01"
+      "investigators": [
+        {
+          "name": "Avram, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: High throughput screening assays to identify chemical probes targeting Hectd3, an E3 ubiquitin ligase implicated in multiple sclerosis  \nAward Number: 5R01AI161845-05  \nSponsor: National Cancer Institute (NCI)  \nAvram, D. (PD/PI)",
+      "title": "High throughput screening assays to identify chemical probes targeting Hectd3, an E3 ubiquitin ligase implicated in multiple sclerosis",
+      "award_number": "5R01AI161845-05",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "1845-05"
+      "investigators": [
+        {
+          "name": "Avram, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Directing Tryptophan Immunometabolism to Ameliorate Liver Ischemic-Reperfusion Injury  \nAward Number: 5R01DK129690-02  \nSponsor: National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)  \nAvram, D. (PD/PI)",
-      "period": "9690-02"
+      "title": "Directing Tryptophan Immunometabolism to Ameliorate Liver Ischemic-Reperfusion Injury",
+      "award_number": "5R01DK129690-02",
+      "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "investigators": [
+        {
+          "name": "Avram, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Tissue-Anchored vs. Circulating Constructs for Immunometabolic Resolution of Psoriasis  \nAward Number: 1R01AI171045-01A1  \nSponsor: National Institutes of Health (NIH)  \nAvram, D. (PD/PI)",
+      "title": "Tissue-Anchored vs. Circulating Constructs for Immunometabolic Resolution of Psoriasis",
+      "award_number": "1R01AI171045-01A1",
+      "sponsor": "National Institutes of Health (NIH)",
       "source": "NIH",
-      "period": "1045-01"
+      "investigators": [
+        {
+          "name": "Avram, D.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AvramDorina_27668.jpg",
@@ -138,7 +192,7 @@
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27668",
     "email": "dorina.avram@moffitt.org"
   },
-  "content_hash": "e424d4431f5d56ef4c63952c72abfae051c3fde5d479b6ffd099d5c9e18a7159",
+  "content_hash": "986630718d38a1cc121b34bf2305f8afcd17fed79926122c20c67cb3217caaa6",
   "researcher_name": "Dorina Avram",
   "department": "Immunology"
 }

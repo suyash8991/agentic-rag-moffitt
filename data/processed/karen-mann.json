@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/karen-mann",
-  "last_updated": "2025-10-19T00:25:52.202630",
+  "last_updated": "2025-10-21T16:34:57.917791",
   "researcher_id": "17771",
   "degrees": [
     "PhD"
@@ -37,101 +37,128 @@
   ],
   "publications": [
     {
-      "title": "Crawford KJ, Humphrey KS, Cortes E, Wang J, Kumarasamy V, Wan Y, Long MD, Feigin ME, Witkiewicz AK, Mann KM, Knudsen ES, Abel EV. Targeting FGFR4 abrogates HNF1A-driven metastasis in pancreatic ductal adenocarcinoma. Mol Cancer",
+      "title": "Targeting FGFR4 abrogates HNF1A-driven metastasis in pancreatic ductal adenocarcinoma",
       "pubmed_id": "40731412",
       "pmc_id": "PMC12306140",
       "year": "2025",
-      "journal": "24(1):208",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Crawford KJ, Humphrey KS, Cortes E, Wang J, Kumarasamy V, Wan Y, Long MD, Feigin ME, Witkiewicz AK, Mann KM, Knudsen ES, Abel EV",
+      "journal": "Mol Cancer"
     },
     {
-      "title": "Mann KM. POGK is a domesticated KRAB domain-containing transposable element with tumor suppressive functions in breast cancer. Trends Cell Biol",
+      "title": "POGK is a domesticated KRAB domain-containing transposable element with tumor suppressive functions in breast cancer",
       "pubmed_id": "39547880",
       "year": "2025",
-      "journal": "35(1):4-5",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Mann KM",
+      "journal": "Trends Cell Biol"
     },
     {
-      "title": "Maurin M, Ranjouri M, Megino-Luque C, Newberg JY, Du D, Martin K, Miner RE, Prater MS, Wee DKB, Centeno B, Pruett-Miller SM, Stewart P, Fleming JB, Yu X, Bravo-Cordero JJ, Guccione E, Black MA, Mann KM. RBFOX2 deregulation promotes pancreatic cancer progression and metastasis through alternative splicing. Nat Commun",
+      "title": "RBFOX2 deregulation promotes pancreatic cancer progression and metastasis through alternative splicing",
       "pubmed_id": "38114498",
       "pmc_id": "PMC10730836",
       "year": "2023",
-      "journal": "14(1):8444",
-      "authors": ""
+      "publication_date": "2023 Dec",
+      "authors": "Maurin M, Ranjouri M, Megino-Luque C, Newberg JY, Du D, Martin K, Miner RE, Prater MS, Wee DKB, Centeno B, Pruett-Miller SM, Stewart P, Fleming JB, Yu X, Bravo-Cordero JJ, Guccione E, Black MA, Mann KM",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Vaishnavi A, Juan J, Jacob M, Stehn C, Gardner EE, Scherzer MT, Schuman S, van Veen JE, Murphy B, Hackett CS, Dupuy AJ, Chmura SA, van der Weyden L, Newberg JY, Liu A, Mann K, Rust AG, Weiss WA, Kinsey CG, Adams DJ, Grossmann A, Mann MB, McMahon M. Transposon Mutagenesis Reveals RBMS3 Silencing as a Promoter of Malignant Progression of BRAFV600E-Driven Lung Tumorigenesis. Cancer Res",
+      "title": "Transposon Mutagenesis Reveals RBMS3 Silencing as a Promoter of Malignant Progression of BRAFV600E-Driven Lung Tumorigenesis",
       "pubmed_id": "36112789",
       "pmc_id": "PMC9664136",
       "year": "2022",
-      "journal": "82(22):4261-4273",
-      "authors": ""
+      "publication_date": "2022 Nov",
+      "authors": "Vaishnavi A, Juan J, Jacob M, Stehn C, Gardner EE, Scherzer MT, Schuman S, van Veen JE, Murphy B, Hackett CS, Dupuy AJ, Chmura SA, van der Weyden L, Newberg JY, Liu A, Mann K, Rust AG, Weiss WA, Kinsey CG, Adams DJ, Grossmann A, Mann MB, McMahon M",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Ho JS, Di Tullio F, Schwarz M, Low D, Incarnato D, Gay F, Tabaglio T, Zhang J, Wollmann H, Chen L, An O, Chan THM, Hall Hickman A, Zheng S, Roudko V, Chen S, Karz A, Ahmed M, He HH, Greenbaum BD, Oliviero S, Serresi M, Gargiulo G, Mann KM, Hernando E, Mulholland D, Marazzi I, Wee DKB, Guccione E. HNRNPM controls circRNA biogenesis and splicing fidelity to sustain cancer cell fitness. Elife",
+      "title": "HNRNPM controls circRNA biogenesis and splicing fidelity to sustain cancer cell fitness",
       "pubmed_id": "34075878",
       "pmc_id": "PMC8346284",
       "year": "2021",
-      "journal": "10",
-      "authors": ""
+      "publication_date": "2021 Jun",
+      "authors": "Ho JS, Di Tullio F, Schwarz M, Low D, Incarnato D, Gay F, Tabaglio T, Zhang J, Wollmann H, Chen L, An O, Chan THM, Hall Hickman A, Zheng S, Roudko V, Chen S, Karz A, Ahmed M, He HH, Greenbaum BD, Oliviero S, Serresi M, Gargiulo G, Mann KM, Hernando E, Mulholland D, Marazzi I, Wee DKB, Guccione E",
+      "journal": "Elife"
     },
     {
-      "title": "Aiderus A, Contreras-Sandoval AM, Meshey AL, Newberg JY, Ward JM, Swing DA, Copeland NG, Jenkins NA, Mann KM, Mann MB. Promoterless Transposon Mutagenesis Drives Solid Cancers via Tumor Suppressor Inactivation. Cancers (Basel)",
+      "title": "Promoterless Transposon Mutagenesis Drives Solid Cancers via Tumor Suppressor Inactivation",
       "pubmed_id": "33435458",
       "pmc_id": "PMC7827284",
       "year": "2021",
-      "journal": "13(2)",
-      "authors": ""
+      "publication_date": "2021 Jan",
+      "authors": "Aiderus A, Contreras-Sandoval AM, Meshey AL, Newberg JY, Ward JM, Swing DA, Copeland NG, Jenkins NA, Mann KM, Mann MB",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Aiderus A, Newberg JY, Guzman-Rojas L, Contreras-Sandoval AM, Meshey AL, Jones DJ, Amaya-Manzanares F, Rangel R, Ward JM, Lee SC, Ban KH, Rogers K, Rogers SM, Selvanesan L, McNoe LA, Copeland NG, Jenkins NA, Tsai KY, Black MA, Mann KM, Mann MB. Transposon mutagenesis identifies cooperating genetic drivers during keratinocyte transformation and cutaneous squamous cell carcinoma progression. PLoS Genet",
+      "title": "Transposon mutagenesis identifies cooperating genetic drivers during keratinocyte transformation and cutaneous squamous cell carcinoma progression",
       "pubmed_id": "34398873",
       "pmc_id": "PMC8389471",
       "year": "2021",
-      "journal": "17(8):e1009094",
-      "authors": ""
+      "publication_date": "2021 Aug",
+      "authors": "Aiderus A, Newberg JY, Guzman-Rojas L, Contreras-Sandoval AM, Meshey AL, Jones DJ, Amaya-Manzanares F, Rangel R, Ward JM, Lee SC, Ban KH, Rogers K, Rogers SM, Selvanesan L, McNoe LA, Copeland NG, Jenkins NA, Tsai KY, Black MA, Mann KM, Mann MB",
+      "journal": "PLoS Genet"
     },
     {
-      "title": "Newberg JY, Black MA, Jenkins NA, Copeland NG, Mann KM, Mann MB. SB Driver Analysis: a Sleeping Beauty cancer driver analysis framework for identifying and prioritizing experimentally actionable oncogenes and tumor suppressors. Nucleic Acids Res",
+      "title": "SB Driver Analysis: a Sleeping Beauty cancer driver analysis framework for identifying and prioritizing experimentally actionable oncogenes and tumor suppressors",
       "pubmed_id": "29846651",
       "pmc_id": "PMC6144815",
       "year": "2018",
-      "journal": "46(16):e94",
-      "authors": ""
+      "publication_date": "2018 Sep",
+      "authors": "Newberg JY, Black MA, Jenkins NA, Copeland NG, Mann KM, Mann MB",
+      "journal": "Nucleic Acids Res"
     },
     {
-      "title": "Newberg JY, Mann KM, Mann MB, Jenkins NA, Copeland NG. SBCDDB: Sleeping Beauty Cancer Driver Database for gene discovery in mouse models of human cancers. Nucleic Acids Res",
+      "title": "SBCDDB: Sleeping Beauty Cancer Driver Database for gene discovery in mouse models of human cancers",
       "pubmed_id": "29059366",
       "pmc_id": "PMC5753260",
       "year": "2018",
-      "journal": "46(D1):D1011-D1017",
-      "authors": ""
+      "publication_date": "2018 Jan",
+      "authors": "Newberg JY, Mann KM, Mann MB, Jenkins NA, Copeland NG",
+      "journal": "Nucleic Acids Res"
     },
     {
-      "title": "Mann KM, Newberg JY, Black MA, Jones DJ, Amaya-Manzanares F, Guzman-Rojas L, Kodama T, Ward JM, Rust AG, van der Weyden L, Yew CC, Waters JL, Leung ML, Rogers K, Rogers SM, McNoe LA, Selvanesan L, Navin N, Jenkins NA, Copeland NG, Mann MB. Analyzing tumor heterogeneity and driver genes in single myeloid leukemia cells with SBCapSeq. Nat Biotechnol",
+      "title": "Analyzing tumor heterogeneity and driver genes in single myeloid leukemia cells with SBCapSeq",
       "pubmed_id": "27479497",
       "pmc_id": "PMC6124494",
       "year": "2016",
-      "journal": "34(9):962-972",
-      "authors": ""
+      "publication_date": "2016 Sep",
+      "authors": "Mann KM, Newberg JY, Black MA, Jones DJ, Amaya-Manzanares F, Guzman-Rojas L, Kodama T, Ward JM, Rust AG, van der Weyden L, Yew CC, Waters JL, Leung ML, Rogers K, Rogers SM, McNoe LA, Selvanesan L, Navin N, Jenkins NA, Copeland NG, Mann MB",
+      "journal": "Nat Biotechnol"
     }
   ],
   "grants": [
     {
       "description": "Title: MBNL1 is a latent tumor suppressor in pancreatic cancer metastasis  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nMann, K. (PD/PI)",
-      "source": "Foundation"
+      "title": "MBNL1 is a latent tumor suppressor in pancreatic cancer metastasis",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Mann, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: RBFOX2 deregulation promotes pancreatic cancer progression through alternative splicing  \nAward Number: 1R01CA279713-01  \nSponsor: National Cancer Institute (NCI)  \nMann, K. (PD/PI)",
+      "title": "RBFOX2 deregulation promotes pancreatic cancer progression through alternative splicing",
+      "award_number": "1R01CA279713-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "9713-01"
+      "investigators": [
+        {
+          "name": "Mann, K.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MannKaren_17771.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17771"
   },
-  "content_hash": "0a450f47ff6d90a3512ce321c2db8f3dbf4e89c5bb3844149ff8bc1abc09ee5f",
+  "content_hash": "b30a05504eb4c49683d4b8934b1a744897e37895cdbe0dc7be4465c2d801aed4",
   "researcher_name": "Karen Mann",
   "department": "Molecular Oncology"
 }

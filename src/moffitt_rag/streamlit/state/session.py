@@ -6,10 +6,10 @@ Streamlit session state variables.
 """
 
 import streamlit as st
-import logging
+from ...utils.logging import get_logger, log_ui_event
 
-# Configure logging
-logger = logging.getLogger(__name__)
+# Get logger for this module
+logger = get_logger(__name__)
 
 def init_session_state():
     """
@@ -31,6 +31,9 @@ def init_session_state():
 
     if initialized:
         logger.info("Session state initialized")
+        log_ui_event("session_initialized", {
+            "variables": ["current_state", "conversation_history"]
+        })
 
 
 def get_current_page():
@@ -53,8 +56,14 @@ def set_current_page(page_name):
     if page_name in ["chat", "explore", "settings"]:
         st.session_state.current_state = page_name
         logger.info(f"Current page set to: {page_name}")
+        log_ui_event("page_changed", {
+            "page": page_name
+        })
     else:
         logger.warning(f"Invalid page name: {page_name}")
+        log_ui_event("invalid_page_requested", {
+            "attempted_page": page_name
+        })
 
 
 def add_user_message(content):
@@ -70,6 +79,12 @@ def add_user_message(content):
     st.session_state.conversation_history.append({
         "role": "user",
         "content": content
+    })
+
+    # Log user message event
+    log_ui_event("user_message", {
+        "length": len(content),
+        "conversation_length": len(st.session_state.conversation_history)
     })
 
 
@@ -88,13 +103,27 @@ def add_assistant_message(content):
         "content": content
     })
 
+    # Log assistant message event
+    log_ui_event("assistant_message", {
+        "length": len(content),
+        "conversation_length": len(st.session_state.conversation_history)
+    })
+
 
 def clear_conversation_history():
     """
     Clear the conversation history in the session state.
     """
+    # Get conversation length before clearing
+    history_length = len(st.session_state.conversation_history) if 'conversation_history' in st.session_state else 0
+
     st.session_state.conversation_history = []
     logger.info("Conversation history cleared")
+
+    # Log conversation cleared event
+    log_ui_event("conversation_cleared", {
+        "previous_length": history_length
+    })
 
 
 def get_conversation_history():

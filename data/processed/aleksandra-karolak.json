@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/aleksandra-karolak",
-  "last_updated": "2025-10-19T00:28:47.395051",
+  "last_updated": "2025-10-21T16:37:49.899239",
   "researcher_id": "16049",
   "degrees": [
     "PhD"
@@ -29,100 +29,137 @@
   ],
   "publications": [
     {
-      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "title": "The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma",
       "pubmed_id": "40553455",
       "year": "2025",
-      "journal": "34(9):1609-1617",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
-      "title": "Nguyen T, Karolak A. Transformer graph variational autoencoder for generative molecular design. Biophys J",
+      "title": "Transformer graph variational autoencoder for generative molecular design",
       "pubmed_id": "39885689",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Nguyen T, Karolak A",
+      "journal": "Biophys J"
     },
     {
-      "title": "Wojtulewski A, Sikora A, Dineen S, Raoof M, Karolak A. Using artificial intelligence and statistics for managing peritoneal metastases from gastrointestinal cancers. Brief Funct Genomics",
+      "title": "Using artificial intelligence and statistics for managing peritoneal metastases from gastrointestinal cancers",
       "pubmed_id": "39736152",
       "pmc_id": "PMC11735730",
       "year": "2025",
-      "journal": "24",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Wojtulewski A, Sikora A, Dineen S, Raoof M, Karolak A",
+      "journal": "Brief Funct Genomics"
     },
     {
-      "title": "Karolak A, Urbaniak K, Monastyrskyi A, Duckett DR, Branciamore S, Stewart PA. Structure-independent machine-learning predictions of the CDK12 interactome. Biophys J",
+      "title": "Structure-independent machine-learning predictions of the CDK12 interactome",
       "pubmed_id": "38762754",
       "pmc_id": "PMC11393676",
       "year": "2024",
-      "journal": "123(17):2910-2920",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Karolak A, Urbaniak K, Monastyrskyi A, Duckett DR, Branciamore S, Stewart PA",
+      "journal": "Biophys J"
     },
     {
-      "title": "Sikora A, Sullivan KM, Dineen S, Raoof M, Karolak A. Emerging therapeutic approaches for peritoneal metastases from gastrointestinal cancers. Mol Ther Oncol",
+      "title": "Emerging therapeutic approaches for peritoneal metastases from gastrointestinal cancers",
       "pubmed_id": "38596287",
       "pmc_id": "PMC10873742",
       "year": "2024",
-      "journal": "32(1):200767",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Sikora A, Sullivan KM, Dineen S, Raoof M, Karolak A",
+      "journal": "Mol Ther Oncol"
     },
     {
-      "title": "Mukund A, Afridi MA, Karolak A, Park MA, Permuth JB, Rasool G. Pancreatic Ductal Adenocarcinoma (PDAC): A Review of Recent Advancements Enabled by Artificial Intelligence. Cancers (Basel)",
+      "title": "Pancreatic Ductal Adenocarcinoma (PDAC): A Review of Recent Advancements Enabled by Artificial Intelligence",
       "pubmed_id": "38927945",
       "pmc_id": "PMC11201559",
       "year": "2024",
-      "journal": "16(12)",
-      "authors": ""
+      "publication_date": "2024 Jun",
+      "authors": "Mukund A, Afridi MA, Karolak A, Park MA, Permuth JB, Rasool G",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Park MA, Gumpper-Fedus K, Krishna SG, Genilo-Delgado MC, Brantley S, Hart PA, Dillhoff ME, Gomez MF, Basinski TL, Mok SR, Luthra AK, Fleming JB, Mohammadi A, Centeno BA, Jiang K, Karolak A, Jeong D, Chen DT, Stewart PA, Teer JK, Cruz-Monserrate Z, Permuth JB. Molecular Pathway and Immune Profile Analysis of IPMN-Derived Versus PanIN-Derived Pancreatic Ductal Adenocarcinomas. Int J Mol Sci",
+      "title": "Molecular Pathway and Immune Profile Analysis of IPMN-Derived Versus PanIN-Derived Pancreatic Ductal Adenocarcinomas",
       "pubmed_id": "39684873",
       "pmc_id": "PMC11642437",
       "year": "2024",
-      "journal": "25(23)",
-      "authors": ""
+      "publication_date": "2024 Dec",
+      "authors": "Park MA, Gumpper-Fedus K, Krishna SG, Genilo-Delgado MC, Brantley S, Hart PA, Dillhoff ME, Gomez MF, Basinski TL, Mok SR, Luthra AK, Fleming JB, Mohammadi A, Centeno BA, Jiang K, Karolak A, Jeong D, Chen DT, Stewart PA, Teer JK, Cruz-Monserrate Z, Permuth JB",
+      "journal": "Int J Mol Sci"
     },
     {
-      "title": "El Naqa I, Karolak A, Luo Y, Folio L, Tarhini AA, Rollison D, Parodi K. Translation of AI into oncology clinical practice. Oncogene",
+      "title": "Translation of AI into oncology clinical practice",
       "pubmed_id": "37684407",
       "year": "2023",
-      "journal": "42(42):3089-3097",
-      "authors": ""
+      "publication_date": "2023 Oct",
+      "authors": "El Naqa I, Karolak A, Luo Y, Folio L, Tarhini AA, Rollison D, Parodi K",
+      "journal": "Oncogene"
     },
     {
-      "title": "Sch\u00f6ning V, Khurana A, Karolak A. Editorial: Spotlight on artificial intelligence in experimental pharmacology and drug discovery. Front Pharmacol",
+      "title": "Editorial: Spotlight on artificial intelligence in experimental pharmacology and drug discovery",
       "pubmed_id": "37711179",
       "pmc_id": "PMC10498275",
       "year": "2023",
-      "journal": "14:1261141",
-      "authors": ""
+      "publication_date": "2023 Aug",
+      "authors": "Sch\u00f6ning V, Khurana A, Karolak A",
+      "journal": "Front Pharmacol"
     },
     {
-      "title": "Shaw TI, Zhao B, Li Y, Wang H, Wang L, Manley B, Stewart PA, Karolak A. Multi-omics approach to identifying isoform variants as therapeutic targets in cancer patients. Front Oncol",
+      "title": "Multi-omics approach to identifying isoform variants as therapeutic targets in cancer patients",
       "pubmed_id": "36505834",
       "pmc_id": "PMC9730332",
       "year": "2022",
-      "journal": "12:1051487",
-      "authors": ""
+      "publication_date": "2022 Nov",
+      "authors": "Shaw TI, Zhao B, Li Y, Wang H, Wang L, Manley B, Stewart PA, Karolak A",
+      "journal": "Front Oncol"
     }
   ],
   "grants": [
     {
-      "description": "Title: Cancer AIKG: a Web-scale Trustworthy AI-Knowledge Graph-LLM hybrid on Cancer, Constructed and Interrogated for Bias using Deep-Learning  \nAward Number: 25C06  \nSponsor: Florida State University (FSU)  \nKarolak, A. (PD/PI)"
+      "description": "Title: Cancer AIKG: a Web-scale Trustworthy AI-Knowledge Graph-LLM hybrid on Cancer, Constructed and Interrogated for Bias using Deep-Learning  \nAward Number: 25C06  \nSponsor: Florida State University (FSU)  \nKarolak, A. (PD/PI)",
+      "title": "Cancer AIKG: a Web-scale Trustworthy AI-Knowledge Graph-LLM hybrid on Cancer, Constructed and Interrogated for Bias using Deep-Learning",
+      "award_number": "25C06",
+      "sponsor": "Florida State University (FSU)",
+      "investigators": [
+        {
+          "name": "Karolak, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Multi-omic Evaluation of Ovarian Cancer Responses to Heated Intraperitoneal Chemotherapy (HiPEC)  \nAward Number: HT9425-21-1-0342  \nSponsor: Department of Defense (DOD)  \nKarolak, A. (PD/PI)",
+      "title": "Multi-omic Evaluation of Ovarian Cancer Responses to Heated Intraperitoneal Chemotherapy (HiPEC)",
+      "award_number": "HT9425-21-1-0342",
+      "sponsor": "Department of Defense (DOD)",
       "source": "DOD",
-      "period": "9425-21"
+      "investigators": [
+        {
+          "name": "Karolak, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: CancerAIKG: A Web-scale Trustworthy AI-Knowledge Graph-LLM hybrid on Cancer, Constructed and Interrogated for Bias Using Deep-Learning  \nAward Number: MOABG  \nSponsor: Florida State University (FSU)  \nKarolak, A. (PD/PI)"
+      "description": "Title: CancerAIKG: A Web-scale Trustworthy AI-Knowledge Graph-LLM hybrid on Cancer, Constructed and Interrogated for Bias Using Deep-Learning  \nAward Number: MOABG  \nSponsor: Florida State University (FSU)  \nKarolak, A. (PD/PI)",
+      "title": "CancerAIKG: A Web-scale Trustworthy AI-Knowledge Graph-LLM hybrid on Cancer, Constructed and Interrogated for Bias Using Deep-Learning",
+      "award_number": "MOABG",
+      "sponsor": "Florida State University (FSU)",
+      "investigators": [
+        {
+          "name": "Karolak, A.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KarolakAleksandra_16049.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16049"
   },
-  "content_hash": "0ad21f5b06108d3a86ddca24e47e804dbe3ce306cc5820c70be14f500be215da",
+  "content_hash": "2933b3db492c634e94c23621fa53182a22d1644124a700cdac2ef106707ebc79",
   "researcher_name": "Aleksandra Karolak",
   "department": "Machine Learning"
 }

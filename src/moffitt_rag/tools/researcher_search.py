@@ -7,7 +7,6 @@ interests, or background using semantic and keyword search with proper metadata 
 
 import re
 import json
-import logging
 import ast
 
 from typing import List, Dict, Any, Optional, Type, Union
@@ -19,10 +18,10 @@ from pydantic import BaseModel, Field
 from ..db.hybrid_search import hybrid_search
 from ..config.config import get_settings
 from ..db.vector_store import get_or_create_vector_db, similarity_search_with_score
+from ..utils.logging import get_logger, log_tool_event
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Get logger for this module
+logger = get_logger(__name__)
 
 
 def _coerce_to_payload(maybe_str: str) -> Dict[str, Any]:
@@ -137,6 +136,14 @@ class ResearcherSearchTool(BaseTool):
         """
         Run the tool with a dictionary or JSON string input.
         """
+        logger.info("Starting ResearcherSearchTool execution")
+        
+        # Log structured event for tool start
+        log_tool_event("researcher_search_start", {
+            "tool_input_type": type(tool_input).__name__,
+            "tool_input_length": len(str(tool_input)) if tool_input else 0
+        })
+        
         researcher_name: Optional[str] = None
         topic: Optional[str] = None
 
@@ -155,29 +162,69 @@ class ResearcherSearchTool(BaseTool):
                 topic = tool_input
 
         if not researcher_name and not topic:
+            logger.warning("No researcher_name or topic provided")
+            log_tool_event("researcher_search_error", {"error": "missing_input"})
             return "Error: You must provide either a researcher_name or a topic to the ResearcherSearchTool."
 
         if researcher_name:
             logger.info(f"Performing a name search for: '{researcher_name}'")
+            log_tool_event("name_search_detected", {"researcher_name": researcher_name[:50]})
             query = researcher_name
             alpha = 0.3 # Prioritize keyword matching for names
         else: # topic must be present
             logger.info(f"Performing a topic search for: '{topic}'")
+            log_tool_event("topic_search_detected", {"topic": topic[:50]})
             query = topic
             alpha = 0.7 # Prioritize semantic matching for topics
 
         logger.info(f"Searching with query: '{query}' and alpha: {alpha}")
+        
+        # Log search parameters
+        log_tool_event("search_parameters", {
+            "query": query[:100],
+            "alpha": alpha,
+            "search_type": "name" if researcher_name else "topic"
+        })
 
-        results = hybrid_search(
-            query=query,
-            k=5,
-            alpha=alpha
-        )
+        try:
+            results = hybrid_search(
+                query=query,
+                k=5,
+                alpha=alpha
+            )
+            
+            logger.info(f"Search completed, found {len(results) if results else 0} results")
+            
+            # Log search results
+            log_tool_event("search_completed", {
+                "query": query[:100],
+                "result_count": len(results) if results else 0,
+                "alpha": alpha
+            })
 
-        if not results:
-            return f"No researchers found matching: {query}"
+            if not results:
+                logger.info(f"No researchers found matching: {query}")
+                return f"No researchers found matching: {query}"
 
-        return self._format_results(results, query)
+            formatted_results = self._format_results(results, query)
+            logger.info(f"Formatted results (length: {len(formatted_results)})")
+            
+            # Log successful completion
+            log_tool_event("researcher_search_complete", {
+                "query": query[:100],
+                "result_count": len(results),
+                "formatted_length": len(formatted_results)
+            })
+            
+            return formatted_results
+            
+        except Exception as e:
+            logger.error(f"Error in researcher search: {e}")
+            log_tool_event("researcher_search_error", {
+                "error": str(e),
+                "query": query[:100] if 'query' in locals() else "unknown"
+            })
+            return f"Error searching for researchers: {str(e)}"
 
     async def _arun(self, tool_input: Union[str, Dict]) -> str:
         """

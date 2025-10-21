@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/alex-soupir",
-  "last_updated": "2025-10-19T00:27:38.757062",
+  "last_updated": "2025-10-21T16:36:43.500514",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
@@ -20,87 +20,99 @@
   "education": [],
   "publications": [
     {
-      "title": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS. Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes. Nat Commun",
+      "title": "Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes",
       "pubmed_id": "40328759",
       "pmc_id": "PMC12055966",
       "year": "2025",
-      "journal": "16(1):4206",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL. spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis. Cancer Res",
+      "title": "spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis",
       "pubmed_id": "39636739",
       "pmc_id": "PMC11873723",
       "year": "2025",
-      "journal": "85(5):848-858",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL",
+      "journal": "Cancer Res"
     },
     {
-      "title": "May AM, Kadomoto S, Williams C, Soupir AC, The S, McGue JJ, Robinson T, Shelley G, Hayes MT, Fridley BL, Balasi JA, Ramos Echevarria PM, Dhillon J, Nallandhighal S, Acharyya S, Chen L, Aldous J, Schurman N, Baladandayuthapani V, Frankel TL, Salami SS, Manley BJ, Mehra R, Udager AM, Keller ET. Spatial analysis reveals a novel inflammatory tumor transition state which promotes a macrophage-driven induction of sarcomatoid renal cell carcinoma. bioRxiv",
+      "title": "Spatial analysis reveals a novel inflammatory tumor transition state which promotes a macrophage-driven induction of sarcomatoid renal cell carcinoma",
       "pubmed_id": "40661608",
       "pmc_id": "PMC12259133",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "May AM, Kadomoto S, Williams C, Soupir AC, The S, McGue JJ, Robinson T, Shelley G, Hayes MT, Fridley BL, Balasi JA, Ramos Echevarria PM, Dhillon J, Nallandhighal S, Acharyya S, Chen L, Aldous J, Schurman N, Baladandayuthapani V, Frankel TL, Salami SS, Manley BJ, Mehra R, Udager AM, Keller ET",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Fenlon J, Van Bibber N, Mahlow J, Yamoah K, Soupir AC, Nguyen JV, Moran Segura C, Spivak AM, Knudsen BS, Zhou Q, Hu-Lieskovan S, Puri S, Zhang W, DeRose YS, Suneja G, Coghill AE. Human Immunodeficiency Virus-Associated Differences in the Tumor Immune Microenvironment of Lung, Breast, and Prostate Cancers. Cancer Epidemiol Biomarkers Prev",
+      "title": "Human Immunodeficiency Virus-Associated Differences in the Tumor Immune Microenvironment of Lung, Breast, and Prostate Cancers",
       "pubmed_id": "40183760",
       "pmc_id": "PMC12133412",
       "year": "2025",
-      "journal": "34(6):860-867",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Fenlon J, Van Bibber N, Mahlow J, Yamoah K, Soupir AC, Nguyen JV, Moran Segura C, Spivak AM, Knudsen BS, Zhou Q, Hu-Lieskovan S, Puri S, Zhang W, DeRose YS, Suneja G, Coghill AE",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
-      "title": "Davis JT, Obermayer AN, Soupir AC, Hesterberg RS, Duong T, Yang CY, Dao KP, Manley BJ, Grass GD, Avram D, Rodriguez PC, Fridley BL, Yu X, Teng M, Wang X, Shaw TI. BatchFLEX: feature-level equalization of X-batch. Bioinformatics",
+      "title": "BatchFLEX: feature-level equalization of X-batch",
       "pubmed_id": "39360977",
       "pmc_id": "PMC11486499",
       "year": "2024",
-      "journal": "40(10)",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Davis JT, Obermayer AN, Soupir AC, Hesterberg RS, Duong T, Yang CY, Dao KP, Manley BJ, Grass GD, Avram D, Rodriguez PC, Fridley BL, Yu X, Teng M, Wang X, Shaw TI",
+      "journal": "Bioinformatics"
     },
     {
-      "title": "Wrobel J, Soupir AC, Hayes MT, Peres LC, Vu T, Leroux A, Fridley BL. mxfda: a comprehensive toolkit for functional data analysis of single-cell spatial data. Bioinform Adv",
+      "title": "mxfda: a comprehensive toolkit for functional data analysis of single-cell spatial data",
       "pubmed_id": "39552929",
       "pmc_id": "PMC11568348",
       "year": "2024",
-      "journal": "4(1):vbae155",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Wrobel J, Soupir AC, Hayes MT, Peres LC, Vu T, Leroux A, Fridley BL",
+      "journal": "Bioinform Adv"
     },
     {
-      "title": "Ospina OE, Soupir AC, Manjarres-Betancur R, Gonzalez-Calderon G, Yu X, Fridley BL. Differential gene expression analysis of spatial transcriptomic experiments using spatial mixed models. Sci Rep",
+      "title": "Differential gene expression analysis of spatial transcriptomic experiments using spatial mixed models",
       "pubmed_id": "38744956",
       "pmc_id": "PMC11094014",
       "year": "2024",
-      "journal": "14(1):10967",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Ospina OE, Soupir AC, Manjarres-Betancur R, Gonzalez-Calderon G, Yu X, Fridley BL",
+      "journal": "Sci Rep"
     },
     {
-      "title": "Huelster HL, Gould B, Schiftan EA, Camperlengo L, Davaro F, Rose KM, Soupir AC, Jia S, Zheng T, Sexton WJ, Pow-Sang J, Spiess PE, Daniel Grass G, Wang L, Wang X, Vosoughi A, Necchi A, Meeks JJ, Faltas BM, Du P, Li R. Novel Use of Circulating Tumor DNA to Identify Muscle-invasive and Non-organ-confined Upper Tract Urothelial Carcinoma. Eur Urol",
+      "title": "Novel Use of Circulating Tumor DNA to Identify Muscle-invasive and Non-organ-confined Upper Tract Urothelial Carcinoma",
       "pubmed_id": "37802683",
       "year": "2024",
-      "journal": "85(3):283-292",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Huelster HL, Gould B, Schiftan EA, Camperlengo L, Davaro F, Rose KM, Soupir AC, Jia S, Zheng T, Sexton WJ, Pow-Sang J, Spiess PE, Daniel Grass G, Wang L, Wang X, Vosoughi A, Necchi A, Meeks JJ, Faltas BM, Du P, Li R",
+      "journal": "Eur Urol"
     },
     {
-      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai K, Markowitz J, Vallebuona E, Berglund A, Eschrich S, Yu X, Fridley BL. spatialGE: A user-friendly web application to democratize spatial transcriptomics analysis. bioRxiv",
+      "title": "spatialGE: A user-friendly web application to democratize spatial transcriptomics analysis",
       "pubmed_id": "39005315",
       "pmc_id": "PMC11244876",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai K, Markowitz J, Vallebuona E, Berglund A, Eschrich S, Yu X, Fridley BL",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Soupir AC, Hayes MT, Peak TC, Ospina O, Chakiryan NH, Berglund AE, Stewart PA, Nguyen J, Segura CM, Francis NL, Echevarria PMR, Chahoud J, Li R, Tsai KY, Balasi JA, Peres YC, Dhillon J, Martinez LA, Gloria WE, Schurman N, Kim S, Gregory M, Mul\u00e9 J, Fridley BL, Manley BJ. Increased spatial coupling of integrin and collagen IV in the immunoresistant clear-cell renal-cell carcinoma tumor microenvironment. Genome Biol",
+      "title": "Increased spatial coupling of integrin and collagen IV in the immunoresistant clear-cell renal-cell carcinoma tumor microenvironment",
       "pubmed_id": "39639369",
       "pmc_id": "PMC11622564",
       "year": "2024",
-      "journal": "25(1):308",
-      "authors": ""
+      "publication_date": "2024 Dec",
+      "authors": "Soupir AC, Hayes MT, Peak TC, Ospina O, Chakiryan NH, Berglund AE, Stewart PA, Nguyen J, Segura CM, Francis NL, Echevarria PMR, Chahoud J, Li R, Tsai KY, Balasi JA, Peres YC, Dhillon J, Martinez LA, Gloria WE, Schurman N, Kim S, Gregory M, Mul\u00e9 J, Fridley BL, Manley BJ",
+      "journal": "Genome Biol"
     }
   ],
   "grants": [],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SoupirAlex_27969.jpg",
   "contact": {},
-  "content_hash": "1d5340db822f56cb672e092dd99b2cb6910f40ecb8c4fe6f8f57436859255f46",
+  "content_hash": "b5c3e04108f150ca2a2bc020c4bee085823e35fe6b64953efeb11ac0afeb158b",
   "researcher_name": "Alex Soupir",
   "department": "Biostatistics and Bioinformatics"
 }

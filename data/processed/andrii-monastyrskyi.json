@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/andrii-monastyrskyi",
-  "last_updated": "2025-10-19T00:28:25.900380",
+  "last_updated": "2025-10-21T16:37:32.270547",
   "researcher_id": "24126",
   "degrees": [
     "PhD"
@@ -31,110 +31,179 @@
   ],
   "publications": [
     {
-      "title": "McKenna SM, Borsari C, Chin Chan S, Donckele EJ, Faucher FF, Grenier-Davies MC, Haranahalli K, Matagne B, Monastyrskyi A, Petracca R. Highlights from the Lowlands: Early Career Researchers Shine at Medicinal Chemistry Frontiers 2024. Chemmedchem",
+      "title": "Highlights from the Lowlands: Early Career Researchers Shine at Medicinal Chemistry Frontiers 2024",
       "pubmed_id": "39571174",
       "year": "2025",
-      "journal": "20(4):e202400853",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "McKenna SM, Borsari C, Chin Chan S, Donckele EJ, Faucher FF, Grenier-Davies MC, Haranahalli K, Matagne B, Monastyrskyi A, Petracca R",
+      "journal": "Chemmedchem"
     },
     {
-      "title": "Karolak A, Urbaniak K, Monastyrskyi A, Duckett DR, Branciamore S, Stewart PA. Structure-independent machine-learning predictions of the CDK12 interactome. Biophys J",
+      "title": "Structure-independent machine-learning predictions of the CDK12 interactome",
       "pubmed_id": "38762754",
       "pmc_id": "PMC11393676",
       "year": "2024",
-      "journal": "123(17):2910-2920",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Karolak A, Urbaniak K, Monastyrskyi A, Duckett DR, Branciamore S, Stewart PA",
+      "journal": "Biophys J"
     },
     {
-      "title": "Ghosh P, Schmitz M, Pandurangan T, Zeleke ST, Chan SC, Mosior J, Sun L, Palve V, Grassie D, Anand K, Frydman S, Roush WR, Sch\u00f6nbrunn E, Geyer M, Duckett D, Monastyrskyi A. Discovery and design of molecular glue enhancers of CDK12-DDB1 interactions for targeted degradation of cyclin K. RSC Chem Biol",
+      "title": "Discovery and design of molecular glue enhancers of CDK12-DDB1 interactions for targeted degradation of cyclin K",
       "pubmed_id": "39450271",
       "pmc_id": "PMC11494886",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Ghosh P, Schmitz M, Pandurangan T, Zeleke ST, Chan SC, Mosior J, Sun L, Palve V, Grassie D, Anand K, Frydman S, Roush WR, Sch\u00f6nbrunn E, Geyer M, Duckett D, Monastyrskyi A",
+      "journal": "RSC Chem Biol"
     },
     {
-      "title": "Schmitz M, Kaltheuner IH, Anand K, D\u00fcster R, Moecking J, Monastyrskyi A, Duckett DR, Roush WR, Geyer M. The reversible inhibitor SR-4835 binds Cdk12/cyclin K in a noncanonical G-loop conformation. J Biol Chem",
+      "title": "The reversible inhibitor SR-4835 binds Cdk12/cyclin K in a noncanonical G-loop conformation",
       "pubmed_id": "38016516",
       "pmc_id": "PMC10767194",
       "year": "2024",
-      "journal": "300(1):105501",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Schmitz M, Kaltheuner IH, Anand K, D\u00fcster R, Moecking J, Monastyrskyi A, Duckett DR, Roush WR, Geyer M",
+      "journal": "J Biol Chem"
     },
     {
-      "title": "Morozova A, Chan SC, Bayle S, Sun L, Grassie D, Iermolaieva A, Kalaga MN, Frydman S, Sansil S, Sch\u00f6nbrunn E, Duckett D, Monastyrskyi A. Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties. Eur J Med Chem",
+      "title": "Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties",
       "pubmed_id": "38232465",
       "year": "2024",
-      "journal": "266:116101",
-      "authors": ""
+      "publication_date": "2024 Feb",
+      "authors": "Morozova A, Chan SC, Bayle S, Sun L, Grassie D, Iermolaieva A, Kalaga MN, Frydman S, Sansil S, Sch\u00f6nbrunn E, Duckett D, Monastyrskyi A",
+      "journal": "Eur J Med Chem"
     },
     {
-      "title": "Liao Y, Remsing Rix LL, Li X, Fang B, Izumi V, Welsh EA, Monastyrskyi A, Haura EB, Koomen JM, Doebele RC, Rix U. Differential network analysis of ROS1 inhibitors reveals lorlatinib polypharmacology through co-targeting PYK2. Cell Chem Biol",
+      "title": "Differential network analysis of ROS1 inhibitors reveals lorlatinib polypharmacology through co-targeting PYK2",
       "pubmed_id": "37848034",
       "pmc_id": "PMC10922442",
       "year": "2024",
-      "journal": "31(2):284-297",
-      "authors": ""
+      "publication_date": "2024 Feb",
+      "authors": "Liao Y, Remsing Rix LL, Li X, Fang B, Izumi V, Welsh EA, Monastyrskyi A, Haura EB, Koomen JM, Doebele RC, Rix U",
+      "journal": "Cell Chem Biol"
     },
     {
-      "title": "Liao Y, Chin Chan S, Welsh EA, Fang B, Sun L, Sch\u00f6nbrunn E, Koomen JM, Duckett DR, Haura EB, Monastyrskyi A, Rix U. Chemical Proteomics with Novel Fully Functionalized Fragments and Stringent Target Prioritization Identifies the Glutathione-Dependent Isomerase GSTZ1 as a Lung Cancer Target. Acs Chem Biol",
+      "title": "Chemical Proteomics with Novel Fully Functionalized Fragments and Stringent Target Prioritization Identifies the Glutathione-Dependent Isomerase GSTZ1 as a Lung Cancer Target",
       "pubmed_id": "36630201",
       "year": "2023",
-      "journal": "18(2):251-264",
-      "authors": ""
+      "publication_date": "2023 Feb",
+      "authors": "Liao Y, Chin Chan S, Welsh EA, Fang B, Sun L, Sch\u00f6nbrunn E, Koomen JM, Duckett DR, Haura EB, Monastyrskyi A, Rix U",
+      "journal": "Acs Chem Biol"
     },
     {
-      "title": "Burger KL, Fernandez MR, Meads MB, Sudalagunta PR, Oliveira PS, Renatino Canevarolo R, Alugubelli RR, Tungsevik A, De Avila G, Silva M, Graeter AI, Dai H, Vincelette ND, Prabhu A, Magaletti D, Yang C, Li W, Kulkarni A, Hampton OA, Koomen JM, Roush WR, Monastyrskyi A, Berglund AE, Silva AS, Cleveland JL, Shain KH. CK1\u03b4 and CK1\u03b5 Signaling Sustains Mitochondrial Metabolism and Cell Survival in Multiple Myeloma. Cancer Res",
+      "title": "CK1\u03b4 and CK1\u03b5 Signaling Sustains Mitochondrial Metabolism and Cell Survival in Multiple Myeloma",
       "pubmed_id": "37702657",
       "pmc_id": "PMC10690099",
       "year": "2023",
-      "journal": "83(23):3901-3919",
-      "authors": ""
+      "publication_date": "2023 Dec",
+      "authors": "Burger KL, Fernandez MR, Meads MB, Sudalagunta PR, Oliveira PS, Renatino Canevarolo R, Alugubelli RR, Tungsevik A, De Avila G, Silva M, Graeter AI, Dai H, Vincelette ND, Prabhu A, Magaletti D, Yang C, Li W, Kulkarni A, Hampton OA, Koomen JM, Roush WR, Monastyrskyi A, Berglund AE, Silva AS, Cleveland JL, Shain KH",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Nacheva K, Kulkarni SS, Kassu M, Flanigan D, Monastyrskyi A, Iyamu ID, Doi K, Barber M, Namelikonda N, Tipton JD, Parvatkar P, Wang HG, Manetsch R. Going beyond Binary: Rapid Identification of Protein-Protein Interaction Modulators Using a Multifragment Kinetic Target-Guided Synthesis Approach. J Med Chem",
+      "title": "Going beyond Binary: Rapid Identification of Protein-Protein Interaction Modulators Using a Multifragment Kinetic Target-Guided Synthesis Approach",
       "pubmed_id": "37000900",
       "year": "2023",
-      "journal": "66(7):5196-5207",
-      "authors": ""
+      "publication_date": "2023 Apr",
+      "authors": "Nacheva K, Kulkarni SS, Kassu M, Flanigan D, Monastyrskyi A, Iyamu ID, Doi K, Barber M, Namelikonda N, Tipton JD, Parvatkar P, Wang HG, Manetsch R",
+      "journal": "J Med Chem"
     },
     {
-      "title": "Monastyrskyi A, Brockmeyer F, LaCrue AN, Zhao Y, Maher SP, Maignan JR, Padin-Irizarry V, Sakhno YI, Parvatkar PT, Asakawa AH, Huang L, Casandra D, Mashkouri S, Kyle DE, Manetsch R. Aminoalkoxycarbonyloxymethyl Ether Prodrugs with a pH-Triggered Release Mechanism: A Case Study Improving the Solubility, Bioavailability, and Efficacy of Antimalarial 4(1H)-Quinolones with Single Dose Cures. J Med Chem",
+      "title": "Aminoalkoxycarbonyloxymethyl Ether Prodrugs with a pH-Triggered Release Mechanism: A Case Study Improving the Solubility, Bioavailability, and Efficacy of Antimalarial 4(1H)-Quinolones with Single Dose Cures",
       "pubmed_id": "33979164",
       "pmc_id": "PMC8904075",
       "year": "2021",
-      "journal": "64(10):6581-6595",
-      "authors": ""
+      "publication_date": "2021 May",
+      "authors": "Monastyrskyi A, Brockmeyer F, LaCrue AN, Zhao Y, Maher SP, Maignan JR, Padin-Irizarry V, Sakhno YI, Parvatkar PT, Asakawa AH, Huang L, Casandra D, Mashkouri S, Kyle DE, Manetsch R",
+      "journal": "J Med Chem"
     }
   ],
   "grants": [
     {
       "description": "Title: Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers  \nAward Number: 5R01CA262530-04  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI), Haura, E. (PD/PI), Monastyrskyi, A. (PD/PI)",
+      "title": "Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers",
+      "award_number": "5R01CA262530-04",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2530-04"
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Monastyrskyi, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers supplement  \nAward Number: 3R01CA262530-02S1  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI), Monastyrskyi, A. (PD/PI)",
+      "title": "Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers supplement",
+      "award_number": "3R01CA262530-02S1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2530-02"
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Monastyrskyi, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Harnessing CDK12 inhibition for the treatment of HER2+ brain metastatic breast cancers  \nAward Number: W81XWH-22-1-0026  \nSponsor: Department of Defense (DOD)  \nMonastyrskyi, A. (PD/PI)",
-      "source": "DOD"
+      "title": "Harnessing CDK12 inhibition for the treatment of HER2+ brain metastatic breast cancers",
+      "award_number": "W81XWH-22-1-0026",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Monastyrskyi, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Development of EWS/FLI targeted therapies for Ewing sarcoma  \nAward Number: 24L02  \nSponsor: Florida Department of Health  \nMonastyrskyi, A. (PD/PI)"
+      "description": "Title: Development of EWS/FLI targeted therapies for Ewing sarcoma  \nAward Number: 24L02  \nSponsor: Florida Department of Health  \nMonastyrskyi, A. (PD/PI)",
+      "title": "Development of EWS/FLI targeted therapies for Ewing sarcoma",
+      "award_number": "24L02",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Monastyrskyi, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Integrated Fragment-Based Phenotypic Screening and Chemoproteomics for Identification of Novel Small Cell Lung Cancer-Specific Targets  \nAward Number: 1R21CA277288-01  \nSponsor: National Cancer Institute (NCI)  \nMonastyrskyi, A. (PD/PI), Rix, U. (PD/PI)",
+      "title": "Integrated Fragment-Based Phenotypic Screening and Chemoproteomics for Identification of Novel Small Cell Lung Cancer-Specific Targets",
+      "award_number": "1R21CA277288-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "7288-01"
+      "investigators": [
+        {
+          "name": "Monastyrskyi, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Rix, U.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MonastyrskyiAndrii_24126.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24126"
   },
-  "content_hash": "aa1ee8a7cdf839841f3f5fd702a0b987a4efba9a3e88abc637822cc100b16370",
+  "content_hash": "085247a99fd829d6817a1b14eef6401b30c48680b3e71a19f3e1cf090bdf378b",
   "researcher_name": "Andrii Monastyrskyi",
   "department": "Drug Discovery"
 }

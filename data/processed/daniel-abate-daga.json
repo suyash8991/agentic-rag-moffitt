@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/daniel-abate-daga",
-  "last_updated": "2025-10-19T00:30:34.896503",
+  "last_updated": "2025-10-21T16:39:39.154497",
   "researcher_id": "15812",
   "degrees": [
     "PhD"
@@ -35,114 +35,182 @@
   ],
   "publications": [
     {
-      "title": "Perez DH, Antfolk D, Chang S, Bustos XE, Medina E, Ramadan AA, Gonzalez-Perez D, Abate-Daga D, Rodriguez PC, Luca VC. Engineering synthetic agonists for targeted activation of Notch signaling. Nat Chem Biol",
+      "title": "Engineering synthetic agonists for targeted activation of Notch signaling",
       "pubmed_id": "40993428",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Perez DH, Antfolk D, Chang S, Bustos XE, Medina E, Ramadan AA, Gonzalez-Perez D, Abate-Daga D, Rodriguez PC, Luca VC",
+      "journal": "Nat Chem Biol"
     },
     {
-      "title": "Coghill AE, Van Bibber N, Baiocchi RA, Arnold SM, Riedlinger G, Schneider BP, Zhang Y, Suneja G, Gomez Fontela M, Abate-Daga D, Teer JK. Elevated Tumor Mutation Burden in Cancer Patients with Underlying HIV Infection: Data from the Oncology Research Information Exchange Network (ORIEN). Cancer Epidemiol Biomarkers Prev",
+      "title": "Elevated Tumor Mutation Burden in Cancer Patients with Underlying HIV Infection: Data from the Oncology Research Information Exchange Network (ORIEN)",
       "pubmed_id": "40019488",
       "pmc_id": "PMC12048233",
       "year": "2025",
-      "journal": "34(5):774-779",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Coghill AE, Van Bibber N, Baiocchi RA, Arnold SM, Riedlinger G, Schneider BP, Zhang Y, Suneja G, Gomez Fontela M, Abate-Daga D, Teer JK",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
-      "title": "Rossetti RAM, Tordesillas L, Beatty MS, Cianne J, Martinez Planes E, Du D, Snedal S, Wang C, Perez BA, Berglund A, Chen YA, Sarnaik A, Mul\u00e9 JJ, Creelan B, Pilon-Thomas S, Abate-Daga D. CD40L stimulates tumor-infiltrating B-cells and improves ex vivo TIL expansion. J Immunother Cancer",
+      "title": "CD40L stimulates tumor-infiltrating B-cells and improves ex vivo TIL expansion",
       "pubmed_id": "40199608",
       "pmc_id": "PMC11979601",
       "year": "2025",
-      "journal": "13(4)",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Rossetti RAM, Tordesillas L, Beatty MS, Cianne J, Martinez Planes E, Du D, Snedal S, Wang C, Perez BA, Berglund A, Chen YA, Sarnaik A, Mul\u00e9 JJ, Creelan B, Pilon-Thomas S, Abate-Daga D",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Yu X, Song L, Cen L, Cao B, Tao R, Shen Y, Abate-Daga D, Rodriguez PC, Conejo-Garcia JR, Wang X. Pan-cancer \u03b3\u03b4 TCR analysis uncovers clonotype diversity and prognostic potential. Cell Rep Med",
+      "title": "Pan-cancer \u03b3\u03b4 TCR analysis uncovers clonotype diversity and prognostic potential",
       "pubmed_id": "39368482",
       "pmc_id": "PMC11513832",
       "year": "2024",
-      "journal": "5(10):101764",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Yu X, Song L, Cen L, Cao B, Tao R, Shen Y, Abate-Daga D, Rodriguez PC, Conejo-Garcia JR, Wang X",
+      "journal": "Cell Rep Med"
     },
     {
-      "title": "Yu X, Song L, Cen L, Cao B, Tao R, Shen Y, Abate-Daga D, Rodriguez PC, Conejo-Garcia JR, Wang X. A pan-cancer gamma delta T cell repertoire. bioRxiv",
+      "title": "A pan-cancer gamma delta T cell repertoire",
       "pubmed_id": "39091790",
       "pmc_id": "PMC11291071",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Yu X, Song L, Cen L, Cao B, Tao R, Shen Y, Abate-Daga D, Rodriguez PC, Conejo-Garcia JR, Wang X",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Barisa M, Abate-Daga D, Fisher J. Editorial: Optimized gene-engineering and combination therapies to boost \u03b3\u03b4T cell immunotherapeutic performance. Front Immunol",
+      "title": "Editorial: Optimized gene-engineering and combination therapies to boost \u03b3\u03b4T cell immunotherapeutic performance",
       "pubmed_id": "38698854",
       "pmc_id": "PMC11063349",
       "year": "2024",
-      "journal": "15:1414812",
-      "authors": ""
+      "publication_date": "2024 Apr",
+      "authors": "Barisa M, Abate-Daga D, Fisher J",
+      "journal": "Front Immunol"
     },
     {
-      "title": "Hall MS, Teer JK, Yu X, Branthoover H, Snedal S, Rodriguez-Valentin M, Nagle L, Scott E, Schachner B, Innamarato P, Hall AM, Blauvelt J, Rich CJ, Richards AD, Ceccarelli J, Langer TJ, Yoder SJ, Beatty MS, Cox CA, Messina JL, Abate-Daga D, Mule JJ, Mullinax JE, Sarnaik AA, Pilon-Thomas S. Neoantigen-specific CD4+ tumor-infiltrating lymphocytes are potent effectors identified within adoptive cell therapy products for metastatic melanoma patients. J Immunother Cancer",
+      "title": "Neoantigen-specific CD4+ tumor-infiltrating lymphocytes are potent effectors identified within adoptive cell therapy products for metastatic melanoma patients",
       "pubmed_id": "37802604",
       "pmc_id": "PMC10565316",
       "year": "2023",
-      "journal": "11(10)",
-      "authors": ""
+      "publication_date": "2023 Oct",
+      "authors": "Hall MS, Teer JK, Yu X, Branthoover H, Snedal S, Rodriguez-Valentin M, Nagle L, Scott E, Schachner B, Innamarato P, Hall AM, Blauvelt J, Rich CJ, Richards AD, Ceccarelli J, Langer TJ, Yoder SJ, Beatty MS, Cox CA, Messina JL, Abate-Daga D, Mule JJ, Mullinax JE, Sarnaik AA, Pilon-Thomas S",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Frieling JS, Tordesillas L, Bustos XE, Ramello MC, Bishop RT, Cianne JE, Snedal SA, Li T, Lo CH, de la Iglesia J, Roselli E, Benza\u00efd I, Wang X, Kim Y, Lynch CC, Abate-Daga D. \u03b3\u03b4-Enriched CAR-T cell therapy for bone metastatic castrate-resistant prostate cancer. Sci Adv",
+      "title": "\u03b3\u03b4-Enriched CAR-T cell therapy for bone metastatic castrate-resistant prostate cancer",
       "pubmed_id": "37134157",
       "pmc_id": "PMC10156127",
       "year": "2023",
-      "journal": "9(18):eadf0108",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Frieling JS, Tordesillas L, Bustos XE, Ramello MC, Bishop RT, Cianne JE, Snedal SA, Li T, Lo CH, de la Iglesia J, Roselli E, Benza\u00efd I, Wang X, Kim Y, Lynch CC, Abate-Daga D",
+      "journal": "Sci Adv"
     },
     {
-      "title": "Potez M, Snedal S, She C, Kim J, Thorner K, Tran TH, Ramello MC, Abate-Daga D, Liu JKC. Use of phage display biopanning as a tool to design CAR-T cells against glioma stem cells. Front Oncol",
+      "title": "Use of phage display biopanning as a tool to design CAR-T cells against glioma stem cells",
       "pubmed_id": "37035164",
       "pmc_id": "PMC10080078",
       "year": "2023",
-      "journal": "13:1124272",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Potez M, Snedal S, She C, Kim J, Thorner K, Tran TH, Ramello MC, Abate-Daga D, Liu JKC",
+      "journal": "Front Oncol"
     },
     {
-      "title": "Dukes CW, Rossetti RA, Hensel JA, Snedal S, Cubitt CL, Schell MJ, Abrahamsen M, Isaacs-Soriano K, Kennedy K, Mangual LN, Whiting J, Martinez-Brockhus V, Islam JY, Rathwell J, Beatty M, Hall AM, Abate-Daga D, Giuliano AR, Pilon-Thomas S. SARS-CoV-2 antibody response duration and neutralization following natural infection. J Clin Virol Plus",
+      "title": "SARS-CoV-2 antibody response duration and neutralization following natural infection",
       "pubmed_id": "37654784",
       "pmc_id": "PMC10470471",
       "year": "2023",
-      "journal": "3(3)",
-      "authors": ""
+      "publication_date": "2023 Aug",
+      "authors": "Dukes CW, Rossetti RA, Hensel JA, Snedal S, Cubitt CL, Schell MJ, Abrahamsen M, Isaacs-Soriano K, Kennedy K, Mangual LN, Whiting J, Martinez-Brockhus V, Islam JY, Rathwell J, Beatty M, Hall AM, Abate-Daga D, Giuliano AR, Pilon-Thomas S",
+      "journal": "J Clin Virol Plus"
     }
   ],
   "grants": [
     {
-      "description": "Title: Engineering metabolic fitness and vaccination capacity in gamma/deltaCAR-T cells  \nAward Number: 25B03  \nSponsor: Florida Department of Health  \nAbate-Daga, D. (PD/PI)"
+      "description": "Title: Engineering metabolic fitness and vaccination capacity in gamma/deltaCAR-T cells  \nAward Number: 25B03  \nSponsor: Florida Department of Health  \nAbate-Daga, D. (PD/PI)",
+      "title": "Engineering metabolic fitness and vaccination capacity in gamma/deltaCAR-T cells",
+      "award_number": "25B03",
+      "sponsor": "Florida Department of Health  \nAbate-",
+      "investigators": [
+        {
+          "name": "Daga, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Gamma Delta 2.0 CAR-T: Pre-Clinical Studies and Clinical Trial  \nAward Number: N/A Gift Award   \nSponsor: The Todd and Karen Wanek Family Foundation   \nAbate-Daga, D. (PD/PI), Zhang, J. (Co-PD/PI)",
-      "source": "Foundation"
+      "title": "Gamma Delta 2.0 CAR-T: Pre-Clinical Studies and Clinical Trial",
+      "award_number": "N/A Gift Award",
+      "sponsor": "The Todd and Karen Wanek Family Foundation   \nAbate-",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Daga, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Zhang, J.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: A Phase I Clinical Trial of an Infusion of Autologous T Cells Genetically Engineered with a Chimeric Receptor to Target the Follicle-Stimulating Hormone Receptor in Patients with Recurrent Ovarian Cancer  \nAward Number: 19VA049-S2  \nSponsor: CERTAINTY THERAPEUTICS, INC.  \nAbate-Daga, D. (PD/PI)"
+      "description": "Title: A Phase I Clinical Trial of an Infusion of Autologous T Cells Genetically Engineered with a Chimeric Receptor to Target the Follicle-Stimulating Hormone Receptor in Patients with Recurrent Ovarian Cancer  \nAward Number: 19VA049-S2  \nSponsor: CERTAINTY THERAPEUTICS, INC.  \nAbate-Daga, D. (PD/PI)",
+      "title": "A Phase I Clinical Trial of an Infusion of Autologous T Cells Genetically Engineered with a Chimeric Receptor to Target the Follicle-Stimulating Hormone Receptor in Patients with Recurrent Ovarian Cancer",
+      "award_number": "19VA049-S2",
+      "sponsor": "CERTAINTY THERAPEUTICS, INC.  \nAbate-",
+      "investigators": [
+        {
+          "name": "Daga, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Gamma Delta CAR-T cells v2.0  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nAbate-Daga, D. (PD/PI)",
-      "source": "Foundation"
+      "title": "Gamma Delta CAR-T cells v2.0",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch  \nAbate-",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Daga, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Understanding the influence of bone-metastatic prostate cancer and mesenchymal stromal cells on T cells, in the bone microenvironment.  \nAward Number: 5R01CA241169-04  \nSponsor: National Cancer Institute (NCI)  \nAbate-Daga, D. (PD/PI)",
+      "title": "Understanding the influence of bone-metastatic prostate cancer and mesenchymal stromal cells on T cells, in the bone microenvironment.",
+      "award_number": "5R01CA241169-04",
+      "sponsor": "National Cancer Institute (NCI)  \nAbate-",
       "source": "NCI",
-      "period": "1169-04"
+      "investigators": [
+        {
+          "name": "Daga, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: KIR2DL2 Immune Checkpoint as Modulator of T-Cell Effector Function  \nAward Number: 1R21CA280233-01  \nSponsor: National Cancer Institute (NCI)  \nAbate-Daga, D. (PD/PI)",
+      "title": "KIR2DL2 Immune Checkpoint as Modulator of T-Cell Effector Function",
+      "award_number": "1R21CA280233-01",
+      "sponsor": "National Cancer Institute (NCI)  \nAbate-",
       "source": "NCI",
-      "period": "0233-01"
+      "investigators": [
+        {
+          "name": "Daga, D.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/Abate-DagaDaniel_15812.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15812"
   },
-  "content_hash": "b892d4fc849a5384073056cb8ca885a6defc55486503a98c5f99df90356a85b2",
+  "content_hash": "d74e986ac2a3009e1e28538798931579da764d250124a34a59c80230e3755a7e",
   "researcher_name": "Daniel Abate Daga",
   "department": "Immunology"
 }

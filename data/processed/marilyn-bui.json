@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/marilyn-bui",
-  "last_updated": "2025-10-19T00:28:56.592946",
+  "last_updated": "2025-10-21T16:37:59.069685",
   "researcher_id": "3408",
   "degrees": [
     "MD",
@@ -48,89 +48,124 @@
   ],
   "publications": [
     {
-      "title": "Lobo A, Dhillon G, Bui MM. Solitary Fibrous Tumor of the Seminal Vesicle With Entrapped Benign Glands Mimicking a Mixed Epithelial and Stromal Tumor: A Case Report With Literature Review. Int J Surg Pathol",
+      "title": "Solitary Fibrous Tumor of the Seminal Vesicle With Entrapped Benign Glands Mimicking a Mixed Epithelial and Stromal Tumor: A Case Report With Literature Review",
       "pubmed_id": "40462658",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Lobo A, Dhillon G, Bui MM",
+      "journal": "Int J Surg Pathol"
     },
     {
-      "title": "Goetz KE, Boland MV, Chu Z, Reed AA, Clark SD, Towbin AJ, Purt B, O'Donnell K, Bui MM, Eid M, Roth CJ, Luviano DM, Folio LR. Ocular Imaging Challenges, Current State, and a Path to Interoperability: A HIMSS-SIIM Enterprise Imaging Community Whitepaper. J Imaging Inform Med",
+      "title": "Ocular Imaging Challenges, Current State, and a Path to Interoperability: A HIMSS-SIIM Enterprise Imaging Community Whitepaper",
       "pubmed_id": "39354293",
       "pmc_id": "PMC12092316",
       "year": "2025",
-      "journal": "38(3):1283-1290",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Goetz KE, Boland MV, Chu Z, Reed AA, Clark SD, Towbin AJ, Purt B, O'Donnell K, Bui MM, Eid M, Roth CJ, Luviano DM, Folio LR",
+      "journal": "J Imaging Inform Med"
     },
     {
-      "title": "Hassell LA, Forsythe ML, Bhalodia A, Lan T, Rashid T, Powers A, Bui MM, Brickman A, Gu Q, Bychkov A, Cree I, Pantanowitz L. Toward Optimizing the Impact of Digital Pathology and Augmented Intelligence on Issues of Diagnosis, Grading, Staging, and Classification. Mod Pathol",
+      "title": "Toward Optimizing the Impact of Digital Pathology and Augmented Intelligence on Issues of Diagnosis, Grading, Staging, and Classification",
       "pubmed_id": "40204094",
       "pmc_id": "PMC12272330",
       "year": "2025",
-      "journal": "38(7):100765",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Hassell LA, Forsythe ML, Bhalodia A, Lan T, Rashid T, Powers A, Bui MM, Brickman A, Gu Q, Bychkov A, Cree I, Pantanowitz L",
+      "journal": "Mod Pathol"
     },
     {
-      "title": "Herman M, Schukow C, Tatarian A, El-Zaatari ZM, Sura GH, Bui MM. #PathArt: from glass slide to canvas; with a mission of enlightening the burdens of life. Acad Pathol",
+      "title": "#PathArt: from glass slide to canvas; with a mission of enlightening the burdens of life",
       "pubmed_id": "39981158",
       "pmc_id": "PMC11840207",
       "year": "2025",
-      "journal": "12(1):100157",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Herman M, Schukow C, Tatarian A, El-Zaatari ZM, Sura GH, Bui MM",
+      "journal": "Acad Pathol"
     },
     {
-      "title": "Waqas A, Khan A, Ozturk ZG, Saeed-Vafa D, Chen W, Dhillon J, Bychkov A, Bui MM, Ullah E, Khalil F, Chumbalkar V, Jameel Z, Bittar HT, Singh RS, Parwani AV, Schabath MB, Rasool G. REASONING BEYOND ACCURACY: EXPERT EVALUATION OF LARGE LANGUAGE MODELS IN DIAGNOSTIC PATHOLOGY. medRxiv",
+      "title": "REASONING BEYOND ACCURACY: EXPERT EVALUATION OF LARGE LANGUAGE MODELS IN DIAGNOSTIC PATHOLOGY",
       "pubmed_id": "40297448",
       "pmc_id": "PMC12036407",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Waqas A, Khan A, Ozturk ZG, Saeed-Vafa D, Chen W, Dhillon J, Bychkov A, Bui MM, Ullah E, Khalil F, Chumbalkar V, Jameel Z, Bittar HT, Singh RS, Parwani AV, Schabath MB, Rasool G",
+      "journal": "medRxiv"
     },
     {
-      "title": "Tripathi A, Waqas A, Venkatesan K, Ullah E, Khan A, Khalil F, Chen WS, Ozturk ZG, Saeed-Vafa D, Bui MM, Schabath MB, Rasool G. Employing Consensus-Based Reasoning with Locally Deployed LLMs for Enabling Structured Data Extraction from Surgical Pathology Reports. medRxiv",
+      "title": "Employing Consensus-Based Reasoning with Locally Deployed LLMs for Enabling Structured Data Extraction from Surgical Pathology Reports",
       "pubmed_id": "40343037",
       "pmc_id": "PMC12060942",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Tripathi A, Waqas A, Venkatesan K, Ullah E, Khan A, Khalil F, Chen WS, Ozturk ZG, Saeed-Vafa D, Bui MM, Schabath MB, Rasool G",
+      "journal": "medRxiv"
     },
     {
-      "title": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A. Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers. Res Sq",
+      "title": "Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers",
       "pubmed_id": "40313737",
       "pmc_id": "PMC12045365",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Brodsky V, Ullah E, Bychkov A, Song AH, Walk EE, Louis P, Rasool G, Singh RS, Mahmood F, Bui MM, Parwani AV. Generative Artificial Intelligence in Anatomic Pathology. Arch Pathol Lab Med",
+      "title": "Generative Artificial Intelligence in Anatomic Pathology",
       "pubmed_id": "39836377",
       "year": "2025",
-      "journal": "149(4):298-318",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Brodsky V, Ullah E, Bychkov A, Song AH, Walk EE, Louis P, Rasool G, Singh RS, Mahmood F, Bui MM, Parwani AV",
+      "journal": "Arch Pathol Lab Med"
     },
     {
-      "title": "Tozbikian G, Bui MM, Hicks DG, Jaffer S, Khoury T, Wen HY, Krishnamurthy S, Wei S. Best practices for achieving consensus in HER2-low expression in breast cancer: current perspectives from practising pathologists. Histopathology",
+      "title": "Best practices for achieving consensus in HER2-low expression in breast cancer: current perspectives from practising pathologists",
       "pubmed_id": "38973387",
       "year": "2024",
-      "journal": "85(3):489-502",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Tozbikian G, Bui MM, Hicks DG, Jaffer S, Khoury T, Wen HY, Krishnamurthy S, Wei S",
+      "journal": "Histopathology"
     },
     {
-      "title": "Kim D, Thrall MJ, Michelow P, Schmitt FC, Vielh PR, Siddiqui MT, Sundling KE, Virk R, Alperstein S, Bui MM, Chen-Yost H, Donnelly AD, Lin O, Liu X, Madrigal E, Zakowski MF, Parwani AV, Jenkins E, Pantanowitz L, Li Z. The current state of digital cytology and artificial intelligence (AI): global survey results from the American Society of Cytopathology Digital Cytology Task Force. J Am Soc Cytopathol",
+      "title": "The current state of digital cytology and artificial intelligence (AI): global survey results from the American Society of Cytopathology Digital Cytology Task Force",
       "pubmed_id": "38744615",
       "year": "2024",
-      "journal": "13(5):319-328",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Kim D, Thrall MJ, Michelow P, Schmitt FC, Vielh PR, Siddiqui MT, Sundling KE, Virk R, Alperstein S, Bui MM, Chen-Yost H, Donnelly AD, Lin O, Liu X, Madrigal E, Zakowski MF, Parwani AV, Jenkins E, Pantanowitz L, Li Z",
+      "journal": "J Am Soc Cytopathol"
     }
   ],
   "grants": [
     {
       "description": "Title: Automated De-Identification of Pathology and Radiology Data  \nAward Number: Federal Contract75N91023C00041  \nSponsor: National Cancer Institute (NCI)  \nRasool, G. (PD/PI), Bui, M. (Co-PD/PI), Farinhas, J. (Co-PD/PI), Schabath, M. (Co-PD/PI)",
-      "source": "NCI"
+      "title": "Automated De-Identification of Pathology and Radiology Data",
+      "award_number": "Federal Contract75N91023C00041",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Rasool, G.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Bui, M.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Farinhas, J.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Schabath, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BuiMarilyn_3408.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3408"
   },
-  "content_hash": "526f50fa55122c709f1cefc0fc97c66f1d94ed16a0ab280dca37e8e9161e0d97",
+  "content_hash": "2a4aaf0b5f24fa10e5172a86012d929a3d0f211558ac23bfaa3e2fbe1885b430",
   "researcher_name": "Marilyn Bui",
   "department": "Machine Learning"
 }

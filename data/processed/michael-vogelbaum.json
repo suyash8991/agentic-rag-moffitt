@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/michael-vogelbaum",
-  "last_updated": "2025-10-19T00:28:52.254024",
+  "last_updated": "2025-10-21T16:37:54.317786",
   "researcher_id": "23364",
   "degrees": [
     "MD",
@@ -47,93 +47,130 @@
   ],
   "publications": [
     {
-      "title": "Nassiri F, Patil V, Yefet LS, Singh O, Liu J, Dang RMA, Yamaguchi TN, Daras M, Cloughesy TF, Colman H, Kumthekar PU, Chen CC, Aiken R, Groves MD, Ong SS, Ramakrishna R, Vogelbaum MA, Khagi S, Kaley T, Melear JM, Peereboom DM, Rodriguez A, Yankelevich M, Nair SG, Puduvalli VK, Aldape K, Gao A, L\u00f3pez-Janeiro \u00c1, de Andrea CE, Alonso MM, Boutros P, Robbins J, Mason WP, Sonabend AM, Stupp R, Fueyo J, Gomez-Manzano C, Lang FF, Zadeh G. Author Correction: Oncolytic DNX-2401 virotherapy plus pembrolizumab in recurrent glioblastoma: a phase 1/2 trial. Nat Med",
+      "title": "Author Correction: Oncolytic DNX-2401 virotherapy plus pembrolizumab in recurrent glioblastoma: a phase 1/2 trial",
       "pubmed_id": "40691367",
       "pmc_id": "PMC12443589",
       "year": "2025",
-      "journal": "31(9):3204",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Nassiri F, Patil V, Yefet LS, Singh O, Liu J, Dang RMA, Yamaguchi TN, Daras M, Cloughesy TF, Colman H, Kumthekar PU, Chen CC, Aiken R, Groves MD, Ong SS, Ramakrishna R, Vogelbaum MA, Khagi S, Kaley T, Melear JM, Peereboom DM, Rodriguez A, Yankelevich M, Nair SG, Puduvalli VK, Aldape K, Gao A, L\u00f3pez-Janeiro \u00c1, de Andrea CE, Alonso MM, Boutros P, Robbins J, Mason WP, Sonabend AM, Stupp R, Fueyo J, Gomez-Manzano C, Lang FF, Zadeh G",
+      "journal": "Nat Med"
     },
     {
-      "title": "Kotecha R, Akdemir EY, Kutuk T, Ilgin C, Ahluwalia MS, Bi WL, Blakeley J, Dixit KS, Dunn IF, Galanis E, Galldiks N, Huang RY, Johnson DR, Kaley TJ, Kamson DO, Kurz SC, McDermott MW, Odia Y, Preusser M, Raizer J, Reardon DA, Rogers CL, Ruda R, Schiff D, Vogelbaum MA, Weller M, Wen PY, Mehta MP. Benchmarking the efficacy of salvage systemic therapies for recurrent meningioma: A RANO group systematic review and meta-analysis to guide clinical trial design. Neurooncol",
+      "title": "Benchmarking the efficacy of salvage systemic therapies for recurrent meningioma: A RANO group systematic review and meta-analysis to guide clinical trial design",
       "pubmed_id": "39807850",
       "pmc_id": "PMC12417825",
       "year": "2025",
-      "journal": "27(7):1670-1685",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Kotecha R, Akdemir EY, Kutuk T, Ilgin C, Ahluwalia MS, Bi WL, Blakeley J, Dixit KS, Dunn IF, Galanis E, Galldiks N, Huang RY, Johnson DR, Kaley TJ, Kamson DO, Kurz SC, McDermott MW, Odia Y, Preusser M, Raizer J, Reardon DA, Rogers CL, Ruda R, Schiff D, Vogelbaum MA, Weller M, Wen PY, Mehta MP",
+      "journal": "Neurooncol"
     },
     {
-      "title": "van den Bent MJ, Vogelbaum MA, Cloughesy T, Galldiks N, Albert NL, Tonn JC, Avila E, Fangusaro J, Mirsky D, Sahgal A, Soffietti R, Karschnia P, Mehta M, Kim MM, Boele F, Huse JT, Nayak L, Lim-Fat MJ, le Rhun E, Desjardins A, Lee EQ, Chukwueke U, Koekkoek JAF, Mendoza T, Loughan AR, Budhu JA, Bakas S, Huang RY, Villanueva-Meyer JE, Leone JP, Okada H, Reardon DA, Bi WL, Wen PY, Chang SM. Response Assessment in Neuro-Oncology (RANO) 2009-2025: Broad scope and implementation-A progress report. Neurooncol",
+      "title": "Response Assessment in Neuro-Oncology (RANO) 2009-2025: Broad scope and implementation-A progress report",
       "pubmed_id": "40317212",
+      "pmc_id": "PMC12526114",
       "year": "2025",
-      "journal": "27(9):2209-2224",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "van den Bent MJ, Vogelbaum MA, Cloughesy T, Galldiks N, Albert NL, Tonn JC, Avila E, Fangusaro J, Mirsky D, Sahgal A, Soffietti R, Karschnia P, Mehta M, Kim MM, Boele F, Huse JT, Nayak L, Lim-Fat MJ, le Rhun E, Desjardins A, Lee EQ, Chukwueke U, Koekkoek JAF, Mendoza T, Loughan AR, Budhu JA, Bakas S, Huang RY, Villanueva-Meyer JE, Leone JP, Okada H, Reardon DA, Bi WL, Wen PY, Chang SM",
+      "journal": "Neurooncol"
     },
     {
-      "title": "Bilenkin A, Barnes A, Brisco A, Whiting J, Tran ND, Beer-Furlan A, Vogelbaum MA, Liu JKC. Comparison of open and percutaneous instrumented fixation for the treatment of spinal metastases. Neurosurg Focus",
+      "title": "Comparison of open and percutaneous instrumented fixation for the treatment of spinal metastases",
       "pubmed_id": "40311210",
       "year": "2025",
-      "journal": "58(5):E12",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Bilenkin A, Barnes A, Brisco A, Whiting J, Tran ND, Beer-Furlan A, Vogelbaum MA, Liu JKC",
+      "journal": "Neurosurg Focus"
     },
     {
-      "title": "Karschnia P, Young JS, Youssef GC, Dono A, H\u00e4ni L, Sciortino T, Bruno F, Juenger ST, Teske N, Dietrich J, Weller M, Vogelbaum MA, van den Bent M, Beck J, Thon N, Gerritsen JKW, Hervey-Jumper S, Cahill DP, Chang SM, Rud\u00e0 R, Bello L, Schnell O, Esquenazi Y, Ruge MI, Grau SJ, Huang RY, Wen PY, Berger MS, Molinaro AM, Tonn JC. Development and validation of a clinical risk model for postoperative outcome in newly diagnosed glioblastoma: A report of the RANO resect group. Neurooncol",
+      "title": "Development and validation of a clinical risk model for postoperative outcome in newly diagnosed glioblastoma: A report of the RANO resect group",
       "pubmed_id": "39492786",
       "pmc_id": "PMC12083231",
       "year": "2025",
-      "journal": "27(4):1046-1060",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Karschnia P, Young JS, Youssef GC, Dono A, H\u00e4ni L, Sciortino T, Bruno F, Juenger ST, Teske N, Dietrich J, Weller M, Vogelbaum MA, van den Bent M, Beck J, Thon N, Gerritsen JKW, Hervey-Jumper S, Cahill DP, Chang SM, Rud\u00e0 R, Bello L, Schnell O, Esquenazi Y, Ruge MI, Grau SJ, Huang RY, Wen PY, Berger MS, Molinaro AM, Tonn JC",
+      "journal": "Neurooncol"
     },
     {
-      "title": "Kotecha R, La Rosa A, Brown PD, Vogelbaum MA, Navarria P, Bodensohn R, Niyazi M, Karschnia P, Minniti G. Multidisciplinary management strategies for recurrent brain metastasis after prior radiotherapy: An overview. Neurooncol",
+      "title": "Multidisciplinary management strategies for recurrent brain metastasis after prior radiotherapy: An overview",
       "pubmed_id": "39495010",
       "pmc_id": "PMC11889725",
       "year": "2025",
-      "journal": "27(3):597-615",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Kotecha R, La Rosa A, Brown PD, Vogelbaum MA, Navarria P, Bodensohn R, Niyazi M, Karschnia P, Minniti G",
+      "journal": "Neurooncol"
     },
     {
-      "title": "Ugolini A, De Leo A, Yu X, Scirocchi F, Liu X, Peixoto B, Scocozza D, Pace A, Perego M, Gardini A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F. Functional Reprogramming of Neutrophils within the Brain Tumor Microenvironment by Hypoxia-Driven Histone Lactylation. Cancer Discov",
+      "title": "Functional Reprogramming of Neutrophils within the Brain Tumor Microenvironment by Hypoxia-Driven Histone Lactylation",
       "pubmed_id": "40014923",
       "pmc_id": "PMC12133432",
       "year": "2025",
-      "journal": "15(6):1270-1296",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Ugolini A, De Leo A, Yu X, Scirocchi F, Liu X, Peixoto B, Scocozza D, Pace A, Perego M, Gardini A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F",
+      "journal": "Cancer Discov"
     },
     {
-      "title": "van den Bent MJ, Cloughesy TF, Ellingson BM, Allen JE, Blackman SC, Kieran MW, Tonn JC, Karschnia P, Wijnenga M, Pallud J, Young RJ, Huang RY, Mellinghoff IK, de Groot J, van der Hoorn A, Youssef G, Hervey-Jumper SL, Vogelbaum MA, Chang SM, Wen PY. The Use of Minor Response, Volumetric Assessment and Growth Rate Kinetics as Endpoints in Grade 1-3 Glioma Clinical Trials: a RANO perspective. Neurooncol",
+      "title": "The Use of Minor Response, Volumetric Assessment and Growth Rate Kinetics as Endpoints in Grade 1-3 Glioma Clinical Trials: a RANO perspective",
       "pubmed_id": "40692474",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "van den Bent MJ, Cloughesy TF, Ellingson BM, Allen JE, Blackman SC, Kieran MW, Tonn JC, Karschnia P, Wijnenga M, Pallud J, Young RJ, Huang RY, Mellinghoff IK, de Groot J, van der Hoorn A, Youssef G, Hervey-Jumper SL, Vogelbaum MA, Chang SM, Wen PY",
+      "journal": "Neurooncol"
     },
     {
-      "title": "Avila EK, Reiner AS, Armstrong TS, Aaroe AE, Cunningham EM, Brown JG, Bruno F, Diarte J, Haggiagi A, Harrison RA, Joanta-Gomez A, Koekkoek JAF, Lee EQ, Le Rhun E, Miller H, Panageas KS, Peguero EN, Ruda R, Soffietti R, Templer JW, Tobochnik S, Vera E, Vogelbaum MA, Weller M, van den Bent M. RANO seizure working group-Tumor Related Epilepsy Assessment Tool (RANO-TREAT) to assess seizure control for glioma treatment trials and clinical practice. Neurooncol",
+      "title": "RANO seizure working group-Tumor Related Epilepsy Assessment Tool (RANO-TREAT) to assess seizure control for glioma treatment trials and clinical practice",
       "pubmed_id": "40650343",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Avila EK, Reiner AS, Armstrong TS, Aaroe AE, Cunningham EM, Brown JG, Bruno F, Diarte J, Haggiagi A, Harrison RA, Joanta-Gomez A, Koekkoek JAF, Lee EQ, Le Rhun E, Miller H, Panageas KS, Peguero EN, Ruda R, Soffietti R, Templer JW, Tobochnik S, Vera E, Vogelbaum MA, Weller M, van den Bent M",
+      "journal": "Neurooncol"
     },
     {
-      "title": "Ellingson BM, Sanvito F, Pope WB, Cloughesy TF, Huang RY, Villanueva-Meyer JE, Barboriak DP, Shankar LK, Smits M, Kaufmann TJ, Boxerman JL, Weller M, Galanis E, Groot J, Chang SM, Gilbert MR, Lassman AB, Shiroishi MS, Nabavizadeh A, Mehta M, Stupp R, Wick W, Reardon DA, Wen PY, Vogelbaum MA, van den Bent M. Reply. AJNR Am J Neuroradiol",
+      "title": "Reply",
       "pubmed_id": "39730160",
       "pmc_id": "PMC11735428",
       "year": "2025",
-      "journal": "46(1):221-222",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Ellingson BM, Sanvito F, Pope WB, Cloughesy TF, Huang RY, Villanueva-Meyer JE, Barboriak DP, Shankar LK, Smits M, Kaufmann TJ, Boxerman JL, Weller M, Galanis E, Groot J, Chang SM, Gilbert MR, Lassman AB, Shiroishi MS, Nabavizadeh A, Mehta M, Stupp R, Wick W, Reardon DA, Wen PY, Vogelbaum MA, van den Bent M",
+      "journal": "AJNR Am J Neuroradiol"
     }
   ],
   "grants": [
     {
       "description": "Title: Metabolic and molecular regulation of myeloid cell functions in brain cancer  \nAward Number: 5 R01NS131912-03  \nSponsor: National Institute of Neurological Disorders and Stroke (NINDS)  \nVogelbaum, M. (PD/PI)",
-      "period": "1912-03"
+      "title": "Metabolic and molecular regulation of myeloid cell functions in brain cancer",
+      "award_number": "5 R01NS131912-03",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "investigators": [
+        {
+          "name": "Vogelbaum, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Deciphering MDSC Function for GBM Targeting  \nAward Number: 5R01NS109742-05  \nSponsor: National Institute of Neurological Disorders and Stroke (NINDS)  \nVogelbaum, M. (PD/PI)",
-      "period": "9742-05"
+      "title": "Deciphering MDSC Function for GBM Targeting",
+      "award_number": "5R01NS109742-05",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "investigators": [
+        {
+          "name": "Vogelbaum, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: NRG Oncology Network Group Operations Center  \nAward Number: 5U10CA180868-11  \nSponsor: National Cancer Institute (NCI)  \nVogelbaum, M. (PD/PI)",
+      "title": "NRG Oncology Network Group Operations Center",
+      "award_number": "5U10CA180868-11",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0868-11"
+      "investigators": [
+        {
+          "name": "Vogelbaum, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": ""
@@ -143,7 +180,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=23364"
   },
-  "content_hash": "e33142f12285bc71fead2646e1e40a2bf6d57a415289fc9ddce7e8520525229e",
+  "content_hash": "76b2bc785482612ef7f903f199859e2155bb889a64b2c0ac8085b28fae364ac1",
   "researcher_name": "Michael Vogelbaum",
   "department": "Machine Learning"
 }

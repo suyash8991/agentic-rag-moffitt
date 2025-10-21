@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/nagi-kumar",
-  "last_updated": "2025-10-19T00:27:06.728366",
+  "last_updated": "2025-10-21T16:36:11.090650",
   "researcher_id": "1278",
   "degrees": [
     "PhD"
@@ -37,97 +37,115 @@
   ],
   "publications": [
     {
-      "title": "Kumar NB. Contemporary Strategies for Clinical Chemoprevention of Localized Prostate Cancer. Cancer Control",
+      "title": "Contemporary Strategies for Clinical Chemoprevention of Localized Prostate Cancer",
       "pubmed_id": "39573923",
       "pmc_id": "PMC11583501",
       "year": "2024",
-      "journal": "31",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Kumar NB",
+      "journal": "Cancer Control"
     },
     {
-      "title": "Johansson H, Guerrieri-Gonzaga A, Gandini S, Bertelsen BE, Macis D, Serrano D, Mellgren G, Lazzeroni M, Thomas PS, Crew KD, Kumar NB, Briata IM, Galimberti V, Viale G, Vornik LA, Aristarco V, Buttiron Webber T, Spinaci S, Brown PH, Heckman-Stoddard BM, Szabo E, Bonanni B, DeCensi A. Alternative dosing regimen of exemestane in a randomized presurgical trial: the role of obesity in biomarker modulation. NPJ Breast Cancer",
+      "title": "Alternative dosing regimen of exemestane in a randomized presurgical trial: the role of obesity in biomarker modulation",
       "pubmed_id": "38238336",
       "pmc_id": "PMC10796398",
       "year": "2024",
-      "journal": "10(1):7",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Johansson H, Guerrieri-Gonzaga A, Gandini S, Bertelsen BE, Macis D, Serrano D, Mellgren G, Lazzeroni M, Thomas PS, Crew KD, Kumar NB, Briata IM, Galimberti V, Viale G, Vornik LA, Aristarco V, Buttiron Webber T, Spinaci S, Brown PH, Heckman-Stoddard BM, Szabo E, Bonanni B, DeCensi A",
+      "journal": "NPJ Breast Cancer"
     },
     {
-      "title": "Serrano D, Johansson H, Bertelsen BE, Gandini S, Mellgren G, Thomas P, Crew KD, Kumar NB, Macis D, Aristarco V, Guerrieri-Gonzaga A, Lazzeroni M, D'Amico M, Buttiron-Webber T, Briata IM, Spinaci S, Galimberti V, Vornik LA, Villar-Sanchez E, Brown PH, Heckman-Stoddard BM, Szabo E, Bonanni B, Decensi A. Drug and biomarker tissue levels in a randomized presurgical trial on exemestane alternative schedules. J Natl Cancer Inst",
+      "title": "Drug and biomarker tissue levels in a randomized presurgical trial on exemestane alternative schedules",
       "pubmed_id": "39110531",
       "pmc_id": "PMC11630545",
       "year": "2024",
-      "journal": "116(12):1979-1982",
-      "authors": ""
+      "publication_date": "2024 Dec",
+      "authors": "Serrano D, Johansson H, Bertelsen BE, Gandini S, Mellgren G, Thomas P, Crew KD, Kumar NB, Macis D, Aristarco V, Guerrieri-Gonzaga A, Lazzeroni M, D'Amico M, Buttiron-Webber T, Briata IM, Spinaci S, Galimberti V, Vornik LA, Villar-Sanchez E, Brown PH, Heckman-Stoddard BM, Szabo E, Bonanni B, Decensi A",
+      "journal": "J Natl Cancer Inst"
     },
     {
-      "title": "Serrano D, Gandini S, Thomas P, Crew KD, Kumar NB, Vornik LA, Lee JJ, Veronesi P, Viale G, Guerrieri-Gonzaga A, Lazzeroni M, Johansson H, D'Amico M, Guasone F, Spinaci S, Bertelsen BE, Mellgren G, Bedrosian I, Weber D, Castile T, Dimond E, Heckman-Stoddard BM, Szabo E, Brown PH, DeCensi A, Bonanni B. Efficacy of Alternative Dose Regimens of Exemestane in Postmenopausal Women With Stage 0 to II Estrogen Receptor-Positive Breast Cancer: A Randomized Clinical Trial. JAMA Oncol",
+      "title": "Efficacy of Alternative Dose Regimens of Exemestane in Postmenopausal Women With Stage 0 to II Estrogen Receptor-Positive Breast Cancer: A Randomized Clinical Trial",
       "pubmed_id": "36951827",
       "pmc_id": "PMC10037202",
       "year": "2023",
-      "journal": "9(5):664-672",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Serrano D, Gandini S, Thomas P, Crew KD, Kumar NB, Vornik LA, Lee JJ, Veronesi P, Viale G, Guerrieri-Gonzaga A, Lazzeroni M, Johansson H, D'Amico M, Guasone F, Spinaci S, Bertelsen BE, Mellgren G, Bedrosian I, Weber D, Castile T, Dimond E, Heckman-Stoddard BM, Szabo E, Brown PH, DeCensi A, Bonanni B",
+      "journal": "JAMA Oncol"
     },
     {
-      "title": "Kumar NB, Bahl S, Dhillon J, Poch M, Manley B, Li R, Schell M, Powsang J. Challenges to Recruiting Men on Active Surveillance for Prostate Cancer in Clinical Chemoprevention Trials. Cancers (Basel)",
+      "title": "Challenges to Recruiting Men on Active Surveillance for Prostate Cancer in Clinical Chemoprevention Trials",
       "pubmed_id": "36831597",
       "pmc_id": "PMC9954186",
       "year": "2023",
-      "journal": "15(4)",
-      "authors": ""
+      "publication_date": "2023 Feb",
+      "authors": "Kumar NB, Bahl S, Dhillon J, Poch M, Manley B, Li R, Schell M, Powsang J",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Carastro LM, Vallebuona EJ, Cordova R, Gannon AN, Kim SJ, Costello CM, Declet-Bauzo RA, Kumar N, Park JY. Polyphenon E Effects on Gene Expression in PC-3 Prostate Cancer Cells. Int J Mol Sci",
+      "title": "Polyphenon E Effects on Gene Expression in PC-3 Prostate Cancer Cells",
       "pubmed_id": "36430806",
       "pmc_id": "PMC9697490",
       "year": "2022",
-      "journal": "23(22)",
-      "authors": ""
+      "publication_date": "2022 Nov",
+      "authors": "Carastro LM, Vallebuona EJ, Cordova R, Gannon AN, Kim SJ, Costello CM, Declet-Bauzo RA, Kumar N, Park JY",
+      "journal": "Int J Mol Sci"
     },
     {
-      "title": "Kumar NB, Hogue S, Pow-Sang J, Poch M, Manley BJ, Li R, Dhillon J, Yu A, Byrd DA. Effects of Green Tea Catechins on Prostate Cancer Chemoprevention: The Role of the Gut Microbiome. Cancers (Basel)",
+      "title": "Effects of Green Tea Catechins on Prostate Cancer Chemoprevention: The Role of the Gut Microbiome",
       "pubmed_id": "36010981",
       "pmc_id": "PMC9406482",
       "year": "2022",
-      "journal": "14(16)",
-      "authors": ""
+      "publication_date": "2022 Aug",
+      "authors": "Kumar NB, Hogue S, Pow-Sang J, Poch M, Manley BJ, Li R, Dhillon J, Yu A, Byrd DA",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Zachariah NN, Basu A, Gautam N, Ramamoorthi G, Kodumudi KN, Kumar NB, Loftus L, Czerniecki BJ. Intercepting Premalignant, Preinvasive Breast Lesions Through Vaccination. Front Immunol",
+      "title": "Intercepting Premalignant, Preinvasive Breast Lesions Through Vaccination",
       "pubmed_id": "34899753",
       "pmc_id": "PMC8652247",
       "year": "2021",
-      "journal": "12:786286",
-      "authors": ""
+      "publication_date": "2021 Nov",
+      "authors": "Zachariah NN, Basu A, Gautam N, Ramamoorthi G, Kodumudi KN, Kumar NB, Loftus L, Czerniecki BJ",
+      "journal": "Front Immunol"
     },
     {
-      "title": "Kumar NB. The Promise of Nutrient-Derived Bioactive Compounds and Dietary Components to Ameliorate Symptoms of Chemotherapy-Related Cognitive Impairment in Breast Cancer Survivors. CURR TREAT OPTION ON",
+      "title": "The Promise of Nutrient-Derived Bioactive Compounds and Dietary Components to Ameliorate Symptoms of Chemotherapy-Related Cognitive Impairment in Breast Cancer Survivors",
       "pubmed_id": "34110516",
       "year": "2021",
-      "journal": "22(8):67",
-      "authors": ""
+      "publication_date": "2021 Jun",
+      "authors": "Kumar NB",
+      "journal": "CURR TREAT OPTION ON"
     },
     {
-      "title": "Permuth JB, Dezsi KB, Vyas S, Ali KN, Basinski TL, Utuama OA, Denbo JW, Klapman J, Dam A, Carballido E, Kim DW, Pimiento JM, Powers BD, Otto AK, Choi JW, Chen DT, Teer JK, Beato F, Ward A, Cortizas EM, Whisner SY, Williams IE, Riner AN, Tardif K, Velanovich V, Karachristos A, Douglas WG, Legaspi A, Allan BJ, Meredith K, Molina-Vega MA, Bao P, St Julien J, Huguet KL, Green L, Odedina FT, Kumar NB, Simmons VN, George TJ, Vadaparampil ST, Hodul PJ, Arnoletti JP, Awad ZT, Bose D, Jiang K, Centeno BA, Gwede CK, Malafa M, Judge SM, Judge AR, Jeong D, Bloomston M, Merchant NB, Fleming JB, Trevino JG. The Florida Pancreas Collaborative Next-Generation Biobank: Infrastructure to Reduce Disparities and Improve Survival for a Diverse Cohort of Patients with Pancreatic Cancer. Cancers (Basel)",
+      "title": "The Florida Pancreas Collaborative Next-Generation Biobank: Infrastructure to Reduce Disparities and Improve Survival for a Diverse Cohort of Patients with Pancreatic Cancer",
       "pubmed_id": "33671939",
       "pmc_id": "PMC7919015",
       "year": "2021",
-      "journal": "13(4)",
-      "authors": ""
+      "publication_date": "2021 Feb",
+      "authors": "Permuth JB, Dezsi KB, Vyas S, Ali KN, Basinski TL, Utuama OA, Denbo JW, Klapman J, Dam A, Carballido E, Kim DW, Pimiento JM, Powers BD, Otto AK, Choi JW, Chen DT, Teer JK, Beato F, Ward A, Cortizas EM, Whisner SY, Williams IE, Riner AN, Tardif K, Velanovich V, Karachristos A, Douglas WG, Legaspi A, Allan BJ, Meredith K, Molina-Vega MA, Bao P, St Julien J, Huguet KL, Green L, Odedina FT, Kumar NB, Simmons VN, George TJ, Vadaparampil ST, Hodul PJ, Arnoletti JP, Awad ZT, Bose D, Jiang K, Centeno BA, Gwede CK, Malafa M, Judge SM, Judge AR, Jeong D, Bloomston M, Merchant NB, Fleming JB, Trevino JG",
+      "journal": "Cancers (Basel)"
     }
   ],
   "grants": [
     {
       "description": "Title: Phase II Clinical Trial of GTC in Men on Active Surveillance  \nAward Number: 5R01CA235032-06  \nSponsor: National Cancer Institute (NCI)  \nKumar, N. (PD/PI)",
+      "title": "Phase II Clinical Trial of GTC in Men on Active Surveillance",
+      "award_number": "5R01CA235032-06",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "5032-06"
+      "investigators": [
+        {
+          "name": "Kumar, N.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KumarNagi_1278.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1278"
   },
-  "content_hash": "6c3a27231b2f75b6fb23f08d09591d6f90cb15b8c1ee6a293218d0615889c550",
+  "content_hash": "25657df992b5ca0acb84a7f9e3e69725ce3a51ce97cd2505173fea587d0aeafa",
   "researcher_name": "Nagi Kumar",
   "department": "Cancer Epidemiology"
 }

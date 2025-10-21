@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/greg-sawyer",
-  "last_updated": "2025-10-19T00:23:41.402924",
+  "last_updated": "2025-10-21T16:32:46.062162",
   "researcher_id": "34697",
   "degrees": [
     "PhD"
@@ -21,104 +21,181 @@
   "education": [],
   "publications": [
     {
-      "title": "Nguyen DT, Schaller MA, Terracina KP, Xu X, Pedro DI, Pepe A, Urue\u00f1a JM, Dupee Z, Diodati N, Smolchek RA, Famiglietti JE, Nguyen NTY, Tushoski-Alem\u00e1n GW, Cheng K, Chen L, Linn D, Vidimar V, Fatima A, Kwon SW, Sun D, Chen H, Xu H, Long B, Moy LY, Howell BJ, Addona GH, Sawyer WG. Patient-derived colorectal microtumors predict response to anti-PD-1 therapy. Front Immunol",
+      "title": "Patient-derived colorectal microtumors predict response to anti-PD-1 therapy",
       "pubmed_id": "40873566",
       "pmc_id": "PMC12378724",
       "year": "2025",
-      "journal": "16:1640500",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Nguyen DT, Schaller MA, Terracina KP, Xu X, Pedro DI, Pepe A, Urue\u00f1a JM, Dupee Z, Diodati N, Smolchek RA, Famiglietti JE, Nguyen NTY, Tushoski-Alem\u00e1n GW, Cheng K, Chen L, Linn D, Vidimar V, Fatima A, Kwon SW, Sun D, Chen H, Xu H, Long B, Moy LY, Howell BJ, Addona GH, Sawyer WG",
+      "journal": "Front Immunol"
     },
     {
-      "title": "Mendez-Gomez HR, DeVries A, Castillo P, von Roemeling C, Qdaisat S, Stover BD, Xie C, Weidert F, Zhao C, Moor R, Liu R, Soni D, Ogando-Rivas E, Chardon-Robles J, McGuiness J, Zhang D, Chung MC, Marconi C, Michel S, Barpujari A, Jobin GW, Thomas N, Ma X, Campaneria Y, Grippin A, Karachi A, Li D, Sahay B, Elliott L, Foster TP, Coleman KE, Milner RJ, Sawyer WG, Ligon JA, Simon E, Cleaver B, Wynne K, Hodik M, Molinaro AM, Guan J, Kellish P, Doty A, Lee JH, Massini T, Kresak JL, Huang J, Hwang EI, Kline C, Carrera-Justiz S, Rahman M, Gatica S, Mueller S, Prados M, Ghiaseddin AP, Silver NL, Mitchell DA, Sayour EJ. RNA aggregates harness the danger response for potent cancer immunotherapy. Cell",
+      "title": "RNA aggregates harness the danger response for potent cancer immunotherapy",
       "pubmed_id": "38697107",
       "year": "2024",
-      "journal": "187(10):2521-2535",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Mendez-Gomez HR, DeVries A, Castillo P, von Roemeling C, Qdaisat S, Stover BD, Xie C, Weidert F, Zhao C, Moor R, Liu R, Soni D, Ogando-Rivas E, Chardon-Robles J, McGuiness J, Zhang D, Chung MC, Marconi C, Michel S, Barpujari A, Jobin GW, Thomas N, Ma X, Campaneria Y, Grippin A, Karachi A, Li D, Sahay B, Elliott L, Foster TP, Coleman KE, Milner RJ, Sawyer WG, Ligon JA, Simon E, Cleaver B, Wynne K, Hodik M, Molinaro AM, Guan J, Kellish P, Doty A, Lee JH, Massini T, Kresak JL, Huang J, Hwang EI, Kline C, Carrera-Justiz S, Rahman M, Gatica S, Mueller S, Prados M, Ghiaseddin AP, Silver NL, Mitchell DA, Sayour EJ",
+      "journal": "Cell"
     },
     {
-      "title": "Flores ER, Sawyer WG. Engineering cancer's end: An interdisciplinary approach to confront the complexities of cancer. Cancer Cell",
+      "title": "Engineering cancer's end: An interdisciplinary approach to confront the complexities of cancer",
       "pubmed_id": "38848721",
       "year": "2024",
-      "journal": "42(7):1133-1137",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Flores ER, Sawyer WG",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Diodati N, Dupee Z, Lima F, Famiglietti J, Smolchek R, Qu G, Goddard Y, Nguyen D, Sawyer G, Phelps E, Mehrad B, Schaller M. 3D Culture Analysis of Cancer Cell Adherence to Ex Vivo Lung Microexplants. Tissue Eng Part C Methods",
+      "title": "3D Culture Analysis of Cancer Cell Adherence to Ex Vivo Lung Microexplants",
       "pubmed_id": "39078332",
       "year": "2024",
-      "journal": "30(8):343-352",
-      "authors": ""
+      "publication_date": "2024 Aug",
+      "authors": "Diodati N, Dupee Z, Lima F, Famiglietti J, Smolchek R, Qu G, Goddard Y, Nguyen D, Sawyer G, Phelps E, Mehrad B, Schaller M",
+      "journal": "Tissue Eng Part C Methods"
     },
     {
-      "title": "Nguyen DT, Pedro DI, Pepe A, Rosa JG, Bowman JI, Trachsel L, Golde GR, Suzuki I, Lavrador JM, Nguyen NTY, Kis MA, Smolchek RA, Diodati N, Liu R, Phillpot SR, Webber AR, Castillo P, Sayour EJ, Sumerlin BS, Sawyer WG. Bioconjugation of COL1 protein on liquid-like solid surfaces to study tumor invasion dynamics. Biointerphases",
+      "title": "Bioconjugation of COL1 protein on liquid-like solid surfaces to study tumor invasion dynamics",
       "pubmed_id": "36898958",
       "pmc_id": "PMC10008099",
       "year": "2023",
-      "journal": "18(2):021001",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Nguyen DT, Pedro DI, Pepe A, Rosa JG, Bowman JI, Trachsel L, Golde GR, Suzuki I, Lavrador JM, Nguyen NTY, Kis MA, Smolchek RA, Diodati N, Liu R, Phillpot SR, Webber AR, Castillo P, Sayour EJ, Sumerlin BS, Sawyer WG",
+      "journal": "Biointerphases"
     },
     {
-      "title": "Nguyen DT, Famiglietti JE, Smolchek RA, Dupee Z, Diodati N, Pedro DI, Urue\u00f1a JM, Schaller MA, Sawyer WG. 3D In Vitro Platform for Cell and Explant Culture in Liquid-like Solids. Cells",
+      "title": "3D In Vitro Platform for Cell and Explant Culture in Liquid-like Solids",
       "pubmed_id": "35326418",
       "pmc_id": "PMC8946834",
       "year": "2022",
-      "journal": "11(6)",
-      "authors": ""
+      "publication_date": "2022 Mar",
+      "authors": "Nguyen DT, Famiglietti JE, Smolchek RA, Dupee Z, Diodati N, Pedro DI, Urue\u00f1a JM, Schaller MA, Sawyer WG",
+      "journal": "Cells"
     },
     {
-      "title": "Nguyen DT, Ogando-Rivas E, Liu R, Wang T, Rubin J, Jin L, Tao H, Sawyer WW, Mendez-Gomez HR, Cascio M, Mitchell DA, Huang J, Sawyer WG, Sayour EJ, Castillo P. CAR T Cell Locomotion in Solid Tumor Microenvironment. Cells",
+      "title": "CAR T Cell Locomotion in Solid Tumor Microenvironment",
       "pubmed_id": "35741103",
       "pmc_id": "PMC9221866",
       "year": "2022",
-      "journal": "11(12)",
-      "authors": ""
+      "publication_date": "2022 Jun",
+      "authors": "Nguyen DT, Ogando-Rivas E, Liu R, Wang T, Rubin J, Jin L, Tao H, Sawyer WW, Mendez-Gomez HR, Cascio M, Mitchell DA, Huang J, Sawyer WG, Sayour EJ, Castillo P",
+      "journal": "Cells"
     },
     {
-      "title": "Schaller MA, Sharma Y, Dupee Z, Nguyen D, Urue\u00f1a J, Smolchek R, Loeb JC, Machuca TN, Lednicky JA, Odde DJ, Campbell RF, Sawyer WG, Mehrad B. Ex vivo SARS-CoV-2 infection of human lung reveals heterogeneous host defense and therapeutic responses. JCI Insight",
+      "title": "Ex vivo SARS-CoV-2 infection of human lung reveals heterogeneous host defense and therapeutic responses",
       "pubmed_id": "34357881",
       "pmc_id": "PMC8492301",
       "year": "2021",
-      "journal": "6(18)",
-      "authors": ""
+      "publication_date": "2021 Sep",
+      "authors": "Schaller MA, Sharma Y, Dupee Z, Nguyen D, Urue\u00f1a J, Smolchek R, Loeb JC, Machuca TN, Lednicky JA, Odde DJ, Campbell RF, Sawyer WG, Mehrad B",
+      "journal": "JCI Insight"
     },
     {
-      "title": "Pedro DI, Nguyen DT, Rosa JG, Diodati N, Kim J, Bowman JI, Olson RA, Uruena JM, Sumerlin BS, Sawyer WG. Gel-Forming Mucin Improves Lubricity Across Model Gemini Epithelial Cell Interfaces. Tribol Lett",
+      "title": "Gel-Forming Mucin Improves Lubricity Across Model Gemini Epithelial Cell Interfaces",
       "year": "2021",
-      "authors": ""
+      "publication_date": "2021 Oct",
+      "authors": "Pedro DI, Nguyen DT, Rosa JG, Diodati N, Kim J, Bowman JI, Olson RA, Uruena JM, Sumerlin BS, Sawyer WG",
+      "journal": "Tribol Lett"
     },
     {
-      "title": "Pedro DI, Nguyen DT, Trachsel L, Rosa JG, Chu B, Eikenberry S, Sumerlin BS, Sawyer WG. Superficial Modulus, Water-Content, and Mesh-Size at Hydrogel Surfaces. Tribol Lett",
+      "title": "Superficial Modulus, Water-Content, and Mesh-Size at Hydrogel Surfaces",
       "year": "2021",
-      "authors": ""
+      "publication_date": "2021 Nov",
+      "authors": "Pedro DI, Nguyen DT, Trachsel L, Rosa JG, Chu B, Eikenberry S, Sumerlin BS, Sawyer WG",
+      "journal": "Tribol Lett"
     }
   ],
   "grants": [
     {
       "description": "Title: Preliminary characterization of mucin from patients with mucin-producing peritoneal metastases  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nDineen, S. (PD/PI), Sawyer, W. (Co-PD/PI)",
-      "source": "Foundation"
+      "title": "Preliminary characterization of mucin from patients with mucin-producing peritoneal metastases",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Dineen, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Sawyer, W.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Synthetic Mucins as a Mitigation Strategy for Anticancer Therapeutic Associated Ocular Toxicity  \nAward Number: SUB00003983, PO162258 (23VA016)  \nSponsor: ALCON RESEARCH LLC  \nSawyer, W. (PD/PI)"
+      "description": "Title: Synthetic Mucins as a Mitigation Strategy for Anticancer Therapeutic Associated Ocular Toxicity  \nAward Number: SUB00003983, PO162258 (23VA016)  \nSponsor: ALCON RESEARCH LLC  \nSawyer, W. (PD/PI)",
+      "title": "Synthetic Mucins as a Mitigation Strategy for Anticancer Therapeutic Associated Ocular Toxicity",
+      "award_number": "SUB00003983, PO162258 (23VA016)",
+      "sponsor": "ALCON RESEARCH LLC",
+      "investigators": [
+        {
+          "name": "Sawyer, W.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Lab Studies Using in Vitro 3D Model  \nAward Number: 23VA012  \nSponsor: MERCK & CO., INC.  \nSawyer, W. (PD/PI), George, E. (Co-PD/PI), Nguyen, D. (Co-PD/PI)"
+      "description": "Title: Lab Studies Using in Vitro 3D Model  \nAward Number: 23VA012  \nSponsor: MERCK & CO., INC.  \nSawyer, W. (PD/PI), George, E. (Co-PD/PI), Nguyen, D. (Co-PD/PI)",
+      "title": "Lab Studies Using in Vitro 3D Model",
+      "award_number": "23VA012",
+      "sponsor": "MERCK & CO., INC.",
+      "investigators": [
+        {
+          "name": "Sawyer, W.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "George, E.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Nguyen, D.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Lab Studies Using in Vitro 3D Model   \nAward Number: LKR220932 / 23VA012  \nSponsor: MERCK SHARP & DOHME CORP  \nSawyer, W. (PD/PI)"
+      "description": "Title: Lab Studies Using in Vitro 3D Model   \nAward Number: LKR220932 / 23VA012  \nSponsor: MERCK SHARP & DOHME CORP  \nSawyer, W. (PD/PI)",
+      "title": "Lab Studies Using in Vitro 3D Model",
+      "award_number": "LKR220932 / 23VA012",
+      "sponsor": "MERCK SHARP & DOHME CORP",
+      "investigators": [
+        {
+          "name": "Sawyer, W.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Moffitt Cancer Center, Bioengineering Research  \nAward Number: 60NANB24D101  \nSponsor: National Institute of Standards and Technology (NIST)  \nSawyer, W. (PD/PI)"
+      "description": "Title: Moffitt Cancer Center, Bioengineering Research  \nAward Number: 60NANB24D101  \nSponsor: National Institute of Standards and Technology (NIST)  \nSawyer, W. (PD/PI)",
+      "title": "Moffitt Cancer Center, Bioengineering Research",
+      "award_number": "60NANB24D101",
+      "sponsor": "National Institute of Standards and Technology (NIST)",
+      "investigators": [
+        {
+          "name": "Sawyer, W.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: A phase I study of RNA-lipid particle vaccines for newly-diagnosed glioblastoma, IND19304 05/21/2020  \nAward Number: R01FD007268-01  \nSponsor: US Food & Drug Administration (FDA)  \nSawyer, W. (PD/PI)",
-      "period": "7268-01"
+      "title": "A phase I study of RNA-lipid particle vaccines for newly-diagnosed glioblastoma, IND19304 05/21/2020",
+      "award_number": "R01FD007268-01",
+      "sponsor": "US Food & Drug Administration (FDA)",
+      "investigators": [
+        {
+          "name": "Sawyer, W.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SawyerGreg_34697.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=34697"
   },
-  "content_hash": "4c14011b3c32bf5de704e6841620a949976cdd95bae0cfc91f242b6b24574825",
+  "content_hash": "9bd18c0b529eb306b089ed67aa1acb8c492a680dc4a7aa8af41e7e3df9e04b48",
   "researcher_name": "Greg Sawyer",
   "department": "BioEngineering"
 }

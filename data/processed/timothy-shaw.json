@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/timothy-shaw",
-  "last_updated": "2025-10-19T00:30:17.422132",
+  "last_updated": "2025-10-21T16:39:18.893610",
   "researcher_id": "28108",
   "degrees": [
     "PhD"
@@ -28,103 +28,154 @@
   ],
   "publications": [
     {
-      "title": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell",
+      "title": "Lymphoma accelerates T cell and tissue aging",
       "pubmed_id": "40845845",
       "year": "2025",
-      "journal": "43(10):1917-1936",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Gamal W, Goedhart NB, Simon-Molas H, Mediavilla-Varela M, Uriepero-Palma A, Peters FS, Maharaj K, Chavez JC, Powers JJ, Obermayer A, Shaw TI, Conejo-Garcia JR, Rodriguez PC, Sahakian E, Pinilla-Ibarz J, Kater AP. Mitigating T-cell mitochondrial dysfunction in CLL to augment CAR T-cell therapy: evaluation in an immunocompetent model. Blood Adv",
+      "title": "Mitigating T-cell mitochondrial dysfunction in CLL to augment CAR T-cell therapy: evaluation in an immunocompetent model",
       "pubmed_id": "39938006",
       "pmc_id": "PMC12148389",
       "year": "2025",
-      "journal": "9(10):2511-2529",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Gamal W, Goedhart NB, Simon-Molas H, Mediavilla-Varela M, Uriepero-Palma A, Peters FS, Maharaj K, Chavez JC, Powers JJ, Obermayer A, Shaw TI, Conejo-Garcia JR, Rodriguez PC, Sahakian E, Pinilla-Ibarz J, Kater AP",
+      "journal": "Blood Adv"
     },
     {
-      "title": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J. CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma. Res Sq",
+      "title": "CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma",
       "pubmed_id": "40235478",
       "pmc_id": "PMC11998770",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J",
+      "journal": "Res Sq"
     },
     {
-      "title": "Shaw TI, Pounds S, Cao X, Ma J, Palacios G, Mason J, Perkins S, Wu G, Fan Y, Wang J, Zhou X, Obermayer A, Kinney MC, Kraveka J, Gross T, Sandlund J, Zhang J, Mullighan C, Lim MS, Leventaki V. Comprehensive genomic analysis reveals molecular heterogeneity in pediatric ALK-positive anaplastic large cell lymphoma. Leukemia",
+      "title": "Comprehensive genomic analysis reveals molecular heterogeneity in pediatric ALK-positive anaplastic large cell lymphoma",
       "pubmed_id": "39592809",
       "year": "2025",
-      "journal": "39(1):199-210",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Shaw TI, Pounds S, Cao X, Ma J, Palacios G, Mason J, Perkins S, Wu G, Fan Y, Wang J, Zhou X, Obermayer A, Kinney MC, Kraveka J, Gross T, Sandlund J, Zhang J, Mullighan C, Lim MS, Leventaki V",
+      "journal": "Leukemia"
     },
     {
-      "title": "Nagy MZ, Plaza-Rojas LB, Boucher JC, Kostenko E, Austin AL, Tarhini AA, Chen Z, Du D, Ojwang' AME, Davis J, Obermayer A, Rejniak KA, Shaw TI, Guevara-Patino JA. Effector T cells under hypoxia have an altered transcriptome similar to tumor-stressed T cells found in non-responsive melanoma patients. J Immunother Cancer",
+      "title": "Effector T cells under hypoxia have an altered transcriptome similar to tumor-stressed T cells found in non-responsive melanoma patients",
       "pubmed_id": "40010774",
       "year": "2025",
-      "journal": "13(2)",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Nagy MZ, Plaza-Rojas LB, Boucher JC, Kostenko E, Austin AL, Tarhini AA, Chen Z, Du D, Ojwang' AME, Davis J, Obermayer A, Rejniak KA, Shaw TI, Guevara-Patino JA",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "title": "ShinyEvents: harmonizing longitudinal data for real world survival estimation",
       "pubmed_id": "40799741",
       "pmc_id": "PMC12340904",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI",
+      "journal": "Res Sq"
     },
     {
-      "title": "Yao S, Li T, Davis JT, Shaw TI, Yu X, Wang X. SmartImpute is a targeted imputation framework for single-cell transcriptome data. Cell Rep Methods",
+      "title": "SmartImpute is a targeted imputation framework for single-cell transcriptome data",
       "pubmed_id": "40763742",
       "pmc_id": "PMC12461658",
       "year": "2025",
-      "journal": "5(8):101122",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Yao S, Li T, Davis JT, Shaw TI, Yu X, Wang X",
+      "journal": "Cell Rep Methods"
     },
     {
-      "title": "Tarhini AA, Obermayer A, Lee SJ, LaFramboise WA, Hodi FS, Karunamurthy AD, Eljilany I, Chen DT, Hwu P, El Naqa IM, Streicher H, Sondak VK, Storkus WJ, Butterfield LH, Shaw TI, Kirkwood JM. Integrative Immune Signature of Complementary Circulating and Tumoral Biomarkers Maximizes the Predictive Power of Adjuvant Immunotherapeutic Benefits in High-risk Melanoma. Clin Cancer Res",
+      "title": "Integrative Immune Signature of Complementary Circulating and Tumoral Biomarkers Maximizes the Predictive Power of Adjuvant Immunotherapeutic Benefits in High-risk Melanoma",
       "pubmed_id": "40392969",
       "pmc_id": "PMC12316551",
       "year": "2025",
-      "journal": "31(15):3249-3258",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Tarhini AA, Obermayer A, Lee SJ, LaFramboise WA, Hodi FS, Karunamurthy AD, Eljilany I, Chen DT, Hwu P, El Naqa IM, Streicher H, Sondak VK, Storkus WJ, Butterfield LH, Shaw TI, Kirkwood JM",
+      "journal": "Clin Cancer Res"
     },
     {
-      "title": "Davis JT, Obermayer AN, Soupir AC, Hesterberg RS, Duong T, Yang CY, Dao KP, Manley BJ, Grass GD, Avram D, Rodriguez PC, Fridley BL, Yu X, Teng M, Wang X, Shaw TI. BatchFLEX: feature-level equalization of X-batch. Bioinformatics",
+      "title": "BatchFLEX: feature-level equalization of X-batch",
       "pubmed_id": "39360977",
       "pmc_id": "PMC11486499",
       "year": "2024",
-      "journal": "40(10)",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Davis JT, Obermayer AN, Soupir AC, Hesterberg RS, Duong T, Yang CY, Dao KP, Manley BJ, Grass GD, Avram D, Rodriguez PC, Fridley BL, Yu X, Teng M, Wang X, Shaw TI",
+      "journal": "Bioinformatics"
     },
     {
-      "title": "Wickman E, Lange S, Wagner J, Ibanez J, Tian L, Lu M, Sheppard H, Chiang J, Koo SC, Vogel P, Langfitt D, Perry SS, Shanmugam R, Bell M, Shaw TI, Krenciute G, Zhang J, Gottschalk S. IL-18R supported CAR T cells targeting oncofetal tenascin C for the immunotherapy of pediatric sarcoma and brain tumors. J Immunother Cancer",
+      "title": "IL-18R supported CAR T cells targeting oncofetal tenascin C for the immunotherapy of pediatric sarcoma and brain tumors",
       "pubmed_id": "39572158",
       "pmc_id": "PMC11580246",
       "year": "2024",
-      "journal": "12(11)",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Wickman E, Lange S, Wagner J, Ibanez J, Tian L, Lu M, Sheppard H, Chiang J, Koo SC, Vogel P, Langfitt D, Perry SS, Shanmugam R, Bell M, Shaw TI, Krenciute G, Zhang J, Gottschalk S",
+      "journal": "J Immunother Cancer"
     }
   ],
   "grants": [
     {
       "description": "Title: Program control of CD8+ T cell response to tumors and tumor memory  \nAward Number: 1R01CA293755-01A1  \nSponsor: National Institutes of Health (NIH)  \nAvram, D. (PD/PI), Shaw, T. (Co-PD/PI)",
+      "title": "Program control of CD8+ T cell response to tumors and tumor memory",
+      "award_number": "1R01CA293755-01A1",
+      "sponsor": "National Institutes of Health (NIH)",
       "source": "NIH",
-      "period": "3755-01"
+      "investigators": [
+        {
+          "name": "Avram, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Shaw, T.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Integrated transcriptome-based prognostic and disease monitoring strategies in childhood AML  \nAward Number: SAT-21-064-01-SBF-ACS  \nSponsor: FRED HUTCHINSON CANCER CENTER  \nShaw, T. (PD/PI)"
+      "description": "Title: Integrated transcriptome-based prognostic and disease monitoring strategies in childhood AML  \nAward Number: SAT-21-064-01-SBF-ACS  \nSponsor: FRED HUTCHINSON CANCER CENTER  \nShaw, T. (PD/PI)",
+      "title": "Integrated transcriptome-based prognostic and disease monitoring strategies in childhood AML",
+      "award_number": "SAT-21-064-01-SBF-ACS",
+      "sponsor": "FRED HUTCHINSON CANCER CENTER",
+      "investigators": [
+        {
+          "name": "Shaw, T.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Characterizing the Role of Aberrant FGD1 Splicing in Brain and Bone Metastasis in Clear Cell Renal Cell Carcinoma  \nAward Number: HT94252510691  \nSponsor: Department of Defense (DOD)  \nShaw, T. (PD/PI)",
-      "source": "DOD"
+      "title": "Characterizing the Role of Aberrant FGD1 Splicing in Brain and Bone Metastasis in Clear Cell Renal Cell Carcinoma",
+      "award_number": "HT94252510691",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Shaw, T.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Targeting ER Stress in Pediatric Acute Myeloid Leukemia  \nAward Number: 23L10  \nSponsor: Florida Department of Health  \nShaw, T. (PD/PI)"
+      "description": "Title: Targeting ER Stress in Pediatric Acute Myeloid Leukemia  \nAward Number: 23L10  \nSponsor: Florida Department of Health  \nShaw, T. (PD/PI)",
+      "title": "Targeting ER Stress in Pediatric Acute Myeloid Leukemia",
+      "award_number": "23L10",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Shaw, T.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ShawTimothy_28108.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28108"
   },
-  "content_hash": "07a06be2fa8c70eed0627cf26730725a10b5404d36772e582924f7d983b7543a",
+  "content_hash": "1b5ee7171b3eefb7621af38408ae7824716b26f324ea8e6416a838d02c152ee5",
   "researcher_name": "Timothy Shaw",
   "department": "Biostatistics and Bioinformatics"
 }

@@ -6,7 +6,6 @@ This module implements a tool for filtering researchers by their department.
 
 import os
 import json
-import logging
 from typing import List, Dict, Any, Optional
 
 from langchain.tools import BaseTool
@@ -14,10 +13,10 @@ from langchain.tools import BaseTool
 from ..db.vector_store import get_or_create_vector_db
 from ..data.loader import load_all_researcher_profiles
 from ..config.config import get_settings
+from ..utils.logging import get_logger, log_tool_event
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Get logger for this module
+logger = get_logger(__name__)
 
 
 class DepartmentFilterTool(BaseTool):
@@ -42,9 +41,23 @@ class DepartmentFilterTool(BaseTool):
         Returns:
             str: The filtered researchers formatted as a string
         """
+        logger.info(f"Starting DepartmentFilterTool execution for: {department}")
+        
+        # Log structured event for tool start
+        log_tool_event("department_filter_start", {
+            "department": department[:50],
+            "is_list_request": department.lower() in ["list", "show", "available"]
+        })
+        
         # First check if we're asked to list available departments
         if department.lower() in ["list", "show", "available"]:
-            return self._list_departments()
+            logger.info("Listing available departments")
+            result = self._list_departments()
+            log_tool_event("department_filter_complete", {
+                "action": "list_departments",
+                "result_length": len(result)
+            })
+            return result
 
         logger.info(f"Filtering researchers by department: {department}")
 
@@ -84,10 +97,20 @@ class DepartmentFilterTool(BaseTool):
                 results = filtered_results
         except Exception as e:
             logger.error(f"Error filtering by department: {e}")
+            log_tool_event("department_filter_error", {
+                "error": str(e),
+                "department": department[:50]
+            })
             return f"Error filtering by department: {e}"
 
         # Format results
         if not results:
+            logger.info(f"No researchers found in department: {department}")
+            log_tool_event("department_filter_complete", {
+                "department": department[:50],
+                "result_count": 0,
+                "action": "no_results"
+            })
             return f"No researchers found in department: {department}. Try 'list' to see available departments."
 
         # Deduplicate results by researcher_id
@@ -108,7 +131,18 @@ class DepartmentFilterTool(BaseTool):
             program = doc.metadata.get("program", "Unknown Program")
             formatted_results.append(f"- {name} ({program})")
 
-        return "\n".join(formatted_results)
+        result = "\n".join(formatted_results)
+        
+        # Log successful completion
+        logger.info(f"Department filter completed successfully, found {len(unique_results)} researchers")
+        log_tool_event("department_filter_complete", {
+            "department": department[:50],
+            "result_count": len(unique_results),
+            "formatted_length": len(result),
+            "action": "filter_results"
+        })
+        
+        return result
 
     def _list_departments(self) -> str:
         """

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jiandong-chen",
-  "last_updated": "2025-10-19T00:25:29.376042",
+  "last_updated": "2025-10-21T16:34:34.171510",
   "researcher_id": "404",
   "degrees": [
     "PhD"
@@ -31,114 +31,176 @@
   ],
   "publications": [
     {
-      "title": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J. PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo. Mol Cancer Ther",
+      "title": "PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo",
       "pubmed_id": "40376796",
       "year": "2025",
-      "journal": "OF1-OF10",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J",
+      "journal": "Mol Cancer Ther"
     },
     {
-      "title": "Lu J, Chen L, Fatima Z, Huang J, Chen J. Synergistic rescue of temperature-sensitive p53 mutants by hypothermia and arsenic trioxide. Mol Carcinogen",
+      "title": "Synergistic rescue of temperature-sensitive p53 mutants by hypothermia and arsenic trioxide",
       "pubmed_id": "39115446",
       "pmc_id": "PMC11466696",
       "year": "2024",
-      "journal": "63(11):2205-2217",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Lu J, Chen L, Fatima Z, Huang J, Chen J",
+      "journal": "Mol Carcinogen"
     },
     {
-      "title": "Shaikh DH, Park M, Chen J, Huang J, Friedman MS, Dam AN, Luthra AK, Cappelle S, Pena LR, Permuth JB, Mok SRS. Differences in Gender and Overall Survival for Temperature-Sensitive TP53 Mutations in Gastroesophageal Cancer. Medicina (Kaunas)",
+      "title": "Differences in Gender and Overall Survival for Temperature-Sensitive TP53 Mutations in Gastroesophageal Cancer",
       "pubmed_id": "39597086",
       "pmc_id": "PMC11597060",
       "year": "2024",
-      "journal": "60(11)",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Shaikh DH, Park M, Chen J, Huang J, Friedman MS, Dam AN, Luthra AK, Cappelle S, Pena LR, Permuth JB, Mok SRS",
+      "journal": "Medicina (Kaunas)"
     },
     {
-      "title": "Fenton M, Borcherds W, Chen L, Anbanandam A, Levy R, Chen J, Daughdrill G. The MDMX Acidic Domain Uses Allovalency to Bind Both p53 and MDMX. J Mol Biol",
+      "title": "The MDMX Acidic Domain Uses Allovalency to Bind Both p53 and MDMX",
       "pubmed_id": "36181774",
       "pmc_id": "PMC9644833",
       "year": "2022",
-      "journal": "434(22):167844",
-      "authors": ""
+      "publication_date": "2022 Nov",
+      "authors": "Fenton M, Borcherds W, Chen L, Anbanandam A, Levy R, Chen J, Daughdrill G",
+      "journal": "J Mol Biol"
     },
     {
-      "title": "Karim RM, Yang L, Chen L, Bikowitz MJ, Lu J, Grassie D, Shultz ZP, Lopchuk JM, Chen J, Sch\u00f6nbrunn E. Discovery of Dual TAF1-ATR Inhibitors and Ligand-Induced Structural Changes of the TAF1 Tandem Bromodomain. J Med Chem",
+      "title": "Discovery of Dual TAF1-ATR Inhibitors and Ligand-Induced Structural Changes of the TAF1 Tandem Bromodomain",
       "pubmed_id": "35191694",
       "year": "2022",
-      "journal": "65(5):4182-4200",
-      "authors": ""
+      "publication_date": "2022 Mar",
+      "authors": "Karim RM, Yang L, Chen L, Bikowitz MJ, Lu J, Grassie D, Shultz ZP, Lopchuk JM, Chen J, Sch\u00f6nbrunn E",
+      "journal": "J Med Chem"
     },
     {
-      "title": "Sang P, Shi Y, Lu J, Chen L, Yang L, Borcherds W, Abdulkadir S, Li Q, Daughdrill G, Chen J, Cai J. Correction to \u03b1-Helix-Mimicking Sulfono-\u03b3-AApeptide Inhibitors for p53-MDM2/MDMX Protein-Protein Interactions. J Med Chem",
+      "title": "Correction to \u03b1-Helix-Mimicking Sulfono-\u03b3-AApeptide Inhibitors for p53-MDM2/MDMX Protein-Protein Interactions",
       "pubmed_id": "32822169",
       "pmc_id": "PMC7853636",
       "year": "2020",
-      "journal": "63(17):10087",
-      "authors": ""
+      "publication_date": "2020 Sep",
+      "authors": "Sang P, Shi Y, Lu J, Chen L, Yang L, Borcherds W, Abdulkadir S, Li Q, Daughdrill G, Chen J, Cai J",
+      "journal": "J Med Chem"
     },
     {
-      "title": "Shi Y, Sang P, Lu J, Higbee P, Chen L, Yang L, Odom T, Daughdrill G, Chen J, Cai J. Rational Design of Right-Handed Heterogeneous Peptidomimetics as Inhibitors of Protein-Protein Interactions. J Med Chem",
+      "title": "Rational Design of Right-Handed Heterogeneous Peptidomimetics as Inhibitors of Protein-Protein Interactions",
       "pubmed_id": "33140956",
       "pmc_id": "PMC8170677",
       "year": "2020",
-      "journal": "63(21):13187-13196",
-      "authors": ""
+      "publication_date": "2020 Nov",
+      "authors": "Shi Y, Sang P, Lu J, Higbee P, Chen L, Yang L, Odom T, Daughdrill G, Chen J, Cai J",
+      "journal": "J Med Chem"
     },
     {
-      "title": "Huang Q, Chen L, Schonbrunn E, Chen J. MDMX inhibits casein kinase 1\u03b1 activity and stimulates Wnt signaling. Embo J",
+      "title": "MDMX inhibits casein kinase 1\u03b1 activity and stimulates Wnt signaling",
       "pubmed_id": "32511789",
       "pmc_id": "PMC7361285",
       "year": "2020",
-      "journal": "39(14):e104410",
-      "authors": ""
+      "publication_date": "2020 Jul",
+      "authors": "Huang Q, Chen L, Schonbrunn E, Chen J",
+      "journal": "Embo J"
     },
     {
-      "title": "Li Q, Karim RM, Cheng M, Das M, Chen L, Zhang C, Lawrence HR, Daughdrill GW, Schonbrunn E, Ji H, Chen J. Inhibition of p53 DNA binding by a small molecule protects mice from radiation toxicity. Oncogene",
+      "title": "Inhibition of p53 DNA binding by a small molecule protects mice from radiation toxicity",
       "pubmed_id": "32555331",
       "pmc_id": "PMC7398576",
       "year": "2020",
-      "journal": "39(29):5187-5200",
-      "authors": ""
+      "publication_date": "2020 Jul",
+      "authors": "Li Q, Karim RM, Cheng M, Das M, Chen L, Zhang C, Lawrence HR, Daughdrill GW, Schonbrunn E, Ji H, Chen J",
+      "journal": "Oncogene"
     },
     {
-      "title": "Liu X, Huang Q, Chen L, Zhang H, Schonbrunn E, Chen J. Tumor-derived CK1\u03b1 mutations enhance MDMX inhibition of p53. Oncogene",
+      "title": "Tumor-derived CK1\u03b1 mutations enhance MDMX inhibition of p53",
       "pubmed_id": "31462704",
       "pmc_id": "PMC7739390",
       "year": "2020",
-      "journal": "39(1):176-186",
-      "authors": ""
+      "publication_date": "2020 Jan",
+      "authors": "Liu X, Huang Q, Chen L, Zhang H, Schonbrunn E, Chen J",
+      "journal": "Oncogene"
     }
   ],
   "grants": [
     {
       "description": "Title: Anti-tumor Potential of Temperature-Sensitive p53 Mutants  \nAward Number: 5R01CA260356-03  \nSponsor: National Cancer Institute (NCI)  \nChen, J. (PD/PI), Mann, M. (PD/PI)",
+      "title": "Anti-tumor Potential of Temperature-Sensitive p53 Mutants",
+      "award_number": "5R01CA260356-03",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0356-03"
+      "investigators": [
+        {
+          "name": "Chen, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Mann, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Allosteric Regulation of MDMX by Protein Disorder  \nAward Number: 5R01CA141244-12  \nSponsor: National Cancer Institute (NCI)  \nChen, J. (PD/PI)",
+      "title": "Allosteric Regulation of MDMX by Protein Disorder",
+      "award_number": "5R01CA141244-12",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "1244-12"
+      "investigators": [
+        {
+          "name": "Chen, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Intrinsic Disorder Controls the Function of p53 and Other Cancer Associated IDPs  \nAward Number: 5R01GM115556-07  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nChen, J. (PD/PI)",
-      "period": "5556-07"
+      "title": "Intrinsic Disorder Controls the Function of p53 and Other Cancer Associated IDPs",
+      "award_number": "5R01GM115556-07",
+      "sponsor": "National Institute of General Medical Sciences (NIGMS)",
+      "investigators": [
+        {
+          "name": "Chen, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Targeting Wnt Signaling Pathway  \nAward Number: 1R01GM150196-01  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nChen, J. (PD/PI)",
-      "period": "0196-01"
+      "title": "Targeting Wnt Signaling Pathway",
+      "award_number": "1R01GM150196-01",
+      "sponsor": "National Institute of General Medical Sciences (NIGMS)",
+      "investigators": [
+        {
+          "name": "Chen, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Selective Targeting of TAF1 Function in Acute Myeloid Leukemia  \nAward Number: 1R01CA279378-01A1  \nSponsor: National Cancer Institute (NCI)  \nChen, J. (PD/PI), Lopchuk, J. (PD/PI), Schonbrunn, E. (PD/PI)",
+      "title": "Selective Targeting of TAF1 Function in Acute Myeloid Leukemia",
+      "award_number": "1R01CA279378-01A1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "9378-01"
+      "investigators": [
+        {
+          "name": "Chen, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Lopchuk, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Schonbrunn, E.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChenJiandong_404.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=404"
   },
-  "content_hash": "a84a5d4066a1182e9deee31042414b266b86cf5a9806a73e47e0d630657b810c",
+  "content_hash": "0ffd5cd8e49484e16292822d1756d6ee0ab23f9e642df0a7fac2c3ab97a9d756",
   "researcher_name": "Jiandong Chen",
   "department": "Molecular Oncology"
 }

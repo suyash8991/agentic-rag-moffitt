@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/eric-haura",
-  "last_updated": "2025-10-19T00:27:57.774344",
+  "last_updated": "2025-10-21T16:37:01.135451",
   "researcher_id": "985",
   "degrees": [
     "MD"
@@ -48,117 +48,211 @@
   ],
   "publications": [
     {
-      "title": "Krebs MG, Cho BC, Hiret S, Han JY, Lee KH, Ll\u00e1cer P\u00e9rez C, De Braud F, Haura EB, Sanborn RE, Yang JC, Shu CA, Goto K, Nishio M, Zhao J, Wang Z, Tomasini P, Felip E, Goldman JW, Ou SI, Boyer M, Gao G, Qu S, Curtin JC, Lyu X, Schnepp RW, Kim P, Thayu M, Knoblauch RE, Lorenzini P, Baig M, Spira AI, Leighl NB. Amivantamab in Participants With Advanced NSCLC and MET Exon 14 Skipping Mutations: Final Results From the CHRYSALIS Study. J Thorac Oncol",
+      "title": "Amivantamab in Participants With Advanced NSCLC and MET Exon 14 Skipping Mutations: Final Results From the CHRYSALIS Study",
       "pubmed_id": "40383434",
       "year": "2025",
-      "journal": "20(9):1289-1301",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Krebs MG, Cho BC, Hiret S, Han JY, Lee KH, Ll\u00e1cer P\u00e9rez C, De Braud F, Haura EB, Sanborn RE, Yang JC, Shu CA, Goto K, Nishio M, Zhao J, Wang Z, Tomasini P, Felip E, Goldman JW, Ou SI, Boyer M, Gao G, Qu S, Curtin JC, Lyu X, Schnepp RW, Kim P, Thayu M, Knoblauch RE, Lorenzini P, Baig M, Spira AI, Leighl NB",
+      "journal": "J Thorac Oncol"
     },
     {
-      "title": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC. Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy. Nat Cancer",
+      "title": "Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy",
       "pubmed_id": "40341231",
       "year": "2025",
-      "journal": "6(5):801-819",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC",
+      "journal": "Nat Cancer"
     },
     {
-      "title": "Kato R, Solanki HS, Ozakinci H, Desai B, Gundlapalli H, Yang YC, Aronchik I, Singh M, Johnson J, Marusyk A, Boyle TA, Haura EB. In Situ RAS:RAF Binding Correlates with Response to KRASG12C Inhibitors in KRASG12C-Mutant Non-Small Cell Lung Cancer. Clin Cancer Res",
+      "title": "In Situ RAS:RAF Binding Correlates with Response to KRASG12C Inhibitors in KRASG12C-Mutant Non-Small Cell Lung Cancer",
       "pubmed_id": "39836411",
       "pmc_id": "PMC11924342",
       "year": "2025",
-      "journal": "31(6):1150-1162",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Kato R, Solanki HS, Ozakinci H, Desai B, Gundlapalli H, Yang YC, Aronchik I, Singh M, Johnson J, Marusyk A, Boyle TA, Haura EB",
+      "journal": "Clin Cancer Res"
     },
     {
-      "title": "Zhao Y, Amorrortu RP, Hicks JK, Garcia MA, Haura EB, Yin J, Vadaparampil ST, Rollison DE. An examination of factors associated with disparities in clinical trial eligibility guided by the Socioecological Model. Cancer",
+      "title": "An examination of factors associated with disparities in clinical trial eligibility guided by the Socioecological Model",
       "pubmed_id": "40530674",
       "pmc_id": "PMC12263167",
       "year": "2025",
-      "journal": "131(13):e35944",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Zhao Y, Amorrortu RP, Hicks JK, Garcia MA, Haura EB, Yin J, Vadaparampil ST, Rollison DE",
+      "journal": "Cancer"
     },
     {
-      "title": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A. Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers. Res Sq",
+      "title": "Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers",
       "pubmed_id": "40313737",
       "pmc_id": "PMC12045365",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA. Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma. J Immunol",
+      "title": "Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma",
       "pubmed_id": "39120462",
       "pmc_id": "PMC11404669",
       "year": "2024",
-      "journal": "213(7):1033-1041",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA",
+      "journal": "J Immunol"
     },
     {
-      "title": "Ozakinci H, Alontaga AY, Cano P, Koomen JM, Perez BA, Beg AA, Chiappori AA, Haura EB, Boyle TA. Unveiling the Molecular Features of SCLC With a Clinical RNA Expression Panel. JTO Clin Res Rep",
+      "title": "Unveiling the Molecular Features of SCLC With a Clinical RNA Expression Panel",
       "pubmed_id": "39386315",
       "pmc_id": "PMC11459576",
       "year": "2024",
-      "journal": "5(11):100723",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Ozakinci H, Alontaga AY, Cano P, Koomen JM, Perez BA, Beg AA, Chiappori AA, Haura EB, Boyle TA",
+      "journal": "JTO Clin Res Rep"
     },
     {
-      "title": "Pandey G, Mazzacurati L, Rowsell TM, Horvat NP, Amin NE, Zhang G, Akuffo AA, Colin-Leitzinger CM, Haura EB, Kuykendall AT, Zhang L, Epling-Burnette PK, Reuther GW. SHP2 inhibition displays efficacy as a monotherapy and in combination with JAK2 inhibition in preclinical models of myeloproliferative neoplasms. Am J Hematol",
+      "title": "SHP2 inhibition displays efficacy as a monotherapy and in combination with JAK2 inhibition in preclinical models of myeloproliferative neoplasms",
       "pubmed_id": "38440831",
       "pmc_id": "PMC11096011",
       "year": "2024",
-      "journal": "99(6):1040-1055",
-      "authors": ""
+      "publication_date": "2024 Jun",
+      "authors": "Pandey G, Mazzacurati L, Rowsell TM, Horvat NP, Amin NE, Zhang G, Akuffo AA, Colin-Leitzinger CM, Haura EB, Kuykendall AT, Zhang L, Epling-Burnette PK, Reuther GW",
+      "journal": "Am J Hematol"
     },
     {
-      "title": "Chaft JE, Oezkan F, Kris MG, Bunn PA, Wistuba II, Kwiatkowski DJ, Owen DH, Tang Y, Johnson BE, Lee JM, Lozanski G, Pietrzak M, Seweryn M, Byun WY, Schulze K, Nicholas A, Johnson A, Grindheim J, Hilz S, Shames DS, Rivard C, Toloza E, Haura EB, McNamee CJ, Patterson GA, Waqar SN, Rusch VW, Carbone DP. Author Correction: Neoadjuvant atezolizumab for resectable non-small cell lung cancer: an open-label, single-arm phase II trial. Nat Med",
+      "title": "Author Correction: Neoadjuvant atezolizumab for resectable non-small cell lung cancer: an open-label, single-arm phase II trial",
       "pubmed_id": "37816821",
       "pmc_id": "PMC10803254",
       "year": "2024",
-      "journal": "30(1):303",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Chaft JE, Oezkan F, Kris MG, Bunn PA, Wistuba II, Kwiatkowski DJ, Owen DH, Tang Y, Johnson BE, Lee JM, Lozanski G, Pietrzak M, Seweryn M, Byun WY, Schulze K, Nicholas A, Johnson A, Grindheim J, Hilz S, Shames DS, Rivard C, Toloza E, Haura EB, McNamee CJ, Patterson GA, Waqar SN, Rusch VW, Carbone DP",
+      "journal": "Nat Med"
     },
     {
-      "title": "Imbody D, Arce K, Solanki HS, Haura EB, Pellini B. Targeting SHP2 Signaling in Lung Cancer. J Thorac Oncol",
+      "title": "Targeting SHP2 Signaling in Lung Cancer",
       "pubmed_id": "37574134",
       "year": "2024",
-      "journal": "19(1):18-24",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Imbody D, Arce K, Solanki HS, Haura EB, Pellini B",
+      "journal": "J Thorac Oncol"
     }
   ],
   "grants": [
     {
-      "description": "Title: Heterogeneity of metastatic small cell lung cancer; implications for the design of effective immunotherapies  \nAward Number: 22B03  \nSponsor: Florida Department of Health  \nBeg, A. (PD/PI), Haura, E. (PD/PI)"
+      "description": "Title: Heterogeneity of metastatic small cell lung cancer; implications for the design of effective immunotherapies  \nAward Number: 22B03  \nSponsor: Florida Department of Health  \nBeg, A. (PD/PI), Haura, E. (PD/PI)",
+      "title": "Heterogeneity of metastatic small cell lung cancer; implications for the design of effective immunotherapies",
+      "award_number": "22B03",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Beg, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers  \nAward Number: 5R01CA262530-04  \nSponsor: National Cancer Institute (NCI)  \nDuckett, D. (PD/PI), Haura, E. (PD/PI), Monastyrskyi, A. (PD/PI)",
+      "title": "Developing CDK12 inhibitors to overcome therapy resistance in HER2+ and KRAS driven breast and lung cancers",
+      "award_number": "5R01CA262530-04",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2530-04"
+      "investigators": [
+        {
+          "name": "Duckett, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Monastyrskyi, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Identifying Metabolic Vulnerabilities in Lung Cancer  \nAward Number: 5P01CA250984-05  \nSponsor: National Cancer Institute (NCI)  \nFlores, E. (PD/PI), Haura, E. (PD/PI)",
+      "title": "Identifying Metabolic Vulnerabilities in Lung Cancer",
+      "award_number": "5P01CA250984-05",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0984-05"
+      "investigators": [
+        {
+          "name": "Flores, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Exploring Correlation Between EGFR/MET Activation Status and RMC-4630 Sensitivity in Tumor Tissue Using PLA Assays  \nAward Number: 20VA049.003 Third Amendment  \nSponsor: REVOLUTION MEDICINES  \nHaura, E. (PD/PI)"
+      "description": "Title: Exploring Correlation Between EGFR/MET Activation Status and RMC-4630 Sensitivity in Tumor Tissue Using PLA Assays  \nAward Number: 20VA049.003 Third Amendment  \nSponsor: REVOLUTION MEDICINES  \nHaura, E. (PD/PI)",
+      "title": "Exploring Correlation Between EGFR/MET Activation Status and RMC-4630 Sensitivity in Tumor Tissue Using PLA Assays",
+      "award_number": "20VA049.003 Third Amendment",
+      "sponsor": "REVOLUTION MEDICINES",
+      "investigators": [
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Exploring Correlation Between RTK Activation Status and KRAS G12C(ON) Inhibitor Sensitivity, and Developing New PLA Assays to Inform RAS and mTOR Pathways  \nAward Number: 24-0115  \nSponsor: REVOLUTION MEDICINES  \nHaura, E. (PD/PI)"
+      "description": "Title: Exploring Correlation Between RTK Activation Status and KRAS G12C(ON) Inhibitor Sensitivity, and Developing New PLA Assays to Inform RAS and mTOR Pathways  \nAward Number: 24-0115  \nSponsor: REVOLUTION MEDICINES  \nHaura, E. (PD/PI)",
+      "title": "Exploring Correlation Between RTK Activation Status and KRAS G12C(ON) Inhibitor Sensitivity, and Developing New PLA Assays to Inform RAS and mTOR Pathways",
+      "award_number": "24-0115",
+      "sponsor": "REVOLUTION MEDICINES",
+      "investigators": [
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Salah RNA Panel Research  \nAward Number: Haura_Salah Foundation  \nSponsor: THE SALAH FOUNDATION  \nHaura, E. (PD/PI), Boyle, T. (Co-PD/PI), Pellini F. (Co-PD/PI)",
-      "source": "Foundation"
+      "title": "Salah RNA Panel Research",
+      "award_number": "Haura_Salah Foundation",
+      "sponsor": "THE SALAH FOUNDATION",
+      "investigators": [
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Boyle, T.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Overcoming resistance to KRAS inhibitors through a fragment-based chemoproteomics approach  \nAward Number: R21CA282568-01  \nSponsor: National Cancer Institute (NCI)  \nHaura, E. (PD/PI), Rix, U. (PD/PI)",
+      "title": "Overcoming resistance to KRAS inhibitors through a fragment-based chemoproteomics approach",
+      "award_number": "R21CA282568-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2568-01"
+      "investigators": [
+        {
+          "name": "Haura, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Rix, U.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HauraEric_985.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=985"
   },
-  "content_hash": "9578469d34dc807b894fadfced496766300dc57b284ebcd50693bb4ec19858a4",
+  "content_hash": "8004855a59f9785b12090d2f77377446048114d986672ec9bb237588479f4405",
   "researcher_name": "Eric Haura",
   "department": "Drug Discovery"
 }

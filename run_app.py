@@ -18,12 +18,30 @@ def main():
     src_path = project_root / "src"
     sys.path.insert(0, str(src_path))
 
+    # Initialize logging system
+    from moffitt_rag.utils.logging import init_logging, configure_exception_logging, get_logger
+    
+    # Initialize logging
+    init_logging(
+        console_level=None,  # Use environment-based level
+        file_level=None,     # Use DEBUG for files
+        enable_query_log=True,
+        enable_error_log=True,
+        enable_structured_logs=True
+    )
+    
+    # Configure global exception logging
+    configure_exception_logging()
+    
+    # Get logger for this script
+    logger = get_logger(__name__)
+
     # Path to the app file
     app_path = project_root / "src" / "moffitt_rag" / "streamlit" / "app.py"
 
     # Check if the app file exists
     if not app_path.exists():
-        print(f"Error: App file not found at {app_path}")
+        logger.error(f"App file not found at {app_path}")
         return 1
 
     # Set PYTHONPATH environment variable
@@ -34,8 +52,8 @@ def main():
         env["PYTHONPATH"] = str(src_path)
 
     # Run the Streamlit app with the correct Python path
-    print(f"Starting Streamlit app from: {app_path}")
-    print(f"Python path includes: {src_path}")
+    logger.info(f"Starting Streamlit app from: {app_path}")
+    logger.info(f"Python path includes: {src_path}")
 
     result = subprocess.run(["streamlit", "run", str(app_path)], env=env)
     return result.returncode

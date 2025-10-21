@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/keiran-smalley",
-  "last_updated": "2025-10-19T00:29:43.060351",
+  "last_updated": "2025-10-21T16:38:46.459392",
   "researcher_id": "4585",
   "degrees": [
     "PhD"
@@ -43,137 +43,277 @@
   ],
   "publications": [
     {
-      "title": "Kleberg J, Nataraj A, Xiao Y, Podder BR, Jin Z, Tithi TI, Zheng G, Smalley KSM, Moser EK, Safe S, Maharjan CK, Kolb R, Zhang W. Targeting Lineage-Specific Functions of NR4A1 for Cancer Immunotherapy. Int J Mol Sci",
+      "title": "Targeting Lineage-Specific Functions of NR4A1 for Cancer Immunotherapy",
       "pubmed_id": "40508074",
       "pmc_id": "PMC12155124",
       "year": "2025",
-      "journal": "26(11)",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Kleberg J, Nataraj A, Xiao Y, Podder BR, Jin Z, Tithi TI, Zheng G, Smalley KSM, Moser EK, Safe S, Maharjan CK, Kolb R, Zhang W",
+      "journal": "Int J Mol Sci"
     },
     {
-      "title": "Xu X, Liu X, Dollar JJ, Liu X, Jasani N, Posorske B, Sriramareddy SN, Jarajapu V, Kuznetsoff JN, Sinard J, Bennett RL, Licht JD, Smalley KSM, Harbour JW, Yu X, Karreth FA. A multi-step immune-competent genetic mouse model reveals phenotypic plasticity in uveal melanoma. bioRxiv",
+      "title": "A multi-step immune-competent genetic mouse model reveals phenotypic plasticity in uveal melanoma",
       "pubmed_id": "40502063",
       "pmc_id": "PMC12157397",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Xu X, Liu X, Dollar JJ, Liu X, Jasani N, Posorske B, Sriramareddy SN, Jarajapu V, Kuznetsoff JN, Sinard J, Bennett RL, Licht JD, Smalley KSM, Harbour JW, Yu X, Karreth FA",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S. Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors. Cancer Res",
+      "title": "Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors",
       "pubmed_id": "40287947",
       "pmc_id": "PMC12167936",
       "year": "2025",
-      "journal": "85(12):2268-2287",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Seedor RS, Aplin AE, Bertolotto C, Carvajal RD, Deacon N, Doble K, Hamid O, Haq R, Kadosh M, Khan S, Kraska J, Lutzky J, McKean M, Montazeri K, Moser J, Onken M, Orloff M, Sacco JJ, Smalley K, Selig SM. Meeting Report From the 2023 Cure Ocular Melanoma (CURE OM) Global Science Meeting, Philadelphia, PA, November 2023. Pigment Cell Melanoma Res",
+      "title": "Meeting Report From the 2023 Cure Ocular Melanoma (CURE OM) Global Science Meeting, Philadelphia, PA, November 2023",
       "pubmed_id": "39385554",
       "year": "2025",
-      "journal": "38(1):e13205",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Seedor RS, Aplin AE, Bertolotto C, Carvajal RD, Deacon N, Doble K, Hamid O, Haq R, Kadosh M, Khan S, Kraska J, Lutzky J, McKean M, Montazeri K, Moser J, Onken M, Orloff M, Sacco JJ, Smalley K, Selig SM",
+      "journal": "Pigment Cell Melanoma Res"
     },
     {
-      "title": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA. Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses. Neurooncol",
+      "title": "Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses",
       "pubmed_id": "40888040",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA",
+      "journal": "Neurooncol"
     },
     {
-      "title": "Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM. Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models. J Immunother Cancer",
+      "title": "Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models",
       "pubmed_id": "40825611",
       "pmc_id": "PMC12366563",
       "year": "2025",
-      "journal": "13(8)",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Law V, Smalley I, Evernden BR, Baldwin M, Smalley KSM, Forsyth PA. Ex Vivo Culture of Circulating Tumor Cells in the Cerebral Spinal Fluid from Melanoma Patients to Study Melanoma-Associated Leptomeningeal Disease. J Vis Exp",
+      "title": "Ex Vivo Culture of Circulating Tumor Cells in the Cerebral Spinal Fluid from Melanoma Patients to Study Melanoma-Associated Leptomeningeal Disease",
       "pubmed_id": "38619274",
       "year": "2024",
-      "journal": "(205)",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Law V, Smalley I, Evernden BR, Baldwin M, Smalley KSM, Forsyth PA",
+      "journal": "J Vis Exp"
     },
     {
-      "title": "Wang L, Xiao Y, Luo Y, Master RP, Mo J, Kim MC, Liu Y, Maharjan CK, Patel UM, De U, Carelock ME, Tithi TI, Li X, Shaffer DR, Guertin KR, Zhuang H, Moser E, Smalley KSM, Lv D, Zhou D, Zheng G, Zhang W. PROTAC-mediated NR4A1 degradation as a novel strategy for cancer immunotherapy. J Exp Med",
+      "title": "PROTAC-mediated NR4A1 degradation as a novel strategy for cancer immunotherapy",
       "pubmed_id": "38334978",
       "pmc_id": "PMC10857906",
       "year": "2024",
-      "journal": "221(3)",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Wang L, Xiao Y, Luo Y, Master RP, Mo J, Kim MC, Liu Y, Maharjan CK, Patel UM, De U, Carelock ME, Tithi TI, Li X, Shaffer DR, Guertin KR, Zhuang H, Moser E, Smalley KSM, Lv D, Zhou D, Zheng G, Zhang W",
+      "journal": "J Exp Med"
     },
     {
-      "title": "Smalley I, Boire A, Brastianos P, Kluger HM, Hernando-Monge E, Forsyth PA, Ahmed KA, Smalley KSM, Ferguson S, Davies MA, Glitza Oliva IC. Leptomeningeal disease in melanoma: An update on the developments in pathophysiology and clinical care. Pigment Cell Melanoma Res",
+      "title": "Leptomeningeal disease in melanoma: An update on the developments in pathophysiology and clinical care",
       "pubmed_id": "37622466",
       "year": "2024",
-      "journal": "37(1):51-67",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Smalley I, Boire A, Brastianos P, Kluger HM, Hernando-Monge E, Forsyth PA, Ahmed KA, Smalley KSM, Ferguson S, Davies MA, Glitza Oliva IC",
+      "journal": "Pigment Cell Melanoma Res"
     },
     {
-      "title": "Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM. Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma. Cancer",
-      "pubmed_id": "37776537",
+      "title": "C19MC miRNA-520G induces SP100 antiviral gene transcription and inhibits melanin production in skin cutaneous melanoma",
+      "pubmed_id": "37588194",
+      "pmc_id": "PMC10425800",
       "year": "2024",
-      "journal": "130(2):232-243",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Jinesh GG, Smallin MT, Mtchedlidze N, Godwin I, Napoli M, Hackel N, Phadke MS, Deshpande AA, Li X, Lockhart JH, Baldwin JR, Acevedo-Acevedo S, Gao Y, Reiser MA, Smalley KSM, Flores ER, Brohl AS",
+      "journal": "Genes Dis"
     }
   ],
   "grants": [
     {
       "description": "Title: Structure-function studies of LAG3 interactions with antibodies and cellular ligands  \nAward Number: 1R01CA299899-01  \nSponsor: National Cancer Institute (NCI)  \nLuca, V. (PD/PI), Smalley, K. (Co-PD/PI)",
+      "title": "Structure-function studies of LAG3 interactions with antibodies and cellular ligands",
+      "award_number": "1R01CA299899-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "9899-01"
+      "investigators": [
+        {
+          "name": "Luca, V.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Smalley, K.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Optimizing the immune mediated-destruction of NRAS mutant melanoma  \nAward Number: 1241759  \nSponsor: Melanoma Research Alliance (MRA)  \nJaeger, A. (PD/PI), Smalley, K. (PD/PI)"
+      "description": "Title: Optimizing the immune mediated-destruction of NRAS mutant melanoma  \nAward Number: 1241759  \nSponsor: Melanoma Research Alliance (MRA)  \nJaeger, A. (PD/PI), Smalley, K. (PD/PI)",
+      "title": "Optimizing the immune mediated-destruction of NRAS mutant melanoma",
+      "award_number": "1241759",
+      "sponsor": "Melanoma Research Alliance (MRA)",
+      "investigators": [
+        {
+          "name": "Jaeger, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Establishing Melanoma PDXs for Neoantigen TCR Testing  \nAward Number: 22VA002-S3  \nSponsor: NEOGENE THERAPEUTICS  \nSmalley, K. (PD/PI), Sondak, V. (Co-PD/PI)"
+      "description": "Title: Establishing Melanoma PDXs for Neoantigen TCR Testing  \nAward Number: 22VA002-S3  \nSponsor: NEOGENE THERAPEUTICS  \nSmalley, K. (PD/PI), Sondak, V. (Co-PD/PI)",
+      "title": "Establishing Melanoma PDXs for Neoantigen TCR Testing",
+      "award_number": "22VA002-S3",
+      "sponsor": "NEOGENE THERAPEUTICS",
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Sondak, V.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Proposal to develop rational combinations/sequences of RAS-(ON) inhibitors with immune checkpoint inhibitor therapy  \nAward Number: 21VA120.002  \nSponsor: REVOLUTION MEDICINES  \nSmalley, K. (PD/PI)"
+      "description": "Title: Proposal to develop rational combinations/sequences of RAS-(ON) inhibitors with immune checkpoint inhibitor therapy  \nAward Number: 21VA120.002  \nSponsor: REVOLUTION MEDICINES  \nSmalley, K. (PD/PI)",
+      "title": "Proposal to develop rational combinations/sequences of RAS-(ON) inhibitors with immune checkpoint inhibitor therapy",
+      "award_number": "21VA120.002",
+      "sponsor": "REVOLUTION MEDICINES",
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: MRA Rare Melanoma Consortium: Award #1550647  \nAward Number: 1550647  \nSponsor: Melanoma Research Alliance (MRA)  \nSmalley, K. (PD/PI)"
+      "description": "Title: MRA Rare Melanoma Consortium: Award #1550647  \nAward Number: 1550647  \nSponsor: Melanoma Research Alliance (MRA)  \nSmalley, K. (PD/PI)",
+      "title": "MRA Rare Melanoma Consortium: Award #1550647",
+      "award_number": "1550647",
+      "sponsor": "Melanoma Research Alliance (MRA)",
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: 26th Annual Meeting of the PanAmerican Society for Pigment Cell Research  \nAward Number: 1R13AR086643-01  \nSponsor: National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)  \nSmalley, K. (PD/PI)",
-      "period": "6643-01"
+      "title": "26th Annual Meeting of the PanAmerican Society for Pigment Cell Research",
+      "award_number": "1R13AR086643-01",
+      "sponsor": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)",
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Identification of Neoepitopes in SF3B1-Mutant Uveal Melanoma via Comparative Immunophenotyping  \nAward Number: Ballentine Gift  \nSponsor: SuzyQ Melanoma Accel  \nSmalley, K. (PD/PI), Jaeger, A. (Co-PD/PI)"
+      "description": "Title: Identification of Neoepitopes in SF3B1-Mutant Uveal Melanoma via Comparative Immunophenotyping  \nAward Number: Ballentine Gift  \nSponsor: SuzyQ Melanoma Accel  \nSmalley, K. (PD/PI), Jaeger, A. (Co-PD/PI)",
+      "title": "Identification of Neoepitopes in SF3B1-Mutant Uveal Melanoma via Comparative Immunophenotyping",
+      "award_number": "Ballentine Gift",
+      "sponsor": "SuzyQ Melanoma Accel",
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Jaeger, A.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Defining the immune and signaling landscape of acral melanoma in African-American patients  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nSmalley, K. (PD/PI)",
-      "source": "Foundation"
+      "title": "Defining the immune and signaling landscape of acral melanoma in African-American patients",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Characterization and Targeting of the Epigenetic state underlying uveal melanoma liver metastasis  \nAward Number: 5R01CA256193-02  \nSponsor: National Cancer Institute (NCI)  \nSmalley, K. (PD/PI)",
+      "title": "Characterization and Targeting of the Epigenetic state underlying uveal melanoma liver metastasis",
+      "award_number": "5R01CA256193-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "6193-02"
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Defining and targeting the epigenetic programs involved in melanoma development  \nAward Number: 5R21CA267141-02  \nSponsor: National Cancer Institute (NCI)  \nSmalley, K. (PD/PI)",
+      "title": "Defining and targeting the epigenetic programs involved in melanoma development",
+      "award_number": "5R21CA267141-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "7141-02"
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Defining and Targeting Epigenetic Plasticity-Driven Drug Resistance and Immune Escape in Melanoma  \nAward Number: 1R01CA262483-01A1  \nSponsor: National Cancer Institute (NCI)  \nSmalley, K. (PD/PI)",
+      "title": "Defining and Targeting Epigenetic Plasticity-Driven Drug Resistance and Immune Escape in Melanoma",
+      "award_number": "1R01CA262483-01A1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "2483-01"
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Proteolysis targeting chimera against nuclear receptor NR4A1 for melanoma therapy  \nAward Number: 1R01CA290792-01  \nSponsor: National Cancer Institute (NCI)  \nSmalley, K. (PD/PI)",
+      "title": "Proteolysis targeting chimera against nuclear receptor NR4A1 for melanoma therapy",
+      "award_number": "1R01CA290792-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0792-01"
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Optimizing immunotherapy strategies for melanoma brain metastases  \nAward Number: 24B04  \nSponsor: Florida Department of Health  \nSmalley, K. (PD/PI)"
+      "description": "Title: Optimizing immunotherapy strategies for melanoma brain metastases  \nAward Number: 24B04  \nSponsor: Florida Department of Health  \nSmalley, K. (PD/PI)",
+      "title": "Optimizing immunotherapy strategies for melanoma brain metastases",
+      "award_number": "24B04",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SmalleyKeiran_4585.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4585"
   },
-  "content_hash": "d8d699c85e2792498bf6d18eeec9516d50aa2d6879981834e7de204cba4cb264",
+  "content_hash": "d2a91f0883062047c3ec24a61500872b1a37b564003ceb878ddefa42ee48b4da",
   "researcher_name": "Keiran Smalley",
   "department": "Tumor Microenvironment and Metastasis"
 }

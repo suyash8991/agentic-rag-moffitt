@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/inna-smalley",
-  "last_updated": "2025-10-19T00:24:24.217601",
+  "last_updated": "2025-10-21T16:33:26.334291",
   "researcher_id": "4303",
   "degrees": [
     "PhD"
@@ -25,110 +25,174 @@
   ],
   "publications": [
     {
-      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL. spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis. Cancer Res",
+      "title": "spatialGE Is a User-Friendly Web Application That Facilitates Spatial Transcriptomics Data Analysis",
       "pubmed_id": "39636739",
       "pmc_id": "PMC11873723",
       "year": "2025",
-      "journal": "85(5):848-858",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai KY, Markowitz J, Vallebuona E, Berglund AE, Eschrich SA, Yu X, Fridley BL",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Lazure F, Drapela S, Liu X, Lockhart JH, Kashfi H, Sarigul N, Ilter D, Flores ER, Wang X, Smalley I, Jaeger A, Yu X, Gomes AP. Aging directs the differential evolution of KRAS-driven lung adenocarcinoma. bioRxiv",
+      "title": "Aging directs the differential evolution of KRAS-driven lung adenocarcinoma",
       "pubmed_id": "39896625",
       "pmc_id": "PMC11785146",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Lazure F, Drapela S, Liu X, Lockhart JH, Kashfi H, Sarigul N, Ilter D, Flores ER, Wang X, Smalley I, Jaeger A, Yu X, Gomes AP",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA. Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses. Neurooncol",
+      "title": "Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses",
       "pubmed_id": "40888040",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA",
+      "journal": "Neurooncol"
     },
     {
-      "title": "Wilcox JA, Chukwueke UN, Ahn MJ, Aizer AA, Bale TA, Brandsma D, Brastianos PK, Chang S, Daras M, Forsyth P, Garzia L, Glantz M, Oliva ICG, Kumthekar P, Le Rhun E, Nagpal S, O'Brien B, Pentsova E, Lee EQ, Remsik J, Rud\u00e0 R, Smalley I, Taylor MD, Weller M, Wefel J, Yang JT, Young RJ, Wen PY, Boire AA. Leptomeningeal metastases from solid tumors: A Society for Neuro-Oncology and American Society of Clinical Oncology consensus review on clinical management and future directions. Neurooncol",
+      "title": "Leptomeningeal metastases from solid tumors: A Society for Neuro-Oncology and American Society of Clinical Oncology consensus review on clinical management and future directions",
       "pubmed_id": "38902944",
       "pmc_id": "PMC11449070",
       "year": "2024",
-      "journal": "26(10):1781-1804",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Wilcox JA, Chukwueke UN, Ahn MJ, Aizer AA, Bale TA, Brandsma D, Brastianos PK, Chang S, Daras M, Forsyth P, Garzia L, Glantz M, Oliva ICG, Kumthekar P, Le Rhun E, Nagpal S, O'Brien B, Pentsova E, Lee EQ, Remsik J, Rud\u00e0 R, Smalley I, Taylor MD, Weller M, Wefel J, Yang JT, Young RJ, Wen PY, Boire AA",
+      "journal": "Neurooncol"
     },
     {
-      "title": "Wallace G, Kundalia R, Vallebuona E, Cao B, Kim Y, Forsyth P, Soyano A, Smalley I, Pina Y. Factors associated with overall survival in breast cancer patients with leptomeningeal disease (LMD): a single institutional retrospective review. Breast Cancer Res",
+      "title": "Ex Vivo Culture of Circulating Tumor Cells in the Cerebral Spinal Fluid from Melanoma Patients to Study Melanoma-Associated Leptomeningeal Disease",
+      "pubmed_id": "38619274",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Law V, Smalley I, Evernden BR, Baldwin M, Smalley KSM, Forsyth PA",
+      "journal": "J Vis Exp"
+    },
+    {
+      "title": "Factors associated with overall survival in breast cancer patients with leptomeningeal disease (LMD): a single institutional retrospective review",
       "pubmed_id": "38553702",
       "pmc_id": "PMC10979566",
       "year": "2024",
-      "journal": "26(1):55",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Wallace G, Kundalia R, Vallebuona E, Cao B, Kim Y, Forsyth P, Soyano A, Smalley I, Pina Y",
+      "journal": "Breast Cancer Res"
     },
     {
-      "title": "Law V, Smalley I, Evernden BR, Baldwin M, Smalley KSM, Forsyth PA. Ex Vivo Culture of Circulating Tumor Cells in the Cerebral Spinal Fluid from Melanoma Patients to Study Melanoma-Associated Leptomeningeal Disease. J Vis Exp",
-      "pubmed_id": "38619274",
-      "year": "2024",
-      "journal": "(205)",
-      "authors": ""
-    },
-    {
-      "title": "Alhaddad H, Ospina OE, Khaled ML, Ren Y, Vallebuona E, Boozo MB, Forsyth PA, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I. Spatial transcriptomics analysis identifies a tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease. Cell Rep Med",
+      "title": "Spatial transcriptomics analysis identifies a tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease",
       "pubmed_id": "38866016",
       "pmc_id": "PMC11228800",
       "year": "2024",
-      "journal": "5(6):101606",
-      "authors": ""
+      "publication_date": "2024 Jun",
+      "authors": "Alhaddad H, Ospina OE, Khaled ML, Ren Y, Vallebuona E, Boozo MB, Forsyth PA, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I",
+      "journal": "Cell Rep Med"
     },
     {
-      "title": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai K, Markowitz J, Vallebuona E, Berglund A, Eschrich S, Yu X, Fridley BL. spatialGE: A user-friendly web application to democratize spatial transcriptomics analysis. bioRxiv",
+      "title": "spatialGE: A user-friendly web application to democratize spatial transcriptomics analysis",
       "pubmed_id": "39005315",
       "pmc_id": "PMC11244876",
       "year": "2024",
-      "authors": ""
+      "publication_date": "2024 Jul",
+      "authors": "Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai K, Markowitz J, Vallebuona E, Berglund A, Eschrich S, Yu X, Fridley BL",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM. Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma. Cancer",
-      "pubmed_id": "37776537",
-      "year": "2024",
-      "journal": "130(2):232-243",
-      "authors": ""
-    },
-    {
-      "title": "Smalley I, Boire A, Brastianos P, Kluger HM, Hernando-Monge E, Forsyth PA, Ahmed KA, Smalley KSM, Ferguson S, Davies MA, Glitza Oliva IC. Leptomeningeal disease in melanoma: An update on the developments in pathophysiology and clinical care. Pigment Cell Melanoma Res",
+      "title": "Leptomeningeal disease in melanoma: An update on the developments in pathophysiology and clinical care",
       "pubmed_id": "37622466",
       "year": "2024",
-      "journal": "37(1):51-67",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Smalley I, Boire A, Brastianos P, Kluger HM, Hernando-Monge E, Forsyth PA, Ahmed KA, Smalley KSM, Ferguson S, Davies MA, Glitza Oliva IC",
+      "journal": "Pigment Cell Melanoma Res"
+    },
+    {
+      "title": "Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma",
+      "pubmed_id": "37776537",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM",
+      "journal": "Cancer"
     }
   ],
   "grants": [
     {
-      "description": "Title: Tumor-stroma metabolic crosstalk in melanoma brain metastases  \nAward Number: 932727  \nSponsor: Melanoma Research Alliance (MRA)  \nSmalley, I. (PD/PI)"
+      "description": "Title: Tumor-stroma metabolic crosstalk in melanoma brain metastases  \nAward Number: 932727  \nSponsor: Melanoma Research Alliance (MRA)  \nSmalley, I. (PD/PI)",
+      "title": "Tumor-stroma metabolic crosstalk in melanoma brain metastases",
+      "award_number": "932727",
+      "sponsor": "Melanoma Research Alliance (MRA)",
+      "investigators": [
+        {
+          "name": "Smalley, I.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Defining and targeting the immune-suppressive metabolic microenvironment of leptomeningeal melanoma metastases  \nAward Number: 1R21CA274060-01  \nSponsor: National Cancer Institute (NCI)  \nSmalley, I. (PD/PI)",
+      "title": "Defining and targeting the immune-suppressive metabolic microenvironment of leptomeningeal melanoma metastases",
+      "award_number": "1R21CA274060-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "4060-01"
+      "investigators": [
+        {
+          "name": "Smalley, I.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: How the aging tumor microenvironment affects development of leptomeningeal metastases  \nAward Number:   \nSponsor: Florida Department of Health  \nDa S. (PD/PI), Smalley, I. (PD/PI)"
+      "description": "Title: How the aging tumor microenvironment affects development of leptomeningeal metastases  \nAward Number:   \nSponsor: Florida Department of Health  \nDa S. (PD/PI), Smalley, I. (PD/PI)",
+      "title": "How the aging tumor microenvironment affects development of leptomeningeal metastases",
+      "award_number": "",
+      "sponsor": "Florida Department of Health  \nDa S. (PD/PI),",
+      "investigators": [
+        {
+          "name": "Smalley, I.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Preclinical study of phenylbutyrate for the treatment of melanoma leptomeningeal disease  \nAward Number:   \nSponsor: Florida Department of Health  \nSmalley, I. (PD/PI)"
+      "description": "Title: Preclinical study of phenylbutyrate for the treatment of melanoma leptomeningeal disease  \nAward Number:   \nSponsor: Florida Department of Health  \nSmalley, I. (PD/PI)",
+      "title": "Preclinical study of phenylbutyrate for the treatment of melanoma leptomeningeal disease",
+      "award_number": "",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Smalley, I.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Improving therapy for leptomeningeal Non-Hodgkin B cell lymphoma by targeting the metabolic tumor microenvironment  \nAward Number: RSG-23-1040487-01-MM  \nSponsor: American Cancer Society, Inc. (ACS)  \nSmalley, I. (PD/PI)",
+      "title": "Improving therapy for leptomeningeal Non-Hodgkin B cell lymphoma by targeting the metabolic tumor microenvironment",
+      "award_number": "RSG-23-1040487-01-MM",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
       "source": "American Cancer Society",
-      "period": "0487-01"
+      "investigators": [
+        {
+          "name": "Smalley, I.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: How the aging tumor microenvironment affects the outgrowth of leptomeningeal metastases  \nAward Number: TLC-23-1180750-01-TLC  \nSponsor: American Cancer Society, Inc. (ACS)  \nSmalley, I. (PD/PI)",
+      "title": "How the aging tumor microenvironment affects the outgrowth of leptomeningeal metastases",
+      "award_number": "TLC-23-1180750-01-TLC",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
       "source": "American Cancer Society",
-      "period": "0750-01"
+      "investigators": [
+        {
+          "name": "Smalley, I.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SmalleyInna_4303.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4303"
   },
-  "content_hash": "d4a252c34021cc3fb0842b105cbd419a30fd43fcb5bdbbffdb46109a02136cc4",
+  "content_hash": "968a1417dfd8faff91d3cec8840ec1e225eb8606fe41fb6ffd948f073c485b51",
   "researcher_name": "Inna Smalley",
   "department": "Metabolism and Physiology"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/gilmer-valdes",
-  "last_updated": "2025-10-19T00:27:14.840472",
+  "last_updated": "2025-10-21T16:36:19.214342",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
@@ -22,25 +22,27 @@
   "education": [],
   "publications": [
     {
-      "title": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y. Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data. JNCI Cancer Spectr",
+      "title": "Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data",
       "pubmed_id": "40111867",
       "pmc_id": "PMC11986816",
       "year": "2025",
-      "journal": "9(2)",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y",
+      "journal": "JNCI Cancer Spectr"
     },
     {
-      "title": "Chow R, Hasan S, Zheng A, Gao C, Valdes G, Yu F, Chhabra A, Raman S, Choi JI, Lin H, Simone CB. The Accuracy of Artificial Intelligence ChatGPT in Oncology Examination Questions. J Am Coll Radiol",
+      "title": "The Accuracy of Artificial Intelligence ChatGPT in Oncology Examination Questions",
       "pubmed_id": "39098369",
       "year": "2024",
-      "journal": "21(11):1800-1804",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Chow R, Hasan S, Zheng A, Gao C, Valdes G, Yu F, Chhabra A, Raman S, Choi JI, Lin H, Simone CB",
+      "journal": "J Am Coll Radiol"
     }
   ],
   "grants": [],
   "photo_url": "",
   "contact": {},
-  "content_hash": "8a3dcd4515108f989c87b8e475f398ee3ccfbec292a1d31cd57ad317844f431b",
+  "content_hash": "0c25218f1cb307bdb5b0e7b2d7ab73ada58ddfbf0bc3359ee80a814f6c82ed75",
   "researcher_name": "Gilmer Valdes",
   "department": "Machine Learning"
 }

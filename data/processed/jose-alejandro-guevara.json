@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jose-alejandro-guevara",
-  "last_updated": "2025-10-19T00:30:49.372073",
+  "last_updated": "2025-10-21T16:39:55.031165",
   "researcher_id": "29147",
   "degrees": [
     "MD",
@@ -35,103 +35,148 @@
   ],
   "publications": [
     {
-      "title": "Wang X, Li T, Slebos RJC, Chaudhary R, Guevara-Patino JA, Bonomi M, Saba NF, Chung CH. Clinical significance of peripheral T-cell repertoire in head and neck squamous cell carcinoma treated with cetuximab and nivolumab. Cancer Immunol Immun",
+      "title": "Clinical significance of peripheral T-cell repertoire in head and neck squamous cell carcinoma treated with cetuximab and nivolumab",
       "pubmed_id": "40056190",
       "pmc_id": "PMC11890688",
       "year": "2025",
-      "journal": "74(4):142",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Wang X, Li T, Slebos RJC, Chaudhary R, Guevara-Patino JA, Bonomi M, Saba NF, Chung CH",
+      "journal": "Cancer Immunol Immun"
     },
     {
-      "title": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH. PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis. Mol Cancer Ther",
+      "title": "PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis",
       "pubmed_id": "40552938",
       "pmc_id": "PMC12327362",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH",
+      "journal": "Mol Cancer Ther"
     },
     {
-      "title": "Nagy MZ, Plaza-Rojas LB, Boucher JC, Kostenko E, Austin AL, Tarhini AA, Chen Z, Du D, Ojwang' AME, Davis J, Obermayer A, Rejniak KA, Shaw TI, Guevara-Patino JA. Effector T cells under hypoxia have an altered transcriptome similar to tumor-stressed T cells found in non-responsive melanoma patients. J Immunother Cancer",
+      "title": "Effector T cells under hypoxia have an altered transcriptome similar to tumor-stressed T cells found in non-responsive melanoma patients",
       "pubmed_id": "40010774",
       "year": "2025",
-      "journal": "13(2)",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Nagy MZ, Plaza-Rojas LB, Boucher JC, Kostenko E, Austin AL, Tarhini AA, Chen Z, Du D, Ojwang' AME, Davis J, Obermayer A, Rejniak KA, Shaw TI, Guevara-Patino JA",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Perez C, Plaza-Rojas L, Boucher JC, Nagy MZ, Kostenko E, Prajapati K, Burke B, Reyes MD, Austin AL, Zhang S, Le PT, Guevara-Patino JA. NKG2D receptor signaling shapes T cell thymic education. J Leukoc Biol",
+      "title": "NKG2D receptor signaling shapes T cell thymic education",
       "pubmed_id": "37949818",
       "year": "2024",
-      "journal": "115(2):306-321",
-      "authors": ""
+      "publication_date": "2024 Jan",
+      "authors": "Perez C, Plaza-Rojas L, Boucher JC, Nagy MZ, Kostenko E, Prajapati K, Burke B, Reyes MD, Austin AL, Zhang S, Le PT, Guevara-Patino JA",
+      "journal": "J Leukoc Biol"
     },
     {
-      "title": "Chaudhary R, Slebos RJC, Noel LC, Song F, Poole MI, Hoening DS, Hernandez-Prera JC, Conejo-Garcia JR, Guevara-Patino JA, Wang X, Xie M, Tan AC, Chung CH. EGFR Inhibition by Cetuximab Modulates Hypoxia and IFN Response Genes in Head and Neck Squamous Cell Carcinoma. Cancer Res Commun",
+      "title": "EGFR Inhibition by Cetuximab Modulates Hypoxia and IFN Response Genes in Head and Neck Squamous Cell Carcinoma",
       "pubmed_id": "37377902",
       "pmc_id": "PMC10202124",
       "year": "2023",
-      "journal": "3(5):896-907",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Chaudhary R, Slebos RJC, Noel LC, Song F, Poole MI, Hoening DS, Hernandez-Prera JC, Conejo-Garcia JR, Guevara-Patino JA, Wang X, Xie M, Tan AC, Chung CH",
+      "journal": "Cancer Res Commun"
     },
     {
-      "title": "Kohlhapp FJ, O'Sullivan JA, Moore TV, Zloza A, Guevara-Pati\u00f1o JA. NKG2D signaling shifts the balance of CD8 T cells from single cytokine- to polycytokine-producing effector cells. Mol Immunol",
+      "title": "NKG2D signaling shifts the balance of CD8 T cells from single cytokine- to polycytokine-producing effector cells",
       "pubmed_id": "36634520",
       "pmc_id": "PMC9992161",
       "year": "2023",
-      "journal": "155:1-6",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Kohlhapp FJ, O'Sullivan JA, Moore TV, Zloza A, Guevara-Pati\u00f1o JA",
+      "journal": "Mol Immunol"
     },
     {
-      "title": "Jain RK, Singh AM, Wang X, Guevara-Pati\u00f1o JA, Sonpavde G. Emerging monoclonal antibody therapies in the treatment of metastatic urothelial carcinoma. Expert Opin Emerg Drugs",
+      "title": "Emerging monoclonal antibody therapies in the treatment of metastatic urothelial carcinoma",
       "pubmed_id": "36882977",
       "year": "2023",
-      "journal": "28(1):17-26",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Jain RK, Singh AM, Wang X, Guevara-Pati\u00f1o JA, Sonpavde G",
+      "journal": "Expert Opin Emerg Drugs"
     },
     {
-      "title": "Jhawar SR, Wang SJ, Thandoni A, Bommareddy PK, Newman JH, Marzo AL, Kuzel TM, Gupta V, Reiser J, Daniels P, Schiff D, Mitchell D, LeBoeuf NR, Simmons C, Goyal S, Lasfar A, Guevara-Patino JA, Haffty BG, Kaufman HL, Silk AW, Zloza A. Combination oncolytic virus, radiation therapy, and immune checkpoint inhibitor treatment in anti-PD-1-refractory cancer. J Immunother Cancer",
+      "title": "Combination oncolytic virus, radiation therapy, and immune checkpoint inhibitor treatment in anti-PD-1-refractory cancer",
       "pubmed_id": "37433716",
       "pmc_id": "PMC10347455",
       "year": "2023",
-      "journal": "11(7)",
-      "authors": ""
+      "publication_date": "2023 Jul",
+      "authors": "Jhawar SR, Wang SJ, Thandoni A, Bommareddy PK, Newman JH, Marzo AL, Kuzel TM, Gupta V, Reiser J, Daniels P, Schiff D, Mitchell D, LeBoeuf NR, Simmons C, Goyal S, Lasfar A, Guevara-Patino JA, Haffty BG, Kaufman HL, Silk AW, Zloza A",
+      "journal": "J Immunother Cancer"
     },
     {
-      "title": "Singh AM, Guevara-Patino JA, Wang X, Li R, Sonpavde G, Jain RK. Antibody-Drug Conjugates in the Treatment of Urothelial Cancer. BioDrugs",
+      "title": "Antibody-Drug Conjugates in the Treatment of Urothelial Cancer",
       "pubmed_id": "37256534",
       "year": "2023",
-      "journal": "37(4):505-520",
-      "authors": ""
+      "publication_date": "2023 Jul",
+      "authors": "Singh AM, Guevara-Patino JA, Wang X, Li R, Sonpavde G, Jain RK",
+      "journal": "BioDrugs"
     },
     {
-      "title": "O'Sullivan JA, Kohlhapp FJ, Zloza A, Plaza-Rojas L, Burke B, Dulin NO, Guevara-Pati\u00f1o JA. Memory Precursors and Short-Lived Effector T cell Subsets Have Different Sensitivities to TGF\u03b2. Int J Mol Sci",
+      "title": "Memory Precursors and Short-Lived Effector T cell Subsets Have Different Sensitivities to TGF\u03b2",
       "pubmed_id": "36835342",
       "pmc_id": "PMC9966622",
       "year": "2023",
-      "journal": "24(4)",
-      "authors": ""
+      "publication_date": "2023 Feb",
+      "authors": "O'Sullivan JA, Kohlhapp FJ, Zloza A, Plaza-Rojas L, Burke B, Dulin NO, Guevara-Pati\u00f1o JA",
+      "journal": "Int J Mol Sci"
     }
   ],
   "grants": [
     {
-      "description": "Title: Development and Implementation of Exhaustion Resistant CAR-T Cell Against Melanoma  \nAward Number:   \nSponsor: VOLO FOUNDATION  \nGuevara, J. (PD/PI)"
+      "description": "Title: Development and Implementation of Exhaustion Resistant CAR-T Cell Against Melanoma  \nAward Number:   \nSponsor: VOLO FOUNDATION  \nGuevara, J. (PD/PI)",
+      "title": "Development and Implementation of Exhaustion Resistant CAR-T Cell Against Melanoma",
+      "award_number": "",
+      "sponsor": "VOLO FOUNDATION",
+      "investigators": [
+        {
+          "name": "Guevara, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Study of Anti-Tumor Immunity and Tissue Resident Memory Cell Development by NKG2D and Ribosomal Protein S6 Signaling in T cells  \nAward Number: 5R01CA250514-05  \nSponsor: National Cancer Institute (NCI)  \nGuevara, J. (PD/PI)",
+      "title": "Study of Anti-Tumor Immunity and Tissue Resident Memory Cell Development by NKG2D and Ribosomal Protein S6 Signaling in T cells",
+      "award_number": "5R01CA250514-05",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0514-05"
+      "investigators": [
+        {
+          "name": "Guevara, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Exploratory Study of T Cell Skin Trafficking and the Role of NKG2D Signaling; Implications in Vitiligo and Melanoma  \nAward Number: 1R21AR081633-01A1  \nSponsor: National Institute on Aging (NIA)  \nGuevara, J. (PD/PI)",
-      "period": "1633-01"
+      "title": "Exploratory Study of T Cell Skin Trafficking and the Role of NKG2D Signaling; Implications in Vitiligo and Melanoma",
+      "award_number": "1R21AR081633-01A1",
+      "sponsor": "National Institute on Aging (NIA)",
+      "investigators": [
+        {
+          "name": "Guevara, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: CD3z-Independent Signaling Module for CAR-T Cell Therapies Against Solid Cancer  \nAward Number: 23B08  \nSponsor: Florida Department of Health  \nGuevara, J. (PD/PI)"
+      "description": "Title: CD3z-Independent Signaling Module for CAR-T Cell Therapies Against Solid Cancer  \nAward Number: 23B08  \nSponsor: Florida Department of Health  \nGuevara, J. (PD/PI)",
+      "title": "CD3z-Independent Signaling Module for CAR-T Cell Therapies Against Solid Cancer",
+      "award_number": "23B08",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Guevara, J.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GuevaraJoseAlejandro_29147.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=29147"
   },
-  "content_hash": "bf6f4b6deb74da196f1cf3bccd6a9eada765859f08dfefa9fbe67d1dcbef67ef",
+  "content_hash": "d14fdb2e1cf67fae97a61e9e3449235779d71c9a696a1ebaf2d901ecc5b0cc35",
   "researcher_name": "Jose Alejandro Guevara",
   "department": "Immunology"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/ken-shain",
-  "last_updated": "2025-10-19T00:29:38.289662",
+  "last_updated": "2025-10-21T16:38:42.245507",
   "researcher_id": "2060",
   "degrees": [
     "MD",
@@ -50,95 +50,137 @@
   ],
   "publications": [
     {
-      "title": "Dima D, Vazquez-Martinez MA, Davis JA, Goel U, Afrough A, Sannareddy A, Pasvolsky O, Razzo B, Banerjee R, Khouri J, Grajales-Cruz A, Lieberman-Cribbin A, Rana MS, Julian K, DeJarnette S, Portuguese AJ, Gaballa MR, De Avila G, Susaniba Adaniya S, Raza S, Herr MM, Ouchveridze E, Richards T, Hosoya H, Mikkilineni L, Kaur G, Castaneda Puglianini O, Rossi A, Lin Y, Atrash S, Sborov D, Shain KH, Voorhees PM, Richard S, Garfall AL, Hansen DK, Sidana S, Patel KK, Cowan AJ, Anderson LD, Lee HC, Anwer F, Ferreri CJ, Shune L. Outcomes of teclistamab in patients with relapsed/refractory multiple myeloma with prior exposure to BCMA-directed therapy: a multicenter study from the U.S. Multiple Myeloma Immunotherapy Consortium. Blood Cancer J",
-      "pubmed_id": "40562770",
-      "pmc_id": "PMC12198414",
-      "year": "2025",
-      "journal": "15(1):111",
-      "authors": ""
-    },
-    {
-      "title": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC. Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma. Haematologica",
+      "title": "Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma",
       "pubmed_id": "39633543",
       "pmc_id": "PMC12130774",
       "year": "2025",
-      "journal": "110(6):1351-1367",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC",
+      "journal": "Haematologica"
     },
     {
-      "title": "Persi E, Sudalagunta PR, Wolf YI, Canevarolo RR, Damaghi M, Shain KH, Silva AS, Koonin EV. Genome-level selection in tumors as a universal marker of resistance to therapy. Nat Commun",
+      "title": "Outcomes of teclistamab in patients with relapsed/refractory multiple myeloma with prior exposure to BCMA-directed therapy: a multicenter study from the U",
+      "pubmed_id": "40562770",
+      "pmc_id": "PMC12198414",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Dima D, Vazquez-Martinez MA, Davis JA, Goel U, Afrough A, Sannareddy A, Pasvolsky O, Razzo B, Banerjee R, Khouri J, Grajales-Cruz A, Lieberman-Cribbin A, Rana MS, Julian K, DeJarnette S, Portuguese AJ, Gaballa MR, De Avila G, Susaniba Adaniya S, Raza S, Herr MM, Ouchveridze E, Richards T, Hosoya H, Mikkilineni L, Kaur G, Castaneda Puglianini O, Rossi A, Lin Y, Atrash S, Sborov D, Shain KH, Voorhees PM, Richard S, Garfall AL, Hansen DK, Sidana S, Patel KK, Cowan AJ, Anderson LD, Lee HC, Anwer F, Ferreri CJ, Shune L",
+      "journal": "S"
+    },
+    {
+      "title": "Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma",
+      "pubmed_id": "40637727",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK",
+      "journal": "Haematologica"
+    },
+    {
+      "title": "Genome-level selection in tumors as a universal marker of resistance to therapy",
       "pubmed_id": "40664650",
       "pmc_id": "PMC12263839",
       "year": "2025",
-      "journal": "16(1):6535",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Persi E, Sudalagunta PR, Wolf YI, Canevarolo RR, Damaghi M, Shain KH, Silva AS, Koonin EV",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK. Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma. Haematologica",
-      "pubmed_id": "40637727",
-      "year": "2025",
-      "authors": ""
-    },
-    {
-      "title": "Voorhees PM, Sborov DW, Laubach J, Kaufman JL, Reeves B, Rodriguez C, Silbermann R, Costa LJ, Anderson LD, Nathwani N, Shah N, Bumma N, Efebera YA, Holstein SA, Costello C, Jakubowiak A, Wildes TM, Orlowski RZ, Shain KH, Cowan AJ, Dinner S, Gries KS, Pei H, Cortoos A, Patel S, Lin TS, Usmani SZ, Richardson PG. A plain language summary of the final analysis of the GRIFFIN study of daratumumab plus lenalidomide, bortezomib, and dexamethasone for people with newly diagnosed multiple myeloma. Future Oncol",
-      "pubmed_id": "39452950",
-      "pmc_id": "PMC11789466",
-      "year": "2025",
-      "journal": "21(1):25-49",
-      "authors": ""
-    },
-    {
-      "title": "Shain KH. Quantifying MM disease burden by BCMA?. Blood",
-      "pubmed_id": "39883442",
-      "year": "2025",
-      "journal": "145(5):464-465",
-      "authors": ""
-    },
-    {
-      "title": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH. The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma. Cancer Res",
+      "title": "The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma",
       "pubmed_id": "39476082",
       "pmc_id": "PMC11733535",
       "year": "2025",
-      "journal": "85(2):378-398",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH",
+      "journal": "Cancer Res"
     },
     {
-      "title": "Badros AZ, Foster L, Anderson LD, Chaulagain CP, Pettijohn EM, Cowan AJ, Costello CL, Larson S, Sborov DW, Shain KH, Silbermann R, Shah N, Chung A, Krevvata M, Pei H, Patel S, Khare V, Cortoos A, Carson R, Lin T, Voorhees PM. Daratumumab with lenalidomide as maintenance after transplant in newly diagnosed multiple myeloma: the AURIGA study. Blood",
+      "title": "A plain language summary of the final analysis of the GRIFFIN study of daratumumab plus lenalidomide, bortezomib, and dexamethasone for people with newly diagnosed multiple myeloma",
+      "pubmed_id": "39452950",
+      "pmc_id": "PMC11789466",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Voorhees PM, Sborov DW, Laubach J, Kaufman JL, Reeves B, Rodriguez C, Silbermann R, Costa LJ, Anderson LD, Nathwani N, Shah N, Bumma N, Efebera YA, Holstein SA, Costello C, Jakubowiak A, Wildes TM, Orlowski RZ, Shain KH, Cowan AJ, Dinner S, Gries KS, Pei H, Cortoos A, Patel S, Lin TS, Usmani SZ, Richardson PG",
+      "journal": "Future Oncol"
+    },
+    {
+      "title": "Quantifying MM disease burden by BCMA?",
+      "pubmed_id": "39883442",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Shain KH",
+      "journal": "Blood"
+    },
+    {
+      "title": "Daratumumab with lenalidomide as maintenance after transplant in newly diagnosed multiple myeloma: the AURIGA study",
       "pubmed_id": "39331724",
       "pmc_id": "PMC11775507",
       "year": "2025",
-      "journal": "145(3):300-310",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Badros AZ, Foster L, Anderson LD, Chaulagain CP, Pettijohn EM, Cowan AJ, Costello CL, Larson S, Sborov DW, Shain KH, Silbermann R, Shah N, Chung A, Krevvata M, Pei H, Patel S, Khare V, Cortoos A, Carson R, Lin T, Voorhees PM",
+      "journal": "Blood"
     },
     {
-      "title": "Freeman CL, Abraham-Miranda J, Menges M, Atkins RM, Noble J, Liu H, Corallo S, Cuadrado Delgado LA, Ribickas AJ, Savid-Frontera C, de Avila G, Castaneda Puglianini OA, Ochoa-Bayona J, Hansen DK, Alsina M, Baz R, Nishihori T, Shain KH, Locke FL. Enhanced CAR-T cell function and mitochondrial fitness from earlier unfractionated stem cell product in multiple myeloma. Mol Ther",
+      "title": "Enhanced CAR-T cell function and mitochondrial fitness from earlier unfractionated stem cell product in multiple myeloma",
       "pubmed_id": "40253586",
       "pmc_id": "PMC12461620",
       "year": "2025",
-      "journal": "33(8):3576-3589",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Freeman CL, Abraham-Miranda J, Menges M, Atkins RM, Noble J, Liu H, Corallo S, Cuadrado Delgado LA, Ribickas AJ, Savid-Frontera C, de Avila G, Castaneda Puglianini OA, Ochoa-Bayona J, Hansen DK, Alsina M, Baz R, Nishihori T, Shain KH, Locke FL",
+      "journal": "Mol Ther"
     },
     {
-      "title": "Tauro M, Li T, Sudalagunta PR, Meads M, Canevarolo RR, Nerlakanti N, Alugubelli RR, Lawrence HR, Gunawan S, Ayaz M, Nareddy P, Yun SY, Shay G, Yang K, Tran TH, Bishop RT, Nasr MM, Lawrence NNJ, Sch\u00f6nbrunn E, Cleveland JL, Silva AS, Shain KH, Lynch CC. Unc-51 Like Kinase 3 (ULK3) is essential for autophagy and cell survival in multiple myeloma. Res Sq",
+      "title": "Unc-51 Like Kinase 3 (ULK3) is essential for autophagy and cell survival in multiple myeloma",
       "pubmed_id": "40831505",
       "pmc_id": "PMC12363935",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Tauro M, Li T, Sudalagunta PR, Meads M, Canevarolo RR, Nerlakanti N, Alugubelli RR, Lawrence HR, Gunawan S, Ayaz M, Nareddy P, Yun SY, Shay G, Yang K, Tran TH, Bishop RT, Nasr MM, Lawrence NNJ, Sch\u00f6nbrunn E, Cleveland JL, Silva AS, Shain KH, Lynch CC",
+      "journal": "Res Sq"
     }
   ],
   "grants": [
     {
-      "description": "Title: Developing ULK3 inhibitors for the treatment of Multiple Myeloma  \nAward Number: 24B06  \nSponsor: Florida Department of Health  \nLawrence, N. (PD/PI), Lynch, C. (Co-PD/PI), Shain, K. (Co-PD/PI)"
+      "description": "Title: Developing ULK3 inhibitors for the treatment of Multiple Myeloma  \nAward Number: 24B06  \nSponsor: Florida Department of Health  \nLawrence, N. (PD/PI), Lynch, C. (Co-PD/PI), Shain, K. (Co-PD/PI)",
+      "title": "Developing ULK3 inhibitors for the treatment of Multiple Myeloma",
+      "award_number": "24B06",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Lawrence, N.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Lynch, C.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Shain, K.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: The effects of Selinexor on the MM and the immune effector cells in the context of T cell engagement  \nAward Number:   \nSponsor: KARYOPHARM THERAPEUTICS  \nShain, K. (PD/PI), Silva, A. (Co-PD/PI)"
+      "description": "Title: The effects of Selinexor on the MM and the immune effector cells in the context of T cell engagement  \nAward Number:   \nSponsor: KARYOPHARM THERAPEUTICS  \nShain, K. (PD/PI), Silva, A. (Co-PD/PI)",
+      "title": "The effects of Selinexor on the MM and the immune effector cells in the context of T cell engagement",
+      "award_number": "",
+      "sponsor": "KARYOPHARM THERAPEUTICS",
+      "investigators": [
+        {
+          "name": "Shain, K.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Silva, A.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ShainKen_2060.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2060"
   },
-  "content_hash": "273d6d6749e2b654da4b294b3b1f9680323628f8d7aa471afadf61f4cee85b04",
+  "content_hash": "dd5d7c9cef971fdc2c697d5fd9533f1118443271384f12e0dbfc40e2a1dbda4c",
   "researcher_name": "Ken Shain",
   "department": "Tumor Microenvironment and Metastasis"
 }

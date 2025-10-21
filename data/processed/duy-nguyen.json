@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/duy-nguyen",
-  "last_updated": "2025-10-19T00:23:51.603117",
+  "last_updated": "2025-10-21T16:32:53.742197",
   "researcher_id": "35679",
   "degrees": [
     "PhD"
@@ -21,92 +21,120 @@
   "education": [],
   "publications": [
     {
-      "title": "Qdaisat S, Wummer B, Stover BD, Zhang D, McGuiness J, Weidert F, Chardon-Robles J, Grippin A, DeVries A, Zhao C, Marconi C, Karachi A, Xie C, Jobin G, Liu R, Michel S, Ma X, Moor RSF, von Roemeling C, Nguyen DT, Elliott L, Thomas N, Barpujari A, Geffrard H, Campaneria Y, Ogando-Rivas E, Rabideau C, Soni D, Huang J, Carrera-Justiz S, Fredenburg K, Silver NL, Sawyer WG, Rahman M, Ligon JA, Flores CT, Lee JH, Mitchell DA, Castillo P, Mendez-Gomez HR, Sayour EJ. Sensitization of tumours to immunotherapy by boosting early type-I interferon responses enables epitope spreading. Nat Biomed Eng",
+      "title": "Sensitization of tumours to immunotherapy by boosting early type-I interferon responses enables epitope spreading",
       "pubmed_id": "40681861",
       "year": "2025",
-      "journal": "9(9):1437-1452",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Qdaisat S, Wummer B, Stover BD, Zhang D, McGuiness J, Weidert F, Chardon-Robles J, Grippin A, DeVries A, Zhao C, Marconi C, Karachi A, Xie C, Jobin G, Liu R, Michel S, Ma X, Moor RSF, von Roemeling C, Nguyen DT, Elliott L, Thomas N, Barpujari A, Geffrard H, Campaneria Y, Ogando-Rivas E, Rabideau C, Soni D, Huang J, Carrera-Justiz S, Fredenburg K, Silver NL, Sawyer WG, Rahman M, Ligon JA, Flores CT, Lee JH, Mitchell DA, Castillo P, Mendez-Gomez HR, Sayour EJ",
+      "journal": "Nat Biomed Eng"
     },
     {
-      "title": "Tao H, Chen D, Yang C, Nguyen DT, Abboud G, Liu R, Liu T, Chakraborty A, Hou AY, Petit NA, Abbas M, Davis RW, Zhang J, Von Roemeling C, Gbadamosi MO, Jin L, Gu T, Lin T, Wang P, Pepe A, Pedro DI, Mendez-Gomez HR, Xie C, Karachi A, Weidert F, Jin D, Wang C, Long-James K, Molchan EK, Castillo P, Ligon JA, Ghiaseddin AP, Sayour EJ, Rahman M, Deleyrolle LP, Kim BY, Mitchell DA, Sawyer WG, Huang J. Targeting immune checkpoint LAIR1 with antibody blockade or 3-in-1 CAR T cells enhances antitumor response. J Clin Invest",
-      "pubmed_id": "40591413",
-      "pmc_id": "PMC12352909",
-      "year": "2025",
-      "journal": "135(16)",
-      "authors": ""
-    },
-    {
-      "title": "Nguyen DT, Schaller MA, Terracina KP, Xu X, Pedro DI, Pepe A, Urue\u00f1a JM, Dupee Z, Diodati N, Smolchek RA, Famiglietti JE, Nguyen NTY, Tushoski-Alem\u00e1n GW, Cheng K, Chen L, Linn D, Vidimar V, Fatima A, Kwon SW, Sun D, Chen H, Xu H, Long B, Moy LY, Howell BJ, Addona GH, Sawyer WG. Patient-derived colorectal microtumors predict response to anti-PD-1 therapy. Front Immunol",
+      "title": "Patient-derived colorectal microtumors predict response to anti-PD-1 therapy",
       "pubmed_id": "40873566",
       "pmc_id": "PMC12378724",
       "year": "2025",
-      "journal": "16:1640500",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Nguyen DT, Schaller MA, Terracina KP, Xu X, Pedro DI, Pepe A, Urue\u00f1a JM, Dupee Z, Diodati N, Smolchek RA, Famiglietti JE, Nguyen NTY, Tushoski-Alem\u00e1n GW, Cheng K, Chen L, Linn D, Vidimar V, Fatima A, Kwon SW, Sun D, Chen H, Xu H, Long B, Moy LY, Howell BJ, Addona GH, Sawyer WG",
+      "journal": "Front Immunol"
     },
     {
-      "title": "Diodati N, Dupee Z, Lima F, Famiglietti J, Smolchek R, Qu G, Goddard Y, Nguyen D, Sawyer G, Phelps E, Mehrad B, Schaller M. 3D Culture Analysis of Cancer Cell Adherence to Ex Vivo Lung Microexplants. Tissue Eng Part C Methods",
+      "title": "Targeting immune checkpoint LAIR1 with antibody blockade or 3-in-1 CAR T cells enhances antitumor response",
+      "pubmed_id": "40591413",
+      "pmc_id": "PMC12352909",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Tao H, Chen D, Yang C, Nguyen DT, Abboud G, Liu R, Liu T, Chakraborty A, Hou AY, Petit NA, Abbas M, Davis RW, Zhang J, Von Roemeling C, Gbadamosi MO, Jin L, Gu T, Lin T, Wang P, Pepe A, Pedro DI, Mendez-Gomez HR, Xie C, Karachi A, Weidert F, Jin D, Wang C, Long-James K, Molchan EK, Castillo P, Ligon JA, Ghiaseddin AP, Sayour EJ, Rahman M, Deleyrolle LP, Kim BY, Mitchell DA, Sawyer WG, Huang J",
+      "journal": "J Clin Invest"
+    },
+    {
+      "title": "3D Culture Analysis of Cancer Cell Adherence to Ex Vivo Lung Microexplants",
       "pubmed_id": "39078332",
       "year": "2024",
-      "journal": "30(8):343-352",
-      "authors": ""
+      "publication_date": "2024 Aug",
+      "authors": "Diodati N, Dupee Z, Lima F, Famiglietti J, Smolchek R, Qu G, Goddard Y, Nguyen D, Sawyer G, Phelps E, Mehrad B, Schaller M",
+      "journal": "Tissue Eng Part C Methods"
     },
     {
-      "title": "Nguyen DT, Pedro DI, Pepe A, Rosa JG, Bowman JI, Trachsel L, Golde GR, Suzuki I, Lavrador JM, Nguyen NTY, Kis MA, Smolchek RA, Diodati N, Liu R, Phillpot SR, Webber AR, Castillo P, Sayour EJ, Sumerlin BS, Sawyer WG. Bioconjugation of COL1 protein on liquid-like solid surfaces to study tumor invasion dynamics. Biointerphases",
+      "title": "Bioconjugation of COL1 protein on liquid-like solid surfaces to study tumor invasion dynamics",
       "pubmed_id": "36898958",
       "pmc_id": "PMC10008099",
       "year": "2023",
-      "journal": "18(2):021001",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Nguyen DT, Pedro DI, Pepe A, Rosa JG, Bowman JI, Trachsel L, Golde GR, Suzuki I, Lavrador JM, Nguyen NTY, Kis MA, Smolchek RA, Diodati N, Liu R, Phillpot SR, Webber AR, Castillo P, Sayour EJ, Sumerlin BS, Sawyer WG",
+      "journal": "Biointerphases"
     },
     {
-      "title": "Nguyen DT, Liu R, Ogando-Rivas E, Pepe A, Pedro D, Qdasait S, Nguyen NTY, Lavrador JM, Golde GR, Smolchek RA, Ligon J, Jin L, Tao H, Webber A, Phillpot S, Mitchell DA, Sayour EJ, Huang J, Castillo P, Sawyer WG. Three-Dimensional Bioconjugated Liquid-Like Solid (LLS) Enhance Characterization of Solid Tumor - Chimeric Antigen Receptor T cell interactions. bioRxiv",
+      "title": "Three-Dimensional Bioconjugated Liquid-Like Solid (LLS) Enhance Characterization of Solid Tumor - Chimeric Antigen Receptor T cell interactions",
       "pubmed_id": "36865164",
       "pmc_id": "PMC9980005",
       "year": "2023",
-      "authors": ""
+      "publication_date": "2023 Feb",
+      "authors": "Nguyen DT, Liu R, Ogando-Rivas E, Pepe A, Pedro D, Qdasait S, Nguyen NTY, Lavrador JM, Golde GR, Smolchek RA, Ligon J, Jin L, Tao H, Webber A, Phillpot S, Mitchell DA, Sayour EJ, Huang J, Castillo P, Sawyer WG",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Nguyen DT, Liu R, Ogando-Rivas E, Pepe A, Pedro D, Qdaisat S, Nguyen NTY, Lavrador JM, Golde GR, Smolchek RA, Ligon J, Jin L, Tao H, Webber A, Phillpot S, Mitchell DA, Sayour EJ, Huang J, Castillo P, Gregory Sawyer W. Bioconjugated liquid-like solid enhances characterization of solid tumor - chimeric antigen receptor T cell interactions. Acta Biomater",
+      "title": "Bioconjugated liquid-like solid enhances characterization of solid tumor - chimeric antigen receptor T cell interactions",
       "pubmed_id": "37788737",
       "year": "2023",
-      "journal": "172:466-479",
-      "authors": ""
+      "publication_date": "2023 Dec",
+      "authors": "Nguyen DT, Liu R, Ogando-Rivas E, Pepe A, Pedro D, Qdaisat S, Nguyen NTY, Lavrador JM, Golde GR, Smolchek RA, Ligon J, Jin L, Tao H, Webber A, Phillpot S, Mitchell DA, Sayour EJ, Huang J, Castillo P, Gregory Sawyer W",
+      "journal": "Acta Biomater"
     },
     {
-      "title": "Nguyen DT, Famiglietti JE, Smolchek RA, Dupee Z, Diodati N, Pedro DI, Urue\u00f1a JM, Schaller MA, Sawyer WG. 3D In Vitro Platform for Cell and Explant Culture in Liquid-like Solids. Cells",
+      "title": "3D In Vitro Platform for Cell and Explant Culture in Liquid-like Solids",
       "pubmed_id": "35326418",
       "pmc_id": "PMC8946834",
       "year": "2022",
-      "journal": "11(6)",
-      "authors": ""
+      "publication_date": "2022 Mar",
+      "authors": "Nguyen DT, Famiglietti JE, Smolchek RA, Dupee Z, Diodati N, Pedro DI, Urue\u00f1a JM, Schaller MA, Sawyer WG",
+      "journal": "Cells"
     },
     {
-      "title": "Nguyen DT, Ogando-Rivas E, Liu R, Wang T, Rubin J, Jin L, Tao H, Sawyer WW, Mendez-Gomez HR, Cascio M, Mitchell DA, Huang J, Sawyer WG, Sayour EJ, Castillo P. CAR T Cell Locomotion in Solid Tumor Microenvironment. Cells",
+      "title": "CAR T Cell Locomotion in Solid Tumor Microenvironment",
       "pubmed_id": "35741103",
       "pmc_id": "PMC9221866",
       "year": "2022",
-      "journal": "11(12)",
-      "authors": ""
+      "publication_date": "2022 Jun",
+      "authors": "Nguyen DT, Ogando-Rivas E, Liu R, Wang T, Rubin J, Jin L, Tao H, Sawyer WW, Mendez-Gomez HR, Cascio M, Mitchell DA, Huang J, Sawyer WG, Sayour EJ, Castillo P",
+      "journal": "Cells"
     },
     {
-      "title": "Schaller MA, Sharma Y, Dupee Z, Nguyen D, Urue\u00f1a J, Smolchek R, Loeb JC, Machuca TN, Lednicky JA, Odde DJ, Campbell RF, Sawyer WG, Mehrad B. Ex vivo SARS-CoV-2 infection of human lung reveals heterogeneous host defense and therapeutic responses. JCI Insight",
+      "title": "Ex vivo SARS-CoV-2 infection of human lung reveals heterogeneous host defense and therapeutic responses",
       "pubmed_id": "34357881",
       "pmc_id": "PMC8492301",
       "year": "2021",
-      "journal": "6(18)",
-      "authors": ""
+      "publication_date": "2021 Sep",
+      "authors": "Schaller MA, Sharma Y, Dupee Z, Nguyen D, Urue\u00f1a J, Smolchek R, Loeb JC, Machuca TN, Lednicky JA, Odde DJ, Campbell RF, Sawyer WG, Mehrad B",
+      "journal": "JCI Insight"
     }
   ],
   "grants": [
     {
-      "description": "Title: Lab Studies Using in Vitro 3D Model  \nAward Number: 23VA012  \nSponsor: MERCK & CO., INC.  \nSawyer, W. (PD/PI), George, E. (Co-PD/PI), Nguyen, D. (Co-PD/PI)"
+      "description": "Title: Lab Studies Using in Vitro 3D Model  \nAward Number: 23VA012  \nSponsor: MERCK & CO., INC.  \nSawyer, W. (PD/PI), George, E. (Co-PD/PI), Nguyen, D. (Co-PD/PI)",
+      "title": "Lab Studies Using in Vitro 3D Model",
+      "award_number": "23VA012",
+      "sponsor": "MERCK & CO., INC.",
+      "investigators": [
+        {
+          "name": "Sawyer, W.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "George, E.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Nguyen, D.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/NguyenDuy_35679.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35679"
   },
-  "content_hash": "29a4e34c64d16d135b078790e6db4a329a9af3724a11aaa134324c49fcaf048d",
+  "content_hash": "98997eab46cd310283f45d8d26f36ec2dec423945f8501bd3fcc412a223fef86",
   "researcher_name": "Duy Nguyen",
   "department": "Tumor Microenvironment and Metastasis"
 }

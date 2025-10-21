@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/david-morse",
-  "last_updated": "2025-10-19T00:27:46.827303",
+  "last_updated": "2025-10-21T16:36:51.023866",
   "researcher_id": "4682",
   "degrees": [
     "PhD"
@@ -28,120 +28,196 @@
   ],
   "publications": [
     {
-      "title": "Roy J, Putt KS, Coppola D, Leon ME, Khalil FK, Centeno BA, Clark N, Stark VE, Morse DL, Low PS. Addendum: Assessment of cholecystokinin 2 receptor (CCK2R) in neoplastic tissue. Oncotarget",
+      "title": "Addendum: Assessment of cholecystokinin 2 receptor (CCK2R) in neoplastic tissue",
       "pubmed_id": "40042992",
       "pmc_id": "PMC11884436",
       "year": "2025",
-      "journal": "16:132",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Roy J, Putt KS, Coppola D, Leon ME, Khalil FK, Centeno BA, Clark N, Stark VE, Morse DL, Low PS",
+      "journal": "Oncotarget"
     },
     {
-      "title": "Huynh AS, Cohen AS, Doligalski M, Casagni TJ, Moberg VE, Huang X, Morse J, Abrahams D, Lloyd MC, Centeno BA, Baldwin MK, McLaughlin ML, Vagner J, Morse DL. Intraoperative Guidance of Pancreatic Cancer Resection Using a Toll-like Receptor 2-Targeted Fluorescence Molecular Imaging Agent. Cancer Res Commun",
+      "title": "Intraoperative Guidance of Pancreatic Cancer Resection Using a Toll-like Receptor 2-Targeted Fluorescence Molecular Imaging Agent",
       "pubmed_id": "39320054",
       "pmc_id": "PMC11536076",
       "year": "2024",
-      "journal": "4(11):2877-2887",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Huynh AS, Cohen AS, Doligalski M, Casagni TJ, Moberg VE, Huang X, Morse J, Abrahams D, Lloyd MC, Centeno BA, Baldwin MK, McLaughlin ML, Vagner J, Morse DL",
+      "journal": "Cancer Res Commun"
     },
     {
-      "title": "Abou DS, Zerkel P, Robben J, McLaughlin M, Hazlehurst T, Morse D, Wadas TJ, Pandya DN, Oyama R, Gaehle G, Nickels ML, Thorek DLJ. Radiopharmaceutical Quality Control Considerations for Accelerator-Produced Actinium Therapies. Cancer Biother Radiopharm",
+      "title": "Radiopharmaceutical Quality Control Considerations for Accelerator-Produced Actinium Therapies",
       "pubmed_id": "35695807",
       "pmc_id": "PMC9242709",
       "year": "2022",
-      "journal": "37(5):355-363",
-      "authors": ""
+      "publication_date": "2022 Jun",
+      "authors": "Abou DS, Zerkel P, Robben J, McLaughlin M, Hazlehurst T, Morse D, Wadas TJ, Pandya DN, Oyama R, Gaehle G, Nickels ML, Thorek DLJ",
+      "journal": "Cancer Biother Radiopharm"
     },
     {
-      "title": "Tafreshi NK, Pandya DN, Tichacek CJ, Budzevich MM, Wang Z, Reff JN, Engelman RW, Boulware DC, Chiappori AA, Strosberg JR, Ji H, Wadas TJ, El-Haddad G, Morse DL. Preclinical evaluation of [225Ac]Ac-DOTA-TATE for treatment of lung neuroendocrine neoplasms. Eur J Nucl Med Mol Imaging",
+      "title": "Preclinical evaluation of [225Ac]Ac-DOTA-TATE for treatment of lung neuroendocrine neoplasms",
       "pubmed_id": "33772332",
       "year": "2021",
-      "journal": "48(11):3408-3421",
-      "authors": ""
+      "publication_date": "2021 Oct",
+      "authors": "Tafreshi NK, Pandya DN, Tichacek CJ, Budzevich MM, Wang Z, Reff JN, Engelman RW, Boulware DC, Chiappori AA, Strosberg JR, Ji H, Wadas TJ, El-Haddad G, Morse DL",
+      "journal": "Eur J Nucl Med Mol Imaging"
     },
     {
-      "title": "Divgi C, Carrasquillo JA, Meredith R, Seo Y, Frey EC, Bolch WE, Zimmerman BE, Akabani G, Jacobson DA, Brown B, Davern SM, Hobbs RF, Humm J, Moros EG, Morse D, Papineni R, Zanzonico P, Benedict SH, Sgouros G. Overcoming Barriers to Radiopharmaceutical Therapy (RPT): An Overview From the NRG-NCI Working Group on Dosimetry of Radiopharmaceutical Therapy. Int J Radiat Oncol Biol Phys",
+      "title": "Overcoming Barriers to Radiopharmaceutical Therapy (RPT): An Overview From the NRG-NCI Working Group on Dosimetry of Radiopharmaceutical Therapy",
       "pubmed_id": "33309909",
       "pmc_id": "PMC8399328",
       "year": "2021",
-      "journal": "109(4):905-912",
-      "authors": ""
+      "publication_date": "2021 Mar",
+      "authors": "Divgi C, Carrasquillo JA, Meredith R, Seo Y, Frey EC, Bolch WE, Zimmerman BE, Akabani G, Jacobson DA, Brown B, Davern SM, Hobbs RF, Humm J, Moros EG, Morse D, Papineni R, Zanzonico P, Benedict SH, Sgouros G",
+      "journal": "Int J Radiat Oncol Biol Phys"
     },
     {
-      "title": "Roncali E, Capala J, Benedict SH, Akabani G, Bednarz B, Bhadrasain V, Bolch WE, Buchsbaum J, Clarke BN, Coleman N, Dewaraja YK, Frey EC, Ghaly M, Grudzinski J, Hobbs RF, Howell RW, Humm JL, Kunos C, Larson SM, Lin FI, Madsen MT, Mirzadeh S, Morse DL, Pryma DA, Sgouros G, St James S, Wahl RL, Xiao Y, Zanzonico PB, Zukotynski KB. Overview of the First NRG Oncology-National Cancer Institute Workshop on Dosimetry of Systemic Radiopharmaceutical Therapy. J Nucl Med",
+      "title": "Overview of the First NRG Oncology-National Cancer Institute Workshop on Dosimetry of Systemic Radiopharmaceutical Therapy",
       "pubmed_id": "33277396",
       "pmc_id": "PMC8833877",
       "year": "2021",
-      "journal": "62(8):1133-1139",
-      "authors": ""
+      "publication_date": "2021 Aug",
+      "authors": "Roncali E, Capala J, Benedict SH, Akabani G, Bednarz B, Bhadrasain V, Bolch WE, Buchsbaum J, Clarke BN, Coleman N, Dewaraja YK, Frey EC, Ghaly M, Grudzinski J, Hobbs RF, Howell RW, Humm JL, Kunos C, Larson SM, Lin FI, Madsen MT, Mirzadeh S, Morse DL, Pryma DA, Sgouros G, St James S, Wahl RL, Xiao Y, Zanzonico PB, Zukotynski KB",
+      "journal": "J Nucl Med"
     },
     {
-      "title": "Tafreshi NK, Kil H, Pandya DN, Tichacek CJ, Doligalski ML, Budzevich MM, Delva NC, Langsen ML, Vallas JA, Boulware DC, Engelman RW, Gage KL, Moros EG, Wadas TJ, McLaughlin ML, Morse DL. Lipophilicity Determines Routes of Uptake and Clearance, and Toxicity of an Alpha-Particle-Emitting Peptide Receptor Radiotherapy. ACS Pharmacol Transl Sci",
+      "title": "Lipophilicity Determines Routes of Uptake and Clearance, and Toxicity of an Alpha-Particle-Emitting Peptide Receptor Radiotherapy",
       "pubmed_id": "33860213",
       "pmc_id": "PMC8033749",
       "year": "2021",
-      "journal": "4(2):953-965",
-      "authors": ""
+      "publication_date": "2021 Apr",
+      "authors": "Tafreshi NK, Kil H, Pandya DN, Tichacek CJ, Doligalski ML, Budzevich MM, Delva NC, Langsen ML, Vallas JA, Boulware DC, Engelman RW, Gage KL, Moros EG, Wadas TJ, McLaughlin ML, Morse DL",
+      "journal": "ACS Pharmacol Transl Sci"
     },
     {
-      "title": "Tichacek CJ, Tafreshi NK, Kil H, Engelman RW, Doligalski ML, Budzevich MM, Gage KL, McLaughlin ML, Wadas TJ, Silva A, Moros E, Morse DL. Biodistribution and Multicompartment Pharmacokinetic Analysis of a Targeted \u03b1 Particle Therapy. Mol Pharm",
+      "title": "Biodistribution and Multicompartment Pharmacokinetic Analysis of a Targeted \u03b1 Particle Therapy",
       "pubmed_id": "32960613",
       "year": "2020",
-      "journal": "17(11):4180-4188",
-      "authors": ""
+      "publication_date": "2020 Nov",
+      "authors": "Tichacek CJ, Tafreshi NK, Kil H, Engelman RW, Doligalski ML, Budzevich MM, Gage KL, McLaughlin ML, Wadas TJ, Silva A, Moros E, Morse DL",
+      "journal": "Mol Pharm"
     },
     {
-      "title": "Tafreshi NK, Morse DL, Lee MC. Narrowing the focus: Therapeutic cell surface targets for refractory triple-negative breast cancer. World J Clin Oncol",
+      "title": "Narrowing the focus: Therapeutic cell surface targets for refractory triple-negative breast cancer",
       "pubmed_id": "32355639",
       "pmc_id": "PMC7186233",
       "year": "2020",
-      "journal": "11(4):169-179",
-      "authors": ""
+      "publication_date": "2020 Apr",
+      "authors": "Tafreshi NK, Morse DL, Lee MC",
+      "journal": "World J Clin Oncol"
     },
     {
-      "title": "Tichacek CJ, Budzevich MM, Wadas TJ, Morse DL, Moros EG. A Monte Carlo Method for Determining the Response Relationship between Two Commonly Used Detectors to Indirectly Measure Alpha Particle Radiation Activity. Molecules",
+      "title": "A Monte Carlo Method for Determining the Response Relationship between Two Commonly Used Detectors to Indirectly Measure Alpha Particle Radiation Activity",
       "pubmed_id": "31546752",
       "pmc_id": "PMC6767018",
       "year": "2019",
-      "journal": "24(18)",
-      "authors": ""
+      "publication_date": "2019 Sep",
+      "authors": "Tichacek CJ, Budzevich MM, Wadas TJ, Morse DL, Moros EG",
+      "journal": "Molecules"
     }
   ],
   "grants": [
     {
       "description": "Title: Preliminary development of a MUC16-targeted alpha-particle therapy for colon cancer peritoneal metastasis  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nDineen, S. (PD/PI), Morse, D. (PD/PI)",
-      "source": "Foundation"
+      "title": "Preliminary development of a MUC16-targeted alpha-particle therapy for colon cancer peritoneal metastasis",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Dineen, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Morse, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Orexin receptor agonist discovery for development of colon cancer targeted alpha particle therapy  \nAward Number: 09-33661-24-04  \nSponsor: Foundation Support-Rsch  \nMorse, D. (PD/PI)",
+      "title": "Orexin receptor agonist discovery for development of colon cancer targeted alpha particle therapy",
+      "award_number": "09-33661-24-04",
+      "sponsor": "Foundation Support-Rsch",
       "source": "Foundation",
-      "period": "3661-24"
+      "investigators": [
+        {
+          "name": "Morse, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Tenascin-C targeted alpha-particle therapy for metastatic breast cancer  \nAward Number: 2025 Scientific Grant  \nSponsor: Florida Breast Cancer Foundation  \nMorse, D. (PD/PI)",
-      "source": "Foundation"
+      "title": "Tenascin-C targeted alpha-particle therapy for metastatic breast cancer",
+      "award_number": "2025 Scientific Grant",
+      "sponsor": "Florida Breast Cancer Foundation",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Morse, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Institutional funds to support DoD MRP award \"Translational Studies for Targeted Alpha-Particle Therapy for Rare Melanomas\"  \nAward Number: 09336612501  \nSponsor: Foundation Support-Rsch  \nMorse, D. (PD/PI)",
-      "source": "Foundation"
+      "title": "Institutional funds to support DoD MRP award \"Translational Studies for Targeted Alpha-Particle Therapy for Rare Melanomas\"",
+      "award_number": "09336612501",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Morse, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Engineering Bispecific Nanobodies for Detection of Breast Cancer Nodal Metastasis  \nAward Number: W81XWH-22-1-0080, Log#BC210261  \nSponsor: Department of Defense (DOD)  \nMorse, D. (PD/PI)",
-      "source": "DOD"
+      "title": "Engineering Bispecific Nanobodies for Detection of Breast Cancer Nodal Metastasis",
+      "award_number": "W81XWH-22-1-0080, Log#BC210261",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Morse, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Translational studies for targeted alpha-particle therapy for rare melanomas  \nAward Number: HT94252310909 Log #ME220239  \nSponsor: Department of Defense (DOD)  \nMorse, D. (PD/PI)",
-      "source": "DOD"
+      "title": "Translational studies for targeted alpha-particle therapy for rare melanomas",
+      "award_number": "HT94252310909 Log #ME220239",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Morse, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: PET Probes for Senescence Detection in Brain  \nAward Number: R41AG081007  \nSponsor: National Cancer Institute (NCI)  \nMorse, D. (PD/PI)",
-      "source": "NCI"
+      "title": "PET Probes for Senescence Detection in Brain",
+      "award_number": "R41AG081007",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Morse, D.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MorseDavid_4682.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4682"
   },
-  "content_hash": "9359c3667260a741ad6802dbeeb9a8c8b42776240ae2780bd461963c88181454",
+  "content_hash": "b48c65bb36c4b1c4e0556d3772a729061e302079d9d6ec2d8385979a7c2080af",
   "researcher_name": "David Morse",
   "department": "Metabolism and Physiology"
 }

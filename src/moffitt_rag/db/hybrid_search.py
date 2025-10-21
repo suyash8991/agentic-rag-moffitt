@@ -6,7 +6,6 @@ vector similarity with keyword-based retrieval.
 """
 
 import re
-import logging
 from typing import List, Dict, Any, Optional, Tuple, Union
 import numpy as np
 
@@ -14,10 +13,10 @@ from langchain_core.documents import Document
 from langchain_core.retrievers import BaseRetriever
 
 from .vector_store import get_or_create_vector_db, similarity_search_with_score
+from ..utils.logging import get_logger, log_vector_db_event
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Get logger for this module
+logger = get_logger(__name__)
 
 
 def keyword_search(query: str, texts: List[str], metadata: List[Dict[str, Any]],
@@ -167,6 +166,17 @@ def hybrid_search(query: str, k: int = 4, alpha: float = 0.5,
     Returns:
         List[Document]: The search results
     """
+    logger.info(f"Starting hybrid search: query='{query[:50]}...', k={k}, alpha={alpha}")
+    
+    # Log structured event for hybrid search start
+    log_vector_db_event("hybrid_search_start", {
+        "query": query[:100],
+        "k": k,
+        "alpha": alpha,
+        "has_filter": filter is not None,
+        "min_score_threshold": min_score_threshold
+    })
+    
     # Get the vector database
     db = get_or_create_vector_db()
 
@@ -425,7 +435,20 @@ def hybrid_search(query: str, k: int = 4, alpha: float = 0.5,
             return hybrid_search(query, k=k, alpha=0.1, filter=filter, min_score_threshold=min_score_threshold)
 
     # Return the top k documents
-    return [item['doc'] for item in top_results[:k]]
+    final_results = [item['doc'] for item in top_results[:k]]
+    
+    # Log successful completion
+    logger.info(f"Hybrid search completed: found {len(final_results)} results")
+    log_vector_db_event("hybrid_search_complete", {
+        "query": query[:100],
+        "k": k,
+        "alpha": alpha,
+        "result_count": len(final_results),
+        "top_score": top_results[0]['combined_score'] if top_results else 0,
+        "search_type": "name_search" if is_name_search else "topic_search"
+    })
+    
+    return final_results
 
 
 class HybridRetriever(BaseRetriever):

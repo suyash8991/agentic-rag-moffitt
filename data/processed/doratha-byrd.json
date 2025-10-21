@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/doratha-byrd",
-  "last_updated": "2025-10-19T00:26:26.946336",
+  "last_updated": "2025-10-21T16:35:35.117253",
   "researcher_id": "28607",
   "degrees": [
     "PhD"
@@ -29,109 +29,167 @@
   ],
   "publications": [
     {
-      "title": "Glenny EM, Lin T, Bandera VM, Mirminachi B, Khumukcham SS, Gigic B, Warby CA, Aksonova O, Coleman MF, Carpanese A, Busch C, Himbert C, Ose J, Nix DA, Boucher K, Schirmacher P, Strehli I, Hardikar S, Cohan JN, Jedrzkiewicz J, Brobeil A, Schneider MA, Kahlert C, Siegel EM, Byrd DA, Toriola AT, Shibata D, Li CI, Figueiredo JC, Tan AC, Roper J, Ulrich CM, Hursting SD. Obesity promotes conserved inflammatory and metabolic transcriptional programs in colon tumors: evidence from mouse models and the ColoCare Study Patient Cohort. Am J Clin Nutr",
+      "title": "Obesity promotes conserved inflammatory and metabolic transcriptional programs in colon tumors: evidence from mouse models and the ColoCare Study Patient Cohort",
       "pubmed_id": "40998019",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Glenny EM, Lin T, Bandera VM, Mirminachi B, Khumukcham SS, Gigic B, Warby CA, Aksonova O, Coleman MF, Carpanese A, Busch C, Himbert C, Ose J, Nix DA, Boucher K, Schirmacher P, Strehli I, Hardikar S, Cohan JN, Jedrzkiewicz J, Brobeil A, Schneider MA, Kahlert C, Siegel EM, Byrd DA, Toriola AT, Shibata D, Li CI, Figueiredo JC, Tan AC, Roper J, Ulrich CM, Hursting SD",
+      "journal": "Am J Clin Nutr"
     },
     {
-      "title": "Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK. Comparison of volumetric and single-slice computed tomography body composition metrics for colorectal cancer survival. Eur J Radiol",
+      "title": "Comparison of volumetric and single-slice computed tomography body composition metrics for colorectal cancer survival",
       "pubmed_id": "40532592",
       "year": "2025",
-      "journal": "190:112241",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK",
+      "journal": "Eur J Radiol"
     },
     {
-      "title": "Ilozumba MN, Gomez MF, Lin T, Himbert C, Round JL, Zac Stephens W, Warby CA, Hardikar S, Li CI, Figueiredo JC, Damerell V, Fillmore GC, Pickron B, Toriola AT, Shibata D, Holowatyj AN, Kahlert C, Sankar K, Siegel EM, Jedrzkiewicz J, Gigic B, Byrd DA, Ose J, Ulrich CM. Pre-surgery gut microbial diversity and abundance are associated with post-surgery onset of cachexia in colorectal cancer patients: the ColoCare Study. Cancer Causes Control",
+      "title": "Pre-surgery gut microbial diversity and abundance are associated with post-surgery onset of cachexia in colorectal cancer patients: the ColoCare Study",
       "pubmed_id": "40906320",
       "pmc_id": "PMC12478455",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Ilozumba MN, Gomez MF, Lin T, Himbert C, Round JL, Zac Stephens W, Warby CA, Hardikar S, Li CI, Figueiredo JC, Damerell V, Fillmore GC, Pickron B, Toriola AT, Shibata D, Holowatyj AN, Kahlert C, Sankar K, Siegel EM, Jedrzkiewicz J, Gigic B, Byrd DA, Ose J, Ulrich CM",
+      "journal": "Cancer Causes Control"
     },
     {
-      "title": "Weis AM, Bauer KM, Tang WW, Stephen-Victor E, Bell R, Brown DG, Ekiz HA, Tran V, Klag KA, Swanson EA, Barrios L, Harwood M, Hill JH, Ost KS, Gigic B, Schneider M, Ose J, Hardikar S, Toriola AT, Shibata D, Li CI, Figueiredo JC, Byrd DA, Siegel EM, Arnolds K, Lozupone C, Ulrich CM, O'Connell RM, Stephens WZ, Round JL. A capsular polysaccharide from a healthy human microbiota member activates a Lag-3-NK cell axis to restrain colon cancer and augment immunotherapy. Cell Rep",
+      "title": "A capsular polysaccharide from a healthy human microbiota member activates a Lag-3-NK cell axis to restrain colon cancer and augment immunotherapy",
       "pubmed_id": "40849910",
       "year": "2025",
-      "journal": "44(9):116172",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Weis AM, Bauer KM, Tang WW, Stephen-Victor E, Bell R, Brown DG, Ekiz HA, Tran V, Klag KA, Swanson EA, Barrios L, Harwood M, Hill JH, Ost KS, Gigic B, Schneider M, Ose J, Hardikar S, Toriola AT, Shibata D, Li CI, Figueiredo JC, Byrd DA, Siegel EM, Arnolds K, Lozupone C, Ulrich CM, O'Connell RM, Stephens WZ, Round JL",
+      "journal": "Cell Rep"
     },
     {
-      "title": "Byrd DA, Gomez M, Hogue S, Wan Y, Ortega-Villa A, Warner A, Dagnall C, Jones K, Hicks B, Albert P, Murphy G, Sinha R, Vogtmann E. Response to Hanif and Sholihah. J Natl Cancer Inst",
+      "title": "Response to Hanif and Sholihah",
       "pubmed_id": "40828889",
       "pmc_id": "PMC12505123",
       "year": "2025",
-      "journal": "117(10):2144-2145",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Byrd DA, Gomez M, Hogue S, Wan Y, Ortega-Villa A, Warner A, Dagnall C, Jones K, Hicks B, Albert P, Murphy G, Sinha R, Vogtmann E",
+      "journal": "J Natl Cancer Inst"
     },
     {
-      "title": "Levy JA, Kazemian E, Ramin C, Loro\u00f1a NC, Nadri M, Gasho JO, Silos KD, Nikolova AP, Dey D, Siegel EM, Gigic B, Hardikar S, Byrd DA, Toriola AT, Ose J, Li CI, Shibata D, Ulrich CM, Tamarappoo BK, Atkins KM, Figueiredo JC. Subclinical Atherosclerosis and Cardiovascular Events Among Patients With Colorectal Cancer. Cancer Med",
+      "title": "Subclinical Atherosclerosis and Cardiovascular Events Among Patients With Colorectal Cancer",
       "pubmed_id": "40365909",
       "pmc_id": "PMC12076194",
       "year": "2025",
-      "journal": "14(10):e70938",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Levy JA, Kazemian E, Ramin C, Loro\u00f1a NC, Nadri M, Gasho JO, Silos KD, Nikolova AP, Dey D, Siegel EM, Gigic B, Hardikar S, Byrd DA, Toriola AT, Ose J, Li CI, Shibata D, Ulrich CM, Tamarappoo BK, Atkins KM, Figueiredo JC",
+      "journal": "Cancer Med"
     },
     {
-      "title": "Kresovich JK, Reid BM, O'Brien KM, Xu Z, Byrd DA, Weinberg CR, Sandler DP, Taylor JA. DNA methylation-predicted plasma protein levels and breast cancer risk. Breast Cancer Res",
+      "title": "DNA methylation-predicted plasma protein levels and breast cancer risk",
       "pubmed_id": "40140843",
       "pmc_id": "PMC11948855",
       "year": "2025",
-      "journal": "27(1):46",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Kresovich JK, Reid BM, O'Brien KM, Xu Z, Byrd DA, Weinberg CR, Sandler DP, Taylor JA",
+      "journal": "Breast Cancer Res"
     },
     {
-      "title": "Wolf PG, Welsh C, Binion B, Dai H, Oliveira ML, Hamm A, Goldberg S, Buobu PS, Schering T, Vergis S, Kessee N, Gomez SL, Yazici C, Maienschein-Cline M, Byrd DA, Gaskins HR, Ridlon JM, Mutlu E, Greening C, Tussing-Humphreys L. Secondary Bile Acid Derivatives Are Contributors to the Fecal Bile Acid Pool and Associated With Bile Acid-Modulating Nutrients. J Nutr",
+      "title": "Secondary Bile Acid Derivatives Are Contributors to the Fecal Bile Acid Pool and Associated With Bile Acid-Modulating Nutrients",
       "pubmed_id": "39805403",
       "pmc_id": "PMC11934243",
       "year": "2025",
-      "journal": "155(3):826-838",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Wolf PG, Welsh C, Binion B, Dai H, Oliveira ML, Hamm A, Goldberg S, Buobu PS, Schering T, Vergis S, Kessee N, Gomez SL, Yazici C, Maienschein-Cline M, Byrd DA, Gaskins HR, Ridlon JM, Mutlu E, Greening C, Tussing-Humphreys L",
+      "journal": "J Nutr"
     },
     {
-      "title": "Byrd DA, Gomez M, Hogue S, Wan Y, Ortega-Villa A, Warner A, Dagnall C, Jones K, Hicks B, Albert P, Murphy G, Sinha R, Vogtmann E. Effects of a high-fiber, high-fruit and high-vegetable, low-fat dietary intervention on the rectal tissue microbiome. J Natl Cancer Inst",
+      "title": "Effects of a high-fiber, high-fruit and high-vegetable, low-fat dietary intervention on the rectal tissue microbiome",
       "pubmed_id": "39980340",
       "pmc_id": "PMC12145913",
       "year": "2025",
-      "journal": "117(6):1237-1244",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Byrd DA, Gomez M, Hogue S, Wan Y, Ortega-Villa A, Warner A, Dagnall C, Jones K, Hicks B, Albert P, Murphy G, Sinha R, Vogtmann E",
+      "journal": "J Natl Cancer Inst"
     },
     {
-      "title": "Byrd DA, Damerell V, Gomez Morales MF, Hogue SR, Lin T, Ose J, Himbert C, Ilozumba MN, Kahlert C, Shibata D, Toriola AT, Li CI, Figueiredo J, Stephens WZ, Warby CA, Hardikar S, Siegel EM, Round J, Ulrich CM, Gigic B. The gut microbiome is associated with disease-free survival in stage I-III colorectal cancer patients. Int J Cancer",
+      "title": "The gut microbiome is associated with disease-free survival in stage I-III colorectal cancer patients",
       "pubmed_id": "39887373",
       "pmc_id": "PMC12262587",
       "year": "2025",
-      "journal": "157(1):64-73",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Byrd DA, Damerell V, Gomez Morales MF, Hogue SR, Lin T, Ose J, Himbert C, Ilozumba MN, Kahlert C, Shibata D, Toriola AT, Li CI, Figueiredo J, Stephens WZ, Warby CA, Hardikar S, Siegel EM, Round J, Ulrich CM, Gigic B",
+      "journal": "Int J Cancer"
     }
   ],
   "grants": [
     {
       "description": "Title: Geriatric Assessment Domains in Relation to Treatment Outcomes Among Older Adults with Colorectal Cancer  \nAward Number: 5R01AG083580-02  \nSponsor: National Cancer Institute (NCI)  \nByrd, D. (PD/PI)",
+      "title": "Geriatric Assessment Domains in Relation to Treatment Outcomes Among Older Adults with Colorectal Cancer",
+      "award_number": "5R01AG083580-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "3580-02"
+      "investigators": [
+        {
+          "name": "Byrd, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Investigating the Associations of SDOH and Cardiometabolic Characteristics with Disparities in Treatment Outcomes and Survivorship Among Colorectal Cancer Patients  \nAward Number:   \nSponsor: Support Accounts-Oper  \nByrd, D. (PD/PI), Islam, J. (Co-PD/PI)"
+      "description": "Title: Investigating the Associations of SDOH and Cardiometabolic Characteristics with Disparities in Treatment Outcomes and Survivorship Among Colorectal Cancer Patients  \nAward Number:   \nSponsor: Support Accounts-Oper  \nByrd, D. (PD/PI), Islam, J. (Co-PD/PI)",
+      "title": "Investigating the Associations of SDOH and Cardiometabolic Characteristics with Disparities in Treatment Outcomes and Survivorship Among Colorectal Cancer Patients",
+      "award_number": "",
+      "sponsor": "Support Accounts-Oper",
+      "investigators": [
+        {
+          "name": "Byrd, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Islam, J.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Body Composition and Adiposity-Associated Thromboinflammation in Colorectal Cancer Prognosis  \nAward Number: 5R01CA276496-02  \nSponsor: National Cancer Institute (NCI)  \nByrd, D. (PD/PI)",
+      "title": "Body Composition and Adiposity-Associated Thromboinflammation in Colorectal Cancer Prognosis",
+      "award_number": "5R01CA276496-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "6496-02"
+      "investigators": [
+        {
+          "name": "Byrd, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Transdisciplinary Team Science in Colorectal Cancer Prognosis: The ColoCare Study  \nAward Number: 5U01CA206110-09  \nSponsor: National Cancer Institute (NCI)  \nByrd, D. (PD/PI)",
+      "title": "Transdisciplinary Team Science in Colorectal Cancer Prognosis: The ColoCare Study",
+      "award_number": "5U01CA206110-09",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "6110-09"
+      "investigators": [
+        {
+          "name": "Byrd, D.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Epigenomic Signatures in Cancer with an Emphasis on HPV-associated Cancer  \nAward Number: Amendment 3  \nSponsor: University of Tennessee  \nByrd, D. (PD/PI)"
+      "description": "Title: Epigenomic Signatures in Cancer with an Emphasis on HPV-associated Cancer  \nAward Number: Amendment 3  \nSponsor: University of Tennessee  \nByrd, D. (PD/PI)",
+      "title": "Epigenomic Signatures in Cancer with an Emphasis on HPV-associated Cancer",
+      "award_number": "Amendment 3",
+      "sponsor": "University of Tennessee",
+      "investigators": [
+        {
+          "name": "Byrd, D.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ByrdDoratha_28607.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28607"
   },
-  "content_hash": "436fe9210cea4f074c9aef69bffa66e790ada14e5cbe6778f2aff9a4be1091b4",
+  "content_hash": "2587701c65aa9791b3825ed38ee66fcbf67cd9ed200128b61e132e15103a77ae",
   "researcher_name": "Doratha Byrd",
   "department": "Cancer Epidemiology"
 }

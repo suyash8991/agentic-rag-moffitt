@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/vivien-yin",
-  "last_updated": "2025-10-19T00:27:43.342848",
+  "last_updated": "2025-10-21T16:36:47.741583",
   "researcher_id": "35662",
   "degrees": [
     "PhD"
@@ -20,105 +20,149 @@
   "education": [],
   "publications": [
     {
-      "title": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST. Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study. Contemp Clin Trials",
+      "title": "Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study",
       "pubmed_id": "40992541",
       "year": "2025",
-      "journal": "158:108096",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST",
+      "journal": "Contemp Clin Trials"
     },
     {
-      "title": "Selukar S, Yin V, Othus M. Synthetic control arms and other uses of external data in clinical trials for hematological malignancies. Blood Rev",
+      "title": "Synthetic control arms and other uses of external data in clinical trials for hematological malignancies",
       "pubmed_id": "40753019",
       "year": "2025",
-      "journal": "101324",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Selukar S, Yin V, Othus M",
+      "journal": "Blood Rev"
     },
     {
-      "title": "Zhao Y, Amorrortu RP, Hicks JK, Garcia MA, Haura EB, Yin J, Vadaparampil ST, Rollison DE. An examination of factors associated with disparities in clinical trial eligibility guided by the Socioecological Model. Cancer",
+      "title": "An examination of factors associated with disparities in clinical trial eligibility guided by the Socioecological Model",
       "pubmed_id": "40530674",
       "pmc_id": "PMC12263167",
       "year": "2025",
-      "journal": "131(13):e35944",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Zhao Y, Amorrortu RP, Hicks JK, Garcia MA, Haura EB, Yin J, Vadaparampil ST, Rollison DE",
+      "journal": "Cancer"
     },
     {
-      "title": "Shen S, Yin J. Bayesian mediation analysis using patient-reported outcomes from AI chatbots to infer causal pathways in clinical trials. PLoS One",
+      "title": "Bayesian mediation analysis using patient-reported outcomes from AI chatbots to infer causal pathways in clinical trials",
       "pubmed_id": "40705787",
       "pmc_id": "PMC12289003",
       "year": "2025",
-      "journal": "20(7):e0326517",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Shen S, Yin J",
+      "journal": "PLoS One"
     },
     {
-      "title": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq",
+      "title": "ShinyEvents: harmonizing longitudinal data for real world survival estimation",
       "pubmed_id": "40799741",
       "pmc_id": "PMC12340904",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI",
+      "journal": "Res Sq"
     },
     {
-      "title": "Yin J. Narrative Review of the Use of Genomic-Adjusted Radiation Dose (GARD) in Radiotherapy. Cancers (Basel)",
+      "title": "Narrative Review of the Use of Genomic-Adjusted Radiation Dose (GARD) in Radiotherapy",
       "pubmed_id": "40867280",
       "pmc_id": "PMC12384496",
       "year": "2025",
-      "journal": "17(16)",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Yin J",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Rishi A, Albuquerque KV, Jhingran A, Donovan EK, Horne ZD, Ludwig MS, Pathak P, Goldsberry R, Glaser SM, Garg A, Yin V, Fernandez DC, Beriwal S, Ahmed KA, Montejo ME. Definitive intensity-modulated radiotherapy for organ preservation in vulvar cancer: A multicenter study. Gynecol Oncol",
+      "title": "Definitive intensity-modulated radiotherapy for organ preservation in vulvar cancer: A multicenter study",
       "pubmed_id": "40513383",
       "year": "2025",
-      "journal": "199:1-9",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Rishi A, Albuquerque KV, Jhingran A, Donovan EK, Horne ZD, Ludwig MS, Pathak P, Goldsberry R, Glaser SM, Garg A, Yin V, Fernandez DC, Beriwal S, Ahmed KA, Montejo ME",
+      "journal": "Gynecol Oncol"
     },
     {
-      "title": "Mansfield AS, Vivien Yin J, Bradbury P, Kwiatkowski DJ, Patel S, Bazhenova LA, Forde P, Lou Y, Dizona P, Villaruz LC, Arnold SM, Khalil M, Kindler HL, Koczywas M, Pacheco J, Rolfo C, Xia B, Mikula E, Chen L, Patel K, Smith KER, Cao L, Shapiro G, Costello BA, Adjei A, Sharon E, Moscow JA, Zamboni W, Hassan R. Randomized trial of anetumab ravtansine and pembrolizumab compared to pembrolizumab for mesothelioma. Lung Cancer",
+      "title": "Randomized trial of anetumab ravtansine and pembrolizumab compared to pembrolizumab for mesothelioma",
       "pubmed_id": "39197359",
       "pmc_id": "PMC11416719",
       "year": "2024",
-      "journal": "195:107928",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Mansfield AS, Vivien Yin J, Bradbury P, Kwiatkowski DJ, Patel S, Bazhenova LA, Forde P, Lou Y, Dizona P, Villaruz LC, Arnold SM, Khalil M, Kindler HL, Koczywas M, Pacheco J, Rolfo C, Xia B, Mikula E, Chen L, Patel K, Smith KER, Cao L, Shapiro G, Costello BA, Adjei A, Sharon E, Moscow JA, Zamboni W, Hassan R",
+      "journal": "Lung Cancer"
     },
     {
-      "title": "Dhir A, Hayashi M, Bodlak A, Oesterheld J, Loeb DM, Mascarenhas L, Isakoff MS, Sandler ES, Borinstein SC, Trucco M, Lagmay JP, Setty BA, Pratilas CA, Caywood E, Metts J, Yin H, Fridley B, Yin J, Laborde J, Reed DR, Adams DL, Wagner LM. Phase II Trial of Gemcitabine and Nab-Paclitaxel for Recurrent Osteosarcoma with Serial Monitoring Using Liquid Biopsy: A Report from the National Pediatric Cancer Foundation. Clin Cancer Res",
+      "title": "Phase II Trial of Gemcitabine and Nab-Paclitaxel for Recurrent Osteosarcoma with Serial Monitoring Using Liquid Biopsy: A Report from the National Pediatric Cancer Foundation",
       "pubmed_id": "39360936",
       "year": "2024",
-      "journal": "30(23):5314-5322",
-      "authors": ""
+      "publication_date": "2024 Dec",
+      "authors": "Dhir A, Hayashi M, Bodlak A, Oesterheld J, Loeb DM, Mascarenhas L, Isakoff MS, Sandler ES, Borinstein SC, Trucco M, Lagmay JP, Setty BA, Pratilas CA, Caywood E, Metts J, Yin H, Fridley B, Yin J, Laborde J, Reed DR, Adams DL, Wagner LM",
+      "journal": "Clin Cancer Res"
     },
     {
-      "title": "Rutherford SC, Yin J, Pederson L, Perez Burbano G, LaPlant B, Shadman M, Li H, LeBlanc ML, Kenkre VP, Hong F, Blum KA, Dockter T, Martin P, Jung SH, Grant B, Rosenbaum C, Ujjani C, Barr PM, Unger JM, Cheson BD, Bartlett NL, Kahl B, Friedberg JW, Mandrekar SJ, Leonard JP. Relevance of Bone Marrow Biopsies for Response Assessment in US National Cancer Institute National Clinical Trials Network Follicular Lymphoma Clinical Trials. J Clin Oncol",
+      "title": "Relevance of Bone Marrow Biopsies for Response Assessment in US National Cancer Institute National Clinical Trials Network Follicular Lymphoma Clinical Trials",
       "pubmed_id": "35787017",
       "pmc_id": "PMC9839232",
       "year": "2023",
-      "journal": "41(2):336-342",
-      "authors": ""
+      "publication_date": "2023 Jan",
+      "authors": "Rutherford SC, Yin J, Pederson L, Perez Burbano G, LaPlant B, Shadman M, Li H, LeBlanc ML, Kenkre VP, Hong F, Blum KA, Dockter T, Martin P, Jung SH, Grant B, Rosenbaum C, Ujjani C, Barr PM, Unger JM, Cheson BD, Bartlett NL, Kahl B, Friedberg JW, Mandrekar SJ, Leonard JP",
+      "journal": "J Clin Oncol"
     }
   ],
   "grants": [
     {
-      "description": "Title: Novel master protocol designs for precision oncology trials in pediatric and rare cancers   \nAward Number: 25C39  \nSponsor: Florida Department of Health  \nYin, J. (PD/PI)"
+      "description": "Title: Novel master protocol designs for precision oncology trials in pediatric and rare cancers   \nAward Number: 25C39  \nSponsor: Florida Department of Health  \nYin, J. (PD/PI)",
+      "title": "Novel master protocol designs for precision oncology trials in pediatric and rare cancers",
+      "award_number": "25C39",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Yin, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Alliance Statistics and Data Management Center  \nAward Number: 3U10CA180882-11S1  \nSponsor: National Cancer Institute (NCI)  \nYin, J. (PD/PI)",
+      "title": "Alliance Statistics and Data Management Center",
+      "award_number": "3U10CA180882-11S1",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0882-11"
+      "investigators": [
+        {
+          "name": "Yin, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Overcoming Metastatic Spread of Osteosarcoma with RNA Loaded Nanoparticles  \nAward Number: 5R01CA266857-02  \nSponsor: National Cancer Institute (NCI)  \nYin, J. (PD/PI)",
+      "title": "Overcoming Metastatic Spread of Osteosarcoma with RNA Loaded Nanoparticles",
+      "award_number": "5R01CA266857-02",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "6857-02"
+      "investigators": [
+        {
+          "name": "Yin, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Bayesian Adaptive Basket Trial Designs for Neoantigen Based Immunotherapy with Borrowing Strength Across Subpopulations Within the Trial and From External Controls  \nAward Number: 5U01FD005938-07  \nSponsor: US Food & Drug Administration (FDA)  \nYin, J. (PD/PI)",
-      "period": "5938-07"
+      "title": "Bayesian Adaptive Basket Trial Designs for Neoantigen Based Immunotherapy with Borrowing Strength Across Subpopulations Within the Trial and From External Controls",
+      "award_number": "5U01FD005938-07",
+      "sponsor": "US Food & Drug Administration (FDA)",
+      "investigators": [
+        {
+          "name": "Yin, J.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/YinVivien_35662.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35662"
   },
-  "content_hash": "e978d999c9c8cd3f133b09c1fb0c13779e756a7c189d91959423828517890cec",
+  "content_hash": "c25a08f94345adcd318126021fa2a8d76241550a66417930a3e46c1ad20974d8",
   "researcher_name": "Vivien Yin",
   "department": "Biostatistics and Bioinformatics"
 }

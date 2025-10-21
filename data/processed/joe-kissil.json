@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/joe-kissil",
-  "last_updated": "2025-10-19T00:25:18.748585",
+  "last_updated": "2025-10-21T16:34:21.790482",
   "researcher_id": "28058",
   "degrees": [
     "PhD"
@@ -26,105 +26,161 @@
   ],
   "publications": [
     {
-      "title": "Shepard A, Lester DK, Troutman S, Hoxha S, Khaled WT, Smith ESJ, Park TJ, Buffenstein R, Du D, Teng M, Dengler-Crish CM, Tsai KY, Flores ER, Ventura A, Kissil JL. An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat. Cancer Discov",
+      "title": "An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat",
       "pubmed_id": "40920097",
       "pmc_id": "PMC12486303",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Shepard A, Lester DK, Troutman S, Hoxha S, Khaled WT, Smith ESJ, Park TJ, Buffenstein R, Du D, Teng M, Dengler-Crish CM, Tsai KY, Flores ER, Ventura A, Kissil JL",
+      "journal": "Cancer Discov"
     },
     {
-      "title": "Elzaafarany O, Lester D, Mokhtari S, Kissil JL. NF2-associated schwannomatosis (NF2): genetics, manifestations, and emerging therapeutic approaches. Trends Mol Med",
+      "title": "NF2-associated schwannomatosis (NF2): genetics, manifestations, and emerging therapeutic approaches",
       "pubmed_id": "40885618",
       "pmc_id": "PMC12404673",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Elzaafarany O, Lester D, Mokhtari S, Kissil JL",
+      "journal": "Trends Mol Med"
     },
     {
-      "title": "Gonz\u00e1lez-Rodriguez MA, Troutman S, Bayle S, Lester DK, Grove M, Duckett D, Kareta MS, Kissil JL. Synergistic effects of combined BET and FAK inhibition against Vestibular Schwannomas in NF2-related Schwannomatosis. Oncogene",
+      "title": "Synergistic effects of combined BET and FAK inhibition against Vestibular Schwannomas in NF2-related Schwannomatosis",
       "pubmed_id": "39209965",
       "year": "2024",
-      "journal": "43(40):2995-3002",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Gonz\u00e1lez-Rodriguez MA, Troutman S, Bayle S, Lester DK, Grove M, Duckett D, Kareta MS, Kissil JL",
+      "journal": "Oncogene"
     },
     {
-      "title": "Shao A, Kissil JL, Fan CM. The L27 domain of MPP7 enhances TAZ-YY1 cooperation to renew muscle stem cells. EMBO Rep",
+      "title": "The L27 domain of MPP7 enhances TAZ-YY1 cooperation to renew muscle stem cells",
       "pubmed_id": "39496834",
       "pmc_id": "PMC11624273",
       "year": "2024",
-      "journal": "25(12):5667-5686",
-      "authors": ""
+      "publication_date": "2024 Dec",
+      "authors": "Shao A, Kissil JL, Fan CM",
+      "journal": "EMBO Rep"
     },
     {
-      "title": "Shao A, Kissil JL, Fan CM. The L27 Domain of MPP7 enhances TAZ-YY1 Cooperation to Renew Muscle Stem Cells. Res Sq",
+      "title": "The L27 Domain of MPP7 enhances TAZ-YY1 Cooperation to Renew Muscle Stem Cells",
       "pubmed_id": "38077061",
       "pmc_id": "PMC10705706",
       "year": "2023",
-      "authors": ""
+      "publication_date": "2023 Nov",
+      "authors": "Shao A, Kissil JL, Fan CM",
+      "journal": "Res Sq"
     },
     {
-      "title": "Shao A, Kissil JL, Fan CM. The L27 Domain of MPP7 enhances TAZ-YY1 Cooperation to Renew Muscle Stem Cells. bioRxiv",
+      "title": "The L27 Domain of MPP7 enhances TAZ-YY1 Cooperation to Renew Muscle Stem Cells",
       "pubmed_id": "37961392",
       "pmc_id": "PMC10635061",
       "year": "2023",
-      "authors": ""
+      "publication_date": "2023 Nov",
+      "authors": "Shao A, Kissil JL, Fan CM",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Yousefi H, Khosla M, Lauterboeck L, Okpechi SC, Worthylake D, Garai J, Zabaleta J, Guidry J, Zarandi MA, Wyczechowska D, Jayawickramarajah J, Yang Q, Kissil J, Alahari SK. Correction to: A combination of novel NSC small molecule inhibitor along with doxorubicin inhibits proliferation of triple-negative breast cancer through metabolic reprogramming. Oncogene",
+      "title": "Correction to: A combination of novel NSC small molecule inhibitor along with doxorubicin inhibits proliferation of triple-negative breast cancer through metabolic reprogramming",
       "pubmed_id": "36759576",
       "year": "2023",
-      "journal": "42(11):859",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Yousefi H, Khosla M, Lauterboeck L, Okpechi SC, Worthylake D, Garai J, Zabaleta J, Guidry J, Zarandi MA, Wyczechowska D, Jayawickramarajah J, Yang Q, Kissil J, Alahari SK",
+      "journal": "Oncogene"
     },
     {
-      "title": "Amirifar P, Kissil J. The role of Motin family proteins in tumorigenesis-an update. Oncogene",
+      "title": "The role of Motin family proteins in tumorigenesis-an update",
       "pubmed_id": "36973516",
       "year": "2023",
-      "journal": "42(16):1265-1271",
-      "authors": ""
+      "publication_date": "2023 Apr",
+      "authors": "Amirifar P, Kissil J",
+      "journal": "Oncogene"
     },
     {
-      "title": "Ragland NH, Compo NR, Wiltshire N, Shepard A, Troutman S, Kissil JL, Engelman RW. Housing and Husbandry Alternatives for Naked Mole Rat Colonies Used in Research Settings. J Am Assoc Lab Anim Sci",
+      "title": "Housing and Husbandry Alternatives for Naked Mole Rat Colonies Used in Research Settings",
       "pubmed_id": "35944976",
       "pmc_id": "PMC9536831",
       "year": "2022",
-      "journal": "61(5):412-418",
-      "authors": ""
+      "publication_date": "2022 Sep",
+      "authors": "Ragland NH, Compo NR, Wiltshire N, Shepard A, Troutman S, Kissil JL, Engelman RW",
+      "journal": "J Am Assoc Lab Anim Sci"
     },
     {
-      "title": "Yousefi H, Khosla M, Lauterboeck L, Okpechi SC, Worthylake D, Garai J, Zabaleta J, Guidry J, Zarandi MA, Wyczechowska D, Jayawickramarajah J, Yang Q, Kissil J, Alahari SK. A combination of novel NSC small molecule inhibitor along with doxorubicin inhibits proliferation of triple-negative breast cancer through metabolic reprogramming. Oncogene",
+      "title": "A combination of novel NSC small molecule inhibitor along with doxorubicin inhibits proliferation of triple-negative breast cancer through metabolic reprogramming",
       "pubmed_id": "36243802",
       "year": "2022",
-      "journal": "41(47):5076-5091",
-      "authors": ""
+      "publication_date": "2022 Nov",
+      "authors": "Yousefi H, Khosla M, Lauterboeck L, Okpechi SC, Worthylake D, Garai J, Zabaleta J, Guidry J, Zarandi MA, Wyczechowska D, Jayawickramarajah J, Yang Q, Kissil J, Alahari SK",
+      "journal": "Oncogene"
     }
   ],
   "grants": [
     {
       "description": "Title: Identification and Assessment of Targets for Immunotherapy in NF2-Associated Schwannomatosis  \nAward Number: HT94252510537   \nSponsor: Department of Defense (DOD)  \nKissil, J. (PD/PI)",
-      "source": "DOD"
+      "title": "Identification and Assessment of Targets for Immunotherapy in NF2-Associated Schwannomatosis",
+      "award_number": "HT94252510537",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Kissil, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: CARM1-mediated regulation of YAP1 as a therapeutic target in lung cancer  \nAward Number: 5R01CA250276-04  \nSponsor: National Cancer Institute (NCI)  \nKissil, J. (PD/PI)",
+      "title": "CARM1-mediated regulation of YAP1 as a therapeutic target in lung cancer",
+      "award_number": "5R01CA250276-04",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0276-04"
+      "investigators": [
+        {
+          "name": "Kissil, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Elucidating the epigenetic landscape of neurofibromatosis and development of therapeutic targets  \nAward Number: 5R01NS117926-02  \nSponsor: National Institute of Neurological Disorders and Stroke (NINDS)  \nKissil, J. (PD/PI)",
-      "period": "7926-02"
+      "title": "Elucidating the epigenetic landscape of neurofibromatosis and development of therapeutic targets",
+      "award_number": "5R01NS117926-02",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "investigators": [
+        {
+          "name": "Kissil, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Employing functionalized fragment libraries to identify therapeutic agents for neurofibromatosis type 2  \nAward Number: 2R33NS119658-03  \nSponsor: National Institute of Neurological Disorders and Stroke (NINDS)  \nKissil, J. (PD/PI)",
-      "period": "9658-03"
+      "title": "Employing functionalized fragment libraries to identify therapeutic agents for neurofibromatosis type 2",
+      "award_number": "2R33NS119658-03",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "investigators": [
+        {
+          "name": "Kissil, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Establishing the functional differences between variant oncogenic KRAS alleles and identification of allele-selective inhibitors  \nAward Number: 22B05  \nSponsor: Florida Department of Health  \nKissil, J. (PD/PI)"
+      "description": "Title: Establishing the functional differences between variant oncogenic KRAS alleles and identification of allele-selective inhibitors  \nAward Number: 22B05  \nSponsor: Florida Department of Health  \nKissil, J. (PD/PI)",
+      "title": "Establishing the functional differences between variant oncogenic KRAS alleles and identification of allele-selective inhibitors",
+      "award_number": "22B05",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Kissil, J.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KissilJoe_28058.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28058"
   },
-  "content_hash": "72786f100e211b6bebc1de2a4e78a478c1875b9fa09b4ee0159d3c70ad831719",
+  "content_hash": "1e1e1bb28ccb49fcdbf788f8285395eb74e9788ada14440c53524f0a0c2030d0",
   "researcher_name": "Joe Kissil",
   "department": "Molecular Oncology"
 }

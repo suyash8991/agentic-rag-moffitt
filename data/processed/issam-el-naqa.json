@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/issam-el-naqa",
-  "last_updated": "2025-10-19T00:25:09.041042",
+  "last_updated": "2025-10-21T16:34:11.280114",
   "researcher_id": "27669",
   "degrees": [
     "PhD"
@@ -35,126 +35,179 @@
   ],
   "publications": [
     {
-      "title": "Huang Y, Wei L, Litzenberg D, Li B, Ma C, Kim H, Liu Y, Zhang C, Carson PL, Naqa IE, Zhang W, Wang X. Towards quantitative ionizing radiation acoustic imaging (iRAI) for radiation dose measurement: Validation from simulations to experiments. Med Phys",
+      "title": "Towards quantitative ionizing radiation acoustic imaging (iRAI) for radiation dose measurement: Validation from simulations to experiments",
       "pubmed_id": "40891090",
       "pmc_id": "PMC12402745",
       "year": "2025",
-      "journal": "52(9):e18091",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Huang Y, Wei L, Litzenberg D, Li B, Ma C, Kim H, Liu Y, Zhang C, Carson PL, Naqa IE, Zhang W, Wang X",
+      "journal": "Med Phys"
     },
     {
-      "title": "Tarhini AA, Dave P, El Naqa I. General artificial intelligence for the diagnosis and treatment of cancer: the rise of foundation models. BJR Artif Intell",
+      "title": "General artificial intelligence for the diagnosis and treatment of cancer: the rise of foundation models",
       "pubmed_id": "41030612",
       "pmc_id": "PMC12478997",
       "year": "2025",
-      "journal": "2(1):ubaf015",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Tarhini AA, Dave P, El Naqa I",
+      "journal": "BJR Artif Intell"
     },
     {
-      "title": "Gonzalez BD, Li X, Gudenkauf LM, Pullukkara JJ, Oswald LB, Hoogland AI, Le T, El Naqa I, Saltos AN, Haura EB, Luo Y. Using Bayesian Networks to Predict Urgent Care Visits in Patients Receiving Systemic Therapy for Non-Small Cell Lung Cancer. JCO Clin Cancer Inform",
+      "title": "Using Bayesian Networks to Predict Urgent Care Visits in Patients Receiving Systemic Therapy for Non-Small Cell Lung Cancer",
       "pubmed_id": "40939115",
       "pmc_id": "PMC12483286",
       "year": "2025",
-      "journal": "9:e2400315",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Gonzalez BD, Li X, Gudenkauf LM, Pullukkara JJ, Oswald LB, Hoogland AI, Le T, El Naqa I, Saltos AN, Haura EB, Luo Y",
+      "journal": "JCO Clin Cancer Inform"
     },
     {
-      "title": "Abdelrahman A, El Naqa I. The Role of PET Image Quantification in Modern Radiation Therapy. PET Clin",
+      "title": "The Role of PET Image Quantification in Modern Radiation Therapy",
       "pubmed_id": "40816963",
       "year": "2025",
-      "journal": "20(4):525-534",
-      "authors": ""
+      "publication_date": "2025 Oct",
+      "authors": "Abdelrahman A, El Naqa I",
+      "journal": "PET Clin"
     },
     {
-      "title": "Matrosic CK, Andrzejewski P, Bergman A, Chng N, Naqa IE, Freislederer P, Hoffmann L, Hope A, Jacqmin D, Kelly C, Kuo L, Lin H, Mayo C, Murrell DH, \u00d6d\u00e9n J, Svensson S, Thompson S, Osorio EV, West N, Wicha R, Yorke E, Appelt AL, Paradis KC. Software Support Tools for Reirradiation: A Report From Reirradiation Collaborative Group (ReCOG) 2024. Int J Radiat Oncol Biol Phys",
+      "title": "Software Support Tools for Reirradiation: A Report From Reirradiation Collaborative Group (ReCOG) 2024",
       "pubmed_id": "40240108",
       "year": "2025",
-      "journal": "122(1):181-185",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Matrosic CK, Andrzejewski P, Bergman A, Chng N, Naqa IE, Freislederer P, Hoffmann L, Hope A, Jacqmin D, Kelly C, Kuo L, Lin H, Mayo C, Murrell DH, \u00d6d\u00e9n J, Svensson S, Thompson S, Osorio EV, West N, Wicha R, Yorke E, Appelt AL, Paradis KC",
+      "journal": "Int J Radiat Oncol Biol Phys"
     },
     {
-      "title": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y. Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data. JNCI Cancer Spectr",
+      "title": "Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data",
       "pubmed_id": "40111867",
       "pmc_id": "PMC11986816",
       "year": "2025",
-      "journal": "9(2)",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y",
+      "journal": "JNCI Cancer Spectr"
     },
     {
-      "title": "El Naqa I, Pilon-Thomas S, Deutsch E. Editorial: Artificial intelligence for cancer immunotherapy. Front Immunol",
+      "title": "Editorial: Artificial intelligence for cancer immunotherapy",
       "pubmed_id": "40568575",
       "pmc_id": "PMC12187814",
       "year": "2025",
-      "journal": "16:1633422",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "El Naqa I, Pilon-Thomas S, Deutsch E",
+      "journal": "Front Immunol"
     },
     {
-      "title": "Sharma M, Naqa IE, Sneed PK. Does Time to Retreatment Matter? A Normal Tissue Complication Probability Model to Predict Radionecrosis After Repeat Stereotactic Radiosurgery for Recurrent Brain Metastases Incorporating Time-dependent Discounted Dose. Int J Radiat Oncol Biol Phys",
+      "title": "Does Time to Retreatment Matter? A Normal Tissue Complication Probability Model to Predict Radionecrosis After Repeat Stereotactic Radiosurgery for Recurrent Brain Metastases Incorporating Time-dependent Discounted Dose",
       "pubmed_id": "39900228",
       "year": "2025",
-      "journal": "122(2):467-475",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Sharma M, Naqa IE, Sneed PK",
+      "journal": "Int J Radiat Oncol Biol Phys"
     },
     {
-      "title": "Veith T, Beck R, Tagal V, Li T, Alahmari S, Cole J, Hannaby D, Kyei J, Yu X, Maksin K, Schultz A, Lee H, El Naqa I, Eschrich S, Ji HP, Diaz A, Andor N. CLONEID: A Framework for Longitudinal Integration of Phenotypic and Genotypic Data to Monitor and Steer Subclonal Dynamics. bioRxiv",
+      "title": "CLONEID: A Framework for Longitudinal Integration of Phenotypic and Genotypic Data to Monitor and Steer Subclonal Dynamics",
       "pubmed_id": "40631300",
       "pmc_id": "PMC12236826",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Veith T, Beck R, Tagal V, Li T, Alahmari S, Cole J, Hannaby D, Kyei J, Yu X, Maksin K, Schultz A, Lee H, El Naqa I, Eschrich S, Ji HP, Diaz A, Andor N",
+      "journal": "bioRxiv"
     },
     {
-      "title": "El Naqa I. The Biophysics of Flash Radiotherapy: Tools for Measuring Tumor and Normal Tissues Microenvironment. Antioxidants (Basel)",
+      "title": "The Biophysics of Flash Radiotherapy: Tools for Measuring Tumor and Normal Tissues Microenvironment",
       "pubmed_id": "40867798",
       "pmc_id": "PMC12383113",
       "year": "2025",
-      "journal": "14(8)",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "El Naqa I",
+      "journal": "Antioxidants (Basel)"
     }
   ],
   "grants": [
     {
-      "description": "Title: Use Machine Learning to Identify Novel Image-Based Markers That Can Distinguish Between ICUS, CCUS, and MDS and Aid in the Prediction of Disease Evolution, Survival, and Genetic Evolution in Patients with Pre-MDS Condition and MDS  \nAward Number:   \nSponsor: THE EDWARD P. EVANS FOUNDATION  \nEl N. (PD/PI), Komrokji, R. (Co-PD/PI)"
+      "description": "Title: Use Machine Learning to Identify Novel Image-Based Markers That Can Distinguish Between ICUS, CCUS, and MDS and Aid in the Prediction of Disease Evolution, Survival, and Genetic Evolution in Patients with Pre-MDS Condition and MDS  \nAward Number:   \nSponsor: THE EDWARD P. EVANS FOUNDATION  \nEl N. (PD/PI), Komrokji, R. (Co-PD/PI)",
+      "title": "Use Machine Learning to Identify Novel Image-Based Markers That Can Distinguish Between ICUS, CCUS, and MDS and Aid in the Prediction of Disease Evolution, Survival, and Genetic Evolution in Patients with Pre-MDS Condition and MDS",
+      "award_number": "",
+      "sponsor": "THE EDWARD P. EVANS FOUNDATION  \nEl N. (PD/PI),",
+      "investigators": [
+        {
+          "name": "Komrokji, R.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Optimal Decision Making in Radiotherapy Using Panomics Analytics  \nAward Number: 5R01CA233487-06  \nSponsor: National Cancer Institute (NCI)  \nEl N. (PD/PI)",
-      "source": "NCI",
-      "period": "3487-06"
+      "title": "Optimal Decision Making in Radiotherapy Using Panomics Analytics",
+      "award_number": "5R01CA233487-06",
+      "sponsor": "National Cancer Institute (NCI)  \nEl N. (PD/PI)",
+      "source": "NCI"
     },
     {
       "description": "Title: Federated Learning for Optimal Decision Making in Radiotherapy Using Panomics Analytics  \nAward Number: 3R01CA233487-05S1  \nSponsor: National Cancer Institute (NCI)  \nEl N. (PD/PI)",
-      "source": "NCI",
-      "period": "3487-05"
+      "title": "Federated Learning for Optimal Decision Making in Radiotherapy Using Panomics Analytics",
+      "award_number": "3R01CA233487-05S1",
+      "sponsor": "National Cancer Institute (NCI)  \nEl N. (PD/PI)",
+      "source": "NCI"
     },
     {
       "description": "Title: An Ionizing Radiation Acoustics Imaging (iRAI) Approach for Guided Flash Radiotherapy  \nAward Number: 5R01CA266803  \nSponsor: National Cancer Institute (NCI)  \nEl N. (PD/PI)",
+      "title": "An Ionizing Radiation Acoustics Imaging (iRAI) Approach for Guided Flash Radiotherapy",
+      "award_number": "5R01CA266803",
+      "sponsor": "National Cancer Institute (NCI)  \nEl N. (PD/PI)",
       "source": "NCI"
     },
     {
       "description": "Title: Combined Radiation Acoustics and Ultrasound Imaging for Real-Time Guidance in Radiotherapy  \nAward Number: 5R37CA222215-07  \nSponsor: National Cancer Institute (NCI)  \nEl N. (PD/PI)",
-      "source": "NCI",
-      "period": "2215-07"
+      "title": "Combined Radiation Acoustics and Ultrasound Imaging for Real-Time Guidance in Radiotherapy",
+      "award_number": "5R37CA222215-07",
+      "sponsor": "National Cancer Institute (NCI)  \nEl N. (PD/PI)",
+      "source": "NCI"
     },
     {
       "description": "Title: Data Science to Improve Treatment Planning for Advanced Prostate Cancer Patients Treated with Radiotherapy  \nAward Number: W81XWH-22-1-0277  \nSponsor: Department of Defense (DOD)  \nEl N. (PD/PI)",
+      "title": "Data Science to Improve Treatment Planning for Advanced Prostate Cancer Patients Treated with Radiotherapy",
+      "award_number": "W81XWH-22-1-0277",
+      "sponsor": "Department of Defense (DOD)  \nEl N. (PD/PI)",
       "source": "DOD"
     },
     {
       "description": "Title: Medical Imaging and Data Resource Center (MIDRC) for Rapid Response to COVID-19 Pandemic  \nAward Number: Federal Contract75N92020D00021/75N92023F00001  \nSponsor: National Cancer Institute (NCI)  \nEl N. (PD/PI)",
+      "title": "Medical Imaging and Data Resource Center (MIDRC) for Rapid Response to COVID-19 Pandemic",
+      "award_number": "Federal Contract75N92020D00021/75N92023F00001",
+      "sponsor": "National Cancer Institute (NCI)  \nEl N. (PD/PI)",
       "source": "NCI"
     },
     {
-      "description": "Title: Data Science to Improve Treatment Planning for Bladder Cancer Patients Treated with Radiotherapy  \nAward Number: MOABA Grant Amendment 1  \nSponsor: Florida Department of Health  \nJim, H. (PD/PI), El N. (Co-PD/PI)"
+      "description": "Title: Data Science to Improve Treatment Planning for Bladder Cancer Patients Treated with Radiotherapy  \nAward Number: MOABA Grant Amendment 1  \nSponsor: Florida Department of Health  \nJim, H. (PD/PI), El N. (Co-PD/PI)",
+      "title": "Data Science to Improve Treatment Planning for Bladder Cancer Patients Treated with Radiotherapy",
+      "award_number": "MOABA Grant Amendment 1",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Jim, H.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Development of a FLASH Dosimetry System Based on Ionizing Radiation Acoustic Imaging  \nAward Number: 75N91024C00095  \nSponsor: National Institutes of Health (NIH)  \nOraiqat, I. (PD/PI), El N. (Co-PD/PI)",
-      "source": "NIH"
+      "title": "Development of a FLASH Dosimetry System Based on Ionizing Radiation Acoustic Imaging",
+      "award_number": "75N91024C00095",
+      "sponsor": "National Institutes of Health (NIH)",
+      "source": "NIH",
+      "investigators": [
+        {
+          "name": "Oraiqat, I.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ElNaqaIssam_27669.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27669"
   },
-  "content_hash": "d5650de6209b67ec1f257efe0bf46bb543355042689331f642a72b2c143b518e",
+  "content_hash": "1f405bf82d645cd7f2cbf4ec60d99da73ae20f40227e0b7f5cefaf3b51b4efc7",
   "researcher_name": "Issam El Naqa",
   "department": "Machine Learning"
 }

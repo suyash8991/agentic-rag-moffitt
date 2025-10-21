@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/andriy-marusyk",
-  "last_updated": "2025-10-19T00:26:06.312861",
+  "last_updated": "2025-10-21T16:35:14.533827",
   "researcher_id": "16347",
   "degrees": [
     "PhD"
@@ -40,103 +40,155 @@
   ],
   "publications": [
     {
-      "title": "Marusyk A. Evolutionary gambit to defeat drug resistance in cancer. Nat Biotechnol",
+      "title": "Evolutionary gambit to defeat drug resistance in cancer",
       "pubmed_id": "38965429",
       "year": "2025",
-      "journal": "43(5):689-690",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Marusyk A",
+      "journal": "Nat Biotechnol"
     },
     {
-      "title": "Kato R, Solanki HS, Ozakinci H, Desai B, Gundlapalli H, Yang YC, Aronchik I, Singh M, Johnson J, Marusyk A, Boyle TA, Haura EB. In Situ RAS:RAF Binding Correlates with Response to KRASG12C Inhibitors in KRASG12C-Mutant Non-Small Cell Lung Cancer. Clin Cancer Res",
+      "title": "In Situ RAS:RAF Binding Correlates with Response to KRASG12C Inhibitors in KRASG12C-Mutant Non-Small Cell Lung Cancer",
       "pubmed_id": "39836411",
       "pmc_id": "PMC11924342",
       "year": "2025",
-      "journal": "31(6):1150-1162",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Kato R, Solanki HS, Ozakinci H, Desai B, Gundlapalli H, Yang YC, Aronchik I, Singh M, Johnson J, Marusyk A, Boyle TA, Haura EB",
+      "journal": "Clin Cancer Res"
     },
     {
-      "title": "Tyczynska Weh M, Kumar P, Marusyk V, Marusyk A, Basanta D. The adaptive state determines the impact of mutations on evolving populations. Proc Natl Acad Sci U S A",
+      "title": "The adaptive state determines the impact of mutations on evolving populations",
       "pubmed_id": "40569384",
       "pmc_id": "PMC12232665",
       "year": "2025",
-      "journal": "122(26)",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Tyczynska Weh M, Kumar P, Marusyk V, Marusyk A, Basanta D",
+      "journal": "Proc Natl Acad Sci U S A"
     },
     {
-      "title": "Thomas F, Capp JP, Dujon AM, Marusyk A, Asselin K, Campone M, Pujol P, Alix-Panabi\u00e8res C, Roche B, Ujvari B, Gatenby R, Nedelcu AM. Leveraging selection for function in tumor evolution: System-level cancer therapies. Evol Med Public Health",
+      "title": "Leveraging selection for function in tumor evolution: System-level cancer therapies",
       "pubmed_id": "40979445",
       "pmc_id": "PMC12448390",
       "year": "2025",
-      "journal": "13(1):248-268",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Thomas F, Capp JP, Dujon AM, Marusyk A, Asselin K, Campone M, Pujol P, Alix-Panabi\u00e8res C, Roche B, Ujvari B, Gatenby R, Nedelcu AM",
+      "journal": "Evol Med Public Health"
     },
     {
-      "title": "Milne A, Marusyk A, Maini PK, Anderson ARA, Picco N. The role of environmentally mediated drug resistance in facilitating the spatial distribution of residual disease. Commun Biol",
+      "title": "The role of environmentally mediated drug resistance in facilitating the spatial distribution of residual disease",
       "pubmed_id": "40783466",
       "pmc_id": "PMC12335614",
       "year": "2025",
-      "journal": "8(1):1189",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Milne A, Marusyk A, Maini PK, Anderson ARA, Picco N",
+      "journal": "Commun Biol"
     },
     {
-      "title": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A. Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers. Res Sq",
+      "title": "Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers",
       "pubmed_id": "40313737",
       "pmc_id": "PMC12045365",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Thomas F, DeGregori J, Marusyk A, Dujon AM, Ujvari B, Capp JP, Gatenby R, Nedelcu AM. A new perspective on tumor progression: Evolution via selection for function. Evol Med Public Health",
+      "title": "A new perspective on tumor progression: Evolution via selection for function",
       "pubmed_id": "39364294",
       "pmc_id": "PMC11448472",
       "year": "2024",
-      "journal": "12(1):172-177",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Thomas F, DeGregori J, Marusyk A, Dujon AM, Ujvari B, Capp JP, Gatenby R, Nedelcu AM",
+      "journal": "Evol Med Public Health"
     },
     {
-      "title": "Thomas F, DeGregori J, Marusyk A, Dujon AM, Ujvari B, Capp JP, Gatenby R, Nedelcu AM. Towards a new therapeutic approach based on selection for function in tumors: response to Dr. Mesut Tez. Evol Med Public Health",
+      "title": "Towards a new therapeutic approach based on selection for function in tumors: response to Dr",
       "pubmed_id": "39660278",
       "pmc_id": "PMC11631049",
       "year": "2024",
-      "journal": "12(1):260-261",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Thomas F, DeGregori J, Marusyk A, Dujon AM, Ujvari B, Capp JP, Gatenby R, Nedelcu AM",
+      "journal": "Mesut Tez"
     },
     {
-      "title": "Janiszewska M, Tabassum DP, Casta\u00f1o Z, Cristea S, Yamamoto KN, Kingston NL, Murphy KC, Shu S, Harper NW, Del Alcazar CG, Ale\u010dkovi\u0107 M, Ekram MB, Cohen O, Kwak M, Qin Y, Laszewski T, Luoma A, Marusyk A, Wucherpfennig KW, Wagle N, Fan R, Michor F, McAllister SS, Polyak K. Author Correction: Subclonal cooperation drives metastasis by modulating local and systemic immune microenvironments. Nat Cell Biol",
+      "title": "Author Correction: Subclonal cooperation drives metastasis by modulating local and systemic immune microenvironments",
       "pubmed_id": "38443568",
       "year": "2024",
-      "journal": "26(5):841",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Janiszewska M, Tabassum DP, Casta\u00f1o Z, Cristea S, Yamamoto KN, Kingston NL, Murphy KC, Shu S, Harper NW, Del Alcazar CG, Ale\u010dkovi\u0107 M, Ekram MB, Cohen O, Kwak M, Qin Y, Laszewski T, Luoma A, Marusyk A, Wucherpfennig KW, Wagle N, Fan R, Michor F, McAllister SS, Polyak K",
+      "journal": "Nat Cell Biol"
     },
     {
-      "title": "Miti T, Desai B, Miroshnychenko D, Basanta D, Marusyk A. Dissecting the Spatially Restricted Effects of Microenvironment-Mediated Resistance on Targeted Therapy Responses. Cancers (Basel)",
+      "title": "Dissecting the Spatially Restricted Effects of Microenvironment-Mediated Resistance on Targeted Therapy Responses",
       "pubmed_id": "39001467",
       "pmc_id": "PMC11240540",
       "year": "2024",
-      "journal": "16(13)",
-      "authors": ""
+      "publication_date": "2024 Jun",
+      "authors": "Miti T, Desai B, Miroshnychenko D, Basanta D, Marusyk A",
+      "journal": "Cancers (Basel)"
     }
   ],
   "grants": [
     {
       "description": "Title: Exploiting Ecology and Evolution to Prevent Therapy Resistance in EGFR-Driven Lung Cancer  \nAward Number: 5R37CA244613-04  \nSponsor: National Cancer Institute (NCI)  \nMarusyk, A. (PD/PI)",
+      "title": "Exploiting Ecology and Evolution to Prevent Therapy Resistance in EGFR-Driven Lung Cancer",
+      "award_number": "5R37CA244613-04",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "4613-04"
+      "investigators": [
+        {
+          "name": "Marusyk, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Extending experimental evolutionary game theory in cancer in vivo to enable clinical translation: integrating spatio-temporal dynamics using mathematical modeling  \nAward Number: U01CA280829-01  \nSponsor: National Cancer Institute (NCI)  \nMarusyk, A. (PD/PI)",
+      "title": "Extending experimental evolutionary game theory in cancer in vivo to enable clinical translation: integrating spatio-temporal dynamics using mathematical modeling",
+      "award_number": "U01CA280829-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0829-01"
+      "investigators": [
+        {
+          "name": "Marusyk, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB  \nAward Number: 23L11  \nSponsor: Florida Department of Health  \nMetts, J. (PD/PI), Anderson, A. (Co-PD/PI), Brown, J. (Co-PD/PI), Marusyk, A. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)"
+      "description": "Title: Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB  \nAward Number: 23L11  \nSponsor: Florida Department of Health  \nMetts, J. (PD/PI), Anderson, A. (Co-PD/PI), Brown, J. (Co-PD/PI), Marusyk, A. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)",
+      "title": "Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB",
+      "award_number": "23L11",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Metts, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Anderson, A.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Brown, J.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Marusyk, A.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Tessi, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MarusykAndriy_16347.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16347"
   },
-  "content_hash": "3f3cf6c163e136ac25c39406e16d55e09387e5db1b57d19679512ba72970cd53",
+  "content_hash": "ef6709a76d193c5604336c8eaa7a38807d7300f7c06295f21c782791fffa8346",
   "researcher_name": "Andriy Marusyk",
   "department": "Tumor Microenvironment and Metastasis"
 }

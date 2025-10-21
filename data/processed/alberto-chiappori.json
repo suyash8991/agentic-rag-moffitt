@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/alberto-chiappori",
-  "last_updated": "2025-10-19T00:29:23.896972",
+  "last_updated": "2025-10-21T16:38:25.845471",
   "researcher_id": "422",
   "degrees": [
     "MD"
@@ -42,80 +42,90 @@
   ],
   "publications": [
     {
-      "title": "Kim YS, Nabet BY, Cortez BN, Sun NY, Sebastian R, Redon CE, Ray A, Liu L, Ishola AA, Loew S, Dhall A, Sindiri S, Gayevskiy V, Lee MJ, Rastogi S, Sato N, Kedei N, Andresson T, Das S, Kumar S, Bers AE, Zhang H, Chiappori A, Gopal P, Abazeed ME, Chen H, Aladjem MI, Pommier Y, Velez MJ, Shames DS, Roper N. NOTCH1 reverses immune suppression in small cell lung cancer through reactivation of STING. J Clin Invest",
+      "title": "NOTCH1 reverses immune suppression in small cell lung cancer through reactivation of STING",
       "pubmed_id": "40627448",
       "pmc_id": "PMC12435836",
       "year": "2025",
-      "journal": "135(18)",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Kim YS, Nabet BY, Cortez BN, Sun NY, Sebastian R, Redon CE, Ray A, Liu L, Ishola AA, Loew S, Dhall A, Sindiri S, Gayevskiy V, Lee MJ, Rastogi S, Sato N, Kedei N, Andresson T, Das S, Kumar S, Bers AE, Zhang H, Chiappori A, Gopal P, Abazeed ME, Chen H, Aladjem MI, Pommier Y, Velez MJ, Shames DS, Roper N",
+      "journal": "J Clin Invest"
     },
     {
-      "title": "Malhotra J, Chiappori A, Fujioka N, Hanna NH, Feldman LE, Patel M, Moore D, Chen C, Jabbour SK. Phase I/II trial of plinabulin in combination with nivolumab and ipilimumab in patients with recurrent small cell lung cancer (SCLC): Big ten cancer research consortium (BTCRC-LUN17-127) study. Lung Cancer",
+      "title": "Phase I/II trial of plinabulin in combination with nivolumab and ipilimumab in patients with recurrent small cell lung cancer (SCLC): Big ten cancer research consortium (BTCRC-LUN17-127) study",
       "pubmed_id": "39173229",
       "year": "2024",
-      "journal": "195:107932",
-      "authors": ""
+      "publication_date": "2024 Sep",
+      "authors": "Malhotra J, Chiappori A, Fujioka N, Hanna NH, Feldman LE, Patel M, Moore D, Chen C, Jabbour SK",
+      "journal": "Lung Cancer"
     },
     {
-      "title": "Ozakinci H, Alontaga AY, Cano P, Koomen JM, Perez BA, Beg AA, Chiappori AA, Haura EB, Boyle TA. Unveiling the Molecular Features of SCLC With a Clinical RNA Expression Panel. JTO Clin Res Rep",
+      "title": "Unveiling the Molecular Features of SCLC With a Clinical RNA Expression Panel",
       "pubmed_id": "39386315",
       "pmc_id": "PMC11459576",
       "year": "2024",
-      "journal": "5(11):100723",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Ozakinci H, Alontaga AY, Cano P, Koomen JM, Perez BA, Beg AA, Chiappori AA, Haura EB, Boyle TA",
+      "journal": "JTO Clin Res Rep"
     },
     {
-      "title": "Saltos AN, Creelan BC, Tanvetyanon T, Chiappori AA, Antonia SJ, Shafique MR, Ugrenovic-Petrovic M, Sansil S, Neuger A, Ozakinci H, Boyle TA, Kim J, Haura EB, Gray JE. A phase I/IB trial of binimetinib in combination with erlotinib in NSCLC harboring activating KRAS or EGFR mutations. Lung Cancer",
+      "title": "A phase I/IB trial of binimetinib in combination with erlotinib in NSCLC harboring activating KRAS or EGFR mutations",
       "pubmed_id": "37499521",
       "year": "2023",
-      "journal": "183:107313",
-      "authors": ""
+      "publication_date": "2023 Sep",
+      "authors": "Saltos AN, Creelan BC, Tanvetyanon T, Chiappori AA, Antonia SJ, Shafique MR, Ugrenovic-Petrovic M, Sansil S, Neuger A, Ozakinci H, Boyle TA, Kim J, Haura EB, Gray JE",
+      "journal": "Lung Cancer"
     },
     {
-      "title": "Gilardone S, Thapa R, Laborde J, Shafique M, Saltos A, Creelan B, Tanvetyanon T, Chiappori A, Simon G, Haura EB, Gray JE, Chen DT, Melzer D, Pellini B. Osimertinib vs. afatinib as first-line treatment for patients with metastatic non-small cell lung cancer with an EGFR exon 19 deletion or exon 21 L858R mutation. J Thorac Dis",
+      "title": "Osimertinib vs",
       "pubmed_id": "38090314",
       "pmc_id": "PMC10713299",
       "year": "2023",
-      "journal": "15(11):6115-6125",
-      "authors": ""
+      "publication_date": "2023 Nov",
+      "authors": "Gilardone S, Thapa R, Laborde J, Shafique M, Saltos A, Creelan B, Tanvetyanon T, Chiappori A, Simon G, Haura EB, Gray JE, Chen DT, Melzer D, Pellini B",
+      "journal": "afatinib as first-line treatment for patients with metastatic non-small cell lung cancer with an EGFR exon"
     },
     {
-      "title": "Liveringhouse CL, Latifi K, Asous AG, Lam NB, Rosenberg SA, Dilling TJ, MacMillan GV, Chiappori AA, Haura EB, Creelan B, Gray JE, Tanvetyanon T, Shafique MR, Saltos AN, Weiner AA, Clarke J, Kelsey CR, Kim S, Caudell JJ, Rose TA, Conejo-Garcia JR, Li J, Schell MJ, Antonia SJ, Perez BA. Dose-Limiting Pulmonary Toxicity in a Phase 1/2 Study of Radiation and Chemotherapy with Ipilimumab Followed by Nivolumab for Patients With Stage 3 Unresectable Non-Small Cell Lung Cancer. Int J Radiat Oncol Biol Phys",
+      "title": "Dose-Limiting Pulmonary Toxicity in a Phase 1/2 Study of Radiation and Chemotherapy with Ipilimumab Followed by Nivolumab for Patients With Stage 3 Unresectable Non-Small Cell Lung Cancer",
       "pubmed_id": "36657497",
       "year": "2023",
-      "journal": "116(4):837-848",
-      "authors": ""
+      "publication_date": "2023 Jul",
+      "authors": "Liveringhouse CL, Latifi K, Asous AG, Lam NB, Rosenberg SA, Dilling TJ, MacMillan GV, Chiappori AA, Haura EB, Creelan B, Gray JE, Tanvetyanon T, Shafique MR, Saltos AN, Weiner AA, Clarke J, Kelsey CR, Kim S, Caudell JJ, Rose TA, Conejo-Garcia JR, Li J, Schell MJ, Antonia SJ, Perez BA",
+      "journal": "Int J Radiat Oncol Biol Phys"
     },
     {
-      "title": "Aix SP, Ciuleanu TE, Navarro A, Cousin S, Bonanno L, Smit EF, Chiappori A, Olmedo ME, Horvath I, Groh\u00e9 C, Farago AF, L\u00f3pez-Vilari\u00f1o JA, Cullell-Young M, Nieto A, Vasco N, G\u00f3mez J, Kahatt C, Zeaiter A, Carcereny E, Roubec J, Syrigos K, Lo G, Barneto I, Pope A, S\u00e1nchez A, Kattan J, Zarogoulidis K, Waller CF, Bischoff H, Juan-Vidal O, Reinmuth N, D\u00f3mine M, Paz-Ares L. Combination lurbinectedin and doxorubicin versus physician's choice of chemotherapy in patients with relapsed small-cell lung cancer (ATLANTIS): a multicentre, randomised, open-label, phase 3 trial. Lancet Respir Med",
+      "title": "Combination lurbinectedin and doxorubicin versus physician's choice of chemotherapy in patients with relapsed small-cell lung cancer (ATLANTIS): a multicentre, randomised, open-label, phase 3 trial",
       "pubmed_id": "36252599",
       "year": "2023",
-      "journal": "11(1):74-86",
-      "authors": ""
+      "publication_date": "2023 Jan",
+      "authors": "Aix SP, Ciuleanu TE, Navarro A, Cousin S, Bonanno L, Smit EF, Chiappori A, Olmedo ME, Horvath I, Groh\u00e9 C, Farago AF, L\u00f3pez-Vilari\u00f1o JA, Cullell-Young M, Nieto A, Vasco N, G\u00f3mez J, Kahatt C, Zeaiter A, Carcereny E, Roubec J, Syrigos K, Lo G, Barneto I, Pope A, S\u00e1nchez A, Kattan J, Zarogoulidis K, Waller CF, Bischoff H, Juan-Vidal O, Reinmuth N, D\u00f3mine M, Paz-Ares L",
+      "journal": "Lancet Respir Med"
     },
     {
-      "title": "Marin-Acevedo JA, Pellini B, Kimbrough EO, Hicks JK, Chiappori A. Treatment Strategies for Non-Small Cell Lung Cancer with Common EGFR Mutations: A Review of the History of EGFR TKIs Approval and Emerging Data. Cancers (Basel)",
+      "title": "Treatment Strategies for Non-Small Cell Lung Cancer with Common EGFR Mutations: A Review of the History of EGFR TKIs Approval and Emerging Data",
       "pubmed_id": "36765587",
       "pmc_id": "PMC9913773",
       "year": "2023",
-      "journal": "15(3)",
-      "authors": ""
+      "publication_date": "2023 Jan",
+      "authors": "Marin-Acevedo JA, Pellini B, Kimbrough EO, Hicks JK, Chiappori A",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Dudek AZ, Xi MX, Scilla KA, Mamdani H, Creelan BC, Saltos A, Tanvetyanon T, Chiappori A. Phase 2 Trial of Nivolumab and Ramucirumab for Relapsed Mesothelioma: HCRN-LUN15-299. JTO Clin Res Rep",
+      "title": "Phase 2 Trial of Nivolumab and Ramucirumab for Relapsed Mesothelioma: HCRN-LUN15-299",
       "pubmed_id": "38046376",
       "pmc_id": "PMC10689266",
       "year": "2023",
-      "journal": "4(12):100584",
-      "authors": ""
+      "publication_date": "2023 Dec",
+      "authors": "Dudek AZ, Xi MX, Scilla KA, Mamdani H, Creelan BC, Saltos A, Tanvetyanon T, Chiappori A",
+      "journal": "JTO Clin Res Rep"
     },
     {
-      "title": "Chen DT, Saltos AN, Rose T, Thompson ZJ, Thapa R, Chiappori A, Gray JE. Early Adverse Event Derived Biomarkers in Predicting Clinical Outcomes in Patients with Advanced Non-Small Cell Lung Cancer Treated with Immunotherapy. Cancers (Basel)",
+      "title": "Early Adverse Event Derived Biomarkers in Predicting Clinical Outcomes in Patients with Advanced Non-Small Cell Lung Cancer Treated with Immunotherapy",
       "pubmed_id": "37173987",
       "pmc_id": "PMC10177532",
       "year": "2023",
-      "journal": "15(9)",
-      "authors": ""
+      "publication_date": "2023 Apr",
+      "authors": "Chen DT, Saltos AN, Rose T, Thompson ZJ, Thapa R, Chiappori A, Gray JE",
+      "journal": "Cancers (Basel)"
     }
   ],
   "grants": [],
@@ -123,7 +133,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=422"
   },
-  "content_hash": "9be75e6dd4c27f78885a21aa5f91ca060bcd53259588f9980e31184f8de304a9",
+  "content_hash": "21759a75103f4d8b4adf3a0664966f727a07f13f5fa5fcc87d5d028c69884279",
   "researcher_name": "Alberto Chiappori",
   "department": "Tumor Microenvironment and Metastasis"
 }

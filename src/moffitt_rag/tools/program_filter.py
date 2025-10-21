@@ -6,7 +6,6 @@ This module implements a tool for filtering researchers by their research progra
 
 import os
 import json
-import logging
 from typing import List, Dict, Any, Optional, Set
 
 from langchain.tools import BaseTool
@@ -14,10 +13,10 @@ from langchain.tools import BaseTool
 from ..db.vector_store import get_or_create_vector_db
 from ..data.loader import load_all_researcher_profiles
 from ..config.config import get_settings
+from ..utils.logging import get_logger, log_tool_event
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Get logger for this module
+logger = get_logger(__name__)
 
 
 class ProgramFilterTool(BaseTool):

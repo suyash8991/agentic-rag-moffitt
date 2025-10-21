@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/james-liu",
-  "last_updated": "2025-10-19T00:29:56.412549",
+  "last_updated": "2025-10-21T16:38:58.299971",
   "researcher_id": "19911",
   "degrees": [
     "MD"
@@ -42,93 +42,111 @@
   ],
   "publications": [
     {
-      "title": "Bilenkin A, Barnes A, Brisco A, Whiting J, Tran ND, Beer-Furlan A, Vogelbaum MA, Liu JKC. Comparison of open and percutaneous instrumented fixation for the treatment of spinal metastases. Neurosurg Focus",
+      "title": "Comparison of open and percutaneous instrumented fixation for the treatment of spinal metastases",
       "pubmed_id": "40311210",
       "year": "2025",
-      "journal": "58(5):E12",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Bilenkin A, Barnes A, Brisco A, Whiting J, Tran ND, Beer-Furlan A, Vogelbaum MA, Liu JKC",
+      "journal": "Neurosurg Focus"
     },
     {
-      "title": "Ugolini A, De Leo A, Yu X, Scirocchi F, Liu X, Peixoto B, Scocozza D, Pace A, Perego M, Gardini A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F. Functional Reprogramming of Neutrophils within the Brain Tumor Microenvironment by Hypoxia-Driven Histone Lactylation. Cancer Discov",
+      "title": "Functional Reprogramming of Neutrophils within the Brain Tumor Microenvironment by Hypoxia-Driven Histone Lactylation",
       "pubmed_id": "40014923",
       "pmc_id": "PMC12133432",
       "year": "2025",
-      "journal": "15(6):1270-1296",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Ugolini A, De Leo A, Yu X, Scirocchi F, Liu X, Peixoto B, Scocozza D, Pace A, Perego M, Gardini A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F",
+      "journal": "Cancer Discov"
     },
     {
-      "title": "Chafe SC, Zhai K, Aghaei N, Miletic P, Huang Z, Brown KR, Mobilio D, Young D, Suk Y, Grewal S, McKenna D, Alizada Z, Kieliszek AM, Lam FC, Escudero L, Huang Q, Huebner A, Lu J, Ang P, Anand A, Custers S, Apel E, Slassi S, Brakel B, Kim J, Liu JKC, Bassey-Archibong BI, Abdo R, Shargall Y, Lu JQ, Cutz JC, Zhang Q, Li SS, Venugopal C, Hynds RE, Dufour A, Moffat J, Swanton C, Bao S, Singh SK. A genome-wide in vivo CRISPR activation screen identifies BACE1 as a therapeutic vulnerability of lung cancer brain metastasis. Sci Transl Med",
+      "title": "A genome-wide in vivo CRISPR activation screen identifies BACE1 as a therapeutic vulnerability of lung cancer brain metastasis",
       "pubmed_id": "40601773",
       "pmc_id": "PMC7617989",
       "year": "2025",
-      "journal": "17(805):eadu2459",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Chafe SC, Zhai K, Aghaei N, Miletic P, Huang Z, Brown KR, Mobilio D, Young D, Suk Y, Grewal S, McKenna D, Alizada Z, Kieliszek AM, Lam FC, Escudero L, Huang Q, Huebner A, Lu J, Ang P, Anand A, Custers S, Apel E, Slassi S, Brakel B, Kim J, Liu JKC, Bassey-Archibong BI, Abdo R, Shargall Y, Lu JQ, Cutz JC, Zhang Q, Li SS, Venugopal C, Hynds RE, Dufour A, Moffat J, Swanton C, Bao S, Singh SK",
+      "journal": "Sci Transl Med"
     },
     {
-      "title": "De Leo A, Ugolini A, Yu X, Scirocchi F, Scocozza D, Peixoto B, Pace A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F. Glucose-driven histone lactylation promotes the immunosuppressive activity of monocyte-derived macrophages in glioblastoma. Immunity",
+      "title": "Glucose-driven histone lactylation promotes the immunosuppressive activity of monocyte-derived macrophages in glioblastoma",
       "pubmed_id": "38703775",
       "pmc_id": "PMC11114377",
       "year": "2024",
-      "journal": "57(5):1105-1123",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "De Leo A, Ugolini A, Yu X, Scirocchi F, Scocozza D, Peixoto B, Pace A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F",
+      "journal": "Immunity"
     },
     {
-      "title": "Demetriou AN, Chow F, Craig DW, Webb MG, Ormond DR, Battiste J, Chakravarti A, Colman H, Villano JL, Schneider BP, Liu JKC, Churchman ML, Zada G. Profiling the molecular and clinical landscape of glioblastoma utilizing the Oncology Research Information Exchange Network brain cancer database. Neurooncol Adv",
+      "title": "Profiling the molecular and clinical landscape of glioblastoma utilizing the Oncology Research Information Exchange Network brain cancer database",
       "pubmed_id": "38665799",
       "pmc_id": "PMC11044707",
       "year": "2024",
-      "journal": "6(1):vdae046",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Demetriou AN, Chow F, Craig DW, Webb MG, Ormond DR, Battiste J, Chakravarti A, Colman H, Villano JL, Schneider BP, Liu JKC, Churchman ML, Zada G",
+      "journal": "Neurooncol Adv"
     },
     {
-      "title": "Tang JD, Mills MN, Nakashima J, Dohm AE, Khushalani NI, Forsyth PA, Vogelbaum MA, Wuthrick EJ, Yu HM, Oliver DE, Liu JKC, Ahmed KA. Clinical outcomes of melanoma brain metastases treated with nivolumab and ipilimumab alone versus nivolumab and ipilimumab with stereotactic radiosurgery. J Neurooncol",
+      "title": "Clinical outcomes of melanoma brain metastases treated with nivolumab and ipilimumab alone versus nivolumab and ipilimumab with stereotactic radiosurgery",
       "pubmed_id": "38310157",
       "year": "2024",
-      "journal": "166(3):431-440",
-      "authors": ""
+      "publication_date": "2024 Feb",
+      "authors": "Tang JD, Mills MN, Nakashima J, Dohm AE, Khushalani NI, Forsyth PA, Vogelbaum MA, Wuthrick EJ, Yu HM, Oliver DE, Liu JKC, Ahmed KA",
+      "journal": "J Neurooncol"
     },
     {
-      "title": "Huang Q, Liu L, Xiao D, Huang Z, Wang W, Zhai K, Fang X, Kim J, Liu J, Liang W, He J, Bao S. CD44+ lung cancer stem cell-derived pericyte-like cells cause brain metastases through GPR124-enhanced trans-endothelial migration. Cancer Cell",
+      "title": "CD44+ lung cancer stem cell-derived pericyte-like cells cause brain metastases through GPR124-enhanced trans-endothelial migration",
       "pubmed_id": "37595587",
       "year": "2023",
-      "journal": "41(9):1621-1636",
-      "authors": ""
+      "publication_date": "2023 Sep",
+      "authors": "Huang Q, Liu L, Xiao D, Huang Z, Wang W, Zhai K, Fang X, Kim J, Liu J, Liang W, He J, Bao S",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Dohm AE, Nakashima JY, Kalagotla H, Jiang SX, Tang JD, Bhandari M, Kim Y, Graham JA, Khushalani NI, Forsyth PA, Etame AB, Liu JK, Tran ND, Vogelbaum MA, Wuthrick EJ, Yu HM, Oliver DE, Ahmed KA. Stereotactic radiosurgery and anti-PD-1 + CTLA-4 therapy, anti-PD-1 therapy, anti-CTLA-4 therapy, BRAF/MEK inhibitors, BRAF inhibitors, or conventional chemotherapy for the management of melanoma brain metastases. Eur J Cancer",
+      "title": "Stereotactic radiosurgery and anti-PD-1 + CTLA-4 therapy, anti-PD-1 therapy, anti-CTLA-4 therapy, BRAF/MEK inhibitors, BRAF inhibitors, or conventional chemotherapy for the management of melanoma brain metastases",
       "pubmed_id": "37657227",
       "year": "2023",
-      "journal": "192:113287",
-      "authors": ""
+      "publication_date": "2023 Oct",
+      "authors": "Dohm AE, Nakashima JY, Kalagotla H, Jiang SX, Tang JD, Bhandari M, Kim Y, Graham JA, Khushalani NI, Forsyth PA, Etame AB, Liu JK, Tran ND, Vogelbaum MA, Wuthrick EJ, Yu HM, Oliver DE, Ahmed KA",
+      "journal": "Eur J Cancer"
     },
     {
-      "title": "Potez M, Snedal S, She C, Kim J, Thorner K, Tran TH, Ramello MC, Abate-Daga D, Liu JKC. Use of phage display biopanning as a tool to design CAR-T cells against glioma stem cells. Front Oncol",
+      "title": "Use of phage display biopanning as a tool to design CAR-T cells against glioma stem cells",
       "pubmed_id": "37035164",
       "pmc_id": "PMC10080078",
       "year": "2023",
-      "journal": "13:1124272",
-      "authors": ""
+      "publication_date": "2023 Mar",
+      "authors": "Potez M, Snedal S, She C, Kim J, Thorner K, Tran TH, Ramello MC, Abate-Daga D, Liu JKC",
+      "journal": "Front Oncol"
     },
     {
-      "title": "Lynes J, Khan I, Aguilera C, Rubino S, Thompson Z, Etame AB, Liu JKC, Beer-Furlan A, Tran ND, Macaulay RJB, Vogelbaum MA. Development of a \"Geo-Tagged\" tumor sample registry: intra-operative linkage of sample location to imaging. J Neurooncol",
+      "title": "Development of a \"Geo-Tagged\" tumor sample registry: intra-operative linkage of sample location to imaging",
       "pubmed_id": "38015375",
       "year": "2023",
-      "journal": "165(3):449-458",
-      "authors": ""
+      "publication_date": "2023 Dec",
+      "authors": "Lynes J, Khan I, Aguilera C, Rubino S, Thompson Z, Etame AB, Liu JKC, Beer-Furlan A, Tran ND, Macaulay RJB, Vogelbaum MA",
+      "journal": "J Neurooncol"
     }
   ],
   "grants": [
     {
       "description": "Title: Radiomic spatial maps for identifying viable tumor extent on multi-parametric MRI for Glioblastoma   \nAward Number: 1R01CA277728-01A1  \nSponsor: National Institutes of Health (NIH)  \nLiu, J. (PD/PI)",
+      "title": "Radiomic spatial maps for identifying viable tumor extent on multi-parametric MRI for Glioblastoma",
+      "award_number": "1R01CA277728-01A1",
+      "sponsor": "National Institutes of Health (NIH)",
       "source": "NIH",
-      "period": "7728-01"
+      "investigators": [
+        {
+          "name": "Liu, J.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LiuJames_19911.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19911"
   },
-  "content_hash": "5b49c394db4b159b8973cc607fdccf6bd51093c8e3eef41e949bef89ac88a6b8",
+  "content_hash": "56eca9a7c860ce1f7f62dc465e04428d8815bb911cba688f50c3fa95ec1ca3bf",
   "researcher_name": "James Liu",
   "department": "Tumor Microenvironment and Metastasis"
 }

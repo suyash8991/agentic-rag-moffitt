@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/mokenge-malafa",
-  "last_updated": "2025-10-19T00:28:18.385472",
+  "last_updated": "2025-10-21T16:37:23.311772",
   "researcher_id": "2725",
   "degrees": [
     "MD"
@@ -47,91 +47,119 @@
   ],
   "publications": [
     {
-      "title": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev",
+      "title": "The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma",
       "pubmed_id": "40553455",
       "year": "2025",
-      "journal": "34(9):1609-1617",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
-      "title": "Yu J, Laborde JM, Park R, Shahzad M, Kim Y, Cheon J, Imanirad I, Kim RD, Biachi de Castria T, Nardella NL, Malafa M, Denbo JW, Fleming JB, Hoffe SE, Frakes JM, Sinnamon AJ, Pimiento JM, Hodul PJ, Kim DW. Association of Pathologic Response and Adjuvant Chemotherapy with Survival in Resected Pancreatic Ductal Adenocarcinoma Following Neoadjuvant Therapy. Cancers (Basel)",
+      "title": "Association of Pathologic Response and Adjuvant Chemotherapy with Survival in Resected Pancreatic Ductal Adenocarcinoma Following Neoadjuvant Therapy",
       "pubmed_id": "40507279",
       "pmc_id": "PMC12153592",
       "year": "2025",
-      "journal": "17(11)",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Yu J, Laborde JM, Park R, Shahzad M, Kim Y, Cheon J, Imanirad I, Kim RD, Biachi de Castria T, Nardella NL, Malafa M, Denbo JW, Fleming JB, Hoffe SE, Frakes JM, Sinnamon AJ, Pimiento JM, Hodul PJ, Kim DW",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq",
+      "title": "Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma",
       "pubmed_id": "39989973",
       "pmc_id": "PMC11844656",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A",
+      "journal": "Res Sq"
     },
     {
-      "title": "Bhatia R, Khan I, Li X, Gautam S, Seshacharyulu P, Alsafwani ZW, Bhyravbhatla N, Ponnusamy MP, Jain M, Malafa M, Bindu S, Gulzar A, Nair H, Batra SK, Kumar S. Targeting cancer-associated fibroblast-driven LIF/LIFR axis improves the therapeutic efficacy of gemcitabine and nab-paclitaxel in pancreatic cancer. NPJ Precis Oncol",
+      "title": "Targeting cancer-associated fibroblast-driven LIF/LIFR axis improves the therapeutic efficacy of gemcitabine and nab-paclitaxel in pancreatic cancer",
       "pubmed_id": "40846751",
       "pmc_id": "PMC12373761",
       "year": "2025",
-      "journal": "9(1):296",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Bhatia R, Khan I, Li X, Gautam S, Seshacharyulu P, Alsafwani ZW, Bhyravbhatla N, Ponnusamy MP, Jain M, Malafa M, Bindu S, Gulzar A, Nair H, Batra SK, Kumar S",
+      "journal": "NPJ Precis Oncol"
     },
     {
-      "title": "Bryant JM, Nakashima J, Khatri V, Malafa M, Frakes J, Hoffe S. To irradiate or electroporate: how should we ablate pancreatic cancer?. Transl Gastroenterol Hepatol",
+      "title": "To irradiate or electroporate: how should we ablate pancreatic cancer?",
       "pubmed_id": "40337766",
       "pmc_id": "PMC12056099",
       "year": "2025",
-      "journal": "10:19",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Bryant JM, Nakashima J, Khatri V, Malafa M, Frakes J, Hoffe S",
+      "journal": "Transl Gastroenterol Hepatol"
     },
     {
-      "title": "Rauth S, Malafa M, Ponnusamy MP, Batra SK. Emerging Trends in Gastrointestinal Cancer Targeted Therapies: Harnessing Tumor Microenvironment, Immune Factors, and Metabolomics Insights. Gastroenterology",
+      "title": "Emerging Trends in Gastrointestinal Cancer Targeted Therapies: Harnessing Tumor Microenvironment, Immune Factors, and Metabolomics Insights",
       "pubmed_id": "38759843",
       "year": "2024",
-      "journal": "167(5):867-884",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Rauth S, Malafa M, Ponnusamy MP, Batra SK",
+      "journal": "Gastroenterology"
     },
     {
-      "title": "Rodriguez VI, Mammadova J, Permuth JB, Luthra A, Pena L, Friedman M, Dam A, Cappelle S, Malafa MP, Hallmon C, Miranda C, Mok SRS. Elevated Urinary Levels of Fungal and Environmental Toxins in Patients with Pancreatic Ductal Adenocarcinoma. J Gastrointest Cancer",
+      "title": "Elevated Urinary Levels of Fungal and Environmental Toxins in Patients with Pancreatic Ductal Adenocarcinoma",
       "pubmed_id": "39419859",
       "pmc_id": "PMC11486816",
       "year": "2024",
-      "journal": "56(1):4",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Rodriguez VI, Mammadova J, Permuth JB, Luthra A, Pena L, Friedman M, Dam A, Cappelle S, Malafa MP, Hallmon C, Miranda C, Mok SRS",
+      "journal": "J Gastrointest Cancer"
     },
     {
-      "title": "Bryant JM, Nakashima J, Khatri VM, Sinnamon AJ, Denbo JW, Hodul P, Malafa M, Hoffe S, Frakes JM. The Evolving Role of Neoadjuvant Radiation Therapy in Pancreatic Adenocarcinoma. J Clin Med",
+      "title": "The Evolving Role of Neoadjuvant Radiation Therapy in Pancreatic Adenocarcinoma",
       "pubmed_id": "39597944",
       "pmc_id": "PMC11594810",
       "year": "2024",
-      "journal": "13(22)",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Bryant JM, Nakashima J, Khatri VM, Sinnamon AJ, Denbo JW, Hodul P, Malafa M, Hoffe S, Frakes JM",
+      "journal": "J Clin Med"
     },
     {
-      "title": "Li Y, Lauriola M, Kim D, Francesconi M, D'Uva G, Shibata D, Malafa MP, Yeatman TJ, Coppola D, Solmi R, Cheng JQ. Editorial Expression of Concern: Adenomatous polyposis coli (APC) regulates miR17-92 cluster through \u03b2-catenin pathway in colorectal cancer. Oncogene",
+      "title": "Editorial Expression of Concern: Adenomatous polyposis coli (APC) regulates miR17-92 cluster through \u03b2-catenin pathway in colorectal cancer",
       "pubmed_id": "38378921",
       "year": "2024",
-      "journal": "43(11):837",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Li Y, Lauriola M, Kim D, Francesconi M, D'Uva G, Shibata D, Malafa MP, Yeatman TJ, Coppola D, Solmi R, Cheng JQ",
+      "journal": "Oncogene"
     },
     {
-      "title": "Hoffe SE, Aguilera TA, Parikh PJ, Ghaly MM, Herman JM, Caster JM, Kim DW, Costello J, Malafa MP, Moser EC, Kennedy EP, Terry K, Kurman M. Stereotactic body radiotherapy plus rucosopasem in locally advanced or borderline resectable pancreatic cancer: GRECO-2 phase II study design. Future Oncol",
+      "title": "Stereotactic body radiotherapy plus rucosopasem in locally advanced or borderline resectable pancreatic cancer: GRECO-2 phase II study design",
       "pubmed_id": "38264869",
       "pmc_id": "PMC10988540",
       "year": "2024",
-      "journal": "20(8):437-446",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Hoffe SE, Aguilera TA, Parikh PJ, Ghaly MM, Herman JM, Caster JM, Kim DW, Costello J, Malafa MP, Moser EC, Kennedy EP, Terry K, Kurman M",
+      "journal": "Future Oncol"
     }
   ],
   "grants": [
     {
       "description": "Title: Novel Therapy to Inhibit IPMN Progression  \nAward Number: 5R01CA263575-03  \nSponsor: National Cancer Institute (NCI)  \nMalafa, M. (PD/PI)",
+      "title": "Novel Therapy to Inhibit IPMN Progression",
+      "award_number": "5R01CA263575-03",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "3575-03"
+      "investigators": [
+        {
+          "name": "Malafa, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Evaluating Obesity-Mediated Mechanisms of Pancreatic Carcinogenesis in Minority Populations  \nAward Number: W81XWH-22-1-1022  \nSponsor: Department of Defense (DOD)  \nMalafa, M. (PD/PI)",
-      "source": "DOD"
+      "title": "Evaluating Obesity-Mediated Mechanisms of Pancreatic Carcinogenesis in Minority Populations",
+      "award_number": "W81XWH-22-1-1022",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Malafa, M.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": ""
@@ -141,7 +169,7 @@
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2725"
   },
-  "content_hash": "a64fea7eb6d0232c804c693dd4a3e8d4987572c99570931115b6d4c3a9fee7d3",
+  "content_hash": "9e225c77aea1bd140e398815e70d9cb13b89b95251620eb0043181dd5eadddc1",
   "researcher_name": "Mokenge Malafa",
   "department": "Drug Discovery"
 }

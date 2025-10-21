@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/martina-molgora",
-  "last_updated": "2025-10-19T00:31:09.482159",
+  "last_updated": "2025-10-21T16:40:19.255129",
   "researcher_id": "39484",
   "degrees": [
     "PhD"
@@ -20,91 +20,109 @@
   "education": [],
   "publications": [
     {
-      "title": "Molgora M, Colonna M. Targeting brain macrophages: NF-\u03baB as a therapeutic gateway in melanoma brain metastasis. Cancer Cell",
+      "title": "Targeting brain macrophages: NF-\u03baB as a therapeutic gateway in melanoma brain metastasis",
       "pubmed_id": "40068588",
       "year": "2025",
-      "journal": "43(3):328-329",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Molgora M, Colonna M",
+      "journal": "Cancer Cell"
     },
     {
-      "title": "Biniaris-Georgallis SI, Aschman T, Stergioula K, Schreiber F, Jafari V, Taranko A, Karmalkar T, Kasapi A, Lenac Rovis T, Jelencic V, Bejarano DA, Fabry L, Papacharalampous M, Mattiola I, Molgora M, Hou J, Hublitz KW, Heinrich F, Guerra GM, Durek P, Patone G, Lindberg EL, Maatz H, H\u00f6lsken O, Kr\u00f6nke G, Mortha A, Voll RE, Clarke AJ, Hauser AE, Colonna M, Thurley K, Schlitzer A, Schneider C, Stamatiades EG, Mashreghi MF, Jonjic S, H\u00fcbner N, Diefenbach A, Kanda M, Triantafyllopoulou A. Amplification of autoimmune organ damage by NKp46-activated ILC1s. Nature",
+      "title": "Amplification of autoimmune organ damage by NKp46-activated ILC1s",
       "pubmed_id": "39137897",
       "year": "2024",
-      "journal": "634(8035):952-960",
-      "authors": ""
+      "publication_date": "2024 Oct",
+      "authors": "Biniaris-Georgallis SI, Aschman T, Stergioula K, Schreiber F, Jafari V, Taranko A, Karmalkar T, Kasapi A, Lenac Rovis T, Jelencic V, Bejarano DA, Fabry L, Papacharalampous M, Mattiola I, Molgora M, Hou J, Hublitz KW, Heinrich F, Guerra GM, Durek P, Patone G, Lindberg EL, Maatz H, H\u00f6lsken O, Kr\u00f6nke G, Mortha A, Voll RE, Clarke AJ, Hauser AE, Colonna M, Thurley K, Schlitzer A, Schneider C, Stamatiades EG, Mashreghi MF, Jonjic S, H\u00fcbner N, Diefenbach A, Kanda M, Triantafyllopoulou A",
+      "journal": "Nature"
     },
     {
-      "title": "Keshari S, Shavkunov AS, Miao Q, Saha A, Minowa T, Molgora M, Williams CD, Chaib M, Highsmith AM, Pineda JE, Alekseev S, Alspach E, Hu KH, Colonna M, Pauken KE, Chen K, Gubin MM. Comparing neoantigen cancer vaccines and immune checkpoint therapy unveils an effective vaccine and anti-TREM2 macrophage-targeting dual therapy. Cell Rep",
+      "title": "Comparing neoantigen cancer vaccines and immune checkpoint therapy unveils an effective vaccine and anti-TREM2 macrophage-targeting dual therapy",
       "pubmed_id": "39446585",
       "year": "2024",
-      "journal": "43(11):114875",
-      "authors": ""
+      "publication_date": "2024 Nov",
+      "authors": "Keshari S, Shavkunov AS, Miao Q, Saha A, Minowa T, Molgora M, Williams CD, Chaib M, Highsmith AM, Pineda JE, Alekseev S, Alspach E, Hu KH, Colonna M, Pauken KE, Chen K, Gubin MM",
+      "journal": "Cell Rep"
     },
     {
-      "title": "Di Luccia B, Molgora M, Khantakova D, Jaeger N, Chang HW, Czepielewski RS, Helmink BA, Onufer EJ, Fachi JL, Bhattarai B, Trsan T, Rodrigues PF, Hou J, Bando JK, da Silva CS, Cella M, Gilfillan S, Schreiber RD, Gordon JI, Colonna M. TREM2 deficiency reprograms intestinal macrophages and microbiota to enhance anti-PD-1 tumor immunotherapy. Sci Immunol",
+      "title": "TREM2 deficiency reprograms intestinal macrophages and microbiota to enhance anti-PD-1 tumor immunotherapy",
       "pubmed_id": "38758808",
       "pmc_id": "PMC11299520",
       "year": "2024",
-      "journal": "9(95):eadi5374",
-      "authors": ""
+      "publication_date": "2024 May",
+      "authors": "Di Luccia B, Molgora M, Khantakova D, Jaeger N, Chang HW, Czepielewski RS, Helmink BA, Onufer EJ, Fachi JL, Bhattarai B, Trsan T, Rodrigues PF, Hou J, Bando JK, da Silva CS, Cella M, Gilfillan S, Schreiber RD, Gordon JI, Colonna M",
+      "journal": "Sci Immunol"
     },
     {
-      "title": "Peng V, Trsan T, Sudan R, Bhattarai B, Cortez VS, Molgora M, Vacher J, Colonna M. Inositol phosphatase INPP4B sustains ILC1s and intratumoral NK cells through an AKT-driven pathway. J Exp Med",
+      "title": "Inositol phosphatase INPP4B sustains ILC1s and intratumoral NK cells through an AKT-driven pathway",
       "pubmed_id": "38197946",
       "pmc_id": "PMC10783437",
       "year": "2024",
-      "journal": "221(3)",
-      "authors": ""
+      "publication_date": "2024 Mar",
+      "authors": "Peng V, Trsan T, Sudan R, Bhattarai B, Cortez VS, Molgora M, Vacher J, Colonna M",
+      "journal": "J Exp Med"
     },
     {
-      "title": "Timperi E, Croizer H, Khantakova D, Rana M, Molgora M, Guerriero JL, Mechta-Grigoriou F, Romano E. At the Interface of Tumor-Associated Macrophages and Fibroblasts: Immune-Suppressive Networks and Emerging Exploitable Targets. Clin Cancer Res",
+      "title": "At the Interface of Tumor-Associated Macrophages and Fibroblasts: Immune-Suppressive Networks and Emerging Exploitable Targets",
       "pubmed_id": "39311702",
       "year": "2024",
-      "journal": "30(23):5242-5251",
-      "authors": ""
+      "publication_date": "2024 Dec",
+      "authors": "Timperi E, Croizer H, Khantakova D, Rana M, Molgora M, Guerriero JL, Mechta-Grigoriou F, Romano E",
+      "journal": "Clin Cancer Res"
     },
     {
-      "title": "Park MD, Reyes-Torres I, LeBerichel J, Hamon P, LaMarche NM, Hegde S, Belabed M, Troncoso L, Grout JA, Magen A, Humblin E, Nair A, Molgora M, Hou J, Newman JH, Farkas AM, Leader AM, Dawson T, D'Souza D, Hamel S, Sanchez-Paulete AR, Maier B, Bhardwaj N, Martin JC, Kamphorst AO, Kenigsberg E, Casanova-Acebes M, Horowitz A, Brown BD, De Andrade LF, Colonna M, Marron TU, Merad M. TREM2 macrophages drive NK cell paucity and dysfunction in lung cancer. Nat Immunol",
+      "title": "TREM2 macrophages drive NK cell paucity and dysfunction in lung cancer",
       "pubmed_id": "37081148",
       "pmc_id": "PMC11088947",
       "year": "2023",
-      "journal": "24(5):792-801",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Park MD, Reyes-Torres I, LeBerichel J, Hamon P, LaMarche NM, Hegde S, Belabed M, Troncoso L, Grout JA, Magen A, Humblin E, Nair A, Molgora M, Hou J, Newman JH, Farkas AM, Leader AM, Dawson T, D'Souza D, Hamel S, Sanchez-Paulete AR, Maier B, Bhardwaj N, Martin JC, Kamphorst AO, Kenigsberg E, Casanova-Acebes M, Horowitz A, Brown BD, De Andrade LF, Colonna M, Marron TU, Merad M",
+      "journal": "Nat Immunol"
     },
     {
-      "title": "Molgora M, Liu YA, Colonna M, Cella M. TREM2: A new player in the tumor microenvironment. Semin Immunol",
+      "title": "TREM2: A new player in the tumor microenvironment",
       "pubmed_id": "36989543",
       "year": "2023",
-      "journal": "67:101739",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Molgora M, Liu YA, Colonna M, Cella M",
+      "journal": "Semin Immunol"
     },
     {
-      "title": "Brioschi S, Belk JA, Peng V, Molgora M, Rodrigues PF, Nguyen KM, Wang S, Du S, Wang WL, Grajales-Reyes GE, Ponce JM, Yuede CM, Li Q, Baer JM, DeNardo DG, Gilfillan S, Cella M, Satpathy AT, Colonna M. A Cre-deleter specific for embryo-derived brain macrophages reveals distinct features of microglia and border macrophages. Immunity",
+      "title": "A Cre-deleter specific for embryo-derived brain macrophages reveals distinct features of microglia and border macrophages",
       "pubmed_id": "36791722",
       "pmc_id": "PMC10175109",
       "year": "2023",
-      "journal": "56(5):1027-1045",
-      "authors": ""
+      "publication_date": "2023 May",
+      "authors": "Brioschi S, Belk JA, Peng V, Molgora M, Rodrigues PF, Nguyen KM, Wang S, Du S, Wang WL, Grajales-Reyes GE, Ponce JM, Yuede CM, Li Q, Baer JM, DeNardo DG, Gilfillan S, Cella M, Satpathy AT, Colonna M",
+      "journal": "Immunity"
     },
     {
-      "title": "Timperi E, Gueguen P, Molgora M, Magagna I, Kieffer Y, Lopez-Lastra S, Sirven P, Baudrin LG, Baulande S, Nicolas A, Champenois G, Meseure D, Vincent-Salomon A, Tardivon A, Laas E, Soumelis V, Colonna M, Mechta-Grigoriou F, Amigorena S, Romano E. Lipid-Associated Macrophages Are Induced by Cancer-Associated Fibroblasts and Mediate Immune Suppression in Breast Cancer. Cancer Res",
+      "title": "Lipid-Associated Macrophages Are Induced by Cancer-Associated Fibroblasts and Mediate Immune Suppression in Breast Cancer",
       "pubmed_id": "35862581",
       "year": "2022",
-      "journal": "82(18):3291-3306",
-      "authors": ""
+      "publication_date": "2022 Sep",
+      "authors": "Timperi E, Gueguen P, Molgora M, Magagna I, Kieffer Y, Lopez-Lastra S, Sirven P, Baudrin LG, Baulande S, Nicolas A, Champenois G, Meseure D, Vincent-Salomon A, Tardivon A, Laas E, Soumelis V, Colonna M, Mechta-Grigoriou F, Amigorena S, Romano E",
+      "journal": "Cancer Res"
     }
   ],
   "grants": [
     {
       "description": "Title: IMPACT OF TREM2 ON GASTRIC CANCER  \nAward Number: AGA2023-13-06  \nSponsor: American Gastroenterological Association (AGA)  \nMolgora, M. (PD/PI)",
-      "period": "2023-13"
+      "title": "IMPACT OF TREM2 ON GASTRIC CANCER",
+      "award_number": "AGA2023-13-06",
+      "sponsor": "American Gastroenterological Association (AGA)",
+      "investigators": [
+        {
+          "name": "Molgora, M.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MolgoraMartina_39484.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=39484"
   },
-  "content_hash": "c4845e290aed3a2465dc2d802a6fad5e5aff6e713c97f5c9e092afd1d1a4fb6a",
+  "content_hash": "22334558fcbfedd138dbf573de357a080b417bbf48eaa1163887a2f351f4d923",
   "researcher_name": "Martina Molgora",
   "department": "Immunology"
 }

@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/michael-dunne",
-  "last_updated": "2025-10-19T00:30:03.081286",
+  "last_updated": "2025-10-21T16:39:08.005279",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
@@ -32,12 +32,21 @@
   "grants": [
     {
       "description": "Title: Soft Materials to Harness the Immune System for Targeted Drug Delivery  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nDunne, M. (PD/PI)",
-      "source": "American Cancer Society"
+      "title": "Soft Materials to Harness the Immune System for Targeted Drug Delivery",
+      "award_number": "",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Dunne, M.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DunneMichael_37746.jpg",
   "contact": {},
-  "content_hash": "f9075b3c1d2a10b01ced18c2960329e85d9ca078ec6575d058cf9078ced262a0",
+  "content_hash": "aa8837e05c89d7b5d98f104ae40aaa55f74b30a560367d5a7b483ade73aaaaf2",
   "researcher_name": "Michael Dunne",
   "department": "Immunology"
 }

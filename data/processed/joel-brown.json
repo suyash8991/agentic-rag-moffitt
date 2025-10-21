@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/joel-brown",
-  "last_updated": "2025-10-19T00:24:50.472321",
+  "last_updated": "2025-10-21T16:33:53.375279",
   "researcher_id": "18108",
   "degrees": [
     "PhD"
@@ -27,101 +27,170 @@
   ],
   "publications": [
     {
-      "title": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys",
+      "title": "Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer",
       "pubmed_id": "40998270",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Sep",
+      "authors": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C",
+      "journal": "Int J Radiat Oncol Biol Phys"
     },
     {
-      "title": "Gatenby RA, Teer JK, Tsai KY, Brown JS. Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas. Commun Biol",
+      "title": "Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas",
       "pubmed_id": "40399443",
       "pmc_id": "PMC12095661",
       "year": "2025",
-      "journal": "8(1):775",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Gatenby RA, Teer JK, Tsai KY, Brown JS",
+      "journal": "Commun Biol"
     },
     {
-      "title": "Hosny N, Shen K, Zhao Y, Qu J, Sun Y, Butler G, Amend S, Hammarlund EU, Gatenby R, Brown J, Pienta KJ, Phan TV, Boyer-Paulet S, Li S, Austin RH. Phosphorescence-based sensing reveals size-dependent survival and motility of metastatic prostate cancer cells in self-generated hypoxia. iScience",
+      "title": "Phosphorescence-based sensing reveals size-dependent survival and motility of metastatic prostate cancer cells in self-generated hypoxia",
       "pubmed_id": "40475852",
       "pmc_id": "PMC12139443",
       "year": "2025",
-      "journal": "28(5):112325",
-      "authors": ""
+      "publication_date": "2025 May",
+      "authors": "Hosny N, Shen K, Zhao Y, Qu J, Sun Y, Butler G, Amend S, Hammarlund EU, Gatenby R, Brown J, Pienta KJ, Phan TV, Boyer-Paulet S, Li S, Austin RH",
+      "journal": "iScience"
     },
     {
-      "title": "Veith T, Beck R, Brown JS, Andor N. Inverse Game Theory Characterizes Frequency-Dependent Selection Driven by Karyotypic Diversity in Triple Negative Breast Cancer. bioRxiv",
+      "title": "Inverse Game Theory Characterizes Frequency-Dependent Selection Driven by Karyotypic Diversity in Triple Negative Breast Cancer",
       "pubmed_id": "40196548",
       "pmc_id": "PMC11974723",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Veith T, Beck R, Brown JS, Andor N",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Correction: Park et al. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers 2024, 16, 2364. Cancers (Basel)",
+      "title": "Correction: Park et al",
       "pubmed_id": "40149388",
       "pmc_id": "PMC11941415",
       "year": "2025",
-      "journal": "17(6)",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB",
+      "journal": "Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration"
     },
     {
-      "title": "Hammarlund EU, Bukkuri A, Norling MD, Islam M, Posth NR, Baratchart E, Carroll C, Amend SR, Gatenby RA, Pienta KJ, Brown JS, Peters SE, Hancke K. Benthic diel oxygen variability and stress as potential drivers for animal diversification in the Neoproterozoic-Palaeozoic. Nat Commun",
+      "title": "Benthic diel oxygen variability and stress as potential drivers for animal diversification in the Neoproterozoic-Palaeozoic",
       "pubmed_id": "40118825",
       "pmc_id": "PMC11928486",
       "year": "2025",
-      "journal": "16(1):2223",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Hammarlund EU, Bukkuri A, Norling MD, Islam M, Posth NR, Baratchart E, Carroll C, Amend SR, Gatenby RA, Pienta KJ, Brown JS, Peters SE, Hancke K",
+      "journal": "Nat Commun"
     },
     {
-      "title": "Dabi A, Brown JS, Gatenby RA, Jones CD, Schrider DR. Evolutionary rescue model informs strategies for driving cancer cell populations to extinction. bioRxiv",
+      "title": "Evolutionary rescue model informs strategies for driving cancer cell populations to extinction",
       "pubmed_id": "39651238",
       "pmc_id": "PMC11623570",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Dabi A, Brown JS, Gatenby RA, Jones CD, Schrider DR",
+      "journal": "bioRxiv"
     },
     {
-      "title": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y. Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study. Cancers (Basel)",
+      "title": "Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study",
       "pubmed_id": "40075682",
       "pmc_id": "PMC11898942",
       "year": "2025",
-      "journal": "17(5)",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y",
+      "journal": "Cancers (Basel)"
     },
     {
-      "title": "Gatenby RA, Anderson ARA, Brown JS, Gallaher J, Krolick J, Lemanne D. Directed Evolution Restored Castrate Sensitivity in a Patient With Castrate Resistant Metastatic Prostate Cancer. Prostate",
+      "title": "Directed Evolution Restored Castrate Sensitivity in a Patient With Castrate Resistant Metastatic Prostate Cancer",
       "pubmed_id": "40878050",
       "year": "2025",
-      "authors": ""
+      "publication_date": "2025 Aug",
+      "authors": "Gatenby RA, Anderson ARA, Brown JS, Gallaher J, Krolick J, Lemanne D",
+      "journal": "Prostate"
     },
     {
-      "title": "Bhattacharya R, Avdieiev SS, Bukkuri A, Whelan CJ, Gatenby RA, Tsai KY, Brown JS. The Hallmarks of Cancer as Eco-Evolutionary Processes. Cancer Discov",
+      "title": "The Hallmarks of Cancer as Eco-Evolutionary Processes",
       "pubmed_id": "40170539",
       "year": "2025",
-      "journal": "15(4):685-701",
-      "authors": ""
+      "publication_date": "2025 Apr",
+      "authors": "Bhattacharya R, Avdieiev SS, Bukkuri A, Whelan CJ, Gatenby RA, Tsai KY, Brown JS",
+      "journal": "Cancer Discov"
     }
   ],
   "grants": [
     {
-      "description": "Title: Effects of anesthetic agents on immune function and breast cancer progression  \nAward Number:   \nSponsor: FLORIDA BREAST CANCER  \nBrown, J. (PD/PI)"
+      "description": "Title: Effects of anesthetic agents on immune function and breast cancer progression  \nAward Number:   \nSponsor: FLORIDA BREAST CANCER  \nBrown, J. (PD/PI)",
+      "title": "Effects of anesthetic agents on immune function and breast cancer progression",
+      "award_number": "",
+      "sponsor": "FLORIDA BREAST CANCER",
+      "investigators": [
+        {
+          "name": "Brown, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: The Polyaneuploid Cancer Cell State Mediates Multitherapy Resistance in Cancer  \nAward Number: W81XWH2210680  \nSponsor: Department of Defense (DOD)  \nBrown, J. (PD/PI)",
-      "source": "DOD"
+      "title": "The Polyaneuploid Cancer Cell State Mediates Multitherapy Resistance in Cancer",
+      "award_number": "W81XWH2210680",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Brown, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB  \nAward Number: 23L11  \nSponsor: Florida Department of Health  \nMetts, J. (PD/PI), Anderson, A. (Co-PD/PI), Brown, J. (Co-PD/PI), Marusyk, A. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)"
+      "description": "Title: Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB  \nAward Number: 23L11  \nSponsor: Florida Department of Health  \nMetts, J. (PD/PI), Anderson, A. (Co-PD/PI), Brown, J. (Co-PD/PI), Marusyk, A. (Co-PD/PI), Robertson-Tessi, M. (Co-PD/PI)",
+      "title": "Feasibility of Generating Novel Translational and Therapeutic Strategies based on a Multicenter, Pediatric and AYA Evolutionary Tumor Board; pedsETB",
+      "award_number": "23L11",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Metts, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Anderson, A.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Brown, J.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Marusyk, A.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Tessi, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Eco-Evolutionary Drivers of Clonal Dynamics During UV-Induced Skin Carcinogenesis (PQ3)  \nAward Number: 5R01CA258089-05  \nSponsor: National Cancer Institute (NCI)  \nBrown, J. (PD/PI), Tsai, K. (PD/PI)",
+      "title": "Eco-Evolutionary Drivers of Clonal Dynamics During UV-Induced Skin Carcinogenesis (PQ3)",
+      "award_number": "5R01CA258089-05",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "8089-05"
+      "investigators": [
+        {
+          "name": "Brown, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Tsai, K.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BrownJoel_18108.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=18108"
   },
-  "content_hash": "4151fba7040eadd5a187192292435f76ef9c70e61e33983e9a8b39e5a07d8084",
+  "content_hash": "79f9db8262d0519353ab24f5fd7f12ba5afd5998b46f9f23699bf642d6d7c4f6",
   "researcher_name": "Joel Brown",
   "department": "Integrated Mathematical Oncology"
 }

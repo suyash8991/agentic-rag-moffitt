@@ -1,6 +1,6 @@
 {
   "profile_url": "https://www.moffitt.org/research-science/researchers/jhanelle-gray",
-  "last_updated": "2025-10-19T00:29:17.379988",
+  "last_updated": "2025-10-21T16:38:18.304072",
   "researcher_id": "3726",
   "degrees": [
     "MD"
@@ -50,104 +50,170 @@
   ],
   "publications": [
     {
-      "title": "Garassino MC, Cheng Y, Rodriguez-Abreu D, Novello S, Mazieres J, Robinson AG, Powell SF, Halmos B, Gray JE, Wang M, Chen C, Yang J, Souza F, Schwarzenberger P, Paz-Ares L. Impact of Tumor Response and Response Duration on Survival Among Participants Receiving Pembrolizumab Plus Chemotherapy as First-Line Therapy for Non-Small-Cell Lung Cancer. Oncol Ther",
+      "title": "Impact of Tumor Response and Response Duration on Survival Among Participants Receiving Pembrolizumab Plus Chemotherapy as First-Line Therapy for Non-Small-Cell Lung Cancer",
       "pubmed_id": "40498298",
       "pmc_id": "PMC12378254",
       "year": "2025",
-      "journal": "13(3):667-681",
+      "publication_date": "2025 Sep",
+      "authors": "Garassino MC, Cheng Y, Rodriguez-Abreu D, Novello S, Mazieres J, Robinson AG, Powell SF, Halmos B, Gray JE, Wang M, Chen C, Yang J, Souza F, Schwarzenberger P, Paz-Ares L",
+      "journal": "Oncol Ther"
+    },
+    {
+      "title": "Validation of the Functional Assessment of Cancer Therapy - Immune Checkpoint Modulator 17-Item Symptom Index (FACT-ICM-17) to facilitate implementation in research and clinical care",
+      "pubmed_id": "41045471",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Gudenkauf LM, Tometich DB, Hoogland AI, Li X, Kirtane K, Small BJ, Barata A, Gonzalez BD, Jacobs KD, Chung CH, Shafique MR, Gray J, Khushalani NI, Postow MA, Cella D, Webster KA, Dicker AP, Jim HSL",
+      "journal": "Cancer"
+    },
+    {
+      "title": "Skoulidis F, Araujo HA, Do MT, Qian Y, Sun X, Cobo AG, Le JT, Montesion M, Palmer R, Jahchan N, Juan JM, Min C, Yu Y, Pan X, Arbour KC, Vokes N, Schmidt ST, Molkentine D, Owen DH, Memmott R, Patil PD, Marmarelis ME, Awad MM, Murray JC, Hellyer JA, Gainor JF, Dimou A, Bestvina CM, Shu CA, Riess JW, Blakely CM, Pecot CV, Mezquita L, Tabb\u00f3 F, Scheffler M, Digumarthy S, Mooradian MJ, Sacher AG, Lau SCM, Saltos AN, Rotow J, Johnson RP, Liu C, Stewart T, Goldberg SB, Killam J, Walther Z, Schalper K, Davies KD, Woodcock MG, Anagnostou V, Marrone KA, Forde PM, Ricciuti B, Venkatraman D, Van Allen EM, Cummings AL, Goldman JW, Shaish H, Kier M, Katz S, Aggarwal C, Ni Y, Azok JT, Segal J, Ritterhouse L, Neal JW, Lacroix L, Elamin YY, Negrao MV, Le X, Lam VK, Lewis WE, Kemp HN, Carter B, Roth JA, Swisher S, Lee R, Zhou T, Poteete A, Kong Y, Takehara T, Paula AG, Parra Cuentas ER, Behrens C, Wistuba II, Zhang J, Blumenschein GR, Gay C, Byers LA, Gibbons DL, Tsao A, Lee JJ, Bivona TG, Camidge DR, Gray JE, Leighl NB, Levy B, Brahmer JR, Garassino MC, Gandara DR, Garon EB, Rizvi NA, Scagliotti GV, Wolf J, Planchard D, Besse B, Herbst RS, Wakelee HA, Pennell NA, Shaw AT, J\u00e4nne PA, Carbone DP, Hellmann MD, Rudin CM, Albacker L, Mann H, Zhu Z, Lai Z, Stewart R, Peters S, Johnson ML, Wong KK, Huang A, Winslow MM, Rosen MJ, Winters IP, Papadimitrakopoulou VA, Cascone T, Jewsbury P, Heymach JV. Author Correction: CTLA4 blockade abrogates KEAP1/STK11-related resistance to PD-(L)1 inhibitors. N ...",
       "authors": ""
     },
     {
-      "title": "Karim NA, Miao J, Reckamp KL, Gay CM, Byers LA, Zhao YQ, Redman MW, Carrizosa DR, Wang WL, Petty WJ, Mehta K, Faller BA, Agamah ES, Kasbari SS, Malisetti RK, Kumar A, Schallenkamp J, Alluri KC, Gray JE, Kelly K. Phase II Randomized Study of Maintenance Atezolizumab Versus Atezolizumab Plus Talazoparib in Patients With SLFN11 Positive Extensive-Stage SCLC: S1929. J Thorac Oncol",
+      "title": "Phase II Randomized Study of Maintenance Atezolizumab Versus Atezolizumab Plus Talazoparib in Patients With SLFN11 Positive Extensive-Stage SCLC: S1929",
       "pubmed_id": "39505259",
       "year": "2025",
-      "journal": "20(3):383-394",
-      "authors": ""
+      "publication_date": "2025 Mar",
+      "authors": "Karim NA, Miao J, Reckamp KL, Gay CM, Byers LA, Zhao YQ, Redman MW, Carrizosa DR, Wang WL, Petty WJ, Mehta K, Faller BA, Agamah ES, Kasbari SS, Malisetti RK, Kumar A, Schallenkamp J, Alluri KC, Gray JE, Kelly K",
+      "journal": "J Thorac Oncol"
     },
     {
-      "title": "Skoulidis F, Araujo HA, Do MT, Qian Y, Sun X, Cobo AG, Le JT, Montesion M, Palmer R, Jahchan N, Juan JM, Min C, Yu Y, Pan X, Arbour KC, Vokes N, Schmidt ST, Molkentine D, Owen DH, Memmott R, Patil PD, Marmarelis ME, Awad MM, Murray JC, Hellyer JA, Gainor JF, Dimou A, Bestvina CM, Shu CA, Riess JW, Blakely CM, Pecot CV, Mezquita L, Tabb\u00f3 F, Scheffler M, Digumarthy S, Mooradian MJ, Sacher AG, Lau SCM, Saltos AN, Rotow J, Johnson RP, Liu C, Stewart T, Goldberg SB, Killam J, Walther Z, Schalper K, Davies KD, Woodcock MG, Anagnostou V, Marrone KA, Forde PM, Ricciuti B, Venkatraman D, Van Allen EM, Cummings AL, Goldman JW, Shaish H, Kier M, Katz S, Aggarwal C, Ni Y, Azok JT, Segal J, Ritterhouse L, Neal JW, Lacroix L, Elamin YY, Negrao MV, Le X, Lam VK, Lewis WE, Kemp HN, Carter B, Roth JA, Swisher S, Lee R, Zhou T, Poteete A, Kong Y, Takehara T, Paula AG, Parra Cuentas ER, Behrens C, Wistuba II, Zhang J, Blumenschein GR, Gay C, Byers LA, Gibbons DL, Tsao A, Lee JJ, Bivona TG, Camidge DR, Gray JE, Leighl NB, Levy B, Brahmer JR, Garassino MC, Gandara DR, Garon EB, Rizvi NA, Scagliotti GV, Wolf J, Planchard D, Besse B, Herbst RS, Wakelee HA, Pennell NA, Shaw AT, J\u00e4nne PA, Carbone DP, Hellmann MD, Rudin CM, Albacker L, Mann H, Zhu Z, Lai Z, Stewart R, Peters S, Johnson ML, Wong KK, Huang A, Winslow MM, Rosen MJ, Winters IP, Papadimitrakopoulou VA, Cascone T, Jewsbury P, Heymach JV. Author Correction: CTLA4 blockade abrogates KEAP1/STK11-related resistance to PD-(L)1 inhibitors. N ..."
-    },
-    {
-      "title": "Murat-Onana ML, Ramalingam SS, J\u00e4nne PA, Gray JE, Ahn MJ, John T, Yatabe Y, Huang X, Rukazenkov Y, Javey M, Brown H, Li-Sucholeiki X. EGFR mutation testing across the osimertinib clinical program. Lung Cancer",
+      "title": "EGFR mutation testing across the osimertinib clinical program",
       "pubmed_id": "40311309",
       "year": "2025",
-      "journal": "204:108549",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Murat-Onana ML, Ramalingam SS, J\u00e4nne PA, Gray JE, Ahn MJ, John T, Yatabe Y, Huang X, Rukazenkov Y, Javey M, Brown H, Li-Sucholeiki X",
+      "journal": "Lung Cancer"
     },
     {
-      "title": "Gray JE, Salomonsen RJ, Diaz Perez I, Wang A, Cai L, Wetherill G, Xiao Y, Fielden C, Georgoulia N. Real-World Clinical Characteristics, Treatment Patterns, and Clinical Outcomes in US Patients with Stage I-III Resected NSCLC Without Known EGFR Mutations: The RESECT Study. Drugs Real World Outcomes",
+      "title": "Real-World Clinical Characteristics, Treatment Patterns, and Clinical Outcomes in US Patients with Stage I-III Resected NSCLC Without Known EGFR Mutations: The RESECT Study",
       "pubmed_id": "40329045",
       "pmc_id": "PMC12174031",
       "year": "2025",
-      "journal": "12(2):175-188",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Gray JE, Salomonsen RJ, Diaz Perez I, Wang A, Cai L, Wetherill G, Xiao Y, Fielden C, Georgoulia N",
+      "journal": "Drugs Real World Outcomes"
     },
     {
-      "title": "Tanvetyanon T, Joshi U, Chen DT, Gray JE. Timeliness of Newer Targeted Therapy and Survival in Lung Cancer: A Population-Based Analysis. JCO Oncol Pract",
+      "title": "Timeliness of Newer Targeted Therapy and Survival in Lung Cancer: A Population-Based Analysis",
       "pubmed_id": "40472300",
       "year": "2025",
-      "journal": "OP2400936",
-      "authors": ""
+      "publication_date": "2025 Jun",
+      "authors": "Tanvetyanon T, Joshi U, Chen DT, Gray JE",
+      "journal": "JCO Oncol Pract"
     },
     {
-      "title": "Orr LD, Vanderpoel J, Vadagam P, Patel MI, Roy UB, Ledezma B, Yung M, Deering KL, Kulbokas V, Feldman J, Gray JE. Patient, care partner, and provider voice in treatment decision-making for non-small cell lung cancer. Patient Educ Couns",
+      "title": "Patient, care partner, and provider voice in treatment decision-making for non-small cell lung cancer",
       "pubmed_id": "40215576",
       "year": "2025",
-      "journal": "136:108776",
-      "authors": ""
+      "publication_date": "2025 Jul",
+      "authors": "Orr LD, Vanderpoel J, Vadagam P, Patel MI, Roy UB, Ledezma B, Yung M, Deering KL, Kulbokas V, Feldman J, Gray JE",
+      "journal": "Patient Educ Couns"
     },
     {
-      "title": "Nassar AH, Jayakrishnan R, Feng J, Shepherd F, Adib E, Cheung JM, Lin JJ, Liu Y, Lin SH, Parikh K, Sridhar A, Shakya P, Dilling TJ, Kaldas D, Gray JE, Lobachov A, Bar J, Luders H, Grohe C, Gupta S, Leal T, Fitzgerald B, Crowley F, Fujiwara Y, Marron TU, Wilgucki M, Reuss J, Chen L, Sankar K, Aredo JV, Neal JW, Wakelee HA, Thummalapalli R, Yu H, Whitaker R, Velazquez A, Ragavan M, Cortellini A, Kwiatkowski DJ, Naqash AR, Goldberg SB, Kim SY. Consolidation ALK Tyrosine Kinase Inhibitors Versus Durvalumab or Observation After Chemoradiation in Unresectable Stage III ALK-Positive NSCLC. J Thorac Oncol",
+      "title": "Consolidation ALK Tyrosine Kinase Inhibitors Versus Durvalumab or Observation After Chemoradiation in Unresectable Stage III ALK-Positive NSCLC",
       "pubmed_id": "39260522",
       "year": "2025",
-      "journal": "20(1):109-118",
-      "authors": ""
+      "publication_date": "2025 Jan",
+      "authors": "Nassar AH, Jayakrishnan R, Feng J, Shepherd F, Adib E, Cheung JM, Lin JJ, Liu Y, Lin SH, Parikh K, Sridhar A, Shakya P, Dilling TJ, Kaldas D, Gray JE, Lobachov A, Bar J, Luders H, Grohe C, Gupta S, Leal T, Fitzgerald B, Crowley F, Fujiwara Y, Marron TU, Wilgucki M, Reuss J, Chen L, Sankar K, Aredo JV, Neal JW, Wakelee HA, Thummalapalli R, Yu H, Whitaker R, Velazquez A, Ragavan M, Cortellini A, Kwiatkowski DJ, Naqash AR, Goldberg SB, Kim SY",
+      "journal": "J Thorac Oncol"
     },
     {
-      "title": "Hochmair M, Schenker M, Dols MC, Kim TM, Ozyilkan O, Smagina M, Viktoriya L, Kato T, Fedenko A, De Angelis F, Rittmeyer A, Gray JE, Greystoke A, Aggarwal H, Huang Q, Zhao B, Lara-Guerra H, Nadal E. Pembrolizumab With or Without Maintenance Olaparib for Metastatic Squamous NSCLC That Responded to First-Line Pembrolizumab Plus Chemotherapy. J Thorac Oncol",
+      "title": "Pembrolizumab With or Without Maintenance Olaparib for Metastatic Squamous NSCLC That Responded to First-Line Pembrolizumab Plus Chemotherapy",
       "pubmed_id": "39477187",
       "year": "2025",
-      "journal": "20(2):203-218",
-      "authors": ""
-    },
-    {
-      "title": "Gray JE, Schenker M, Nahit \u015eendur MA, Leonova V, Kowalski D, Kato T, Orlova R, Chih-Hsin Yang J, Langleben A, Pilz A, Ungureanu A, Mak MP, Flavia De Angelis, Aggarwal H, Zimmer Z, Zhao B, Shamoun M, Kim TM. The Phase 3 KEYLYNK-006 Study of Pembrolizumab Plus Olaparib Versus Pembrolizumab Plus Pemetrexed as Maintenance Therapy for Metastatic Nonsquamous NSCLC. J Thorac Oncol",
-      "pubmed_id": "39521434",
-      "year": "2025",
-      "journal": "20(2):219-232",
-      "authors": ""
+      "publication_date": "2025 Feb",
+      "authors": "Hochmair M, Schenker M, Dols MC, Kim TM, Ozyilkan O, Smagina M, Viktoriya L, Kato T, Fedenko A, De Angelis F, Rittmeyer A, Gray JE, Greystoke A, Aggarwal H, Huang Q, Zhao B, Lara-Guerra H, Nadal E",
+      "journal": "J Thorac Oncol"
     }
   ],
   "grants": [
     {
-      "description": "Title: Modernize Adverse Event (AE) Data to Develop Predictive AE Biomarkers for Fulfilling Oncological Precision Medicine  \nAward Number: MOAAX  \nSponsor: Florida Department of Health  \nChen, D. (PD/PI), Gray, J. (Co-PD/PI)"
+      "description": "Title: Modernize Adverse Event (AE) Data to Develop Predictive AE Biomarkers for Fulfilling Oncological Precision Medicine  \nAward Number: MOAAX  \nSponsor: Florida Department of Health  \nChen, D. (PD/PI), Gray, J. (Co-PD/PI)",
+      "title": "Modernize Adverse Event (AE) Data to Develop Predictive AE Biomarkers for Fulfilling Oncological Precision Medicine",
+      "award_number": "MOAAX",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Chen, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Gray, J.",
+          "role": "Co-PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Community Outreach to Empower Black Patients with NSCLC to Improve Engagement and Awareness (COMPASS)  \nAward Number:   \nSponsor: FOUNDATION MEDICINE INC.  \nGray, J. (PD/PI)"
+      "description": "Title: Community Outreach to Empower Black Patients with NSCLC to Improve Engagement and Awareness (COMPASS)  \nAward Number:   \nSponsor: FOUNDATION MEDICINE INC.  \nGray, J. (PD/PI)",
+      "title": "Community Outreach to Empower Black Patients with NSCLC to Improve Engagement and Awareness (COMPASS)",
+      "award_number": "",
+      "sponsor": "FOUNDATION MEDICINE INC.",
+      "investigators": [
+        {
+          "name": "Gray, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
-      "description": "Title: Community Project Funding/Congressionally Directed Spending Construction - Mobile Lung Screening Program  \nAward Number: 1CE1HS52205?01?00  \nSponsor: Health Resources and Services Administration (HRSA)  \nGray, J. (PD/PI)"
+      "description": "Title: Community Project Funding/Congressionally Directed Spending Construction - Mobile Lung Screening Program  \nAward Number: 1CE1HS52205?01?00  \nSponsor: Health Resources and Services Administration (HRSA)  \nGray, J. (PD/PI)",
+      "title": "Community Project Funding/Congressionally Directed Spending Construction - Mobile Lung Screening Program",
+      "award_number": "1CE1HS52205?01?00",
+      "sponsor": "Health Resources and Services Administration (HRSA)",
+      "investigators": [
+        {
+          "name": "Gray, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Race-related differential RNA splicing: novel targets for precision oncology in non-small cell lung cancer  \nAward Number: 1R01CA253312-01  \nSponsor: National Cancer Institute (NCI)  \nGray, J. (PD/PI)",
+      "title": "Race-related differential RNA splicing: novel targets for precision oncology in non-small cell lung cancer",
+      "award_number": "1R01CA253312-01",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "3312-01"
+      "investigators": [
+        {
+          "name": "Gray, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Southwest Oncology Group (SWOG) Appointment  \nAward Number: 5U10CA180888-11 Revised  \nSponsor: National Cancer Institute (NCI)  \nGray, J. (PD/PI)",
+      "title": "Southwest Oncology Group (SWOG) Appointment",
+      "award_number": "5U10CA180888-11 Revised",
+      "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
-      "period": "0888-11"
+      "investigators": [
+        {
+          "name": "Gray, J.",
+          "role": "PD/PI"
+        }
+      ]
     },
     {
       "description": "Title: Cancer Trials Support Unit (CTSU) Phase II Supplemental Payments - Master Lung Protocol  \nAward Number: HHSN26120622012C  \nSponsor: National Cancer Institute (NCI)  \nGray, J. (PD/PI)",
-      "source": "NCI"
+      "title": "Cancer Trials Support Unit (CTSU) Phase II Supplemental Payments - Master Lung Protocol",
+      "award_number": "HHSN26120622012C",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Gray, J.",
+          "role": "PD/PI"
+        }
+      ]
     }
   ],
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GrayJhanelle_3726.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3726"
   },
-  "content_hash": "5712b385cca898998bc387de9f79a3a003d023f34252e77bd9d0faadff92d329",
+  "content_hash": "170c87dfc22505e56303121bcdd3973be3628c22e75c950ee1f0318b986f7718",
   "researcher_name": "Jhanelle Gray",
   "department": "Tumor Microenvironment and Metastasis"
 }
