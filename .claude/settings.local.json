@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git add src/moffitt_rag/streamlit/app.py)"
+      "Bash(git add src/moffitt_rag/streamlit/app.py)",
+      "Bash(git add:*)",
+      "Bash(git rm:*)"
     ],
     "deny": [],
     "ask": []
