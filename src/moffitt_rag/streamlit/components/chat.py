@@ -138,42 +138,41 @@ def invoke_agent(query: str) -> Optional[Dict[str, Any]]:
                 agent = get_agent()
                 logger.info("Agent successfully initialized")
 
-                # Show a spinner while the agent is thinking
-                with st.spinner("Thinking..."):
-                    try:
-                        # Use QueryLogger context manager for structured logging
-                        with QueryLogger(query) as qlog:
-                            # Invoke the agent with the user query
-                            logger.info(f"Invoking agent with query: {query[:50]}...")
-                            # Format the query as a dictionary with "input" key as expected by LangChain
-                            result = agent.invoke({"input": query})
-                            logger.info("Agent invocation successful")
-                            logger.debug(f"Response: {str(result)[:100]}...")
-                            
-                            # Set the result in the query logger
-                            qlog.set_result(result)
-                            
-                            # Log UI event for successful query
-                            log_ui_event("query_successful", {
-                                "query_length": len(query),
-                                "response_length": len(str(result))
-                            })
-                            
-                            return result
-                    except Exception as e:
-                        error_msg = f"Agent invocation error: {type(e).__name__}: {str(e)}"
-                        logger.error(error_msg)
-                        logger.error(f"Traceback: {traceback.format_exc()}")
-                        st.error(error_msg)
-                        current_error = error_msg
-                        
-                        # Log UI event for failed query
-                        log_ui_event("query_failed", {
+                # Process query without additional spinner (already have one in the message input)
+                try:
+                    # Use QueryLogger context manager for structured logging
+                    with QueryLogger(query) as qlog:
+                        # Invoke the agent with the user query
+                        logger.info(f"Invoking agent with query: {query[:50]}...")
+                        # Format the query as a dictionary with "input" key as expected by LangChain
+                        result = agent.invoke({"input": query})
+                        logger.info("Agent invocation successful")
+                        logger.debug(f"Response: {str(result)[:100]}...")
+
+                        # Set the result in the query logger
+                        qlog.set_result(result)
+
+                        # Log UI event for successful query
+                        log_ui_event("query_successful", {
                             "query_length": len(query),
-                            "error": str(e)
+                            "response_length": len(str(result))
                         })
-                        
-                        return None
+
+                        return result
+                except Exception as e:
+                    error_msg = f"Agent invocation error: {type(e).__name__}: {str(e)}"
+                    logger.error(error_msg)
+                    logger.error(f"Traceback: {traceback.format_exc()}")
+                    st.error(error_msg)
+                    current_error = error_msg
+
+                    # Log UI event for failed query
+                    log_ui_event("query_failed", {
+                        "query_length": len(query),
+                        "error": str(e)
+                    })
+
+                    return None
             except Exception as e:
                 error_msg = f"Agent initialization error: {type(e).__name__}: {str(e)}"
                 logger.error(error_msg)
@@ -325,15 +324,10 @@ def render_message_input():
                         "or try again with a different question."
                     )
 
-            # Set a flag to trigger rerun after form submission
-            st.session_state.form_submitted = True
+            # No need to trigger a rerun - let Streamlit handle it naturally
+            pass
 
     st.markdown('</div>', unsafe_allow_html=True)
-
-    # If a form was just submitted, rerun the app to update the UI
-    if st.session_state.get("form_submitted", False):
-        st.session_state.form_submitted = False
-        st.rerun()
 
 
 def render_example_queries():
@@ -410,8 +404,8 @@ def render_example_queries():
                                             "or try again with a different question."
                                         )
 
-                                # Rerun to update the UI
-                                st.rerun()
+                                # No explicit rerun needed - let Streamlit handle updates naturally
+                                pass
 
     # Close the examples container
     st.markdown('</div>', unsafe_allow_html=True)
