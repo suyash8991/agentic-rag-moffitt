@@ -23,6 +23,9 @@ from moffitt_rag.streamlit.utils.styling import (
     format_user_message,
     format_assistant_message
 )
+from moffitt_rag.streamlit.utils.researcher_formatting import (
+    display_researcher_results
+)
 from moffitt_rag.utils.logging import get_logger, log_ui_event, QueryLogger
 
 # Get logger for this module
@@ -227,14 +230,35 @@ def render_message_history():
 
     for message in conversation_history:
         if message["role"] == "user":
+            # User messages are simple formatted text
             st.markdown(format_user_message(message["content"]), unsafe_allow_html=True)
         else:
-            st.markdown(format_assistant_message(message["content"]), unsafe_allow_html=True)
+            # For assistant messages, detect if this is a researcher info response
+            content = message["content"]
+
+            # Check if this is likely a researcher result (contains name, program, etc.)
+            is_researcher_result = any([
+                "Program:" in content,
+                "Department:" in content,
+                "Research Interests:" in content,
+                "moffitt.org/research-science/researchers" in content
+            ])
+
+            if is_researcher_result:
+                # First show the formatted markdown message
+                st.markdown(format_assistant_message(content), unsafe_allow_html=True)
+
+                # Then try to display structured researcher cards if available
+                with st.expander("View Structured Researcher Information", expanded=False):
+                    display_researcher_results(content)
+            else:
+                # Regular assistant message without structured data
+                st.markdown(format_assistant_message(content), unsafe_allow_html=True)
 
 
 def render_message_input():
     """
-    Render the message input field and handle submission.
+    Render the message input field in ChatGPT/Claude style.
 
     This function displays a text input field for the user to enter
     messages and processes the input when submitted.
@@ -244,10 +268,29 @@ def render_message_input():
         with st.expander("Debug Information", expanded=False):
             st.error(f"Last error: {st.session_state.last_error}")
 
+    # Create a fixed container at the bottom for the input field (ChatGPT style)
+    st.markdown('<div class="chatgpt-input-container">', unsafe_allow_html=True)
+
     # Use a form for proper input handling
     with st.form(key="message_form", clear_on_submit=True):
-        user_query = st.text_input("Ask a question about Moffitt researchers:")
-        submit_button = st.form_submit_button("Send")
+        # Create a row with text input and button
+        cols = st.columns([15, 2])
+
+        # Text input in first column (wider)
+        with cols[0]:
+            user_query = st.text_input(
+                "Enter query below",  # No label like ChatGPT
+                placeholder="Ask about Moffitt researchers, their expertise, or research topics...",
+                label_visibility="collapsed"  # Hide the label
+            )
+
+        # Submit button in second column (narrower)
+        with cols[1]:
+            submit_button = st.form_submit_button(
+                "→",  # Arrow like ChatGPT
+                use_container_width=True,
+                type="primary"
+            )
 
         if submit_button and user_query:
             # Add the user message to the conversation history
@@ -258,7 +301,8 @@ def render_message_input():
                 st.session_state.last_error = None
 
             # Invoke the agent and get the response
-            response = invoke_agent(user_query)
+            with st.spinner("Researching your question... This may take a moment"):
+                response = invoke_agent(user_query)
 
             if response:
                 # Add the agent response to the conversation history
@@ -284,6 +328,8 @@ def render_message_input():
             # Set a flag to trigger rerun after form submission
             st.session_state.form_submitted = True
 
+    st.markdown('</div>', unsafe_allow_html=True)
+
     # If a form was just submitted, rerun the app to update the UI
     if st.session_state.get("form_submitted", False):
         st.session_state.form_submitted = False
@@ -292,82 +338,102 @@ def render_message_input():
 
 def render_example_queries():
     """
-    Render example query buttons that users can click.
+    Render example query buttons in ChatGPT/Claude style.
 
     This function displays a set of example queries that the user
     can click to quickly try out the system.
     """
-    with st.expander("Example questions you can ask"):
-        example_queries = [
-            "Who studies cancer evolution at Moffitt?",
-            "Tell me about researchers in the Immunology department",
-            "Find researchers who work on cancer immunotherapy",
-            "Which researchers at Moffitt study genomics?",
-            "Which researchers at Moffitt study immunotherapy resistance mechanisms?"
-        ]
+    # Create a container styled like ChatGPT's examples
+    st.markdown('<div class="chatgpt-examples">', unsafe_allow_html=True)
 
-        # Create a button for each example query
-        cols = st.columns(2)
-        for i, example in enumerate(example_queries):
-            # Alternate between columns for a two-column layout
-            with cols[i % 2]:
-                if st.button(example, key=f"example_{hash(example)}"):
-                    # Add the user message to the conversation history
-                    add_user_message(example)
+    st.markdown("""
+    <div class="chatgpt-examples-header" style="color:#ffffff;">
+        What would you like to ask about Moffitt researchers?
+    </div>
+    """, unsafe_allow_html=True)
 
-                    # Clear previous error if any
-                    if 'last_error' in st.session_state:
-                        st.session_state.last_error = None
+    # Flatten all queries for a simpler ChatGPT-like interface
+    all_examples = [
+        "Who studies cancer evolution at Moffitt?",
+        "Tell me about Dr. Conor Lynch's research",
+        "Tell me about researchers in the Immunology department",
+        "Find researchers who work on cancer immunotherapy",
+        "Which researchers study genomics?"
+    ]
 
-                    # Invoke the agent and get the response
-                    response = invoke_agent(example)
+    # ChatGPT-style grid of examples
+    cols_per_row = 2
+    for j in range(0, len(all_examples), cols_per_row):
+        # Create a row of columns
+        cols = st.columns(cols_per_row)
 
-                    if response:
-                        # Add the agent response to the conversation history
-                        add_assistant_message(response.get('output', str(response)))
-                    else:
-                        # Fall back to a more specific error message if available
-                        if 'last_error' in st.session_state and st.session_state.last_error:
-                            # Extract a concise version of the error for the message
-                            error_summary = st.session_state.last_error.split('\n')[0]
-                            add_assistant_message(
-                                f"I'm sorry, but I couldn't process your query due to the following error:\n\n"
-                                f"**{error_summary}**\n\n"
-                                f"See the debug information for more details."
-                            )
-                        else:
-                            # Generic fallback if no specific error is captured
-                            add_assistant_message(
-                                "I'm sorry, but I couldn't process your query at this time. "
-                                "Please check the vector database status in the settings page "
-                                "or try again with a different question."
-                            )
+        # Fill the columns with example query cards
+        for k in range(cols_per_row):
+            if j + k < len(all_examples):
+                example = all_examples[j + k]
+                with cols[k]:
+                    # Create a ChatGPT-style example button
+                    if st.button(
+                        example,
+                        key=f"example_{hash(example)}",
+                        use_container_width=True
+                    ):
+                                # Add the user message to the conversation history
+                                add_user_message(example)
 
-                    # Rerun to update the UI
-                    st.rerun()
+                                # Clear previous error if any
+                                if 'last_error' in st.session_state:
+                                    st.session_state.last_error = None
+
+                                # Invoke the agent and get the response
+                                with st.spinner("Researching your question... This may take a moment"):
+                                    response = invoke_agent(example)
+
+                                if response:
+                                    # Add the agent response to the conversation history
+                                    add_assistant_message(response.get('output', str(response)))
+                                else:
+                                    # Fall back to a more specific error message if available
+                                    if 'last_error' in st.session_state and st.session_state.last_error:
+                                        # Extract a concise version of the error for the message
+                                        error_summary = st.session_state.last_error.split('\n')[0]
+                                        add_assistant_message(
+                                            f"I'm sorry, but I couldn't process your query due to the following error:\n\n"
+                                            f"**{error_summary}**\n\n"
+                                            f"See the debug information for more details."
+                                        )
+                                    else:
+                                        # Generic fallback if no specific error is captured
+                                        add_assistant_message(
+                                            "I'm sorry, but I couldn't process your query at this time. "
+                                            "Please check the vector database status in the settings page "
+                                            "or try again with a different question."
+                                        )
+
+                                # Rerun to update the UI
+                                st.rerun()
+
+    # Close the examples container
+    st.markdown('</div>', unsafe_allow_html=True)
 
 
 def render_chat_interface():
     """
-    Render the complete chat interface.
+    Render the complete chat interface in a streamlined style similar to ChatGPT/Claude.
 
-    This function renders the chat header, message history,
-    example queries, and message input field.
+    This function renders the chat interface with minimal spacing.
     """
-    st.header("Chat with Moffitt Researcher Assistant")
+    # Create a container with no padding
+    st.markdown('<div style="padding: 0; margin: 0;">', unsafe_allow_html=True)
 
-    # Check if the vector database is available
-    if 'vector_db' in st.session_state and st.session_state.vector_db is not None:
-        st.info("You can ask questions about Moffitt researchers, their expertise, and potential collaborations.")
+    # Render the message input field (ChatGPT style)
+    render_message_input()
+
+    # Only show example queries if there's no conversation history
+    if not get_conversation_history():
+        render_example_queries()
 
     # Render the conversation history
     render_message_history()
 
-    # Add a visual separator
-    st.markdown("---")
-
-    # Render example queries
-    render_example_queries()
-
-    # Render the message input field
-    render_message_input()
+    st.markdown('</div>', unsafe_allow_html=True)

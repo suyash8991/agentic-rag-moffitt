@@ -89,11 +89,15 @@ logger = get_logger(__name__)
 APP_STATES = ["chat", "explore", "settings"]
 
 def render_header():
-    """Render the application header"""
-    st.markdown(format_title("Moffitt Cancer Center Researcher Assistant"), unsafe_allow_html=True)
-    st.markdown(format_subtitle("Ask questions about researchers, their expertise, and potential collaborations"), unsafe_allow_html=True)
+    """Render the application header in a compact style like Claude/ChatGPT"""
+    # Use a more compact header style with columns
+    header_col1, header_col2 = st.columns([5, 1])
 
-# Sidebar rendering is now handled by the imported component
+    with header_col1:
+        # Use smaller title with subtle subtitle
+        st.markdown(format_title("Moffitt Researcher Assistant"), unsafe_allow_html=True)
+
+# Sidebar rendering is handled by the imported component
 
 # Chat interface is now handled by the imported component
 
@@ -409,6 +413,8 @@ def render_settings():
                 except Exception as e:
                     st.error(f"Error loading log file: {e}")
 
+
+
 def main():
     """Main application entry point"""
     # Initialize logging system if not already initialized
@@ -425,7 +431,7 @@ def main():
     except Exception as e:
         # If logging initialization fails, continue without it
         print(f"Warning: Could not initialize logging system: {e}")
-    
+
     # Log application start
     logger.info("Starting Moffitt Agentic RAG application")
     log_ui_event("application_start", {
@@ -451,8 +457,12 @@ def main():
         # Use st.cache_resource to avoid reloading on each rerun
         @st.cache_resource
         def load_vector_db():
-            st.info("Initializing vector database. This may take a moment on first run...")
-            return get_or_create_vector_db()
+            # Load DB silently without showing status
+            try:
+                return get_or_create_vector_db()
+            except Exception as e:
+                logger.error(f"Error loading vector database: {str(e)}")
+                return None
 
         # Initialize vector DB
         vector_db = load_vector_db()
@@ -461,14 +471,13 @@ def main():
         st.session_state.vector_db = vector_db
 
     except Exception as e:
-        st.warning(f"Could not initialize vector database. Some functionality may be limited. Error: {e}")
+        # Use a more compact error message
+        st.error("Database initialization failed. Try reloading or check settings.")
+        logger.error(f"Vector DB initialization error: {str(e)}")
         st.session_state.vector_db = None
 
     # Render the sidebar
     render_sidebar()
-
-    # Render the header
-    render_header()
 
     # Render the appropriate interface based on current state
     current_page = get_current_page()
