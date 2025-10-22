@@ -101,10 +101,6 @@ def render_header():
 
 # Chat interface is now handled by the imported component
 
-def render_researcher_explorer():
-    """Render the researcher exploration interface (placeholder)"""
-    st.header("Explore Researchers")
-    st.info("Researcher explorer will be implemented in the next version")
 
 def render_settings():
     """Render the settings interface with vector database management options and diagnostics"""
@@ -483,8 +479,6 @@ def main():
     current_page = get_current_page()
     if current_page == "chat":
         render_chat_interface()
-    elif current_page == "explore":
-        render_researcher_explorer()
     elif current_page == "settings":
         render_settings()
 

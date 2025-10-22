@@ -36,14 +36,7 @@ def render_navigation():
         set_current_page("chat")
         st.rerun()
 
-    # Explorer button
-    if st.button(
-        "🔍 Explore Researchers",
-        use_container_width=True,
-        type="primary" if current_page == "explore" else "secondary"
-    ):
-        set_current_page("explore")
-        st.rerun()
+
 
     # Settings button
     if st.button(

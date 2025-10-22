@@ -388,3 +388,14 @@
 2025-10-22 11:14:55,881 [INFO] moffitt_rag.agents.limited_call (limited_call.py:72): Completed execution after 3 calls
 2025-10-22 11:14:55,882 [INFO] moffitt_rag.streamlit.components.chat (chat.py:149): Agent invocation successful
 2025-10-22 11:14:55,891 [INFO] moffitt_rag.streamlit.components.chat (chat.py:212): Agent invocation completed
+2025-10-22 11:17:30,617 [INFO] root (logging.py:302): Structured logging enabled with 7 component loggers
+2025-10-22 11:17:30,618 [INFO] root (logging.py:311): Logging initialized: console=INFO, file=INFO, env=dev, log_dir=C:\Coding\Projects\moffitt-agentic-rag\logs, structured_logs=True
+2025-10-22 11:17:30,667 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:17:30,668 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:17:31,033 [INFO] moffitt_rag.streamlit.state.session (session.py:33): Session state initialized
+2025-10-22 11:17:40,665 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:17:46,114 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:17:46,115 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:17:48,605 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:17:48,667 [INFO] chromadb.telemetry.product.posthog (posthog.py:22): Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-22 11:17:49,037 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 866 chunks

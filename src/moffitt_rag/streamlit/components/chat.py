@@ -423,10 +423,6 @@ def render_chat_interface():
     # Render the message input field (ChatGPT style)
     render_message_input()
 
-    # Only show example queries if there's no conversation history
-    if not get_conversation_history():
-        render_example_queries()
-
     # Render the conversation history
     render_message_history()
 
