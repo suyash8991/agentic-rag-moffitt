@@ -148,7 +148,7 @@ def create_researcher_agent(
     system_message: Optional[str] = None,
     temperature: float = 0.2,
     enable_reflection: bool = False,
-    max_llm_calls: int = 3
+    max_llm_calls: int = 6
 ) -> Union[AgentExecutor, Any]:
     """
     Create a researcher agent for the Moffitt RAG system.
