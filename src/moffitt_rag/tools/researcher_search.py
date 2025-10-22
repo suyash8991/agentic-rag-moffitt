@@ -7,8 +7,7 @@ interests, or background using semantic and keyword search with proper metadata 
 
 import re
 import json
-import ast
-
+import traceback
 from typing import List, Dict, Any, Optional, Type, Union
 
 from langchain.tools import BaseTool
@@ -17,80 +16,29 @@ from pydantic import BaseModel, Field
 
 from ..db.hybrid_search import hybrid_search
 from ..config.config import get_settings
-from ..db.vector_store import get_or_create_vector_db, similarity_search_with_score
 from ..utils.logging import get_logger, log_tool_event
+from .tool_utils import (
+    coerce_to_dict,
+    extract_name_from_url,
+    extract_name_from_text,
+    format_researcher_result,
+    join_results
+)
 
 # Get logger for this module
 logger = get_logger(__name__)
 
 
-def _coerce_to_payload(maybe_str: str) -> Dict[str, Any]:
-    s = (maybe_str or "").strip()
-
-    # 1) direct JSON
-    try:
-        data = json.loads(s)
-        if isinstance(data, dict):
-            return data
-    except Exception:
-        pass
-
-    # 2) first {...} block
-    m = re.search(r'\{.*?\}', s, flags=re.DOTALL)
-    if m:
-        block = m.group(0)
-        for parser in (json.loads, ast.literal_eval):
-            try:
-                data = parser(block)
-                if isinstance(data, dict):
-                    return data
-            except Exception:
-                pass
-
-    # 3) simple "key: value" lines fallback
-    kv = {}
-    for line in s.splitlines():
-        if ":" in line:
-            k, v = line.split(":", 1)
-            k = k.strip().strip('"\'')
-            v = v.strip().strip('"\'')
-            if k:
-                kv[k] = v
-    return kv
-
-def extract_name_from_url(url: str) -> str:
-    """
-    Extract researcher name from profile URL.
-    """
-    if not url:
-        return ""
-    path_parts = url.rstrip('/').split('/')
-    if len(path_parts) > 0:
-        name_slug = path_parts[-1]
-        name = name_slug.replace('-', ' ').title()
-        return name
-    return ""
-
-
-def extract_name_from_text(text: str) -> str:
-    """
-    Extract researcher name from text content.
-    """
-    name_match = re.search(r'Name:\s*([^,\n]+)', text)
-    if name_match:
-        name = name_match.group(1).strip()
-        if name and name != ',':
-            return name
-    degrees_match = re.search(r'^([^,]+),\s*([A-Z][A-Za-z]*\.?(?:\s+[A-Z][A-Za-z]*\.?)*)', text)
-    if degrees_match:
-        return degrees_match.group(1).strip()
-    return ""
-
-
 class ResearcherSearchInput(BaseModel):
     """Input model for the ResearcherSearchTool."""
-    researcher_name: Optional[str] = Field(None, description="The full name of the researcher to search for. Use for specific person-related queries.")
-    topic: Optional[str] = Field(None, description="The research topic, interest, or area of expertise to search for. Use for general subject matter queries.")
+    researcher_name: Optional[str] = Field(
+        None,
+        description="The full name of the researcher to search for. Use for specific person-related queries."
+    )
+    topic: Optional[str] = Field(
+        None,
+        description="The research topic, interest, or area of expertise to search for. Use for general subject matter queries."
+    )
 
 
 class ResearcherSearchTool(BaseTool):
@@ -103,131 +51,243 @@ class ResearcherSearchTool(BaseTool):
     description: str = "Search for researchers by name or by research topic. Provide either 'researcher_name' for name searches or 'topic' for subject matter searches."
     args_schema: Type[BaseModel] = ResearcherSearchInput
 
-    def _format_results(self, results: List[Document], query: str) -> str:
-        """
-        Format search results with researcher names and full content.
-        """
-        if not results:
-            return f"No researchers found matching the query: {query}"
+    # Class-level tracking of queries and attempts (for rate limiting)
+    _query_attempts = {}
+    _max_attempts_per_query = 3
 
-        # Remove deduplication logic - use all results directly
-
-        formatted_results = []
-        for doc in results:
-            profile_url = doc.metadata.get("profile_url", "")
-            display_name = doc.metadata.get("researcher_name", "").strip() or extract_name_from_url(profile_url) or extract_name_from_text(doc.page_content) or "Unknown Researcher"
-            program = doc.metadata.get("program", "Unknown Program")
-            chunk_type = doc.metadata.get("chunk_type", "Unknown Type")
-
-            # Use the full content instead of a snippet
-            full_content = doc.page_content
-
-            formatted_results.append(
-                f"Researcher: {display_name}\n"
-                f"Program: {program}\n"
-                f"Chunk Type: {chunk_type}\n"
-                f"Content: {full_content}\n"
-                f"Profile: {profile_url}\n"
-            )
-
-        return "\n\n---\n\n".join(formatted_results)
-
-    def _run(self, tool_input: Union[str, Dict]) -> str:
-        """
-        Run the tool with a dictionary or JSON string input.
-        """
+    def _log_tool_start(self, tool_input: Any) -> None:
+        """Log the start of the tool execution."""
         logger.info("Starting ResearcherSearchTool execution")
-        
-        # Log structured event for tool start
         log_tool_event("researcher_search_start", {
             "tool_input_type": type(tool_input).__name__,
             "tool_input_length": len(str(tool_input)) if tool_input else 0
         })
-        
-        researcher_name: Optional[str] = None
-        topic: Optional[str] = None
+
+    def _log_tool_complete(self, query: str, results: List[Document], formatted_results: str) -> None:
+        """Log the completion of the tool execution."""
+        logger.info(f"Formatted results (length: {len(formatted_results)})")
+        log_tool_event("researcher_search_complete", {
+            "query": query[:100],
+            "result_count": len(results),
+            "formatted_length": len(formatted_results)
+        })
+
+    def _log_tool_error(self, error: Exception, query: Optional[str] = None) -> None:
+        """Log an error during tool execution."""
+        logger.error(f"Error in researcher search: {error}")
+        log_tool_event("researcher_search_error", {
+            "error": str(error),
+            "error_type": type(error).__name__,
+            "query": query[:100] if query else "unknown"
+        })
+
+    def _parse_input(self, tool_input: Union[str, Dict], tool_call_id: Optional[str] = None) -> Union[str, Dict]:
+        """
+        Parse the input for LangChain compatibility.
+
+        Args:
+            tool_input: The input to parse
+            tool_call_id: The tool call ID (used by LangChain)
+
+        Returns:
+            Union[str, Dict]: The parsed input in the format expected by LangChain
+        """
+        # This is the original LangChain method signature, so we need to
+        # return the input in the format expected by LangChain
+        return tool_input
+
+    def _extract_search_params(self, tool_input: Union[str, Dict]) -> tuple:
+        """
+        Extract researcher_name and topic from the input.
+
+        Args:
+            tool_input: The input to parse
+
+        Returns:
+            tuple: (researcher_name, topic)
+        """
+        researcher_name = None
+        topic = None
 
         if isinstance(tool_input, dict):
             researcher_name = tool_input.get("researcher_name")
             topic = tool_input.get("topic")
         elif isinstance(tool_input, str):
             try:
-                data = _coerce_to_payload(tool_input)
+                data = coerce_to_dict(tool_input)
                 researcher_name = data.get("researcher_name")
                 topic = data.get("topic")
                 if not researcher_name and not topic:
                     topic = tool_input
-            except (json.JSONDecodeError, TypeError):
-                # If it's not a JSON string, assume it's a topic search for backward compatibility
+            except Exception:
+                # If parsing fails, assume it's a topic search
                 topic = tool_input
 
-        if not researcher_name and not topic:
-            logger.warning("No researcher_name or topic provided")
-            log_tool_event("researcher_search_error", {"error": "missing_input"})
-            return "Error: You must provide either a researcher_name or a topic to the ResearcherSearchTool."
+        return researcher_name, topic
 
-        if researcher_name:
-            logger.info(f"Performing a name search for: '{researcher_name}'")
-            log_tool_event("name_search_detected", {"researcher_name": researcher_name[:50]})
-            query = researcher_name
-            alpha = 0.3 # Prioritize keyword matching for names
-        else: # topic must be present
-            logger.info(f"Performing a topic search for: '{topic}'")
-            log_tool_event("topic_search_detected", {"topic": topic[:50]})
-            query = topic
-            alpha = 0.7 # Prioritize semantic matching for topics
+    def _format_results(self, results: List[Document], query: str) -> str:
+        """
+        Format search results with researcher names and full content.
 
-        logger.info(f"Searching with query: '{query}' and alpha: {alpha}")
-        
-        # Log search parameters
-        log_tool_event("search_parameters", {
-            "query": query[:100],
-            "alpha": alpha,
-            "search_type": "name" if researcher_name else "topic"
-        })
+        Args:
+            results: The search results
+            query: The original query
+
+        Returns:
+            str: The formatted results
+        """
+        if not results:
+            return f"No researchers found matching the query: {query}"
+
+        formatted_results = []
+        for doc in results:
+            profile_url = doc.metadata.get("profile_url", "")
+
+            # Get researcher name with fallbacks
+            display_name = (
+                doc.metadata.get("researcher_name", "").strip() or
+                extract_name_from_url(profile_url) or
+                extract_name_from_text(doc.page_content) or
+                "Unknown Researcher"
+            )
+
+            program = doc.metadata.get("program", "Unknown Program")
+            chunk_type = doc.metadata.get("chunk_type", "Unknown Type")
+            full_content = doc.page_content
+
+            # Format this result
+            formatted_result = format_researcher_result(
+                researcher_name=display_name,
+                program=program,
+                chunk_type=chunk_type,
+                content=full_content,
+                profile_url=profile_url
+            )
+
+            formatted_results.append(formatted_result)
+
+        # Join all results with separators
+        return join_results(formatted_results)
+
+    def _check_rate_limit(self, query: str) -> bool:
+        """
+        Check if the query has exceeded the rate limit.
+
+        Args:
+            query: The search query
+
+        Returns:
+            bool: True if the query is allowed, False if it should be rate-limited
+        """
+        # Normalize query for comparison
+        normalized_query = ' '.join(query.lower().split())
+
+        # Get current count for this query
+        current_count = self._query_attempts.get(normalized_query, 0)
+
+        # Check if we've exceeded the limit
+        if current_count >= self._max_attempts_per_query:
+            logger.warning(f"Rate limit exceeded for query: {query} ({current_count} attempts)")
+            return False
+
+        # Increment the count
+        self._query_attempts[normalized_query] = current_count + 1
+        logger.info(f"Query attempt {current_count + 1}/{self._max_attempts_per_query} for: {query}")
+
+        return True
+
+    def _run(self, tool_input: Union[str, Dict]) -> str:
+        """
+        Run the tool with the given input.
+
+        Args:
+            tool_input: The input to the tool
+
+        Returns:
+            str: The formatted search results
+        """
+        self._log_tool_start(tool_input)
 
         try:
-            results = hybrid_search(
-                query=query,
-                k=5,
-                alpha=alpha
-            )
-            
+            # Extract search parameters
+            researcher_name, topic = self._extract_search_params(tool_input)
+
+            # Validate input
+            if not researcher_name and not topic:
+                logger.warning("No researcher_name or topic provided")
+                return "Error: You must provide either a researcher_name or a topic to the ResearcherSearchTool."
+
+            # Determine search type and parameters
+            if researcher_name:
+                logger.info(f"Performing a name search for: '{researcher_name}'")
+                log_tool_event("name_search_detected", {"researcher_name": researcher_name[:50]})
+                query = researcher_name
+                alpha = 0.3  # Prioritize keyword matching for names
+            else:  # topic must be present
+                logger.info(f"Performing a topic search for: '{topic}'")
+                log_tool_event("topic_search_detected", {"topic": topic[:50]})
+                query = topic
+                alpha = 0.7  # Prioritize semantic matching for topics
+
+            # Check rate limit
+            if not self._check_rate_limit(query):
+                return (
+                    f"You've made multiple attempts searching for '{query}' without success. "
+                    f"Consider refining your search or trying a different approach."
+                )
+
+            # Log search parameters
+            logger.info(f"Searching with query: '{query}' and alpha: {alpha}")
+            log_tool_event("search_parameters", {
+                "query": query[:100],
+                "alpha": alpha,
+                "search_type": "name" if researcher_name else "topic"
+            })
+
+            # Perform the search
+            results = hybrid_search(query=query, k=5, alpha=alpha)
+
+            # Log search completion
             logger.info(f"Search completed, found {len(results) if results else 0} results")
-            
-            # Log search results
             log_tool_event("search_completed", {
                 "query": query[:100],
                 "result_count": len(results) if results else 0,
                 "alpha": alpha
             })
 
+            # Handle no results case
             if not results:
                 logger.info(f"No researchers found matching: {query}")
                 return f"No researchers found matching: {query}"
 
+            # Format results
             formatted_results = self._format_results(results, query)
-            logger.info(f"Formatted results (length: {len(formatted_results)})")
-            
+
             # Log successful completion
-            log_tool_event("researcher_search_complete", {
-                "query": query[:100],
-                "result_count": len(results),
-                "formatted_length": len(formatted_results)
-            })
-            
+            self._log_tool_complete(query, results, formatted_results)
+
             return formatted_results
-            
+
         except Exception as e:
-            logger.error(f"Error in researcher search: {e}")
-            log_tool_event("researcher_search_error", {
-                "error": str(e),
-                "query": query[:100] if 'query' in locals() else "unknown"
-            })
+            # Get query value if it exists
+            query = locals().get('query', None)
+
+            # Log the error
+            self._log_tool_error(e, query)
+
+            # Add traceback for better debugging
+            logger.error(f"Traceback: {traceback.format_exc()}")
+
             return f"Error searching for researchers: {str(e)}"
 
     async def _arun(self, tool_input: Union[str, Dict]) -> str:
         """
         Run the tool asynchronously.
+
+        Args:
+            tool_input: The input to the tool
+
+        Returns:
+            str: The formatted search results
         """
         return self._run(tool_input)
