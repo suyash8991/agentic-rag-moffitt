@@ -399,3 +399,381 @@
 2025-10-22 11:17:48,605 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
 2025-10-22 11:17:48,667 [INFO] chromadb.telemetry.product.posthog (posthog.py:22): Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
 2025-10-22 11:17:49,037 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 866 chunks
+2025-10-22 11:22:49,164 [INFO] root (logging.py:302): Structured logging enabled with 7 component loggers
+2025-10-22 11:22:49,165 [INFO] root (logging.py:311): Logging initialized: console=INFO, file=INFO, env=dev, log_dir=C:\Coding\Projects\moffitt-agentic-rag\logs, structured_logs=True
+2025-10-22 11:22:49,184 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:22:49,184 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:22:49,509 [INFO] moffitt_rag.streamlit.state.session (session.py:33): Session state initialized
+2025-10-22 11:22:59,618 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:23:05,064 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:23:05,065 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:23:07,538 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:23:07,590 [INFO] chromadb.telemetry.product.posthog (posthog.py:22): Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-22 11:23:07,896 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 866 chunks
+2025-10-22 11:23:19,699 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:23:19,699 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:23:19,706 [INFO] moffitt_rag.streamlit.state.session (session.py:58): Current page set to: settings
+2025-10-22 11:23:19,951 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:23:19,952 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:23:26,430 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:23:26,431 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:23:26,438 [INFO] moffitt_rag.streamlit.state.session (session.py:58): Current page set to: chat
+2025-10-22 11:23:26,696 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:23:26,696 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:23:35,835 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:23:35,835 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:23:35,850 [INFO] moffitt_rag.streamlit.components.chat (chat.py:45): Starting agent invocation
+2025-10-22 11:23:39,464 [INFO] moffitt_rag.streamlit.components.chat (chat.py:57): Successfully imported agent module
+2025-10-22 11:23:39,466 [INFO] moffitt_rag.streamlit.components.chat (chat.py:62): Vector database is available with 866 chunks
+2025-10-22 11:23:39,471 [INFO] moffitt_rag.streamlit.components.chat (chat.py:137): Getting cached agent or creating new one...
+2025-10-22 11:23:39,475 [INFO] moffitt_rag.streamlit.components.chat (chat.py:70): Creating researcher agent...
+2025-10-22 11:23:39,476 [INFO] moffitt_rag.streamlit.components.chat (chat.py:80): Imported tools modules successfully
+2025-10-22 11:23:39,477 [INFO] moffitt_rag.streamlit.components.chat (chat.py:116): Now creating the actual researcher agent...
+2025-10-22 11:23:39,477 [INFO] moffitt_rag.agents.agent (agent.py:175): Creating researcher agent: provider=None, model=None, reflection=False
+2025-10-22 11:23:39,479 [INFO] moffitt_rag.agents.agent (agent.py:187): Initializing language model...
+2025-10-22 11:23:39,479 [INFO] moffitt_rag.models.llm (llm.py:74): Getting LLM model: provider=None, model=None, stream=False, temperature=0.2
+2025-10-22 11:23:39,479 [INFO] moffitt_rag.models.llm (llm.py:142): Attempting to initialize LLM: Provider=groq, Model=meta-llama/llama-4-scout-17b-16e-instruct
+2025-10-22 11:23:39,480 [INFO] moffitt_rag.models.llm (llm.py:173): Initializing Groq ChatModel with model=meta-llama/llama-4-scout-17b-16e-instruct
+2025-10-22 11:23:40,661 [INFO] moffitt_rag.models.llm (llm.py:225): Successfully initialized LLM: groq/meta-llama/llama-4-scout-17b-16e-instruct
+2025-10-22 11:23:40,662 [INFO] moffitt_rag.agents.agent (agent.py:204): Language model initialized successfully
+2025-10-22 11:23:40,662 [INFO] moffitt_rag.agents.agent (agent.py:212): Initializing agent tools...
+2025-10-22 11:23:40,663 [INFO] moffitt_rag.agents.agent (agent.py:219): Successfully created 3 tools
+2025-10-22 11:23:40,663 [INFO] moffitt_rag.agents.agent (agent.py:228): Using default system prompt
+2025-10-22 11:23:40,663 [INFO] moffitt_rag.agents.agent (agent.py:234): Creating agent prompt template
+2025-10-22 11:23:40,664 [INFO] moffitt_rag.agents.agent (agent.py:246): Agent prompt template created successfully with tools: ['ResearcherSearch', 'DepartmentFilter', 'ProgramFilter']
+2025-10-22 11:23:40,664 [INFO] moffitt_rag.agents.agent (agent.py:254): Creating the agent with LangChain's create_react_agent
+2025-10-22 11:23:40,667 [INFO] moffitt_rag.agents.agent (agent.py:257): Agent created successfully
+2025-10-22 11:23:40,667 [INFO] moffitt_rag.agents.agent (agent.py:265): Creating agent executor
+2025-10-22 11:23:40,668 [INFO] moffitt_rag.agents.agent (agent.py:273): Agent executor created successfully
+2025-10-22 11:23:40,668 [INFO] moffitt_rag.agents.agent (agent.py:295): Adding call limiting with max_calls=6
+2025-10-22 11:23:40,669 [INFO] moffitt_rag.agents.limited_call (limited_call.py:41): Created LimitedCallAgentExecutor with max_calls=6
+2025-10-22 11:23:40,669 [INFO] moffitt_rag.agents.agent (agent.py:297): Call limiting added successfully
+2025-10-22 11:23:40,669 [INFO] moffitt_rag.agents.agent (agent.py:304): Researcher agent created successfully
+2025-10-22 11:23:40,670 [INFO] moffitt_rag.streamlit.components.chat (chat.py:118): Agent created successfully
+2025-10-22 11:23:40,672 [INFO] moffitt_rag.streamlit.components.chat (chat.py:139): Agent successfully initialized
+2025-10-22 11:23:40,673 [INFO] moffitt_rag.streamlit.components.chat (chat.py:146): Invoking agent with query: who is Theresa Boyle?...
+2025-10-22 11:23:40,673 [INFO] moffitt_rag.agents.limited_call (limited_call.py:66): Starting execution with call limit 6 for query: who is Theresa Boyle?
+2025-10-22 11:23:40,675 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 1/6
+2025-10-22 11:23:41,112 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:23:41,294 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:139): Starting ResearcherSearchTool execution
+2025-10-22 11:23:41,295 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:170): Performing a name search for: 'Theresa Boyle'
+2025-10-22 11:23:41,296 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:180): Searching with query: 'Theresa Boyle' and alpha: 0.3
+2025-10-22 11:23:41,296 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:169): Starting hybrid search: query='Theresa Boyle...', k=5, alpha=0.3
+2025-10-22 11:23:41,297 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:23:41,300 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:23:41,301 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:23:43,602 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:23:43,691 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 866 chunks
+2025-10-22 11:23:43,692 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:212): Detected name search: 'Theresa Boyle' (indicators: capitalized_words)
+2025-10-22 11:23:43,693 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:241): Extracted name from capitalization: 'Theresa Boyle'
+2025-10-22 11:23:43,693 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:263): Strategy 1: Trying exact metadata match for: 'Theresa Boyle'
+2025-10-22 11:23:43,799 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:272): Found 5 results via exact name matching
+2025-10-22 11:23:43,800 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:196): Search completed, found 5 results
+2025-10-22 11:23:43,801 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:210): Formatted results (length: 3328)
+2025-10-22 11:23:43,802 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 2/6
+2025-10-22 11:23:44,019 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:23:44,793 [INFO] moffitt_rag.agents.limited_call (limited_call.py:72): Completed execution after 2 calls
+2025-10-22 11:23:44,794 [INFO] moffitt_rag.streamlit.components.chat (chat.py:149): Agent invocation successful
+2025-10-22 11:23:44,795 [INFO] moffitt_rag.streamlit.components.chat (chat.py:212): Agent invocation completed
+2025-10-22 11:26:09,117 [INFO] root (logging.py:302): Structured logging enabled with 7 component loggers
+2025-10-22 11:26:09,117 [INFO] root (logging.py:311): Logging initialized: console=INFO, file=INFO, env=dev, log_dir=C:\Coding\Projects\moffitt-agentic-rag\logs, structured_logs=True
+2025-10-22 11:26:09,149 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:26:09,149 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:26:09,547 [INFO] moffitt_rag.streamlit.state.session (session.py:33): Session state initialized
+2025-10-22 11:26:19,137 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:26:24,993 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:26:24,993 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:26:27,433 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:26:27,492 [INFO] chromadb.telemetry.product.posthog (posthog.py:22): Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-22 11:26:27,849 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 866 chunks
+2025-10-22 11:26:50,892 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:26:50,893 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:26:50,906 [INFO] moffitt_rag.streamlit.components.chat (chat.py:43): Starting agent invocation
+2025-10-22 11:26:54,622 [INFO] moffitt_rag.streamlit.components.chat (chat.py:55): Successfully imported agent module
+2025-10-22 11:26:54,624 [INFO] moffitt_rag.streamlit.components.chat (chat.py:60): Vector database is available with 866 chunks
+2025-10-22 11:26:54,630 [INFO] moffitt_rag.streamlit.components.chat (chat.py:135): Getting cached agent or creating new one...
+2025-10-22 11:26:54,634 [INFO] moffitt_rag.streamlit.components.chat (chat.py:68): Creating researcher agent...
+2025-10-22 11:26:54,635 [INFO] moffitt_rag.streamlit.components.chat (chat.py:78): Imported tools modules successfully
+2025-10-22 11:26:54,635 [INFO] moffitt_rag.streamlit.components.chat (chat.py:114): Now creating the actual researcher agent...
+2025-10-22 11:26:54,635 [INFO] moffitt_rag.agents.agent (agent.py:175): Creating researcher agent: provider=None, model=None, reflection=False
+2025-10-22 11:26:54,636 [INFO] moffitt_rag.agents.agent (agent.py:187): Initializing language model...
+2025-10-22 11:26:54,636 [INFO] moffitt_rag.models.llm (llm.py:74): Getting LLM model: provider=None, model=None, stream=False, temperature=0.2
+2025-10-22 11:26:54,637 [INFO] moffitt_rag.models.llm (llm.py:142): Attempting to initialize LLM: Provider=groq, Model=meta-llama/llama-4-scout-17b-16e-instruct
+2025-10-22 11:26:54,637 [INFO] moffitt_rag.models.llm (llm.py:173): Initializing Groq ChatModel with model=meta-llama/llama-4-scout-17b-16e-instruct
+2025-10-22 11:26:55,853 [INFO] moffitt_rag.models.llm (llm.py:225): Successfully initialized LLM: groq/meta-llama/llama-4-scout-17b-16e-instruct
+2025-10-22 11:26:55,854 [INFO] moffitt_rag.agents.agent (agent.py:204): Language model initialized successfully
+2025-10-22 11:26:55,855 [INFO] moffitt_rag.agents.agent (agent.py:212): Initializing agent tools...
+2025-10-22 11:26:55,855 [INFO] moffitt_rag.agents.agent (agent.py:219): Successfully created 3 tools
+2025-10-22 11:26:55,856 [INFO] moffitt_rag.agents.agent (agent.py:228): Using default system prompt
+2025-10-22 11:26:55,856 [INFO] moffitt_rag.agents.agent (agent.py:234): Creating agent prompt template
+2025-10-22 11:26:55,856 [INFO] moffitt_rag.agents.agent (agent.py:246): Agent prompt template created successfully with tools: ['ResearcherSearch', 'DepartmentFilter', 'ProgramFilter']
+2025-10-22 11:26:55,857 [INFO] moffitt_rag.agents.agent (agent.py:254): Creating the agent with LangChain's create_react_agent
+2025-10-22 11:26:55,859 [INFO] moffitt_rag.agents.agent (agent.py:257): Agent created successfully
+2025-10-22 11:26:55,860 [INFO] moffitt_rag.agents.agent (agent.py:265): Creating agent executor
+2025-10-22 11:26:55,860 [INFO] moffitt_rag.agents.agent (agent.py:273): Agent executor created successfully
+2025-10-22 11:26:55,861 [INFO] moffitt_rag.agents.agent (agent.py:295): Adding call limiting with max_calls=6
+2025-10-22 11:26:55,861 [INFO] moffitt_rag.agents.limited_call (limited_call.py:41): Created LimitedCallAgentExecutor with max_calls=6
+2025-10-22 11:26:55,862 [INFO] moffitt_rag.agents.agent (agent.py:297): Call limiting added successfully
+2025-10-22 11:26:55,862 [INFO] moffitt_rag.agents.agent (agent.py:304): Researcher agent created successfully
+2025-10-22 11:26:55,862 [INFO] moffitt_rag.streamlit.components.chat (chat.py:116): Agent created successfully
+2025-10-22 11:26:55,866 [INFO] moffitt_rag.streamlit.components.chat (chat.py:137): Agent successfully initialized
+2025-10-22 11:26:55,868 [INFO] moffitt_rag.streamlit.components.chat (chat.py:144): Invoking agent with query: Where did Conor Lynch earn his PhD?...
+2025-10-22 11:26:55,869 [INFO] moffitt_rag.agents.limited_call (limited_call.py:66): Starting execution with call limit 6 for query: Where did Conor Lynch earn his PhD?
+2025-10-22 11:26:55,871 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 1/6
+2025-10-22 11:26:56,474 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:26:56,704 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:139): Starting ResearcherSearchTool execution
+2025-10-22 11:26:56,705 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:170): Performing a name search for: 'Conor Lynch'
+2025-10-22 11:26:56,706 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:180): Searching with query: 'Conor Lynch' and alpha: 0.3
+2025-10-22 11:26:56,706 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:169): Starting hybrid search: query='Conor Lynch...', k=5, alpha=0.3
+2025-10-22 11:26:56,707 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:26:56,713 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:26:56,713 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:26:59,052 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:26:59,137 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 866 chunks
+2025-10-22 11:26:59,139 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:212): Detected name search: 'Conor Lynch' (indicators: capitalized_words)
+2025-10-22 11:26:59,140 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:241): Extracted name from capitalization: 'Conor Lynch'
+2025-10-22 11:26:59,140 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:263): Strategy 1: Trying exact metadata match for: 'Conor Lynch'
+2025-10-22 11:26:59,233 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:272): Found 5 results via exact name matching
+2025-10-22 11:26:59,234 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:196): Search completed, found 5 results
+2025-10-22 11:26:59,234 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:210): Formatted results (length: 4540)
+2025-10-22 11:26:59,236 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 2/6
+2025-10-22 11:26:59,434 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:27:00,594 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:139): Starting ResearcherSearchTool execution
+2025-10-22 11:27:00,595 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:170): Performing a name search for: 'Conor Lynch PhD'
+2025-10-22 11:27:00,595 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:180): Searching with query: 'Conor Lynch PhD' and alpha: 0.3
+2025-10-22 11:27:00,595 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:169): Starting hybrid search: query='Conor Lynch PhD...', k=5, alpha=0.3
+2025-10-22 11:27:00,597 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:27:00,601 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:27:00,601 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:27:02,518 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:27:02,597 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 866 chunks
+2025-10-22 11:27:02,597 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:212): Detected name search: 'Conor Lynch PhD' (indicators: capitalized_words)
+2025-10-22 11:27:02,598 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:241): Extracted name from capitalization: 'Conor Lynch PhD'
+2025-10-22 11:27:02,598 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:263): Strategy 1: Trying exact metadata match for: 'Conor Lynch PhD'
+2025-10-22 11:27:02,653 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:297): Strategy 2: Trying exact match on core chunks for: 'Conor Lynch PhD'
+2025-10-22 11:27:02,693 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:310): Strategy 3: Trying manual partial matching for: 'Conor Lynch PhD'
+2025-10-22 11:27:02,883 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:371): Performing semantic search for query: Conor Lynch PhD
+2025-10-22 11:27:02,911 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:379): Performing keyword search for query: Conor Lynch PhD
+2025-10-22 11:27:02,929 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:441): Hybrid search completed: found 1 results
+2025-10-22 11:27:02,933 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:196): Search completed, found 1 results
+2025-10-22 11:27:02,934 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:210): Formatted results (length: 540)
+2025-10-22 11:27:02,935 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 3/6
+2025-10-22 11:27:03,141 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:27:04,316 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:139): Starting ResearcherSearchTool execution
+2025-10-22 11:27:04,317 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:175): Performing a topic search for: 'Conor Lynch Moffitt Cancer Center PhD'
+2025-10-22 11:27:04,317 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:180): Searching with query: 'Conor Lynch Moffitt Cancer Center PhD' and alpha: 0.7
+2025-10-22 11:27:04,318 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:169): Starting hybrid search: query='Conor Lynch Moffitt Cancer Center PhD...', k=5, alpha=0.7
+2025-10-22 11:27:04,318 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:27:04,323 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:27:04,323 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:27:08,318 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:27:08,381 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 866 chunks
+2025-10-22 11:27:08,429 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:371): Performing semantic search for query: Conor Lynch Moffitt Cancer Center PhD
+2025-10-22 11:27:08,474 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:379): Performing keyword search for query: Conor Lynch Moffitt Cancer Center PhD
+2025-10-22 11:27:08,493 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:441): Hybrid search completed: found 1 results
+2025-10-22 11:27:08,496 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:196): Search completed, found 1 results
+2025-10-22 11:27:08,497 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:210): Formatted results (length: 479)
+2025-10-22 11:27:08,498 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 4/6
+2025-10-22 11:27:08,694 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:27:09,772 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 5/6
+2025-10-22 11:27:09,988 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:27:11,032 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 6/6
+2025-10-22 11:27:11,227 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:27:11,926 [INFO] moffitt_rag.agents.limited_call (limited_call.py:72): Completed execution after 6 calls
+2025-10-22 11:27:11,926 [INFO] moffitt_rag.streamlit.components.chat (chat.py:147): Agent invocation successful
+2025-10-22 11:27:11,928 [INFO] moffitt_rag.streamlit.components.chat (chat.py:210): Agent invocation completed
+2025-10-22 11:28:08,432 [INFO] root (logging.py:302): Structured logging enabled with 7 component loggers
+2025-10-22 11:28:08,432 [INFO] root (logging.py:311): Logging initialized: console=INFO, file=INFO, env=dev, log_dir=C:\Coding\Projects\moffitt-agentic-rag\logs, structured_logs=True
+2025-10-22 11:28:08,450 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:28:08,450 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:28:08,837 [INFO] moffitt_rag.streamlit.state.session (session.py:33): Session state initialized
+2025-10-22 11:28:18,597 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:28:24,451 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:28:24,451 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:28:26,895 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:28:26,950 [INFO] chromadb.telemetry.product.posthog (posthog.py:22): Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-22 11:28:27,152 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 0 chunks
+2025-10-22 11:28:38,350 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:28:38,351 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:28:38,369 [INFO] moffitt_rag.streamlit.components.chat (chat.py:43): Starting agent invocation
+2025-10-22 11:28:42,370 [INFO] moffitt_rag.streamlit.components.chat (chat.py:55): Successfully imported agent module
+2025-10-22 11:28:42,371 [INFO] moffitt_rag.streamlit.components.chat (chat.py:60): Vector database is available with 0 chunks
+2025-10-22 11:28:42,375 [INFO] moffitt_rag.streamlit.components.chat (chat.py:135): Getting cached agent or creating new one...
+2025-10-22 11:28:42,378 [INFO] moffitt_rag.streamlit.components.chat (chat.py:68): Creating researcher agent...
+2025-10-22 11:28:42,378 [INFO] moffitt_rag.streamlit.components.chat (chat.py:78): Imported tools modules successfully
+2025-10-22 11:28:42,379 [INFO] moffitt_rag.streamlit.components.chat (chat.py:114): Now creating the actual researcher agent...
+2025-10-22 11:28:42,379 [INFO] moffitt_rag.agents.agent (agent.py:175): Creating researcher agent: provider=None, model=None, reflection=False
+2025-10-22 11:28:42,379 [INFO] moffitt_rag.agents.agent (agent.py:187): Initializing language model...
+2025-10-22 11:28:42,380 [INFO] moffitt_rag.models.llm (llm.py:74): Getting LLM model: provider=None, model=None, stream=False, temperature=0.2
+2025-10-22 11:28:42,380 [INFO] moffitt_rag.models.llm (llm.py:142): Attempting to initialize LLM: Provider=groq, Model=meta-llama/llama-4-scout-17b-16e-instruct
+2025-10-22 11:28:42,380 [INFO] moffitt_rag.models.llm (llm.py:173): Initializing Groq ChatModel with model=meta-llama/llama-4-scout-17b-16e-instruct
+2025-10-22 11:28:43,592 [INFO] moffitt_rag.models.llm (llm.py:225): Successfully initialized LLM: groq/meta-llama/llama-4-scout-17b-16e-instruct
+2025-10-22 11:28:43,593 [INFO] moffitt_rag.agents.agent (agent.py:204): Language model initialized successfully
+2025-10-22 11:28:43,594 [INFO] moffitt_rag.agents.agent (agent.py:212): Initializing agent tools...
+2025-10-22 11:28:43,594 [INFO] moffitt_rag.agents.agent (agent.py:219): Successfully created 3 tools
+2025-10-22 11:28:43,594 [INFO] moffitt_rag.agents.agent (agent.py:228): Using default system prompt
+2025-10-22 11:28:43,595 [INFO] moffitt_rag.agents.agent (agent.py:234): Creating agent prompt template
+2025-10-22 11:28:43,595 [INFO] moffitt_rag.agents.agent (agent.py:246): Agent prompt template created successfully with tools: ['ResearcherSearch', 'DepartmentFilter', 'ProgramFilter']
+2025-10-22 11:28:43,596 [INFO] moffitt_rag.agents.agent (agent.py:254): Creating the agent with LangChain's create_react_agent
+2025-10-22 11:28:43,598 [INFO] moffitt_rag.agents.agent (agent.py:257): Agent created successfully
+2025-10-22 11:28:43,599 [INFO] moffitt_rag.agents.agent (agent.py:265): Creating agent executor
+2025-10-22 11:28:43,600 [INFO] moffitt_rag.agents.agent (agent.py:273): Agent executor created successfully
+2025-10-22 11:28:43,600 [INFO] moffitt_rag.agents.agent (agent.py:295): Adding call limiting with max_calls=6
+2025-10-22 11:28:43,600 [INFO] moffitt_rag.agents.limited_call (limited_call.py:41): Created LimitedCallAgentExecutor with max_calls=6
+2025-10-22 11:28:43,601 [INFO] moffitt_rag.agents.agent (agent.py:297): Call limiting added successfully
+2025-10-22 11:28:43,601 [INFO] moffitt_rag.agents.agent (agent.py:304): Researcher agent created successfully
+2025-10-22 11:28:43,602 [INFO] moffitt_rag.streamlit.components.chat (chat.py:116): Agent created successfully
+2025-10-22 11:28:43,603 [INFO] moffitt_rag.streamlit.components.chat (chat.py:137): Agent successfully initialized
+2025-10-22 11:28:43,604 [INFO] moffitt_rag.streamlit.components.chat (chat.py:144): Invoking agent with query: who works in Immunology?...
+2025-10-22 11:28:43,604 [INFO] moffitt_rag.agents.limited_call (limited_call.py:66): Starting execution with call limit 6 for query: who works in Immunology?
+2025-10-22 11:28:43,606 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 1/6
+2025-10-22 11:28:43,967 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:28:44,169 [INFO] moffitt_rag.tools.program_filter (program_filter.py:48): Filtering researchers by program: {"program": "Immunology"}
+2025-10-22 11:28:44,170 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:28:44,173 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:28:44,173 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:28:46,439 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:28:46,503 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 0 chunks
+2025-10-22 11:28:46,619 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 2/6
+2025-10-22 11:28:46,819 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:28:47,007 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:139): Starting ResearcherSearchTool execution
+2025-10-22 11:28:47,007 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:175): Performing a topic search for: 'immunology'
+2025-10-22 11:28:47,008 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:180): Searching with query: 'immunology' and alpha: 0.7
+2025-10-22 11:28:47,008 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:169): Starting hybrid search: query='immunology...', k=5, alpha=0.7
+2025-10-22 11:28:47,008 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:28:47,012 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:28:47,012 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:28:48,729 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:28:48,786 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 0 chunks
+2025-10-22 11:28:48,814 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:371): Performing semantic search for query: immunology
+2025-10-22 11:28:48,850 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:379): Performing keyword search for query: immunology
+2025-10-22 11:28:48,851 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:441): Hybrid search completed: found 0 results
+2025-10-22 11:28:48,851 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:196): Search completed, found 0 results
+2025-10-22 11:28:48,852 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:206): No researchers found matching: immunology
+2025-10-22 11:28:48,852 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 3/6
+2025-10-22 11:28:49,002 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:28:49,524 [INFO] moffitt_rag.tools.department_filter (department_filter.py:44): Starting DepartmentFilterTool execution for: {"department": "Immunology"}
+2025-10-22 11:28:49,524 [INFO] moffitt_rag.tools.department_filter (department_filter.py:62): Filtering researchers by department: {"department": "Immunology"}
+2025-10-22 11:28:49,525 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:28:49,529 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:28:49,530 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:28:51,242 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:28:51,298 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 0 chunks
+2025-10-22 11:28:51,363 [INFO] moffitt_rag.tools.department_filter (department_filter.py:108): No researchers found in department: {"department": "Immunology"}
+2025-10-22 11:28:51,364 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 4/6
+2025-10-22 11:28:51,551 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:28:52,565 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:139): Starting ResearcherSearchTool execution
+2025-10-22 11:28:52,565 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:175): Performing a topic search for: 'cancer immunology'
+2025-10-22 11:28:52,565 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:180): Searching with query: 'cancer immunology' and alpha: 0.7
+2025-10-22 11:28:52,566 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:169): Starting hybrid search: query='cancer immunology...', k=5, alpha=0.7
+2025-10-22 11:28:52,566 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:28:52,569 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:28:52,569 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:28:54,262 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:28:54,320 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 0 chunks
+2025-10-22 11:28:54,322 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:371): Performing semantic search for query: cancer immunology
+2025-10-22 11:28:54,350 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:379): Performing keyword search for query: cancer immunology
+2025-10-22 11:28:54,350 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:441): Hybrid search completed: found 0 results
+2025-10-22 11:28:54,351 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:196): Search completed, found 0 results
+2025-10-22 11:28:54,352 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:206): No researchers found matching: cancer immunology
+2025-10-22 11:28:54,353 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 5/6
+2025-10-22 11:28:54,517 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:28:54,833 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:139): Starting ResearcherSearchTool execution
+2025-10-22 11:28:54,834 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:175): Performing a topic search for: 'immune response'
+2025-10-22 11:28:54,834 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:180): Searching with query: 'immune response' and alpha: 0.7
+2025-10-22 11:28:54,835 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:169): Starting hybrid search: query='immune response...', k=5, alpha=0.7
+2025-10-22 11:28:54,836 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:28:54,839 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:28:54,839 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:28:56,542 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:28:56,599 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 0 chunks
+2025-10-22 11:28:56,601 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:371): Performing semantic search for query: immune response
+2025-10-22 11:28:56,648 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:379): Performing keyword search for query: immune response
+2025-10-22 11:28:56,649 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:441): Hybrid search completed: found 0 results
+2025-10-22 11:28:56,649 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:196): Search completed, found 0 results
+2025-10-22 11:28:56,650 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:206): No researchers found matching: immune response
+2025-10-22 11:28:56,650 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 6/6
+2025-10-22 11:28:56,850 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:28:57,779 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:139): Starting ResearcherSearchTool execution
+2025-10-22 11:28:57,780 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:175): Performing a topic search for: 'cancer biology'
+2025-10-22 11:28:57,780 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:180): Searching with query: 'cancer biology' and alpha: 0.7
+2025-10-22 11:28:57,780 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:169): Starting hybrid search: query='cancer biology...', k=5, alpha=0.7
+2025-10-22 11:28:57,781 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:28:57,785 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:28:57,785 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:28:59,499 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:28:59,556 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 0 chunks
+2025-10-22 11:28:59,558 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:371): Performing semantic search for query: cancer biology
+2025-10-22 11:28:59,611 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:379): Performing keyword search for query: cancer biology
+2025-10-22 11:28:59,611 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:441): Hybrid search completed: found 0 results
+2025-10-22 11:28:59,612 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:196): Search completed, found 0 results
+2025-10-22 11:28:59,612 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:206): No researchers found matching: cancer biology
+2025-10-22 11:28:59,613 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 7/6
+2025-10-22 11:28:59,613 [WARNING] moffitt_rag.agents.limited_call (limited_call.py:119): Reached maximum LLM calls (6). Returning best result so far.
+2025-10-22 11:28:59,613 [INFO] moffitt_rag.agents.limited_call (limited_call.py:72): Completed execution after 7 calls
+2025-10-22 11:28:59,613 [INFO] moffitt_rag.streamlit.components.chat (chat.py:147): Agent invocation successful
+2025-10-22 11:28:59,615 [INFO] moffitt_rag.streamlit.components.chat (chat.py:210): Agent invocation completed
+2025-10-22 11:29:21,091 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:29:21,091 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:29:21,100 [INFO] moffitt_rag.streamlit.state.session (session.py:58): Current page set to: settings
+2025-10-22 11:29:21,372 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:29:21,374 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:29:22,975 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:29:22,975 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:29:22,994 [INFO] moffitt_rag.data.loader (loader.py:65): Loading 118 researcher profiles...
+2025-10-22 11:29:23,121 [INFO] moffitt_rag.data.loader (loader.py:71): Loaded 118 researcher profiles
+2025-10-22 11:29:23,122 [INFO] moffitt_rag.data.loader (loader.py:255): Creating chunks for 118 researcher profiles...
+2025-10-22 11:29:23,133 [INFO] moffitt_rag.data.loader (loader.py:260): Created 862 chunks total
+2025-10-22 11:29:23,135 [INFO] moffitt_rag.db.vector_store (vector_store.py:52): Starting vector database creation
+2025-10-22 11:29:23,136 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:29:23,140 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:29:23,141 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:29:25,802 [INFO] moffitt_rag.db.vector_store (vector_store.py:72): Processing 862 chunks for vector database creation.
+2025-10-22 11:29:25,805 [INFO] moffitt_rag.db.vector_store (vector_store.py:102): Creating vector database with 862 chunks...
+2025-10-22 11:29:48,347 [INFO] moffitt_rag.db.vector_store (vector_store.py:112): Vector database created with 862 chunks
+2025-10-22 11:29:48,625 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:29:48,626 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:54:06,722 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:54:06,723 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:54:06,729 [INFO] moffitt_rag.streamlit.state.session (session.py:58): Current page set to: chat
+2025-10-22 11:54:07,019 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:54:07,019 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:54:10,717 [INFO] moffitt_rag.streamlit.app (app.py:426): Logging system initialized successfully
+2025-10-22 11:54:10,718 [INFO] moffitt_rag.streamlit.app (app.py:432): Starting Moffitt Agentic RAG application
+2025-10-22 11:54:10,730 [INFO] moffitt_rag.streamlit.components.chat (chat.py:43): Starting agent invocation
+2025-10-22 11:54:10,731 [INFO] moffitt_rag.streamlit.components.chat (chat.py:55): Successfully imported agent module
+2025-10-22 11:54:10,733 [INFO] moffitt_rag.streamlit.components.chat (chat.py:60): Vector database is available with 862 chunks
+2025-10-22 11:54:10,735 [INFO] moffitt_rag.streamlit.components.chat (chat.py:135): Getting cached agent or creating new one...
+2025-10-22 11:54:10,737 [INFO] moffitt_rag.streamlit.components.chat (chat.py:137): Agent successfully initialized
+2025-10-22 11:54:10,737 [INFO] moffitt_rag.streamlit.components.chat (chat.py:144): Invoking agent with query: who works in immunology?...
+2025-10-22 11:54:10,738 [INFO] moffitt_rag.agents.limited_call (limited_call.py:66): Starting execution with call limit 6 for query: who works in immunology?
+2025-10-22 11:54:10,738 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 1/6
+2025-10-22 11:54:11,047 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:54:11,293 [INFO] moffitt_rag.tools.program_filter (program_filter.py:48): Filtering researchers by program: {"program": "immunology"}
+2025-10-22 11:54:11,293 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:54:11,297 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:54:11,298 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:54:13,507 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:54:13,572 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 862 chunks
+2025-10-22 11:54:13,621 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 2/6
+2025-10-22 11:54:13,826 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:54:15,030 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:139): Starting ResearcherSearchTool execution
+2025-10-22 11:54:15,030 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:170): Performing a name search for: 'Vince Luca'
+2025-10-22 11:54:15,031 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:180): Searching with query: 'Vince Luca' and alpha: 0.3
+2025-10-22 11:54:15,031 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:169): Starting hybrid search: query='Vince Luca...', k=5, alpha=0.3
+2025-10-22 11:54:15,032 [INFO] moffitt_rag.db.vector_store (vector_store.py:35): Loading embedding model: all-MiniLM-L6-v2
+2025-10-22 11:54:15,036 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:219): Use pytorch device_name: cpu
+2025-10-22 11:54:15,036 [INFO] sentence_transformers.SentenceTransformer (SentenceTransformer.py:227): Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 11:54:16,756 [INFO] moffitt_rag.db.vector_store (vector_store.py:170): Loading vector database from C:\Coding\Projects\moffitt-agentic-rag\vector_db...
+2025-10-22 11:54:16,808 [INFO] moffitt_rag.db.vector_store (vector_store.py:178): Vector database loaded with 862 chunks
+2025-10-22 11:54:16,809 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:212): Detected name search: 'Vince Luca' (indicators: capitalized_words)
+2025-10-22 11:54:16,809 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:241): Extracted name from capitalization: 'Vince Luca'
+2025-10-22 11:54:16,809 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:263): Strategy 1: Trying exact metadata match for: 'Vince Luca'
+2025-10-22 11:54:16,830 [INFO] moffitt_rag.db.hybrid_search (hybrid_search.py:272): Found 5 results via exact name matching
+2025-10-22 11:54:16,830 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:196): Search completed, found 5 results
+2025-10-22 11:54:16,831 [INFO] moffitt_rag.tools.researcher_search (researcher_search.py:210): Formatted results (length: 4691)
+2025-10-22 11:54:16,832 [INFO] moffitt_rag.agents.limited_call (limited_call.py:97): LLM call 3/6
+2025-10-22 11:54:16,994 [INFO] httpx (_client.py:1025): HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-22 11:54:18,089 [INFO] moffitt_rag.agents.limited_call (limited_call.py:72): Completed execution after 3 calls
+2025-10-22 11:54:18,090 [INFO] moffitt_rag.streamlit.components.chat (chat.py:147): Agent invocation successful
+2025-10-22 11:54:18,091 [INFO] moffitt_rag.streamlit.components.chat (chat.py:210): Agent invocation completed

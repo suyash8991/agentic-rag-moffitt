@@ -22,8 +22,6 @@ def render_navigation():
 
     This function displays buttons for navigating between different pages.
     """
-    st.header("Navigation")
-
     # Determine current page for highlighting the active button
     current_page = get_current_page()
 
@@ -31,18 +29,18 @@ def render_navigation():
     if st.button(
         "💬 Chat",
         use_container_width=True,
-        type="primary" if current_page == "chat" else "secondary"
+        type="primary" if current_page == "chat" else "secondary",
+        key="nav_chat"
     ):
         set_current_page("chat")
         st.rerun()
-
-
 
     # Settings button
     if st.button(
         "⚙️ Settings",
         use_container_width=True,
-        type="primary" if current_page == "settings" else "secondary"
+        type="primary" if current_page == "settings" else "secondary",
+        key="nav_settings"
     ):
         set_current_page("settings")
         st.rerun()
@@ -55,11 +53,6 @@ def render_about_section():
     This function displays information about the application.
     """
     st.write("---")
-    st.subheader("About")
-    st.write(
-        "This application provides an interface to explore "
-        "researcher information at Moffitt Cancer Center."
-    )
     st.caption("Moffitt Agentic RAG System v0.1.0")
 
 
@@ -74,10 +67,16 @@ def render_logo():
 
 def render_sidebar():
     """
-    Render the complete sidebar with navigation, logo, and about section.
+    Render the optimized sidebar with navigation and about section.
+    No logo to avoid broken images.
     """
     with st.sidebar:
-        render_logo()
-        st.write("---")
+        # Skip logo to avoid broken image
+        # Add title directly
+        st.title("Moffitt Assistant")
+
+        # Render navigation immediately
         render_navigation()
+
+        # Add about section
         render_about_section()

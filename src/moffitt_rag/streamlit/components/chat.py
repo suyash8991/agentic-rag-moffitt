@@ -23,9 +23,7 @@ from moffitt_rag.streamlit.utils.styling import (
     format_user_message,
     format_assistant_message
 )
-from moffitt_rag.streamlit.utils.researcher_formatting import (
-    display_researcher_results
-)
+
 from moffitt_rag.utils.logging import get_logger, log_ui_event, QueryLogger
 
 # Get logger for this module
@@ -247,9 +245,6 @@ def render_message_history():
                 # First show the formatted markdown message
                 st.markdown(format_assistant_message(content), unsafe_allow_html=True)
 
-                # Then try to display structured researcher cards if available
-                with st.expander("View Structured Researcher Information", expanded=False):
-                    display_researcher_results(content)
             else:
                 # Regular assistant message without structured data
                 st.markdown(format_assistant_message(content), unsafe_allow_html=True)

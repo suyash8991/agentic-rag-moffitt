@@ -126,34 +126,3 @@ def format_researcher_card(researcher: Dict[str, Any]) -> str:
     html += '</div>'
 
     return html
-
-def display_researcher_results(text: str) -> None:
-    """
-    Display formatted researcher results from search text.
-
-    This function parses the search results, extracts researcher information,
-    and displays it in an attractive card format.
-
-    Args:
-        text (str): The search result text to parse and display
-    """
-    # Split text by clear researcher separators (like multiple newlines or dashes)
-    researcher_sections = re.split(r'\n\s*\n|\n---\n', text)
-
-    # Process each section
-    for section in researcher_sections:
-        if not section.strip():
-            continue
-
-        # Try to extract structured information
-        researcher = extract_researcher_info(section)
-
-        # Display as a formatted card
-        if researcher.get("name"):  # Only display if we could extract a name
-            st.markdown(
-                format_researcher_card(researcher),
-                unsafe_allow_html=True
-            )
-        else:
-            # If we couldn't parse the section properly, display as plain text
-            st.markdown(section)
