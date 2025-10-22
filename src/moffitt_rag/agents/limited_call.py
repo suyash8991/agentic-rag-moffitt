@@ -25,7 +25,7 @@ class LimitedCallAgentExecutor:
     is reached.
     """
 
-    def __init__(self, agent_executor: AgentExecutor, max_calls: int = 3):
+    def __init__(self, agent_executor: AgentExecutor, max_calls: int = 6):
         """
         Initialize the LimitedCallAgentExecutor.
 
@@ -231,7 +231,7 @@ class LimitedCallAgentExecutor:
         return getattr(self.agent_executor, name)
 
 
-def create_limited_call_agent_executor(agent_executor: AgentExecutor, max_calls: int = 3) -> LimitedCallAgentExecutor:
+def create_limited_call_agent_executor(agent_executor: AgentExecutor, max_calls: int = 6) -> LimitedCallAgentExecutor:
     """
     Create a wrapper around an agent executor that limits LLM calls.
 

@@ -1,0 +1,224 @@
+2025-10-21 17:54:52,573 [ERROR] moffitt_rag.agents.limited_call (limited_call.py:126): Error during agent execution: "Input to PromptTemplate is missing variables {' ... '}.  Expected: [' ... ', 'agent_scratchpad', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended { ... } to be part of the string and not a variable, please escape it with double curly braces like: '{{ ... }}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+None
+2025-10-21 17:54:52,575 [ERROR] moffitt_rag.errors (logging.py:392): Error executing query 'who works in Drug discovery?': "Input to PromptTemplate is missing variables {' ... '}.  Expected: [' ... ', 'agent_scratchpad', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended { ... } to be part of the string and not a variable, please escape it with double curly braces like: '{{ ... }}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+(<class 'KeyError'>, KeyError("Input to PromptTemplate is missing variables {' ... '}.  Expected: [' ... ', 'agent_scratchpad', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended { ... } to be part of the string and not a variable, please escape it with double curly braces like: '{{ ... }}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "), <traceback object at 0x000001CED7425000>)
+Traceback (most recent call last):
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\streamlit\components\chat.py", line 146, in invoke_agent
+    result = agent.invoke({"input": query})
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 69, in invoke
+    result = self._run_with_limits(input_dict, **kwargs)
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 113, in _run_with_limits
+    result = self.agent_executor.invoke(inputs, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\chains\base.py", line 165, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1625, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 104, in patched_take_next_step
+    return original_take_next_step(*args, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1325, in _take_next_step
+    list(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1352, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 455, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 3650, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 3636, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 2372, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 3595, in _transform
+    yield from final_pipeline
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 1571, in transform
+    for ichunk in input:
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 5927, in transform
+    yield from self.bound.transform(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 1571, in transform
+    for ichunk in input:
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 1589, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 1155, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\prompts\base.py", line 214, in invoke
+    return self._call_with_config(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 2092, in _call_with_config
+    context.run(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\prompts\base.py", line 187, in _format_prompt_with_error_handling
+    inner_input_ = self._validate_input(inner_input)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\prompts\base.py", line 181, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {' ... '}.  Expected: [' ... ', 'agent_scratchpad', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended { ... } to be part of the string and not a variable, please escape it with double curly braces like: '{{ ... }}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+2025-10-21 17:54:52,588 [ERROR] moffitt_rag.streamlit.components.chat (chat.py:162): Agent invocation error: KeyError: "Input to PromptTemplate is missing variables {' ... '}.  Expected: [' ... ', 'agent_scratchpad', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended { ... } to be part of the string and not a variable, please escape it with double curly braces like: '{{ ... }}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+None
+2025-10-21 17:54:52,589 [ERROR] moffitt_rag.streamlit.components.chat (chat.py:163): Traceback: Traceback (most recent call last):
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\streamlit\components\chat.py", line 146, in invoke_agent
+    result = agent.invoke({"input": query})
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 69, in invoke
+    result = self._run_with_limits(input_dict, **kwargs)
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 113, in _run_with_limits
+    result = self.agent_executor.invoke(inputs, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\chains\base.py", line 165, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1625, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 104, in patched_take_next_step
+    return original_take_next_step(*args, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1325, in _take_next_step
+    list(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1352, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 455, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 3650, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 3636, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 2372, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 3595, in _transform
+    yield from final_pipeline
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 1571, in transform
+    for ichunk in input:
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 5927, in transform
+    yield from self.bound.transform(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 1571, in transform
+    for ichunk in input:
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 1589, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 1155, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\prompts\base.py", line 214, in invoke
+    return self._call_with_config(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\base.py", line 2092, in _call_with_config
+    context.run(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\prompts\base.py", line 187, in _format_prompt_with_error_handling
+    inner_input_ = self._validate_input(inner_input)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\prompts\base.py", line 181, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {' ... '}.  Expected: [' ... ', 'agent_scratchpad', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended { ... } to be part of the string and not a variable, please escape it with double curly braces like: '{{ ... }}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+None
+2025-10-21 23:28:50,668 [ERROR] moffitt_rag.agents.limited_call (limited_call.py:126): Error during agent execution: ResearcherSearchTool._parse_input() takes 2 positional arguments but 3 were given
+None
+2025-10-21 23:28:50,669 [ERROR] moffitt_rag.errors (logging.py:392): Error executing query 'who is alberto?': ResearcherSearchTool._parse_input() takes 2 positional arguments but 3 were given
+(<class 'TypeError'>, TypeError('ResearcherSearchTool._parse_input() takes 2 positional arguments but 3 were given'), <traceback object at 0x000002F6993D2280>)
+Traceback (most recent call last):
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\streamlit\components\chat.py", line 146, in invoke_agent
+    result = agent.invoke({"input": query})
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 69, in invoke
+    result = self._run_with_limits(input_dict, **kwargs)
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 113, in _run_with_limits
+    result = self.agent_executor.invoke(inputs, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\chains\base.py", line 165, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1625, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 104, in patched_take_next_step
+    return original_take_next_step(*args, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1325, in _take_next_step
+    list(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1408, in _iter_next_step
+    yield self._perform_agent_action(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1433, in _perform_agent_action
+    observation = tool.run(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 895, in run
+    raise error_to_raise
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 857, in run
+    tool_args, tool_kwargs = self._to_args_and_kwargs(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 772, in _to_args_and_kwargs
+    tool_input = self._parse_input(tool_input, tool_call_id)
+TypeError: ResearcherSearchTool._parse_input() takes 2 positional arguments but 3 were given
+2025-10-21 23:28:50,683 [ERROR] moffitt_rag.streamlit.components.chat (chat.py:162): Agent invocation error: TypeError: ResearcherSearchTool._parse_input() takes 2 positional arguments but 3 were given
+None
+2025-10-21 23:28:50,684 [ERROR] moffitt_rag.streamlit.components.chat (chat.py:163): Traceback: Traceback (most recent call last):
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\streamlit\components\chat.py", line 146, in invoke_agent
+    result = agent.invoke({"input": query})
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 69, in invoke
+    result = self._run_with_limits(input_dict, **kwargs)
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 113, in _run_with_limits
+    result = self.agent_executor.invoke(inputs, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\chains\base.py", line 165, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1625, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 104, in patched_take_next_step
+    return original_take_next_step(*args, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1325, in _take_next_step
+    list(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1408, in _iter_next_step
+    yield self._perform_agent_action(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1433, in _perform_agent_action
+    observation = tool.run(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 895, in run
+    raise error_to_raise
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 857, in run
+    tool_args, tool_kwargs = self._to_args_and_kwargs(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 772, in _to_args_and_kwargs
+    tool_input = self._parse_input(tool_input, tool_call_id)
+TypeError: ResearcherSearchTool._parse_input() takes 2 positional arguments but 3 were given
+
+None
+2025-10-21 23:32:50,274 [ERROR] moffitt_rag.agents.limited_call (limited_call.py:126): Error during agent execution: Invalid tool input type: <class 'tuple'>
+None
+2025-10-21 23:32:50,275 [ERROR] moffitt_rag.errors (logging.py:392): Error executing query 'who is alberto?': Invalid tool input type: <class 'tuple'>
+(<class 'TypeError'>, TypeError("Invalid tool input type: <class 'tuple'>"), <traceback object at 0x000001C61CD6C600>)
+Traceback (most recent call last):
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\streamlit\components\chat.py", line 146, in invoke_agent
+    result = agent.invoke({"input": query})
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 69, in invoke
+    result = self._run_with_limits(input_dict, **kwargs)
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 113, in _run_with_limits
+    result = self.agent_executor.invoke(inputs, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\chains\base.py", line 165, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1625, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 104, in patched_take_next_step
+    return original_take_next_step(*args, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1325, in _take_next_step
+    list(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1408, in _iter_next_step
+    yield self._perform_agent_action(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1433, in _perform_agent_action
+    observation = tool.run(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 895, in run
+    raise error_to_raise
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 857, in run
+    tool_args, tool_kwargs = self._to_args_and_kwargs(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 786, in _to_args_and_kwargs
+    raise TypeError(msg)
+TypeError: Invalid tool input type: <class 'tuple'>
+2025-10-21 23:32:50,282 [ERROR] moffitt_rag.streamlit.components.chat (chat.py:162): Agent invocation error: TypeError: Invalid tool input type: <class 'tuple'>
+None
+2025-10-21 23:32:50,283 [ERROR] moffitt_rag.streamlit.components.chat (chat.py:163): Traceback: Traceback (most recent call last):
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\streamlit\components\chat.py", line 146, in invoke_agent
+    result = agent.invoke({"input": query})
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 69, in invoke
+    result = self._run_with_limits(input_dict, **kwargs)
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 113, in _run_with_limits
+    result = self.agent_executor.invoke(inputs, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\chains\base.py", line 165, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1625, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Coding\Projects\moffitt-agentic-rag\src\moffitt_rag\agents\limited_call.py", line 104, in patched_take_next_step
+    return original_take_next_step(*args, **kwargs)
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1325, in _take_next_step
+    list(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1408, in _iter_next_step
+    yield self._perform_agent_action(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain\agents\agent.py", line 1433, in _perform_agent_action
+    observation = tool.run(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 895, in run
+    raise error_to_raise
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 857, in run
+    tool_args, tool_kwargs = self._to_args_and_kwargs(
+  File "C:\Users\suyas\miniconda3\envs\moffitt-agentic-rag\lib\site-packages\langchain_core\tools\base.py", line 786, in _to_args_and_kwargs
+    raise TypeError(msg)
+TypeError: Invalid tool input type: <class 'tuple'>
+
+None

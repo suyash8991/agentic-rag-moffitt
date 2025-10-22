@@ -3,6 +3,9 @@ Agent implementation for the Moffitt RAG system.
 
 This module provides functions for creating and using a researcher agent
 that can answer queries about Moffitt Cancer Center researchers.
+
+NOTE: This module is being refactored to use the factory pattern for better SOLID
+principles adherence. Please use the factory module for new code.
 """
 
 import json
@@ -21,6 +24,7 @@ from ..tools import (
 )
 from ..models.llm import get_llm_model, LLMProvider
 from .limited_call import create_limited_call_agent_executor
+from .factory import default_factory
 
 # Import our structured logging system
 from ..utils.logging import get_logger, log_agent_event, log_tool_event
@@ -95,7 +99,7 @@ When you have enough information and are ready to provide a final answer, you MU
 
 Thought: I now have enough information to answer the question.
 Final Answer: [YOUR DETAILED ANSWER]
-
+Do no p
 The available tool names are: {tool_names}
 
 IMPORTANT GUIDELINES:
@@ -148,10 +152,13 @@ def create_researcher_agent(
     system_message: Optional[str] = None,
     temperature: float = 0.2,
     enable_reflection: bool = False,
-    max_llm_calls: int = 3
+    max_llm_calls: int = 6
 ) -> Union[AgentExecutor, Any]:
     """
     Create a researcher agent for the Moffitt RAG system.
+
+    This function is now a wrapper around the ResearcherAgentFactory.create_agent method.
+    For new code, it's recommended to use the factory directly.
 
     Args:
         llm_provider (Optional[LLMProvider], optional):
@@ -163,158 +170,19 @@ def create_researcher_agent(
         temperature (float, optional):
             The temperature to use. Defaults to 0.2.
         enable_reflection (bool, optional):
-            Whether to enable reflection. Defaults to True.
+            Whether to enable reflection. Defaults to False.
         max_llm_calls (int, optional):
-            Maximum number of LLM calls allowed per query. Defaults to 3.
+            Maximum number of LLM calls allowed per query. Defaults to 6.
 
     Returns:
         Union[AgentExecutor, Any]: The agent executor with call limiting
     """
-    try:
-        # Log the start of agent creation
-        logger.info(f"Creating researcher agent: provider={llm_provider}, model={model_name}, reflection={enable_reflection}")
-
-        # Structured logging for agent creation
-        log_agent_event("agent_creation_start", {
-            "provider": str(llm_provider) if llm_provider else "default",
-            "model_name": model_name if model_name else "default",
-            "enable_reflection": enable_reflection,
-            "temperature": temperature,
-            "max_llm_calls": max_llm_calls
-        })
-
-        # Get the language model
-        logger.info("Initializing language model...")
-        try:
-            # Check if using Euron and handle it specially
-            if llm_provider == LLMProvider.EURON:
-                logger.info("Using Euron provider with streaming disabled")
-                llm = get_llm_model(
-                    provider=llm_provider,
-                    model_name=model_name,
-                    temperature=temperature,
-                    stream=False  # Explicitly disable streaming for Euron
-                )
-            else:
-                llm = get_llm_model(
-                    provider=llm_provider,
-                    model_name=model_name,
-                    temperature=temperature
-                )
-            logger.info("Language model initialized successfully")
-        except Exception as e:
-            import traceback
-            logger.error(f"Failed to initialize language model: {type(e).__name__}: {e}")
-            logger.error(f"Traceback: {traceback.format_exc()}")
-            raise ValueError(f"Failed to initialize language model: {e}") from e
-
-        # Create the tools
-        logger.info("Initializing agent tools...")
-        try:
-            tools = [
-                ResearcherSearchTool(),
-                DepartmentFilterTool(),
-                ProgramFilterTool()
-            ]
-            logger.info(f"Successfully created {len(tools)} tools")
-        except Exception as e:
-            import traceback
-            logger.error(f"Failed to initialize tools: {type(e).__name__}: {e}")
-            logger.error(f"Traceback: {traceback.format_exc()}")
-            raise ValueError(f"Failed to initialize agent tools: {e}") from e
-
-        # Use the default system message if none is provided
-        if system_message is None:
-            logger.info("Using default system prompt")
-            system_message = DEFAULT_SYSTEM_PROMPT
-        else:
-            logger.info("Using custom system prompt")
-
-        # Create the prompt
-        logger.info("Creating agent prompt template")
-        try:
-            # Extract tool names as a list for the tool_names variable
-            tool_names = [tool.name for tool in tools]
-
-            prompt = PromptTemplate.from_template(
-                template=AGENT_PROMPT_TEMPLATE,
-                partial_variables={
-                    "system_message": system_message,
-                    "tool_names": ", ".join(tool_names)
-                }
-            )
-            logger.info(f"Agent prompt template created successfully with tools: {tool_names}")
-        except Exception as e:
-            import traceback
-            logger.error(f"Failed to create prompt template: {type(e).__name__}: {e}")
-            logger.error(f"Traceback: {traceback.format_exc()}")
-            raise ValueError(f"Failed to create agent prompt: {e}") from e
-
-        # Create the agent
-        logger.info("Creating the agent with LangChain's create_react_agent")
-        try:
-            agent = create_react_agent(llm=llm, tools=tools, prompt=prompt)
-            logger.info("Agent created successfully")
-        except Exception as e:
-            import traceback
-            logger.error(f"Failed to create agent: {type(e).__name__}: {e}")
-            logger.error(f"Traceback: {traceback.format_exc()}")
-            raise ValueError(f"Failed to create agent: {e}") from e
-
-        # Create the agent executor
-        logger.info("Creating agent executor")
-        try:
-            agent_executor = AgentExecutor(
-                agent=agent,
-                tools=tools,
-                verbose=True,
-                handle_parsing_errors=True
-            )
-            logger.info("Agent executor created successfully")
-        except Exception as e:
-            import traceback
-            logger.error(f"Failed to create agent executor: {type(e).__name__}: {e}")
-            logger.error(f"Traceback: {traceback.format_exc()}")
-            raise ValueError(f"Failed to create agent executor: {e}") from e
-
-        # Add reflection if enabled
-        if enable_reflection:
-            try:
-                logger.info("Adding reflection capability to agent")
-                from .reflection import create_reflective_agent_executor
-                agent_executor = create_reflective_agent_executor(agent_executor)
-                logger.info("Reflection capability added successfully")
-            except Exception as e:
-                import traceback
-                logger.error(f"Failed to add reflection: {type(e).__name__}: {e}")
-                logger.error(f"Traceback: {traceback.format_exc()}")
-                logger.warning("Continuing without reflection due to error")
-
-        # Add call limiting
-        try:
-            logger.info(f"Adding call limiting with max_calls={max_llm_calls}")
-            agent_executor = create_limited_call_agent_executor(agent_executor, max_llm_calls)
-            logger.info("Call limiting added successfully")
-        except Exception as e:
-            import traceback
-            logger.error(f"Failed to add call limiting: {type(e).__name__}: {e}")
-            logger.error(f"Traceback: {traceback.format_exc()}")
-            logger.warning("Continuing without call limiting due to error")
-
-        logger.info("Researcher agent created successfully")
-
-        # Structured logging for agent creation completion
-        log_agent_event("agent_creation_complete", {
-            "provider": str(llm_provider) if llm_provider else "default",
-            "model_name": model_name if model_name else "default",
-            "enable_reflection": enable_reflection,
-            "tool_count": len(tools) if 'tools' in locals() else 0
-        })
-
-        return agent_executor
-
-    except Exception as e:
-        import traceback
-        logger.error(f"Unhandled error in create_researcher_agent: {type(e).__name__}: {e}")
-        logger.error(f"Traceback: {traceback.format_exc()}")
-        raise
+    # Use the factory to create the agent
+    return default_factory.create_agent(
+        llm_provider=llm_provider,
+        model_name=model_name,
+        system_message=system_message,
+        temperature=temperature,
+        enable_reflection=enable_reflection,
+        max_llm_calls=max_llm_calls
+    )
