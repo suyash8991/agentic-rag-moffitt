@@ -97,11 +97,12 @@
 }
 
 .App-footer {
-  background-color: #f5f5f5;
-  padding: 0.5rem;
+  background-color: var(--color-background);
+  border-top: 1px solid var(--color-border);
+  padding: 0.4rem;
   text-align: center;
-  font-size: 0.8rem;
-  color: #666;
+  font-size: 0.75rem;
+  color: var(--color-footer);
 }
 
 /* Chat Components */
@@ -127,15 +128,20 @@
 .message {
   display: flex;
   margin-bottom: 1.25rem;
-  animation: fadeIn 0.3s ease-in-out;
+  animation: fadeIn 0.35s ease-out;
+  opacity: 0;
+  animation-fill-mode: forwards;
 }
 
 @keyframes fadeIn {
-  from {
+  0% {
     opacity: 0;
-    transform: translateY(10px);
+    transform: translateY(12px);
   }
-  to {
+  70% {
+    opacity: 0.9;
+  }
+  100% {
     opacity: 1;
     transform: translateY(0);
   }
