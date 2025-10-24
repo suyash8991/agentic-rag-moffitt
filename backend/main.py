@@ -1,8 +1,10 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
-from app.api.endpoints import researchers, query, admin
+import os
+
 from app.core.config import settings
+from app.core.security import get_api_key
 
 app = FastAPI(
     title="Moffitt Agentic RAG API",
@@ -19,17 +21,28 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Include routers
-app.include_router(researchers.router, prefix="/api", tags=["researchers"])
-app.include_router(query.router, prefix="/api", tags=["query"])
-app.include_router(admin.router, prefix="/api/admin", tags=["admin"])
-
 @app.get("/api/health", tags=["health"])
 async def health_check():
     """
-    Health check endpoint
+    Health check endpoint - no authentication required
     """
-    return {"status": "healthy"}
+    return {
+        "status": "healthy",
+        "version": "1.0.0",
+        "provider": settings.LLM_PROVIDER
+    }
+
+
+@app.get("/api/settings", tags=["settings"])
+async def get_settings(api_key: str = Depends(get_api_key)):
+    """
+    Get API settings - requires authentication
+    """
+    return {
+        "provider": settings.LLM_PROVIDER,
+        "model": getattr(settings, f"{settings.LLM_PROVIDER.upper()}_MODEL", settings.LLM_MODEL_NAME),
+        "embedding_model": settings.EMBEDDING_MODEL_NAME,
+    }
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
