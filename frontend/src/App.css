@@ -2,24 +2,52 @@
   display: flex;
   flex-direction: column;
   height: 100vh;
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
 }
 
 .App-header {
   background-color: #0078C1;
   color: white;
   padding: 1rem;
-  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.logo-container {
+  margin-right: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.moffitt-logo {
+  height: 40px;
+  width: auto;
+}
+
+.title-container {
+  text-align: left;
+  flex: 1;
 }
 
 .App-header h1 {
   margin: 0;
   font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 0.25px;
 }
 
 .App-header p {
-  margin: 0.5rem 0 0;
-  font-size: 1rem;
+  margin: 0.25rem 0 0;
+  font-size: 0.9rem;
+  opacity: 0.9;
 }
 
 .App-main {
@@ -60,7 +88,19 @@
 
 .message {
   display: flex;
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .user-message {
@@ -68,59 +108,113 @@
 }
 
 .message-avatar {
-  width: 30px;
-  height: 30px;
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 1rem;
-  margin: 0 0.5rem;
+  margin: 0 0.75rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .message-content {
-  padding: 0.75rem;
-  border-radius: 8px;
+  padding: 0.85rem 1rem;
+  border-radius: 12px;
   max-width: 70%;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  line-height: 1.5;
 }
 
 .user-message .message-content {
   background-color: #0078C1;
   color: white;
-  border-top-right-radius: 0;
+  border-top-right-radius: 4px;
+  margin-right: 0.5rem;
 }
 
 .assistant-message .message-content {
-  background-color: #f1f1f1;
-  border-top-left-radius: 0;
+  background-color: #f5f7f9;
+  color: #333;
+  border-top-left-radius: 4px;
+  margin-left: 0.5rem;
+  border-left: 3px solid #0078C1;
+}
+
+/* Add styling for code blocks within messages */
+.message-content pre {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0.75rem;
+  border-radius: 6px;
+  overflow-x: auto;
+  margin: 0.5rem 0;
+  font-family: 'Consolas', 'Monaco', monospace;
+  font-size: 0.9rem;
+}
+
+/* Make links in assistant messages stand out */
+.assistant-message a {
+  color: #0078C1;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.assistant-message a:hover {
+  text-decoration: underline;
 }
 
 .chat-input-container {
   display: flex;
-  padding: 1rem;
-  border-top: 1px solid #ddd;
+  padding: 1.25rem;
+  border-top: 1px solid #eaeaea;
+  background-color: #f9f9fb;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.05);
 }
 
 .chat-input {
   flex: 1;
-  padding: 0.75rem;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  margin-right: 0.5rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  margin-right: 0.75rem;
   font-size: 1rem;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: border-color 0.2s, box-shadow 0.2s;
+  font-family: inherit;
+}
+
+.chat-input:focus {
+  outline: none;
+  border-color: #0078C1;
+  box-shadow: inset 0 1px 3px rgba(0, 120, 193, 0.1), 0 0 0 3px rgba(0, 120, 193, 0.1);
 }
 
 .send-button {
-  padding: 0.75rem 1.5rem;
+  padding: 0 1.5rem;
   background-color: #0078C1;
   color: white;
   border: none;
-  border-radius: 4px;
-  font-weight: bold;
+  border-radius: 8px;
+  font-weight: 600;
   cursor: pointer;
+  transition: background-color 0.2s, transform 0.1s;
+  min-width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.send-button:hover:not(:disabled) {
+  background-color: #0069ad;
+}
+
+.send-button:active:not(:disabled) {
+  transform: scale(0.98);
 }
 
 .send-button:disabled {
-  background-color: #ccc;
+  background-color: #b3d6e9;
   cursor: not-allowed;
+  opacity: 0.7;
 }

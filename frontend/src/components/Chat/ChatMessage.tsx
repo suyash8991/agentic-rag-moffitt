@@ -1,4 +1,8 @@
 import React from 'react';
+// @ts-ignore
+import userAvatar from '../../assets/user-avatar.svg';
+// @ts-ignore
+import assistantAvatar from '../../assets/assistant-avatar.svg';
 
 interface ChatMessageProps {
   content: string;
@@ -20,7 +24,13 @@ function linkifyHtml(text: string): string {
     '<a href="$1" target="_blank" rel="noopener">$1</a>'
   );
 
-  return withLinks
+  // Enhance code blocks with better formatting
+  const withCodeBlocks = withLinks.replace(
+    /`([^`]+)`/g,
+    '<code>$1</code>'
+  );
+
+  return withCodeBlocks
     .split(/\n\n+/)
     .map(p => `<p>${p.replace(/\n/g, '<br/>')}</p>`)
     .join("");
@@ -31,7 +41,12 @@ const ChatMessage: React.FC<ChatMessageProps> = ({ content, isUser }) => {
   return (
     <div className={`message ${isUser ? 'user-message' : 'assistant-message'}`}>
       <div className="message-avatar">
-        {isUser ? '🙂' : '🤖'}
+        <img
+          src={isUser ? userAvatar : assistantAvatar}
+          alt={isUser ? "User" : "Assistant"}
+          width="36"
+          height="36"
+        />
       </div>
       <div className="message-content" dangerouslySetInnerHTML={{ __html: rendered }} />
     </div>

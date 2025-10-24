@@ -20,7 +20,7 @@ const ChatInput: React.FC<ChatInputProps> = ({ onSendMessage, isLoading }) => {
     <form className="chat-input-container" onSubmit={handleSubmit}>
       <input
         type="text"
-        placeholder="Ask about Moffitt researchers..."
+        placeholder="Ask about research summaries, clinical data, or researcher profiles..."
         value={message}
         onChange={(e) => setMessage(e.target.value)}
         disabled={isLoading}
