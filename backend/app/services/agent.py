@@ -14,6 +14,12 @@ from datetime import datetime
 from ..models.query import QueryRequest, QueryResponse, QueryStatus, QueryStep, ToolCall
 from .llm import generate_text, generate_structured_output
 from .vector_db import similarity_search
+from ..core.prompts import (
+    DEFAULT_SYSTEM_PROMPT,
+    AGENT_PROMPT_TEMPLATE,
+    REFLECTION_PROMPT,
+    STRUCTURED_OUTPUT_SYSTEM_PROMPT
+)
 
 # Setup logging
 logger = logging.getLogger(__name__)
@@ -166,6 +172,7 @@ async def process_query(
         else:
             search_results_text = "No search results found for this query."
 
+        # Use a simplified version of the AGENT_PROMPT_TEMPLATE
         prompt = f"""
         I need to answer a query about researchers at Moffitt Cancer Center.
 
@@ -178,10 +185,10 @@ async def process_query(
         Based on these results, provide a comprehensive answer to the query. Focus on the most relevant information and cite specific researchers and their work when applicable.
         """
 
-        # Generate the response
+        # Generate the response using our system prompt
         answer = await generate_text(
             prompt=prompt,
-            system_prompt="You are a helpful assistant providing information about researchers at Moffitt Cancer Center. Your responses should be informative, professional, and based on the search results provided.",
+            system_prompt=DEFAULT_SYSTEM_PROMPT,
             temperature=0.7,
         )
         _query_statuses[query_id]["progress"] = 1.0
