@@ -2,6 +2,10 @@
 
 This is a production implementation of the Moffitt Agentic RAG (Retrieval-Augmented Generation) system, using FastAPI for the backend and React for the frontend.
 
+## Architecture Note
+
+This branch contains the FastAPI/React implementation of the Moffitt Researcher Agent. If you're looking for the previous Streamlit implementation, it's available in the `archive/streamlit-implementation` branch.
+
 ## Project Structure
 
 - `backend/` - FastAPI backend
@@ -49,3 +53,15 @@ Frontend implementation is in progress.
 - The frontend will be built with React and TypeScript
 - The RAG system uses ChromaDB for vector storage and LangChain for the agent framework
 - LLM integration supports Groq and OpenAI providers
+
+## Architectural Migration
+
+This project has undergone an architectural transition from a Streamlit monolithic application to a FastAPI backend with a React frontend. This change offers several benefits:
+
+1. **Better Separation of Concerns**: Distinct backend and frontend layers
+2. **Improved Performance**: Optimized API with lightweight frontend
+3. **Enhanced User Experience**: Modern React-based UI with responsive design
+4. **Better Scalability**: Independent scaling of frontend and backend components
+5. **Superior Developer Experience**: Specialized frontend and backend technologies
+
+The original Streamlit implementation is preserved in the `archive/streamlit-implementation` branch for reference and historical purposes.
