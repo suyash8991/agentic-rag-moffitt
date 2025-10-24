@@ -30,8 +30,17 @@ const ChatInput: React.FC<ChatInputProps> = ({ onSendMessage, isLoading }) => {
         type="submit"
         disabled={isLoading || !message.trim()}
         className="send-button"
+        aria-label="Send message"
       >
-        {isLoading ? 'Sending...' : 'Send'}
+        {isLoading ? (
+          <span className="loading-dots">
+            <span className="dot"></span>
+            <span className="dot"></span>
+            <span className="dot"></span>
+          </span>
+        ) : (
+          <img src="/send-message.png" alt="Send" className="send-icon" />
+        )}
       </button>
     </form>
   );
