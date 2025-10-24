@@ -9,6 +9,7 @@ import assistantAvatar from '../../assets/assistant-avatar.svg';
 interface Message {
   content: string;
   isUser: boolean;
+  isWarning?: boolean;
 }
 
 const ChatContainer: React.FC = () => {
@@ -34,7 +35,8 @@ const ChatContainer: React.FC = () => {
           ...prevMessages,
           {
             content: 'Warning: Unable to connect to the backend API. The chat functionality may not work properly.',
-            isUser: false
+            isUser: false,
+            isWarning: true
           }
         ]);
       }
@@ -56,7 +58,8 @@ const ChatContainer: React.FC = () => {
     if (!isBackendAvailable) {
       const errorMessage: Message = {
         content: 'Cannot process your request. The backend API is currently unavailable. Please try again later.',
-        isUser: false
+        isUser: false,
+        isWarning: true
       };
       setMessages(prevMessages => [...prevMessages, errorMessage]);
       setIsLoading(false);
@@ -79,7 +82,8 @@ const ChatContainer: React.FC = () => {
 
       const errorMessage: Message = {
         content: 'Sorry, there was an error processing your request. The backend may be unavailable. Please try again later.',
-        isUser: false
+        isUser: false,
+        isWarning: true
       };
       setMessages(prevMessages => [...prevMessages, errorMessage]);
       setIsLoading(false);
@@ -94,6 +98,7 @@ const ChatContainer: React.FC = () => {
             key={index}
             content={message.content}
             isUser={message.isUser}
+            isWarning={message.isWarning}
           />
         ))}
         {isLoading && (

@@ -7,6 +7,7 @@ import assistantAvatar from '../../assets/assistant-avatar.svg';
 interface ChatMessageProps {
   content: string;
   isUser: boolean;
+  isWarning?: boolean;
 }
 
 // Convert plain text to basic HTML: linkify URLs and preserve line breaks.
@@ -36,10 +37,16 @@ function linkifyHtml(text: string): string {
     .join("");
 }
 
-const ChatMessage: React.FC<ChatMessageProps> = ({ content, isUser }) => {
+const ChatMessage: React.FC<ChatMessageProps> = ({ content, isUser, isWarning }) => {
   const rendered = linkifyHtml(content);
+  const messageClass = isUser
+    ? 'user-message'
+    : isWarning
+      ? 'assistant-message warning'
+      : 'assistant-message';
+
   return (
-    <div className={`message ${isUser ? 'user-message' : 'assistant-message'}`}>
+    <div className={`message ${messageClass}`}>
       <div className="message-avatar">
         <img
           src={isUser ? userAvatar : assistantAvatar}
