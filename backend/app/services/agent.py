@@ -186,12 +186,21 @@ async def process_query(
         """
 
         # Generate the response using our system prompt
-        answer = await generate_text(
+        raw_answer = await generate_text(
             prompt=prompt,
             system_prompt=DEFAULT_SYSTEM_PROMPT,
             temperature=0.7,
         )
         _query_statuses[query_id]["progress"] = 1.0
+
+        # Extract only the final answer if it follows the expected format
+        answer = raw_answer
+        if "Final Answer:" in raw_answer:
+            # Extract everything after "Final Answer:"
+            answer = raw_answer.split("Final Answer:", 1)[1].strip()
+        elif "Thought:" in raw_answer and "Action:" in raw_answer:
+            # If we just get the thinking process without a final answer, add an explanation
+            answer = f"I'm still processing your query about '{query}'. Here's what I've found so far from Moffitt Cancer Center's researcher database: {search_results_text[:500]}... [Results truncated]"
 
         # Create the final response
         response = QueryResponse(
