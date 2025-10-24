@@ -109,10 +109,10 @@
   display: flex;
   flex-direction: column;
   height: 100%;
-  border: 1px solid #ddd;
+  border: 1px solid var(--color-border);
   border-radius: 8px;
   overflow: hidden;
-  background-color: white;
+  background-color: var(--color-background);
 }
 
 .chat-messages {
@@ -158,10 +158,10 @@
 }
 
 .message-content {
-  padding: 0.85rem 1rem;
-  border-radius: 12px;
+  padding: 1rem 1.15rem;
+  border-radius: 14px;
   max-width: 70%;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow-sm);
   line-height: 1.5;
 }
 
@@ -178,40 +178,57 @@
 }
 
 .user-message .message-content {
-  background-color: #0078C1;
-  color: white;
+  background-color: var(--color-user-message);
+  color: var(--color-text-primary);
   border-top-right-radius: 4px;
   margin-right: 0.5rem;
 }
 
 .assistant-message .message-content {
-  background-color: #f5f7f9;
-  color: #333;
+  background-color: var(--color-surface);
+  color: var(--color-text-primary);
   border-top-left-radius: 4px;
   margin-left: 0.5rem;
-  border-left: 3px solid #0078C1;
+  border-left: 3px solid var(--color-accent);
+}
+
+/* Add a special style for warning messages */
+.assistant-message.warning .message-content {
+  background-color: var(--color-warning);
+  color: var(--color-text-primary);
+  border-left-color: #FFB224;
 }
 
 /* Add styling for code blocks within messages */
 .message-content pre {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: rgba(0, 0, 0, 0.25);
   padding: 0.75rem;
   border-radius: 6px;
   overflow-x: auto;
   margin: 0.5rem 0;
   font-family: 'Consolas', 'Monaco', monospace;
   font-size: 0.9rem;
+  border: 1px solid var(--color-border);
+}
+
+.message-content code {
+  background-color: rgba(0, 0, 0, 0.25);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-family: 'Consolas', 'Monaco', monospace;
+  font-size: 0.9em;
 }
 
 /* Make links in assistant messages stand out */
 .assistant-message a {
-  color: #0078C1;
+  color: var(--color-accent);
   text-decoration: none;
   font-weight: 500;
 }
 
 .assistant-message a:hover {
   text-decoration: underline;
+  opacity: 0.9;
 }
 
 .chat-input-container {
