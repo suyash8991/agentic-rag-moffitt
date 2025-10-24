@@ -3,6 +3,8 @@ import ChatMessage from './ChatMessage';
 import ChatInput from './ChatInput';
 import LoadingIndicator from './LoadingIndicator';
 import { sendQuery, fetchHealth } from '../../services/api';
+// @ts-ignore
+import assistantAvatar from '../../assets/assistant-avatar.svg';
 
 interface Message {
   content: string;
@@ -94,6 +96,21 @@ const ChatContainer: React.FC = () => {
             isUser={message.isUser}
           />
         ))}
+        {isLoading && (
+          <div className="message assistant-message">
+            <div className="message-avatar">
+              <img
+                src={assistantAvatar}
+                alt="Assistant"
+                width="36"
+                height="36"
+              />
+            </div>
+            <div className="message-content">
+              <LoadingIndicator />
+            </div>
+          </div>
+        )}
       </div>
       <ChatInput onSendMessage={sendMessage} isLoading={isLoading} />
     </div>
