@@ -7,7 +7,7 @@ from app.core.config import settings
 from app.core.security import get_api_key
 
 # Import routers
-from app.api.endpoints import researchers
+from app.api.endpoints import researchers, query
 
 app = FastAPI(
     title="Moffitt Agentic RAG API",
@@ -49,6 +49,7 @@ async def get_settings(api_key: str = Depends(get_api_key)):
 
 # Include routers
 app.include_router(researchers.router, prefix="/api", tags=["researchers"])
+app.include_router(query.router, prefix="/api", tags=["query"])
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

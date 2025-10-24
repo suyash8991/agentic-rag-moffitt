@@ -117,6 +117,13 @@ async def websocket_query(websocket: WebSocket):
 - Set up API service layer
 - Implement authentication state and API key management
 
+#### Minimal Viable Frontend
+- Focus on implementing only the core chat interface
+- Skip advanced features until the basic functionality is working
+- Prioritize a working chat box over styling and animations
+- Aim for a minimal but functional UI that demonstrates the core RAG capabilities
+- Defer non-essential UI elements to later iterations
+
 ### Week 4: Chat Interface Development
 
 #### Message Components
@@ -333,12 +340,36 @@ services:
       - backend
 ```
 
-## Development Best Practices
+## Progress Tracking
 
-### Commit Strategy
+### Current Progress (Updated: 2025-10-23)
+
+#### Completed Tasks
+- ✅ Created basic FastAPI project structure
+- ✅ Implemented environment variable configuration
+- ✅ Added API key authentication
+- ✅ Created health check and settings endpoints
+- ✅ Integrated researchers router with endpoints for:
+  - Researchers list
+  - Researcher details
+  - Departments list
+  - Programs list
+
+#### In Progress
+- 🔄 Setting up React frontend with minimal chat interface
+
+#### Next Steps
+- 📝 Implement query endpoints and vector database integration
+- 📝 Connect React frontend to FastAPI backend
+
+### Development Best Practices
+
+#### Commit Strategy
 - **Commit frequently** with focused changes
 - Keep commits small and targeted to specific functionality
 - Use descriptive commit messages that explain the purpose of the changes
+- Provide commit messages after each small functional component is completed
+- Document what was changed and why in each commit
 - Aim for commits that can be easily reviewed and understood
 - Create meaningful checkpoints that allow for easier debugging and rollback if needed
 
