@@ -108,7 +108,34 @@ async def process_query(
                 formatted_results.append("Error processing this search result.")
 
         # Update the tool call with the search results
-        steps[-1].tool_calls[0].output = "\n\n---\n\n".join(formatted_results)
+        if steps and len(steps) > 0 and hasattr(steps[-1], 'tool_calls') and steps[-1].tool_calls and len(steps[-1].tool_calls) > 0:
+            steps[-1].tool_calls[0].output = "\n\n---\n\n".join(formatted_results)
+        else:
+            # Handle the case where tool_calls is None or empty
+            logger.warning("No tool calls found in steps, cannot update output")
+            # Add a step with tool calls if needed
+            if not steps or len(steps) == 0:
+                steps.append(
+                    QueryStep(
+                        thought="Searching for relevant researchers based on the query.",
+                        tool_calls=[
+                            ToolCall(
+                                tool_type="researcher_search",
+                                input={"query": query},
+                                output="\n\n---\n\n".join(formatted_results)
+                            )
+                        ]
+                    )
+                )
+            elif not hasattr(steps[-1], 'tool_calls') or not steps[-1].tool_calls or len(steps[-1].tool_calls) == 0:
+                steps[-1].tool_calls = [
+                    ToolCall(
+                        tool_type="researcher_search",
+                        input={"query": query},
+                        output="\n\n---\n\n".join(formatted_results)
+                    )
+                ]
+
         _query_statuses[query_id]["progress"] = 0.6
 
         # Step 3: Generate a response
@@ -119,6 +146,26 @@ async def process_query(
         )
 
         # Prepare the prompt for response generation
+        search_results_text = ""
+
+        # Safely access the search results if they exist
+        # Look for the step with tool calls for researcher_search
+        search_step_index = -1
+        for i, step in enumerate(steps):
+            if (hasattr(step, 'tool_calls') and step.tool_calls and
+                len(step.tool_calls) > 0 and
+                step.tool_calls[0].tool_type == "researcher_search" and
+                step.tool_calls[0].output):
+                search_step_index = i
+                break
+
+        if search_step_index >= 0:
+            search_results_text = steps[search_step_index].tool_calls[0].output
+        elif formatted_results:
+            search_results_text = "\n\n---\n\n".join(formatted_results)
+        else:
+            search_results_text = "No search results found for this query."
+
         prompt = f"""
         I need to answer a query about researchers at Moffitt Cancer Center.
 
@@ -126,7 +173,7 @@ async def process_query(
 
         Here are the search results:
 
-        {steps[-1].tool_calls[0].output}
+        {search_results_text}
 
         Based on these results, provide a comprehensive answer to the query. Focus on the most relevant information and cite specific researchers and their work when applicable.
         """

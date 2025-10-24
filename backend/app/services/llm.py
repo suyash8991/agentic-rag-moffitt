@@ -47,8 +47,14 @@ def get_llm_model(
     if provider is None:
         provider = settings.LLM_PROVIDER.lower()
 
+    # Select provider-specific model if not explicitly specified
     if model_name is None:
-        model_name = settings.LLM_MODEL_NAME
+        if provider == "openai":
+            model_name = settings.OPENAI_MODEL
+        elif provider == "groq":
+            model_name = settings.GROQ_MODEL
+        else:
+            model_name = settings.LLM_MODEL_NAME
 
     logger.info(f"Getting LLM model: provider={provider}, model={model_name}, temperature={temperature}")
 
