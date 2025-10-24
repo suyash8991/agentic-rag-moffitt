@@ -6,6 +6,9 @@ import os
 from app.core.config import settings
 from app.core.security import get_api_key
 
+# Import routers
+from app.api.endpoints import researchers
+
 app = FastAPI(
     title="Moffitt Agentic RAG API",
     description="API for the Moffitt Cancer Center Researcher Assistant",
@@ -43,6 +46,9 @@ async def get_settings(api_key: str = Depends(get_api_key)):
         "model": getattr(settings, f"{settings.LLM_PROVIDER.upper()}_MODEL", settings.LLM_MODEL_NAME),
         "embedding_model": settings.EMBEDDING_MODEL_NAME,
     }
+
+# Include routers
+app.include_router(researchers.router, prefix="/api", tags=["researchers"])
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
