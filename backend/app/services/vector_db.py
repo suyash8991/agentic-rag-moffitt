@@ -126,15 +126,26 @@ def similarity_search(query: str, k: int = 4,
         db = get_or_create_vector_db()
         if db is None:
             logger.error("Failed to load or create vector database")
-            return []
+            # Return a list with a fallback Document
+            from langchain_core.documents import Document
+            return [Document(page_content="No vector database available. Please contact system administrator.", metadata={"researcher_name": "System", "program": "N/A", "department": "N/A", "profile_url": ""})]
 
     # Perform the search
     try:
         results = db.similarity_search(query, k=k, filter=filter)
+
+        # If no results were found, return a helpful message
+        if not results:
+            logger.warning(f"No results found for query: {query}")
+            from langchain_core.documents import Document
+            return [Document(page_content=f"No results found for query: {query}. Try another search term.", metadata={"researcher_name": "System", "program": "N/A", "department": "N/A", "profile_url": ""})]
+
         return results
     except Exception as e:
         logger.error(f"Error in similarity search: {e}")
-        return []
+        # Return a list with an error Document
+        from langchain_core.documents import Document
+        return [Document(page_content=f"Error searching the database: {str(e)}", metadata={"researcher_name": "System", "program": "N/A", "department": "N/A", "profile_url": ""})]
 
 
 def rebuild_vector_database(force: bool = False, background_tasks: BackgroundTasks = None):

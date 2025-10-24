@@ -89,11 +89,23 @@ async def process_query(
         # Format the search results
         formatted_results = []
         for doc in search_results:
-            researcher_name = doc.metadata.get("researcher_name", "Unknown Researcher")
-            program = doc.metadata.get("program", "Unknown Program")
-            department = doc.metadata.get("department", "Unknown Department")
-            profile_url = doc.metadata.get("profile_url", "")
-            formatted_results.append(f"Researcher: {researcher_name}\nProgram: {program}\nDepartment: {department}\nContent: {doc.page_content[:300]}...\nProfile: {profile_url}")
+            try:
+                # Check if metadata is None before trying to access it
+                if not hasattr(doc, 'metadata') or doc.metadata is None:
+                    logger.warning(f"Document without metadata found in search results")
+                    content = doc.page_content[:300] if hasattr(doc, 'page_content') and doc.page_content else "No content available"
+                    formatted_results.append(f"Content: {content}...")
+                    continue
+
+                researcher_name = doc.metadata.get("researcher_name", "Unknown Researcher")
+                program = doc.metadata.get("program", "Unknown Program")
+                department = doc.metadata.get("department", "Unknown Department")
+                profile_url = doc.metadata.get("profile_url", "")
+                content = doc.page_content[:300] if hasattr(doc, 'page_content') and doc.page_content else "No content available"
+                formatted_results.append(f"Researcher: {researcher_name}\nProgram: {program}\nDepartment: {department}\nContent: {content}...\nProfile: {profile_url}")
+            except Exception as doc_error:
+                logger.error(f"Error processing search result document: {doc_error}")
+                formatted_results.append("Error processing this search result.")
 
         # Update the tool call with the search results
         steps[-1].tool_calls[0].output = "\n\n---\n\n".join(formatted_results)
