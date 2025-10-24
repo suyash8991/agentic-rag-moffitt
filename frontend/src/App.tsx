@@ -1,7 +1,7 @@
 import './App.css';
 import ChatContainer from './components/Chat/ChatContainer';
 // @ts-ignore
-import moffittLogo from './assets/moffitt-logo.svg';
+import moffittLogo from './assets/moffitt-logo-dark.svg';
 
 function App() {
   return (

@@ -1,17 +1,36 @@
+:root {
+  /* Dark mode color palette */
+  --color-background: #0F172A; /* Deep charcoal gray */
+  --color-surface: #1E293B; /* Blue-gray background */
+  --color-accent: #0078C1; /* Moffitt blue */
+  --color-text-primary: #E2E8F0; /* Soft white */
+  --color-text-secondary: rgba(226, 232, 240, 0.7); /* Soft white with opacity */
+  --color-border: #334155; /* Subtle border color */
+  --color-user-message: #374151; /* Darker gray for user messages */
+  --color-warning: #B45309; /* Amber warning color */
+  --color-header: #111827; /* Slightly lighter than background */
+  --color-footer: #6B7280; /* Light gray */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.4);
+}
+
 .App {
   display: flex;
   flex-direction: column;
   height: 100vh;
   font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
   overflow: hidden; /* Prevent scroll issues on mobile */
+  background-color: var(--color-background);
+  color: var(--color-text-primary);
 }
 
 .App-header {
-  background-color: #0078C1;
-  color: white;
-  padding: 1rem;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: var(--color-header);
+  color: var(--color-text-primary);
+  padding: 0.85rem 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   z-index: 10;
+  border-bottom: 1px solid var(--color-border);
 }
 
 .header-content {
@@ -56,15 +75,17 @@
 
 .App-header h1 {
   margin: 0;
-  font-size: 1.5rem;
-  font-weight: 600;
-  letter-spacing: 0.25px;
+  font-size: 1.3rem;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+  color: var(--color-text-primary);
 }
 
 .App-header p {
   margin: 0.25rem 0 0;
-  font-size: 0.9rem;
-  opacity: 0.9;
+  font-size: 0.85rem;
+  opacity: 0.7;
+  color: var(--color-text-secondary);
 }
 
 .App-main {
