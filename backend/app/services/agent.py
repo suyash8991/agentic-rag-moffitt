@@ -281,6 +281,8 @@ async def process_query(
         # Add a generic suggestion
         user_message += " Please try again with a more specific query, or contact support if the issue persists."
 
+        # No formatting needed, use the error message directly
+
         # Return an error response
         return QueryResponse(
             query_id=query_id,
@@ -290,6 +292,8 @@ async def process_query(
             completed=False,
             error=error_message,
         )
+
+
 
 
 def query_status(query_id: str) -> Optional[QueryStatus]:

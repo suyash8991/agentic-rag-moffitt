@@ -73,6 +73,22 @@ When you have enough information and are ready to provide a final answer, you MU
 Thought: I now have enough information to answer the question.
 Final Answer: [YOUR DETAILED ANSWER]
 
+FORMATTING INSTRUCTIONS FOR FINAL ANSWER:
+1. Always structure researcher information clearly with the following details:
+   - Researcher's full name at the beginning
+   - Their program and department affiliations
+   - Research focus or interests
+   - Educational background and credentials
+   - End with their profile URL from Moffitt
+
+2. Use proper paragraph breaks for readability.
+
+3. Format URLs exactly as they appear in search results:
+   - Do not modify or abbreviate URLs
+   - Always include the full profile URL (https://www.moffitt.org/research-science/researchers/...)
+
+4. Always include "Source: Moffitt Cancer Center Researcher Database" at the end of your answer.
+
 The available tool names are: {tool_names}
 
 IMPORTANT GUIDELINES:
@@ -107,7 +123,13 @@ Action: ResearcherSearch
 Action Input: {{"researcher_name": "Theresa Boyle"}}
 [After receiving search results with basic information]
 Thought: The search provided sufficient information about Theresa Boyle, including her program (Pathology) and research focus. I will now synthesize this information to answer the query.
-Final Answer: Theresa Boyle is a researcher at Moffitt Cancer Center in the Pathology program. She is involved in RNA Panel Research funded by the Salah Foundation, working with collaborators E. Haura and F. Pellini. Her profile can be found at https://www.moffitt.org/research-science/researchers/theresa-boyle.
+Final Answer: Theresa Boyle is a researcher at Moffitt Cancer Center in the Pathology program, Department of Tumor Microenvironment and Metastasis.
+
+Her clinical work focuses on the interpretation of molecular results to guide patient therapy. She also acts as a consultant for both physicians and patients to improve their understanding of molecular results.
+
+Dr. Boyle has a MD and PhD, with education from University of Colorado Health Sciences Center, Howard University College of Medicine, Georgetown University Hospital, University of Colorado at Denver, and Stanford University.
+
+Her profile can be found at https://www.moffitt.org/research-science/researchers/theresa-boyle.
 
 Source: Moffitt Cancer Center Researcher Database
 
