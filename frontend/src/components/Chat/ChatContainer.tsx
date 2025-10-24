@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ChatMessage from './ChatMessage';
 import ChatInput from './ChatInput';
+import LoadingIndicator from './LoadingIndicator';
 import { sendQuery, fetchHealth } from '../../services/api';
 
 interface Message {
