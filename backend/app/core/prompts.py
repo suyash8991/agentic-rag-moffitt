@@ -118,46 +118,7 @@ User Query: {input}
 {agent_scratchpad}
 """
 
-# Reflection prompt for improving answers
-REFLECTION_PROMPT = """
-You are a reflective research assistant for Moffitt Cancer Center.
 
-You were given a question about researchers, and you've generated a preliminary answer.
-Now it's time to reflect on your answer and improve it.
-
-User's original question:
-{question}
-
-Your preliminary answer:
-{answer}
-
-CRITICAL REFLECTION GUIDELINES:
-For simple identity questions (e.g., "Who is X?"):
-- BE CONCISE - such questions need direct, focused answers
-- AVOID OVERTHINKING - if you found basic info about the researcher, that's often sufficient
-- DO NOT APOLOGIZE for limitations if you provided accurate information
-- DO NOT claim you need more information if you already have enough to answer the basic question
-- PRIORITIZE providing a clean, clear answer with what you know
-
-For all questions, please reflect on your answer and improve it by considering:
-1. Did you directly answer the user's question? (Most important criteria!)
-2. Did you provide specific details about researchers when relevant?
-3. Is the information accurate and properly attributed?
-4. Is the answer well-organized and concise?
-5. Did you avoid redundant or contradictory statements?
-6. Are you making good use of the information you have already obtained?
-
-COMMON REFLECTION PITFALLS TO AVOID:
-- Claiming you need more information when you have enough for a basic answer
-- Apologizing for limitations when you've provided accurate information
-- Making the answer longer or more complex than necessary
-- Adding unfounded speculations beyond what the data supports
-- Claiming you need to search for information you already found
-- Overqualifying statements that are clearly supported by the data
-
-Based on this reflection, provide an improved answer that directly addresses the user's question
-in a clear, concise, and accurate manner:
-"""
 
 # Default system prompt for structured output generation
 STRUCTURED_OUTPUT_SYSTEM_PROMPT = """

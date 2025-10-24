@@ -217,3 +217,41 @@ def list_programs() -> List[str]:
     except Exception as e:
         logger.error(f"Error listing programs: {e}")
         return []
+
+
+def get_researchers_by_department(department: str) -> List[ResearcherProfileSummary]:
+    """
+    Get all researchers in a specific department.
+
+    Args:
+        department: The department name to filter by.
+
+    Returns:
+        List[ResearcherProfileSummary]: List of researchers in the department
+    """
+    try:
+        # Use list_researchers function with department filter
+        result = list_researchers(skip=0, limit=100, department=department)
+        return result.items
+    except Exception as e:
+        logger.error(f"Error getting researchers by department {department}: {e}")
+        return []
+
+
+def get_researchers_by_program(program: str) -> List[ResearcherProfileSummary]:
+    """
+    Get all researchers in a specific program.
+
+    Args:
+        program: The program name to filter by.
+
+    Returns:
+        List[ResearcherProfileSummary]: List of researchers in the program
+    """
+    try:
+        # Use list_researchers function with program filter
+        result = list_researchers(skip=0, limit=100, program=program)
+        return result.items
+    except Exception as e:
+        logger.error(f"Error getting researchers by program {program}: {e}")
+        return []
