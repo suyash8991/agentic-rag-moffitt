@@ -1,0 +1,622 @@
+# Moffitt Agentic RAG System: Code Documentation
+
+This document provides an overview of the codebase structure, explains the purpose of each module, and documents key functions to make navigation easier.
+
+## Project Structure
+
+```
+moffitt-agentic-rag/
+├── data/                     # Data directory containing researcher profiles
+│   ├── processed/            # JSON files of researcher profiles
+│   ├── markdown/             # Markdown files of researcher profiles
+│   └── raw_html/             # Original HTML content
+│
+├── docs/                     # Documentation for the system
+│
+├── logs/                     # Application logs directory
+│
+├── schemas/                  # JSON schemas for data validation
+│
+├── src/                      # Source code
+│   └── moffitt_rag/          # Main package
+│       ├── config/           # Configuration management
+│       ├── data/             # Data processing modules
+│       ├── db/               # Vector database functionality
+│       ├── models/           # Embedding and language models
+│       ├── agents/           # Agent orchestration
+│       ├── tools/            # Agent tools
+│       ├── utils/            # Utility modules (logging, etc.)
+│       ├── api/              # FastAPI backend
+│       └── frontend/         # Streamlit frontend
+│
+├── requirements.txt          # Project dependencies
+└── setup.py                  # Package installation script
+```
+
+## Module Documentation
+
+### Configuration (`src/moffitt_rag/config/`)
+
+#### `config.py`
+**Purpose**: Centralized configuration management for the entire system.
+
+**Key Components**:
+- `Settings` class: Pydantic model for all system settings
+- Environment variable integration via `dotenv`
+- Path configuration for data directories
+- Model settings for embeddings and LLMs
+
+**Key Functions**:
+- `get_settings()`: Returns the global settings instance
+
+**Usage**:
+```python
+from moffitt_rag.config.config import get_settings
+
+settings = get_settings()
+data_dir = settings.processed_data_dir
+```
+
+### Data Processing (`src/moffitt_rag/data/`)
+
+#### `models.py`
+**Purpose**: Defines structured data models for researcher profiles and related information.
+
+**Key Components**:
+- `ResearcherProfile`: Main model for researcher data
+- Supporting models: `Publication`, `Grant`, `Education`, `Contact`
+- `ResearcherChunk`: Model for text chunks used in vector database
+
+**Key Methods**:
+- `ResearcherProfile.to_document()`: Converts profile to format for embedding
+- `ResearcherProfile.to_text()`: Creates text representation of profile
+- Property getters for derived attributes (`full_name`, `publication_count`, etc.)
+
+**Usage**:
+```python
+from moffitt_rag.data.models import ResearcherProfile
+
+profile = ResearcherProfile.model_validate(data)
+text = profile.to_text()
+```
+
+#### `loader.py`
+**Purpose**: Loads researcher profiles from JSON files and processes them for embedding.
+
+**Key Functions**:
+- `load_researcher_profile(file_path)`: Loads a single profile from JSON
+- `load_all_researcher_profiles()`: Loads all profiles from the processed directory
+- `create_researcher_chunks(profile)`: Divides profiles into chunks for optimal retrieval
+- `load_all_chunks()`: Loads all profiles and creates chunks for them
+- `get_researcher_stats()`: Generates statistics about the dataset
+
+**Usage**:
+```python
+from moffitt_rag.data.loader import load_all_chunks
+
+chunks = load_all_chunks()
+```
+
+### Vector Database (`src/moffitt_rag/db/`)
+
+#### `vector_store.py`
+**Purpose**: Manages the Chroma vector database for storing and retrieving researcher profile embeddings.
+
+**Key Components**:
+- Database creation and management functions
+- Retriever creation for LangChain integration
+- Various search functions with different retrieval strategies
+
+**Key Functions**:
+- `create_vector_db(chunks)`: Creates a new vector database from researcher chunks
+- `load_vector_db()`: Loads an existing database from disk
+- `get_or_create_vector_db()`: Gets existing database or creates a new one
+- `create_retriever(db, search_type, search_kwargs)`: Creates a LangChain retriever
+- `similarity_search(query, k, filter)`: Performs semantic search
+- `max_marginal_relevance_search(query, k, fetch_k, lambda_mult)`: Performs search with diversity
+
+**Usage**:
+```python
+from moffitt_rag.db.vector_store import get_or_create_vector_db, similarity_search
+
+# Get or create the database
+db = get_or_create_vector_db()
+
+# Perform a search
+results = similarity_search("cancer evolution research", k=5)
+```
+
+#### `hybrid_search.py`
+**Purpose**: Implements hybrid search that combines vector similarity with keyword matching.
+
+**Key Components**:
+- Keyword-based search function
+- Weighted hybrid search combining semantic and keyword approaches
+- LangChain-compatible hybrid retriever class
+
+**Key Functions**:
+- `keyword_search(query, texts, metadata)`: Performs keyword matching
+- `hybrid_search(query, k, alpha)`: Combines semantic and keyword search with weighted scoring
+- `HybridRetriever`: LangChain retriever implementing hybrid search
+
+**Usage**:
+```python
+from moffitt_rag.db.hybrid_search import hybrid_search, HybridRetriever
+
+# Perform a hybrid search
+results = hybrid_search("cancer evolution research", k=5, alpha=0.7)
+
+# Create a hybrid retriever for LangChain
+retriever = HybridRetriever(k=5, alpha=0.7)
+```
+
+### Embedding and Language Models (`src/moffitt_rag/models/`)
+
+#### `embeddings.py`
+**Purpose**: Provides functionality for generating and managing embeddings using SentenceTransformers.
+
+**Key Components**:
+- Embedding model creation with configurable model name
+- Functions for generating embeddings for texts and queries
+- Utility for calculating embedding similarity
+
+**Key Functions**:
+- `get_embedding_model(model_name)`: Creates a HuggingFace embedding model
+- `generate_embeddings(texts)`: Generates embeddings for a list of texts
+- `embed_query(query)`: Generates an embedding for a single query
+- `embedding_similarity(embedding1, embedding2)`: Calculates cosine similarity
+
+**Usage**:
+```python
+from moffitt_rag.models.embeddings import generate_embeddings, embed_query
+
+# Generate embeddings for multiple texts
+texts = ["Researcher focuses on cancer genomics", "Expert in immunotherapy"]
+embeddings = generate_embeddings(texts)
+
+# Generate embedding for a query
+query_embedding = embed_query("cancer research")
+```
+
+#### `llm.py`
+**Purpose**: Provides an interface for using language models from multiple providers (OpenAI, Groq, Euron, Ollama).
+
+**Key Components**:
+- Multi-provider LLM support (OpenAI, Groq, Euron, Ollama)
+- Provider fallback system with automatic switching on rate limits
+- Environment-based configuration
+- Text generation with system prompts
+- Structured JSON output generation
+- Error handling and recovery
+
+#### `euron_chat.py`
+**Purpose**: Custom LangChain integration for the Euron.ai API.
+
+**Key Components**:
+- `ChatEuron` class implementing LangChain's BaseChatModel interface
+- Message formatting for Euron's API requirements
+- HTTP request handling with proper error management
+- Environment variable integration for API keys
+
+**Key Functions**:
+- `get_llm_model(provider, model_name)`: Creates an LLM from the specified provider
+- `generate_text(prompt, system_prompt)`: Generates text from a prompt
+- `generate_structured_output(prompt, output_schema)`: Generates structured JSON output
+
+**Usage**:
+```python
+from moffitt_rag.models.llm import generate_text, LLMProvider
+
+# Generate text using Groq
+response = generate_text(
+    "Explain the benefits of vector databases for RAG systems",
+    provider=LLMProvider.GROQ
+)
+
+# Generate text using OpenAI
+response = generate_text(
+    "Summarize this researcher's focus",
+    provider=LLMProvider.OPENAI,
+    model_name="gpt-4o"
+)
+
+# Generate text using Euron
+response = generate_text(
+    "Explain cancer immunotherapy approaches",
+    provider=LLMProvider.EURON,
+    model_name="gpt-4.1-nano"
+)
+
+# Using the custom Euron chat model directly
+from moffitt_rag.models.euron_chat import ChatEuron
+
+euron_model = ChatEuron(model="gpt-4.1-nano")
+messages = [
+    SystemMessage(content="You are a research assistant."),
+    HumanMessage(content="Summarize recent advances in cancer research.")
+]
+response = euron_model.invoke(messages)
+```
+
+### Agent Orchestration (`src/moffitt_rag/agents/`)
+
+#### `agent.py`
+**Purpose**: Implements the main researcher agent using LangChain's ReAct framework.
+
+**Key Components**:
+- Agent creation with configurable LLM providers
+- Integration with all specialized tools
+- Prompt templates for researcher queries
+- System message customization
+
+**Key Functions**:
+- `create_researcher_agent(llm_provider, model_name, system_message, temperature, enable_reflection, max_llm_calls)`: Creates a researcher agent with the specified configuration, including optional call limiting and reflection capabilities
+
+**Usage**:
+```python
+from moffitt_rag.agents import create_researcher_agent
+from moffitt_rag.models.llm import LLMProvider
+
+# Create the agent with call limiting and reflection
+agent = create_researcher_agent(
+    llm_provider=LLMProvider.GROQ,
+    model_name="meta-llama/llama-4-scout-17b-16e-instruct",
+    temperature=0.3,
+    enable_reflection=True,
+    max_llm_calls=3
+)
+
+# Use the agent
+response = agent.invoke({"input": "Who studies cancer evolution at Moffitt?"})
+```
+
+#### `limited_call.py`
+**Purpose**: Implements a wrapper around the agent executor to limit the number of LLM calls per query.
+
+**Key Components**:
+- LimitedCallAgentExecutor wrapper class with call tracking
+- Best result selection when terminating early
+- Method interception for tracking LLM calls
+- Integration with the agent creation process
+
+**Key Functions**:
+- `LimitedCallAgentExecutor.__init__(agent_executor, max_calls)`: Initializes the wrapper with a call limit
+- `LimitedCallAgentExecutor.invoke(inputs)`: Invokes the agent with call limiting
+- `LimitedCallAgentExecutor._get_best_result()`: Selects the best result when hitting the call limit
+- `create_limited_call_agent_executor(agent_executor, max_calls)`: Creates a wrapper around an agent executor
+
+**Usage**:
+```python
+from moffitt_rag.agents.limited_call import create_limited_call_agent_executor
+from moffitt_rag.agents import create_researcher_agent
+
+# Create a basic agent
+base_agent = create_researcher_agent(
+    enable_reflection=True,
+    max_llm_calls=3
+)
+
+# Or apply call limiting separately
+limited_agent = create_limited_call_agent_executor(base_agent, max_calls=3)
+
+# Use the agent with call limiting
+response = limited_agent.invoke({"input": "Who studies cancer evolution at Moffitt?"})
+```
+
+#### `reflection.py`
+**Purpose**: Adds reflection capabilities to the agent for improved responses.
+
+**Key Components**:
+- Self-reflection mechanism to evaluate answers
+- Response improvement based on reflection
+- Reflective agent wrapper
+
+**Key Functions**:
+- `reflect_on_answer(question, answer)`: Reflects on an answer to improve it
+- `create_reflective_agent_executor(agent_executor)`: Creates a reflective agent wrapper
+
+**Usage**:
+```python
+from moffitt_rag.agents import create_researcher_agent, reflect_on_answer
+
+# Create an agent with reflection enabled
+agent = create_researcher_agent(
+    enable_reflection=True
+)
+
+# Or use reflection directly
+improved_answer = reflect_on_answer(
+    question="Who are the experts in immunotherapy?",
+    answer="John Smith works on immunotherapy."
+)
+```
+
+#### `examples.py`
+**Purpose**: Provides example usage of the agent for different query types.
+
+**Key Components**:
+- Examples for different agent capabilities
+- Function to run a set of diverse example queries
+- Demonstration of different agent configurations
+
+**Key Functions**:
+- `basic_agent_example(query)`: Runs a basic example with the agent
+- `run_example_queries()`: Runs a set of diverse example queries
+- Specialized examples for each agent capability (researcher search, department filter, etc.)
+
+**Usage**:
+```python
+from moffitt_rag.agents import (
+    basic_agent_example,
+    researcher_search_example,
+    department_filter_example
+)
+
+# Run a basic example
+response = basic_agent_example("Who studies cancer evolution?")
+
+# Run a specialized example
+immunology_researchers = department_filter_example("Immunology")
+```
+
+### Agent Tools (`src/moffitt_rag/tools/`)
+
+#### `researcher_search.py`
+**Purpose**: Implements a tool for searching researchers by expertise, interests, or background.
+
+**Key Components**:
+- Semantic search using hybrid search functionality
+- Relevant snippet extraction from search results
+- Formatted results with researcher details
+- Properly typed fields for Pydantic compatibility
+
+**Key Functions**:
+- `extract_relevant_snippet(text, query)`: Extracts relevant snippets from text
+- `ResearcherSearchTool._run(query)`: Performs the search and formats results
+
+**Class Definition**:
+```python
+class ResearcherSearchTool(BaseTool):
+    """
+    Tool for searching researchers by expertise, interests, or background.
+    """
+
+    name: str = "ResearcherSearch"  # Type annotation required for Pydantic
+    description: str = "Search for researchers by their expertise, interests, or background"
+
+    def _run(self, query: str) -> str:
+        # Implementation...
+```
+
+**Usage**:
+```python
+from moffitt_rag.tools import ResearcherSearchTool
+
+# Create the tool
+tool = ResearcherSearchTool()
+
+# Use the tool
+results = tool.run("cancer immunotherapy resistance mechanisms")
+```
+
+#### `department_filter.py`
+**Purpose**: Filters researchers by their academic department.
+
+**Key Components**:
+- Department-based filtering using metadata
+- Department listing functionality
+- Flexible matching for partial department names
+- Properly typed fields for Pydantic compatibility
+
+**Key Functions**:
+- `DepartmentFilterTool._run(department)`: Filters researchers by department
+- `DepartmentFilterTool._list_departments()`: Lists all available departments
+
+**Class Definition**:
+```python
+class DepartmentFilterTool(BaseTool):
+    """
+    Tool for filtering researchers by their department.
+    """
+
+    name: str = "DepartmentFilter"  # Type annotation required for Pydantic
+    description: str = "Filter researchers by their department"
+
+    def _run(self, department: str) -> str:
+        # Implementation...
+```
+
+**Usage**:
+```python
+from moffitt_rag.tools import DepartmentFilterTool
+
+# Create the tool
+tool = DepartmentFilterTool()
+
+# List all departments
+departments = tool.run("list")
+
+# Filter by department
+immunology_researchers = tool.run("Immunology")
+```
+
+#### `program_filter.py`
+**Purpose**: Filters researchers by their research program.
+
+**Key Components**:
+- Program-based filtering using metadata
+- Program listing functionality
+- Combines exact matches with semantic search
+- Properly typed fields for Pydantic compatibility
+
+**Key Functions**:
+- `ProgramFilterTool._run(program)`: Filters researchers by program
+- `ProgramFilterTool._list_programs()`: Lists all available programs
+
+**Class Definition**:
+```python
+class ProgramFilterTool(BaseTool):
+    """
+    Tool for filtering researchers by their research program.
+    """
+
+    name: str = "ProgramFilter"  # Type annotation required for Pydantic
+    description: str = "Filter researchers by their research program"
+
+    def _run(self, program: str) -> str:
+        # Implementation...
+```
+
+**Usage**:
+```python
+from moffitt_rag.tools import ProgramFilterTool
+
+# Create the tool
+tool = ProgramFilterTool()
+
+# List all programs
+programs = tool.run("list")
+
+# Filter by program
+bioengineering_researchers = tool.run("BioEngineering")
+```
+
+#### `interest_match.py`
+**Purpose**: Finds researchers with similar research interests.
+
+**Key Components**:
+- Similar researcher discovery
+- Interest-based matching
+- Relevant interest and snippet extraction
+- Properly typed fields for Pydantic compatibility
+
+**Key Functions**:
+- `InterestMatchTool._find_similar_researchers(researcher_name)`: Finds similar researchers
+- `InterestMatchTool._find_matching_interests(query)`: Finds researchers by interests
+- `InterestMatchTool._find_relevant_interests(interests, query)`: Finds relevant interests
+
+**Class Definition**:
+```python
+class InterestMatchTool(BaseTool):
+    """
+    Tool for finding researchers with similar research interests.
+    """
+
+    name: str = "InterestMatch"  # Type annotation required for Pydantic
+    description: str = "Find researchers with similar research interests"
+
+    def _run(self, query: str) -> str:
+        # Implementation...
+```
+
+**Usage**:
+```python
+from moffitt_rag.tools import InterestMatchTool
+
+# Create the tool
+tool = InterestMatchTool()
+
+# Find researchers similar to a named researcher
+similar_researchers = tool.run("similar to John Cleveland")
+
+# Find researchers with specific interests
+cancer_evolution_researchers = tool.run("cancer evolution")
+```
+
+#### `collaboration.py`
+**Purpose**: Discovers potential collaborations between researchers or departments.
+
+**Key Components**:
+- Interdepartmental collaboration discovery
+- Researcher-specific collaboration suggestions
+- Common research interest detection
+- Properly typed fields for Pydantic compatibility
+
+**Key Functions**:
+- `CollaborationTool._find_interdepartmental_collaborations(query)`: Finds collaborations between departments
+- `CollaborationTool._find_researcher_collaborations(query)`: Finds collaborators for a researcher
+- `CollaborationTool._find_collaborations_between_groups(group1, group2)`: Finds collaborations between groups
+- `CollaborationTool._find_common_interests(r1, r2)`: Finds common interests between researchers
+
+**Class Definition**:
+```python
+class CollaborationTool(BaseTool):
+    """
+    Tool for discovering potential collaborations between researchers or departments.
+    """
+
+    name: str = "Collaboration"  # Type annotation required for Pydantic
+    description: str = "Find potential collaborations between researchers or departments"
+
+    def _run(self, query: str) -> str:
+        # Implementation...
+```
+
+**Usage**:
+```python
+from moffitt_rag.tools import CollaborationTool
+
+# Create the tool
+tool = CollaborationTool()
+
+# Find interdepartmental collaborations
+dept_collaborations = tool.run("between Biostatistics and Cancer Epidemiology")
+
+# Find collaborators for a researcher
+researcher_collaborations = tool.run("for John Cleveland")
+```
+
+### API (`src/moffitt_rag/api/`)
+
+*(Not yet implemented)*
+
+This module will provide:
+- FastAPI routes for querying the system
+- Request/response models
+- Error handling and logging
+
+### Frontend (`src/moffitt_rag/frontend/`)
+
+*(Not yet implemented)*
+
+This module will include:
+- Streamlit chat interface
+- Visualization components
+- User session management
+
+### Utilities (`src/moffitt_rag/utils/`)
+
+#### `logging.py`
+**Purpose**: Centralized logging configuration and utilities for the entire system.
+
+**Key Components**:
+- Centralized logging configuration with multiple handlers
+- File logging with rotation (daily and size-based)
+- Query logging and tracking
+- Exception logging utilities
+- Context managers for logging specific operations
+
+**Key Functions**:
+- `init_logging(console_level, file_level, log_dir)`: Initialize the logging system
+- `get_logger(name)`: Get a logger for a specific module
+- `log_exception(exception, logger, level, message)`: Log an exception with proper formatting
+- `QueryLogger`: Context manager for tracking and timing queries
+- `log_function_call`: Decorator to log function calls
+
+**Usage**:
+```python
+from moffitt_rag.utils.logging import init_logging, get_logger, QueryLogger
+
+# Initialize logging
+init_logging(log_dir="logs")
+
+# Get a logger for a module
+logger = get_logger(__name__)
+logger.info("This is an informational message")
+logger.error("This is an error message")
+
+# Use the query logger
+with QueryLogger("Who is John Doe?") as qlog:
+    result = agent.invoke({"input": "Who is John Doe?"})
+    qlog.set_result(result)
+```
