@@ -1,8 +1,9 @@
 import React from 'react';
 // @ts-ignore
 import userAvatar from '../../assets/user-avatar.svg';
-// @ts-ignore
-import assistantAvatar from '../../assets/assistant-avatar.svg';
+// Using the Moffitt agent logo from public folder
+// In React, we need to use process.env.PUBLIC_URL to get the correct public path
+const assistantAvatar = `${process.env.PUBLIC_URL}/moffitt-agent-logo.svg`;
 
 interface ChatMessageProps {
   content: string;

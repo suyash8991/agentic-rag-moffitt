@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git add src/moffitt_rag/streamlit/app.py)"
+      "Bash(git add src/moffitt_rag/streamlit/app.py)",
+      "Bash(development_progress.md index.md input_data.md logging_fixes_plan.md Project_info.md )",
+      "Bash(researcher_search.md tools_logic.md archived/)",
+      "Bash(git add:*)",
+      "Bash(dir \"c:\\Coding\\Projects\\moffitt-agentic-rag\" /B)"
     ],
     "deny": [],
     "ask": []
