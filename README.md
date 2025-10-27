@@ -144,6 +144,3 @@ For detailed development documentation, see:
 - [DEVELOPMENT.md](docs/DEVELOPMENT.md) - Comprehensive code documentation
 - [TOOLS.md](docs/TOOLS.md) - Specialized tools documentation
 
-## Contributors
-
-- Lead Engineer: Tejas Kumar Leelavathi
