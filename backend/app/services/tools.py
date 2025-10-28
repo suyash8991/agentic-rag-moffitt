@@ -14,6 +14,7 @@ from pydantic import BaseModel, Field
 
 from .vector_db import similarity_search
 from .researcher import get_researchers_by_department, get_researchers_by_program
+from .hybrid_search import hybrid_search
 
 # Setup logging
 logger = logging.getLogger(__name__)
@@ -63,12 +64,19 @@ class ResearcherSearchTool(BaseTool):
         if researcher_name and topic:
             return "Error: Please provide EITHER 'researcher_name' OR 'topic', not both."
 
-        # Determine the search query
-        query = researcher_name if researcher_name else topic
+        # Determine the search query and alpha parameter
+        if researcher_name:
+            query = researcher_name
+            alpha = 0.3  # Favor keyword matching for name searches
+            logger.info(f"Performing name search with alpha={alpha}")
+        else:
+            query = topic
+            alpha = 0.7  # Favor semantic matching for topic searches
+            logger.info(f"Performing topic search with alpha={alpha}")
 
-        # Perform the search
+        # Perform hybrid search
         try:
-            results = similarity_search(query, k=5)
+            results = hybrid_search(query=query, k=5, alpha=alpha)
 
             if not results:
                 if researcher_name:
@@ -81,24 +89,27 @@ class ResearcherSearchTool(BaseTool):
             for i, doc in enumerate(results):
                 try:
                     if not hasattr(doc, 'metadata') or doc.metadata is None:
-                        content = doc.page_content[:1000] if hasattr(doc, 'page_content') else "No content available"
+                        # Use full content instead of truncating
+                        content = doc.page_content if hasattr(doc, 'page_content') else "No content available"
                         formatted_results.append(f"Result {i+1}:\n{content}")
                         continue
 
-                    researcher_name = doc.metadata.get("researcher_name", "Unknown Researcher")
+                    name = doc.metadata.get("researcher_name", "Unknown Researcher")
                     program = doc.metadata.get("program", "Unknown Program")
                     department = doc.metadata.get("department", "Unknown Department")
                     profile_url = doc.metadata.get("profile_url", "")
+                    chunk_type = doc.metadata.get("chunk_type", "Unknown Type")
 
-                    content = doc.page_content[:1000] if hasattr(doc, 'page_content') and doc.page_content else "No content available"
+                    # Use full content instead of truncating at 1000 chars
+                    content = doc.page_content if hasattr(doc, 'page_content') and doc.page_content else "No content available"
 
                     formatted_results.append(
-                        f"Researcher: {researcher_name}\n"
+                        f"Researcher: {name}\n"
                         f"Program: {program}\n"
                         f"Department: {department}\n"
-                        f"Content: {content}...\n"
+                        f"Chunk Type: {chunk_type}\n"
+                        f"Content: {content}\n"
                         f"Profile: {profile_url}\n"
-                        f"[INFORMATION SUFFICIENCY NOTE: This contains basic information about the researcher.]"
                     )
                 except Exception as e:
                     logger.error(f"Error formatting result {i+1}: {e}")
