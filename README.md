@@ -105,7 +105,9 @@ For local development, you can run the backend and frontend separately.
 
 ### Backend
 
-See the [backend README](backend/README.md) for setup and running instructions.
+See the [backend README](backend/README.md) for setup and running instructions. For deeper details:
+- Technical reference: `backend/docs/TECHNICAL_REFERENCE.md`
+- Name normalization design: `backend/docs/NAME_NORMALIZATION_DESIGN.md`
 
 ### Frontend
 
