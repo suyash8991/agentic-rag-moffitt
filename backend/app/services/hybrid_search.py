@@ -13,9 +13,10 @@ from collections import defaultdict
 from langchain_core.documents import Document
 
 from .vector_db import get_or_create_vector_db
+from ..utils.logging import get_logger, log_tool_event
 
 # Setup logging
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 
 def keyword_search(
@@ -105,12 +106,19 @@ def hybrid_search(
     Returns:
         List of documents ranked by combined score
     """
-    logger.info(f"Performing hybrid search with query='{query}', k={k}, alpha={alpha}")
+    # Log hybrid search start
+    log_tool_event("hybrid_search_start", {
+        "query": query[:100],
+        "k": k,
+        "alpha": alpha,
+        "has_filter": filter is not None
+    })
 
     # Get vector database
     db = get_or_create_vector_db()
     if db is None:
         logger.error("Failed to load vector database")
+        log_tool_event("hybrid_search_error", {"error": "database_unavailable"})
         return []
 
     # Perform semantic search (vector-based) with scores
@@ -121,23 +129,34 @@ def hybrid_search(
             k=k * 2,  # Get more candidates for hybrid scoring
             filter=filter
         )
-        logger.info(f"Semantic search returned {len(semantic_results)} results")
+        log_tool_event("semantic_search_complete", {
+            "result_count": len(semantic_results),
+            "k_requested": k * 2
+        })
     except Exception as e:
         logger.error(f"Error in semantic search: {e}")
+        log_tool_event("semantic_search_error", {"error": str(e)})
         semantic_results = []
 
     # Get all documents for keyword search
     try:
         # Get more documents from the database for keyword search
         all_docs = db.similarity_search(query, k=k * 3, filter=filter)
-        logger.info(f"Retrieved {len(all_docs)} documents for keyword search")
+        log_tool_event("documents_retrieved", {
+            "document_count": len(all_docs),
+            "k_requested": k * 3
+        })
     except Exception as e:
         logger.error(f"Error retrieving documents: {e}")
+        log_tool_event("document_retrieval_error", {"error": str(e)})
         all_docs = []
 
     # Perform keyword search
     keyword_results = keyword_search(query, all_docs, k=k * 2)
-    logger.info(f"Keyword search returned {len(keyword_results)} results")
+    log_tool_event("keyword_search_complete", {
+        "result_count": len(keyword_results),
+        "k_requested": k * 2
+    })
 
     # Normalize scores to [0, 1] range
     def normalize_scores(scored_docs: List[Tuple[Any, float]]) -> Dict[str, float]:
@@ -194,7 +213,11 @@ def hybrid_search(
         combined_score = alpha * semantic_score + (1 - alpha) * keyword_score
         combined_scores[doc_key] = combined_score
 
-    logger.info(f"Combined {len(combined_scores)} unique documents")
+    log_tool_event("score_combination_complete", {
+        "unique_documents": len(combined_scores),
+        "semantic_count": len(semantic_scores),
+        "keyword_count": len(keyword_scores)
+    })
 
     # Sort by combined score descending
     sorted_doc_keys = sorted(
@@ -209,5 +232,12 @@ def hybrid_search(
         if doc_key in doc_map:
             result_docs.append(doc_map[doc_key])
 
-    logger.info(f"Returning {len(result_docs)} results from hybrid search")
+    # Log hybrid search completion
+    log_tool_event("hybrid_search_complete", {
+        "query": query[:100],
+        "result_count": len(result_docs),
+        "alpha": alpha,
+        "k": k
+    })
+
     return result_docs
