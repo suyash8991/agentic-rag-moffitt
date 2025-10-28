@@ -5,6 +5,8 @@ This module provides tool implementations for the agent, including
 ResearcherSearchTool, DepartmentFilterTool, and ProgramFilterTool.
 """
 
+import json
+import re
 import logging
 from typing import Any, Dict, List, Optional, Type, Union
 
@@ -19,6 +21,51 @@ from ..utils.logging import get_logger, log_tool_event, log_search_event, log_er
 
 # Setup logging
 logger = get_logger(__name__)
+
+
+def _parse_tool_input(tool_input: Union[str, Dict]) -> Dict[str, Any]:
+    """
+    Parse tool input handling both dict and JSON string formats.
+
+    This handles cases where LangChain passes the entire input as a JSON string
+    instead of properly parsed parameters.
+
+    Args:
+        tool_input: Either a dict or a string (potentially JSON)
+
+    Returns:
+        Dict with parsed parameters
+    """
+    # If already a dict, return as-is
+    if isinstance(tool_input, dict):
+        return tool_input
+
+    # If string, try to parse as JSON
+    if isinstance(tool_input, str):
+        tool_input = tool_input.strip()
+
+        # Try direct JSON parsing
+        try:
+            data = json.loads(tool_input)
+            if isinstance(data, dict):
+                return data
+        except (json.JSONDecodeError, TypeError):
+            pass
+
+        # Try extracting first {...} block
+        match = re.search(r'\{.*?\}', tool_input, flags=re.DOTALL)
+        if match:
+            try:
+                data = json.loads(match.group(0))
+                if isinstance(data, dict):
+                    return data
+            except (json.JSONDecodeError, TypeError):
+                pass
+
+        # Fallback: treat entire string as topic
+        return {"topic": tool_input}
+
+    return {}
 
 
 class ResearcherSearchInput(BaseModel):
@@ -57,7 +104,30 @@ class ResearcherSearchTool(BaseTool):
         Returns:
             str: The search results.
         """
-        # Log tool start
+        # Log raw inputs for debugging
+        log_tool_event("tool_input_raw", {
+            "researcher_name_raw": str(researcher_name)[:100] if researcher_name else None,
+            "researcher_name_type": type(researcher_name).__name__ if researcher_name else None,
+            "topic_raw": str(topic)[:100] if topic else None,
+            "topic_type": type(topic).__name__ if topic else None
+        })
+
+        # Handle case where LangChain passes the entire input as a JSON string
+        # This happens when the agent sends something like: {"researcher_name": "Conor Lynch"}
+        if researcher_name and isinstance(researcher_name, str):
+            # Check if it looks like JSON
+            if researcher_name.strip().startswith('{'):
+                parsed = _parse_tool_input(researcher_name)
+                researcher_name = parsed.get("researcher_name")
+                topic = parsed.get("topic")
+
+                # Log parsed values
+                log_tool_event("input_parsed_from_json", {
+                    "parsed_researcher_name": researcher_name[:50] if researcher_name else None,
+                    "parsed_topic": topic[:50] if topic else None
+                })
+
+        # Log tool start with final values
         log_tool_event("researcher_search_start", {
             "researcher_name": researcher_name[:50] if researcher_name else None,
             "topic": topic[:50] if topic else None
