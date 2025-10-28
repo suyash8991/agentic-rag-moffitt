@@ -17,10 +17,14 @@ from pydantic import BaseModel, Field
 from .vector_db import similarity_search
 from .researcher import get_researchers_by_department, get_researchers_by_program
 from .hybrid_search import hybrid_search
+from .name_normalization import NameNormalizationService
 from ..utils.logging import get_logger, log_tool_event, log_search_event, log_error_event
 
 # Setup logging
 logger = get_logger(__name__)
+
+# Initialize name normalization service (loads alias map on import)
+_name_normalizer = NameNormalizationService()
 
 
 def _parse_tool_input(tool_input: Union[str, Dict]) -> Dict[str, Any]:
@@ -143,10 +147,28 @@ class ResearcherSearchTool(BaseTool):
 
         # Determine the search query and alpha parameter
         if researcher_name:
-            query = researcher_name
             alpha = 0.3  # Favor keyword matching for name searches
             search_type = "name"
             log_tool_event("name_search_detected", {"researcher_name": researcher_name[:50]})
+
+            # Normalize the provided name (alias first, then fuzzy if available)
+            norm_result = _name_normalizer.normalize(researcher_name)
+            if norm_result.canonical:
+                log_tool_event("name_normalized", {
+                    "input": researcher_name[:100],
+                    "canonical": norm_result.canonical,
+                    "method": norm_result.method,
+                    "score": norm_result.score
+                })
+                query = norm_result.canonical
+                metadata_filter = {"researcher_name": norm_result.canonical}
+            else:
+                log_tool_event("name_normalization_failed", {
+                    "input": researcher_name[:100],
+                    "score": norm_result.score
+                })
+                query = researcher_name
+                metadata_filter = None
         else:
             query = topic
             alpha = 0.7  # Favor semantic matching for topic searches
@@ -167,6 +189,7 @@ class ResearcherSearchTool(BaseTool):
                 query=query,
                 k=5,
                 alpha=alpha,
+                filter=metadata_filter if researcher_name else None,
                 search_type=search_type
             )
 
