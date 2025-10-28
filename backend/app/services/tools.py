@@ -15,9 +15,10 @@ from pydantic import BaseModel, Field
 from .vector_db import similarity_search
 from .researcher import get_researchers_by_department, get_researchers_by_program
 from .hybrid_search import hybrid_search
+from ..utils.logging import get_logger, log_tool_event, log_search_event, log_error_event
 
 # Setup logging
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 
 class ResearcherSearchInput(BaseModel):
@@ -56,29 +57,54 @@ class ResearcherSearchTool(BaseTool):
         Returns:
             str: The search results.
         """
-        logger.info(f"Running ResearcherSearch with name={researcher_name}, topic={topic}")
+        # Log tool start
+        log_tool_event("researcher_search_start", {
+            "researcher_name": researcher_name[:50] if researcher_name else None,
+            "topic": topic[:50] if topic else None
+        })
 
         if not researcher_name and not topic:
+            log_tool_event("researcher_search_error", {"error": "missing_input"})
             return "Error: You must provide either 'researcher_name' or 'topic'."
 
         if researcher_name and topic:
+            log_tool_event("researcher_search_error", {"error": "both_inputs_provided"})
             return "Error: Please provide EITHER 'researcher_name' OR 'topic', not both."
 
         # Determine the search query and alpha parameter
         if researcher_name:
             query = researcher_name
             alpha = 0.3  # Favor keyword matching for name searches
-            logger.info(f"Performing name search with alpha={alpha}")
+            search_type = "name"
+            log_tool_event("name_search_detected", {"researcher_name": researcher_name[:50]})
         else:
             query = topic
             alpha = 0.7  # Favor semantic matching for topic searches
-            logger.info(f"Performing topic search with alpha={alpha}")
+            search_type = "topic"
+            log_tool_event("topic_search_detected", {"topic": topic[:50]})
+
+        # Log search parameters
+        log_tool_event("search_parameters", {
+            "query": query[:100],
+            "alpha": alpha,
+            "search_type": search_type,
+            "k": 5
+        })
 
         # Perform hybrid search
         try:
             results = hybrid_search(query=query, k=5, alpha=alpha)
 
+            # Log search completion
+            log_search_event(
+                query=query,
+                search_type=search_type,
+                alpha=alpha,
+                result_count=len(results) if results else 0
+            )
+
             if not results:
+                log_tool_event("no_results_found", {"query": query[:100]})
                 if researcher_name:
                     return f"No information found for researcher: {researcher_name}"
                 else:
@@ -113,12 +139,21 @@ class ResearcherSearchTool(BaseTool):
                     )
                 except Exception as e:
                     logger.error(f"Error formatting result {i+1}: {e}")
+                    log_error_event(e, {"result_index": i+1, "query": query[:100]})
                     formatted_results.append(f"Error processing result {i+1}")
+
+            # Log successful completion
+            log_tool_event("researcher_search_complete", {
+                "query": query[:100],
+                "result_count": len(results),
+                "formatted_length": len("\n\n---\n\n".join(formatted_results))
+            })
 
             return "\n\n---\n\n".join(formatted_results)
 
         except Exception as e:
             logger.error(f"Error in ResearcherSearch: {e}")
+            log_error_event(e, {"query": query[:100], "search_type": search_type})
             return f"Error searching for {'researcher' if researcher_name else 'topic'}: {str(e)}"
 
     def _arun(self, researcher_name: Optional[str] = None, topic: Optional[str] = None) -> str:
