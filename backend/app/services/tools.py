@@ -163,7 +163,12 @@ class ResearcherSearchTool(BaseTool):
 
         # Perform hybrid search
         try:
-            results = hybrid_search(query=query, k=5, alpha=alpha)
+            results = hybrid_search(
+                query=query,
+                k=5,
+                alpha=alpha,
+                search_type=search_type
+            )
 
             # Log search completion
             log_search_event(
@@ -212,11 +217,23 @@ class ResearcherSearchTool(BaseTool):
                     log_error_event(e, {"result_index": i+1, "query": query[:100]})
                     formatted_results.append(f"Error processing result {i+1}")
 
-            # Log successful completion
+            # Log successful completion with document details
             log_tool_event("researcher_search_complete", {
                 "query": query[:100],
                 "result_count": len(results),
-                "formatted_length": len("\n\n---\n\n".join(formatted_results))
+                "formatted_length": len("\n\n---\n\n".join(formatted_results)),
+                "returned_documents": [
+                    {
+                        "researcher_name": doc.metadata.get("researcher_name", "Unknown") if hasattr(doc, 'metadata') and doc.metadata else "Unknown",
+                        "program": doc.metadata.get("program", "Unknown") if hasattr(doc, 'metadata') and doc.metadata else "Unknown",
+                        "department": doc.metadata.get("department", "Unknown") if hasattr(doc, 'metadata') and doc.metadata else "Unknown",
+                        "chunk_type": doc.metadata.get("chunk_type", "Unknown") if hasattr(doc, 'metadata') and doc.metadata else "Unknown",
+                        "profile_url": doc.metadata.get("profile_url", "") if hasattr(doc, 'metadata') and doc.metadata else "",
+                        "content_length": len(doc.page_content) if hasattr(doc, 'page_content') else 0,
+                        "content_preview": doc.page_content[:300] if hasattr(doc, 'page_content') else ""
+                    }
+                    for doc in results
+                ]
             })
 
             return "\n\n---\n\n".join(formatted_results)

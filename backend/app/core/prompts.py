@@ -126,10 +126,3 @@ User Query: {input}
 {agent_scratchpad}
 """
 
-
-
-# Default system prompt for structured output generation
-STRUCTURED_OUTPUT_SYSTEM_PROMPT = """
-You are a helpful assistant that provides responses in valid JSON format according to the specified schema.
-Do not include any text outside of the JSON object.
-"""

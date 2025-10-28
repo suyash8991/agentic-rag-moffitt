@@ -5,7 +5,8 @@
       "Bash(development_progress.md index.md input_data.md logging_fixes_plan.md Project_info.md )",
       "Bash(researcher_search.md tools_logic.md archived/)",
       "Bash(git add:*)",
-      "Bash(dir \"c:\\Coding\\Projects\\moffitt-agentic-rag\" /B)"
+      "Bash(dir \"c:\\Coding\\Projects\\moffitt-agentic-rag\" /B)",
+      "Bash(chmod:*)"
     ],
     "deny": [],
     "ask": []

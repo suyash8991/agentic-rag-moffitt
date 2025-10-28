@@ -87,7 +87,8 @@ def hybrid_search(
     query: str,
     k: int = 5,
     alpha: float = 0.5,
-    filter: Optional[Dict[str, Any]] = None
+    filter: Optional[Dict[str, Any]] = None,
+    search_type: Optional[str] = None
 ) -> List[Document]:
     """
     Perform hybrid search combining vector similarity and keyword matching.
@@ -101,7 +102,8 @@ def hybrid_search(
                - alpha=1.0: Pure semantic search
                - alpha=0.7: Recommended for topic searches (favor semantic)
                - alpha=0.3: Recommended for name searches (favor keyword)
-        filter: Optional metadata filter for vector search
+        filter: Optional metadata filter for vector search (e.g., {"researcher_name": "John Doe"})
+        search_type: Type of search ("name" or "topic") for optimization
 
     Returns:
         List of documents ranked by combined score
@@ -111,7 +113,9 @@ def hybrid_search(
         "query": query[:100],
         "k": k,
         "alpha": alpha,
-        "has_filter": filter is not None
+        "has_filter": filter is not None,
+        "filter": filter,
+        "search_type": search_type
     })
 
     # Get vector database
@@ -121,6 +125,9 @@ def hybrid_search(
         log_tool_event("hybrid_search_error", {"error": "database_unavailable"})
         return []
 
+    # Use hybrid search for all queries (name and topic)
+    # Note: Metadata filtering with partial name matching is not supported by ChromaDB
+    # See GitHub issue for details on this limitation
     # Perform semantic search (vector-based) with scores
     try:
         # Use ChromaDB's built-in similarity_search_with_score method
@@ -232,12 +239,23 @@ def hybrid_search(
         if doc_key in doc_map:
             result_docs.append(doc_map[doc_key])
 
-    # Log hybrid search completion
+    # Log hybrid search completion with document details
     log_tool_event("hybrid_search_complete", {
         "query": query[:100],
         "result_count": len(result_docs),
         "alpha": alpha,
-        "k": k
+        "k": k,
+        "document_details": [
+            {
+                "researcher_name": doc.metadata.get("researcher_name", "Unknown") if hasattr(doc, 'metadata') else "Unknown",
+                "program": doc.metadata.get("program", "Unknown") if hasattr(doc, 'metadata') else "Unknown",
+                "department": doc.metadata.get("department", "Unknown") if hasattr(doc, 'metadata') else "Unknown",
+                "chunk_type": doc.metadata.get("chunk_type", "Unknown") if hasattr(doc, 'metadata') else "Unknown",
+                "content_preview": doc.page_content[:200] if hasattr(doc, 'page_content') else "",
+                "combined_score": combined_scores.get(doc.page_content[:100], 0.0) if hasattr(doc, 'page_content') else 0.0
+            }
+            for doc in result_docs[:5]  # Log first 5 docs
+        ]
     })
 
     return result_docs

@@ -1,18 +1,64 @@
-version: '3'
+version: '3.8'
 
 services:
   backend:
     build:
       context: ./backend
+      dockerfile: Dockerfile
+    container_name: moffitt-rag-backend
     ports:
       - "8000:8000"
     volumes:
       - ./backend:/app
       - ./data:/app/data
+      - backend_cache:/root/.cache
     environment:
-      - API_KEY=dev_api_key
+      - API_KEY=${API_KEY:-dev_api_key}
       - VECTOR_DB_DIR=/app/data/vector_db
       - PROCESSED_DATA_DIR=/app/data/processed
-      - LLM_PROVIDER=groq
+      - MARKDOWN_DATA_DIR=/app/data/markdown
+      - LLM_PROVIDER=${LLM_PROVIDER:-groq}
       - GROQ_API_KEY=${GROQ_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GROQ_MODEL=${GROQ_MODEL:-llama-3.3-70b-versatile}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4o-mini}
+      - EMBEDDING_MODEL_NAME=${EMBEDDING_MODEL_NAME:-sentence-transformers/all-MiniLM-L6-v2}
+      - CORS_ORIGINS=http://localhost:3000,http://localhost:8000
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - moffitt-network
     command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: moffitt-rag-frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    environment:
+      - REACT_APP_API_URL=http://localhost:8000
+      - REACT_APP_API_KEY=${API_KEY:-dev_api_key}
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - moffitt-network
+    restart: unless-stopped
+
+networks:
+  moffitt-network:
+    driver: bridge
+
+volumes:
+  backend_cache:
+    driver: local
