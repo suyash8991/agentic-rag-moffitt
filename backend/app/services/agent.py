@@ -24,9 +24,10 @@ from ..core.prompts import (
     DEFAULT_SYSTEM_PROMPT,
     AGENT_PROMPT_TEMPLATE,
 )
+from ..utils.logging import get_logger, log_tool_event
 
 # Setup logging
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 # In-memory store for query statuses
 # In production, this should be replaced with a database
@@ -121,6 +122,15 @@ async def process_query(
         QueryResponse: The query response
     """
     try:
+        # Log the original user query
+        log_tool_event("user_query_received", {
+            "query_id": query_id,
+            "user_query": query,
+            "query_type": query_type,
+            "streaming": streaming,
+            "max_results": max_results
+        })
+
         # Create a new query status
         _query_statuses[query_id] = {
             "query_id": query_id,
@@ -166,6 +176,14 @@ async def process_query(
 
         # Extract the answer from the result
         answer = result.get("output", str(result))
+
+        # Log the agent's interpretation and actions
+        log_tool_event("agent_processing_complete", {
+            "query_id": query_id,
+            "original_user_query": query,
+            "agent_interpretation": str(result)[:500],  # First 500 chars
+            "has_intermediate_steps": "intermediate_steps" in result
+        })
 
         # Create a representation of the steps
         # For now, we'll create a simplified version since LangChain doesn't expose the internal steps directly
