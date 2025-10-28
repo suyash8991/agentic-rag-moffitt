@@ -28,7 +28,7 @@ moffitt-agentic-rag/
 │   │   │   ├── tools.py              # Tool implementations
 │   │   │   ├── vector_db.py          # Vector database service
 │   │   │   └── limited_call.py       # Rate limiting
-│   │   └── db/                       # Database connections
+│   │   └── utils/                    # Utility functions
 │   ├── main.py                       # FastAPI application entry
 │   └── requirements.txt              # Python dependencies
 ├── frontend/                         # React Frontend Application

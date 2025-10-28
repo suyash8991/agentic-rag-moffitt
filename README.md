@@ -113,6 +113,27 @@ See the [backend README](backend/README.md) for setup and running instructions. 
 
 See the [frontend README](frontend/README.md) for setup and running instructions.
 
+## Rebuilding the Vector Database
+
+If you need to rebuild the vector database from the processed researcher profiles:
+
+```bash
+# From project root
+python rebuild_db.py --force
+```
+
+**Options:**
+- `--force`: Force rebuild even if database exists
+- `--no-backup`: Skip backing up the existing database
+
+The script will:
+1. Load all researcher profiles from `data/processed/`
+2. Create chunks following the documented strategy (core, interests, publications, grants)
+3. Generate embeddings using the configured model
+4. Store in `data/vector_db/` as a ChromaDB collection
+
+**Note**: Rebuilding takes several minutes depending on the number of profiles and your hardware.
+
 ## Project Phase Overview
 
 ### Phase 1 — Data Processing

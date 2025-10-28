@@ -25,8 +25,12 @@ var/
 .installed.cfg
 *.egg
 
-# Vector database
+# Vector database (active)
+data/vector_db/
+
+# Redundant/legacy directories
 vector_db/
+schemas/
 
 # IDE
 .vscode/

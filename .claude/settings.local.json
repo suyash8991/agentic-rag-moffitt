@@ -6,7 +6,9 @@
       "Bash(researcher_search.md tools_logic.md archived/)",
       "Bash(git add:*)",
       "Bash(dir \"c:\\Coding\\Projects\\moffitt-agentic-rag\" /B)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(iconv:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []
