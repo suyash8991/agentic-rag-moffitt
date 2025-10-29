@@ -519,9 +519,12 @@ def main():
 
     args = parser.parse_args()
 
-    # Get paths from settings
-    processed_dir = Path(settings.PROCESSED_DATA_DIR)
-    vector_db_dir = Path(settings.VECTOR_DB_DIR)
+    # Get paths - resolve them relative to the script location (project root)
+    project_root = Path(__file__).parent
+
+    # Use absolute paths from project root
+    processed_dir = project_root / "data" / "processed"
+    vector_db_dir = project_root / "data" / "vector_db"
     collection_name = settings.COLLECTION_NAME
 
     logger.info("=" * 80)

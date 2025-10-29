@@ -7,6 +7,7 @@ This guide will help you set up and run the Moffitt Agentic RAG System anywhere 
 - [Prerequisites](#prerequisites)
 - [Quick Start with Docker](#quick-start-with-docker)
 - [Local Development Setup](#local-development-setup)
+- [Vector Database Setup](#vector-database-setup)
 - [Environment Configuration](#environment-configuration)
 - [Troubleshooting](#troubleshooting)
 - [Verification](#verification)
@@ -167,6 +168,37 @@ If you prefer to run without Docker or want to develop locally.
 
 ---
 
+## Vector Database Setup
+
+The system uses a ChromaDB vector database to store researcher profile embeddings. The database should already be built and located in `data/vector_db/`.
+
+### Rebuilding the Database
+
+If you need to rebuild the vector database (e.g., after updating researcher data):
+
+```bash
+# From project root
+python rebuild_db.py --force
+```
+
+**What this does:**
+1. Loads all researcher profiles from `data/processed/` (119 profiles)
+2. Creates semantic chunks using the documented strategy:
+   - **core**: Basic information (name, title, program, department, overview, education)
+   - **interests**: Research interests and expertise
+   - **publications**: Academic publications (chunked by size)
+   - **grants**: Grant and funding information (chunked by size)
+3. Generates embeddings using the configured embedding model (default: `sentence-transformers/all-MiniLM-L6-v2`)
+4. Stores in `data/vector_db/` as a ChromaDB collection
+
+**Options:**
+- `--force`: Force rebuild even if database exists
+- `--no-backup`: Skip backing up the existing database
+
+**Note**: Rebuilding takes 3-5 minutes depending on your hardware and the number of profiles.
+
+---
+
 ## Environment Configuration
 
 ### Required Environment Variables
@@ -268,17 +300,28 @@ docker system prune -a
 docker-compose build --no-cache
 ```
 
-#### 5. Vector database not found
+#### 5. Vector database not found or needs rebuilding
 
-**Problem**: Data directories don't exist
+**Problem**: Data directories don't exist or database is corrupted/outdated
 
 **Solution**:
 ```bash
-# Create required directories
+# Create required directories (if they don't exist)
 mkdir -p data/vector_db
 mkdir -p data/processed
 mkdir -p data/markdown
+
+# If you have researcher data in data/processed/, rebuild the database:
+python rebuild_db.py --force
+
+# This will:
+# - Load all researcher profiles from data/processed/
+# - Create chunks (core, interests, publications, grants)
+# - Generate embeddings using the configured model
+# - Save to data/vector_db/
 ```
+
+**Note**: Rebuilding takes several minutes depending on the number of profiles.
 
 #### 6. CORS errors in browser
 

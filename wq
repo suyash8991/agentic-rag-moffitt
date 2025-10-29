@@ -1,0 +1,90 @@
+[33m5989cc0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Vector db creation update
+[33m0100d20[m[33m ([m[1;31morigin/main[m[33m)[m delete requirements normalization
+[33md9e0b69[m log time format update
+[33m4a54709[m Update docs
+[33m4534bb9[m feat(normalization): add name normalization service and integrate into name search\n\nFixes #3
+[33m6bb5434[m feat(normalization): generate researcher alias map from processed data
+[33m2781c74[m feat: Add logging for user queries and agent interpretations
+[33m0e5dca2[m fix: Parse JSON string inputs in ResearcherSearchTool
+[33m10bdbe4[m feat: Add structured event logging to hybrid search
+[33m2471322[m feat: Add structured event logging to ResearcherSearchTool
+[33m45fb945[m feat: Add structured logging utilities with JSON formatting
+[33m3dda351[m feat: Implement hybrid search combining vector similarity and keyword matching
+[33m9e1e43c[m Merge branch 'main' of https://github.com/suyash8991/agentic-rag-moffitt
+[33me8c260a[m Update dockerfile
+[33m68b183f[m Remove contributors section from README
+[33m594d6de[m Update md file and logo
+[33m86ae85e[m docs: Consolidate documentation into README.md, DEVELOPMENT.md, and TOOLS.md
+[33m34c33c4[m Merge pull request #2 from suyash8991/fastapi-react-implementation
+[33maaf7b12[m[33m ([m[1;31morigin/fastapi-react-implementation[m[33m, [m[1;32mfastapi-react-implementation[m[33m)[m docs: Update README with architecture migration information
+[33m777c898[m Fix: Improve send button positioning in chat input
+[33m83a4a34[m Update on visual aspect
+[33m21db3c8[m Enhance message transitions and animations
+[33m12b055b[m Update the footer styling for dark mode
+[33mecd93df[m Redesign the input area with dark backgrounds
+[33ma203e64[m Update chat message styling for dark theme
+[33ma77a0ca[m Redesign the header with dark background and refined typography
+[33mf437912[m Update page title, meta tags, and manifest for Moffitt branding
+[33m9e8d625[m Add animated loading indicator and message transitions
+[33mea96d89[m Add responsive design for mobile devices with optimized layouts
+[33m4481d1b[m Enhance chat input area with modern styling and improved placeholder text
+[33m316fcba[m Change data path in .gitattributes to match all subdirectories
+[33ma1b4947[m Add .gitattributes to mark data as vendored
+[33mbd10b40[m feat: improve answer formatting and clickable profile links
+[33m05df369[m Fix: Remove formatting function to improve text display
+[33md130020[m feat: Integrate LangChain ReAct agent for query processing
+[33mbcf087f[m fix: Extract final answer from LLM response
+[33mc96bf4b[m feat: Integrate prompt templates from Streamlit app
+[33m7d02891[m fix: Resolve query processing errors
+[33m5557bf6[m fix: Resolve NoneType error in query processing
+[33m526de1f[m feat: Integrate frontend chat with backend API
+[33maba6d2b[m Create React frontend project with TypeScript Set up React application with TypeScript template Initialize project structure for frontend development Prepare for implementing chat interface components
+[33m725ce03[m Add researchers router with functional endpoints Integrate researchers router with FastAPI app Connect to live data sources Enable departments and programs endpoints Test API endpoints with authentication
+[33mb630c11[m Add environment variable support and API key authentication
+[33m50bc3ba[m Add Docker setup for development environment Create Docker Compose configuration Add backend Dockerfile for containerization Include environment variable examples Create README files with setup instructions
+[33m7b51f8f[m Add simplified agent service for query processing Implement process_query function with step tracking Add vector search integration for finding researchers Create query status tracking with in-memory store Add response generation using LLM service
+[33m119a5eb[m Add LLM service for language model integration Implement provider support for OpenAI and Groq Create text generation function with async support Add structured output generation with JSON parsing Include fallback mechanisms for provider failures
+[33m1ad7a21[m Add researcher service with data access functions Implement list_researchers with pagination and filtering Add get_researcher_by_id for detailed profiles Create department and program listing function
+[33m9940c07[m Add admin endpoints and vector database service
+[33m402a36f[m Add API endpoints for researchers and queries
+[33mf1f9b08[m Initial FastAPI project setup with core modules and data models
+[33mb9a3ca4[m Optmize UI layout
+[33m441b806[m UI: Remove example queries and fix interface issues
+[33m8272a56[m UI: Fix spinner duplication and chat interface reloading issues- Remove duplicate spinner during chat request submission
+[33m9224662[m UI: Fix footer positioning and remove database status message - Replace CSS-based footer with direct HTML fixed footer - Set proper z-index to keep footer above other elements - Remove database status notification from UI
+[33mcddc897[m Fix: Increase LLM call limit from 3 to 6 to solve parsing issues
+[33m6cf2ed9[m Include education in core info
+[33m4c09132[m Update log to function with relevant info
+[33m656e4a2[m Remove unused extract_relevant_snippet function
+[33m44f1c64[m Add user-configurable logging in settings
+[33ma4b4f89[m Add structured logging to vector database operations
+[33m1891995[m Integrate structured logging with application startup
+[33med6a1bc[m Add structured logging to agent system
+[33mcaf6c75[m Add JSON formatter for structured logging
+[33mab55fb8[m Update codedbase to keep it simpler
+[33m976da88[m Updated docs
+[33m6157efe[m Add explicit name search parameter to ResearcherSearchTool
+[33mc29ccb8[m Remove name from researcher chunk
+[33md9cf687[m Update department name
+[33m625dc81[m Update data models to use researcher_name exclusively and remove name field
+[33mc32977b[m Fix to ProgramFilter tool
+[33m587cc0e[m Centralized Log created
+[33me32ba16[m Update metadata search succesfull on researcher name
+[33mcc2a1c5[m Base version of agentic rag done
+[33mbfcaf83[m Base version of agentic rag done
+[33md91680e[m Base version of agentic rag done
+[33m4c670da[m Implement modular UI components
+[33m15363c7[m Add modular styling utilities
+[33mce2c833[m Extract session state management to dedicated module
+[33mca4de61[m Create modular Streamlit application base structure
+[33me9b0493[m Add agent reflection capabilities for improved responses
+[33m9495247[m mplement basic agent framework using LangChain
+[33mdb6819c[m Implement CollaborationTool for discovering research partnerships
+[33mec27b1a[m Implement ProgramFilterTool for program-based filtering
+[33mdea9f9a[m Implement DepartmentFilterTool for department-based filtering
+[33m69b2f55[m Implement ResearcherSearchTool for semantic search
+[33m8e74283[m Add language model integration with multi-provider support
+[33m162e03a[m Add embedding model functionality
+[33mcd7356a[m Add vector database and hybrid search functionality
+[33m1238640[m Add data processing module for researcher profiles
+[33m8ed9e37[m Initial setup for agentic rag
