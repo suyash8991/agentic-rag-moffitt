@@ -2,12 +2,15 @@ from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 import os
+import logging
 
 from app.core.config import settings
 from app.core.security import get_api_key
 
 # Import routers
 from app.api.endpoints import researchers, query
+
+logger = logging.getLogger(__name__)
 
 app = FastAPI(
     title="Moffitt Agentic RAG API",
@@ -23,6 +26,16 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Initialize LangSmith tracing if enabled
+if settings.LANGCHAIN_TRACING_V2:
+    os.environ["LANGCHAIN_TRACING_V2"] = "true"
+    os.environ["LANGCHAIN_API_KEY"] = settings.LANGCHAIN_API_KEY or ""
+    os.environ["LANGCHAIN_PROJECT"] = settings.LANGCHAIN_PROJECT
+    os.environ["LANGCHAIN_ENDPOINT"] = settings.LANGCHAIN_ENDPOINT
+    logger.info(f"✓ LangSmith tracing enabled for project: {settings.LANGCHAIN_PROJECT}")
+else:
+    logger.info("LangSmith tracing disabled (set LANGCHAIN_TRACING_V2=true to enable)")
 
 @app.get("/api/health", tags=["health"])
 async def health_check():
