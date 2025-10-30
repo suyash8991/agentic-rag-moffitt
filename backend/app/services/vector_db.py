@@ -21,6 +21,7 @@ from langchain_core.documents import Document
 
 from ..core.config import settings
 from ..models.researcher import ResearcherProfileSummary
+from .vector_db_builder import rebuild_vector_database as _rebuild_db_core
 
 # Setup logging
 logger = logging.getLogger(__name__)
@@ -197,22 +198,52 @@ def rebuild_vector_database(force: bool = False, background_tasks: BackgroundTas
             # Update task progress
             _active_tasks[task_id]["progress"] = 0.1
 
-            # TODO: Implement the actual rebuild logic
-            # This would include:
-            # 1. Loading all researcher profiles
-            # 2. Creating chunks
-            # 3. Generating embeddings
-            # 4. Storing in the vector database
+            # Progress callback to update task progress
+            def update_progress(progress: float):
+                _active_tasks[task_id]["progress"] = progress
+                logger.debug(f"Rebuild progress: {progress * 100:.1f}%")
 
-            # For now, we'll just simulate the rebuild process
-            logger.info("Simulating vector database rebuild...")
-            for i in range(10):
-                time.sleep(1)  # Simulate processing time
-                _active_tasks[task_id]["progress"] = 0.1 + (i + 1) * 0.09
+            # Run the actual rebuild using shared module
+            logger.info("Starting vector database rebuild...")
+            processed_dir = Path(settings.PROCESSED_DATA_DIR)
+            vector_db_dir = Path(settings.VECTOR_DB_DIR)
 
-            # Update stats
-            _db_stats["total_researchers"] = 100  # Placeholder
-            _db_stats["total_chunks"] = 500  # Placeholder
+            success = _rebuild_db_core(
+                processed_dir=processed_dir,
+                vector_db_dir=vector_db_dir,
+                collection_name=settings.COLLECTION_NAME,
+                backup=True,  # Always backup in backend
+                force=force,
+                progress_callback=update_progress
+            )
+
+            if not success:
+                raise Exception("Rebuild failed - check logs for details")
+
+            # Update stats from the actual database
+            db = load_vector_db()
+            if db:
+                collection = db._collection
+                chunk_count = collection.count()
+
+                # Get unique researchers from metadata
+                # Note: This is a rough count, could be improved with actual metadata query
+                unique_researchers = set()
+                try:
+                    # Get all metadata to count unique researchers
+                    results = collection.get(include=["metadatas"])
+                    for metadata in results.get("metadatas", []):
+                        if metadata and "researcher_name" in metadata:
+                            unique_researchers.add(metadata["researcher_name"])
+                except Exception as e:
+                    logger.warning(f"Could not count unique researchers: {e}")
+
+                _db_stats["total_researchers"] = len(unique_researchers) if unique_researchers else 0
+                _db_stats["total_chunks"] = chunk_count
+            else:
+                # Fallback to basic estimates
+                _db_stats["total_researchers"] = 0
+                _db_stats["total_chunks"] = 0
             _db_stats["last_updated"] = datetime.now().isoformat()
             _db_stats["status"] = "ready"
 
