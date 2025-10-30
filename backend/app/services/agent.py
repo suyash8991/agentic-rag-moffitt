@@ -25,6 +25,7 @@ from ..core.prompts import (
     AGENT_PROMPT_TEMPLATE,
 )
 from ..utils.logging import get_logger, log_tool_event
+from ..utils.langsmith import create_run_metadata, create_run_tags
 
 # Setup logging
 logger = get_logger(__name__)
@@ -167,8 +168,25 @@ async def process_query(
         logger.info(f"Invoking agent with query: {query[:50]}...")
         _query_statuses[query_id]["progress"] = 0.5
 
+        # Create metadata and tags for LangSmith tracing
+        metadata = create_run_metadata(
+            query_id=query_id,
+            query=query,
+            query_type=query_type,
+            max_results=max_results,
+            streaming=streaming,
+        )
+        tags = create_run_tags(query_type=query_type, query_id=query_id)
+
         # Format the query as a dictionary with "input" key as expected by LangChain
-        result = agent.invoke({"input": query})
+        result = agent.invoke(
+            {"input": query},
+            config={
+                "metadata": metadata,
+                "tags": tags,
+                "run_name": f"Query: {query[:50]}..."
+            }
+        )
         logger.info("Agent invocation successful")
         logger.debug(f"Response: {str(result)[:100]}...")
 
