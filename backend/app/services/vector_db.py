@@ -37,16 +37,35 @@ _db_stats = {
 # Active rebuild tasks
 _active_tasks: Dict[str, Dict[str, Any]] = {}
 
+# Cached embedding function to avoid reloading model on every query
+_cached_embedding_function = None
+
 
 def get_embedding_function():
     """
     Get the embedding function for the vector database.
+    Uses cached instance to avoid reloading the model on every call.
 
     Returns:
         HuggingFaceEmbeddings: The embedding function
     """
-    logger.info(f"Loading embedding model: {settings.EMBEDDING_MODEL_NAME}")
-    return HuggingFaceEmbeddings(model_name=settings.EMBEDDING_MODEL_NAME, model_kwargs={"trust_remote_code": "true"})
+    global _cached_embedding_function
+
+    if _cached_embedding_function is None:
+        start_time = time.time()
+        logger.info(f"⏱️ [PERF] Loading embedding model (first time): {settings.EMBEDDING_MODEL_NAME}")
+        _cached_embedding_function = HuggingFaceEmbeddings(
+            model_name=settings.EMBEDDING_MODEL_NAME,
+            model_kwargs={"trust_remote_code": "true"}
+        )
+        load_time = time.time() - start_time
+        logger.info(f"⏱️ [PERF] Embedding model loaded in {load_time:.3f}s (cached for future use)")
+        if load_time > 2.0:
+            logger.warning(f"⚠️ [PERF] Slow embedding model load: {load_time:.3f}s > 2.0s threshold")
+    else:
+        logger.debug(f"✓ Using cached embedding model (no reload needed)")
+
+    return _cached_embedding_function
 
 
 def load_vector_db():
@@ -62,10 +81,14 @@ def load_vector_db():
         return None
 
     # Get the embedding function
+    emb_start = time.time()
     embedding_function = get_embedding_function()
+    emb_time = time.time() - emb_start
+    logger.info(f"⏱️ [PERF] get_embedding_function() took {emb_time:.3f}s")
 
     # Load the vector database
     logger.info(f"Loading vector database from {settings.VECTOR_DB_DIR}...")
+    db_start = time.time()
 
     try:
         db = Chroma(
@@ -74,7 +97,8 @@ def load_vector_db():
             collection_name=settings.COLLECTION_NAME,
         )
         count = db._collection.count()
-        logger.info(f"Vector database loaded with {count} chunks")
+        db_time = time.time() - db_start
+        logger.info(f"⏱️ [PERF] ChromaDB loaded in {db_time:.3f}s with {count} chunks")
 
         # Update stats
         _db_stats["total_chunks"] = count
@@ -133,7 +157,16 @@ def similarity_search(query: str, k: int = 4,
 
     # Perform the search
     try:
+        search_start = time.time()
+        logger.info(f"⏱️ [PERF] Starting similarity_search for query: '{query[:50]}...' (k={k})")
+
         results = db.similarity_search(query, k=k, filter=filter)
+
+        search_time = time.time() - search_start
+        logger.info(f"⏱️ [PERF] similarity_search completed in {search_time:.3f}s, found {len(results)} results")
+
+        if search_time > 1.0:
+            logger.warning(f"⚠️ [PERF] Slow similarity search: {search_time:.3f}s > 1.0s threshold")
 
         # If no results were found, return a helpful message
         if not results:

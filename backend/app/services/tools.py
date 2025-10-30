@@ -185,6 +185,10 @@ class ResearcherSearchTool(BaseTool):
 
         # Perform hybrid search
         try:
+            import time
+            tool_search_start = time.time()
+            logger.info(f"⏱️ [PERF] Starting ResearcherSearch hybrid_search for: '{query[:50]}...'")
+
             results = hybrid_search(
                 query=query,
                 k=5,
@@ -192,6 +196,12 @@ class ResearcherSearchTool(BaseTool):
                 filter=metadata_filter if researcher_name else None,
                 search_type=search_type
             )
+
+            tool_search_time = time.time() - tool_search_start
+            logger.info(f"⏱️ [PERF] ResearcherSearch hybrid_search completed in {tool_search_time:.3f}s")
+
+            if tool_search_time > 2.0:
+                logger.warning(f"⚠️ [PERF] Slow ResearcherSearch: {tool_search_time:.3f}s > 2.0s threshold")
 
             # Log search completion
             log_search_event(
