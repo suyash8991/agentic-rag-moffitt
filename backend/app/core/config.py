@@ -59,6 +59,12 @@ class Settings(BaseModel):
     # Ollama settings
     OLLAMA_BASE_URL: str = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
 
+    # LangSmith settings (observability and evaluation)
+    LANGCHAIN_TRACING_V2: bool = os.getenv("LANGCHAIN_TRACING_V2", "false").lower() == "true"
+    LANGCHAIN_API_KEY: Optional[str] = os.getenv("LANGCHAIN_API_KEY")
+    LANGCHAIN_PROJECT: str = os.getenv("LANGCHAIN_PROJECT", "moffitt-agentic-rag")
+    LANGCHAIN_ENDPOINT: str = os.getenv("LANGCHAIN_ENDPOINT", "https://api.smith.langchain.com")
+
     class Config:
         """Pydantic config."""
         env_file = ".env"
