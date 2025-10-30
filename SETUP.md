@@ -174,11 +174,14 @@ The system uses a ChromaDB vector database to store researcher profile embedding
 
 ### Rebuilding the Database
 
-If you need to rebuild the vector database (e.g., after updating researcher data):
+If you need to rebuild the vector database (e.g., after updating researcher data), you can use either the CLI script or the backend API:
 
 ```bash
-# From project root
+# CLI method (from project root)
 python rebuild_db.py --force
+
+# API method (if backend is running)
+POST http://localhost:8000/api/admin/vector-db/rebuild?force=true
 ```
 
 **What this does:**
@@ -191,9 +194,11 @@ python rebuild_db.py --force
 3. Generates embeddings using the configured embedding model (default: `sentence-transformers/all-MiniLM-L6-v2`)
 4. Stores in `data/vector_db/` as a ChromaDB collection
 
-**Options:**
+**CLI Options:**
 - `--force`: Force rebuild even if database exists
 - `--no-backup`: Skip backing up the existing database
+
+**Architecture**: The rebuild logic is centralized in `backend/app/services/vector_db_builder.py` and shared by both the CLI script and backend API, ensuring consistency and reducing code duplication.
 
 **Note**: Rebuilding takes 3-5 minutes depending on your hardware and the number of profiles.
 

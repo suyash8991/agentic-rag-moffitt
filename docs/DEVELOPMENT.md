@@ -27,6 +27,7 @@ moffitt-agentic-rag/
 │   │   │   ├── researcher.py         # Researcher data service
 │   │   │   ├── tools.py              # Tool implementations
 │   │   │   ├── vector_db.py          # Vector database service
+│   │   │   ├── vector_db_builder.py  # Shared rebuild logic
 │   │   │   └── limited_call.py       # Rate limiting
 │   │   └── utils/                    # Utility functions
 │   ├── main.py                       # FastAPI application entry
@@ -40,6 +41,7 @@ moffitt-agentic-rag/
 │   ├── markdown/                     # Researcher data in markdown
 │   ├── processed/                    # Processed data files
 │   └── vector_db/                    # ChromaDB vector storage
+├── rebuild_db.py                     # CLI script for vector DB rebuild
 └── docs/                             # Project Documentation
 ```
 
@@ -172,7 +174,7 @@ Each document contains:
 - Metadata (researcher_id, name, program, department, etc.)
 - Embedding vector
 
-### 5. Chunking Strategy (`backend/app/services/vector_db.py`)
+### 5. Chunking Strategy (`backend/app/services/vector_db_builder.py`)
 
 **Purpose**: Optimizes retrieval by dividing researcher profiles into logical chunks.
 
@@ -197,7 +199,85 @@ For example:
 - Optimized token usage
 - Better context management
 
-### 6. API Endpoints (`backend/app/api/endpoints/`)
+### 6. Vector Database Rebuild (`backend/app/services/vector_db_builder.py`)
+
+**Purpose**: Provides shared rebuild logic for both CLI and API interfaces.
+
+**Architecture**: The rebuild functionality is centralized in a shared module to ensure consistency and avoid code duplication:
+
+```
+┌─────────────────────────┐
+│  CLI Script             │
+│  (rebuild_db.py)        │
+│  - Arg parsing          │
+│  - Path overrides       │
+│  - User feedback        │
+└───────────┬─────────────┘
+            │
+            ▼
+┌─────────────────────────┐
+│  Shared Module          │◄─────────────┐
+│  (vector_db_builder.py) │              │
+│  - Profile loading      │              │
+│  - Chunking logic       │              │
+│  - Embedding generation │              │
+│  - Database creation    │              │
+│  - Progress callbacks   │              │
+└───────────┬─────────────┘              │
+            │                            │
+            ▼                            │
+┌─────────────────────────┐              │
+│  Backend API            │              │
+│  (vector_db.py)         │──────────────┘
+│  - Task management      │
+│  - Progress tracking    │
+│  - Stats updates        │
+└─────────────────────────┘
+```
+
+**Key Functions**:
+- `load_researcher_profile()`: Loads single JSON profile
+- `load_all_researcher_profiles()`: Loads all profiles from directory
+- `create_researcher_chunks()`: Implements chunking strategy
+- `create_vector_db()`: Creates ChromaDB with embeddings
+- `backup_existing_database()`: Backs up existing database
+- `rebuild_vector_database()`: Main orchestration function with progress callbacks
+
+**Usage Examples**:
+
+```python
+# From CLI script
+from app.services.vector_db_builder import rebuild_vector_database
+
+success = rebuild_vector_database(
+    processed_dir=Path("data/processed"),
+    vector_db_dir=Path("data/vector_db"),
+    collection_name="researchers",
+    backup=True,
+    force=True
+)
+
+# From backend API with progress tracking
+def update_progress(progress: float):
+    task_info["progress"] = progress
+
+success = rebuild_vector_database(
+    processed_dir=Path(settings.PROCESSED_DATA_DIR),
+    vector_db_dir=Path(settings.VECTOR_DB_DIR),
+    collection_name=settings.COLLECTION_NAME,
+    backup=True,
+    force=force,
+    progress_callback=update_progress
+)
+```
+
+**Benefits**:
+- Single source of truth for rebuild logic
+- Consistent behavior across CLI and API
+- Easier maintenance and testing
+- Progress tracking support for frontend
+
+### 7. API Endpoints (`backend/app/api/endpoints/`)
 
 #### `query.py`
 **Purpose**: Handles query requests and responses.
@@ -217,7 +297,15 @@ For example:
 - `GET /api/departments`: List departments
 - `GET /api/programs`: List programs
 
-### 7. Frontend Components (`frontend/src/components/`)
+#### `admin.py`
+**Purpose**: Administrative operations including database rebuild.
+
+**Endpoints**:
+- `POST /api/admin/vector-db/rebuild`: Rebuild vector database
+- `GET /api/admin/vector-db/stats`: Get database statistics
+- `GET /api/admin/vector-db/tasks/{task_id}`: Get rebuild task status
+
+### 8. Frontend Components (`frontend/src/components/`)
 
 #### Chat Interface
 **Purpose**: User interaction with the agent.
