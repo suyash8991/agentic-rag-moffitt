@@ -1,56 +1,51 @@
-question,answer,llm_generated,llm_response
-What does Conor Lynch work on?,"Research on bone metastasis, prostate cancer, and tumor microenvironment.",True,
-Show publications by Anna Giuliano.,See her profile/publications list; focus on HPV and cancer prevention.,True,
-What is Brian Czerniecki’s research focus?,Breast cancer surgery and immunotherapy translational research.,True,
-Tell me about Robert Gatenby’s lab.,Cancer evolution and quantitative oncology; theory-driven modeling.,True,
-What is Ariosto Silva known for?,Computational and systems oncology; quantitative modeling and data science.,True,
-conor lynch research areas,Bone metastasis mechanisms; tumor–bone microenvironment interactions.,True,
-Lynch’s recent papers,"Recent articles on bone metastasis, multiple myeloma, and autophagy.",True,
-Dr. Giuliano HPV research,"HPV epidemiology, vaccination, and prevention science.",True,
-Gatenby cancer evolution models,Mathematical frameworks for cancer adaptation and treatment resistance.,True,
-fred locke CAR-T work,Cell therapy (CAR-T) in hematologic and solid tumors.,True,
-bob gatenby imaging work,Quantitative imaging and theory-driven analysis applied to cancer.,True,
-dr lynch PhD publications,Peer‑reviewed publications on bone disease and metastasis.,True,
-"smith, robert",Please clarify the specific Robert Smith; multiple matches possible.,True,
-j pimiento surgical oncology focus,Surgical oncology; gastrointestinal cancers and minimally invasive approaches.,True,
-u. rix kinase inhibitors research,Kinase signaling and targeted therapies.,True,
-Who at Moffitt works on immunotherapy?,"Multiple labs; include cellular therapies, tumor immunology, and trials.",True,
-Researchers studying HPV and cancer prevention,"HPV natural history, screening, and vaccine impact.",True,
-Experts in cancer epidemiology,"Study design, etiology, prevention, and population health.",True,
-Who focuses on cancer metabolism?,Metabolic pathways in cancer growth and therapy response.,True,
-Who studies tumor microenvironment?,"Cell–stroma interactions, metastasis, and immune infiltration.",True,
-Researchers in Cancer Epidemiology,"Population studies, prevention, and risk modeling.",True,
-People in BioEngineering working on imaging,"Image analysis, device development, and translational imaging.",True,
-Immunology program faculty studying T cells,"T‑cell biology, immunoregulation, and antitumor responses.",True,
-Biostatistics experts collaborating with clinical teams,"Prediction, trial design, and method development with clinical teams.",True,
-Surgical oncology researchers and their interests,"Operative techniques, outcomes, and disease‑specific management.",True,
-Who uses single-cell sequencing at Moffitt?,Single‑cell profiling for heterogeneity and lineage tracing.,True,
-Researchers applying mathematical oncology or modeling,"Evolutionary dynamics, differential games, and therapy optimization.",True,
-Who develops machine learning for pathology images?,Deep learning for histology and whole‑slide image analysis.,True,
-Experts in CRISPR screening for cancer targets,Functional genomics to identify and validate targets.,True,
-Teams working on spatial transcriptomics,Spatial context of gene expression within tumors.,True,
-Who studies pancreatic cancer at Moffitt?,Clinical and translational research in pancreatic disease.,True,
-Melanoma researchers and their projects,"Molecular drivers, therapy resistance, and treatment strategies in melanoma.",True,
-Breast cancer immunotherapy experts,"Checkpoint blockade, cellular therapies, and biomarkers in breast cancer.",True,
-Lung cancer early detection researchers,"Screening, biomarkers, and risk models for early lung cancer.",True,
-"GI oncology investigators (e.g., Jose Pimiento)",GI cancers; surgical and multidisciplinary management.,True,
-Collaborations between Biostatistics and Epidemiology,"Joint methods, risk modeling, and outcomes research.",True,
-Who collaborates with Jeremy Goecks on computational projects?,"Computational collaborations on methods, datasets, and tooling.",True,
-Joint work between radiology and bioengineering,Co‑development of imaging pipelines and quantitative metrics.,True,
-Cross-program projects involving Frederick Locke,Adoptive cell therapies and trial‑linked correlative studies.,True,
-Interdepartmental grants involving Anna Giuliano,"HPV, screening, and prevention program collaborations.",True,
-Most cited works by John Cleveland,Selected reviews and primary research with high citation counts.,True,
-Recent clinical trials led by Matthew Schabath,Recent or ongoing trials with associated biomarkers and endpoints.,True,
-Key findings from Dorina Avram’s lab,"Immune regulation, signaling pathways, and disease models.",True,
-Software tools published by Jeremy Goecks’ group,"Pipelines, benchmarks, and software for computational oncology.",True,
-Patents or translational outcomes from Vince Luca,Disclosures on biomarker assays and therapeutic applications.,True,
-Who is program leader for Immunology?,See program leadership listings in Immunology.,True,
-Does Jennifer Binning take graduate students?,Check the lab or program page for trainee openings.,True,
-Lab website and profile for Keiran Smalley,See his official profile for publications and contact.,True,
-Who supervises postdocs in cancer metabolism?,Multiple PIs; see metabolism‑focused labs and open positions.,True,
-Email/contact for Peter Kanetsky’s lab,Contact details listed on the lab or program page.,True,
-Public datasets released by Moffitt researchers,"Links via publications, data repositories, and lab sites.",True,
-Benchmark cohorts used in epidemiology studies,Described in methods sections and study protocols.,True,
-Code repositories from computational oncology groups,GitHub/Bitbucket links from labs and methods papers.,True,
-Imaging datasets associated with Hatem Soliman’s work,Imaging cohorts from trials and observational studies.,True,
-Where to find protocol or methods supplements,Supplementary files attached to publications or lab resources.,True,
+question,answer,category,difficulty
+"What are Alexander Anderson's research interests?","Alexander Anderson focuses on developing integrated mathematical models of cancer with both predictive and therapeutic applications. His work examines tumor-microenvironment interactions, cancer evolution, and the multiscale nature of cancer using Hybrid-Discrete Continuum models.",research_interests,easy
+"Which researchers work in the Integrated Mathematical Oncology department?","Researchers in the Integrated Mathematical Oncology department include Alexander Anderson and Joel Brown, among others.",department,medium
+"What is Anna Giuliano's primary research focus?","Anna Giuliano's research centers on HPV infections and their relationship to various cancers, including cervical, penile, anal, and oral cancers. She is the founding director of the Center for Immunization and Infection Research in Cancer (CIIRC).",research_interests,easy
+"Who has published research on melanoma at Moffitt?","Keiran Smalley has published extensively on melanoma, focusing on various subtypes including cutaneous, acral, pediatric, and uveal melanomas, as well as melanoma brain metastases.",publications,medium
+"What grants does Eric Haura have from the National Cancer Institute?","Eric Haura has multiple NCI grants including ones focused on developing CDK12 inhibitors for therapy resistance, identifying metabolic vulnerabilities in lung cancer, and overcoming resistance to KRAS inhibitors.",grants,medium
+"Where did Matthew Schabath receive his PhD?","Matthew Schabath received his PhD from the University of Texas School of Public Health.",education,easy
+"Which researchers focus on lung cancer research?","Researchers focusing on lung cancer include Eric Haura (Thoracic Oncology), Matthew Schabath (Cancer Epidemiology), and Alberto Chiappori (Thoracic Oncology).",cancer_type,medium
+"What is Joel Brown's educational background?","Joel Brown received his PhD from the University of Arizona.",education,easy
+"Who is affiliated with the Cancer Epidemiology Program?","Researchers affiliated with the Cancer Epidemiology Program include Anna Giuliano and Matthew Schabath, among others.",associations,medium
+"What recent publications has Alexander Anderson authored?","Recent publications by Alexander Anderson include work on adaptive therapy timing, evolutionary double-bind treatment in prostate cancer, and spatial interactions modulating tumor growth and immune infiltration.",publications,medium
+"Which researchers have both MD and PhD degrees?","Matthew Schabath has both MD and PhD degrees. Ahmad Tarhini also has both MD and PhD degrees.",education,medium
+"What is Keiran Smalley's research on uveal melanoma?","Keiran Smalley's research on uveal melanoma focuses on understanding liver tropism and developing therapeutic strategies. His work investigates why 50% of patients develop liver metastasis and uses advanced in vivo models and scRNA-Seq.",research_interests,hard
+"Who works in the Drug Discovery department?","Eric Haura works in the Drug Discovery department, focusing on kinase signaling pathways and biomarkers in lung cancer.",department,easy
+"What is Matthew Schabath's expertise in quantitative imaging?","Matthew Schabath is a co-developer of radiomics/quantitative imaging approaches using artificial intelligence to analyze medical images for biomarker development across the cancer care continuum, including risk prediction, early detection, and patient outcomes.",research_interests,hard
+"Which researchers collaborate on evolutionary cancer research?","Alexander Anderson and Joel Brown collaborate on evolutionary cancer research, applying ecological and evolutionary principles to understanding and treating cancer.",cross_cutting,hard
+"What is the focus of Anna Giuliano's ORAL-H study?","The ORAL-H study (Oral HPV Research Among Latin Americans Living with HIV) investigates oral HPV infections and vaccine efficacy in preventing oropharyngeal cancer among people living with HIV.",grants,hard
+"Who is associated with the Melanoma & Skin Cancer Center of Excellence?","Researchers associated with the Melanoma & Skin Cancer Center of Excellence include Keiran Smalley, Alexander Anderson, Joel Brown, and Eric Haura.",associations,medium
+"What methodologies does Alexander Anderson use in his research?","Alexander Anderson uses mathematical modeling techniques including Hybrid-Discrete Continuum (HDC) models, individual-based models, and continuum approaches to capture cancer complexity at multiple scales.",research_interests,medium
+"Which researchers have grants from the Florida Department of Health?","Researchers with Florida Department of Health grants include Alexander Anderson, Anna Giuliano (though primarily NCI), Eric Haura, Matthew Schabath, and Keiran Smalley.",grants,hard
+"What is Eric Haura's clinical interest?","Eric Haura's clinical interests include lung cancer, particularly non-small cell lung cancer, novel signal transduction inhibitors, and special interest in management of lifelong non-smokers with lung cancer.",research_interests,medium
+"Who studies HPV-related cancers?","Anna Giuliano studies HPV-related cancers extensively, focusing on cervical, penile, anal, and oropharyngeal cancers in both men and women.",cancer_type,easy
+"What is Joel Brown's approach to cancer research?","Joel Brown applies ecological and evolutionary principles to understand cancer, viewing tumors through ecosystem dynamics and adaptations. He works on adaptive therapy strategies for metastatic cancers.",research_interests,medium
+"Which researchers work on immunotherapy?","Researchers working on immunotherapy include Keiran Smalley (immune checkpoint inhibitors, CAR-T therapies), Ahmad Tarhini (melanoma immunotherapy), and Anna Giuliano (therapeutic vaccines for HPV).",research_interests,hard
+"What is the Center for Immunization & Infection Research in Cancer?","The Center for Immunization & Infection Research in Cancer (CIIRC) is founded and directed by Anna Giuliano, focusing on infection-related cancers, particularly HPV-associated malignancies.",associations,medium
+"Who has published in Nature Medicine?","Alexander Anderson published in Nature Medicine on oncolytic immunotherapy with nivolumab in bladder cancer. Eric Haura also has publications in Nature Medicine on neoadjuvant atezolizumab for NSCLC.",publications,hard
+"What is Matthew Schabath's work on LGBTQ health equity?","Matthew Schabath leads research on cancer care disparities among LGBTQ/SGM populations. He co-developed the COLORS curriculum for oncologists and led implementation of SOGI data collection at Moffitt, which has been disclosed by over 150,000 patients.",research_interests,hard
+"Which researchers focus on prostate cancer?","Joel Brown and Alexander Anderson collaborate on prostate cancer research, particularly on adaptive therapy for metastatic castrate-resistant prostate cancer.",cancer_type,medium
+"What grants does Keiran Smalley have on melanoma?","Keiran Smalley has multiple grants on melanoma including NCI R01 grants on epigenetic plasticity-driven drug resistance, uveal melanoma liver metastasis, and PROTAC development, plus grants from the Melanoma Research Alliance.",grants,hard
+"Who trained at Duke University?","Eric Haura completed his medical training at Duke University School of Medicine and his fellowship at Duke University Medical Center.",education,medium
+"What is the focus of the Cancer Biology & Evolution Program?","The Cancer Biology & Evolution Program, which includes Alexander Anderson and Joel Brown, focuses on applying evolutionary and ecological principles to understand cancer progression and develop adaptive therapy strategies.",associations,hard
+"Which researchers work on KRAS mutations?","Eric Haura works on KRAS mutations in lung cancer, developing strategies to overcome resistance to KRAS inhibitors. Keiran Smalley works on NRAS-mutant melanoma with pan-RAS inhibitors.",research_interests,hard
+"What is Anna Giuliano's contribution to HPV vaccine research?","Anna Giuliano's work has significantly contributed to understanding HPV infection acquisition, clearance, and progression rates, as well as HPV vaccine protection against multiple diseases in both women and men. She leads international clinical trials testing vaccine efficacy.",research_interests,hard
+"Who collaborates with Robert Gatenby?","Alexander Anderson and Joel Brown both collaborate with Robert Gatenby on evolutionary and ecological approaches to cancer treatment.",cross_cutting,medium
+"What is the Moffitt Lung Cancer Center of Excellence?","The Lung Cancer Center of Excellence at Moffitt includes researchers like Eric Haura and Matthew Schabath who conduct comprehensive lung cancer research from basic science to clinical trials.",associations,medium
+"Which researchers use single-cell RNA sequencing?","Keiran Smalley utilizes single-cell RNA-Seq (scRNA-Seq) to investigate melanoma subtypes, immune environments, and metastatic mechanisms.",research_interests,medium
+"What is Matthew Schabath's h-index?","Matthew Schabath has an h-index of 67 with over 22,000 citations and has published over 230 peer-reviewed papers.",publications,easy
+"Who works on brain metastases?","Keiran Smalley works on melanoma brain metastases, developing novel immune checkpoint inhibitor combinations and characterizing the immune-tumor interactions in brain metastases.",cancer_type,medium
+"What American Cancer Society grants are at Moffitt?","Matthew Schabath has American Cancer Society grants on pre- and post-diagnosis metformin use in ovarian cancer survival and landscape of lung cancer survivorship. Anna Giuliano has ACS funding for prevention of infection-related cancers.",grants,hard
+"Which researchers focus on tumor microenvironment?","Keiran Smalley (department: Tumor Microenvironment and Metastasis) focuses on host-tumor interactions, immune environment, and epigenetic modifications in melanoma.",research_interests,medium
+"What is Joel Brown's work on adaptive therapy?","Joel Brown is part of a team examining the efficacy of adaptive therapy for late-stage metastatic castrate-resistant prostate cancer, including Phase I and Phase II clinical trials.",research_interests,hard
+"Who has grants from the Department of Defense?","Joel Brown has Department of Defense grants on the polyaneuploid cancer cell state and multitherapy resistance in cancer.",grants,medium
+"What is Eric Haura's work on dasatinib?","Eric Haura's group used chemical proteomics and immunoaffinity purification to identify nearly 40 different kinase targets of dasatinib in lung cancer cells, providing a system-level view of drug action.",research_interests,hard
+"Which researchers are Principal Investigators on multiple NCI grants?","Researchers serving as PI on multiple NCI grants include Alexander Anderson, Anna Giuliano, Matthew Schabath, Keiran Smalley, and Eric Haura.",grants,hard
+"What is the focus of the Molecular Medicine Program?","The Molecular Medicine Program includes researchers like Eric Haura (thoracic oncology), Keiran Smalley (melanoma), and Alberto Chiappori, focusing on molecular-targeted therapies and biomarker development.",associations,hard
+"Who works on cancer prevention and screening?","Anna Giuliano works extensively on cancer prevention through HPV vaccination and screening. Matthew Schabath works on lung cancer screening and early detection using radiomics.",research_interests,medium
+"What collaborative grants involve multiple Moffitt researchers?","The pediatric Evolutionary Tumor Board grant (pedsETB) involves Alexander Anderson, Joel Brown, and Andriy Marusyk. The Delta Ecology of NSCLC Treatment grant involves Alexander Anderson and Robert Gatenby.",grants,hard
+"Which researchers published in 2025?","Multiple researchers published in 2025 including Alexander Anderson (adaptive therapy, evolutionary double-bind), Anna Giuliano (HPV studies), Matthew Schabath (radiomics), Eric Haura (KRAS inhibitors), and Keiran Smalley (NR4A1, uveal melanoma).",publications,hard
+"What is Keiran Smalley's work on PROTAC technology?","Keiran Smalley is developing PROTAC (PROteolysis TArgeting Chimera) technology to create novel inhibitors aimed at modulating immune responses, including targeting NR4A1 for cancer immunotherapy.",research_interests,hard
+"Who studies cancer health disparities?","Matthew Schabath conducts extensive research on cancer health disparities, particularly among LGBTQ/SGM populations, including provider education, SOGI data collection, and implementation science.",research_interests,medium
+"What international collaborations does Anna Giuliano have?","Anna Giuliano leads international studies in Brazil, Mexico, and Puerto Rico for HPV-associated cancer prevention in people living with HIV, as well as the BROADEN Africa Study on HPV-related head and neck cancers.",cross_cutting,hard

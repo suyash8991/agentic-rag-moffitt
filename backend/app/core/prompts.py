@@ -27,7 +27,9 @@ AGENT_PROMPT_TEMPLATE = """
 ==========================
 TOOL ACCESS
 ==========================
-You can use these tools:
+You have access to the following tools: {tool_names}
+
+Tool Details:
 {tools}
 
 Use them ONLY with this structure:
