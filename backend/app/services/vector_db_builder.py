@@ -95,11 +95,251 @@ def load_all_researcher_profiles(processed_dir: Path) -> List[Dict[str, Any]]:
     return profiles
 
 
+class ResearcherChunkBuilder:
+    """Builds chunks from researcher profiles with specialized methods for each chunk type."""
+
+    def __init__(self, profile: Dict[str, Any], chunk_size: int = 1024):
+        """
+        Initialize the chunk builder.
+
+        Args:
+            profile: Researcher profile dictionary
+            chunk_size: Maximum size for variable-length chunks
+        """
+        self.profile = profile
+        self.chunk_size = chunk_size
+
+        # Extract common fields
+        self.researcher_id = profile.get("researcher_id", "unknown")
+        self.researcher_name = profile.get("researcher_name", "Unknown")
+        self.primary_program = profile.get("primary_program")
+        self.department = profile.get("department")
+        self.profile_url = profile.get("profile_url", "")
+        self.research_interests = profile.get("research_interests", [])
+
+        # Generate unique prefix for chunk IDs
+        self.prefix = self._generate_chunk_prefix()
+
+    def _generate_chunk_prefix(self) -> str:
+        """Generate unique prefix for chunk IDs."""
+        unique_data = f"{self.researcher_name}_{self.profile_url}_{self.primary_program or ''}_{self.department or ''}"
+        if not unique_data.strip('_'):
+            unique_data = f"profile_{datetime.now().timestamp()}"
+
+        unique_hash = hashlib.md5(unique_data.encode()).hexdigest()[:8]
+
+        if self.researcher_id == "unknown":
+            return f"researcher_{unique_hash}_"
+        return f"{self.researcher_id}_{unique_hash[:4]}_"
+
+    def build_all_chunks(self) -> List[ResearcherChunk]:
+        """
+        Build all chunks for the researcher profile.
+
+        Returns:
+            List[ResearcherChunk]: All created chunks
+        """
+        chunks = []
+        chunks.append(self._build_core_chunk())
+
+        interests_chunk = self._build_interests_chunk()
+        if interests_chunk:
+            chunks.append(interests_chunk)
+
+        chunks.extend(self._build_publication_chunks())
+        chunks.extend(self._build_grant_chunks())
+
+        logger.debug(f"Created {len(chunks)} chunks for researcher {self.researcher_name}")
+        return chunks
+
+    def _build_core_chunk(self) -> ResearcherChunk:
+        """Build core information chunk."""
+        core_parts = [f"Name: {self.researcher_name}"]
+
+        # Add degrees
+        degrees = self.profile.get("degrees", [])
+        if degrees:
+            core_parts[0] += f" ({', '.join(degrees)})"
+
+        # Add title
+        title = self.profile.get("title", "")
+        if title:
+            core_parts.append(f"Title: {title}")
+
+        # Add program and department
+        if self.primary_program:
+            core_parts.append(f"Program: {self.primary_program}")
+        if self.department:
+            core_parts.append(f"Department: {self.department}")
+
+        # Add overview
+        overview = self.profile.get("overview", "")
+        if overview:
+            core_parts.append(f"Overview: {overview}")
+
+        # Add education
+        education = self.profile.get("education", [])
+        if education:
+            edu_lines = ["Education:"]
+            for edu in education:
+                edu_type = edu.get("type", "")
+                institution = edu.get("institution", "")
+                specialty = edu.get("specialty", "")
+                degree = edu.get("degree", "")
+
+                parts = [f"  - {edu_type} at {institution}"]
+                if degree:
+                    parts.append(f", Degree: {degree}")
+                if specialty:
+                    parts.append(f", Specialty: {specialty}")
+
+                edu_lines.append("".join(parts))
+
+            core_parts.extend(edu_lines)
+
+        core_text = "\n".join(core_parts)
+
+        return ResearcherChunk(
+            chunk_id=f"{self.prefix}core",
+            text=core_text,
+            researcher_id=self.researcher_id,
+            researcher_name=self.researcher_name,
+            program=self.primary_program,
+            department=self.department,
+            research_interests=self.research_interests,
+            chunk_type="core",
+            profile_url=self.profile_url
+        )
+
+    def _build_interests_chunk(self) -> Optional[ResearcherChunk]:
+        """Build research interests chunk."""
+        if not self.research_interests:
+            return None
+
+        interests_text = "Research Interests:\n" + "\n".join([f"- {interest}" for interest in self.research_interests])
+
+        return ResearcherChunk(
+            chunk_id=f"{self.prefix}interests",
+            text=interests_text,
+            researcher_id=self.researcher_id,
+            researcher_name=self.researcher_name,
+            program=self.primary_program,
+            department=self.department,
+            research_interests=self.research_interests,
+            chunk_type="interests",
+            profile_url=self.profile_url
+        )
+
+    def _build_publication_chunks(self) -> List[ResearcherChunk]:
+        """Build publication chunks (may span multiple chunks if large)."""
+        publications = self.profile.get("publications", [])
+        if not publications:
+            return []
+
+        # Format all publications
+        formatted_pubs = []
+        for pub in publications:
+            pub_lines = [f"Title: {pub.get('title', 'Untitled')}"]
+
+            if pub.get('authors'):
+                pub_lines.append(f"Authors: {pub['authors']}")
+            if pub.get('journal'):
+                pub_lines.append(f"Journal: {pub['journal']}")
+            if pub.get('year'):
+                pub_lines.append(f"Year: {pub['year']}")
+            if pub.get('pubmed_id'):
+                pub_lines.append(f"PubMed ID: {pub['pubmed_id']}")
+
+            formatted_pubs.append("\n".join(pub_lines))
+
+        # Split into size-appropriate chunks
+        pub_chunk_texts = self._split_into_chunks(formatted_pubs)
+
+        # Create ResearcherChunk objects
+        chunks = []
+        for i, chunk_text in enumerate(pub_chunk_texts):
+            chunk = ResearcherChunk(
+                chunk_id=f"{self.prefix}pubs_{i}",
+                text=f"Publications:\n\n{chunk_text}",
+                researcher_id=self.researcher_id,
+                researcher_name=self.researcher_name,
+                program=self.primary_program,
+                department=self.department,
+                research_interests=self.research_interests,
+                chunk_type="publications",
+                profile_url=self.profile_url
+            )
+            chunks.append(chunk)
+
+        return chunks
+
+    def _build_grant_chunks(self) -> List[ResearcherChunk]:
+        """Build grant chunks (may span multiple chunks if large)."""
+        grants = self.profile.get("grants", [])
+        if not grants:
+            return []
+
+        # Extract grant descriptions
+        grant_descriptions = [grant.get("description", "") for grant in grants if grant.get("description")]
+
+        # Split into size-appropriate chunks
+        grant_chunk_texts = self._split_into_chunks(grant_descriptions)
+
+        # Create ResearcherChunk objects
+        chunks = []
+        for i, chunk_text in enumerate(grant_chunk_texts):
+            chunk = ResearcherChunk(
+                chunk_id=f"{self.prefix}grants_{i}",
+                text=f"Grants:\n\n{chunk_text}",
+                researcher_id=self.researcher_id,
+                researcher_name=self.researcher_name,
+                program=self.primary_program,
+                department=self.department,
+                research_interests=self.research_interests,
+                chunk_type="grants",
+                profile_url=self.profile_url
+            )
+            chunks.append(chunk)
+
+        return chunks
+
+    def _split_into_chunks(self, items: List[str]) -> List[str]:
+        """
+        Split a list of text items into size-appropriate chunks.
+
+        Args:
+            items: List of text items to chunk
+
+        Returns:
+            List[str]: List of combined chunk texts
+        """
+        result_chunks = []
+        current_chunk = []
+        current_size = 0
+
+        for item in items:
+            # Check if adding this item exceeds chunk size
+            if current_size + len(item) > self.chunk_size and current_chunk:
+                result_chunks.append("\n\n".join(current_chunk))
+                current_chunk = []
+                current_size = 0
+
+            current_chunk.append(item)
+            current_size += len(item)
+
+        # Add remaining items
+        if current_chunk:
+            result_chunks.append("\n\n".join(current_chunk))
+
+        return result_chunks
+
+
 def create_researcher_chunks(profile: Dict[str, Any], chunk_size: int = 1024) -> List[ResearcherChunk]:
     """
     Create chunks from a researcher profile for embedding.
 
-    Implements the chunking strategy:
+    This function uses ResearcherChunkBuilder to create structured chunks
+    following the chunking strategy:
     - core: Basic information (name, title, program, department, overview, education)
     - interests: Research interests
     - publications: Publications (may span multiple chunks)
@@ -112,200 +352,8 @@ def create_researcher_chunks(profile: Dict[str, Any], chunk_size: int = 1024) ->
     Returns:
         List of ResearcherChunk objects
     """
-    chunks = []
-
-    # Extract key fields
-    researcher_id = profile.get("researcher_id", "unknown")
-    researcher_name = profile.get("researcher_name", "Unknown")
-    primary_program = profile.get("primary_program")
-    department = profile.get("department")
-    profile_url = profile.get("profile_url", "")
-    research_interests = profile.get("research_interests", [])
-
-    # Create unique hash for chunk IDs
-    unique_data = f"{researcher_name}_{profile_url}_{primary_program or ''}_{department or ''}"
-    if not unique_data.strip('_'):
-        unique_data = f"profile_{datetime.now().timestamp()}"
-
-    unique_hash = hashlib.md5(unique_data.encode()).hexdigest()[:8]
-
-    # Create prefix for chunk IDs
-    if researcher_id == "unknown":
-        prefix = f"researcher_{unique_hash}_"
-    else:
-        prefix = f"{researcher_id}_{unique_hash[:4]}_"
-
-    # 1. CORE INFORMATION CHUNK
-    core_parts = [
-        f"Name: {researcher_name}",
-    ]
-
-    # Add degrees if available
-    degrees = profile.get("degrees", [])
-    if degrees:
-        core_parts[0] += f" ({', '.join(degrees)})"
-
-    # Add title
-    title = profile.get("title", "")
-    if title:
-        core_parts.append(f"Title: {title}")
-
-    # Add program and department
-    if primary_program:
-        core_parts.append(f"Program: {primary_program}")
-
-    if department:
-        core_parts.append(f"Department: {department}")
-
-    # Add overview
-    overview = profile.get("overview", "")
-    if overview:
-        core_parts.append(f"Overview: {overview}")
-
-    # Add education information
-    education = profile.get("education", [])
-    if education:
-        edu_lines = ["Education:"]
-        for edu in education:
-            edu_type = edu.get("type", "")
-            institution = edu.get("institution", "")
-            specialty = edu.get("specialty", "")
-            degree = edu.get("degree", "")
-
-            parts = [f"  - {edu_type} at {institution}"]
-            if degree:
-                parts.append(f", Degree: {degree}")
-            if specialty:
-                parts.append(f", Specialty: {specialty}")
-
-            edu_lines.append("".join(parts))
-
-        core_parts.extend(edu_lines)
-
-    core_text = "\n".join(core_parts)
-
-    core_chunk = ResearcherChunk(
-        chunk_id=f"{prefix}core",
-        text=core_text,
-        researcher_id=researcher_id,
-        researcher_name=researcher_name,
-        program=primary_program,
-        department=department,
-        research_interests=research_interests,
-        chunk_type="core",
-        profile_url=profile_url
-    )
-    chunks.append(core_chunk)
-
-    # 2. RESEARCH INTERESTS CHUNK
-    if research_interests:
-        interests_text = "Research Interests:\n" + "\n".join([f"- {interest}" for interest in research_interests])
-
-        interests_chunk = ResearcherChunk(
-            chunk_id=f"{prefix}interests",
-            text=interests_text,
-            researcher_id=researcher_id,
-            researcher_name=researcher_name,
-            program=primary_program,
-            department=department,
-            research_interests=research_interests,
-            chunk_type="interests",
-            profile_url=profile_url
-        )
-        chunks.append(interests_chunk)
-
-    # 3. PUBLICATIONS CHUNKS
-    publications = profile.get("publications", [])
-    if publications:
-        pub_chunks = []
-        current_chunk = []
-        current_size = 0
-
-        for pub in publications:
-            pub_lines = [f"Title: {pub.get('title', 'Untitled')}"]
-
-            if pub.get('authors'):
-                pub_lines.append(f"Authors: {pub['authors']}")
-
-            if pub.get('journal'):
-                pub_lines.append(f"Journal: {pub['journal']}")
-
-            if pub.get('year'):
-                pub_lines.append(f"Year: {pub['year']}")
-
-            if pub.get('pubmed_id'):
-                pub_lines.append(f"PubMed ID: {pub['pubmed_id']}")
-
-            pub_text = "\n".join(pub_lines)
-
-            # Check if adding this publication exceeds chunk size
-            if current_size + len(pub_text) > chunk_size and current_chunk:
-                pub_chunks.append("\n\n".join(current_chunk))
-                current_chunk = []
-                current_size = 0
-
-            current_chunk.append(pub_text)
-            current_size += len(pub_text)
-
-        # Add remaining publications
-        if current_chunk:
-            pub_chunks.append("\n\n".join(current_chunk))
-
-        # Create chunks
-        for i, chunk_text in enumerate(pub_chunks):
-            pub_chunk = ResearcherChunk(
-                chunk_id=f"{prefix}pubs_{i}",
-                text=f"Publications:\n\n{chunk_text}",
-                researcher_id=researcher_id,
-                researcher_name=researcher_name,
-                program=primary_program,
-                department=department,
-                research_interests=research_interests,
-                chunk_type="publications",
-                profile_url=profile_url
-            )
-            chunks.append(pub_chunk)
-
-    # 4. GRANTS CHUNKS
-    grants = profile.get("grants", [])
-    if grants:
-        grant_chunks = []
-        current_chunk = []
-        current_size = 0
-
-        for grant in grants:
-            grant_text = grant.get("description", "")
-
-            # Check if adding this grant exceeds chunk size
-            if current_size + len(grant_text) > chunk_size and current_chunk:
-                grant_chunks.append("\n\n".join(current_chunk))
-                current_chunk = []
-                current_size = 0
-
-            current_chunk.append(grant_text)
-            current_size += len(grant_text)
-
-        # Add remaining grants
-        if current_chunk:
-            grant_chunks.append("\n\n".join(current_chunk))
-
-        # Create chunks
-        for i, chunk_text in enumerate(grant_chunks):
-            grant_chunk = ResearcherChunk(
-                chunk_id=f"{prefix}grants_{i}",
-                text=f"Grants:\n\n{chunk_text}",
-                researcher_id=researcher_id,
-                researcher_name=researcher_name,
-                program=primary_program,
-                department=department,
-                research_interests=research_interests,
-                chunk_type="grants",
-                profile_url=profile_url
-            )
-            chunks.append(grant_chunk)
-
-    logger.debug(f"Created {len(chunks)} chunks for researcher {researcher_name}")
-    return chunks
+    builder = ResearcherChunkBuilder(profile, chunk_size)
+    return builder.build_all_chunks()
 
 
 def create_vector_db(chunks: List[ResearcherChunk], vector_db_dir: Path, collection_name: str) -> Chroma:
