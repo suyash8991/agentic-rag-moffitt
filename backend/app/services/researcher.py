@@ -1,8 +1,13 @@
 """
-Researcher services.
+Researcher services (DEPRECATED).
 
-This module provides functions for working with researcher data,
-including loading, filtering, and transforming researcher profiles.
+DEPRECATED: This module has been refactored to follow the Repository Pattern.
+Please use:
+- app.repositories.researcher_repository for data access
+- app.services.researcher_service for business logic
+- app.api.dependencies.get_researcher_service() for dependency injection
+
+This file is kept for backward compatibility and will be removed in a future version.
 """
 
 import os

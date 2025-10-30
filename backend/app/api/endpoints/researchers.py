@@ -2,6 +2,7 @@
 Researcher API endpoints.
 
 This module provides endpoints for retrieving researcher information.
+Uses dependency injection for the researcher service.
 """
 
 from typing import List, Optional
@@ -10,13 +11,7 @@ from pydantic import BaseModel
 
 from ...models.researcher import ResearcherList, ResearcherProfileSummary, ResearcherProfileDetail
 from ...core.security import get_api_key
-from ..dependencies import common_parameters
-from ...services.researcher import (
-    get_researcher_by_id,
-    list_researchers,
-    list_departments,
-    list_programs,
-)
+from ..dependencies import common_parameters, ResearcherServiceDep
 
 router = APIRouter()
 
@@ -33,6 +28,7 @@ class ProgramList(BaseModel):
 
 @router.get("/researchers", response_model=ResearcherList)
 async def read_researchers(
+    service: ResearcherServiceDep,
     commons: dict = Depends(common_parameters),
     department: Optional[str] = None,
     program: Optional[str] = None,
@@ -42,6 +38,7 @@ async def read_researchers(
     Retrieve a list of researchers with optional filtering.
 
     Args:
+        service: Injected researcher service
         commons: Common pagination parameters
         department: Optional department filter
         program: Optional program filter
@@ -51,7 +48,7 @@ async def read_researchers(
         ResearcherList: List of researchers with pagination info
     """
     try:
-        researchers = list_researchers(
+        researchers = service.list_researchers(
             skip=commons["skip"],
             limit=commons["limit"],
             department=department,
@@ -65,6 +62,7 @@ async def read_researchers(
 @router.get("/researchers/{researcher_id}", response_model=ResearcherProfileDetail)
 async def read_researcher(
     researcher_id: str,
+    service: ResearcherServiceDep,
     api_key: str = Depends(get_api_key),
 ):
     """
@@ -72,12 +70,13 @@ async def read_researcher(
 
     Args:
         researcher_id: ID of the researcher
+        service: Injected researcher service
         api_key: API key for authentication
 
     Returns:
         ResearcherProfileDetail: Detailed researcher profile
     """
-    researcher = get_researcher_by_id(researcher_id)
+    researcher = service.get_researcher_by_id(researcher_id)
     if researcher is None:
         raise HTTPException(status_code=404, detail=f"Researcher {researcher_id} not found")
     return researcher
@@ -85,19 +84,21 @@ async def read_researcher(
 
 @router.get("/departments", response_model=DepartmentList)
 async def read_departments(
+    service: ResearcherServiceDep,
     api_key: str = Depends(get_api_key),
 ):
     """
     Retrieve a list of all departments.
 
     Args:
+        service: Injected researcher service
         api_key: API key for authentication
 
     Returns:
         DepartmentList: List of department names
     """
     try:
-        departments = list_departments()
+        departments = service.list_departments()
         return {"departments": departments}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -105,19 +106,21 @@ async def read_departments(
 
 @router.get("/programs", response_model=ProgramList)
 async def read_programs(
+    service: ResearcherServiceDep,
     api_key: str = Depends(get_api_key),
 ):
     """
     Retrieve a list of all research programs.
 
     Args:
+        service: Injected researcher service
         api_key: API key for authentication
 
     Returns:
         ProgramList: List of program names
     """
     try:
-        programs = list_programs()
+        programs = service.list_programs()
         return {"programs": programs}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
