@@ -62,17 +62,14 @@ def create_researcher_agent(
 
         # Create the prompt
         logger.info("Creating agent prompt template")
-        # Extract tool names as a list for the tool_names variable
-        tool_names = [tool.name for tool in tools]
+
 
         prompt = PromptTemplate.from_template(
             template=AGENT_PROMPT_TEMPLATE,
             partial_variables={
                 "system_message": DEFAULT_SYSTEM_PROMPT,
-                "tool_names": ", ".join(tool_names)
             }
         )
-        logger.info(f"Agent prompt template created successfully with tools: {tool_names}")
 
         # Create the agent
         logger.info("Creating the agent with LangChain's create_react_agent")
