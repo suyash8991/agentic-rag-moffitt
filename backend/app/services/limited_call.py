@@ -37,12 +37,13 @@ class LimitedCallAgentExecutor:
         self.calls_counter = 0
         self.intermediate_results = []
 
-    def invoke(self, input_data: Dict[str, Any]) -> Dict[str, Any]:
+    def invoke(self, input_data: Dict[str, Any], config: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
         """
         Invoke the agent with a limited number of LLM calls.
 
         Args:
             input_data: The input data for the agent
+            config: Optional configuration dict (for LangSmith metadata, tags, etc.)
 
         Returns:
             Dict[str, Any]: The agent's response
@@ -95,8 +96,11 @@ class LimitedCallAgentExecutor:
             # Replace the _take_next_step method
             self.agent_executor._take_next_step = limited_take_next_step
 
-            # Invoke the agent
-            response = self.agent_executor.invoke(input_data)
+            # Invoke the agent with config if provided
+            if config:
+                response = self.agent_executor.invoke(input_data, config=config)
+            else:
+                response = self.agent_executor.invoke(input_data)
 
             # Restore the original _take_next_step method
             self.agent_executor._take_next_step = original_take_next_step
