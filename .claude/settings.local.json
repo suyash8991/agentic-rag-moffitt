@@ -8,7 +8,8 @@
       "Bash(dir \"c:\\Coding\\Projects\\moffitt-agentic-rag\" /B)",
       "Bash(chmod:*)",
       "Bash(iconv:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
