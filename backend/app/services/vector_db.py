@@ -37,40 +37,13 @@ _db_stats = {
 # Active rebuild tasks
 _active_tasks: Dict[str, Dict[str, Any]] = {}
 
-# Cached embedding function to avoid reloading model on every query
-_cached_embedding_function = None
 
-
-def get_embedding_function():
-    """
-    Get the embedding function for the vector database.
-    Uses cached instance to avoid reloading the model on every call.
-
-    Returns:
-        HuggingFaceEmbeddings: The embedding function
-    """
-    global _cached_embedding_function
-
-    if _cached_embedding_function is None:
-        start_time = time.time()
-        logger.info(f"⏱️ [PERF] Loading embedding model (first time): {settings.EMBEDDING_MODEL_NAME}")
-        _cached_embedding_function = HuggingFaceEmbeddings(
-            model_name=settings.EMBEDDING_MODEL_NAME,
-            model_kwargs={"trust_remote_code": "true"}
-        )
-        load_time = time.time() - start_time
-        logger.info(f"⏱️ [PERF] Embedding model loaded in {load_time:.3f}s (cached for future use)")
-        if load_time > 2.0:
-            logger.warning(f"⚠️ [PERF] Slow embedding model load: {load_time:.3f}s > 2.0s threshold")
-    else:
-        logger.debug(f"✓ Using cached embedding model (no reload needed)")
-
-    return _cached_embedding_function
-
-
-def load_vector_db():
+def load_vector_db(embedding_service: "EmbeddingService" = None):
     """
     Load the vector database.
+
+    Args:
+        embedding_service: Service for managing embedding model (optional for backward compatibility)
 
     Returns:
         Optional[Chroma]: The vector database, or None if it doesn't exist
@@ -82,7 +55,13 @@ def load_vector_db():
 
     # Get the embedding function
     emb_start = time.time()
-    embedding_function = get_embedding_function()
+    if embedding_service:
+        embedding_function = embedding_service.get_embedding_function()
+    else:
+        # Fallback for backward compatibility
+        from .embedding_service import EmbeddingService
+        embedding_service = EmbeddingService()
+        embedding_function = embedding_service.get_embedding_function()
     emb_time = time.time() - emb_start
     logger.info(f"⏱️ [PERF] get_embedding_function() took {emb_time:.3f}s")
 

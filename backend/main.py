@@ -6,7 +6,8 @@ import logging
 
 from app.core.config import settings
 from app.core.security import get_api_key
-from app.services.vector_db import get_embedding_function, load_vector_db
+from app.services.vector_db import load_vector_db
+from app.api.dependencies import get_embedding_service, get_query_status_service
 
 # Import routers
 from app.api.endpoints import researchers, query
@@ -45,14 +46,20 @@ async def startup_event():
     logger.info("🚀 Starting application warmup...")
 
     try:
+        # Initialize singleton services
+        logger.info("📦 Initializing services...")
+        embedding_service = get_embedding_service()
+        query_status_service = get_query_status_service()
+        logger.info("✓ Services initialized")
+
         # Pre-load embedding model (this will cache it)
         logger.info("📦 Pre-loading embedding model...")
-        get_embedding_function()
+        embedding_service.get_embedding_function()
         logger.info("✓ Embedding model pre-loaded and cached")
 
         # Pre-load vector database (this will also use the cached embedding function)
         logger.info("📊 Pre-loading vector database...")
-        db = load_vector_db()
+        db = load_vector_db(embedding_service)
         if db:
             logger.info("✓ Vector database pre-loaded successfully")
         else:

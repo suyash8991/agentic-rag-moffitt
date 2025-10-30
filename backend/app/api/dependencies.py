@@ -13,10 +13,20 @@ from ..core.security import get_api_key
 from ..core.config import settings
 from ..repositories.researcher_repository import FileSystemResearcherRepository
 from ..services.researcher_service import ResearcherService
+from ..services.query_status_service import (
+    QueryStatusService,
+    InMemoryQueryStatusRepository
+)
+from ..services.embedding_service import EmbeddingService
 
 
 # Common dependencies
 ApiKey = Annotated[str, Depends(get_api_key)]
+
+
+# Singleton instances for services that should be shared across requests
+_query_status_service_instance = None
+_embedding_service_instance = None
 
 
 # Common parameters
@@ -58,3 +68,47 @@ def get_researcher_service() -> ResearcherService:
 
 # Typed dependency for ResearcherService
 ResearcherServiceDep = Annotated[ResearcherService, Depends(get_researcher_service)]
+
+
+def get_query_status_service() -> QueryStatusService:
+    """
+    Dependency provider for QueryStatusService.
+
+    Returns a singleton instance that is shared across all requests.
+    This ensures query status tracking persists across different API calls.
+
+    Returns:
+        QueryStatusService: Singleton service instance
+    """
+    global _query_status_service_instance
+
+    if _query_status_service_instance is None:
+        # Create repository and service on first use
+        repository = InMemoryQueryStatusRepository()
+        _query_status_service_instance = QueryStatusService(repository)
+
+    return _query_status_service_instance
+
+
+def get_embedding_service() -> EmbeddingService:
+    """
+    Dependency provider for EmbeddingService.
+
+    Returns a singleton instance that is shared across all requests.
+    This ensures the embedding model is loaded once and cached.
+
+    Returns:
+        EmbeddingService: Singleton service instance
+    """
+    global _embedding_service_instance
+
+    if _embedding_service_instance is None:
+        # Create service on first use
+        _embedding_service_instance = EmbeddingService()
+
+    return _embedding_service_instance
+
+
+# Typed dependencies for new services
+QueryStatusServiceDep = Annotated[QueryStatusService, Depends(get_query_status_service)]
+EmbeddingServiceDep = Annotated[EmbeddingService, Depends(get_embedding_service)]

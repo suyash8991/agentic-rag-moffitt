@@ -15,6 +15,7 @@ from sse_starlette.sse import EventSourceResponse
 from ...models.query import QueryRequest, QueryResponse, QueryStatus, StreamingMessage
 from ...core.security import get_api_key
 from ...services.agent import process_query, query_status
+from ..dependencies import QueryStatusServiceDep
 
 router = APIRouter()
 
@@ -25,6 +26,7 @@ active_connections: Dict[str, WebSocket] = {}
 @router.post("/query", response_model=QueryResponse)
 async def create_query(
     query_request: QueryRequest,
+    query_status_service: QueryStatusServiceDep,
     api_key: str = Depends(get_api_key),
 ):
     """
@@ -35,6 +37,7 @@ async def create_query(
 
     Args:
         query_request: Query request parameters
+        query_status_service: Injected query status service
         api_key: API key for authentication
 
     Returns:
@@ -54,6 +57,7 @@ async def create_query(
         result = await process_query(
             query_id=query_id,
             query=query_request.query,
+            query_status_service=query_status_service,
             query_type=query_request.query_type,
             streaming=False,
             max_results=query_request.max_results,
@@ -67,6 +71,7 @@ async def create_query(
 @router.get("/query/{query_id}", response_model=QueryStatus)
 async def get_query_status(
     query_id: str,
+    query_status_service: QueryStatusServiceDep,
     api_key: str = Depends(get_api_key),
 ):
     """
@@ -74,13 +79,14 @@ async def get_query_status(
 
     Args:
         query_id: ID of the query
+        query_status_service: Injected query status service
         api_key: API key for authentication
 
     Returns:
         QueryStatus: Status of the query
     """
     try:
-        status = query_status(query_id)
+        status = query_status(query_id, query_status_service)
         if status is None:
             raise HTTPException(status_code=404, detail=f"Query {query_id} not found")
         return status
@@ -93,6 +99,7 @@ async def get_query_status(
 @router.get("/query/{query_id}/stream")
 async def stream_query_response(
     query_id: str,
+    query_status_service: QueryStatusServiceDep,
     api_key: str = Depends(get_api_key),
 ):
     """
@@ -102,6 +109,7 @@ async def stream_query_response(
 
     Args:
         query_id: ID of the query
+        query_status_service: Injected query status service
         api_key: API key for authentication
 
     Returns:
@@ -110,7 +118,7 @@ async def stream_query_response(
     async def event_generator():
         try:
             # Check if the query exists
-            status = query_status(query_id)
+            status = query_status(query_id, query_status_service)
             if status is None:
                 yield {
                     "event": "error",

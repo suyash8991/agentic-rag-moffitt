@@ -30,71 +30,6 @@ from ..utils.langsmith import create_run_metadata, create_run_tags
 # Setup logging
 logger = get_logger(__name__)
 
-# In-memory store for query statuses
-# In production, this should be replaced with a database
-_query_statuses: Dict[str, Dict[str, Any]] = {}
-
-
-class QueryStatusManager:
-    """Manages query status tracking and updates."""
-
-    def __init__(self, storage: Dict[str, Dict[str, Any]]):
-        """
-        Initialize the query status manager.
-
-        Args:
-            storage: Dictionary for storing query statuses
-        """
-        self.storage = storage
-
-    def create_status(
-        self,
-        query_id: str,
-        query: str,
-        query_type: str,
-        streaming: bool,
-        max_results: int
-    ) -> None:
-        """
-        Create a new query status entry.
-
-        Args:
-            query_id: Unique query identifier
-            query: The query text
-            query_type: Type of query
-            streaming: Whether streaming is enabled
-            max_results: Maximum number of results
-        """
-        self.storage[query_id] = {
-            "query_id": query_id,
-            "status": "processing",
-            "query": query,
-            "query_type": query_type,
-            "start_time": datetime.now().isoformat(),
-            "progress": 0.0,
-            "streaming": streaming,
-            "max_results": max_results,
-        }
-
-    def update_progress(self, query_id: str, progress: float) -> None:
-        """Update query progress."""
-        if query_id in self.storage:
-            self.storage[query_id]["progress"] = progress
-
-    def mark_completed(self, query_id: str, answer: str) -> None:
-        """Mark query as completed with answer."""
-        if query_id in self.storage:
-            self.storage[query_id]["status"] = "completed"
-            self.storage[query_id]["end_time"] = datetime.now().isoformat()
-            self.storage[query_id]["answer"] = answer
-
-    def mark_error(self, query_id: str, error: str) -> None:
-        """Mark query as failed with error."""
-        if query_id in self.storage:
-            self.storage[query_id]["status"] = "error"
-            self.storage[query_id]["error"] = error
-            self.storage[query_id]["end_time"] = datetime.now().isoformat()
-
 
 class AgentResponseParser:
     """Parses agent responses and extracts structured information."""
@@ -275,6 +210,7 @@ def create_researcher_agent(
 async def process_query(
     query_id: str,
     query: str,
+    query_status_service: "QueryStatusService",
     query_type: str = "general",
     streaming: bool = False,
     max_results: int = 5,
@@ -283,12 +219,13 @@ async def process_query(
     Process a query using the Agentic RAG system.
 
     This method orchestrates the query processing workflow, delegating
-    responsibilities to specialized helper classes for status management,
+    responsibilities to specialized services for status management,
     response parsing, and error handling.
 
     Args:
         query_id: Unique ID for this query
         query: The query text
+        query_status_service: Service for managing query status (injected)
         query_type: The type of query (general, researcher, etc.)
         streaming: Whether to stream the response
         max_results: Maximum number of results to return
@@ -297,7 +234,6 @@ async def process_query(
         QueryResponse: The query response
     """
     # Initialize helper classes
-    status_manager = QueryStatusManager(_query_statuses)
     response_parser = AgentResponseParser()
     error_formatter = ErrorMessageFormatter()
 
@@ -315,8 +251,8 @@ async def process_query(
         })
 
         # Create query status
-        status_manager.create_status(query_id, query, query_type, streaming, max_results)
-        status_manager.update_progress(query_id, 0.2)
+        query_status_service.create_status(query_id, query, query_type, streaming, max_results)
+        query_status_service.update_progress(query_id, 0.2)
 
         # Validate streaming configuration
         if streaming:
@@ -329,13 +265,13 @@ async def process_query(
 
         # Invoke agent with query
         logger.info(f"Invoking agent with query: {query[:50]}...")
-        status_manager.update_progress(query_id, 0.5)
+        query_status_service.update_progress(query_id, 0.5)
 
         result = _invoke_agent_with_tracing(agent, query, query_id, query_type, max_results, streaming)
 
         logger.info("Agent invocation successful")
         logger.debug(f"Response: {str(result)[:100]}...")
-        status_manager.update_progress(query_id, 0.9)
+        query_status_service.update_progress(query_id, 0.9)
 
         # Extract and process answer
         raw_answer = result.get("output", str(result))
@@ -362,8 +298,8 @@ async def process_query(
         final_answer = response_parser.extract_final_answer(raw_answer)
 
         # Mark as completed
-        status_manager.update_progress(query_id, 1.0)
-        status_manager.mark_completed(query_id, final_answer)
+        query_status_service.update_progress(query_id, 1.0)
+        query_status_service.mark_completed(query_id, final_answer)
 
         # Return successful response
         return QueryResponse(
@@ -382,7 +318,7 @@ async def process_query(
         logger.error(f"Traceback: {traceback.format_exc()}")
 
         # Update status
-        status_manager.mark_error(query_id, str(e))
+        query_status_service.mark_error(query_id, str(e))
 
         # Format user-friendly error message
         user_message = error_formatter.format_error_message(e)
@@ -441,24 +377,15 @@ def _invoke_agent_with_tracing(
 
 
 
-def query_status(query_id: str) -> Optional[QueryStatus]:
+def query_status(query_id: str, query_status_service: "QueryStatusService") -> Optional[QueryStatus]:
     """
     Get the status of a query.
 
     Args:
         query_id: The ID of the query
+        query_status_service: Service for managing query status (injected)
 
     Returns:
         Optional[QueryStatus]: The query status, or None if not found
     """
-    if query_id not in _query_statuses:
-        return None
-
-    status = _query_statuses[query_id]
-    return QueryStatus(
-        query_id=query_id,
-        status=status["status"],
-        progress=status["progress"],
-        completed=status["status"] == "completed",
-        error=status.get("error"),
-    )
+    return query_status_service.get_status(query_id)
